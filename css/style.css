@@ -1,0 +1,68 @@
+html, body {
+  height: 100%; }
+
+#controller {
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  -webkit-user-select: none;
+  user-select: none; }
+
+#date-picker {
+  width: 800px !important; }
+  #date-picker .calDay {
+    display: none; }
+  #date-picker .calMonth .calElement {
+    font-size: 24px;
+    height: 60px; }
+
+#content {
+  font-size: 12px;
+  height: 100%; }
+
+#input, #output {
+  padding-bottom: 32768px;
+  margin-bottom: -32768px; }
+
+#input {
+  width: 60%;
+  min-height: 100%;
+  float: left;
+  margin: 0 1% 0 0;
+  border-right: 1px dotted; }
+  #input .sites {
+    border-top: 1px dotted #0b559b;
+    border-bottom: 1px dotted #0b559b; }
+
+#output {
+  float: left;
+  width: 38%;
+  height: 100%; }
+  #output .site-genre {
+    margin: 10px 0;
+    background-color: #ddd; }
+  #output .sites > p {
+    display: none; }
+  #output .sites p > a {
+    display: none; }
+
+#disable-sortable {
+  position: fixed;
+  top: 0;
+  right: 0; }
+
+.jser-tag-mark {
+  display: none; }
+
+.jser-tag-paragraph {
+  padding-left: 20px;
+  background: url("http://static.tumblr.com/yv3nh5u/2tQmk5mzu/icon-tags.png") no-repeat left top; }
+
+.jser-tag {
+  color: #aaaaaa; }
+
+.jser-tag:after {
+  content: ","; }
+
+.jser-tag:last-child:after {
+  content: ""; }
