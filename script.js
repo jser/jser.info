@@ -8,6 +8,7 @@ $(function (){
     function format0(str, len){
         return ('_' + Math.pow(10, len) + str).slice(-len);
     }
+
     var calendarPicker = $("#date-picker").calendarPicker({
         monthNames: ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月'],
         dayNames: ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
@@ -41,7 +42,12 @@ $(function (){
         function disableSortable(){
             $(".connectedSortable").sortable("disable");
             $(".connectedSortable, .site-genre").enableSelection();
-            $("#output").find("> .sites").removeAttr("class");
+            var $output = $("#output");
+            $output.find(".sites > blockquote").each(function (index, value){
+                var url = $(value).attr("cite");
+                model.setItem(url, new Date());
+            });
+            $output.find("> .sites").removeAttr("class");
         }
 
         function enableSortable(){
@@ -54,6 +60,27 @@ $(function (){
         $("#disable-sortable").on("click", disableSortable);
 
         return sortable;
+    })();
+
+    var model = (function (){
+        function hasItem(key){
+            var item = localStorage.getItem(key);
+            return item && item.length > 0;
+        }
+
+        function getItem(key){
+            return localStorage.getItem(key);
+        }
+
+        function setItem(key, value){
+            localStorage.setItem(key, value);
+        }
+
+        return {
+            hasItem: hasItem,
+            getItem: getItem,
+            setItem: setItem
+        };
     })();
 
     var JSONArticle = {
@@ -71,10 +98,17 @@ $(function (){
             var $input = $("#input").empty();
             var list = data["list"];
             var template = this.template();
+            var readTemplate = this.readTemplate();
             var length = list.length - 1;
             for (var i = length; i >= 0; i--) {
                 var obj = list[i];
-                var html = template(obj);
+                var html;
+                var item_url = obj["url"];
+                if (model.hasItem(item_url)) {
+                    html = readTemplate(obj);
+                } else {
+                    html = template(obj);
+                }
                 $input.append(html);
             }
             sortable.enable();
@@ -97,6 +131,16 @@ $(function (){
                 return linkedText.replace(/\n/g, "<br />");
             });
             var source = $("#article-template").html();
+            return Handlebars.compile(source);
+        },
+        readTemplate: function (){
+            Handlebars.registerHelper('auto_format', function (text){
+
+                // autolinkTwitter 内でHTMLエスケープされているためHandlebarではしない
+                var linkedText = window.autolinkTwitter(text);
+                return linkedText.replace(/\n/g, "<br />");
+            });
+            var source = $("#article-read-template").html();
             return Handlebars.compile(source);
         }
     }
