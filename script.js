@@ -8,7 +8,11 @@ $(function (){
     function format0(str, len){
         return ('_' + Math.pow(10, len) + str).slice(-len);
     }
-
+    Handlebars.registerHelper('auto_format', function (text){
+        // autolinkTwitter 内でHTMLエスケープされているためHandlebarではしない
+        var linkedText = window.autolinkTwitter(text);
+        return linkedText.replace(/\n/g, "<br />");
+    });
     var calendarPicker = $("#date-picker").calendarPicker({
         monthNames: ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月'],
         dayNames: ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
@@ -47,7 +51,9 @@ $(function (){
                 var url = $(value).attr("cite");
                 model.setItem(url, new Date());
             });
-            $output.find("> .sites").removeAttr("class");
+            var $container = $("#output .sites").replaceWith(function() {
+                return $(this).contents();
+            });
         }
 
         function enableSortable(){
@@ -124,22 +130,11 @@ $(function (){
              "date": "2013-03-24T01:42:24.124Z"
              }
              */
-            Handlebars.registerHelper('auto_format', function (text){
 
-                // autolinkTwitter 内でHTMLエスケープされているためHandlebarではしない
-                var linkedText = window.autolinkTwitter(text);
-                return linkedText.replace(/\n/g, "<br />");
-            });
             var source = $("#article-template").html();
             return Handlebars.compile(source);
         },
         readTemplate: function (){
-            Handlebars.registerHelper('auto_format', function (text){
-
-                // autolinkTwitter 内でHTMLエスケープされているためHandlebarではしない
-                var linkedText = window.autolinkTwitter(text);
-                return linkedText.replace(/\n/g, "<br />");
-            });
             var source = $("#article-read-template").html();
             return Handlebars.compile(source);
         }

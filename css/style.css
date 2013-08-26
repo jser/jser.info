@@ -53,6 +53,12 @@ html, body {
   top: 0;
   right: 0; }
 
+.jser-tag-icon {
+  padding-left: 16px;
+  background-position: left center;
+  background-image: url("http://static.tumblr.com/yv3nh5u/2tQmk5mzu/icon-tags.png");
+  background-repeat: no-repeat; }
+
 .jser-tag {
   color: #aaaaaa; }
 
