@@ -20,10 +20,6 @@ html, body {
   font-size: 12px;
   height: 100%; }
 
-#input, #output {
-  padding-bottom: 32768px;
-  margin-bottom: -32768px; }
-
 #input {
   width: 60%;
   min-height: 100%;
@@ -36,10 +32,18 @@ html, body {
   #input .read-site {
     background-color: #faf3cc; }
 
+#output {
+  position: sticky;
+  right: 10px;
+  top: 1.5rem; }
+
+.jser-output {
+  position: relative !important;
+  margin: 5px; }
+
 #output, .jser-output {
   float: left;
-  width: 38%;
-  height: 100%; }
+  width: 38%; }
   #output .site-genre, .jser-output .site-genre {
     margin: 10px 0;
     background-color: #ddd; }
