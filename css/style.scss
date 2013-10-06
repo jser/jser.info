@@ -45,13 +45,21 @@ html, body {
 
 #output {
   position: sticky;
+  max-height: 100%;
   right: 10px;
-  top: 1.5rem;
+  top: 0;
 }
 
 .jser-output {
-  position: relative!important;
+  position: relative !important;
   margin: 5px;
+}
+
+#output > .sites {
+  margin-left: 1em;
+  p, blockquote {
+    margin: 1px auto;
+  }
 }
 
 #output, .jser-output {

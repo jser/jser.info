@@ -36,6 +36,7 @@ $(function () {
                 });
         }
     });
+
     var sortable = (function () {
         // ソートを無効にするボタン
         $('#disable-sortable').button();
@@ -66,7 +67,8 @@ $(function () {
         function enableSortable() {
             $(".connectedSortable, .site-genre").sortable({
                 connectWith: ['.connectedSortable'],
-                tolerance: "pointer"
+                tolerance: "pointer",
+                dropOnEmpty : false
             }).disableSelection();
         }
 
