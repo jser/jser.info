@@ -4,11 +4,12 @@
  * License: MIT License
  */
 
-$(function (){
-    function format0(str, len){
+$(function () {
+    function format0(str, len) {
         return ('_' + Math.pow(10, len) + str).slice(-len);
     }
-    Handlebars.registerHelper('auto_format', function (text){
+
+    Handlebars.registerHelper('auto_format', function (text) {
         // autolinkTwitter 内でHTMLエスケープされているためHandlebarではしない
         var linkedText = window.autolinkTwitter(text);
         return linkedText.replace(/\n/g, "<br />");
@@ -22,20 +23,20 @@ $(function (){
         months: 4,
         //days:4,
         showDayArrows: false,
-        callback: function (cal){
+        callback: function (cal) {
             var date = cal.currentDate;
             var fileDirPath = date.getFullYear() + '/' + format0((date.getMonth() + 1), 2);
             var JSONFilePath = fileDirPath + "/index.json?" + new Date().getTime();
-            JSONArticle.load(JSONFilePath).done(function (data){
+            JSONArticle.load(JSONFilePath).done(function (data) {
                 JSONArticle.render(data);
-            }).fail(function (err){
+            }).fail(function (err) {
                     // JSONがダメならHTMLを試す
                     var HTMLFilePath = fileDirPath + "/index.html?" + new Date().getTime();
                     loadArticleHTML(HTMLFilePath);
                 });
         }
     });
-    var sortable = (function (){
+    var sortable = (function () {
         // ソートを無効にするボタン
         $('#disable-sortable').button();
         var sortable = {
@@ -43,20 +44,26 @@ $(function (){
             disable: disableSortable
         };
 
-        function disableSortable(){
+        function disableSortable() {
             $(".connectedSortable").sortable("disable");
-            $(".connectedSortable, .site-genre").enableSelection();
             var $output = $("#output");
-            $output.find(".sites > blockquote").each(function (index, value){
+            $output.find(".sites > blockquote").each(function (index, value) {
                 var url = $(value).attr("cite");
                 model.setItem(url, new Date());
             });
-            var $container = $("#output .sites").replaceWith(function() {
+            $output.find(".sites").replaceWith(function () {
                 return $(this).contents();
             });
+            // remove
+            removeIgnoreAttr($output);
+            function removeIgnoreAttr($output) {
+                $output.find(".ui-sortable").removeClass("ui-sortable");
+                $output.removeAttr("id").removeAttr("class");
+                $output.addClass("jser-output");
+            }
         }
 
-        function enableSortable(){
+        function enableSortable() {
             $(".connectedSortable, .site-genre").sortable({
                 connectWith: ['.connectedSortable'],
                 tolerance: "pointer"
@@ -68,17 +75,17 @@ $(function (){
         return sortable;
     })();
 
-    var model = (function (){
-        function hasItem(key){
+    var model = (function () {
+        function hasItem(key) {
             var item = localStorage.getItem(key);
             return item && item.length > 0;
         }
 
-        function getItem(key){
+        function getItem(key) {
             return localStorage.getItem(key);
         }
 
-        function setItem(key, value){
+        function setItem(key, value) {
             localStorage.setItem(key, value);
         }
 
@@ -90,7 +97,7 @@ $(function (){
     })();
 
     var JSONArticle = {
-        load: function loadArticleJSON(path){
+        load: function loadArticleJSON(path) {
             var defer = $.Deferred();
             $.ajax({
                 url: path,
@@ -100,7 +107,7 @@ $(function (){
             });
             return defer.promise();
         },
-        render: function render(data){
+        render: function render(data) {
             var $input = $("#input").empty();
             var list = data["list"];
             var template = this.template();
@@ -119,7 +126,7 @@ $(function (){
             }
             sortable.enable();
         },
-        template: function (){
+        template: function () {
 
             /*
              {
@@ -134,17 +141,17 @@ $(function (){
             var source = $("#article-template").html();
             return Handlebars.compile(source);
         },
-        readTemplate: function (){
+        readTemplate: function () {
             var source = $("#article-read-template").html();
             return Handlebars.compile(source);
         }
     }
 
-    function loadArticleHTML(path){
+    function loadArticleHTML(path) {
         var input = $("#input").empty();
-        input.load(path, function (res, textStatus){
+        input.load(path, function (res, textStatus) {
             if (textStatus === "success" || textStatus === "notmodified") {
-                $($("blockquote", "#input").get().reverse()).each(function (){
+                $($("blockquote", "#input").get().reverse()).each(function () {
                     var div = $("<div />", {
                         class: "sites"
                     });// コンテナ

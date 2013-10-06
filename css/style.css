@@ -36,16 +36,16 @@ html, body {
   #input .read-site {
     background-color: #faf3cc; }
 
-#output {
+#output, .jser-output {
   float: left;
   width: 38%;
   height: 100%; }
-  #output .site-genre {
+  #output .site-genre, .jser-output .site-genre {
     margin: 10px 0;
     background-color: #ddd; }
-  #output .sites > p {
+  #output .sites > p, .jser-output .sites > p {
     display: none; }
-  #output .sites p > a {
+  #output .sites p > a, .jser-output .sites p > a {
     display: none; }
 
 #disable-sortable {
