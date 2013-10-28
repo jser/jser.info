@@ -706,6 +706,180 @@
                 "library"
             ],
             "date": "2013-10-24T14:20:05.058Z"
+        },
+        {
+            "title": "Launched: Code Climate for JavaScript - Code Climate Blog",
+            "url": "http://blog.codeclimate.com/blog/2013/10/24/code-climate-for-javascript/",
+            "content": "コードメトリクス等を計測できるサービスCode ClimateがJavaScriptに対応した。\nオープンソースプロジェクトは無料で利用できる",
+            "tags": [
+                "JavaScript",
+                "webservice",
+                "ReleaseNote"
+            ],
+            "date": "2013-10-25T00:39:00.365Z"
+        },
+        {
+            "title": "jQuery Mobile 1.4.0 RC1 released | jQuery Mobile",
+            "url": "http://jquerymobile.com/blog/2013/10/24/jquery-mobile-1-4-0-rc1-released/",
+            "content": "jQuery Mobile 1.4.0 RC1リリース。\n",
+            "tags": [
+                "jQuery",
+                "mobile",
+                "ReleaseNote"
+            ],
+            "date": "2013-10-25T00:51:24.779Z"
+        },
+        {
+            "title": "Ember.js - Ember 1.1.1 and 1.2 Beta Released",
+            "url": "http://emberjs.com/blog/2013/10/24/ember-1-1-1-and-ember-1-2-0-beta-released.html",
+            "content": "Ember.js 1.1.1と1.2β リリース。\nstableは six weeks ごとにリリースしていくサイクル",
+            "tags": [
+                "JavaScript",
+                "MVC",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2013-10-25T00:52:46.205Z"
+        },
+        {
+            "title": "Monthly JavaScript Updatesの検索結果 - Qiita [キータ]",
+            "url": "http://qiita.com/search?utf8=%E2%9C%93&sort=&q=Monthly+JavaScript+Updates",
+            "content": "月刊でJavaScriptライブラリのアップデート情報や記事紹介などのmonthly news",
+            "tags": [
+                "JavaScript",
+                "news",
+                "blog"
+            ],
+            "date": "2013-10-25T02:40:21.788Z"
+        },
+        {
+            "title": "JavaScript unit test tools for TDD - Stack Overflow",
+            "url": "http://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd",
+            "content": "JavaScriptのテスティングフレームワークなどのまとめ。\n2008年ごろから現在も更新されてるので、死んでるものから人気のあるものまでまとまってる",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "まとめ"
+            ],
+            "date": "2013-10-25T13:05:21.967Z"
+        },
+        {
+            "title": "ai/postcss",
+            "url": "https://github.com/ai/postcss",
+            "content": "CSSをJavaScriptで変更出来るライブラリ.\nCSSのチェックや修正などに使える",
+            "tags": [
+                "CSS",
+                "Tools",
+                "JavaScript"
+            ],
+            "date": "2013-10-25T13:52:47.789Z"
+        },
+        {
+            "title": "TDD | EtnasSoft",
+            "url": "http://www.etnassoft.com/category/tdd-2/",
+            "content": "JavaScriptでのモダンなテストについてのチュートリアル。\nmocha+chai+testem+Sinon.JSを使ったテスト、プロジェクトのディレクトリ構成、例としてBackbone、jQuery+Ajaxのテスト、プリベートメソッドのテストをどうするかについて書かれてる",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "tutorial"
+            ],
+            "date": "2013-10-25T14:26:12.193Z"
+        },
+        {
+            "title": "offline",
+            "url": "http://github.hubspot.com/offline/",
+            "content": "Ajaxの通信が失敗したら通知するUI、そのリクエストを再送出来るようにするライブラリ。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "UI",
+                "XHR"
+            ],
+            "date": "2013-10-25T15:03:38.451Z"
+        },
+        {
+            "title": "JavaScriptベースのCSS preprocessorであるAbsurdJS を試してみる | 69log",
+            "url": "http://kazu69.net/blog/tec/1814",
+            "content": "JavaScriptベースのCSSメタ言語的なライブラリについて",
+            "tags": [
+                "JavaScript",
+                "CSS"
+            ],
+            "date": "2013-10-26T06:40:31.928Z"
+        },
+        {
+            "title": "Web Audio APIでMIDIファイル再生",
+            "url": "http://imaya.github.io/slide/webaudio/#1",
+            "content": "Web Audio APIとMIDIについてのスライド。\nWeb Audio APIの構成要素、サウンドフォントやWebMidiLinkについて.\nFYI: http://imaya.blog.jp/archives/6531520.html",
+            "tags": [
+                "JavaScript",
+                "sound",
+                "スライド"
+            ],
+            "date": "2013-10-26T07:27:03.878Z"
+        },
+        {
+            "title": "Event Emitter: Obey and Report - Pony Foo",
+            "url": "http://blog.ponyfoo.com/2013/10/25/event-emitter-obey-and-report",
+            "content": "event emitter patternについて。\nキーボード操作をコマンドとして送って、要素を動かす例を元に説明してる",
+            "tags": [
+                "JavaScript",
+                "event"
+            ],
+            "date": "2013-10-26T08:06:45.112Z"
+        },
+        {
+            "title": "Yeoman Grunt Bower // Speaker Deck",
+            "url": "https://speakerdeck.com/yosuke_furukawa/yeoman-grunt-bower",
+            "content": "Yeomanのgeneratorの作り方、Bowerの最近の変更点についてのスライド",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2013-10-26T08:23:19.367Z"
+        },
+        {
+            "title": "The Future of Programming in Node.js // Speaker Deck",
+            "url": "https://speakerdeck.com/meso/the-future-of-programming-in-node-dot-js",
+            "content": "Isaacsが語るNode.jsの今後についての訳についてのスライド",
+            "tags": [
+                "node.js"
+            ],
+            "date": "2013-10-26T08:26:02.170Z"
+        },
+        {
+            "title": "Knockout.js 3.0 Highlights - Knock Me Out",
+            "url": "http://www.knockmeout.net/2013/10/knockout-3-highlights.html",
+            "content": "Knockout.js 3.0リリース。\nhttp://knockoutjs.com/upgrade-notes/v3.0.0.html",
+            "tags": [
+                "JavaScript",
+                "MVC",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2013-10-26T16:17:40.383Z"
+        },
+        {
+            "title": "Touche.js - seamless touch event mapping for your click events",
+            "url": "http://benhowdle.im/touche/",
+            "content": "fast click(300msの遅延を取る機能)、クリックイベントもtouchendとして取れるようにするライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2013-10-26T17:22:33.963Z"
+        },
+        {
+            "title": "gabesoft/trans",
+            "url": "https://github.com/gabesoft/trans",
+            "content": "JSONオブジェクトに対して複雑な変形を行うの補助するライブラリ",
+            "tags": [
+                "JavaScript",
+                "JSON",
+                "library"
+            ],
+            "date": "2013-10-28T00:50:12.029Z"
         }
     ]
 }
