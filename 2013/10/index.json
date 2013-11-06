@@ -880,6 +880,183 @@
                 "library"
             ],
             "date": "2013-10-28T00:50:12.029Z"
+        },
+        {
+            "title": "なぜAltJSだったのか、そしてこれからもAltJSなのか [東京Node学園2013] - Line 1: Error: Invalid Blog('by Esehara' )",
+            "url": "http://bugrammer.hateblo.jp/entry/2013/10/26/231517",
+            "content": "JavaScriptとAltJSの関係についてのスライドと補足記事。\nKalやRoy、ClojureScriptなどのaltJSが持つ機能やエコシステムについて",
+            "tags": [
+                "JavaScript",
+                "altJS"
+            ],
+            "date": "2013-10-28T12:35:19.302Z"
+        },
+        {
+            "title": "Perl 初心者がとある JavaScript コードを読むための基礎知識 - あらびき日記",
+            "url": "http://d.hatena.ne.jp/a_bicky/20131027/1382875227",
+            "content": "PerlとJavaScriptを比較しながら、JavaScriptの基礎文法やXHR、Canvasなどについてのチュートリアル",
+            "tags": [
+                "perl",
+                "JavaScript",
+                "tutorial"
+            ],
+            "date": "2013-10-28T12:37:56.630Z"
+        },
+        {
+            "title": "benjamn/ast-types",
+            "url": "https://github.com/benjamn/ast-types",
+            "content": "Mozilla Parser APIを元にしたEsprima互換のASTを、AST Node Type毎の関数を使う事で組み立てるビルダー、ASTのTraversal、独自のAST Node Typeの定義等を行えるライブラリ",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "Tools"
+            ],
+            "date": "2013-10-28T12:43:11.982Z"
+        },
+        {
+            "title": "tupai.js — Minimal and Flexible JavaScript MVC Framework.",
+            "url": "http://tupaijs.com/index.html",
+            "content": "Javaライクな名前空間、mustache等を使ったテンプレートエンジン、controllerを生成するgenerator/ローカルサーバ等のCLI を持ったフレームワーク",
+            "tags": [
+                "JavaScript",
+                "MVC",
+                "library"
+            ],
+            "date": "2013-10-28T14:12:01.057Z"
+        },
+        {
+            "title": "Massa Labs",
+            "url": "http://massalabs.com/dev/2013/10/17/handling-errors-in-nodejs.html",
+            "content": "Node.jsでErrorオブジェクトを出力するときに見やすい形にするモジュールを作る話",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "デバック"
+            ],
+            "date": "2013-10-28T14:15:53.235Z"
+        },
+        {
+            "title": "Web Components are the Revolution",
+            "url": "http://robdodson.me/webcomponents-revolution/#/",
+            "content": "Web Componentsを構成する\nTemplates, Shadow DOM, Custom Elements, Importsについてのスライド。\nそれぞれの要素の説明と、ブラウザのサポート状況などについてまとまってる",
+            "tags": [
+                "JavaScript",
+                "WebComponents",
+                "スライド"
+            ],
+            "date": "2013-10-28T14:20:07.373Z"
+        },
+        {
+            "title": "1.0.0: Constellation/iv",
+            "url": "https://github.com/Constellation/iv/releases/tag/1.0.0",
+            "content": "@Constellation による ECMA262 5.1完全準拠のC++/JS実装の iv / lv5 1.0.0リリース\n* http://constellation.hatenablog.com/entry/20111019/1319008580\n* http://constellation.github.io/slides/contents/20120326/presentation.html",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "C++",
+                "ReleaseNote"
+            ],
+            "date": "2013-10-28T14:43:45.031Z"
+        },
+        {
+            "title": "今年こそついにSVG元年？まだ間に合う！SVGの学習に役立つサイト紹介 - 聴く耳を持たない(片方しか)",
+            "url": "http://d.hatena.ne.jp/rikuo/20131028",
+            "content": "SVGの歴史、チュートリアルサイト、ライブラリやツールなどのまとめ",
+            "tags": [
+                "SVG",
+                "tutorial",
+                "まとめ"
+            ],
+            "date": "2013-10-29T06:49:29.481Z"
+        },
+        {
+            "title": "NV/CSSOM",
+            "url": "https://github.com/NV/CSSOM",
+            "content": "JavaScriptで書かれたCSSパーサー",
+            "tags": [
+                "JavaScript",
+                "CSS"
+            ],
+            "date": "2013-10-30T07:33:03.714Z"
+        },
+        {
+            "title": "Polymer/vulcanize",
+            "url": "https://github.com/Polymer/vulcanize",
+            "content": "HTML importとWeb Componentsを使ったhtmlを、importしたものを埋め込みPolymerのタグに変換してくれるCLI",
+            "tags": [
+                "WebComponents",
+                "Tools",
+                "console"
+            ],
+            "date": "2013-10-30T07:35:05.160Z"
+        },
+        {
+            "title": "Ghostlab",
+            "url": "http://vanamco.com/ghostlab/",
+            "content": "複数のモバイル端末等でページスクロール、フォーム入力、クリック、リロードを同期的に操作、インスペクト出来るツール",
+            "tags": [
+                "browser",
+                "Tools",
+                "mobile"
+            ],
+            "date": "2013-10-30T13:18:10.133Z"
+        },
+        {
+            "title": "AngularJS style guideを日本語訳した - Happy New World",
+            "url": "http://d.hatena.ne.jp/mainyaa/20131028/p1",
+            "content": "AngularJSスタイルガイドの翻訳",
+            "tags": [
+                "AngularJS",
+                "document",
+                "翻訳"
+            ],
+            "date": "2013-10-30T13:36:55.108Z"
+        },
+        {
+            "title": "sdesalas/trifleJS",
+            "url": "https://github.com/sdesalas/trifleJS",
+            "content": "PhantomJS互換のAPIを持ったTrident engine (Internet Explorer) のヘッドレスブラウザ.\nIEの互換モード(Document Mode)を指定するオプションもある",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "IE",
+                "software"
+            ],
+            "date": "2013-10-31T00:44:47.637Z"
+        },
+        {
+            "title": "Using r.js to Optimize Your RequireJS Project - Tech.Pro",
+            "url": "http://tech.pro/blog/1639/using-rjs-to-optimize-your-requirejs-project",
+            "content": "r.jsでのビルド、設定方法、機能についての紹介",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2013-10-31T00:51:11.886Z"
+        },
+        {
+            "title": "gfranko/amdclean",
+            "url": "https://github.com/gfranko/amdclean",
+            "content": "AMD APIを使ったコードからdefine/requireを取り除いて、依存のないJSに変換するツール.\nr.jsで結合 -> amdclean という使い方",
+            "tags": [
+                "node.js",
+                "AST",
+                "console",
+                "Tools"
+            ],
+            "date": "2013-10-31T01:05:20.623Z"
+        },
+        {
+            "title": "Web Audio API",
+            "url": "http://g200kg.github.io/web-audio-api-ja/",
+            "content": "Web Audio APIの日本訳",
+            "tags": [
+                "WebPlatformAPI",
+                "sound",
+                "spec",
+                "翻訳"
+            ],
+            "date": "2013-10-31T11:58:02.516Z"
         }
     ]
 }

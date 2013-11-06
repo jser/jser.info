@@ -69,7 +69,7 @@ $(function () {
                 connectWith: ['.connectedSortable'],
                 tolerance: "pointer",
                 dropOnEmpty : false
-            }).disableSelection();
+            });
         }
 
         $("#disable-sortable").on("click", disableSortable);
