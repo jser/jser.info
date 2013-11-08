@@ -1,4 +1,4 @@
-{
+b{
     "list": [
         {
             "title": "WebView for Android - Google Chrome Mobile — Google Developers",
@@ -182,6 +182,17 @@
                 "animation"
             ],
             "date": "2013-11-08T13:35:04.931Z"
+        },
+        {
+            "title": "Testing YUI Everywhere",
+            "url": "http://reidburke.com/deck/2013/yuiconf/#slide=title",
+            "content": "YUIのテストについてのスライド.\nCI, Selenium, Sauce Labsを使ってSafari/iOSでのテスト.\n100K以上あるテストをどうやって効率よく回すかについて",
+            "tags": [
+                "YUI",
+                "testing",
+                "スライド"
+            ],
+            "date": "2013-11-08T15:27:59.339Z"
         }
     ]
 }
