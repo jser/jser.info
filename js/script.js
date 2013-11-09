@@ -28,6 +28,8 @@ $(function () {
             var fileDirPath = date.getFullYear() + '/' + format0((date.getMonth() + 1), 2);
             var JSONFilePath = fileDirPath + "/index.json?" + new Date().getTime();
             JSONArticle.load(JSONFilePath).done(function (data) {
+                console.log("data", data);
+                $("#content").data("file-dir-path", fileDirPath);
                 JSONArticle.render(data);
             }).fail(function (err) {
                     // JSONがダメならHTMLを試す
@@ -68,7 +70,7 @@ $(function () {
             $(".connectedSortable, .site-genre").sortable({
                 connectWith: ['.connectedSortable'],
                 tolerance: "pointer",
-                dropOnEmpty : false
+                dropOnEmpty: false
             });
         }
 
