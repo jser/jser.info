@@ -1,4 +1,4 @@
-[JSer.info][]
+[JSer.info][] [![Build Status](https://travis-ci.org/azu/jser.info.png)](https://travis-ci.org/azu/jser.info)
 =========
 
 JSer.info [Issues](https://github.com/azu/jser.info/issues "Issues · azu/jser.info") repogitory.
