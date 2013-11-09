@@ -4,7 +4,7 @@
   "description": "JSer.info repogitory.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node tests/validate-json.js"
   },
   "repository": {
     "type": "git",
