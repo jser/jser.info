@@ -288,6 +288,19 @@
                 "book"
             ],
             "date": "2013-11-11T04:27:58.718Z"
+        },
+        {
+            "title": "HTML5 を利用したWeb アプリケーションのセキュリティ問題に関する調査報告書",
+            "url": "http://www.jpcert.or.jp/research/html5.html",
+            "content": "広義のHTML5やWebWorkerやXHR Lv2などによって起こりえる脆弱性等の問題やXSSフィルターやCSP等についてまとめられた資料",
+            "tags": [
+                "HTML5",
+                "JavaScript",
+                "セキュリティ",
+                "PDF",
+                "資料"
+            ],
+            "date": "2013-11-11T12:29:40.901Z"
         }
     ]
 }
