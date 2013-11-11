@@ -265,6 +265,19 @@
                 "library"
             ],
             "date": "2013-11-10T17:08:42.504Z"
+        },
+        {
+            "title": "dtao/autodoc",
+            "url": "https://github.com/dtao/autodoc",
+            "content": "JavaScriptでdoctestやベンチマークのアノテーションを使えるツール。\nまたコメントからドキュメントも生成することが出来る",
+            "tags": [
+                "JavaScript",
+                "document",
+                "AST",
+                "testing",
+                "Tools"
+            ],
+            "date": "2013-11-11T02:54:01.874Z"
         }
     ]
 }
