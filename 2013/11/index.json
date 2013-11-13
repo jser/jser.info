@@ -366,6 +366,18 @@
                 "HTML"
             ],
             "date": "2013-11-12T14:24:50.200Z"
+        },
+        {
+            "title": "vesln/jsmd",
+            "url": "https://github.com/vesln/jsmd",
+            "content": "readmeに書かれたJavaScriptのサンプルコードが正しく動くかをテスト出来るツール.\n// => で結果を書くdoctest的な感じ",
+            "tags": [
+                "node.js",
+                "document",
+                "testing",
+                "Tools"
+            ],
+            "date": "2013-11-13T00:44:05.716Z"
         }
     ]
 }
