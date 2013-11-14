@@ -378,6 +378,17 @@
                 "Tools"
             ],
             "date": "2013-11-13T00:44:05.716Z"
+        },
+        {
+            "title": "VelocityConf: Rendering Performance Case Studies // Speaker Deck",
+            "url": "https://speakerdeck.com/addyosmani/velocityconf-rendering-performance-case-studies",
+            "content": "60fpsでのスクロールを実現するために、どのような問題(jank)があるのかをみて、reflowや画像のデコード等重たい箇所をChrome Dev Toolsで見つけて解決していく話。\nケーススタディとしてパララックスなサイトで、スクロールする度に描画必要な要素を\nhttp://www.html5rocks.com/en/tutorials/speed/high-performance-animations/ で書かれているように、CSS translate3d等を使ってGPUレイヤーを分ける事で高速化する話。\nまたGoogle+の例にtranslate3dをやり過ぎると逆に合成に時間がかかりすぎる問題を生む話などレンダリングのパフォーマンスについて書かれているスライド",
+            "tags": [
+                "performance",
+                "browser",
+                "スライド"
+            ],
+            "date": "2013-11-14T01:02:16.979Z"
         }
     ]
 }
