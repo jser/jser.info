@@ -489,6 +489,17 @@
                 "スライド"
             ],
             "date": "2013-11-18T08:53:01.256Z"
+        },
+        {
+            "title": "An Introduction To DOM Events | Smashing Coding",
+            "url": "http://coding.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/",
+            "content": "DOMイベントについて詳しい記事.\neventオブジェクトの中身や、キャプチャー/バブリングフェーズについて、stopPropagation/preventDefaultの違い、カスタムイベントについて書かれてる",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "event"
+            ],
+            "date": "2013-11-18T08:55:02.436Z"
         }
     ]
 }
