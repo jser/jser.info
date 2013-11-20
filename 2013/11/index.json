@@ -542,6 +542,18 @@
                 "ReleaseNote"
             ],
             "date": "2013-11-19T05:01:48.365Z"
+        },
+        {
+            "title": "square/es6-arrow-function",
+            "url": "https://github.com/square/es6-arrow-function",
+            "content": "ES6の=>をAST変換してES5互換の形式に変換するツール.\nast-types, recaseを使用",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "AST",
+                "Tools"
+            ],
+            "date": "2013-11-20T00:58:54.601Z"
         }
     ]
 }
