@@ -682,6 +682,17 @@
                 "スライド"
             ],
             "date": "2013-11-24T07:16:28.716Z"
+        },
+        {
+            "title": "Managing JavaScript Complexity",
+            "url": "http://www.slideshare.net/JarrodOverson/complexity-28214103",
+            "content": "コーディングスタイル、Lint、循環的複雑度(Cyclomatic complexity)について。\nPlatoやcomplexity-reportを使ったメトリクスの可視化、コードの負債を大きくしないためにはどうするかという話",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "スライド"
+            ],
+            "date": "2013-11-24T08:03:25.690Z"
         }
     ]
 }
