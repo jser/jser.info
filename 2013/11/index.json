@@ -755,6 +755,17 @@
                 "ReleaseNote"
             ],
             "date": "2013-11-26T05:37:00.510Z"
+        },
+        {
+            "title": "webpro/jquery-evergreen",
+            "url": "https://github.com/webpro/jquery-evergreen",
+            "content": "jQueryライクなAPIをモダンブラウザ向けに実装したライブラリ.\nES6 moduleをtranspileしていて、Gruntでカスタムビルド出来るようになってる",
+            "tags": [
+                "jQuery",
+                "API",
+                "library"
+            ],
+            "date": "2013-11-26T12:36:20.280Z"
         }
     ]
 }
