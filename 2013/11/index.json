@@ -777,6 +777,17 @@
                 "ReleaseNote"
             ],
             "date": "2013-11-27T01:37:37.751Z"
+        },
+        {
+            "title": "jackfranklin/pulldown",
+            "url": "https://github.com/jackfranklin/pulldown",
+            "content": "BowerみたいにJavaScriptライブラリをダウンロードする。\nパッケージマネージャーではなく、jsファイルを設定なしにダウンロード出来るCLIツール.\ncdnjs からバージョン指定してダウンロード",
+            "tags": [
+                "JavaScript",
+                "console",
+                "Tools"
+            ],
+            "date": "2013-11-27T05:16:54.865Z"
         }
     ]
 }
