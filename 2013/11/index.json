@@ -819,6 +819,16 @@
                 "Tools"
             ],
             "date": "2013-11-28T00:33:27.249Z"
+        },
+        {
+            "title": "logicalparadox/matcha",
+            "url": "https://github.com/logicalparadox/matcha",
+            "content": "mochaみたいな形式で書いてベンチマークテストを取れるツール.\n非同期の処理もdoneコールバックを渡す事で行える\n",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2013-11-28T12:31:32.440Z"
         }
     ]
 }
