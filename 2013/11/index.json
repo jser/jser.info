@@ -838,6 +838,16 @@
                 "TypeScript"
             ],
             "date": "2013-11-28T14:01:02.700Z"
+        },
+        {
+            "title": "FileAPI — a set of javascript tools for working with files.",
+            "url": "http://mailru.github.io/FileAPI/",
+            "content": "File objectを扱うライブラリ.\nget/upload/evnt/image/camera等のAPI、\nflashを使ったfallbackを持ってる。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2013-11-28T14:16:21.124Z"
         }
     ]
 }
