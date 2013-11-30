@@ -867,6 +867,16 @@
                 "JavaScript"
             ],
             "date": "2013-11-29T16:39:25.733Z"
+        },
+        {
+            "title": "Scala.js",
+            "url": "http://www.scala-js.org/",
+            "content": "ScalaをJavaScriptにコンパイルするaltJS.\nsbt連携、TypeScriptの型情報定義ファイル(d.ts)を利用等もできる",
+            "tags": [
+                "scala",
+                "JavaScript"
+            ],
+            "date": "2013-11-30T04:15:19.048Z"
         }
     ]
 }
