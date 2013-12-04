@@ -91,6 +91,18 @@
                 "スライド"
             ],
             "date": "2013-12-04T06:31:33.680Z"
+        },
+        {
+            "title": "JavaScriptでdoctestを行う power-doctest を作った | Web scratch",
+            "url": "http://efcl.info/2013/1201/res3494/",
+            "content": "doctest的にコメントで書いた結果を比較しテストをするツール.\nexpression; // => result\nという感じで書くと、power-assertを使ったテストが走る",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "testing",
+                "document"
+            ],
+            "date": "2013-12-04T15:30:51.548Z"
         }
     ]
 }
