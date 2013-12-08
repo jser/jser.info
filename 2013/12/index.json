@@ -186,6 +186,16 @@
                 "program"
             ],
             "date": "2013-12-08T12:31:31.181Z"
+        },
+        {
+            "title": "Fun with Esprima and Static Analysis",
+            "url": "http://tobyho.com/2013/12/02/fun-with-esprima/",
+            "content": "JavaScript ASTのTraversalのチュートリアル的な感じ。 \nファイルを読み込んでパースしてestraverseでASTを見ていきながらASTについて学ぶ。\n関数スコープ、変数宣言、グローバル変数の漏れ、スコープチェイン等について",
+            "tags": [
+                "JavaScript",
+                "AST"
+            ],
+            "date": "2013-12-08T13:48:36.809Z"
         }
     ]
 }
