@@ -196,6 +196,16 @@
                 "AST"
             ],
             "date": "2013-12-08T13:48:36.809Z"
+        },
+        {
+            "title": "3分で分かるAngularJSセキュリティ - teppeis blog",
+            "url": "http://teppeis.hatenablog.com/entry/2013/12/angularjs-security",
+            "content": "AngularJSのセキュリティについて.\nCSRF、JSONハイジャック対策、CSPとngCspディレクティブ、$sceによるテンプレートのエスケープについて",
+            "tags": [
+                "AngularJS",
+                "セキュリティ"
+            ],
+            "date": "2013-12-08T13:53:10.516Z"
         }
     ]
 }
