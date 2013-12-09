@@ -206,6 +206,17 @@
                 "セキュリティ"
             ],
             "date": "2013-12-08T13:53:10.516Z"
+        },
+        {
+            "title": "VanillaJS refactoring by cburgmer · Pull Request #739 · tastejs/todomvc",
+            "url": "https://github.com/tastejs/todomvc/pull/739",
+            "content": "TodoMVCのVanillaJSが大幅にリファクタリングされた。\nテストもちゃんと書かれてるので、どのようにリファクタリングしていったのかをコミット見ながら眺めると面白いかも。",
+            "tags": [
+                "JavaScript",
+                "デバック",
+                "todo"
+            ],
+            "date": "2013-12-09T00:40:16.003Z"
         }
     ]
 }
