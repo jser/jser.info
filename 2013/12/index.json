@@ -247,6 +247,17 @@
                 "book"
             ],
             "date": "2013-12-09T12:27:11.058Z"
+        },
+        {
+            "title": "Testing in Browsers and Node with Mocha, Chai, Sinon, and Testem · Ken Powers",
+            "url": "http://www.kenpowers.net/blog/testing-in-browsers-and-node/",
+            "content": "Mocha + Chai + Sinon.js + Testemを使ったテスト構成について.\nSinonのmockやstubの紹介やブラウザとNodeのハイブリッドテストについて書かれてる",
+            "tags": [
+                "node.js",
+                "browser",
+                "testing"
+            ],
+            "date": "2013-12-09T12:33:24.646Z"
         }
     ]
 }
