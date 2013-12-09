@@ -267,6 +267,17 @@
                 "JavaScript"
             ],
             "date": "2013-12-09T12:37:19.444Z"
+        },
+        {
+            "title": "BBC-News/Imager.js",
+            "url": "https://github.com/BBC-News/Imager.js",
+            "content": "srcsetのようなレスポンシブな画像を使うような仕組みを提供するライブラリ.\nプレースホルダーとなる要素を書いて、それに合わせた画像をlazy load出来るような仕組み",
+            "tags": [
+                "JavaScript",
+                "library",
+                "画像"
+            ],
+            "date": "2013-12-09T13:44:38.584Z"
         }
     ]
 }
