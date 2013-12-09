@@ -217,6 +217,16 @@
                 "todo"
             ],
             "date": "2013-12-09T00:40:16.003Z"
+        },
+        {
+            "title": "NeilFraser/JS-Interpreter",
+            "url": "https://github.com/NeilFraser/JS-Interpreter",
+            "content": "JavaScriptで実装したJavaScriptインタープリタ.\nacornでJavaScriptをパースしたASTを解釈してる。\nステップ実行やサンドボックスとしてJSの実行等ができる",
+            "tags": [
+                "JavaScript",
+                "AST"
+            ],
+            "date": "2013-12-09T04:38:19.463Z"
         }
     ]
 }
