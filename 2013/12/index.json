@@ -396,6 +396,17 @@
                 "browser"
             ],
             "date": "2013-12-14T08:48:12.059Z"
+        },
+        {
+            "title": "Gmail スケールの効率的メモリ管理 - HTML5 Rocks",
+            "url": "http://www.html5rocks.com/ja/tutorials/memory/effectivemanagement/",
+            "content": "http://www.html5rocks.com/en/tutorials/memory/effectivemanagement/ の翻訳\nJavaScriptのメモリ管理とV8の世代別GC.\nGmailのメモリリーク観測と問題点の発見方法",
+            "tags": [
+                "google",
+                "mail",
+                "JavaScript"
+            ],
+            "date": "2013-12-14T09:26:54.098Z"
         }
     ]
 }
