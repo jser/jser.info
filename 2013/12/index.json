@@ -468,6 +468,18 @@
                 "firefox"
             ],
             "date": "2013-12-15T06:52:37.922Z"
+        },
+        {
+            "title": "JSMVCOMFG - To sternly look at JavaScript MVC and Templating Framew...",
+            "url": "http://www.slideshare.net/x00mario/jsmvcomfg-to-sternly-look-at-javascript-mvc-and-templating-frameworks",
+            "content": "data-*属性にはXSSフィルターが効かないため、Knockoutのような仕組みだとXSSを検知しにくい。\nテンプレートとXSS、AngularJSのCSPモード、Chrome Packaged Appについて.\nMV*のセキュリティメトリクス",
+            "tags": [
+                "JavaScript",
+                "MVC",
+                "セキュリティ",
+                "スライド"
+            ],
+            "date": "2013-12-15T10:09:36.250Z"
         }
     ]
 }
