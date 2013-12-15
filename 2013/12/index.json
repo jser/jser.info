@@ -427,6 +427,17 @@
                 "ReleaseNote"
             ],
             "date": "2013-12-15T03:04:05.077Z"
+        },
+        {
+            "title": "MessageEventコンストラクタとpostMessageとWeb messagingについて | Web scratch",
+            "url": "http://efcl.info/2013/1215/res3535/",
+            "content": "MessageEvent型のevetを使ったメッセージングについて.\ndispatchEventで発火させる方法とpostMessageとの違い等",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "event"
+            ],
+            "date": "2013-12-15T04:06:24.980Z"
         }
     ]
 }
