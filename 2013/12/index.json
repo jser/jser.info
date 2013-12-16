@@ -561,6 +561,16 @@
                 "backbone.js"
             ],
             "date": "2013-12-16T13:16:25.692Z"
+        },
+        {
+            "title": "RxJS 2.2 Released - Reactive Extensions Team Blog - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/rxteam/archive/2013/12/13/rxjs-2-2-released.aspx",
+            "content": "RxJS 2.2リリース.\nES5をサポートしてるブラウザがメインとなり、レガシーブラウザはrx.compat.jsでのpolyfill実装となる.\nrx.asyncにPromisesとのブリッジの追加等",
+            "tags": [
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "date": "2013-12-16T14:24:14.469Z"
         }
     ]
 }
