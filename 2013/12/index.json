@@ -541,6 +541,17 @@
                 "まとめ"
             ],
             "date": "2013-12-16T12:58:31.958Z"
+        },
+        {
+            "title": "Effective Unit Testing with AMD - Bocoup",
+            "url": "http://weblog.bocoup.com/effective-unit-testing-with-amd/",
+            "content": "ReuqireJSを使ったAMDのテスト手法について。\nrequirejsのconfigを上手く使って、テストごとに毎回モジュールを読み込むようにしたり、モジュールのモック等を扱う方法",
+            "tags": [
+                "JavaScript",
+                "AMD",
+                "testing"
+            ],
+            "date": "2013-12-16T13:14:15.760Z"
         }
     ]
 }
