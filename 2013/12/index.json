@@ -603,6 +603,18 @@
                 "book"
             ],
             "date": "2013-12-18T03:09:49.212Z"
+        },
+        {
+            "title": "Prune: Automatically create QA environments for GitHub pull requests",
+            "url": "http://prune.io/",
+            "content": "Visual Regression Testingサービス.\nGithubのpull-requestと連動して、指定ブラウザでのスクリーンショットをissueに貼り付けて見た目を比較出来る。",
+            "tags": [
+                "github",
+                "browser",
+                "testing",
+                "webservice"
+            ],
+            "date": "2013-12-18T05:24:51.772Z"
         }
     ]
 }
