@@ -615,6 +615,15 @@
                 "webservice"
             ],
             "date": "2013-12-18T05:24:51.772Z"
+        },
+        {
+            "title": "俺のWeb Workersがこんなに遅いわけがない",
+            "url": "http://lab.sonicmoov.com/development/web-workers/",
+            "content": "WebWorkerのTransferable Objectsについての解説.\nデータをコピーせずに渡す事でオーバーヘッドが少なくなる",
+            "tags": [
+                "webworker"
+            ],
+            "date": "2013-12-18T08:02:12.866Z"
         }
     ]
 }
