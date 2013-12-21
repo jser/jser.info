@@ -720,6 +720,18 @@
                 "翻訳"
             ],
             "date": "2013-12-21T14:58:15.314Z"
+        },
+        {
+            "title": "wearefractal/gulp",
+            "url": "https://github.com/wearefractal/gulp/",
+            "content": "ストリーミングベースなビルドシステム.\nGrunt用にオブジェクトベースな設定ではなく、コードとして設定する方向が強くでてる。\nまたプラグインがひとつのアクションだけを持つように推奨されてる\nhttp://travismaynard.com/writing/no-need-to-grunt-take-a-gulp-of-fresh-air",
+            "tags": [
+                "JavaScript",
+                "Grunt",
+                "console",
+                "Tools"
+            ],
+            "date": "2013-12-21T15:47:02.978Z"
         }
     ]
 }
