@@ -849,6 +849,16 @@
                 "Tools"
             ],
             "date": "2013-12-22T08:44:50.091Z"
+        },
+        {
+            "title": "Experiments with Koa and JavaScript Generators - Steve Sanderson’s blog - As seen on YouTube™",
+            "url": "http://blog.stevensanderson.com/2013/12/21/experiments-with-koa-and-javascript-generators/",
+            "content": "Expressの人により作られてるGeneratorsベースのKoaについて。\nGeneratorを使った書き方、エラーハンドリング、非同期処理、Key-value objectsのyeildについて",
+            "tags": [
+                "node.js",
+                "ECMAScript"
+            ],
+            "date": "2013-12-22T12:43:52.103Z"
         }
     ]
 }
