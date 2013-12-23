@@ -901,6 +901,17 @@
                 "ReleaseNote"
             ],
             "date": "2013-12-23T06:50:28.978Z"
+        },
+        {
+            "title": "JavaScript Promises: There and back again - HTML5 Rocks",
+            "url": "http://www.html5rocks.com/en/tutorials/es6/promises/",
+            "content": "ES6 Promisesについて。\n既存のPromiseライクも扱えるようにするPromise.cast、Promise.thenの使い方、エラーハンドリング、Promiseとeach、Promise.all、Generatorと合わせた場合について",
+            "tags": [
+                "JavaScript",
+                "Promise",
+                "リファレンス"
+            ],
+            "date": "2013-12-23T09:12:45.391Z"
         }
     ]
 }
