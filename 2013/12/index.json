@@ -912,6 +912,17 @@
                 "リファレンス"
             ],
             "date": "2013-12-23T09:12:45.391Z"
+        },
+        {
+            "title": "Koa - next generation web framework for node.js",
+            "url": "http://koajs.com/",
+            "content": "Expressの人たちが作ってるNodeのウェブフレームワーク.\nGeneratorが前提の構造になっており、Expressとアーキテクチャが違うので新規作成されてる。",
+            "tags": [
+                "node.js",
+                "web",
+                "library"
+            ],
+            "date": "2013-12-23T10:30:32.751Z"
         }
     ]
 }
