@@ -933,6 +933,17 @@
                 "歴史"
             ],
             "date": "2013-12-23T10:32:00.896Z"
+        },
+        {
+            "title": "Release JSHint 2.4.0 is released · jshint/jshint",
+            "url": "https://github.com/jshint/jshint/releases/tag/2.4.0",
+            "content": "JSHint 2.4.0リリース.\nES6の =>やletなどのサポート改善、バグ修正中心.\n\"extends\"で分離した設定ファイルを取り込めるように\nhttps://github.com/jshint/jshint/pull/1314",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2013-12-25T04:07:26.800Z"
         }
     ]
 }
