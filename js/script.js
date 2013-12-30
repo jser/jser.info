@@ -134,11 +134,17 @@ $(function () {
 
             /*
              {
-             "title": "Dependent Types for JavaScript",
-             "url": "http://www.infoq.com/presentations/Type-System-JavaScript",
-             "content": "JavaScript論文 - DJS(Dependent JavaScript) についての発表\nLogicなアプローチ/型コメント\nhttp://cseweb.ucsd.edu/~rchugh/research/nested/djs.pdf\nhttps://github.com/ravichugh/djs",
-             "tags": ["javascript", "PDF", "スライド", "動画"],
-             "date": "2013-03-24T01:42:24.124Z"
+                 "title": "Dependent Types for JavaScript",
+                 "url": "http://www.infoq.com/presentations/Type-System-JavaScript",
+                 "content": "JavaScript論文 - DJS(Dependent JavaScript) についての発表\nLogicなアプローチ/型コメント\nhttp://cseweb.ucsd.edu/~rchugh/research/nested/djs.pdf\nhttps://github.com/ravichugh/djs",
+                 "tags": ["javascript", "PDF", "スライド", "動画"],
+                 "date": "2013-03-24T01:42:24.124Z",
+                 "related-links": [
+                    {
+                        "title": "ES6のシンタックスを予習復習(2) ~default parameters, rest parameters, array spread, destructuring~ | 1000ch.net",
+                        "url": "http://1000ch.net/2013/12/27/ES6DefaultRestParametersArraySpreadDestructuring/"
+                    }
+                ]
              }
              */
 

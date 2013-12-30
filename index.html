@@ -67,6 +67,13 @@
         </p>
         {{/if}}
         <p>{{{auto_format content}}}</p>
+        {{#if related-links}}
+        <ul class="jser-related-links">
+            {{#each related-links}}
+                <li><a href="{{url}}">{{title}}</a></li>
+            {{/each}}
+        </ul>
+        {{/if}}
     </div>
 </script>
 <script id="article-template" type="text/x-handlebars-template">
@@ -85,6 +92,13 @@
         </p>
         {{/if}}
         <p>{{{auto_format content}}}</p>
+        {{#if related-links}}
+        <ul class="jser-related-links">
+            {{#each related-links}}
+            <li><a href="{{url}}">{{title}}</a></li>
+            {{/each}}
+        </ul>
+        {{/if}}
     </div>
 </script>
 </body>

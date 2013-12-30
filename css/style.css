@@ -56,6 +56,8 @@ html, body {
     display: none; }
   #output .sites p > a, .jser-output .sites p > a {
     display: none; }
+  #output .sites .jser-related-links, .jser-output .sites .jser-related-links {
+    display: none; }
 
 #disable-sortable {
   position: fixed;
