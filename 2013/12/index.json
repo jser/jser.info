@@ -945,7 +945,10 @@
             ],
             "date": "2013-12-25T04:07:26.800Z",
             "related-links": [
- { "title" : "What's new in JSHint (December, 2013)", "url" : "http://www.jshint.com/blog/new-in-jshint-dec-2013/"}
+                {
+                    "title": "What's new in JSHint (December, 2013)",
+                    "url": "http://www.jshint.com/blog/new-in-jshint-dec-2013/"
+                }
             ]
         },
         {
@@ -1011,6 +1014,30 @@
                 {
                     "title": "ES6のシンタックスを予習復習(2) ~default parameters, rest parameters, array spread, destructuring~ | 1000ch.net",
                     "url": "http://1000ch.net/2013/12/27/ES6DefaultRestParametersArraySpreadDestructuring/"
+                }
+            ]
+        },
+        {
+            "title": "Angular And Browserify",
+            "url": "http://ethanway.com/angular-and-browserify/",
+            "content": "browserifyとaungularJSでの開発について。 npmで入れられないものはnapaでインストールして、継続開発にbeefyを使い、テストはbrowserify-karmaで回す等のワークフロー",
+            "tags": [
+                "AngularJS",
+                "node.js"
+            ],
+            "date": "2013-12-30T11:49:56.944Z",
+            "related-links": [
+                {
+                    "title": "shama/napa",
+                    "url": "https://github.com/shama/napa"
+                },
+                {
+                    "title": "chrisdickinson/beefy",
+                    "url": "https://github.com/chrisdickinson/beefy"
+                },
+                {
+                    "title": "waye929/angular-browserify",
+                    "url": "https://github.com/waye929/angular-browserify"
                 }
             ]
         }
