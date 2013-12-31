@@ -1152,6 +1152,18 @@
             ],
             "date": "2013-12-31T07:15:40.291Z",
             "related-links": []
+        },
+        {
+            "title": "Stop toggling classes with JS, use behaviour driven DOM manipulation with data-states",
+            "url": "http://toddmotto.com/stop-toggling-classes-with-js-use-behaviour-driven-dom-manipulation-with-data-states/",
+            "content": "CSSクラスをトグルして、状態の変更をするのではなく、data-*属性を変更して行う方法について。\nコメント欄でWAI-ARIAの属性を使って行う方法等色々書かれてる",
+            "tags": [
+                "CSS",
+                "DOM",
+                "WAI-ARIA"
+            ],
+            "date": "2013-12-31T07:37:51.942Z",
+            "related-links": []
         }
     ]
 }
