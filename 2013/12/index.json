@@ -1056,6 +1056,18 @@
                     "url": "http://mean.io/"
                 }
             ]
+        },
+        {
+            "title": "Daily JS survey results visualised with Sankey diagrams",
+            "url": "http://kdzwinel.github.io/dailyjs-survey-sankey-diagrams/",
+            "content": "JavaScript Developer Surveyのアンケート結果をd3.jsを使ってビジュアライズしたもの",
+            "tags": [
+                "JavaScript",
+                "まとめ",
+                "d3.js"
+            ],
+            "date": "2013-12-31T03:14:33.008Z",
+            "related-links": []
         }
     ]
 }
