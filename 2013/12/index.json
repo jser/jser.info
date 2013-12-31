@@ -1068,6 +1068,18 @@
             ],
             "date": "2013-12-31T03:14:33.008Z",
             "related-links": []
+        },
+        {
+            "title": "Testing Backbone Views with QUnit and Sinon | Shine Technologies",
+            "url": "http://blog.shinetech.com/2013/06/27/testing-backbone-views-with-qunit-and-sinon/",
+            "content": "Backbone.jsとSInon.jsを使ったテスト。\n非同期のテストを減らして同期的に書クことで複雑さを減らす事について",
+            "tags": [
+                "backbone.js",
+                "testing",
+                "DOM"
+            ],
+            "date": "2013-12-31T05:41:10.326Z",
+            "related-links": []
         }
     ]
 }
