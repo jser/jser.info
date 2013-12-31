@@ -1125,6 +1125,22 @@
                     "url": "http://2013.full-frontal.org/"
                 }
             ]
+        },
+        {
+            "title": "__proto__が変わりゆく件について - 株式会社ネクスト　エンジニアBlog",
+            "url": "http://nextdeveloper.hatenablog.com/entry/2013/12/15/191719",
+            "content": "ECMAScriptの__proto__とsetPrototypeOfについて",
+            "tags": [
+                "ECMAScript",
+                "spec"
+            ],
+            "date": "2013-12-31T07:08:59.834Z",
+            "related-links": [
+                {
+                    "title": "uncurryThis 関数 - hogehoge @teramako",
+                    "url": "http://d.hatena.ne.jp/teramako/20111231/p1"
+                }
+            ]
         }
     ]
 }
