@@ -27,6 +27,24 @@
                     "url": "https://github.com/nzakas/eslint/commit/72d0fce14428716f82f5526a0a3097c50b491e97"
                 }
             ]
+        },
+        {
+            "title": "Test-driving a Node.JS API",
+            "url": "http://www.jorisooms.be/testing-your-node-api-with-supertest/",
+            "content": "supertestを使ったNodeアプリのAPIをテスト駆動開発していくチュートリアル",
+            "tags": [
+                "node.js",
+                "API",
+                "testing",
+                "tutorial"
+            ],
+            "date": "2014-01-02T12:43:22.077Z",
+            "related-links": [
+                {
+                    "title": "visionmedia/supertest",
+                    "url": "https://github.com/visionmedia/supertest"
+                }
+            ]
         }
     ]
 }
