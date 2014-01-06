@@ -168,6 +168,26 @@
             ],
             "date": "2014-01-06T13:34:46.110Z",
             "related-links": []
+        },
+        {
+            "title": "Managing the Asynchronous Nature of Node.js | Nettuts+",
+            "url": "http://net.tutsplus.com/tutorials/javascript-ajax/managing-the-asynchronous-nature-of-node-js/",
+            "content": "3種類の非同期なコードの構造の改善について。\nEvenetEmitterを使った方法、Q(Promises)を使った方法、stepを使った方法、それぞれの実装とメリット/でメッリについて書かれてる",
+            "tags": [
+                "JavaScript",
+                "node.js"
+            ],
+            "date": "2014-01-06T13:44:02.349Z",
+            "related-links": [
+                {
+                    "title": "kriskowal/q",
+                    "url": "https://github.com/kriskowal/q"
+                },
+                {
+                    "title": "creationix/step",
+                    "url": "https://github.com/creationix/step"
+                }
+            ]
         }
     ]
 }
