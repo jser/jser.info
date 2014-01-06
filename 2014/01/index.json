@@ -69,6 +69,25 @@
             ],
             "date": "2014-01-05T08:12:53.684Z",
             "related-links": []
+        },
+        {
+            "title": "Getting Started With Gulp | Travis Maynard",
+            "url": "http://travismaynard.com/writing/getting-started-with-gulp",
+            "content": "タスク実行ツールのgulpについての導入方法や設定コードの書き方についてのチュートリアル",
+            "tags": [
+                "gulp",
+                "JavaScript",
+                "console",
+                "Tools",
+                "tutorial"
+            ],
+            "date": "2014-01-06T05:25:39.613Z",
+            "related-links": [
+                {
+                    "title": "gulp.js - the streaming build system",
+                    "url": "http://gulpjs.com/"
+                }
+            ]
         }
     ]
 }
