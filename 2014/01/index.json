@@ -147,6 +147,16 @@
             ],
             "date": "2014-01-06T13:11:31.972Z",
             "related-links": []
+        },
+        {
+            "title": "Node Streams for APIs - collect {thoughts}",
+            "url": "http://blog.drewolson.org/blog/2014/01/04/node-streams-for-apis",
+            "content": "NodeのStreamを使ったAPIの実装について。\nテストの書き方、Streamの実装方法をAPIレンスポンスを返すものを書きながら見ていく話",
+            "tags": [
+                "node.js"
+            ],
+            "date": "2014-01-06T13:29:07.090Z",
+            "related-links": []
         }
     ]
 }
