@@ -88,6 +88,22 @@
                     "url": "http://gulpjs.com/"
                 }
             ]
+        },
+        {
+            "title": "Koa 0.2.0 — Code adventures — Medium",
+            "url": "https://medium.com/code-adventures/a3a046a04836",
+            "content": "NodeのウェブフレームワークKoa 0.2.0リリース。\nSocketのエラーハンドリング、Debug用のComposeモジュールの改善等",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "date": "2014-01-06T12:02:42.370Z",
+            "related-links": [
+                {
+                    "title": "koajs/compose",
+                    "url": "https://github.com/koajs/compose"
+                }
+            ]
         }
     ]
 }
