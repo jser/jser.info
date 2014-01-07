@@ -25,7 +25,7 @@ $(function () {
         showDayArrows: false,
         callback: function (cal) {
             var date = cal.currentDate;
-            var fileDirPath = date.getFullYear() + '/' + format0((date.getMonth() + 1), 2);
+            var fileDirPath = "data/" + date.getFullYear() + '/' + format0((date.getMonth() + 1), 2);
             var JSONFilePath = fileDirPath + "/index.json?" + new Date().getTime();
             JSONArticle.load(JSONFilePath).done(function (data) {
                 console.log("data", data);

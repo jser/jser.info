@@ -4,7 +4,7 @@
 $(function () {
     // yyyy-MM-dd に該当する付きのjsonを開く
     function editOnGithub(dateString) {
-        var editURL = "https://github.com/azu/jser.info/edit/gh-pages/" + dateString + "/index.json";
+        var editURL = "https://github.com/azu/jser.info/edit/gh-pages/data/" + dateString + "/index.json";
         location.href = editURL;
     }
 

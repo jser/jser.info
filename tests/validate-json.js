@@ -87,7 +87,7 @@ function getJSONFiles(rootDir, mainCallback) {
     getTargetDirFromRoot(null, mainCallback);
 }
 (function main() {
-    var rootDir = __dirname + "/../";
+    var rootDir = __dirname + "/../data/";
     getJSONFiles(rootDir, function (error, jsonFiles) {
         if (error) {
             console.log("error", error);
