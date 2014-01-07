@@ -188,6 +188,23 @@
                     "url": "https://github.com/creationix/step"
                 }
             ]
+        },
+        {
+            "title": "Dependency injection in JavaScript",
+            "url": "http://krasimirtsonev.com/blog/article/Dependency-injection-in-JavaScript",
+            "content": "JavaScriptでDIを実装してみるチュートリアル。\nAMDライクな依存関係を示すモジュールの定義をするアプローチとAngularJSみたいなリフレクションで関数定義から依存関係を取得するアプローチについて書かれてる",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "tutorial"
+            ],
+            "date": "2014-01-07T01:25:24.818Z",
+            "related-links": [
+                {
+                    "title": "Merrick Christensen - JavaScript Dependency Injection",
+                    "url": "http://merrickchristensen.com/articles/javascript-dependency-injection.html"
+                }
+            ]
         }
     ]
 }
