@@ -250,6 +250,22 @@
             ],
             "date": "2014-01-08T08:28:01.764Z",
             "related-links": []
+        },
+        {
+            "title": "Why I am switching to promises",
+            "url": "http://spion.github.io/posts/why-i-am-switching-to-promises.html",
+            "content": "Promiseの利点について。\nthrow-safeなエラーハンドリング、パフォーマンスとメモリ消費、promise.nodeifyを使ったコールバックスタイルとの互換性、Promiseの書き方やユースケース等まとまってる",
+            "tags": [
+                "JavaScript",
+                "Promises"
+            ],
+            "date": "2014-01-08T14:48:31.028Z",
+            "related-links": [
+                {
+                    "title": "Promise nuggets",
+                    "url": "http://promise-nuggets.github.io/"
+                }
+            ]
         }
     ]
 }
