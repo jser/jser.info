@@ -4,17 +4,16 @@
  * License: MIT License
  */
 
+var app = {};
 $(function () {
-    function format0(str, len) {
-        return ('_' + Math.pow(10, len) + str).slice(-len);
-    }
+
 
     Handlebars.registerHelper('auto_format', function (text) {
         // autolinkTwitter 内でHTMLエスケープされているためHandlebarではしない
         var linkedText = window.autolinkTwitter(text);
         return linkedText.replace(/\n/g, "<br />");
     });
-    var calendarPicker = $("#date-picker").calendarPicker({
+    $("#date-picker").calendarPicker({
         monthNames: ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月'],
         dayNames: ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
         //useWheel:true,
@@ -24,18 +23,18 @@ $(function () {
         //days:4,
         showDayArrows: false,
         callback: function (cal) {
-            var date = cal.currentDate;
-            var fileDirPath = "data/" + date.getFullYear() + '/' + format0((date.getMonth() + 1), 2);
-            var JSONFilePath = fileDirPath + "/index.json?" + new Date().getTime();
-            JSONArticle.load(JSONFilePath).done(function (data) {
-                console.log("data", data);
-                $("#content").data("file-dir-path", fileDirPath);
-                JSONArticle.render(data);
-            }).fail(function (err) {
-                    // JSONがダメならHTMLを試す
-                    var HTMLFilePath = fileDirPath + "/index.html?" + new Date().getTime();
-                    loadArticleHTML(HTMLFilePath);
-                });
+//            var date = cal.currentDate;
+//            var fileDirPath = "data/" + date.getFullYear() + '/' + format0((date.getMonth() + 1), 2);
+//            var JSONFilePath = fileDirPath + "/index.json?" + new Date().getTime();
+//            JSONArticle.load(JSONFilePath).done(function (data) {
+//                console.log("data", data);
+//                $("#content").data("file-dir-path", fileDirPath);
+//                JSONArticle.render(data);
+//            }).fail(function (err) {
+//                    // JSONがダメならHTMLを試す
+//                    var HTMLFilePath = fileDirPath + "/index.html?" + new Date().getTime();
+//                    loadArticleHTML(HTMLFilePath);
+//                });
         }
     });
 

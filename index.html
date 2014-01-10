@@ -14,10 +14,14 @@
     <script src="js/jquery-ui.min.js"></script>
     <script src="js/jquery-ui.growl.min.js"></script>
     <script src="js/jquery.calendarPicker.js"></script>
+    <script src="js/knockout-3.0.0.js"></script>
+    <script src="js/knockout-sortable.js"></script>
     <script src="js/handlebars.min.js"></script>
     <script src="js/autolink.js"></script>
     <script src="js/script.js"></script>
+    <script src="js/app-client.js"></script>
     <script src="js/edit-on-github.js"></script>
+
 </head>
 <body>
 <div id="controller">
@@ -28,26 +32,45 @@
     <button id="edit-on-github">Edit index.json on Github</button>
 </p>
 <div id="content">
-    <div id="input" class="connectedSortable"></div>
+    <div id="input" class="connectedSortable">
+        <div data-bind="sortable: articles">
+            <div class="sites read-site">
+                <blockquote data-bind="cite: url, title:title">
+                    <p class="jser-sitelink">
+                        <strong data-bind="text: title"></strong><br>
+                        <a data-bind="href:url,title:title,text:url"></a>
+                    </p>
+                </blockquote>
+                <p class="jser-tags jser-tag-icon" data-bind="foreach : tags">
+                    <span class="jser-tag" data-bind="text: $data"></span>
+                </p>
+
+                <p data-bind="text: content"></p>
+                <ul class="jser-related-links" data-bind="foreach: relatedLinks">
+                    <li><a data-bind="href:url, text:title"></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
     <div id="output" class="connectedSortable">
-        <div class="site-genre">
-            <strong>ヘッドライン</strong>
-        </div>
-        <div class="site-genre">
-            <strong>アーティクル</strong>
-        </div>
-        <div class="site-genre">
-            <strong>スライド、動画関係</strong>
-        </div>
-        <div class="site-genre">
-            <strong>サイト、サービス、ソフトウェア関係</strong>
-        </div>
-        <div class="site-genre">
-            <strong>ツール、ライブラリ関係</strong>
-        </div>
-        <div class="site-genre">
-            <strong>書籍関係</strong>
-        </div>
+            <div class="site-genre">
+                <strong>ヘッドライン</strong>
+            </div>
+            <div class="site-genre">
+                <strong>アーティクル</strong>
+            </div>
+            <div class="site-genre">
+                <strong>スライド、動画関係</strong>
+            </div>
+            <div class="site-genre">
+                <strong>サイト、サービス、ソフトウェア関係</strong>
+            </div>
+            <div class="site-genre">
+                <strong>ツール、ライブラリ関係</strong>
+            </div>
+            <div class="site-genre">
+                <strong>書籍関係</strong>
+            </div>
     </div>
 </div>
 
@@ -70,7 +93,7 @@
         {{#if related-links}}
         <ul class="jser-related-links">
             {{#each related-links}}
-                <li><a href="{{url}}">{{title}}</a></li>
+            <li><a href="{{url}}">{{title}}</a></li>
             {{/each}}
         </ul>
         {{/if}}
