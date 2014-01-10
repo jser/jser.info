@@ -279,6 +279,23 @@
             ],
             "date": "2014-01-09T07:06:27.320Z",
             "related-links": []
+        },
+        {
+            "title": "Frida",
+            "url": "http://www.frida.re/",
+            "content": "プロセスのトレース、関数のhook等を出来るツール https://github.com/frida/frida-gum/ \nV8とPythonを使ったバインディングがあり、JavaScriptでスクリプトを書いてプロセスを監視したりデバッグに使える。",
+            "tags": [
+                "JavaScript",
+                "python",
+                "software"
+            ],
+            "date": "2014-01-10T00:56:38.708Z",
+            "related-links": [
+                {
+                    "title": "History",
+                    "url": "http://www.frida.re/docs/history/"
+                }
+            ]
         }
     ]
 }
