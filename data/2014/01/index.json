@@ -296,6 +296,23 @@
                     "url": "http://www.frida.re/docs/history/"
                 }
             ]
+        },
+        {
+            "title": "tooling/book-of-modern-frontend-tooling",
+            "url": "https://github.com/tooling/book-of-modern-frontend-tooling",
+            "content": "モダンなフロントエンド向けツールについて書かれている書籍。\nGithub上で書かれいるのでコントリビューションも出来る",
+            "tags": [
+                "book",
+                "Tools",
+                "browser"
+            ],
+            "date": "2014-01-10T14:49:22.740Z",
+            "related-links": [
+                {
+                    "title": "Enterprise Web Development: From Desktop to Mobile",
+                    "url": "http://enterprisewebbook.com/"
+                }
+            ]
         }
     ]
 }
