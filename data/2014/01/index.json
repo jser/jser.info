@@ -326,6 +326,28 @@
             ],
             "date": "2014-01-11T09:02:21.814Z",
             "related-links": []
+        },
+        {
+            "title": "Release Now passing all relevant tests · andyearnshaw/Intl.js",
+            "url": "https://github.com/andyearnshaw/Intl.js/releases/tag/v0.1.0",
+            "content": "ECMAScript Internationalization API (ECMA-402)の実装であるIntl.js 0.1.0がリリース。\ntest262 suiteを全てパスした",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "i18n",
+                "ReleaseNote"
+            ],
+            "date": "2014-01-11T09:57:51.232Z",
+            "related-links": [
+                {
+                    "title": "ECMAScript Internationalization API Specification – ECMA-402 Edition 1.0",
+                    "url": "http://www.ecma-international.org/ecma-402/1.0/"
+                },
+                {
+                    "title": "ECMAScript Language – test262",
+                    "url": "http://test262.ecmascript.org/"
+                }
+            ]
         }
     ]
 }
