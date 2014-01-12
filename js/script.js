@@ -7,6 +7,10 @@
 $(function () {
     var app = window.app || {};
     var vm = new app.model.JSerModel();
+    ko.bindingHandlers.sortable.afterMove = function (arg) {
+        var article = arg.item;
+        window.app.visited.setItem(article.url, new Date());
+    }
     ko.applyBindings(vm);
 
     Handlebars.registerHelper('auto_format', function (text) {
@@ -28,10 +32,7 @@ $(function () {
         var JSONFilePath = fileDirPath + "/index.json?" + new Date().getTime();
         window.app.client.load(JSONFilePath).done(function (data) {
             var list = data.list;
-            for (var i = 0; i < list.length; i++) {
-                var article = list[i];
-                vm.inputArticle(article);
-            }
+            vm.reloadInput(list);
         }).fail(function (err) {
                 $.WsGrowl.show({content: 'その月のアーカイブはないです'});
             });

@@ -18,6 +18,7 @@
     <script src="js/vender/knockout-sortable.js"></script>
     <script src="js/vender/handlebars.min.js"></script>
     <script src="js/vender/autolink.js"></script>
+    <script src="js/models/visited-item.js"></script>
     <script src="js/models/article-model.js"></script>
     <script src="js/script.js"></script>
     <script src="js/app-client.js"></script>
@@ -37,8 +38,8 @@
 </p>
 <div id="content">
     <div id="input" class="connectedSortable" data-bind="foreach: inputModels">
-        <div data-bind="sortable: articles">
-            <div class="sites read-site">
+        <div data-bind="sortable: { data : articles , afterMove : $root.myDropCallback }">
+            <div class="sites" data-bind="css : { 'read-site' : $root.isVisited($data) }">
                 <blockquote data-bind="cite: url, title:title">
                     <p class="jser-sitelink">
                         <strong data-bind="text: title"></strong><br>

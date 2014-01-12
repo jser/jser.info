@@ -36,7 +36,6 @@
         new ArticleGroup("アーティクル", []),
         new ArticleGroup("スライド、動画関係", []),
         new ArticleGroup("サイト、サービス", []),
-        new ArticleGroup("サイト、サービス、ソフトウェア関係", []),
         new ArticleGroup("ソフトウェア、ツール、ライブラリ関係", []),
         new ArticleGroup("書籍関係", []),
     ];
@@ -45,9 +44,16 @@
         var that = this;
         that.inputModels = input || inputGroups;
         that.outputModels = output || outputGroups;
-        that.inputArticle = function (object) {
+        that.reloadInput = function (array) {
             var inputModel = that.inputModels[0];
-            inputModel.articles.push(new Article(object));
+            inputModel.articles.removeAll();
+            for (var i = 0; i < array.length; i++) {
+                var obj = array[i];
+                inputModel.articles.push(new Article(obj));
+            }
+        };
+        that.isVisited = function (article) {
+            return window.app.visited.hasItem(article.url);
         };
     };
     window.app = window.app || {};
