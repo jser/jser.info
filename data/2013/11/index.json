@@ -1,0 +1,882 @@
+{
+    "list": [
+        {
+            "title": "WebView for Android - Google Chrome Mobile — Google Developers",
+            "url": "https://developers.google.com/chrome/mobile/docs/webview/overview",
+            "content": "Android 4.4 (KitKat) からWebViewがChromiumベースに変更",
+            "tags": [
+                "Android",
+                "webview",
+                "Chrome"
+            ],
+            "date": "2013-11-01T00:16:19.804Z"
+        },
+        {
+            "title": "Terminal in Chrome Devtools — Dmitry Filimonov",
+            "url": "http://blog.dfilimonov.com/2013/09/12/devtools-terminal.html",
+            "content": "Chrome Dev Toolsからターミナルを叩ける拡張.\nNode proxy プロキシ経由でもターミナルにアクセスできるようになってる。",
+            "tags": [
+                "node.js",
+                "Chrome",
+                "デバック",
+                "console"
+            ],
+            "date": "2013-11-01T00:22:22.229Z"
+        },
+        {
+            "title": "ES6FeatureSet.xlsx - Microsoft Excel Web App",
+            "url": "https://skydrive.live.com/view.aspx?resid=704A682DC00D8AAD!59602&app=Excel&authkey=!AAMixsO0TuyPYwc",
+            "content": "ES6の機能別の現在の仕様ステータスのまとめ.\nvia http://bit.ly/18M46g0",
+            "tags": [
+                "ECMAScript",
+                "まとめ"
+            ],
+            "date": "2013-11-02T05:15:30.256Z"
+        },
+        {
+            "title": "\"Добро пожаловать в SoundCloud!\". Александр Ковалёв, SoundCloud",
+            "url": "http://www.slideshare.net/yandex/soundcloud-soundcloud",
+            "content": "SoundCloudをJavaScript構成についてのスライド.\nBackbone(trombone)、メモリリークを見つけるツール(node-leaky)と方法について、V8のhidden class、オブジェクトの再利用、ASTをみて余分なコードをビルド時に削除.\n",
+            "tags": [
+                "JavaScript",
+                "スライド",
+                "backbone.js"
+            ],
+            "date": "2013-11-02T05:35:22.823Z"
+        },
+        {
+            "title": "WebStorm 7.0.2 RC: Mocha and improved Dart support | JetBrains WebStorm Blog",
+            "url": "http://blog.jetbrains.com/webstorm/2013/11/webstorm-7-0-2-rc-mocha-and-improved-dart-support/",
+            "content": "WebStorm 7.0.2 RCリリース。\nMochaをサポート",
+            "tags": [
+                "WebStorm",
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "date": "2013-11-02T06:01:45.972Z"
+        },
+        {
+            "title": "Brackets Sprint 33 Build – Brackets Blog",
+            "url": "http://blog.brackets.io/2013/11/01/brackets-sprint-33-build/",
+            "content": "Brackets Sprint 33 リリース.\nHTMLファイルから該当するCSSの編集、CSSのtiming-functionをGUIで変更出来るように、画像のプレビューの追加等",
+            "tags": [
+                "JavaScript",
+                "IDE",
+                "ReleaseNote"
+            ],
+            "date": "2013-11-02T07:22:25.245Z"
+        },
+        {
+            "title": "Bootstrap 3.0.1 released · Bootstrap Blog",
+            "url": "http://blog.getbootstrap.com/2013/10/29/bootstrap-3-0-1-released/",
+            "content": "Bootstrap 3.0.1リリース",
+            "tags": [
+                "CSS",
+                "design",
+                "library"
+            ],
+            "date": "2013-11-03T05:05:18.516Z"
+        },
+        {
+            "title": "v0.1.0: Version 0.1.0 · nzakas/eslint",
+            "url": "https://github.com/nzakas/eslint/releases/tag/v0.1.0",
+            "content": "pluggableな機構を持ち、ASTをベースにLintできるツールのESLint 0.1.0リリース.\nhttps://github.com/nzakas/eslint/wiki/Release-goals#v010",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "Tools"
+            ],
+            "date": "2013-11-04T04:08:41.855Z"
+        },
+        {
+            "title": "ESLint 0.1.0がリリースされたので、JSHintとの違いやプラグインの書き方について | Web scratch",
+            "url": "http://efcl.info/2013/1104/res3465/",
+            "content": "JavaScriptのASTをみてLintするツールについて。\nJSHintとの違いやプラグインの書き方について。\nプラグインを書いてLintするルールを追加することが出来る。",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "Tools"
+            ],
+            "date": "2013-11-05T13:44:12.557Z"
+        },
+        {
+            "title": "Orion 4.0 Released | Orion News",
+            "url": "http://planetorion.org/news/2013/11/orion-4-0-released/",
+            "content": "Orion 4.0リリース",
+            "tags": [
+                "JavaScript",
+                "editor"
+            ],
+            "date": "2013-11-05T13:50:26.816Z"
+        },
+        {
+            "title": "Manning: CORS in Action",
+            "url": "http://www.manning.com/hossain/",
+            "content": "Cross-Origin Resource Sharingtについての書籍",
+            "tags": [
+                "web",
+                "セキュリティ",
+                "book"
+            ],
+            "date": "2013-11-07T07:54:12.564Z"
+        },
+        {
+            "title": "The Pragmatic Bookshelf | HTML5 and CSS3",
+            "url": "http://pragprog.com/book/bhh52e/html5-and-css3",
+            "content": "HTML5 and CSS3 (2nd edition)",
+            "tags": [
+                "HTML5",
+                "CSS",
+                "book"
+            ],
+            "date": "2013-11-07T12:30:24.573Z"
+        },
+        {
+            "title": "JSDiff for Comparing Text",
+            "url": "http://tobyho.com/2013/11/05/jsdiff-for-comparing-text/",
+            "content": "文字列のdiffを取るライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2013-11-07T12:50:15.873Z"
+        },
+        {
+            "title": "Firefox Developer Tools: Episode 27 – Edit as HTML, Codemirror & more ✩ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2013/11/firefox-developer-tools-episode-27-edit-as-html-codemirror-more/",
+            "content": "Firefox 27の開発者ツールについて.\nDOM eventでのbreak、カラーテーマの変更、CSS上に色の表示、画像のプレビュー、Codemirrorベースのエディタ、reflowのログ機能等が追加された",
+            "tags": [
+                "firefox",
+                "デバック",
+                "Tools"
+            ],
+            "date": "2013-11-07T15:55:04.096Z"
+        },
+        {
+            "title": "High Performance Animations - HTML5 Rocks",
+            "url": "http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/",
+            "content": "CSS アニメーションとGPUレイヤーについて。 opacity, translate, rotate, scaleはGPUによって処理させる事が出来る。 reflow/repaintの要因となるCSSプロパティのまとめ。",
+            "tags": [
+                "CSS",
+                "performance"
+            ],
+            "date": "2013-11-08T12:54:26.415Z"
+        },
+        {
+            "title": "tantaman/LargeLocalStorage",
+            "url": "https://github.com/tantaman/LargeLocalStorage",
+            "content": "FilesystemAPI、IndexedDB、 \tLocalStorage、WebSQLをそれぞれブリッジする実装があり、それを透過的に利用できるKey-value storeなライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2013-11-08T13:15:12.524Z"
+        },
+        {
+            "title": "Animated SVG Icons: Using Snap.svg to animate SVG icons",
+            "url": "http://tympanus.net/Development/AnimatedSVGIcons/",
+            "content": "Snap.svgを使ったアニメーションSVGアイコン",
+            "tags": [
+                "SVG",
+                "animation"
+            ],
+            "date": "2013-11-08T13:35:04.931Z"
+        },
+        {
+            "title": "Testing YUI Everywhere",
+            "url": "http://reidburke.com/deck/2013/yuiconf/#slide=title",
+            "content": "YUIのテストについてのスライド.\nCI, Selenium, Sauce Labsを使ってSafari/iOSでのテスト.\n100K以上あるテストをどうやって効率よく回すかについて",
+            "tags": [
+                "YUI",
+                "testing",
+                "スライド"
+            ],
+            "date": "2013-11-08T15:27:59.339Z"
+        },
+        {
+            "title": "History - Octane — Google Developers",
+            "url": "https://developers.google.com/octane/history",
+            "content": "GoogleのJavaScriptベンチマークOctane 2.0リリース",
+            "tags": [
+                "google",
+                "benchmark"
+            ],
+            "date": "2013-11-08T17:36:41.327Z"
+        },
+        {
+            "title": "harmony:specification_drafts [ES Wiki]",
+            "url": "http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#november_8_2013_draft_rev_21",
+            "content": "ES6 Draft Rev 21リリース\nmodule synxtaxについての記述がアップデートされた",
+            "tags": [
+                "ECMAScript",
+                "document",
+                "spec"
+            ],
+            "date": "2013-11-09T07:19:49.759Z"
+        },
+        {
+            "title": "Amazon Web Services Blog: Developer Preview - AWS SDK for JavaScript in the Browser",
+            "url": "http://aws.typepad.com/aws/2013/10/developer-preview-aws-sdk-for-javascript.html",
+            "content": "AWSのJavaScript向けSDKがリリースされた。\nAmazon S3、SQS、SNS、DynamoDBが利用できる",
+            "tags": [
+                "JavaScript",
+                "amazon"
+            ],
+            "date": "2013-11-09T07:32:27.220Z"
+        },
+        {
+            "title": "AngularJS 1.2.0: timely-delivery | AngularJS",
+            "url": "http://blog.angularjs.org/2013/11/angularjs-120-timely-delivery.html",
+            "content": "AngularJS 1.2.0リリース",
+            "tags": [
+                "AngularJS",
+                "ReleaseNote"
+            ],
+            "date": "2013-11-09T07:46:57.624Z"
+        },
+        {
+            "title": "What's new in JSHint (October, 2013)",
+            "url": "http://jshint.com/blog/new-in-jshint-oct-2013/",
+            "content": "JSHint 2.2/2.3の機能について。\nLintを無視するコメント、typeofのチェック、freezeを指定するdirective",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2013-11-09T09:15:07.337Z"
+        },
+        {
+            "title": "An In-Depth Introduction To Ember.js | Smashing Coding",
+            "url": "http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/",
+            "content": "Ember.jsについてのチュートリアル。\n基本的な構造やEmber-Data、デバッグの方法などについて書かれてる",
+            "tags": [
+                "JavaScript",
+                "MVC",
+                "tutorial"
+            ],
+            "date": "2013-11-09T09:24:20.063Z"
+        },
+        {
+            "title": "Creditcard.js: a more usable credit card form. Improve payment form, checkout, and ecommerce usability with JavaScript card number validation, credit card type detection, and more.",
+            "url": "http://creditcardjs.com",
+            "content": "クレジトカードの入力フォームライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2013-11-10T17:08:42.504Z"
+        },
+        {
+            "title": "dtao/autodoc",
+            "url": "https://github.com/dtao/autodoc",
+            "content": "JavaScriptでdoctestやベンチマークのアノテーションを使えるツール。\nまたコメントからドキュメントも生成することが出来る",
+            "tags": [
+                "JavaScript",
+                "document",
+                "AST",
+                "testing",
+                "Tools"
+            ],
+            "date": "2013-11-11T02:54:01.874Z"
+        },
+        {
+            "title": "Amazon.co.jp： コーディングが５倍早くなるjQueryセレクター超活用 eBook: Paul Cyan: Kindleストア",
+            "url": "http://www.amazon.co.jp/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%8C%EF%BC%95%E5%80%8D%E6%97%A9%E3%81%8F%E3%81%AA%E3%82%8BjQuery%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E8%B6%85%E6%B4%BB%E7%94%A8-Paul-Cyan-ebook/dp/B00FKA52BM",
+            "content": "jQery Selectorについてのkindle book",
+            "tags": [
+                "jQuery",
+                "book"
+            ],
+            "date": "2013-11-11T04:27:58.718Z"
+        },
+        {
+            "title": "HTML5 を利用したWeb アプリケーションのセキュリティ問題に関する調査報告書",
+            "url": "http://www.jpcert.or.jp/research/html5.html",
+            "content": "広義のHTML5やWebWorkerやXHR Lv2などによって起こりえる脆弱性等の問題やXSSフィルターやCSP等についてまとめられた資料",
+            "tags": [
+                "HTML5",
+                "JavaScript",
+                "セキュリティ",
+                "PDF",
+                "資料"
+            ],
+            "date": "2013-11-11T12:29:40.901Z"
+        },
+        {
+            "title": "ES6 Uncensored // Speaker Deck",
+            "url": "https://speakerdeck.com/anguscroll/es6-uncensored",
+            "content": "ES5と比較したES6の新しい機能についてのスライド",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "スライド"
+            ],
+            "date": "2013-11-11T13:12:51.801Z"
+        },
+        {
+            "title": "RemoteDebug, an initiative to unify remote debugging across browsers.",
+            "url": "http://remotedebug.org/",
+            "content": "ブラウザのremote debug protocolを共通の仕様(Chromeのをベースとしてる)を使えるようにして、色々なツールやブラウザ間でやり取り出来るようにするのを目的としてる。\nブリッジの実装としてFirefoxのものなどが公開されてる。",
+            "tags": [
+                "browser",
+                "デバック",
+                "Tools",
+                "spec",
+                "community"
+            ],
+            "date": "2013-11-11T13:39:46.071Z"
+        },
+        {
+            "title": "xfo-clickjacking.pdf",
+            "url": "https://cure53.de/xfo-clickjacking.pdf",
+            "content": "X-Frame-Optionsとクリックジャッキング、XSSについて",
+            "tags": [
+                "HTML",
+                "セキュリティ",
+                "PDF"
+            ],
+            "date": "2013-11-11T13:52:47.915Z"
+        },
+        {
+            "title": "WebStorm 7.0.2 is available: Mocha integration and improved Dart support | JetBrains WebStorm Blog",
+            "url": "http://blog.jetbrains.com/webstorm/2013/11/webstorm-7-0-2-is-available/",
+            "content": "WebStorm 7.0.2リリース.\nDart対応の改善、Mochaをサポート、CSS Flexbxへの対応",
+            "tags": [
+                "WebStorm",
+                "ReleaseNote"
+            ],
+            "date": "2013-11-12T05:08:39.221Z"
+        },
+        {
+            "title": "Firefoxの開発ツール",
+            "url": "http://www.slideshare.net/chikoski/firefox-28137532",
+            "content": "Firefoxの開発者ツールの解説スライド.\nそれぞれのUIの名前や機能、使い方についてまとまってる",
+            "tags": [
+                "firefox",
+                "デバック",
+                "スライド"
+            ],
+            "date": "2013-11-12T13:20:29.313Z"
+        },
+        {
+            "title": "HTML Imports: #include for the web - HTML5 Rocks",
+            "url": "http://www.html5rocks.com/en/tutorials/webcomponents/imports/",
+            "content": "HTML importについて特徴や使い方、機能判定、Web Components <template>と一緒に使う場合やCORSについて。\nimportを使ったライブラリの依存管理、importはメインHTMLのパースをブロッキングしない特徴などについて",
+            "tags": [
+                "HTML"
+            ],
+            "date": "2013-11-12T14:24:50.200Z"
+        },
+        {
+            "title": "vesln/jsmd",
+            "url": "https://github.com/vesln/jsmd",
+            "content": "readmeに書かれたJavaScriptのサンプルコードが正しく動くかをテスト出来るツール.\n// => で結果を書くdoctest的な感じ",
+            "tags": [
+                "node.js",
+                "document",
+                "testing",
+                "Tools"
+            ],
+            "date": "2013-11-13T00:44:05.716Z"
+        },
+        {
+            "title": "VelocityConf: Rendering Performance Case Studies // Speaker Deck",
+            "url": "https://speakerdeck.com/addyosmani/velocityconf-rendering-performance-case-studies",
+            "content": "60fpsでのスクロールを実現するために、どのような問題(jank)があるのかをみて、reflowや画像のデコード等重たい箇所をChrome Dev Toolsで見つけて解決していく話。\nケーススタディとしてパララックスなサイトで、スクロールする度に描画必要な要素を\nhttp://www.html5rocks.com/en/tutorials/speed/high-performance-animations/ で書かれているように、CSS translate3d等を使ってGPUレイヤーを分ける事で高速化する話。\nまたGoogle+の例にtranslate3dをやり過ぎると逆に合成に時間がかかりすぎる問題を生む話などレンダリングのパフォーマンスについて書かれているスライド",
+            "tags": [
+                "performance",
+                "browser",
+                "スライド"
+            ],
+            "date": "2013-11-14T01:02:16.979Z"
+        },
+        {
+            "title": "Angular.jsのngAnimateについての簡単なデモと1.2.0 - 車輪を再発明 / koba04の日記",
+            "url": "http://d.hatena.ne.jp/koba04/20131114/1384355889",
+            "content": "Angular.js 1.2のngRepeat、ngAnimateについて",
+            "tags": [
+                "AngularJS"
+            ],
+            "date": "2013-11-14T01:13:39.430Z"
+        },
+        {
+            "title": "Changelog · lodash/lodash Wiki",
+            "url": "https://github.com/lodash/lodash/wiki/Changelog#v230",
+            "content": "lodash 2.3.0リリース.\n_.createと _.noopの追加、_.debounce と _.throttleのメモリリークの解消やメソッドの最適化等",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2013-11-14T01:22:43.907Z"
+        },
+        {
+            "title": "The Pragmatic Bookshelf | Backbone Marionette",
+            "url": "http://pragprog.com/book/dsbackm/backbone-marionette",
+            "content": "Backbone Marionetteについての書籍",
+            "tags": [
+                "backbone.js",
+                "book"
+            ],
+            "date": "2013-11-14T05:48:54.829Z"
+        },
+        {
+            "title": "Grunt Tips and Tricks - Pony Foo",
+            "url": "http://blog.ponyfoo.com/2013/11/13/grunt-tips-and-tricks",
+            "content": "Grunt Tips集。\nloadNpmTasksをまとめる、watchをまとめすぎると遅くなるので分ける、JSHintレポーター、ファイル分割について",
+            "tags": [
+                "Grunt",
+                "Tips"
+            ],
+            "date": "2013-11-14T12:48:14.501Z"
+        },
+        {
+            "title": "Dart News & Updates: Dart 1.0: A stable SDK for structured web apps",
+            "url": "http://news.dartlang.org/2013/11/dart-10-stable-sdk-for-structured-web.html",
+            "content": "Dart 1.0リリース.\n",
+            "tags": [
+                "dart",
+                "ReleaseNote"
+            ],
+            "date": "2013-11-14T13:11:35.854Z"
+        },
+        {
+            "title": "jQuery 1.11.0/2.1.0 Beta 2 Released | Official jQuery Blog",
+            "url": "http://blog.jquery.com/2013/11/15/jquery-1-11-02-1-0-beta-2-released/",
+            "content": "jQuery 1.11.0/2.1.0 Beta 2 リリース.\nnpmからインストールできるように、起動時にチェックしていた処理をlazyに出来るように変更、SouceMapコメントがCDN等のやつからは取り除かれるように",
+            "tags": [
+                "jQuery",
+                "ReleaseNote"
+            ],
+            "date": "2013-11-16T01:54:05.393Z"
+        },
+        {
+            "title": "AbsurdJS fundamentals",
+            "url": "http://krasimirtsonev.com/blog/article/AbsurdJS-fundamentals",
+            "content": "JavaScriptで書くCSSプリプロセッサのAbsurdJS について",
+            "tags": [
+                "JavaScript",
+                "CSS"
+            ],
+            "date": "2013-11-17T13:22:35.638Z"
+        },
+        {
+            "title": "Functional data structures in JavaScript with Mori - sitr.us",
+            "url": "http://sitr.us/2013/11/04/functional-data-structures.html",
+            "content": "MoriというClojureの関数型のデータ構造を模したものを扱うJavaScriptライブラリについての紹介記事.",
+            "tags": [
+                "JavaScript",
+                "関数型言語",
+                "library"
+            ],
+            "date": "2013-11-17T13:45:54.569Z"
+        },
+        {
+            "title": "Modules: The Right Way | dontkry.com",
+            "url": "http://dontkry.com/posts/code/modules-the-right-way.html",
+            "content": "nodeでのモジュールの構造的な管理について",
+            "tags": [
+                "node.js"
+            ],
+            "date": "2013-11-18T08:51:48.332Z"
+        },
+        {
+            "title": "Angular University Devoxx 2013 - Google ドライブ",
+            "url": "https://docs.google.com/presentation/d/1eQ3q_Y3Q2ra4PzWHrQ_E60Ar1-2IRooXI4P-fW0npzQ/preview#slide=id.p49",
+            "content": "AngularJSの構成要素について詳しく書かれてるスライド",
+            "tags": [
+                "AngularJS",
+                "スライド"
+            ],
+            "date": "2013-11-18T08:53:01.256Z"
+        },
+        {
+            "title": "An Introduction To DOM Events | Smashing Coding",
+            "url": "http://coding.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/",
+            "content": "DOMイベントについて詳しい記事.\neventオブジェクトの中身や、キャプチャー/バブリングフェーズについて、stopPropagation/preventDefaultの違い、カスタムイベントについて書かれてる",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "event"
+            ],
+            "date": "2013-11-18T08:55:02.436Z"
+        },
+        {
+            "title": "Live editing WebGL shaders with Firefox Developer Tools ✩ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/",
+            "content": "Firefox 27に追加されたShader Editorについて。\nWebGLのシェーダー部分を編集等できるデバッグツールが開発者ツールに追加された",
+            "tags": [
+                "WebGL",
+                "firefox",
+                "デバック"
+            ],
+            "date": "2013-11-18T08:57:22.378Z"
+        },
+        {
+            "title": "getify/You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "content": "KickstarterでファンディングされてるJavaScriptのCore寄りの内容の書籍シリーズが公開された。",
+            "tags": [
+                "JavaScript",
+                "book"
+            ],
+            "date": "2013-11-18T09:06:56.257Z"
+        },
+        {
+            "title": "vesln/curiosity",
+            "url": "https://github.com/vesln/curiosity",
+            "content": "ASTを見てif ステートメント等の出現回数をカウントしてくれるツール",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "Tools"
+            ],
+            "date": "2013-11-18T13:47:41.058Z"
+        },
+        {
+            "title": "TypeScript - Documentation",
+            "url": "https://typescript.codeplex.com/wikipage?title=TypeScript%200.9.5%20beta",
+            "content": "TypeScript 0.9.5 betaリリース",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "date": "2013-11-19T05:01:48.365Z"
+        },
+        {
+            "title": "square/es6-arrow-function",
+            "url": "https://github.com/square/es6-arrow-function",
+            "content": "ES6の=>をAST変換してES5互換の形式に変換するツール.\nast-types, recaseを使用",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "AST",
+                "Tools"
+            ],
+            "date": "2013-11-20T00:58:54.601Z"
+        },
+        {
+            "title": "Videos - Code Firefox",
+            "url": "http://codefirefox.com/",
+            "content": "Firefoxの開発に参加したい人向けの動画ガイド.\nビルド方法やbugの立て方、パッチの書き方、コードやテスト、レビュー、デバッグ方法等幅広く扱ってる",
+            "tags": [
+                "firefox",
+                "Mozilla",
+                "動画"
+            ],
+            "date": "2013-11-20T15:25:20.308Z"
+        },
+        {
+            "title": "js-platform/idbfs",
+            "url": "https://github.com/js-platform/idbfs",
+            "content": "IndexedDBを使ったfsモジュールライクなAPIを持ったFile Systemの実装",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2013-11-21T01:09:00.196Z"
+        },
+        {
+            "title": "Brackets Sprint 34 Build – Brackets Blog",
+            "url": "http://blog.brackets.io/2013/11/20/1240/",
+            "content": "Brackets Sprint 34リリース。\nFile Systemがプラガブルになって、Dropbox等のサービス等と直接やり取り出来るようになった、拡張機能管理画面が分かりやすくなった、画像にpixelガイドが表示されるように",
+            "tags": [
+                "JavaScript",
+                "editor",
+                "IDE",
+                "ReleaseNote"
+            ],
+            "date": "2013-11-21T01:12:48.153Z"
+        },
+        {
+            "title": "Impress Japan: イラストでよくわかるJavaScript Ajax・jQuery・HTML5/CSS3のキホン",
+            "url": "http://www.impressjapan.jp/books/1113101018",
+            "content": "イラストが豊富な初心者向けのWeb開発本.",
+            "tags": [
+                "JavaScript",
+                "jQuery",
+                "book",
+                "電子書籍"
+            ],
+            "date": "2013-11-22T01:06:16.993Z"
+        },
+        {
+            "title": "Amazon: JavaScriptの新しい教科書 基礎から覚える、深く理解できる。 [単行本]: 比留間 和也",
+            "url": "http://www.amazon.co.jp/o/ASIN/4844363883/amazon0abac-22/ref=nosim",
+            "content": "2013年12月11日発売\nhttp://css-eblog.com/",
+            "tags": [
+                "JavaScript",
+                "book"
+            ],
+            "date": "2013-11-22T01:34:31.634Z"
+        },
+        {
+            "title": "OpenPGP.js",
+            "url": "http://openpgpjs.org/",
+            "content": "OpenPGPのJavaScript実装",
+            "tags": [
+                "mail",
+                "セキュリティ",
+                "library"
+            ],
+            "date": "2013-11-22T02:31:31.660Z"
+        },
+        {
+            "title": "Grunt 0.4.2 released - Grunt: The JavaScript Task Runner",
+            "url": "http://gruntjs.com/blog/2013-11-21-grunt-0.4.2-released",
+            "content": "Grunt 0.4.2リリース.\ngrunt.fileやgrunt.utilにあったライブラリのエイリアスが取り除かれて、外部モジュールを読み込んで使うのが推奨に",
+            "tags": [
+                "Grunt",
+                "ReleaseNote"
+            ],
+            "date": "2013-11-22T07:17:49.263Z"
+        },
+        {
+            "title": "CSSでフォント・ファミリーのショートカットを作る - Weblog - Hail2u.net",
+            "url": "http://hail2u.net/blog/coding/creating-css-font-family-shortcut.html",
+            "content": "@font-faceで、フォントをまとめたfont-familyの名前を定義する方法について",
+            "tags": [
+                "CSS",
+                "font"
+            ],
+            "date": "2013-11-23T04:21:37.804Z"
+        },
+        {
+            "title": "IE11 を使って JavaScript によるグローバル対応アプリケーションを開発する - IEBlog 日本語 - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/ie_ja/archive/2013/11/19/building-world-ready-applications-in-javascript-using-ie11.aspx",
+            "content": "IE11でサポートしてるECMA-402 のi18n APIについての翻訳",
+            "tags": [
+                "i18n",
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2013-11-23T05:37:04.082Z"
+        },
+        {
+            "title": "O'Reilly Japan - PHP開発者のためのJavaScript",
+            "url": "http://www.oreilly.co.jp/books/9784873116433/",
+            "content": "JavaScript for PHP Developersの翻訳本",
+            "tags": [
+                "JavaScript",
+                "php",
+                "book"
+            ],
+            "date": "2013-11-23T05:46:11.234Z"
+        },
+        {
+            "title": "Backbone & jQuery meet Browserify: easy. | learn.js – a series fo guide books to building projects with javascript",
+            "url": "http://learnjs.io/blog/2013/11/23/backbone-jquery-browserify/",
+            "content": "browserifyとbeefyを使ってnodeのスタイルでWebアプリ開発をすることについて",
+            "tags": [
+                "node.js",
+                "backbone.js"
+            ],
+            "date": "2013-11-24T06:53:34.591Z"
+        },
+        {
+            "title": "今日から使える！ Sass/compass ゆるめ勉強会",
+            "url": "http://www.slideshare.net/yuka2py/sasscompass-28389532",
+            "content": "Sass/Compassの入門について詳しいスライド\u001d",
+            "tags": [
+                "Sass",
+                "スライド"
+            ],
+            "date": "2013-11-24T07:16:28.716Z"
+        },
+        {
+            "title": "Managing JavaScript Complexity",
+            "url": "http://www.slideshare.net/JarrodOverson/complexity-28214103",
+            "content": "コーディングスタイル、Lint、循環的複雑度(Cyclomatic complexity)について。\nPlatoやcomplexity-reportを使ったメトリクスの可視化、コードの負債を大きくしないためにはどうするかという話",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "スライド"
+            ],
+            "date": "2013-11-24T08:03:25.690Z"
+        },
+        {
+            "title": "ng-embereño: Angular.js from the perspective of Ember.js - Google ドライブ",
+            "url": "https://docs.google.com/presentation/d/1e0z1pT9JuEh8G5DOtib6XFDHK0GUFtrZrU3IfxJynaA/preview#slide=id.p",
+            "content": "AngularJSとEmber.jsの違いについてのスライド。\nそれぞれが目指している位置の違い、AngularはHTML compiler、DOMの扱いの違い、テストのし易さについて等",
+            "tags": [
+                "JavaScript",
+                "AngularJS",
+                "スライド"
+            ],
+            "date": "2013-11-24T08:06:38.249Z"
+        },
+        {
+            "title": "SidekickJS - Javascript code quality tool",
+            "url": "https://www.sidekickjs.com/",
+            "content": "コードの重複、メトリクス、JSHintのLint、Todoコメントのトラッキング等を行えるウェブサービス.\nオープンソースの場合は無料で利用できる予定",
+            "tags": [
+                "JavaScript",
+                "webservice"
+            ],
+            "date": "2013-11-25T00:33:04.674Z"
+        },
+        {
+            "title": "IEの持つ互換性機能の全て - DOCTYPEスイッチ/X-UA-Compatible/互換表示 - ふろしき.js - 実用的なWeb技術を発信",
+            "url": "http://furoshiki.hatenadiary.jp/entry/ie_documentmode",
+            "content": "IE6-11の互換モードについてまとめ.\nDOCTYPEスイッチ、X-UA-Compatible、互換表示モードについてまとまってる\n",
+            "tags": [
+                "IE",
+                "まとめ"
+            ],
+            "date": "2013-11-25T12:55:32.819Z"
+        },
+        {
+            "title": "CascadiaJS 2013",
+            "url": "http://2013.cascadiajs.com/",
+            "content": "CascadiaJSの動画が公開されてる",
+            "tags": [
+                "JavaScript",
+                "動画"
+            ],
+            "date": "2013-11-25T12:56:11.559Z"
+        },
+        {
+            "title": "Node.js Tools for Visual Studio - Home",
+            "url": "https://nodejstools.codeplex.com/",
+            "content": "Visual Studio向けのNode.jsプラグイン.\n補完やプロファイル、npm、デバッガ連携等が出来る",
+            "tags": [
+                "node.js",
+                "IDE",
+                "plugin"
+            ],
+            "date": "2013-11-25T14:35:30.198Z"
+        },
+        {
+            "title": "YUI 3.14.0 Released - YUI Blog",
+            "url": "http://www.yuiblog.com/blog/2013/11/25/yui-3-14-0-released/",
+            "content": "YUI 3.14.0リリース.\nES6 modulesからYUI Modulesに変換する仕組みがes6-module-transpiler\nに追加された(つまりES6 moduleでYUIが扱える)",
+            "tags": [
+                "YUI",
+                "ReleaseNote"
+            ],
+            "date": "2013-11-26T05:37:00.510Z"
+        },
+        {
+            "title": "webpro/jquery-evergreen",
+            "url": "https://github.com/webpro/jquery-evergreen",
+            "content": "jQueryライクなAPIをモダンブラウザ向けに実装したライブラリ.\nES6 moduleをtranspileしていて、Gruntでカスタムビルド出来るようになってる",
+            "tags": [
+                "jQuery",
+                "API",
+                "library"
+            ],
+            "date": "2013-11-26T12:36:20.280Z"
+        },
+        {
+            "title": "Changelog · lodash/lodash Wiki",
+            "url": "https://github.com/lodash/lodash/wiki/Changelog#v240",
+            "content": "lodash v2.4.0 リリース.\n_.constant, _.mapValues, _.now, _.property, _.xor の追加.\n",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2013-11-27T01:37:37.751Z"
+        },
+        {
+            "title": "jackfranklin/pulldown",
+            "url": "https://github.com/jackfranklin/pulldown",
+            "content": "BowerみたいにJavaScriptライブラリをダウンロードする。\nパッケージマネージャーではなく、jsファイルを設定なしにダウンロード出来るCLIツール.\ncdnjs からバージョン指定してダウンロード",
+            "tags": [
+                "JavaScript",
+                "console",
+                "Tools"
+            ],
+            "date": "2013-11-27T05:16:54.865Z"
+        },
+        {
+            "title": "Amazon.com: Pro jQuery 2.0 eBook: Adam Freeman: Kindle Store",
+            "url": "http://www.amazon.com/Pro-jQuery-2-0-Adam-Freeman-ebook/dp/B00GX4OY36",
+            "content": "2014年5月26日発売",
+            "tags": [
+                "jQuery",
+                "book"
+            ],
+            "date": "2013-11-27T05:56:58.255Z"
+        },
+        {
+            "title": "human javascript by Henrik Joreteg",
+            "url": "http://humanjavascript.com/",
+            "content": "ヒトJavaScript ebook.\nJavaScriptを使ったアプリを作ることについて書かれた書籍とスケルトン等がセットになったもの",
+            "tags": [
+                "JavaScript",
+                "book"
+            ],
+            "date": "2013-11-27T13:02:22.831Z"
+        },
+        {
+            "title": "Chrome DevTools November Digest - HTML5 Rocks",
+            "url": "http://www.html5rocks.com/en/tutorials/developertools/novdigest/",
+            "content": "Chrome DevToolsの最近の変更について。\nHigh-Resolution Profiling、UIの変更、Wordspacesでファイルの追加/削除が簡単になったのと無視リストの追加、串刺し検索の改善等",
+            "tags": [
+                "Chrome",
+                "デバック",
+                "Tools"
+            ],
+            "date": "2013-11-28T00:33:27.249Z"
+        },
+        {
+            "title": "logicalparadox/matcha",
+            "url": "https://github.com/logicalparadox/matcha",
+            "content": "mochaみたいな形式で書いてベンチマークテストを取れるツール.\n非同期の処理もdoneコールバックを渡す事で行える\n",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2013-11-28T12:31:32.440Z"
+        },
+        {
+            "title": "TypeScriptを導入する上でのポイントまとめ",
+            "url": "http://lab.sonicmoov.com/development/1312/",
+            "content": "TypeScriptを導入した事例.\n現状足りない部分は命名規則とアノテーションで補う等",
+            "tags": [
+                "TypeScript"
+            ],
+            "date": "2013-11-28T14:01:02.700Z"
+        },
+        {
+            "title": "FileAPI — a set of javascript tools for working with files.",
+            "url": "http://mailru.github.io/FileAPI/",
+            "content": "File objectを扱うライブラリ.\nget/upload/evnt/image/camera等のAPI、\nflashを使ったfallbackを持ってる。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2013-11-28T14:16:21.124Z"
+        },
+        {
+            "title": "Promiseが実装された - JS.next",
+            "url": "http://js-next.hatenablog.com/entry/2013/11/28/093230",
+            "content": "ES6 promiseについて。\nPromiseコンストラクタ、.catchによる例外ハンドリング、[[PromiseStatus]]や基本的な使い方について",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2013-11-28T14:31:03.387Z"
+        },
+        {
+            "title": "DailyJS: JavaScript Developer Survey 2013",
+            "url": "http://dailyjs.com/2013/11/28/javascript-survey/",
+            "content": "JavaScript開発者アンケート2013の回答受付が始まった",
+            "tags": [
+                "JavaScript"
+            ],
+            "date": "2013-11-29T16:39:25.733Z"
+        },
+        {
+            "title": "Scala.js",
+            "url": "http://www.scala-js.org/",
+            "content": "ScalaをJavaScriptにコンパイルするaltJS.\nsbt連携、TypeScriptの型情報定義ファイル(d.ts)を利用等もできる",
+            "tags": [
+                "scala",
+                "JavaScript"
+            ],
+            "date": "2013-11-30T04:15:19.048Z"
+        }
+    ]
+}

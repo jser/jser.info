@@ -1,0 +1,25 @@
+{
+  "name": "JSer",
+  "version": "1.0.0",
+  "description": "JSer.info repogitory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/validate-json.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/azu/jser.info.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "azu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/jser.info/issues"
+  },
+  "dependencies": {
+    "jsonlint": "~1.6.0",
+    "JSV": "~4.0.2"
+  }
+}

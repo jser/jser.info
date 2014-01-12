@@ -1,0 +1,312 @@
+{
+    "list": [
+        {
+            "title": "substack/faucet",
+            "url": "https://github.com/substack/faucet",
+            "content": "TAP系の出力を見やすく表示するCLI",
+            "tags": [
+                "node.js",
+                "testing"
+            ],
+            "date": "2014-01-01T03:14:27.201Z",
+            "related-links": []
+        },
+        {
+            "title": "Release v0.2.0: 0.2.0 · nzakas/eslint",
+            "url": "https://github.com/nzakas/eslint/releases/tag/v0.2.0",
+            "content": "eslint 0.2.0リリース。\nルールの追加等",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2014-01-02T02:26:11.626Z",
+            "related-links": [
+                {
+                    "title": "0.2.0 · 72d0fce · nzakas/eslint",
+                    "url": "https://github.com/nzakas/eslint/commit/72d0fce14428716f82f5526a0a3097c50b491e97"
+                }
+            ]
+        },
+        {
+            "title": "Test-driving a Node.JS API",
+            "url": "http://www.jorisooms.be/testing-your-node-api-with-supertest/",
+            "content": "supertestを使ったNodeアプリのAPIをテスト駆動開発していくチュートリアル",
+            "tags": [
+                "node.js",
+                "API",
+                "testing",
+                "tutorial"
+            ],
+            "date": "2014-01-02T12:43:22.077Z",
+            "related-links": [
+                {
+                    "title": "visionmedia/supertest",
+                    "url": "https://github.com/visionmedia/supertest"
+                }
+            ]
+        },
+        {
+            "title": "YAND - Yet Another Node.js Documentation",
+            "url": "http://nodemanja.herokuapp.com/",
+            "content": "Node.jsのドキュメントビューアサイト",
+            "tags": [
+                "node.js",
+                "リファレンス",
+                "document"
+            ],
+            "date": "2014-01-03T13:40:29.338Z",
+            "related-links": []
+        },
+        {
+            "title": "jQuery Mobile 1.4.0 Released | jQuery Mobile",
+            "url": "http://blog.jquerymobile.com/2013/12/23/jquery-mobile-1-4-0-released/",
+            "content": "jQuery Mobile 1.4.0リリース。",
+            "tags": [
+                "jQuery",
+                "mobile",
+                "ReleaseNote"
+            ],
+            "date": "2014-01-05T08:12:53.684Z",
+            "related-links": []
+        },
+        {
+            "title": "Getting Started With Gulp | Travis Maynard",
+            "url": "http://travismaynard.com/writing/getting-started-with-gulp",
+            "content": "タスク実行ツールのgulpについての導入方法や設定コードの書き方についてのチュートリアル",
+            "tags": [
+                "gulp",
+                "JavaScript",
+                "console",
+                "Tools",
+                "tutorial"
+            ],
+            "date": "2014-01-06T05:25:39.613Z",
+            "related-links": [
+                {
+                    "title": "gulp.js - the streaming build system",
+                    "url": "http://gulpjs.com/"
+                }
+            ]
+        },
+        {
+            "title": "Koa 0.2.0 — Code adventures — Medium",
+            "url": "https://medium.com/code-adventures/a3a046a04836",
+            "content": "NodeのウェブフレームワークKoa 0.2.0リリース。\nSocketのエラーハンドリング、Debug用のComposeモジュールの改善等",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "date": "2014-01-06T12:02:42.370Z",
+            "related-links": [
+                {
+                    "title": "koajs/compose",
+                    "url": "https://github.com/koajs/compose"
+                }
+            ]
+        },
+        {
+            "title": "JavaScript Stringでサロゲートペアを扱う - teppeis blog",
+            "url": "http://teppeis.hatenablog.com/entry/2014/01/surrogate-pair-in-javascript",
+            "content": "サロゲートペアを考慮した文字数カウント(正規表現、ES6 Iterator)\nコードポイントの取得/文字生成",
+            "tags": [
+                "JavaScript",
+                "firefox"
+            ],
+            "date": "2014-01-06T12:18:09.412Z",
+            "related-links": [
+                {
+                    "title": "JavaScript has a Unicode problem · Mathias Bynens",
+                    "url": "http://mathiasbynens.be/notes/javascript-unicode"
+                }
+            ]
+        },
+        {
+            "title": "Functional JavaScript for crawling the Web | Code | Nicolas Perriault",
+            "url": "https://nicolas.perriault.net/code/2013/functional-javascript-for-crawling-the-web/",
+            "content": "FunctionalアプローチでDOMを走査する話。\n関数呼出を重ねすぎると読みにくくなるので、関数合成的なsequence関数を作ったり、ES6の=>やRest Argumentsの利用などを使ってより小さく書くなどしてる。\nそれぞれが関数であるのでテスト等も書きやすい。",
+            "tags": [
+                "JavaScript",
+                "DOM"
+            ],
+            "date": "2014-01-06T12:51:16.146Z",
+            "related-links": [
+                {
+                    "title": "functional javascript",
+                    "url": "http://www.functionaljavascript.com/"
+                }
+            ]
+        },
+        {
+            "title": "D3 Tips and Tricks by Malcolm Maclean [Leanpub PDF/iPad/Kindle]",
+            "url": "https://leanpub.com/D3-Tips-and-Tricks",
+            "content": "D3.jsについての書籍\n$0から任意の値段購入できる",
+            "tags": [
+                "d3.js",
+                "book"
+            ],
+            "date": "2014-01-06T13:11:31.972Z",
+            "related-links": []
+        },
+        {
+            "title": "Node Streams for APIs - collect {thoughts}",
+            "url": "http://blog.drewolson.org/blog/2014/01/04/node-streams-for-apis",
+            "content": "NodeのStreamを使ったAPIの実装について。\nテストの書き方、Streamの実装方法をAPIレンスポンスを返すものを書きながら見ていく話",
+            "tags": [
+                "node.js"
+            ],
+            "date": "2014-01-06T13:29:07.090Z",
+            "related-links": []
+        },
+        {
+            "title": "Advanced Features in Sinon · Ken Powers",
+            "url": "http://www.kenpowers.net/blog/advanced-features-in-sinon/",
+            "content": "Sinon.jsのFake Timer、spy、Fake Serversを使ったテストについて。\n",
+            "tags": [
+                "JavaScript",
+                "testing"
+            ],
+            "date": "2014-01-06T13:34:46.110Z",
+            "related-links": []
+        },
+        {
+            "title": "Managing the Asynchronous Nature of Node.js | Nettuts+",
+            "url": "http://net.tutsplus.com/tutorials/javascript-ajax/managing-the-asynchronous-nature-of-node-js/",
+            "content": "3種類の非同期なコードの構造の改善について。\nEvenetEmitterを使った方法、Q(Promises)を使った方法、stepを使った方法、それぞれの実装とメリット/デメリットについて書かれてる",
+            "tags": [
+                "JavaScript",
+                "node.js"
+            ],
+            "date": "2014-01-06T13:44:02.349Z",
+            "related-links": [
+                {
+                    "title": "kriskowal/q",
+                    "url": "https://github.com/kriskowal/q"
+                },
+                {
+                    "title": "creationix/step",
+                    "url": "https://github.com/creationix/step"
+                }
+            ]
+        },
+        {
+            "title": "Dependency injection in JavaScript",
+            "url": "http://krasimirtsonev.com/blog/article/Dependency-injection-in-JavaScript",
+            "content": "JavaScriptでDIを実装してみるチュートリアル。\nAMDライクな依存関係を示すモジュールの定義をするアプローチとAngularJSみたいなリフレクションで関数定義から依存関係を取得するアプローチについて書かれてる",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "tutorial"
+            ],
+            "date": "2014-01-07T01:25:24.818Z",
+            "related-links": [
+                {
+                    "title": "Merrick Christensen - JavaScript Dependency Injection",
+                    "url": "http://merrickchristensen.com/articles/javascript-dependency-injection.html"
+                }
+            ]
+        },
+        {
+            "title": "O'Reilly Japan - JavaScriptで学ぶ関数型プログラミング",
+            "url": "http://www.oreilly.co.jp/books/9784873116600/",
+            "content": "2014年01月18日発売\nFunctional JavaScriptの翻訳本",
+            "tags": [
+                "JavaScript",
+                "関数型言語",
+                "book"
+            ],
+            "date": "2014-01-07T03:33:06.377Z",
+            "related-links": [
+                {
+                    "title": "functional javascript",
+                    "url": "http://www.functionaljavascript.com/"
+                }
+            ]
+        },
+        {
+            "title": "Amazon: HTML5 Web標準API バイブル [単行本]: 羽田野 太巳",
+            "url": "http://www.amazon.co.jp/o/ASIN/4883379167/amazon0abac-22/ref=nosim",
+            "content": "2014年1月20日発売\n様々なWebPlatform APIについてチュートリアル方式で解説した書籍",
+            "tags": [
+                "HTML5",
+                "WebPlatformAPI",
+                "book"
+            ],
+            "date": "2014-01-07T12:49:59.363Z",
+            "related-links": [
+                {
+                    "title": "Twitter / futomi: 昨年末の時点でメジャーブラウザーに実装されている W3C A ...",
+                    "url": "https://twitter.com/futomi/status/420468660172369920"
+                }
+            ]
+        },
+        {
+            "title": "Ten reasons we switched from an icon font to SVG - Ian Feather",
+            "url": "http://Ianfeather.github.com/ianfeatherV3/ten-reasons-we-switched-from-an-icon-font-to-svg/",
+            "content": "アイコンフォントとSVGを比べた時にSVGのメリットについて。\n",
+            "tags": [
+                "fonts",
+                "SVG"
+            ],
+            "date": "2014-01-08T08:28:01.764Z",
+            "related-links": []
+        },
+        {
+            "title": "Why I am switching to promises",
+            "url": "http://spion.github.io/posts/why-i-am-switching-to-promises.html",
+            "content": "Promiseの利点について。\nthrow-safeなエラーハンドリング、パフォーマンスとメモリ消費、promise.nodeifyを使ったコールバックスタイルとの互換性、Promiseの書き方やユースケース等まとまってる",
+            "tags": [
+                "JavaScript",
+                "Promises"
+            ],
+            "date": "2014-01-08T14:48:31.028Z",
+            "related-links": [
+                {
+                    "title": "Promise nuggets",
+                    "url": "http://promise-nuggets.github.io/"
+                }
+            ]
+        },
+        {
+            "title": "RequireJS 2.1.10 Released ~ James Burke",
+            "url": "http://jrburke.com/2014/01/08/requirejs-2.1.10-released/",
+            "content": "RequireJS 2.1.10リリース。\nnodeIdCompat、bundlesオプションの追加",
+            "tags": [
+                "AMD",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-01-09T07:06:27.320Z",
+            "related-links": []
+        },
+        {
+            "title": "Frida",
+            "url": "http://www.frida.re/",
+            "content": "プロセスのトレース、関数のhook等を出来るツール https://github.com/frida/frida-gum/ \nV8とPythonを使ったバインディングがあり、JavaScriptでスクリプトを書いてプロセスを監視したりデバッグに使える。",
+            "tags": [
+                "JavaScript",
+                "python",
+                "software"
+            ],
+            "date": "2014-01-10T00:56:38.708Z",
+            "related-links": [
+                {
+                    "title": "History",
+                    "url": "http://www.frida.re/docs/history/"
+                }
+            ]
+        },
+        {
+            "title": "Amazon: Dart for Absolute Beginners [Paperback]: David Kopec",
+            "url": "http://www.amazon.com/o/ASIN/1430264810/amazon0abac-22/ref=nosim",
+            "content": "2014年7月14日発売\nDart初心者向けの書籍",
+            "tags": [
+                "dart",
+                "book"
+            ],
+            "date": "2014-01-12T11:41:54.897Z",
+            "related-links": []
+        }
+    ]
+}

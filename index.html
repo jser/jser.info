@@ -4,70 +4,85 @@
     <meta charset="utf-8"/>
     <title>JSer.infoのアーカイブ</title>
     <!--[if IE]>
-    <script src="js/html5shiv.js" type="text/javascript"></script>
+    <script src="js/vender/html5shiv.js" type="text/javascript"></script>
     <![endif]-->
     <link type="text/css" href="css/style.css" rel="stylesheet"/>
     <link type="text/css" href="css/jquery.calendarPicker.css" rel="stylesheet"/>
     <link type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/ui-lightness/jquery-ui.css"
           rel="stylesheet">
-    <script src="js/jquery.min.js"></script>
-    <script src="js/jquery-ui.min.js"></script>
-    <script src="js/jquery-ui.growl.min.js"></script>
-    <script src="js/jquery.calendarPicker.js"></script>
-    <script src="js/handlebars.min.js"></script>
-    <script src="js/autolink.js"></script>
+    <script src="js/vender/jquery.min.js"></script>
+    <script src="js/vender/jquery-ui.min.js"></script>
+    <script src="js/vender/jquery-ui.growl.min.js"></script>
+    <script src="js/vender/jquery.calendarPicker.js"></script>
+    <script src="js/vender/knockout-3.0.0.js"></script>
+    <script src="js/vender/knockout-sortable.js"></script>
+    <script src="js/vender/handlebars.min.js"></script>
+    <script src="js/vender/autolink.js"></script>
+    <script src="js/models/visited-item.js"></script>
+    <script src="js/models/article-model.js"></script>
     <script src="js/script.js"></script>
+    <script src="js/app-client.js"></script>
+    <script src="js/edit-on-github.js"></script>
+
 </head>
 <body>
 <div id="controller">
     <div id="date-picker"></div>
-    <button id="disable-sortable">Disable Sortable</button>
+    <div class="control-menu">
+        <button id="copy-html">Copy HTML</button>
+        <button id="copy-markdown">Copy Markdown</button>
+    </div>
 </div>
-<p>アーカイブ</p>
-
+<p>アーカイブ |
+    <button id="edit-on-github">Edit index.json on Github</button>
+</p>
 <div id="content">
-    <div id="input" class="connectedSortable"></div>
-    <div id="output" class="connectedSortable">
-        <div class="site-genre">
-            <strong>ヘッドライン</strong>
+    <div id="input" class="connectedSortable" data-bind="foreach: inputModels">
+        <div data-bind="sortable: { data : articles , afterMove : $root.myDropCallback }">
+            <div class="sites" data-bind="css : { 'read-site' : $root.isVisited($data) }">
+                <blockquote data-bind="cite: url, title:title">
+                    <p class="jser-sitelink">
+                        <strong data-bind="text: title"></strong><br>
+                        <a data-bind="attr: {href:url,title:title}, text:url"></a>
+                    </p>
+                </blockquote>
+                <p class="jser-tags jser-tag-icon" data-bind="foreach : tags">
+                    <span class="jser-tag" data-bind="text: $data"></span>
+                </p>
+
+                <p data-bind="text: content"></p>
+                <ul class="jser-related-links" data-bind="foreach: relatedLinks">
+                    <li><a data-bind="attr: {href:url,title:title}, text:title"></a></li>
+                </ul>
+            </div>
         </div>
+    </div>
+    <div id="output" class="connectedSortable" data-bind="foreach: outputModels">
         <div class="site-genre">
-            <strong>アーティクル</strong>
+            <strong data-bind="text: name"></strong>
         </div>
-        <div class="site-genre">
-            <strong>スライド、動画関係</strong>
+        <div class="output-seat" data-bind="sortable: articles">
+            <div class="sites">
+                <blockquote data-bind="cite: url, title:title">
+                    <p class="jser-sitelink">
+                        <strong data-bind="text: title"></strong><br>
+                        <a data-bind="href:url,title:title,text:url"></a>
+                    </p>
+                </blockquote>
+            </div>
         </div>
-        <div class="site-genre">
-            <strong>サイト、サービス、ソフトウェア関係</strong>
-        </div>
-        <div class="site-genre">
-            <strong>ツール、ライブラリ関係</strong>
-        </div>
-        <div class="site-genre">
-            <strong>書籍関係</strong>
-        </div>
+    </div>
+
+    <div id="jq-dialog" style="display: none;"><textarea id="js-dialog-textarea" class="dialog-textarea"></textarea>
     </div>
 </div>
 
-<script id="article-read-template" type="text/x-handlebars-template">
-    <div class="sites read-site">
-        <blockquote cite="{{url}}" title="{{title}}">
-            <p class="jser-sitelink">
-                <strong>{{title}}</strong><br>
-                <a href="{{url}}" title="{{title}}">{{url}}</a>
-            </p>
-        </blockquote>
-        {{#if tags}}
-        <p class="jser-tags jser-tag-icon" itemscope>
-            {{#each tags}}
-            <span class="jser-tag" itemprop="tag">{{this}}</span>
-            {{/each}}
-        </p>
-        {{/if}}
-        <p>{{{auto_format content}}}</p>
-    </div>
-</script>
 <script id="article-template" type="text/x-handlebars-template">
+    {{#Groups}}
+    <div class="site-genre">
+        <strong>{{name}}</strong>
+    </div>
+    {{#articles}}
     <div class="sites">
         <blockquote cite="{{url}}" title="{{title}}">
             <p class="jser-sitelink">
@@ -83,7 +98,38 @@
         </p>
         {{/if}}
         <p>{{{auto_format content}}}</p>
+        {{#if relatedLinks}}
+        <ul class="jser-related-links">
+            {{#each related-links}}
+            <li><a href="{{url}}">{{title}}</a></li>
+            {{/each}}
+        </ul>
+        {{/if}}
     </div>
+    {{/articles}}
+    {{/Groups}}
+</script>
+
+<script id="article-markdown-template" type="text/x-handlebars-template">
+{{#Groups}}
+<div class="site-genre">
+    <strong>{{name}}</strong>
+</div>
+{{#articles}}
+<blockquote cite="{{url}}" title="{{title}}">
+<p class="jser-sitelink"><strong>{{title}}</strong></p><footer><a href="{{url}}" title="{{title}}">{{url}}</a></footer>
+</blockquote>
+{{#if tags}}
+<p class="jser-tags jser-tag-icon" itemscope>
+    {{#each tags}}<span class="jser-tag" itemprop="tag">{{this}}</span>{{/each}}
+</p>
+{{/if}}
+
+{{{auto_format content}}}
+
+{{#relatedLinks}}
+- <a href="{{url}}">{{title}}</a>
+{{/relatedLinks}}{{/articles}}{{/Groups}}
 </script>
 </body>
 </html>
