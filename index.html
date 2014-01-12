@@ -29,8 +29,8 @@
 <div id="controller">
     <div id="date-picker"></div>
     <div class="control-menu">
-        <button id="disable-sortable">Disable Sortable</button>
-        <button id="copy-output">Copy Output</button>
+        <button id="copy-html">Copy HTML</button>
+        <button id="copy-markdown">Copy Markdown</button>
     </div>
 </div>
 <p>アーカイブ |
@@ -72,34 +72,17 @@
             </div>
         </div>
     </div>
+
+    <div id="jq-dialog" style="display: none;"><textarea id="js-dialog-textarea" class="dialog-textarea"></textarea>
+    </div>
 </div>
 
-<script id="article-read-template" type="text/x-handlebars-template">
-    <div class="sites read-site">
-        <blockquote cite="{{url}}" title="{{title}}">
-            <p class="jser-sitelink">
-                <strong>{{title}}</strong><br>
-                <a href="{{url}}" title="{{title}}">{{url}}</a>
-            </p>
-        </blockquote>
-        {{#if tags}}
-        <p class="jser-tags jser-tag-icon" itemscope>
-            {{#each tags}}
-            <span class="jser-tag" itemprop="tag">{{this}}</span>
-            {{/each}}
-        </p>
-        {{/if}}
-        <p>{{{auto_format content}}}</p>
-        {{#if related-links}}
-        <ul class="jser-related-links">
-            {{#each related-links}}
-            <li><a href="{{url}}">{{title}}</a></li>
-            {{/each}}
-        </ul>
-        {{/if}}
-    </div>
-</script>
 <script id="article-template" type="text/x-handlebars-template">
+    {{#Groups}}
+    <div class="site-genre">
+        <strong>{{name}}</strong>
+    </div>
+    {{#articles}}
     <div class="sites">
         <blockquote cite="{{url}}" title="{{title}}">
             <p class="jser-sitelink">
@@ -115,7 +98,7 @@
         </p>
         {{/if}}
         <p>{{{auto_format content}}}</p>
-        {{#if related-links}}
+        {{#if relatedLinks}}
         <ul class="jser-related-links">
             {{#each related-links}}
             <li><a href="{{url}}">{{title}}</a></li>
@@ -123,6 +106,30 @@
         </ul>
         {{/if}}
     </div>
+    {{/articles}}
+    {{/Groups}}
+</script>
+
+<script id="article-markdown-template" type="text/x-handlebars-template">
+{{#Groups}}
+<div class="site-genre">
+    <strong>{{name}}</strong>
+</div>
+{{#articles}}
+<blockquote cite="{{url}}" title="{{title}}">
+<p class="jser-sitelink"><strong>{{title}}</strong></p><footer><a href="{{url}}" title="{{title}}">{{url}}</a></footer>
+</blockquote>
+{{#if tags}}
+<p class="jser-tags jser-tag-icon" itemscope>
+    {{#each tags}}<span class="jser-tag" itemprop="tag">{{this}}</span>{{/each}}
+</p>
+{{/if}}
+
+{{{auto_format content}}}
+
+{{#relatedLinks}}
+- <a href="{{url}}">{{title}}</a>
+{{/relatedLinks}}{{/articles}}{{/Groups}}
 </script>
 </body>
 </html>

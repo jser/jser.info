@@ -18,9 +18,39 @@ $(function () {
         var linkedText = window.autolinkTwitter(text);
         return linkedText.replace(/\n/g, "<br />");
     });
-    $('#copy-output').on("click", function () {
-        var json = ko.toJSON(vm.outputModels);
-        console.log("json", json);
+    function getOutputJSON() {
+        var json = ko.toJS(vm.outputModels);
+        return json.filter(function (model) {
+            return model.articles.length > 0;
+        });
+    }
+
+    $('#copy-markdown').button().on("click", function () {
+        var filteredJSON = getOutputJSON();
+        var source = $("#article-markdown-template").html();
+        var template = Handlebars.compile(source);
+        var result = template({
+            Groups: filteredJSON
+        });
+        $("#js-dialog-textarea").text(result.trim());
+        $("#jq-dialog").dialog({
+            title: "Markdown",
+            width: 700,
+            height: 500
+        });
+    });
+    $('#copy-html').button().on("click", function () {
+        var source = $("#article-template").html();
+        var template = Handlebars.compile(source);
+        var result = template({
+            Groups: getOutputJSON()
+        });
+        $("#js-dialog-textarea").text(result.trim());
+        $("#jq-dialog").dialog({
+            title: "HTML",
+            width: 700,
+            height: 500
+        });
     });
     function format0(str, len) {
         return ('_' + Math.pow(10, len) + str).slice(-len);
@@ -37,7 +67,6 @@ $(function () {
                 $.WsGrowl.show({content: 'その月のアーカイブはないです'});
             });
     };
-
     $("#date-picker").calendarPicker({
         monthNames: ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月'],
         dayNames: ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
