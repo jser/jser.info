@@ -26,19 +26,22 @@
 <body>
 <div id="controller">
     <div id="date-picker"></div>
-    <button id="disable-sortable">Disable Sortable</button>
+    <div class="control-menu">
+        <button id="disable-sortable">Disable Sortable</button>
+        <button id="copy-output">Copy Output</button>
+    </div>
 </div>
 <p>アーカイブ |
     <button id="edit-on-github">Edit index.json on Github</button>
 </p>
 <div id="content">
-    <div id="input" class="connectedSortable">
+    <div id="input" class="connectedSortable" data-bind="foreach: inputModels">
         <div data-bind="sortable: articles">
             <div class="sites read-site">
                 <blockquote data-bind="cite: url, title:title">
                     <p class="jser-sitelink">
                         <strong data-bind="text: title"></strong><br>
-                        <a data-bind="href:url,title:title,text:url"></a>
+                        <a data-bind="attr: {href:url,title:title}, text:url"></a>
                     </p>
                 </blockquote>
                 <p class="jser-tags jser-tag-icon" data-bind="foreach : tags">
@@ -47,30 +50,25 @@
 
                 <p data-bind="text: content"></p>
                 <ul class="jser-related-links" data-bind="foreach: relatedLinks">
-                    <li><a data-bind="href:url, text:title"></a></li>
+                    <li><a data-bind="attr: {href:url,title:title}, text:title"></a></li>
                 </ul>
             </div>
         </div>
     </div>
-    <div id="output" class="connectedSortable">
-            <div class="site-genre">
-                <strong>ヘッドライン</strong>
+    <div id="output" class="connectedSortable" data-bind="foreach: outputModels">
+        <div class="site-genre">
+            <strong data-bind="text: name"></strong>
+        </div>
+        <div class="output-seat" data-bind="sortable: articles">
+            <div class="sites">
+                <blockquote data-bind="cite: url, title:title">
+                    <p class="jser-sitelink">
+                        <strong data-bind="text: title"></strong><br>
+                        <a data-bind="href:url,title:title,text:url"></a>
+                    </p>
+                </blockquote>
             </div>
-            <div class="site-genre">
-                <strong>アーティクル</strong>
-            </div>
-            <div class="site-genre">
-                <strong>スライド、動画関係</strong>
-            </div>
-            <div class="site-genre">
-                <strong>サイト、サービス、ソフトウェア関係</strong>
-            </div>
-            <div class="site-genre">
-                <strong>ツール、ライブラリ関係</strong>
-            </div>
-            <div class="site-genre">
-                <strong>書籍関係</strong>
-            </div>
+        </div>
     </div>
 </div>
 

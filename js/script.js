@@ -41,6 +41,7 @@ $(function () {
     var sortable = (function () {
         // ソートを無効にするボタン
         $('#disable-sortable').button();
+        $('#copy-output').button();
         var sortable = {
             enable: enableSortable,
             disable: disableSortable
