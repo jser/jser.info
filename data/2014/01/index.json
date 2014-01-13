@@ -411,6 +411,22 @@
             ],
             "date": "2014-01-13T08:44:38.242Z",
             "related-links": []
+        },
+        {
+            "title": "Stop Writing JavaScript Compilers! Make Macros Instead",
+            "url": "http://jlongster.com/Stop-Writing-JavaScript-Compilers--Make-Macros-Instead",
+            "content": "JavaScriptのマクロを書けるsweet.jsの使い方とsweet.jsを使ってES6のsyntaxをいくつか実装したmacroについて",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2014-01-13T09:12:20.493Z",
+            "related-links": [
+                {
+                    "title": "jlongster/es6-macros",
+                    "url": "https://github.com/jlongster/es6-macros"
+                }
+            ]
         }
     ]
 }
