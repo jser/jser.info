@@ -112,23 +112,18 @@
 
 <script id="article-markdown-template" type="text/x-handlebars-template">
 {{#Groups}}
-<div class="site-genre">
-    <strong>{{name}}</strong>
-</div>
+<h3 class="site-genre">{{name}}</h3>
 {{#articles}}
 <blockquote cite="{{url}}" title="{{title}}">
-<p class="jser-sitelink"><strong>{{title}}</strong></p><footer><a href="{{url}}" title="{{title}}">{{url}}</a></footer>
+<p class="jser-sitelink"><strong>{{title}}</strong></p><footer><cite><a href="{{url}}" title="{{title}}">{{url}}</a></cite></footer>
 </blockquote>
 {{#if tags}}
-<p class="jser-tags jser-tag-icon" itemscope>
-    {{#each tags}}<span class="jser-tag" itemprop="tag">{{this}}</span>{{/each}}
-</p>
+<p class="jser-tags jser-tag-icon">{{#each tags}}<span class="jser-tag">{{this}}</span>{{/each}}</p>
 {{/if}}
 
-{{{auto_format content}}}
+{{content}}
 
-{{#relatedLinks}}
-- <a href="{{url}}">{{title}}</a>
+{{#relatedLinks}}- <a href="{{url}}">{{title}}</a>
 {{/relatedLinks}}{{/articles}}{{/Groups}}
 </script>
 </body>
