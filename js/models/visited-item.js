@@ -1,7 +1,7 @@
 (function () {
     function hasItem(key) {
         var item = localStorage.getItem(key);
-        return item && item.length > 0;
+        return item != null;
     }
 
     function getItem(key) {
