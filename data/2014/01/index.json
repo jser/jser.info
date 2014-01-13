@@ -427,6 +427,22 @@
                     "url": "https://github.com/jlongster/es6-macros"
                 }
             ]
+        },
+        {
+            "title": "lo-th/Oimo.js",
+            "url": "https://github.com/lo-th/Oimo.js",
+            "content": "Three.jsを使った物理エンジンライブラリ。\nAS3のOimoPhysicsのJavaScriptポート。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-01-13T11:11:07.310Z",
+            "related-links": [
+                {
+                    "title": "ActionScript3.0用の3D物理エンジンを作ってみた – EL-EMENT blog",
+                    "url": "http://el-ement.com/blog/2012/10/08/as3-physics-engine/"
+                }
+            ]
         }
     ]
 }
