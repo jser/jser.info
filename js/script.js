@@ -49,9 +49,7 @@ $(function () {
             Groups: getOutputJSON()
         });
         $("#js-dialog-textarea").text(result.trim());
-        $("#jq-dialog").on("dialogbeforeclose", function (event, ui) {
-        });
-        dialog({
+        $("#jq-dialog").dialog({
             title: "HTML",
             width: 700,
             height: 500
