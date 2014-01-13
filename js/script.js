@@ -25,6 +25,9 @@ $(function () {
         });
     }
 
+    $("#jq-dialog").on("dialogfocus", function (evt,ui) {
+        $("#js-dialog-textarea").select();
+    });
     $('#copy-markdown').button().on("click", function () {
         var filteredJSON = getOutputJSON();
         var source = $("#article-markdown-template").html();
@@ -46,7 +49,9 @@ $(function () {
             Groups: getOutputJSON()
         });
         $("#js-dialog-textarea").text(result.trim());
-        $("#jq-dialog").dialog({
+        $("#jq-dialog").on("dialogbeforeclose", function (event, ui) {
+        });
+        dialog({
             title: "HTML",
             width: 700,
             height: 500
