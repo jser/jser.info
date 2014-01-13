@@ -8,6 +8,9 @@ html, body {
   -webkit-user-select: none;
   user-select: none; }
 
+.control-menu {
+  float: right; }
+
 #date-picker {
   width: 800px !important; }
   #date-picker .calDay {
@@ -20,9 +23,12 @@ html, body {
   font-size: 12px;
   height: 100%; }
 
+#input, #output {
+  height: 100%;
+  overflow: scroll; }
+
 #input {
   width: 60%;
-  min-height: 100%;
   float: left;
   margin: 0 1% 0 0;
   border-right: 1px dotted; }
@@ -33,7 +39,6 @@ html, body {
     background-color: #faf3cc; }
 
 #output {
-  max-height: 100%;
   right: 10px;
   top: 0; }
 
@@ -78,3 +83,14 @@ html, body {
 
 .jser-tag:last-child:after {
   content: ""; }
+
+.output-seat {
+  min-height: 100px;
+  margin: 5px;
+  padding: 2px;
+  border: solid #dddddd 5px;
+  border-radius: 5px; }
+
+.dialog-textarea {
+  width: 100%;
+  height: 100%; }

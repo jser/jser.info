@@ -298,6 +298,34 @@
             ]
         },
         {
+            "title": "Amazon: Dart for Absolute Beginners [Paperback]: David Kopec",
+            "url": "http://www.amazon.com/o/ASIN/1430264810/amazon0abac-22/ref=nosim",
+            "content": "2014年7月14日発売\nDart初心者向けの書籍",
+            "tags": [
+                "dart",
+                "book"
+            ],
+            "date": "2014-01-12T11:41:54.897Z",
+            "related-links": []
+        },
+        {
+            "title": "Frida",
+            "url": "http://www.frida.re/",
+            "content": "プロセスのトレース、関数のhook等を出来るツール https://github.com/frida/frida-gum/ \nV8とPythonを使ったバインディングがあり、JavaScriptでスクリプトを書いてプロセスを監視したりデバッグに使える。",
+            "tags": [
+                "JavaScript",
+                "python",
+                "software"
+            ],
+            "date": "2014-01-10T00:56:38.708Z",
+            "related-links": [
+                {
+                    "title": "History",
+                    "url": "http://www.frida.re/docs/history/"
+                }
+            ]
+        },
+        {
             "title": "tooling/book-of-modern-frontend-tooling",
             "url": "https://github.com/tooling/book-of-modern-frontend-tooling",
             "content": "モダンなフロントエンド向けツールについて書かれている書籍。\nGithub上で書かれいるのでコントリビューションも出来る",
