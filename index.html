@@ -97,7 +97,7 @@
             {{/each}}
         </p>
         {{/if}}
-        <p>{{{auto_format content}}}</p>
+        <p>{{{auto_format_html content}}}</p>
         {{#if relatedLinks}}
         <ul class="jser-related-links">
             {{#each related-links}}
@@ -121,7 +121,7 @@
 <p class="jser-tags jser-tag-icon">{{#each tags}}<span class="jser-tag">{{this}}</span>{{/each}}</p>
 {{/if}}
 
-{{content}}
+{{{auto_format_md content}}}
 
 {{#relatedLinks}}- <a href="{{url}}">{{title}}</a>
 {{/relatedLinks}}{{/articles}}{{/Groups}}

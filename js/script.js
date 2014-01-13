@@ -13,10 +13,15 @@ $(function () {
     }
     ko.applyBindings(vm);
 
-    Handlebars.registerHelper('auto_format', function (text) {
+    Handlebars.registerHelper('auto_format_html', function (text) {
         // autolinkTwitter 内でHTMLエスケープされているためHandlebarではしない
         var linkedText = window.autolinkTwitter(text);
         return linkedText.replace(/\n/g, "<br />");
+    });
+    Handlebars.registerHelper('auto_format_md', function (text) {
+        // autolinkTwitter 内でHTMLエスケープされているためHandlebarではしない
+        var linkedText = window.autolinkTwitter(text);
+        return linkedText.replace(/\n/g, "\n\n");
     });
     function getOutputJSON() {
         var json = ko.toJS(vm.outputModels);
