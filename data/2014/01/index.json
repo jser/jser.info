@@ -443,6 +443,24 @@
                     "url": "http://el-ement.com/blog/2012/10/08/as3-physics-engine/"
                 }
             ]
+        },
+        {
+            "title": "groupon/testium",
+            "url": "https://github.com/groupon/testium",
+            "content": "WebDriverとmochaを使ったIntegration testを行えるツール。\nwebdriver-http-syncをベースにしていて同期的にテストを書けるのが特徴",
+            "tags": [
+                "node.js",
+                "webdriver",
+                "library",
+                "Tools"
+            ],
+            "date": "2014-01-13T11:39:53.326Z",
+            "related-links": [
+                {
+                    "title": "Groupon: Node.js向け結合テストツールtestiumをオープンソースで提供 - ワザノバ | wazanova",
+                    "url": "http://wazanova.jp/items/895"
+                }
+            ]
         }
     ]
 }
