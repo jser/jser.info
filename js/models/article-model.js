@@ -47,8 +47,13 @@
         that.reloadInput = function (array) {
             var inputModel = that.inputModels[0];
             inputModel.articles.removeAll();
-            for (var i = 0; i < array.length; i++) {
-                var obj = array[i];
+            var sorted = array.sort(function (a, b) {
+                var aDate = new Date(a.date);
+                var bDate = new Date(b.date);
+                return bDate - aDate;
+            });
+            for (var i = 0; i < sorted.length; i++) {
+                var obj = sorted[i];
                 inputModel.articles.push(new Article(obj));
             }
         };
