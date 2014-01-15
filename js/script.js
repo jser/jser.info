@@ -71,6 +71,7 @@ $(function () {
         window.app.client.load(JSONFilePath).done(function (data) {
             var list = data.list;
             vm.reloadInput(list);
+            $("#content").data("file-dir-path", fileDirPath);
         }).fail(function (err) {
                 $.WsGrowl.show({content: 'その月のアーカイブはないです'});
             });
