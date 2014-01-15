@@ -563,6 +563,17 @@
             ],
             "date": "2014-01-14T14:56:33.957Z",
             "related-links": []
+        },
+        {
+            "title": "State of function decompilation in Javascript — Perfection Kills",
+            "url": "http://perfectionkills.com/state-of-function-decompilation-in-javascript/",
+            "content": "実装依存となってるFunction.prototype.toStringの挙動について。\n現在のブラウザの動作、ES6で追加された関数ではどうなるか、またユーザー定義、Proxy.createFunctionについて",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2014-01-15T00:55:43.414Z",
+            "related-links": []
         }
     ]
 }
