@@ -629,6 +629,17 @@
                     "url": "http://ng-conf.org/"
                 }
             ]
+        },
+        {
+            "title": "mdevils/node-jscs",
+            "url": "https://github.com/mdevils/node-jscs/",
+            "content": "JavaScriptのコーディングスタイルチェックツール.\nJSHIntと一緒に使うことを想定してる",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2014-01-16T22:46:00.170Z",
+            "related-links": []
         }
     ]
 }
