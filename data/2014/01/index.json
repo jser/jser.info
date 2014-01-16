@@ -574,6 +574,18 @@
             ],
             "date": "2014-01-15T00:55:43.414Z",
             "related-links": []
+        },
+        {
+            "title": "libsass.js - An Emscripten Experiment | Rodney Rehm",
+            "url": "http://blog.rodneyrehm.de/archives/33-libsass.js-An-Emscripten-Experiment.html",
+            "content": "libsassをEmscriptenして、Sassをブラウザ上でコンパイル出来るようにする",
+            "tags": [
+                "Sass",
+                "C++",
+                "JavaScript"
+            ],
+            "date": "2014-01-16T01:01:56.087Z",
+            "related-links": []
         }
     ]
 }
