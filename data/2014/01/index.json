@@ -680,6 +680,27 @@
             ],
             "date": "2014-01-19T06:46:31.604Z",
             "related-links": []
+        },
+        {
+            "title": "Optimizing large selector sets",
+            "url": "https://github.com/blog/1756-optimizing-large-selector-sets",
+            "content": "CSS Selectorのマッチを、最初にindexを作っておいてO(1)で探索をできるようにするSelectorSetについて。\njQueryと統合できるようになってて、`on`によるdelegate eventsを改善する。",
+            "tags": [
+                "jQuery",
+                "CSS",
+                "JavaScript"
+            ],
+            "date": "2014-01-19T08:15:48.634Z",
+            "related-links": [
+                {
+                    "title": "josh/selector-set",
+                    "url": "https://github.com/josh/selector-set"
+                },
+                {
+                    "title": "josh/jquery-selector-set",
+                    "url": "https://github.com/josh/jquery-selector-set"
+                }
+            ]
         }
     ]
 }
