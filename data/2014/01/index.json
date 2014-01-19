@@ -670,6 +670,16 @@
             ],
             "date": "2014-01-18T14:53:00.784Z",
             "related-links": []
+        },
+        {
+            "title": "Introduction to Browserify • Blake Embrey",
+            "url": "http://blakeembrey.com/articles/introduction-to-browserify/",
+            "content": "browserifyについての紹介。\nNodeのCoreモジュールやnpmモジュール、Transforms機能を使ってファイルのインライン化やビルド時の環境変数の埋め込み、browserifyのオプションについて",
+            "tags": [
+                "browserify"
+            ],
+            "date": "2014-01-19T06:46:31.604Z",
+            "related-links": []
         }
     ]
 }
