@@ -23,6 +23,9 @@ $(function () {
         var linkedText = window.autolinkTwitter(text);
         return linkedText.replace(/\n/g, "\n\n");
     });
+    Handlebars.registerHelper('ttp', function (text) {
+        return text.replace(/https?:\/\//i, "");
+    });
     function getOutputJSON() {
         var json = ko.toJS(vm.outputModels);
         return json.filter(function (model) {
