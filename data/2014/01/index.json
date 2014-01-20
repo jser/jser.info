@@ -748,6 +748,24 @@
             ],
             "date": "2014-01-20T09:33:18.764Z",
             "related-links": []
+        },
+        {
+            "title": "Introduction to React // Speaker Deck",
+            "url": "https://speakerdeck.com/shuhei/introduction-to-react",
+            "content": "Facebookによって開発されてるVirtual DOMライブラリのReactについてのスライド。\n",
+            "tags": [
+                "DOM",
+                "facebook",
+                "library",
+                "スライド"
+            ],
+            "date": "2014-01-20T14:11:05.181Z",
+            "related-links": [
+                {
+                    "title": "React | A JavaScript library for building user interfaces",
+                    "url": "http://facebook.github.io/react/"
+                }
+            ]
         }
     ]
 }
