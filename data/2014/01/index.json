@@ -789,6 +789,22 @@
             ],
             "date": "2014-01-20T15:33:04.576Z",
             "related-links": []
+        },
+        {
+            "title": "ESLint 0.3.0 released - ESLint",
+            "url": "http://eslint.org/blog/2014/01/eslint-0.3.0-released/",
+            "content": "ESLint 0.3.0 リリース。\njsを設定ファイルとして使えなくなったけど、JSONにコメントが使えるように。\n.eslintignoreの追加、stylish format がデフォルトのレポーターに変更、ルールの追加や修正",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2014-01-21T02:30:00.495Z",
+            "related-links": [
+                {
+                    "title": "ESLint",
+                    "url": "http://eslint.org/"
+                }
+            ]
         }
     ]
 }
