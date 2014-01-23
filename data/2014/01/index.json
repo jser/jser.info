@@ -832,6 +832,17 @@
                     "url": "http://benchmarkjs.com/"
                 }
             ]
+        },
+        {
+            "title": "nodemon 1.0",
+            "url": "http://remysharp.com/2014/01/20/nodemon-1-0/",
+            "content": "Nodeのアプリケーションコードの変更を監視して、自動的にサーバを再起動できるnodemon 1.0リリース",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "date": "2014-01-23T00:29:48.376Z",
+            "related-links": []
         }
     ]
 }
