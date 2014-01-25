@@ -911,6 +911,27 @@
                     "url": "https://github.com/enja-oss/Underscore"
                 }
             ]
+        },
+        {
+            "title": "Marionette.js in Single Page Application // Speaker Deck",
+            "url": "https://speakerdeck.com/koba04/marionette-dot-js-in-single-page-application",
+            "content": "Backbone.jsをベースにしたMarionette.jsについて。\nViewの階層構造、Events、テンプレートなど",
+            "tags": [
+                "backbone.js",
+                "スライド",
+                "JavaScript"
+            ],
+            "date": "2014-01-25T13:23:28.125Z",
+            "related-links": [
+                {
+                    "title": "Marionette.js in Single Page Applicationという話をした - 車輪を再発明 / koba04の日記",
+                    "url": "http://d.hatena.ne.jp/koba04/20140121/1390299728"
+                },
+                {
+                    "title": "Marionette.js",
+                    "url": "http://marionettejs.com/"
+                }
+            ]
         }
     ]
 }
