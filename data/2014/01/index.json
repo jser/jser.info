@@ -932,6 +932,23 @@
                     "url": "http://marionettejs.com/"
                 }
             ]
+        },
+        {
+            "title": "実践Backbone.Marionette 現場の悩みと解決まで",
+            "url": "http://www.slideshare.net/ryumatsukano/backbonemarionette",
+            "content": "Marionette.jsについてのスライド。\nRailsと合わせてウェブサイトを作った事例 - サーバサイドのViewと合わせた使い方、ajaxとView、親子View。\nBackbone.jsでテストしやすいコードを書く事、テストダブルについて。",
+            "tags": [
+                "backbone.js",
+                "JavaScript",
+                "スライド"
+            ],
+            "date": "2014-01-25T13:58:37.356Z",
+            "related-links": [
+                {
+                    "title": "和訳：BackboneとAngularを比較する - @lxyuma BLOG",
+                    "url": "http://lxyuma.hatenablog.com/entry/2013/11/05/074404"
+                }
+            ]
         }
     ]
 }
