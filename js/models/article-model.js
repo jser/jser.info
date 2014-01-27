@@ -7,6 +7,9 @@
         this.name = ko.observable(name);
         this.articles = ko.observableArray(artcles);
     };
+    var RelateLink = function(object){
+        this.tile = object
+    }
     var Article = function (object) {
         /*
                     "title": "substack/faucet",
