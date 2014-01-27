@@ -49,6 +49,14 @@
                         "format": "uri",
                         "id": "http://jsonschema.net/list/0/url",
                         "required": true
+                    },
+                    "related-links": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "required": true
+                        },
+                        "required": false
                     }
                 }
             }
