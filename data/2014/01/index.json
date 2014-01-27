@@ -1002,6 +1002,20 @@
             ],
             "date": "2014-01-27T06:08:09.332Z",
             "related-links": []
+        },
+        {
+            "title": "軽量オブザーバJSライブラリのrev.2をリリースした - snyk_s log",
+            "url": "http://saneyukis.hatenablog.com/entry/2014/01/25/213310",
+            "content": "シンプルなObserverライブラリ。\nObserverは関数ではなくhandleMessageを持ったオブジェクトに限定されている。\nDOMのhandleEventのような感じ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-01-27T06:14:28.194Z",
+            "related-links": [
+                null,
+                null
+            ]
         }
     ]
 }
