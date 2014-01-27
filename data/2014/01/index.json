@@ -1041,6 +1041,22 @@
             ],
             "date": "2014-01-27T12:33:55.928Z",
             "related-links": []
+        },
+        {
+            "title": "goodeggs/chai-webdriver",
+            "url": "https://github.com/goodeggs/chai-webdriver",
+            "content": "selenium-webdriverのassertionをchaiで書けるようにしたChai asertionライブラリ。",
+            "tags": [
+                "Selenium",
+                "testing"
+            ],
+            "date": "2014-01-27T12:36:58.027Z",
+            "related-links": [
+                {
+                    "title": "Chai Webdriver | Bites from Good Eggs",
+                    "url": "http://bites.goodeggs.com/open_source/chai-webdriver/"
+                }
+            ]
         }
     ]
 }
