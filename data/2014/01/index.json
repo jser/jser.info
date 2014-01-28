@@ -1079,6 +1079,18 @@
                     "url": "https://github.com/component/component"
                 }
             ]
+        },
+        {
+            "title": "AriaMinaei/pretty-error",
+            "url": "https://github.com/AriaMinaei/pretty-error",
+            "content": "nodeのエラースタックトレースを読みやすい形に整形、色付けするモジュール",
+            "tags": [
+                "node.js",
+                "debug",
+                "library"
+            ],
+            "date": "2014-01-28T05:21:03.848Z",
+            "related-links": []
         }
     ]
 }
