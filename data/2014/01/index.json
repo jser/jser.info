@@ -1108,7 +1108,7 @@
         {
             "title": "CoffeeScript",
             "url": "http://coffeescript.org",
-            "content": "CoffeeScript1.7.0リリース。\n新たな演算子や構文が追加されてる。\n配列を展開する `...`や`**`、`//`、 `%%`等。\nnodeのrequire.extensionsに対する対応を改善\n",
+            "content": "CoffeeScript1.7.0リリース。\nメソッドチェインで`()`を書く必要がなくなり綺麗に繋げられるようになった。\n新たな演算子や構文が追加されてる。\n配列を展開する `...`や`**`、`//`、 `%%`等。\nnodeのrequire.extensionsに対する対応を改善\n",
             "tags": [
                 "CoffeeScript",
                 "ReleaseNote"
@@ -1119,7 +1119,7 @@
                     "title": "CoffeeScript upcoming changes.",
                     "url": "https://gist.github.com/aseemk/8637896/"
                 },
-                null
+                { "title" : "release 1.6.4 · Issue #3141 · jashkenas/coffee-script", "url" : "https://github.com/jashkenas/coffee-script/issues/3141"}
             ]
         }
     ]
