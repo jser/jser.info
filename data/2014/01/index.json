@@ -1104,6 +1104,23 @@
             ],
             "date": "2014-01-28T12:05:16.037Z",
             "related-links": []
+        },
+        {
+            "title": "CoffeeScript",
+            "url": "http://coffeescript.org",
+            "content": "CoffeeScript1.7.0リリース。\n新たな演算子や構文が追加されてる。\n配列を展開する `...`や`**`、`//`、 `%%`等。\nnodeのrequire.extensionsに対する対応を改善\n",
+            "tags": [
+                "CoffeeScript",
+                "ReleaseNote"
+            ],
+            "date": "2014-01-29T00:16:35.828Z",
+            "related-links": [
+                {
+                    "title": "CoffeeScript upcoming changes.",
+                    "url": "https://gist.github.com/aseemk/8637896/"
+                },
+                null
+            ]
         }
     ]
 }
