@@ -1095,7 +1095,7 @@
         {
             "title": "安全でアクセシブルなアイコン・フォント",
             "url": "http://hail2u.net/documents/bulletproof-icon-fonts.html",
-            "content": "アイコンフォントとfallbackについて。\nまたスクリーン・リーダーでは擬似要素のcontentも読まれるためWAI-ARIAの属性を使ってアイコンを読まれないようにすることについても書かれてる",
+            "content": "アイコンフォントとfallbackについて。\nまたスクリーン・リーダーでは擬似要素のcontentも読まれるためWAI-ARIAの属性を使ってアイコンを読み上げされないようにすることについても書かれてる",
             "tags": [
                 "CSS",
                 "fonts",
