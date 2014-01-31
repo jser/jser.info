@@ -1229,6 +1229,17 @@
                     "url": "https://github.com/twbs/bootstrap/pull/9075"
                 }
             ]
+        },
+        {
+            "title": "lukehoban/ecmascript-asyncawait",
+            "url": "https://github.com/lukehoban/ecmascript-asyncawait",
+            "content": "sweet.jsでasyncとawaitの実装。\n内部的にはgenerator、Promisesを使ってる",
+            "tags": [
+                "sweet.js",
+                "JavaScript"
+            ],
+            "date": "2014-01-31T00:48:21.106Z",
+            "related-links": []
         }
     ]
 }
