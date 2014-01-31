@@ -1208,6 +1208,27 @@
             ],
             "date": "2014-01-31T00:22:47.977Z",
             "related-links": []
+        },
+        {
+            "title": "Bootstrap 3.1.0 released · Bootstrap Blog",
+            "url": "http://blog.getbootstrap.com/2014/01/30/bootstrap-3-1-0-released/",
+            "content": "Bootstrap 3.1.0リリース。\nドキュメントサイトのリニューアル、公式のSassポート、Apache LicenseからMITへ、ビルドツールのアップデート",
+            "tags": [
+                "CSS",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-01-31T00:35:43.995Z",
+            "related-links": [
+                {
+                    "title": "Release v3.1.0 · twbs/bootstrap",
+                    "url": "https://github.com/twbs/bootstrap/releases/tag/v3.1.0"
+                },
+                {
+                    "title": "Note about the license change from Apache to MIT by marclaporte · Pull Request #9075 · twbs/bootstrap",
+                    "url": "https://github.com/twbs/bootstrap/pull/9075"
+                }
+            ]
         }
     ]
 }
