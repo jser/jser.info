@@ -31,20 +31,31 @@
             ]
         },
         {
-          "title": "FrontEndLondon: ServiceWorker & the offline web // Speaker Deck",
-          "url": "https://speakerdeck.com/phuu/frontendlondon-serviceworker-and-the-offline-web",
-          "content": "オフラインアプリのキャッシュとしてのAppCache, ServiceWorkerのスライド。\n主にServiceWorkerとはどのような構造を持ってるかについて書かれている",
-          "tags": [
-            "JavaScript",
-            "スライド",
-            "オフライン"
-          ],
-          "related-links": [
-            {
-              "url": "https://github.com/slightlyoff/ServiceWorker",
-              "title": "slightlyoff/ServiceWorker"
-            }
-          ]
+            "title": "FrontEndLondon: ServiceWorker & the offline web // Speaker Deck",
+            "url": "https://speakerdeck.com/phuu/frontendlondon-serviceworker-and-the-offline-web",
+            "content": "オフラインアプリのキャッシュとしてのAppCache, ServiceWorkerのスライド。\n主にServiceWorkerとはどのような構造を持ってるかについて書かれている",
+            "tags": [
+                "JavaScript",
+                "スライド",
+                "オフライン"
+            ],
+            "related-links": [
+                {
+                    "url": "https://github.com/slightlyoff/ServiceWorker",
+                    "title": "slightlyoff/ServiceWorker"
+                }
+            ]
+        },
+        {
+            "title": "CoffeeScript 1.7.1が出てた - 終わる世界とコンテンツ",
+            "url": "http://blog.geta6.net/post/75337217382/coffeescript-1-7-1",
+            "content": "CoffeeScript 1.70(1.7.1)の変更点の詳細解説",
+            "tags": [
+                "CoffeeScript",
+                "ReleaseNote"
+            ],
+            "date": "2014-02-02T12:25:09.174Z",
+            "related-links": []
         }
     ]
 }
