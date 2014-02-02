@@ -29,6 +29,22 @@
                     "url": "http://ng-conf.org/"
                 }
             ]
+        },
+        {
+          "title": "FrontEndLondon: ServiceWorker & the offline web // Speaker Deck",
+          "url": "https://speakerdeck.com/phuu/frontendlondon-serviceworker-and-the-offline-web",
+          "content": "オフラインアプリのキャッシュとしてのAppCache, ServiceWorkerのスライド。\n主にServiceWorkerとはどのような構造を持ってるかについて書かれている",
+          "tags": [
+            "JavaScript",
+            "スライド",
+            "オフライン"
+          ],
+          "relatedSites": [
+            {
+              "url": "https://github.com/slightlyoff/ServiceWorker",
+              "title": "slightlyoff/ServiceWorker"
+            }
+          ]
         }
     ]
 }
