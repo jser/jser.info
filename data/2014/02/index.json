@@ -85,6 +85,24 @@
             ],
             "date": "2014-02-02T13:46:35.993Z",
             "related-links": []
+        },
+        {
+            "title": "Release v1.8.1: 1.8.1 · cjohansen/Sinon.JS",
+            "url": "https://github.com/cjohansen/Sinon.JS/releases/tag/v1.8.1",
+            "content": "Sinon.JS 1.8.1 リリース。\n`clearImmediate`、`withCredentials`、`XHR.upload` のサポート、バグ修正等",
+            "tags": [
+                "JavaScript",
+                "ReleaseNote",
+                "library",
+                "testing"
+            ],
+            "date": "2014-02-02T14:11:30.351Z",
+            "related-links": [
+                {
+                    "title": "== 1.8.0 / 2014-02-02",
+                    "url": "http://sinonjs.org/Changelog.txt"
+                }
+            ]
         }
     ]
 }
