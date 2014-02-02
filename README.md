@@ -12,3 +12,10 @@ JSer.info [Issues](https://github.com/azu/jser.info/issues "Issues · azu/jser.i
 ``Edit index.json on Github`` から該当するindex.jsonを修正出来ます。
 
 [JSer.info]: http://jser.info/  "JSer.info"
+
+## Pull Request
+
+[JSer.info](http://jser.info/ "JSer.info") で紹介して欲しい記事やサイト等をPull Requestしたい場合は、
+[JSer.info Pull Request Form](http://azu.github.io/JSer.info-tribute/ "JSer.info Pull Request Form") を利用すると楽に行えます。
+
+詳しくは[Pull Requestのガイドラインについて](CONTRIBUTING.md)を参照して下さい。
