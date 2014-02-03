@@ -7,8 +7,10 @@
 
 (その月の `data/year/month/index.json` に対して指定の書式で追加していきます。)
 
-Pull Requestを取り込むか(掲載するか)は個人的な判断にて決定するため、mergeする保証はありませんが、
-自己推薦や宣伝記事でも興味深い内容だと判断されればmergeされます。
+> [JSer.info Pull Request Form](http://azu.github.io/JSer.info-tribute/ "JSer.info Pull Request Form")
+
+Pull Requestを取り込むか(掲載するか)は個人的な判断にて決定するため、マージする保証はありませんが、
+自己推薦や宣伝記事であっても興味深い内容だと判断されればマージされます。
 
 ちゃんとした基準はありませんが、最低限意識する事として以下の通りです。
 
