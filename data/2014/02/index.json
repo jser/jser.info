@@ -103,6 +103,18 @@
                     "url": "http://sinonjs.org/Changelog.txt"
                 }
             ]
+        },
+        {
+            "title": "Ractive.js入門 - @lxyuma BLOG",
+            "url": "http://lxyuma.hatenablog.com/entry/2014/02/03/000904",
+            "content": "リファクティブスタイルなDOMライブラリであるRactive.jsについて。\nAngularとKnockoutと比べた立ち位置、基本的な使い方、内部的な効率化の仕組み、Backboneと合わせた使い方について",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library"
+            ],
+            "date": "2014-02-03T05:42:40.520Z",
+            "related-links": []
         }
     ]
 }
