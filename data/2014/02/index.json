@@ -115,6 +115,49 @@
             ],
             "date": "2014-02-03T05:42:40.520Z",
             "related-links": []
+        },
+        {
+            "title": "Cute",
+            "url": "http://timruffles.github.io/cute/",
+            "content": "Angular.jsのサブセット。Angularよりも軽くして、読みやすくしたライブラリ",
+            "tags": [
+                "AngularJS",
+                "JavaScript",
+                "library"
+            ]
+        },
+        {
+            "title": "A Guide to Building Your First Ember.js App",
+            "url": "http://www.toptal.com/javascript/a-step-by-step-guide-to-building-your-first-ember-js-app",
+            "content": "Ember.jsを使ったチュートリアル。ジュークボックス的なアプリを作っていく。",
+            "tags": [
+                "Ember.js",
+                "JavaScript",
+                "tutorial"
+            ],
+            "related-links": [
+                {
+                    "title": "balinterdi/rock-and-roll",
+                    "url": "https://github.com/balinterdi/rock-and-roll"
+                }
+            ]
+        },
+        {
+            "title": "Building rich web UIs with knockout.js",
+            "url": "http://programming.oreilly.com/2014/01/building-rich-web-uis-with-knockout-js.html",
+            "content": "Fluent 2013でのKnockout.jsを使用したライブコーディング。",
+            "tags": [
+                "JavaScript",
+                "Knockout.js",
+                "tutorial",
+                "動画"
+            ],
+            "related-links": [
+                {
+                    "title": "O'reilly Fluent 2014",
+                    "url": "http://fluentconf.com/fluent2014"
+                }
+            ]
         }
     ]
 }
