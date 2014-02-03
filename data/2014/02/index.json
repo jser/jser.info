@@ -125,6 +125,22 @@
                 "JavaScript",
                 "library"
             ]
+        },
+        {
+            "title": "A Guide to Building Your First Ember.js App",
+            "url": "http://www.toptal.com/javascript/a-step-by-step-guide-to-building-your-first-ember-js-app",
+            "content": "Ember.jsを使ったチュートリアル。ジュークボックス的なアプリを作っていく。",
+            "tags": [
+                "Ember.js",
+                "JavaScript",
+                "tutorial"
+            ],
+            "related-links": [
+                {
+                    "title": "balinterdi/rock-and-roll",
+                    "url": "https://github.com/balinterdi/rock-and-roll"
+                }
+            ]
         }
     ]
 }
