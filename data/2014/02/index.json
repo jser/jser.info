@@ -116,7 +116,7 @@
             "date": "2014-02-03T05:42:40.520Z",
             "related-links": []
         },
-                {
+        {
             "title": "Cute - a smaller Angular",
             "url": "http://timruffles.github.io/cute/",
             "content": "Angular.jsのサブセット。Angularよりもコード量が少なく、読み書きしやすくしたライブラリ。",
@@ -169,6 +169,23 @@
             ],
             "date": "2014-02-03T12:34:17.627Z",
             "related-links": []
+        },
+        {
+            "title": "gulp.js で TypeScript をコンパイルするプラグインを作った - kotas.tech",
+            "url": "http://kotas.hatenablog.jp/entry/2014/02/04/005146",
+            "content": "gulpのTypeScriptコンパイラプラグイン",
+            "tags": [
+                "gulp",
+                "TypeScript",
+                "plugin"
+            ],
+            "date": "2014-02-04T01:24:18.803Z",
+            "related-links": [
+                {
+                    "title": "gulp-tsc",
+                    "url": "https://npmjs.org/package/gulp-tsc"
+                }
+            ]
         }
     ]
 }
