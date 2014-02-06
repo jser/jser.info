@@ -2,12 +2,12 @@
 
 ## 紹介記事の追加
 
-[JSer.info](http://jser.info/ "JSer.info") で紹介して欲しい記事やサイト等をPull Requestしたい場合は、
-[JSer.info Pull Request Form](http://azu.github.io/JSer.info-tribute/ "JSer.info Pull Request Form") を利用すると楽に出来ます。
-
-(その月の `data/year/month/index.json` に対して指定の書式で追加していきます。)
-
 > [JSer.info Pull Request Form](http://azu.github.io/JSer.info-tribute/ "JSer.info Pull Request Form")
+
+[JSer.info](http://jser.info/ "JSer.info") で紹介して欲しい記事やサイト等をPull Requestしたい場合は、
+[JSer.info Pull Request Form](http://azu.github.io/JSer.info-tribute/ "JSer.info Pull Request Form") を利用すると、
+追加するJSONフォーマットを自動的に生成できます。 (その月の `data/year/month/index.json` に対して指定の書式で追加していきます。)
+
 
 Pull Requestを取り込むか(掲載するか)は個人的な判断にて決定するため、マージする保証はありませんが、
 自己推薦や宣伝記事であっても興味深い内容だと判断されればマージされます。
