@@ -6,7 +6,7 @@
 
 [JSer.info](http://jser.info/ "JSer.info") で紹介して欲しい記事やサイト等をPull Requestしたい場合は、
 [JSer.info Pull Request Form](http://azu.github.io/JSer.info-tribute/ "JSer.info Pull Request Form") を利用すると、
-追加するJSONフォーマットを自動的に生成できます。 (その月の `data/year/month/index.json` に対して指定の書式で追加していきます。)
+追加するJSONフォーマットを自動的に生成できます。 (その月の `data/year/month/index.json` に対してJSONを追記していきます。)
 
 
 Pull Requestを取り込むか(掲載するか)は個人的な判断にて決定するため、マージする保証はありませんが、
