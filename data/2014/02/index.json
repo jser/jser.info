@@ -359,6 +359,23 @@
             ],
             "date": "2014-02-08T07:34:13.685Z",
             "related-links": []
+        },
+        {
+            "title": "w3ctag/promises-guide",
+            "url": "https://github.com/w3ctag/promises-guide",
+            "content": "いつPromisesを使うか、いつ使うべきではないか。\nエラーが起きた時にどうするべきかやコントロールフローの管理であって、タスクのキューではない事や引数にpromiseを受ける場合についてのガイドライン。\nまた仕様書でよく使われるフレーズについてまとめられている",
+            "tags": [
+                "Promises",
+                "spec",
+                "document"
+            ],
+            "date": "2014-02-08T12:01:32.931Z",
+            "related-links": [
+                {
+                    "title": "Promiseはコールバックに対する聖杯ではない - snyk_s log",
+                    "url": "http://saneyukis.hatenablog.com/entry/2014/02/04/233817"
+                }
+            ]
         }
     ]
 }
