@@ -286,6 +286,24 @@
                     "url": "http://www.mozilla.jp/firefox/27.0/releasenotes/"
                 }
             ]
+        },
+        {
+            "title": "Creating standalone JavaScript library builds with browserify, watchify, and uglify-js",
+            "url": "http://learnjs.io/blog/2014/02/06/creating-js-library-builds-with-browserify-and-other-npm-modules/",
+            "content": "npm runを使ったタスクの実行についてのチュートリアル。\nbrowserify + watchify + uglify-jsでbuild(-min,-debug),watchとそれぞれのタスクをnpm scriptsで行うシンプルな話。\nGruntやgulpでも同じ事はできるけど、サンプルと構成共にとても小さく書かれているので分かりやすい。",
+            "tags": [
+                "browserify",
+                "tutorial",
+                "node.js",
+                "npm"
+            ],
+            "date": "2014-02-08T05:52:21.602Z",
+            "related-links": [
+                {
+                    "title": "Modular JavaScript development with Browserify and LivePage | Solarian Programmer",
+                    "url": "http://solarianprogrammer.com/2014/02/05/modular-javascript-development-browserify-livepage/"
+                }
+            ]
         }
     ]
 }
