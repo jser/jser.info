@@ -376,6 +376,18 @@
                     "url": "http://saneyukis.hatenablog.com/entry/2014/02/04/233817"
                 }
             ]
+        },
+        {
+            "title": "vue.js",
+            "url": "http://vuejs.org/",
+            "content": "ViewとModelのデータバインディングライブラリ。\nObject.defineProperty等を使っているためES5以降のブラウザをサポート",
+            "tags": [
+                "JavaScript",
+                "library",
+                "MVC"
+            ],
+            "date": "2014-02-08T15:34:04.780Z",
+            "related-links": []
         }
     ]
 }
