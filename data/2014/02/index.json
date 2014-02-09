@@ -427,6 +427,27 @@
                     "url": "http://docs.webplatform.org/wiki/javascript"
                 }
             ]
+        },
+        {
+            "title": "WebReflection/restyle",
+            "url": "https://github.com/WebReflection/restyle",
+            "content": "absurd.jsのようにJavaScriptでCSSライクなオブジェクトを書いてCSSにする。\nブラウザ、Nodeで動くライブラリ。",
+            "tags": [
+                "JavaScript",
+                "CSS",
+                "library"
+            ],
+            "date": "2014-02-09T07:45:52.553Z",
+            "related-links": [
+                {
+                    "title": "Web Reflection: restyle.js - a simplified CSS approach",
+                    "url": "http://webreflection.blogspot.jp/2014/02/restylejs-simplified-css-approach.html"
+                },
+                {
+                    "title": "AbsurdJS - the new CSS preprocessor",
+                    "url": "http://krasimir.github.io/absurd/"
+                }
+            ]
         }
     ]
 }
