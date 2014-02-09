@@ -448,6 +448,23 @@
                     "url": "http://krasimir.github.io/absurd/"
                 }
             ]
+        },
+        {
+            "title": "JavaScript Promises - Thinking Sync in an Async World // Speaker Deck",
+            "url": "https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world",
+            "content": "ES6 Promisesの流れについてまとまってるスライド.\nPromiseが持つ状態、メソッド、Promiseコンストラクタの使い方とショートカット、Promiseとthisとbindを利用についてなど",
+            "tags": [
+                "JavaScript",
+                "Promises",
+                "スライド"
+            ],
+            "date": "2014-02-09T10:53:23.261Z",
+            "related-links": [
+                {
+                    "title": "▶ JavaScript Promises: Thinking Sync in an Async World - YouTube",
+                    "url": "http://www.youtube.com/watch?v=wc72cyYt8-c"
+                }
+            ]
         }
     ]
 }
