@@ -509,6 +509,18 @@
                     "url": "http://www.jsdelivr.com/"
                 }
             ]
+        },
+        {
+            "title": "Building a jQuery-like library – Blog of Cedric Ruiz",
+            "url": "http://cedricruiz.me/blog/building-a-jquery-like-library/",
+            "content": "ES5で増えたArray拡張やquerySelector等を使ってjQueryライクなDOM操作ライブラリを書くチュートリアル。\n関数型っぽい感じの構成になっている",
+            "tags": [
+                "JavaScript",
+                "jQuery",
+                "関数型プログラミング"
+            ],
+            "date": "2014-02-10T13:17:47.382Z",
+            "related-links": []
         }
     ]
 }
