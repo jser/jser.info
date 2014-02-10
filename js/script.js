@@ -33,6 +33,11 @@ $(function () {
         });
     }
 
+    $("#fullscreen-button").button().on("click", function (evt) {
+        if (screenfull.enabled) {
+            screenfull.request(document.querySelector("#content"));
+        }
+    });
     $("#jq-dialog").on("dialogfocus", function (evt,ui) {
         $("#js-dialog-textarea").select();
     });
