@@ -476,6 +476,23 @@
             ],
             "date": "2014-02-09T10:55:52.482Z",
             "related-links": []
+        },
+        {
+            "title": "Uniter",
+            "url": "http://asmblah.github.io/uniter/",
+            "content": "PHPをブラウザや、Node.jsで動かすライブラリ。α版。",
+            "date": "2014-02-09T17:55:58.089Z",
+            "tags": [
+                "PHP",
+                "JavaScript",
+                "Node.js"
+            ],
+            "related-links": [
+                {
+                    "title": "Demo",
+                    "url": "http://asmblah.github.io/uniter/demo/interactive.html"
+                }
+            ]
         }
     ]
 }
