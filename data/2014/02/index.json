@@ -537,6 +537,18 @@
                     "url": "https://twitter.com/js1k/status/430812732028227584"
                 }
             ]
+        },
+        {
+            "title": "Underscore.js",
+            "url": "http://underscorejs.org/",
+            "content": "Underscore 1.6.0 リリース。\n`_.partition`, `_.property`, `_.matches`,  `_.constant` , `_.now` の追加",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-02-11T04:54:59.609Z",
+            "related-links": []
         }
     ]
 }
