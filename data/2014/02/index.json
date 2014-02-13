@@ -581,6 +581,18 @@
                     "url": "https://github.com/eslint/eslint/wiki/Release-goals"
                 }
             ]
+        },
+        {
+            "title": "GulpFiction/gulpfiction",
+            "url": "https://github.com/GulpFiction/gulpfiction",
+            "content": "gulpfileのビジュアルエディタ。\ngulpタスクの内容をパイプで繋いでGUI上で作成出来る",
+            "tags": [
+                "gulp",
+                "editor",
+                "webservice"
+            ],
+            "date": "2014-02-13T01:02:02.475Z",
+            "related-links": []
         }
     ]
 }
