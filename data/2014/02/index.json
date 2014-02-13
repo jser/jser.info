@@ -565,6 +565,22 @@
                     "url": "https://github.com/olado/doT"
                 }
             ]
+        },
+        {
+            "title": "ESLint 0.4.0 released - ESLint",
+            "url": "http://eslint.org/blog/2014/02/eslint-0.4.0-released/",
+            "content": "ESLint 0.4.0リリース。\n.eslintrcにYAML/JSONで設定がかけるように、`npm run profile` の追加とパフォーマンス改善、ルールの修正や追加(JSDocのバリデーションルール)等",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2014-02-13T00:43:52.582Z",
+            "related-links": [
+                {
+                    "title": "Release goals · eslint/eslint Wiki",
+                    "url": "https://github.com/eslint/eslint/wiki/Release-goals"
+                }
+            ]
         }
     ]
 }
