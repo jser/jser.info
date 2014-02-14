@@ -609,6 +609,20 @@
                     "url": "http://www.ng-newsletter.com/books/"
                 }
             ]
+        },
+        {
+            "title": "cloudup/browser-repl",
+            "url": "https://github.com/cloudup/browser-repl",
+            "content": "SauceLabsを使ったブラウザREPL.\nwebdriverを使ってリモートのブラウザをREPL的に使える",
+            "tags": [
+                "browser",
+                "JavaScript",
+                "webdriver",
+                "console",
+                "Tools"
+            ],
+            "date": "2014-02-14T07:05:46.801Z",
+            "related-links": []
         }
     ]
 }
