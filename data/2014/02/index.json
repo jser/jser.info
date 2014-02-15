@@ -659,6 +659,24 @@
             ],
             "date": "2014-02-15T07:17:23.103Z",
             "related-links": []
+        },
+        {
+            "title": "Building JavaScript Tools",
+            "url": "http://gregfranko.com/building-javascript-tools-talk/",
+            "content": "JavaScriptツールを使うだけじゃなくて書いてみよう。\nどこから始める? -> コードをASTというオブジェクトで表現できる -> AST を使ったツールを作ろう という感じのJS ASTについてのスライド",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "Tools",
+                "スライド"
+            ],
+            "date": "2014-02-15T15:16:44.288Z",
+            "related-links": [
+                {
+                    "title": "JavaScript AST Walker",
+                    "url": "http://azu.github.io/slide/tkbjs/js-ast-walker.html"
+                }
+            ]
         }
     ]
 }
