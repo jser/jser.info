@@ -1,3 +1,74 @@
+## [JavaScript Promises: There and back again - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es6/promises/ "JavaScript Promises: There and back again - HTML5 Rocks")
+
+- なんでPromisesなのか
+	- 画像がロードの正否でコールバックを呼びたい時
+	- "Event"を使う場合は`load`,`error`イベントで設定できる
+	- 既にロード済みの場合は発火しない
+	- そのため`complete` プロパティで判定して分岐する必要がある
+	- "Event" は いつもベストというわけではない
+	- promiseは一度だけ呼ばれる **成功**、**失敗** のコールバックを設定出来る
+	- 既にロード済みでも、**成功**、**失敗** のコールバックは呼ぶことが出来る
+- [Promiseの用語](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-promise-terminology "Promise terminology")
+	- promiseが持つ状態の種類
+		- （＊Kerrick Longによる<a href="#KerrickLongPromise">スライド</a>		がわかりやすい)
+- [JavaScriptでのPromises](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-javascript-promises "Promises arrive in JavaScript!")
+	- [WinJS.Promise](http://msdn.microsoft.com/en-us/library/windows/apps/br211867.aspx "WinJS.Promise"), [RSVP.js](https://github.com/tildeio/rsvp.js "RSVP.js"), [Q](https://github.com/kriskowal/q "Q"), [when.js](https://github.com/cujojs/when " when.js")のようなライブラリがある
+	- 上記のライブラリは[Promises/A+](https://github.com/promises-aplus/promises-spec "Promises/A+")と呼ばれる仕様を元にしてる
+		- APIのインターフェースは微妙に異なるが、挙動は[Promises/A+](https://github.com/promises-aplus/promises-spec "Promises/A+")に準拠している
+		- [jQuery.Deferred()](http://api.jquery.com/category/deferred-object/ "jQuery.Deferred()")のようなDeferredと呼ばれる似たようなものもある。
+		- jQuery.Deferred は [Promises/A+](https://github.com/promises-aplus/promises-spec "Promises/A+") に準拠したものではなく、[挙動が異なる部分もある](https://thewayofcode.wordpress.com/2013/01/22/javascript-promises-and-why-jquery-implementation-is-broken/ "Javascript promises and why jQuery implementation is broken | thewayofcode")
+	- Promiseを使った実装の流れ
+		- `Promise`コンストラクタは2つのパラメータを持つ1つのコールバックを引数に取る
+		- `var promise = new Promise(function(resolve, reject) { … }`
+		- 全て問題なく実行できた場合は `resolve` を呼び、それ以外は `reject` を呼ぶ
+		- エラー時でも`throw`しないで、`reject`にErrorオブジェクトを渡して呼ぶ
+		- Errorオブジェクトを使うことでスタックトレース等デバッグツールに優しい感じになる
+		- promiseのインスタンスは `then` というコールバックを設定するメソッドを持っている
+		- 結果を使う場合は `promise.then` で成功、失敗のコールバックを設定してあげる。
+	- JSのpromiseはDOM __"Futures"__ という名前で始まり、__"Promises"__ にリネームされた
+		- そのためDOMでも使えるし、現にいくつかのDOM APIの仕様でも使われてる
+- [ブラウザサポートとpolyfill](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-browser-support "Browser support &amp; polyfill")
+	- (＊ 最新の状態は[Can I use...](http://caniuse.com/#feat=promises "Can I use... Support tables for HTML5, CSS3, etc")等を見ましょう)
+- [他のライブラリとの互換性](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-lib-compatibility "Compatibility with other libraries")
+	- JS Promises APIは `then` というメソッドを持つオブジェクトを __promise-like__ (or thenable)と呼ぶ
+	- promise-likeなものをPromiseのインスタンスとして扱えるようにする `Promise.cast` が利用できる
+	- `Promise.cast` を使うことでQのPromiseやjQueryのDeferredも扱える
+	- `var jsPromise = Promise.cast($.ajax('/whatever.json'));`
+	- ただしjQueryのDeferredはコールバックに渡すものが[多少異なる](http://jsfiddle.net/6PhMp/)
+- [Complex async code made easier](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-coding-with-promises "Complex async code made easier")
+- [XMLHttpRequestをPromise化する](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-promisifying-xmlhttprequest "Promisifying XMLHttpRequest")
+	- `XMLHttpRequest`をラップしてpromiseオブジェクトを返すようにする例
+- [Chaining](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-chaining "Chaining")
+	- `then` を使うことで非同期処理の後に別の処理を追加できる
+	- `then` のコールバックで値を変換することも出来る(`return`で変換した値を返すだけ)
+	- `then` の返り値(＊1)に対しても`then` (next-`then`)で処理を追加することができる。
+	- next-`then` に設定されたコールバックは＊1の値がsettles (succeeds/fails)になった時に呼ばれる
+- [Error handling](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-error-handling "Error handling")
+	- `then`はsuccessとfailureのコールバックを指定できるがエラーについてのコールバックだけを書きたい場合
+		- `catch(function(response){ })` と書くことができる
+		- `catch` は `then(undefined, func)` のシンタックスシュガー
+	- JavaScriptの例外とPromises
+		- Promiseコンストラクタ内で例外が投げられた場合
+		- 暗黙的にrejectがエラーオブジェクト共に呼ばれる
+		- つまりPromiseコンストラクタ内で例外がおきても `then`/`catch` で[捉えることができる](http://jsfiddle.net/Jsb8x/)
+	- Error handling in practice
+		- promiseではない場合は`try-catch`を使った方法を使う
+		- promiseの場合は `catch` のchainを書くだけのシンプル
+- [Parallelism and sequencing - Getting the best of both](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-parallelism-sequencing "Parallelism and sequencing - Getting the best of both")   
+- [Promise API Reference](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-api "Promise API Reference")
+	- ループでそれぞれpromise.thenしても非同期処理なのでその順序では呼ばれない。
+	- sequence を作る
+		- promiseのsequenceへ処理したい内容を順番に入れる事で実行順序を描く
+		- Array.reduceを使ってもっと綺麗に書く
+	- `Promise.all` を使うことで複数のpromiseに対するコールバックを設定出来る
+- Promises and Generators
+	- PromiseとGenratorを組み合わせる		
+- PromiseのAPIリファレンス
+	- （＊ [Promise - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise "Promise - JavaScript | MDN") )
+
+---
+
+
 ## [w3ctag/promises-guide](https://github.com/w3ctag/promises-guide "w3ctag/promises-guide")
 
 Promisesはいろいろなライブラリで試されてきた概念で、それを元に[Promises/A+](http://promisesaplus.com/ "Promises/A+")というコミュニティベースな仕様が立ち上げられた。
@@ -39,8 +110,9 @@ PromisesはWeb Platformにおける非同期処理の一つのパラダイムで
 - [Shorthand Phrases](https://github.com/w3ctag/promises-guide#shorthand-phrases " Shorthand Phrases")
 	- 仕様を読み書きするときに便利なフレーズ集
 
+---
 
-## [JavaScript Promises - Thinking Sync in an Async World // Speaker Deck](https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world "JavaScript Promises - Thinking Sync in an Async World // Speaker Deck")
+## <a name="KerrickLongPromise"> [JavaScript Promises - Thinking Sync in an Async World // Speaker Deck](https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world "JavaScript Promises - Thinking Sync in an Async World // Speaker Deck")
 
 <script async class="speakerdeck-embed" data-id="15dc2a3071d201314bf25aef2655508f" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
