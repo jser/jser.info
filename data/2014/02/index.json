@@ -772,6 +772,21 @@
             ],
             "date": "2014-02-17T13:01:27.394Z",
             "related-links": []
+        },
+        {
+            "title": "What Every JavaScript Developer Should Know About Floating Points | Flippin' Awesome",
+            "url": "http://flippinawesome.org/2014/02/17/what-every-javascript-developer-should-know-about-floating-points/",
+            "content": "JavaScriptの浮動小数点について。\nIEEE 754、丸め誤差の問題、BigDecimalのような浮動小数点を扱うライブラリについて",
+            "tags": [
+                "JavaScript"
+            ],
+            "date": "2014-02-17T13:04:42.637Z",
+            "related-links": [
+                {
+                    "title": "dtrebbien/BigDecimal.js",
+                    "url": "https://github.com/dtrebbien/BigDecimal.js"
+                }
+            ]
         }
     ]
 }
