@@ -734,6 +734,19 @@
             ],
             "date": "2014-02-17T09:09:13.863Z",
             "related-links": [{ "title" : "Modern JavaScript: Promises/A+ - understanding the spec through implementation", "url" : "http://modernjavascript.blogspot.jp/2013/08/promisesa-understanding-by-doing.html"}]
+        },
+        {
+            "title": "Build Wars: Gulp vs Grunt",
+            "url": "http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/",
+            "content": "Gruntの成り立ちと歴史、gulpの特徴のストリーム等や基本的な使い方、内部的に使われてるモジュールについて。\nビルドシステムツールの今後についてなど、画像多めでコミカルにまとめてる",
+            "tags": [
+                "Grunt",
+                "gulp",
+                "スライド",
+                "歴史"
+            ],
+            "date": "2014-02-17T12:44:02.726Z",
+            "related-links": []
         }
     ]
 }
