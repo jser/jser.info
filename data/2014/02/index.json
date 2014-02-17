@@ -704,6 +704,24 @@
             ],
             "date": "2014-02-16T07:58:11.795Z",
             "related-links": []
+        },
+        {
+            "title": "Release Release 1.0.0! · teppeis/fixclosure",
+            "url": "https://github.com/teppeis/fixclosure/releases/tag/1.0.0",
+            "content": "Closure Libraryを使って書かれたコードにおける依存関係の検証/解決するツールfixclosure 1.0.0リリース",
+            "tags": [
+                "JavaScript",
+                "library",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2014-02-17T01:32:21.875Z",
+            "related-links": [
+                {
+                    "title": "goog.require()を手書きしていいのは小学生まで",
+                    "url": "http://www.slideshare.net/teppeis/googrequire"
+                }
+            ]
         }
     ]
 }
