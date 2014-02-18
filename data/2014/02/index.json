@@ -733,7 +733,12 @@
                 "tutorial"
             ],
             "date": "2014-02-17T09:09:13.863Z",
-            "related-links": [{ "title" : "Modern JavaScript: Promises/A+ - understanding the spec through implementation", "url" : "http://modernjavascript.blogspot.jp/2013/08/promisesa-understanding-by-doing.html"}]
+            "related-links": [
+                {
+                    "title": "Modern JavaScript: Promises/A+ - understanding the spec through implementation",
+                    "url": "http://modernjavascript.blogspot.jp/2013/08/promisesa-understanding-by-doing.html"
+                }
+            ]
         },
         {
             "title": "Build Wars: Gulp vs Grunt",
@@ -787,6 +792,18 @@
                     "url": "https://github.com/dtrebbien/BigDecimal.js"
                 }
             ]
+        },
+        {
+            "title": "saadtazi/firefox-profile-js · GitHub",
+            "url": "https://github.com/saadtazi/firefox-profile-js",
+            "content": "Firefoxのプロファイルを作ったり、既存のプロファイルを利用したり、アドオンを追加等プロファイルを扱えるNodeモジュール。WebDriverと合わせて使う感じ",
+            "tags": [
+                "firefox",
+                "webdriver",
+                "node.js"
+            ],
+            "date": "2014-02-18T12:26:19.542Z",
+            "related-links": []
         }
     ]
 }
