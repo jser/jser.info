@@ -816,6 +816,18 @@
             ],
             "date": "2014-02-19T00:41:56.817Z",
             "related-links": []
+        },
+        {
+            "title": "ES6 Fiddle",
+            "url": "http://www.es6fiddle.net/",
+            "content": "ECMAScript6のコードを実行出来るJSFiddle的なサービス。\nTraceurを使ったコンパイル、JSHintを使ったLint等が行われるのでブラウザが直接サポートされて無くても実行が出来る",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "Tools"
+            ],
+            "date": "2014-02-19T00:56:12.440Z",
+            "related-links": []
         }
     ]
 }
