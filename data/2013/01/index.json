@@ -1,0 +1,496 @@
+{
+    "list": [
+        {
+            "title": "12.13 正式版リリース． « Opera-users.jp",
+            "url": "http://opera-users.jp/translations/weekly/2013-01-30-12-13-final-released/",
+            "content": "Opera 12.13リリース.\n\nhttp://my.opera.com/desktopteam/blog/2013/01/30/12-13-final-released",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "News | JS Mantras",
+            "url": "http://jsmantras.com/news.html",
+            "content": "JavaScriptに関するDaily Newsを書いてるブログ",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "SIE 8の公開 - プラグインレスでSVGを表示する「SIE」開発ブログ",
+            "url": "http://d.hatena.ne.jp/dhrname/20130129/p1",
+            "content": "SIE 8リリース",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQueryのDeferredとPromise - tkawachi Blog",
+            "url": "http://tkawachi.github.com/blog/2013/01/06/jquery-deferred/",
+            "content": "jQueryのDeferredとPromiseについてのわかりやすい解説. Deferred objectが持つ状態について(Promise/Aとの対応)、渡されるPromise objectの機能、$.whenでの組み合わせや$.ajaxの返すPromiseについて",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery 1.9 のソースマップ対応で圧縮版でもデバッグが簡単になった話 - てっく煮ブログ",
+            "url": "http://tech.nitoyon.com/ja/blog/2013/01/29/jquery-source-map/",
+            "content": "jQuery CDNのソースマップについて.\n\naltJSやSass/Lessでのソースマップ対応オプションや圧縮ツールのソースマップ対応について",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Web Dev .NET: Beginner HTML5, JavaScript, jQuery, Backbone, and CSS3 Resources",
+            "url": "http://www.elijahmanor.com/2013/01/beginner-html5-javascript-jquery.html",
+            "content": "HTML5、JavaScript、jQuery、Backbone.js、CSS3、Feature detection、Responsive Web Designについての取っ掛かりとなるリソースまとめ",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Webサイト＆WebアプリのRetina対応方法まとめ | KRAY Inc",
+            "url": "http://kray.jp/blog/retina-web/",
+            "content": "Retinaディスプレイ対応についてのまとめ.\n\n@2xの画像を用意して、imgタグ、CSS、JavaScriptでの対応例、Canvasでのサイズ指定について",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Client-Side UI Smackdown",
+            "url": "http://www.infoq.com/presentations/JavaScript-Frameworks-Review",
+            "content": "JavaScriptのエコシステムについての発表.\n\nBackbone.js, Spine.js, Knockout, Knockback, Sammy等のMV* フレームワークについて、scaffoldなツール、モジュールについて",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQueryのDeferredとPromise - tkawachi Blog",
+            "url": "http://tkawachi.github.com/blog/2013/01/06/jquery-deferred/",
+            "content": "jQueryのDeferredとPromiseについてのわかりやすい解説.\n\nDeferred objectが持つ状態について(Promise/Aとの対応)、渡されるPromise objectの機能、$.whenでの組み合わせや$.ajaxの返すDeferredについて",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Writing Testable Frontend Javascript Part 1 – Anti-patterns and their fixes | Shane Tomlinson",
+            "url": "https://shanetomlinson.com/2013/testing-javascript-frontend-part-1-anti-patterns-and-fixes/",
+            "content": "アンチパターンのコード例を元にテストしやすいJavaScriptの書き方について.\n\nPublic/Private Interface、eventハンドラとロジックの分離、XHRのモック、非同期とコールバック",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery 1.9.0 での変更箇所の自分なりのまとめ | 私的なjQuery",
+            "url": "http://myjquery.blog.fc2.com/blog-entry-13.html",
+            "content": "jQuery 1.9の変更点について.\n\n整理されたAPIやCSSセレクタなどについて",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Backgrid.js",
+            "url": "http://wyuenho.github.com/backgrid/",
+            "content": "Grid表示ライブラリ.\n\nGrid/Column/Cell/Formatter/Header/Row/Body/FooterとわかれたAPIを持つ",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "QUnit 1.11 Release: A Look Back (and Forth) | Official jQuery Blog",
+            "url": "http://blog.jquery.com/2013/01/24/qunit-1-11-release-a-look-back-and-forth/",
+            "content": "QUnit 1.11リリース.\n\nbugfixやAdd-ons( http://qunitjs.com/addons/ )、PhantomJS add-onの改善など",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Egghead IO",
+            "url": "http://egghead.io/",
+            "content": "AngularJS のチュートリアル動画\n\nhttps://twitter.com/eggheadio",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery 1.9 の $.parseHTML とかその辺 - ほむらちゃほむほむ",
+            "url": "http://t-ashula.hateblo.jp/entry/2013/01/23/114105",
+            "content": "jQueryの$(String)がXSSを引き起こしやすい問題と、jQuery1.8から追加された$.parseHTMLについて",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "visionmedia/rework · GitHub",
+            "url": "https://github.com/visionmedia/rework",
+            "content": "CSSプロプロセッサー",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "RequireJS 2.1.4 Released ~ James Burke",
+            "url": "http://jrburke.com/2013/01/23/requirejs-2.1.4-released/",
+            "content": "RequireJS 2.1.4 リリース.\n\n2.1.3のquickfix\n\nhttp://jrburke.com/2013/01/22/requirejs-2.1.3-released/",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "How to Run Buster.js Unit Tests in (and Against) the Browser | Levihackwith.com",
+            "url": "http://www.levihackwith.com/how-to-run-buster-js-unit-tests-in-and-against-the-browser/",
+            "content": "Buster.JSチュートリアル.\n\nブラウザでのテスト",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "O'Reilly Japan - Web Workers",
+            "url": "http://www.oreilly.co.jp/books/9784873115962/",
+            "content": "Web Workers本 日本語版",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: すべての人に知っておいてほしい JavaScriptの基本原則 [単行本]: 岩永 賢明, 勝間 亮, 嶋田 大輔, 土屋 勇人, 西林 孝, 比留間 和也, 吉田 雷",
+            "url": "http://www.amazon.co.jp/o/ASIN/4844363123",
+            "content": "2013年1月23日発売\n\nデザイナー向けのJavascript/jQuery入門書",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "What is SVG? [Guide to SVG Part 1] | InsertHTML",
+            "url": "http://www.inserthtml.com/",
+            "content": "SVGの基礎的な要素についてのチュートリアル",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "YUI 3.8.1 Released - YUI Blog",
+            "url": "http://www.yuiblog.com/blog/2013/01/23/yui-3-8-1-released/",
+            "content": "YUI 3.8.1リリース.\n\niOSのサポートを追加, DataTable, Attribute, Template",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Announcing TypeScript 0.8.2 - TypeScript - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/typescript/archive/2013/01/21/announcing-typescript-0-8-2.aspx",
+            "content": "TypeScript 0.8.2リリース。\n\nJSDocのサポート\n\nhttp://blogs.msdn.com/b/chack/archive/2013/01/22/typescript-0.8.2-released.aspx",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "フレームワークで実践！ JavaScriptテスト入門（4）：WebブラウザでJavaScriptをテストする「js-test-driver」とQUnit、Jasmineを連携してテストするには (1/4) - ＠IT",
+            "url": "http://www.atmarkit.co.jp/ait/articles/1301/21/news017.html",
+            "content": "JSTDとQUnit,Jasmine adapterについて",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery公式プラグイン・レジストリが公開。GitHubと連携など、今風の仕組みに惚れ惚れ | OpenWeb",
+            "url": "http://openweb.co.jp/2013/01/17/jquery%e5%85%ac%e5%bc%8f%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%83%bb%e3%83%ac%e3%82%b8%e3%82%b9%e3%83%88%e3%83%aa%e3%81%8c%e5%85%ac%e9%96%8b%e3%80%82github%e3%81%a8%e9%80%a3%e6%90%ba/",
+            "content": "jQuery公式プラグイン置き場が新しくなって、package.jsonのようなメタ情報とgithubのweb hookを使った仕組みなどが使えるようになった\n\nhttp://blog.jquery.com/2013/01/16/announcing-the-jquery-plugin-registry/",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "js-coder/js-testing-boilerplates · GitHub",
+            "url": "https://github.com/js-coder/js-testing-boilerplates",
+            "content": "JavaScript testing boilerplate\n\nGruntを使ったjasmine/mocha/qunitのテストテンプレートを作るプロジェクト",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "TypeScript クイックガイド - phyzkit.net",
+            "url": "http://phyzkit.net/typescript/",
+            "content": "TypeScript のチュートリアル.\n\n言語仕様やケーススタディについて書かれている",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Backbone.js 0.9.10 の変更点 - Webtech Walker",
+            "url": "http://webtech-walker.com/archive/2013/01/backbone_0.9.10.html",
+            "content": "Backbone.jsの0.9.10リリースノート訳",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "あたらしい timbre.js - サウンドプログラミング用のJavaScriptライブラリ - 音の鳴るブログ",
+            "url": "http://mohayonao.hatenablog.com/entry/2013/01/19/073504",
+            "content": "I/Fやメソッドの変更やドキュメントの充実など",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "snakajima/neunode · GitHub",
+            "url": "https://github.com/snakajima/neunode",
+            "content": "iOSアプリ上でNode.jsの互換APIをもったマイクロサーバをiOS向けのフレームワーク\n\nhttp://www.neunode.com/",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Backbone.js",
+            "url": "http://backbonejs.org",
+            "content": "Backbone.js 0.9.10リリース",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Node v0.8.18 (Stable)",
+            "url": "http://blog.nodejs.org/2013/01/18/node-v0-8-18-stable/",
+            "content": "Node v0.8.18 リリース",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery UI 1.10.0 | jQuery UI Blog",
+            "url": "http://blog.jqueryui.com/2013/01/jquery-ui-1-10-0/",
+            "content": "jQuery UI 1.10.0リリース。\n\n1.10.0からIE6のサポートはしない事に。\n\njQuery 1.9と同様にアップグレードガイドを出してる http://jqueryui.com/upgrade-guide/1.10/",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Web Dev .NET: The Magic of the jQuery 1.9 Source Map",
+            "url": "http://www.elijahmanor.com/2013/01/the-magic-of-jquery-source-map.html",
+            "content": "CDNのjQuery.min.jsにはSource Map URLが定義されているためデバッグでSource Mapを使う事ができる話",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Debugging mocha unit tests with WebStorm step by step | Glenn Block",
+            "url": "http://codebetter.com/glennblock/2013/01/17/debugging-mocha-unit-tests-with-webstorm-step-by-step/",
+            "content": "WebStormからmochaを使って動かすnodeのテストを動かしつつ、WebStormのデバッガーでデバッグする事についての記事",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Jonathan T. Neal | Understand the Favicon",
+            "url": "http://www.jonathantneal.com/blog/understand-the-favicon/",
+            "content": "ブラウザのファビコン、touch icon, tile iconsに対応するmeta/linkの書き方について.\n\nicoとpngの使い分け",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery API Documentation 日本語訳",
+            "url": "http://s3pw.com/jQ-JPN/",
+            "content": "jQuery API Documentationの日本語訳。\n\n原文と並べて表示する事もできる。",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "PolyCrypt: A WebCrypto API Polyfill In JavaScript Funded by the US Department of Homeland Security - Badass JavaScript",
+            "url": "http://badassjs.com/post/40101764862/polycrypt-a-webcrypto-api-polyfill-in-javascript?5da731d0",
+            "content": "WebCrypto APIのPolyfillライブラリ",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Raptor Editor - Raptor Editor",
+            "url": "http://www.raptor-editor.com/",
+            "content": "HTML5 WYSIWYG エディタ. 怪獣のマスコット",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "次世代JavaScript、ECMAScript6の話を聞いてきたからサンプルコードとかメモしときます。 | Ginpen.com",
+            "url": "http://ginpen.com/2013/01/17/ecmascript6/",
+            "content": "ES6のlet,const,分割代入,引数の初期値,可変長引数,Map,Set,Iteratorなどについて",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Debugging Javascript - James Lai",
+            "url": "http://jameslaicreative.com/debugging-javascript/",
+            "content": "JavaScriptデバッガーの使い方の紹介。\n\n条件付きブレークポイント、watch、コールスタックの見方、スコープ内の変数、DOMブレークポイント",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Testing jQuery Plugins Cross-Version with Grunt - Mark Dalgleish",
+            "url": "http://markdalgleish.com/2013/01/testing-jquery-plugins-cross-version-with-grunt/",
+            "content": "jQueryプラグインのテストをGruntを使って行う。クエリで読み込むjQueryのバージョンを指定できるようにして複数のバージョンでテストする方法について",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "jsoverson/plato · GitHub",
+            "url": "https://github.com/jsoverson/plato",
+            "content": "JavaScriptのソースコードの複雑度などを分析してグラフィカルなレポートを生成するツール",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "実践TDD! テスト駆動開発入門 : アシアルブログ",
+            "url": "http://blog.asial.co.jp/1125",
+            "content": "\"テスト駆動開発入門\"を参考に硬貨を表すプログラムをQUnitを使ってTDDしていく記事",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery Blog » jQuery 1.9 final, jQuery 2.0 beta, Migrate final released",
+            "url": "http://blog.jquery.com/2013/01/15/jquery-1-9-final-jquery-2-0-beta-migrate-final-released/",
+            "content": "jQuery 1.9 リリース",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Announcing jQuery Mobile 1.3.0 Beta | jQuery Mobile",
+            "url": "http://jquerymobile.com/blog/2013/01/14/announcing-jquery-mobile-1-3-0-beta/",
+            "content": "jQuery Mobile 1.3.0 Betaリリース\n\nhttp://d.hatena.ne.jp/pikotea/20130115/1358275793",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScriptリファレンス",
+            "url": "http://www.webcreativepark.net/javascript/",
+            "content": "JavaScriptリファレンスサイト.\n\njQuery/jQuery Mobileのリファレンスも by to-R",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "testing_javascript.md",
+            "url": "https://gist.github.com/4482819",
+            "content": "\"javascript におけるユニットテストについて\"\n\nアサーションスタイルについて",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "uxebu » blog » Blog Archiv » Make tests read like a book",
+            "url": "http://uxebu.com/blog/2013/01/08/make-tests-read-like-a-book/",
+            "content": "Jasmineのmatcherについての解説",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "mout : Modular JavaScript Utilities",
+            "url": "http://moutjs.com/",
+            "content": "JavaScriptのユーティリティライブラリ.\n\nArray、Collection、function、Math、Object、String、time、is*やbind等のlangモジュール\n\nAMDモジュール/Nodeモジュールとして利用できる。\n\n",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "thlorenz/replpad · GitHub",
+            "url": "https://github.com/thlorenz/replpad",
+            "content": "jsファイルを監視して変更をreplに渡して実行できるCLIツール.\n\n特定のコマンドやショートカット等も定義できる。",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript Event Demo",
+            "url": "http://liouh.com/jsevents/",
+            "content": "jQueryのObserved eventsでどのようなeventプロパティがコールバックに設定されるをかを見るデモサイト",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "高速で安全なjQueryを書くために今できること | Dress Cording",
+            "url": "http://dresscording.com/blog/jquery_performance.html",
+            "content": "jQueryのセレクタについて、イベントハンドリングについて",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "OneClickCSS",
+            "url": "http://css.miugle.info/",
+            "content": "HTMLを元に該当するCSSセレクタのスタイルシートを生成",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Test RequireJs Code in Testacular - Jake Trent",
+            "url": "http://jaketrent.com/post/test-requirejs-testacular/",
+            "content": "RequireJsのAMDモジュールをTestacularでテスト",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Modjs by modulejs",
+            "url": "http://modulejs.github.com/modjs/",
+            "content": "Gruntみたいなビルドツール",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "HTML5 Bones: The template that goes back to basics",
+            "url": "http://html5bones.com/",
+            "content": "HTML5サイトの基本的なテンプレート.\n\nHTML5 Boilerplateみたいな感じだけどshiv以外のJavaScriptライブラリはなしでWAI-ARIAのアクセシビリティについても書かれてる",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Mocking Requests with Mocha, Chai and Sinon - Rob Dodson talks internets",
+            "url": "http://robdodson.me/blog/2012/05/28/mocking-requests-with-mocha-chai-and-sinon",
+            "content": "Sinon.jsを使った$.ajaxのモックについて、stub.yieldsToの使いかたについて",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Getfirebug Blog » Blog Archive » Firebug 1.12 alpha 1",
+            "url": "https://blog.getfirebug.com/2013/01/11/firebug-1-12-alpha-1/",
+            "content": "Firebug 1.12 alpha 1リリース.\n\nFireClosure を取り込んで、クロージャー内の変数をインスペクトできるように",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Yeti 0.2.15 released",
+            "url": "http://yeti.cx/blog/2013/01/yeti-0-2-15-released/",
+            "content": "Yeti 0.2.15 リリース",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "PhoneGap | PhoneGap 2.3.0 Released",
+            "url": "http://phonegap.com/blog/2013/01/07/phonegap-230/",
+            "content": "PhoneGap 2.3.0 リリース",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript リファレンス",
+            "url": "http://msdn.microsoft.com/ja-jp/library/yek4tbz0(v=vs.94).aspx",
+            "content": "MSDNのJavaScriptリファレンスの日本語版",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Node v0.8.17 (Stable)",
+            "url": "http://blog.nodejs.org/2013/01/09/node-v0-8-17-stable/",
+            "content": "Node.js v0.8.17リリース",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery Blog » jQuery 1.9 RC1 and Migrate RC1 Released",
+            "url": "http://blog.jquery.com/2013/01/09/jquery-1-9-rc1-and-migrate-rc1-released/",
+            "content": " jQuery 1.9RC1とjQuery Migrate pluginリリース.\n\n引数が分かりにくい.stop(Boolean, Boolean)の部分に.finish()というメソッドの追加やSource Mapのサポート等",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "termi/CSS_selector_engine · GitHub",
+            "url": "https://github.com/termi/CSS_selector_engine",
+            "content": "CSS4セレクタをサポートしてるCSSセレクタエンジンライブラリ\n\nquerySelector,matchesSelector等のshim",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Web Reflection: The Power Of Getters",
+            "url": "http://webreflection.blogspot.de/2013/01/the-power-of-getters.html",
+            "content": "HTMLElement.childrenのようなgetter的な実装を見ていきながら、Object.definePropertyによるgetterにどのような特性があるか、LazyAccessorなどについて解説",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Testing Backbone.js with mocha | phawk | a software engineer specialising in javascript, ruby, php and ios development",
+            "url": "http://phawk.co.uk/articles/testing-backbone-with-mocha",
+            "content": "MochaでBackbone.jsのテストを学ぶチュートリアル. TDDのサイクル",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "requestAnimationFrame でフレームと再描画更新を制御する",
+            "url": "http://yomotsu.net/blog/2013/01/05/fps",
+            "content": "requestAnimationFrameとFPSについて。\n\n「経過時間に合わせたフレームの表示」",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "js-coder/x18n · GitHub",
+            "url": "https://github.com/js-coder/x18n",
+            "content": "i18n ライブラリ.\n\nユーザー言語の自動判定、翻訳データのバインディング、言語変更対応用のイベント等",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Asynchronous error handling in JavaScript | Ruben Verborgh",
+            "url": "http://ruben.verborgh.org/blog/2012/12/31/asynchronous-error-handling-in-javascript/",
+            "content": "JavaScriptでの非同期で起きたエラー処理について。\n\nエラー用のコールバックを定義する方法、Promiseを使う方法、NodeのDomainを使った方法についてそれぞれ解説",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "NobleJS/setImmediate · GitHub",
+            "url": "https://github.com/NobleJS/setImmediate",
+            "content": "setImmediateのPolyfill実装.\n\n環境ごとにnextTick/postMessage/MessageChannel/onreadystatechange等色々なパターンを使って実装してる\n\n",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "doT.js - the fastest and concise javascript template engine for Node.js and browsers",
+            "url": "http://olado.github.com/doT/",
+            "content": "JavaScriptテンプレートエンジン.\n\nV8(Node)でのパフォーマンスを意識して作られてる",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "AngularStrap - Bootstrap directives for Angular",
+            "url": "http://mgcrea.github.com/angular-strap/",
+            "content": "AngularJSにTwitter Bootstrapを統合する感じで使えるようにするライブラリ",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Getting Started With Buster.js | Levihackwith.com",
+            "url": "http://www.levihackwith.com/getting-started-with-buster-js/",
+            "content": "Buster.JS 入門チュートリアル",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "The State of Javascript Package Management | Wibblymat's code blog",
+            "url": "http://wibblycode.wordpress.com/2013/01/01/the-state-of-javascript-package-management/",
+            "content": "JavaScriptのパッケージ管理についての簡単なまとめ.\n\nnpm/bower/Ender/volo/component/jam",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Revisiting JavaScript Objects | LakTEK (Lakshan Perera)",
+            "url": "http://www.laktek.com/2012/12/29/revisiting-javascript-objects/",
+            "content": "ES5の機能getOwnPropertyDescriptor/defineProperty/seal,freeze,preventExtensions/create等の利用の仕方について.\n\n列挙、継承やモジュール、複製(clone)などについて",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Javascriptテストフレームワーク Jasmineを試す | nacika",
+            "url": "http://nacika.com/entry/2013/01/03/055820/",
+            "content": "Jasmineの導入方法について、matcher/spyのメソッド解説",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "かずぽんブログ • grunt-initでプロジェクトにscaffoldな仕組みを導入する",
+            "url": "http://blog.kazupon.jp/post/39659396196/grunt-scaffold",
+            "content": "grunt-initのカスタムテンプレートを作るほう法について",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: KnockoutJS Starter [Paperback]: Eric M. Barnard",
+            "url": "http://www.amazon.com/o/ASIN/1782161147/book042-22/ref=nosim",
+            "content": "KnockoutJSについての書籍",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "LLVM.js: LLVM Itself Compiled to JavaScript via Emscripten - Badass JavaScript",
+            "url": "http://badassjs.com/post/39573969361/llvm-js-llvm-itself-compiled-to-javascript-via",
+            "content": "LLVMのバイトコードを直接実行できるJavaScriptライブラリについて\n\n",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: Pro JavaScript Performance: Monitoring and Visualization (Professional Apress) [Paperback]: Tom Barker, Visit Amazon's Tom Barker Page, search results, Learn about Author Central",
+            "url": "http://www.amazon.com/o/ASIN/1430247495/book042-22/ref=nosim",
+            "content": "JavaScriptのパフォーマンスの\n\nMonitoring and Visualizationについての書籍\n\nhttp://www.apress.com/9781430247494",
+            "date": "2013-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: HTML5 Unleashed [Paperback]: Simon Sarris",
+            "url": "http://www.amazon.com/o/ASIN/0672336278/book042-22/ref=nosim",
+            "content": "2013年6月6日発売\n\nhttp://simonsarris.com/blog/595-writing-a-book",
+            "date": "2013-01-31T15:00:00.000Z"
+        }
+    ]
+}

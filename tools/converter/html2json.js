@@ -29,12 +29,14 @@ function html2json(filePath) {
         var contents = $p.html().replace(/<br>/g, "\n");
         array.push({
             "title": title,
-            "url ": URL,
+            "url": URL,
             "content": contents,
             "date": indexDate
         });
     });
-    return array;
+    return {
+        "list" : array
+    };
 }
 
 function makeIndexJSONPath(filePath) {
@@ -57,7 +59,7 @@ FS.listTree("../../data/", function isIndexHTML(filePath, stat) {
 }).then(filterNonExistJSON).then(function (fileList) {
     var promises = fileList.map(function (filePath) {
         return Promise.cast(html2json(filePath)).then(function (content) {
-            return FS.write(makeIndexJSONPath(filePath), content, "utf-8");
+            return FS.write(makeIndexJSONPath(filePath), JSON.stringify(content, null, 4));
         });
     });
     Promise.all(promises).then(function (res) {

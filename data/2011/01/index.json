@@ -1,0 +1,496 @@
+{
+    "list": [
+        {
+            "title": "実行間隔を調整する - はてなダイアリー - 無料で簡単。広告のないシンプルなブログをはじめよう！",
+            "url": "http://d.hatena.ne.jp/brazil/20110131/1296419283",
+            "content": "一定間隔内で一度のみ実行する throttle、\n\n一定間隔に呼び出され無ければ実行する debounce　についての解説。\n\nそれぞれ用途や図解も付いていて大変わかりやすい。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Demystifying Prototypes",
+            "url": "http://www.slideshare.net/Dmitry.Baranovskiy/demystifying-prototypes-6183470",
+            "content": "JavaScriptのprototypeの仕組みを図解で示してるスライド。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "FuncUnitを試してみた - Swarm of Trials",
+            "url": "http://d.hatena.ne.jp/swarm_of_trials/20110131/p1",
+            "content": "# Selenium\n\n# QUnit\n\n# jQuery\n\n# EnvJS\n\n# Syn(イベントエミュレート)\n\nを組み合わせたテストツール。\n\nEnvJSを使ってコマンドラインからもテストを実行できる",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "『JavaScript(Audio Data API)でMMLシーケンサを書いた - つまみ食う』",
+            "url": "http://d.hatena.ne.jp/mohayonao/20110130/1296386790",
+            "content": "Audio Data API を使ってMMLシーケンサ",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "今更聞けない:before :afterの使い方 : Toro-Unit Blog",
+            "url": "http://www.torounit.com/blog/2011/01/30/%e4%bb%8a%e6%9b%b4%e8%81%9e%e3%81%91%e3%81%aa%e3%81%84before-after%e3%81%ae%e4%bd%bf%e3%81%84%e6%96%b9/",
+            "content": "疑似要素:before,:afterの生成される位置",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Gecko-Specific DOM Events - MDC Doc Center",
+            "url": "https://developer.mozilla.org/en/Gecko-Specific_DOM_Events#MozAfterPaint",
+            "content": "Gecko 2.0からMozAfterPaint はデフォルトで発生しなくなった。\n\ndom.send_after_paint_to_content を trueにすることで今まで通りイベントが発生する",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "萌え萌えcss - お前の血は何色だ!! 4",
+            "url": "http://d.hatena.ne.jp/rti7743/20101223/1293128052",
+            "content": "jQueryのCSSHocksについてのスライド",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "gui-dat",
+            "url": "http://jonobr1.github.com/GUI-DAT/",
+            "content": "<div class=\"kwout\" style=\"text-align: center;\"><a href=\"http://jonobr1.github.com/GUI-DAT/\"><img src=\"http://kwout.com/cutout/8/ha/ad/c36_bor.jpg\" alt=\"http://jonobr1.github.com/GUI-DAT/\" title=\"gui-dat\" width=\"381\" height=\"97\" style=\"border: none;\"></a></div>\n\n値を変更できるコントローラーGUIを作成するライブラリ。本体はロゴじゃなくて右側に出るコントローラー",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "chriso/chain.js - GitHub",
+            "url": "https://github.com/chriso/chain.js",
+            "content": "JSDeferredのようなメソッドチェーンを使って、実行、ロード、deferなどが行えるライブラリ。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "InfoQ: JavaScript Functions: The Good Parts - Idioms for Encapsulation and Inheritance",
+            "url": "http://www.infoq.com/presentations/JavaScript-Functions",
+            "content": "実行パターン,prototype,継承といった感じのスライド動画。\n\n動画とスライドが同期してて面白い。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Emscripten: Python",
+            "url": "http://syntensity.com/static/python.html",
+            "content": "<a href=\"http://code.google.com/p/emscripten/\" title=\"emscripten\">emscripten</a>を使ってCPythonをJavaScriptへ変換した動かしてるもの。(sysのみ)",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "ハタさんのブログ(復刻版) : Ext JS＆Sencha Touch勉強会1月＠東京で話してきた",
+            "url": "http://blog.xole.net/article.php?id=766",
+            "content": "Ext JS＆Sencha Touch勉強会",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Sencha勉強会20110126",
+            "url": "http://www.slideshare.net/nowelium/sencha20110126",
+            "content": "\"Sencha Touch + Scalaでモバイルアプリ開発\" Sencha Touchのviewの作り方やコンポートネントの見方やデバッグ方法などが載っているスライド",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "『窓の杜 - 【NEWS】Microsoft、IEの互換性検証用にXP/Vistaの仮想マシンイメージを無償公開』",
+            "url": "http://www.forest.impress.co.jp/docs/news/20110128_423469.html",
+            "content": "XPとVista「Virtual PC」用の仮想マシンイメージを無償配布",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "マスタリング非同期読み込み BPStudy#41",
+            "url": "http://ss-o.net/event/js20110128/",
+            "content": "非同期ローダーについて by os0x\n\n* LAB.js\n\n* ControlJS \n\n* RequireJS",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "antimatter15/jsgif - GitHub",
+            "url": "https://github.com/antimatter15/jsgif",
+            "content": "CanvasをGifアニメーションに変換するライブラリ",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "use strict 怖い - hogehoge @teramako",
+            "url": "http://d.hatena.ne.jp/teramako/20110126/p1",
+            "content": "JavaScriptのstrict modeで気をつけること",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "ECMAScript 5 strict mode in Firefox 4 ✩ Mozilla Hacks – the Web developer blog",
+            "url": "http://hacks.mozilla.org/2011/01/ecmascript-5-strict-mode-in-firefox-4/",
+            "content": "ECMAScript 5 strict modeがFirefox4で使えるため、それの解説。\n\n\"use strict\";でstrict modeにして、strict mode時にエラーになるいろいろな例が掲載されている。\n\n-<a href=\"http://azu_re.scrapi.jp/scraps/251\" title=\"&quot;use strict&quot;; in Firefox4 | TwitScratch\">&quot;use strict&quot;; in Firefox4 | TwitScratch</a>\n\n",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: HTML5+JavaScript アイデア＆実践サンプル: 古籏一浩",
+            "url": "http://www.amazon.co.jp/o/ASIN/4048704486/book042-22/ref=nosim",
+            "content": "<a href=\"http://ascii.jp/elem/000/000/454/454105/\" title=\"ASCII.jp&#xFF1A;&#x53E4;&#x7C4F;&#x4E00;&#x6D69;&#x306E;JavaScript&#x30E9;&#x30DC;\">ASCII.jp：古籏一浩のJavaScriptラボ</a>を基にした書籍のようです。\n\nvia <a href=\"http://www.openspc2.org/blog/archives/2011/01/html5javascript_1.html\" title=\"OpenSpace&#x66F4;&#x65B0;&#x60C5;&#x5831;: &#x66F8;&#x7C4D;&#xFF1A;HTML5+JavaScript&#x5B9F;&#x8DF5;&#x30A2;&#x30A4;&#x30C7;&#x30A2;&#xFF06;&#x30B5;&#x30F3;&#x30D7;&#x30EB;\">OpenSpace更新情報: 書籍：HTML5+JavaScript実践アイデア＆サンプル</a>",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Introduction to jQuery",
+            "url": "http://www.slideshare.net/gunjankumar300/introduction-to-jquery-6684954",
+            "content": "jQuery入門スライド。\n\njQueryの機能を網羅的に紹介している。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Integrating JavaScript Unit Tests with Visual Studio",
+            "url": "http://stephenwalther.com/blog/archive/2010/12/20/integrating-javascript-unit-tests-with-visual-studio.aspx",
+            "content": "Visual StudioでJavaScriptのUnit Testを行う方法",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Create your own AjaxStore with XMLHttpRequest Level 2 | Amir Harel",
+            "url": "http://www.amirharel.com/2011/01/23/create-your-own-ajaxstore-with-xmlhttprequest-level-2/",
+            "content": "XHR Level2の扱いについて。\n\nサーバ側のレスポンスヘッダ設定",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Sunrise",
+            "url": "http://www.sunrisebrowser.com/ja/",
+            "content": "Mac OS X 用のWebKit ベースオープンソースWebブラウザ\n\n操作ウインドウのデザインがかなり特徴的\n\n-<a href=\"http://nmuta.fri.macserver.jp/unei1101b.html\" title=\"OS&#x904B;&#x7528;&#x8A18;&#x9332;1&#x6708;3\">OS運用記録1月3</a>",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "jsのオレオレ演算子 - latest log",
+            "url": "http://d.hatena.ne.jp/uupaa/20110123/1295721414",
+            "content": "JavaScriptで演算子の組み合わせやビット演算などで短く書く方法。\n\n<code>-~n</code>とかゴルフでよく見かける。 \n\n-<a href=\"http://jsdo.it/monjudoh/rC57\" title=\"forked from: forked from: js&#x306E;&#x30AA;&#x30EC;&#x30AA;&#x30EC;&#x6F14;&#x7B97;&#x5B50; - jsdo.it - Share JavaScript, HTML5 and CSS\">forked from: forked from: jsのオレオレ演算子 - jsdo.it - Share JavaScript, HTML5 and CSS</a>",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "『メモ: NetBeans 6.9.1でJavaScriptを実行する』",
+            "url": "http://hideaki-t.blogspot.com/2011/01/netbeans-691javascript.html",
+            "content": "jrunscriptを使ってNetBeans上でJavaScriptを実行する手順解説",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript DOM & event",
+            "url": "http://www.slideshare.net/boreydev/java-script-dom-event",
+            "content": "DOMについてのスライド\n\nノードがどんなプロパティやメソッドを持っているか、それぞれの対応関係が図で分かって見やすい。\n\nCapturingとBubblingのイベントフェーズについても説明されている。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "ゆっくりと… » ブラウザ動作の理解－リフローとリペイント及びその最適化",
+            "url": "http://tokkono.cute.coocan.jp/blog/slow/blog/slow/index.php/web-technology/reflow-and-repaint-in-browser/",
+            "content": "Style属性の変更によりリフローとリペイントを最小限にする方法の解説。\n\n",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "don't code today what you can't debug tomorrow: PhantomJS: minimalistic headless WebKit-based JavaScript-driven tool",
+            "url": "http://ariya.blogspot.com/2011/01/phantomjs-minimalistic-headless-webkit.html",
+            "content": "JavaScriptファイルを実行できるWebkitベースのコマンドラインツール\n\nPhantomJSの面白い所はDOMやCanvasなど他のコマンドラインツールで触れにくい部分もネイティブにアクセスできるため、リッチアプリケーションなどのテストツールとして活用できそうです。\n\n<code>phantomjs somescript.js [argument [argument ...]]</code>\n\nという感じでjsファイルを指定し、引数を渡して実行できるようで、phantom.argsで引数を受け取ったりできるようです。\n\nそのほかにもsleepなどのAPIが用意されている。\n\n-<a href=\"http://code.google.com/p/phantomjs/wiki/Interface\" title=\"Interface - phantomjs - API Reference - Project Hosting on Google Code\">Interface - phantomjs - API Reference - Project Hosting on Google Code</a>\n\n<a href=\"http://code.google.com/p/phantomjs/wiki/SourceCode\" title=\"SourceCode\">SourceCode</a>はgitなどでも用意されていて、ソースからビルドする方法も解説されています。\n\n(Windowsはバイナリが<a href=\"http://code.google.com/p/phantomjs/downloads/list\" title=\"Downloads - phantomjs - Project Hosting on Google Code\">ダウンロード</a>できる)\n\n-<a href=\"http://code.google.com/p/phantomjs/wiki/BuildInstructions\" title=\"BuildInstructions - phantomjs - Build Instructions - Project Hosting on Google Code\">BuildInstructions - phantomjs - Build Instructions - Project Hosting on Google Code</a>\n\nJasmineとの連携が用意されていたり、かなり面白いJavaScript開発ツールとなっていそうです。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Harmony Of My Dreams | Brendan Eich",
+            "url": "http://brendaneich.com/2011/01/harmony-of-my-dreams/",
+            "content": "JavaScript Harmonyについて",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "『JPath.js - 開発な日々』",
+            "url": "http://hinata.in/blog/20110104214025.html",
+            "content": "XPath風の記法でJSONオブジェクトから値を抽出するライブラリ",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "mir.aculo.us JavaScript with Thomas Fuchs » Blog Archive » Zepto.js v0.4 – JSONP & more DOM goodness",
+            "url": "http://mir.aculo.us/2011/01/21/zepto-js-v0-4-%e2%80%93-jsonp-more-dom-goodness/",
+            "content": "Zepto.jsのver0.4が公開された。\n\n<q>New in v0.4 JSONP, better .find, .each, .closest; new .eq, .size, .parent, .parents, .removeAttr, .val (basic), function args to .html, .attr; adjacency methods now take Zepto objects </q>",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "14 Best JavaScript Frameworks",
+            "url": "http://www.webdesignish.com/14-best-javascript-frameworks.html",
+            "content": "jQueryやPrototypeJSやJavaScriptMVCといったJavaScriptフレームワークのまとめ",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "txt2re: headache relief for programmers :: regular expression generator",
+            "url": "http://txt2re.com/index.php3",
+            "content": "入力したテキストから選択した場所を取り出す正規表現をいろんな言語で取得できる",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Lines go all over the place.",
+            "url": "http://open.adaptedstudio.com/html5/many-lines/",
+            "content": "マウスを追ってくるラインを描画するデモ。\n\nCanvasを使っていて、結構滑らか",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Some Exciting New HTML5/Javascript Projects « EdTechDev",
+            "url": "http://edtechdev.wordpress.com/2011/01/14/some-exciting-new-html5javascript-projects/",
+            "content": "最近HotなHTML5/Javascript 関係のプロジェクトをまとめたリンク集\n\nかなり幅広い分野が紹介されています",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Beautiful Element Creation with jQuery — Article — The Nerdary",
+            "url": "http://thenerdary.net/articles/entry/beautiful_element_creation_with_jquery",
+            "content": "jQueryでのDOMノード作成方法が紹介されています。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Cloud9 IDE Hosted - Closed Beta starting today - Cloud9 IDE's Posterous",
+            "url": "http://cloud9ide.posterous.com/cloud9-ide-hosted-closed-beta-starting-today",
+            "content": "Cloud9 IDEのクローズドベータが始まりました",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Sinon.JS - Versatile standalone test spies, stubs and mocks for JavaScript",
+            "url": "http://sinonjs.org/",
+            "content": "JavaScriptテストライブラリ。\n\nスタブ、モックやFake系の機能が備わっていて、通信やタイマーなどJavaScriptのテストで扱いにくいものテストできます。\n\n例えばFake timersはグローバルなtimer関数の代わりにclockオブジェクトを用いて手動で時間経過を制御できるため、タイマーを使って時間がかかるテストの短縮なども行えます。\n\n<a href=\"http://cjohansen.no/en/javascript/faking_timers_and_dates_with_sinon\" title=\"Faking Timers\">Faking Timers</a>の解説\n\nまたQUnitなどと連携して使用することができます。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "프론트 엔드 개발을 위한 추천 도서 - Clearboth [유니버설 웹 스튜디오]",
+            "url": "http://www.clearboth.org/wiki/doku.php?id=document:etc:recommend_books",
+            "content": "韓国のフロントエンジニアに対して行ったアンケートの結果。\n\n\"フロントエンド開発のための参考図書\"\n\n-読んだ本\n\n-オススメの本\n\n-読みたい本\n\nでそれぞれランキングを付けています。\n\n読んだ本、オススメの本両方で益子 貴寛さんの<a href=\"http://www.amazon.co.jp/exec/obidos/ASIN/4798010928/\" title=\"Web&#x6A19;&#x6E96;&#x306E;&#x6559;&#x79D1;&#x66F8;&#x2015;XHTML&#x3068;CSS&#x3067;&#x3064;&#x304F;&#x308B;&#x201C;&#x6B63;&#x3057;&#x3044;&#x201D;Web&#x30B5;&#x30A4;&#x30C8;\">Web標準の教科書―XHTMLとCSSでつくる“正しい”Webサイト</a>が一位になっているようです。\n\n全体的に○○標準やCSSの本に人気が出てるような感じがします。\n\n読みたい本ではHTML5に人気が集中している所を見るとHTML5も韓国では注目されているのでしょうか",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: HTML5+JavaScript速攻レッスン R付: 白長須 真乃介",
+            "url": "http://www.amazon.co.jp/o/ASIN/4777515761/book042-22/ref=nosim",
+            "content": "2011年 1月26日発売\n\n目次: <a href=\"http://www.kohgakusha.co.jp/books/detail/978-4-7775-1576-9?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+co%2FqllI+%28%E5%B7%A5%E5%AD%A6%E7%A4%BE%29&amp;utm_content=Google+International\" title=\"&#x66F8;&#x7C4D;&#x60C5;&#x5831;&#x2015;HTML5+JavaScript &#x901F;&#x653B;&#x30EC;&#x30C3;&#x30B9;&#x30F3;\">書籍情報―HTML5+JavaScript 速攻レッスン</a>",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "α版ダウンロード",
+            "url": "http://www.mimikaki.net/download/alpha.html",
+            "content": "Mac OS向けのエディタとして有名なmiのWindows版αがリリースされています。\n\n",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "11 More Things I Learned from the jQuery Source « Paul Irish",
+            "url": "http://paulirish.com/2011/11-more-things-i-learned-from-the-jquery-source/",
+            "content": "jQueryから学ぶ11の事\n\n中で出てくるコードは<a href=\"https://gist.github.com/7871ac0364af27f27152\" title=\"11 More Things I Learned from the jQuery Source\">11 More Things I Learned from the jQuery Source</a>に\n\n*適当な概要です(番号すら適当)\n\n1.コード全体を無名関数で括り、返り値をjQuery変数に入れる\n\n最後にwindow.jQuery = window.$ = jQueryとしてる。\n\n(windowに依存させないならthisを使った方が良いかもしれない\n\n-<a href=\"http://d.hatena.ne.jp/uupaa/20100524/1274684311\" title=\"&#x30E9;&#x30A4;&#x30D6;&#x30E9;&#x30EA;&#x306E;&#x4E00;&#x90E8;&#x3067;&#x3042;&#x308A;&#x306A;&#x304C;&#x3089;&#x5358;&#x4F53;&#x5229;&#x7528;&#x3082;&#x53EF;&#x80FD;&#x306B;&#x3059;&#x308B;&#x5DE5;&#x592B; - latest log\">ライブラリの一部でありながら単体利用も可能にする工夫 - latest log</a>)\n\n2.即実行にパラメーターを持たせて、undefinedを取得する\n\n-<a href=\"http://efcl.info/adiary/JavaScriptPatterns/Chapter4Functions#k91p5\" title=\"Immediate Functions\">Immediate Functions</a>\n\n3.内部でbaseを持つ\n\n4.data-*属性の使い方\n\n内部的な動作、data-*に設定した値の判定方法\n\n(data属性に設定した値は$(\"sel\").data(\"属性\")で取得できる。)\n\n5.演算子の使い方\n\nIEバージョン判定\n\n<a href=\"https://gist.github.com/527683/ef2abeb8e764d465ea430f440ebe4c534c8e3281\" title=\"gist: 527683 - GitHub\">gist: 527683 - GitHub</a>\n\n\n\n6.getElementsByTagNameとquerySelectorAllの違い\n\n<pre>\n\n all = div.getElementsByTagName('i'); // live nodelist\n\n\n\n document.querySelectorAll('i') // static nodelist\n\n</pre>\n\n-<a href=\"http://d.hatena.ne.jp/vwxyz/20101005/1286276144\" title=\"Nicholas C. Zakas&#x300C;getElementsByTagName()&#x304C;querySelectorAll()&#x3088;&#x308A;&#x3082;&#x9AD8;&#x901F;&#x306A;&#x4EF6;&#x300D; - &#x30AF;&#x30E9;&#x30A4;&#x30A2;&#x30F3;&#x30C8;&#x30FB;&#x30B5;&#x30A4;&#x30C9;&#x30FB;&#x30B9;&#x30AF;&#x30EA;&#x30D7;&#x30C6;&#x30A3;&#x30F3;&#x30B0; with Web Standards\">Nicholas C. Zakas「getElementsByTagName()がquerySelectorAll()よりも高速な件」 - クライアント・サイド・スクリプティング with Web Standards</a>\n\n7.jQuery.cssHooks.opacityについて\n\nIEではfilterを使ってるので取得などがカオス\n\n<a href=\"https://github.com/brandonaaron/jquery-cssHooks\" title=\"brandonaaron/jquery-cssHooks - GitHub\">brandonaaron/jquery-cssHooks - GitHub</a>\n\n$(elem).cssについて\n\n$(elem).css('box-shadow','10px 10px 30px #bada55')\n\nプレフィックスがいらない\n\n11.jQuery.fnについて\n\n<pre>\n\njQuery.fn === jQuery.prototype;// true\n\n</pre>\n\n\n\n以前に<a href=\"http://paulirish.com/2010/10-things-i-learned-from-the-jquery-source/\" title=\"10 Things I Learned from the jQuery Source &#xAB; Paul Irish\">10 Things I Learned from the jQuery Source « Paul Irish</a>というものをやっていて、それの続編というか改良版みたいな感じのようです。\n\n後半になるほどjQuery独自の要素が増えている感じです。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Web_Tips.key - Powered by Google ドキュメント",
+            "url": "https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B9cwi8dHYjWVMWVmNWVmZDctODZiNC00ZTc0LWE2MWQtYjUzNjVkNWI0NjM3&authkey=CMeXgI8O&hl=ja",
+            "content": "iPhoneやAndroidといったモバイル端末向けのサイト作成のTips集\n\nCSS3の活用や画面サイズの最適化やHoly Grailハックの解説などを紹介しているスライド",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "jensarps/StorageJS - GitHub",
+            "url": "https://github.com/jensarps/StorageJS",
+            "content": "WebStorageやGears,Cookieなどを使ってクライアントサイトでデーター保存するライブラリ",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Mozilla Labs » skywriter » Blog Archive » Mozilla Skywriter has been merged into Ace",
+            "url": "http://mozillalabs.com/skywriter/2011/01/18/mozilla-skywriter-has-been-merged-into-ace/",
+            "content": "Bespin(Skeywriter)がAjax.org Cloud9 Editor (Ace) と Cloud9 IDE projectsにマージされるようです。\n\n",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "『brandonaaron/jquery-cssHooks - GitHub』",
+            "url": "https://github.com/brandonaaron/jquery-cssHooks",
+            "content": "CSSプロパティの設定や取得をプレフィックスなどを考えないで使えるI/Fライブラリ。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "JSエディタのスナップショットビルド - 今日のひとこと",
+            "url": "http://d.hatena.ne.jp/shinsuke_sugaya/20110115/1295099576",
+            "content": "EclipseベースのIDEであるAmaterasのJavaScriptエディタが大幅にバージョンアップしたようです。\n\n-<a href=\"http://d.hatena.ne.jp/shinsuke_sugaya/20110119/1295443615\" title=\"JS&#x30A8;&#x30C7;&#x30A3;&#x30BF;&#x306E;&#x88DC;&#x5B8C;&#x5019;&#x88DC;&#x306E;&#x30AB;&#x30B9;&#x30BF;&#x30DE;&#x30A4;&#x30BA; - &#x4ECA;&#x65E5;&#x306E;&#x3072;&#x3068;&#x3053;&#x3068;\">JSエディタの補完候補のカスタマイズ - 今日のひとこと</a>\n\n-<a href=\"http://d.hatena.ne.jp/shinsuke_sugaya/20110118/1295299906\" title=\"require&#x306B;&#x5BFE;&#x5FDC; - &#x4ECA;&#x65E5;&#x306E;&#x3072;&#x3068;&#x3053;&#x3068;\">requireに対応 - 今日のひとこと</a>\n\nスナップショット版を公開しているので、興味を持った方は試して、作者(@shinsuke_sugaya)さんに意見を伝えるとよいと思います。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "『JSエディタの補完候補のカスタマイズ - 今日のひとこと』",
+            "url": "http://d.hatena.ne.jp/shinsuke_sugaya/20110119/1295443615",
+            "content": "Amaterasのコード補完に使われいるJavaScriptファイル。\n\nJSDocでメソッドの説明が載っているので、WebStormなど他のエディタで使用できそう\n\n",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Test if a font is installed via JavaScript : ls.n",
+            "url": "http://lucassmith.name/2009/05/test-if-a-font-is-installed-via-javascript.html",
+            "content": "JavaScriptから特定のフォントがインストールされているかを判定する方法。\n\n以下のリスクもありますが\n\n-共通フォントがインストールされている必要性\n\n-共通フォントと比較するだけなので、必ずしも正しいとは限らない\n\n-リフローがたくさん起きる\n\n",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Appceleratorは、先進的なIDEをリリースするAptanaを買収しました。 « Appcelerator Developer Center",
+            "url": "http://developer.appcelerator.com/blog/2011/01/appcelerator%e3%81%af%e3%80%81%e5%85%88%e9%80%b2%e7%9a%84%e3%81%aaide%e3%82%92%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%e3%81%99%e3%82%8baptana%e3%82%92%e8%b2%b7%e5%8f%8e%e3%81%97%e3%81%be%e3%81%97.html",
+            "content": "Rails(RadRails)やPython(Pydev)、JavascriptのIDEとして知られるAptanaがTitaniumを持つAppceleratorに買収されました。\n\nTitanium /Aptana Studioとして新たなIDEをリリースするようです",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Jurassic - A Javascript Compiler for .NET",
+            "url": "http://jurassic.codeplex.com/",
+            "content": ".Net向けのECMAScript実装。\n\n.NETプログラム組み込んで使用する。\n\nES5のstrict modeまでサポート\n\nSilverlight上でも動くようだ。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScriptによる色空間 - 凹みTips",
+            "url": "http://www.hecomi.com/2008/11/javascript-1.html",
+            "content": "JavaScriptによるカラーピッカーの作成。\n\nHSVからRGBへの変換",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "LooseLeaf",
+            "url": "http://looseleafjs.org/",
+            "content": "Node.jsで実装されたJSONベースなCMS。(データベースを使ってない)\n\n",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: Eloquent JavaScript: A Modern Introduction to Programming: Marijn Haverbeke",
+            "url": "http://www.amazon.com/o/ASIN/1593272820/book042-22/ref=nosim",
+            "content": "2011年1月22日発売\n\n<a href=\"http://eloquentjavascript.net/\" title=\"Eloquent JavaScript -- interactive tutorial\">Eloquent JavaScript -- interactive tutorial</a>の書籍版が発売。\n\n-<a href=\"http://d.hatena.ne.jp/hamatsu1974/20081120/1227128791\" title=\"&#x30CF;&#x30C3;&#x30AB;&#x30FC;&#x306B;&#x61A7;&#x308C;&#x3066;&#x305F;&#x30C0;&#x30B1;&#x306E;&#x30AA;&#x30DE;&#x30A8;&#x3089;&#x306B;&#x6367;&#x3050;&#xFF08;&#x5E8F;&#xFF0B;&#x76EE;&#x6B21;&#xFF09;&#x3000;- Eloquent JavaScript - &#x6697;&#x53F7;&#x3001;&#x6570;&#x5B66;&#x3001;&#x6642;&#x3005;&#x30D7;&#x30ED;&#x30B0;&#x30E9;&#x30DF;&#x30F3;&#x30B0;\">ハッカーに憧れてたダケのオマエらに捧ぐ（序＋目次）　- Eloquent JavaScript - 暗号、数学、時々プログラミング</a>",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "douglascrockford/JSON-js - GitHub",
+            "url": "https://github.com/douglascrockford/JSON-js",
+            "content": "json2.jsはGithubに移動した",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Announcing YUI 3.3.0 » Yahoo! User Interface Blog (YUIBlog)",
+            "url": "http://www.yuiblog.com/blog/2011/01/12/announcing-yui-3-3-0/",
+            "content": "YUI 3.3.0がリリース",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "grantgalitz/GameBoy-Online - GitHub",
+            "url": "https://github.com/grantgalitz/GameBoy-Online?utm_source=javascriptweekly&utm_medium=email",
+            "content": "JavaScriptで書かれたGameBoyエミュレーター。\n\nmozWriteAudioやCanvasやlocalStorageを使って実現しているそうです",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "kriyative/clojurejs - GitHub",
+            "url": "https://github.com/kriyative/clojurejs?utm_source=javascriptweekly&utm_medium=email",
+            "content": "Clojureで実装されたClojureのコードをJavaScriptコードに変換もの。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "ES5: Strict Mode < Rob Sayre's Mozilla Blog",
+            "url": "http://blog.mozilla.com/rob-sayre/2011/01/12/es5-strict-mode/",
+            "content": "Firefox 4 nightlyが<a href=\"http://kangax.github.com/es5-compat-table/\" title=\"ECMAScript 5 compatibility table\">ECMAScript 5 compatibility table</a>で初めて全ての項目が緑になったブラウザなったそうです。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Dojo from the ground up, Part 1: Getting started with Dojo development",
+            "url": "http://www.ibm.com/developerworks/web/library/wa-ground/index.html?ca=drs-",
+            "content": "Dojo Toolkitの紹介から使い方",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "W3C News Archive: 2011 W3C",
+            "url": "http://www.w3.org/News/2011.html#entry-8992",
+            "content": "\"W3C Introduces an HTML5 Logo \"\n\nHTML5のロゴ画像が決定されたそうだ。\n\n",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "List Of Languages That Compile To Js - GitHub",
+            "url": "https://github.com/jashkenas/coffee-script/wiki/List-of-languages-that-compile-to-JS",
+            "content": "JavaScriptコードへコンパイルすることができる言語のまとめ\n\n",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Simplified Interaction for Mobile Web Apps [Interact]",
+            "url": "http://sidelab.github.com/interact/?utm_source=javascriptweekly&utm_medium=email",
+            "content": "MouseとTouch Eventsを扱うライブラリ。\n\n",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "body要素のid属性またはclass属性をJavaScriptのディスパッチャーに使う - あと味",
+            "url": "http://d.hatena.ne.jp/jdg/20110118/1295310812",
+            "content": "jsファイルを一つにまとめたときに実行スクリプトを振り分けするために、bodyのid属性,class属性を元に判断するディスパッチャー関数。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Dmitry Baranovskiy’s Web Log",
+            "url": "http://dmitry.baranovskiy.com/post/typeof-and-friends",
+            "content": "入力のtypeを固定してtypeof演算子で比較することは本当にいいのか?\n\nまた==はよくないと言われているが、常に===を使うことが良いことなのかについて。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "NetAgent Official Blog : 難読化JavaScriptで利用可能なテクニック",
+            "url": "http://www.netagent-blog.jp/archives/51739962.html",
+            "content": "記号プログラミングと難読化エンコーダーの合わせ技でよい難読化を行う手法についての解説。\n\neval 関数を使うところを、Firefox 独自実装の crypto.generateCRMFRequest メソッドを利用。\n\nevalについては<a href=\"http://perfectionkills.com/global-eval-what-are-the-options/\" title=\"Perfection kills &#xBB; Global eval. What are the options?\">Perfection kills » Global eval. What are the options?</a>がとても詳しい",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Ecmazing JavaScript Blogs",
+            "url": "http://www.ecmazing.com/blogs/",
+            "content": "JavaScript(ECMAScript)で著名な方のブログを集めたサイト。\n\nサイドバーから選択してその場で表示できるので、連続して見ていくのに便利なビューアー",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "ruidlopes/scopeleaks - GitHub",
+            "url": "https://github.com/ruidlopes/scopeleaks",
+            "content": "グローバル名前空間に変数や関数が漏れていないかをスナップショットと比較して検出するライブラリ。\n\nブラウザ、CommonJS 、JavaScriptCoreで動作する",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "打造最出色的模块加载框架：SeaJS Module Loader v0.3.0 预览版 - 岁月如歌",
+            "url": "http://lifesinger.org/blog/2011/01/seajs-v0-3-0pre/",
+            "content": "モジュールのロードに最適なフレームワークを作成するためには、SeaJS Module Loader v0.3.0 プレビュー版 というタイトルでJavaScriptでのモジュール化について書かれています。\n\nscriptタグでjsファイルを複数ロードする場合は4つの問題があります。\n\n-ブロッキング\n\n-名前空間の汚染の可能性\n\n-依存関係を書く人が知っておく必要性\n\n-HTTPリンクが多すぎる\n\nそれぞれを解決する典型的な方法もそれぞれ4つ上げられていています。\n\n-LabJS, HeadJS, ControlJSなどの非同期スクリプトローダーの利用\n\n-Xといった一つのグローバルを用意してその下にX.bizなどと拡張する\n\n-フレームワークに用意されているモジュール機構を利用する。(YUI3ならYUI.add,YUI.use)\n\n-一つのファイルとしてマージする\n\nYUI3における解決方法が紹介されてるが、YUI3にはまだ改善点があると述べています。\n\n-モジュール管理機構が冗長過ぎる\n\n-YUIのファイルサイズ自体が大きすぎる\n\n-YUI.useでの直感的でない書き方\n\n-YUI3のモジュールはYUI3でしか使えない\n\nCommonJS自体にはSeaJSの方が適しています。\n\nSeaJS はCommonJSに影響を受けて作成されていて以下のコアコンセプトがあります。\n\n-機能を単一なものとして分離\n\n-モジュールのパスとファイル名で識別(別途指定しなくてもいい)\n\n-必要となるまでは実行しない\n\nSeaJS Module Loaderには次のAPIがあります。\n\n   1. モジュール宣言:module.declare(id?, deps, factory)\n\n   2. モジュールの提供:module.provide(ids, callback)\n\n   3. require(id)\n\nYUIとSeaJSを比べて、SeaJS には次の利点があります。\n\n-圧縮する前で3.3k,圧縮して1.7kと小さい\n\n-非依存モジュールは並列ダウンロード\n\n-全体のCPU消費や必要となるまで実行しないためCPUに優しい\n\n-設定ファイルではなくデータの構成に基づいている\n\n-相対パスのサポートなどCommonJSに基づいている\n\nコードは<a href=\"https://github.com/seajs/seajs\" title=\"seajs/seajs - GitHub\">seajs/seajs - GitHub</a>で公開されています。(フォーク歓迎)\n\n\n\nという感じで適当に内容を書き出してみました。(機械翻訳便りなので内容は期待しないで)\n\n中国では<a href=\"https://github.com/dexteryy/OzJS\" title=\"dexteryy/OzJS - GitHub\">dexteryy/OzJS - GitHub</a>といい、モジュール管理に注目してる人たちがいるみたいです。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "John Resig on Advanced Javascript to Improve your Web App | Think Vitamin",
+            "url": "http://thinkvitamin.com/code/john-resig-on-advanced-javascript-to-improve-your-web-app/",
+            "content": "Future of Web Apps Miami conferenceでのjQuery作者であるJohn Resigの動画と内容の書き起こし。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Jquery How To Ebook - ITFunda.Com",
+            "url": "http://www.itfunda.com/jquery-how-tos-ebook/Show/45",
+            "content": "jQueryのHow To電子書籍。\n\n電子書籍、ソースコード、チュートリアル動画と分かれた販売形態を取っている",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "unicodefreak/jbnode - GitHub",
+            "url": "https://github.com/unicodefreak/jbnode",
+            "content": "node.jsからJavaを呼ぶプラグイン\n\n",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "memoize 实现代码中的小陷阱 - 岁月如歌",
+            "url": "http://lifesinger.org/blog/2011/01/a-trap-of-memoize-code/",
+            "content": "underscore.jsのmemorizeメソッドではtoStringやhasOwnPropertyいったものをキーとして渡した際に動作がおかしくなるというバグについての解説。(既にバグ提出はされているそうです)\n\n一般にstrをキーとして受け取る関数でありがちなパターンとなってそうです。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "RightJS: What’s New In RightJS 2.2",
+            "url": "http://rightjs.org/tutorials/what-new-in-rjs22",
+            "content": "JavaScriptフレームワークであるRightJSの2.2がリリースされました。\n\n    * Native CSS Transitions Support In Fx\n\n    * Fx.Attr Class\n\n    * Better UJS\n\n    * Mouseenter/Mouseleave Handlers\n\n    * DOM-Shortcuts For Strings\n\n    * Class And Wrapper Merge\n\n    * Supercalls On Modules\n\n    * IE8 Kicked Out In the Olds Module\n\n    * Full Stack CSS3 Support\n\n    * Object.merge With Deep Merge\n\n    * Element#index method\n\n    * Raw DOM Search\n\n    * IE Native UID\n\n    * Deprecations Removed\n\n    * Optimizations And Cleanups",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Web 2.0 Development and Business Lessons: Why You Need to Learn JavaScript",
+            "url": "http://www.w2lessons.com/2011/01/why-you-need-to-learn-javascript.html",
+            "content": "なぜ今JavaScriptを学ぶ必要があるか?という話。\n\n今はクライアントでも複雑なUIを作成することができ、サーバサイドNode.jsのようなモノがある。\n\nデスクトップは\"the cloud\"へシフトしてるようにも見える。その中でJSアプリケーションの負う部分は大きい。また巨大化するソースにおいてJavaScriptフレームは活用することは大事だ(文中ではDojo toolkitを出している、jQueryでない理由も書いてある)\n\nまたフレームワークを扱うためにはJavaScriptの基本原理をまず学ぶべきである。\n\n<q>JS is no longer an option for true programmers, it's a requirement...and it's not the nightmare you think it is. </q>\n\nといった感じの内容です。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery 1.5の新機能: jQueryのサブクラスが作れるようになる | へびにっき",
+            "url": "http://wp.serpere.info/archives/2050",
+            "content": "jQuery 1.5 beta1で追加された\n\njQuery.subclass()の解説",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "これでできる！ クロスブラウザJavaScript入門：第22回　JavaScriptによるUIの実装：ドラッグ｜gihyo.jp … 技術評論社",
+            "url": "http://gihyo.jp/dev/serial/01/crossbrowser-javascript/0022",
+            "content": "汎用的なドラッグの書き方,\n\nUIとしてドラッグの実装方法",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "NEVERSAW.US | Not Your Father's Javascript",
+            "url": "http://neversaw.us/2011/1/16/not-your-fathers-javascript/",
+            "content": "最近のエンジン向け(主にNode.jsを対象)にJavaScriptのベストプラクティスを書いている。\n\n-変数宣言はSingle var、変数の命名のパターン\n\n-パッケージのディレクトリやファイル名はCommonJSのルールに習う\n\n-列挙のパターンとしてforEach,mapを使ってシンプルに書ける\n\n- Object.keysとforEachとbindを併せてオブジェクトのコピーを作成。(IE6,7はObject.keysがないので定義方法も)\n\n-Function.prototype.bindの使い方、いろいろな使い方\n\n古いものも多くあるため新しいものは見つけるのが難しいですがそれを乗り越えた先に見つかるものがある。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "The CSS Corner: CSS3 Media Queries - IEBlog - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/ie/archive/2011/01/12/the-css-corner-css3-media-queries.aspx",
+            "content": "IE9でのMedia Queriesサポート状況が公開されました。\n\n",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "「第 0 回 HTML5 プログラミング&クリエイティブ・コンテスト」のお知らせ - Google Japan Developer Relations Blog",
+            "url": "http://googledevjp.blogspot.com/2011/01/0-html5.html",
+            "content": "公募期間: 2011 年 1 月 12 日〜 2011 年 2 月 11 日\n\nHTML5を使った作品コンテストが開催されています。プログラミング部門とクリエイター部門に分かれて行うようです。",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "DailyJS: Arbor, Mug, I, Ristretto",
+            "url": "http://dailyjs.com/2011/01/14/arbor-mug-i-ristretto/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dailyjs+%28DailyJS%29&utm_content=livedoor",
+            "content": "JVM向けのJavaScriptコンパイラーであるMugの特徴を述べています。\n\nCommonJS modulesを採用指定事やRhinoに比べて高速に動作するのが特徴",
+            "date": "2011-01-31T15:00:00.000Z"
+        },
+        {
+            "title": "Firefox 4 Beta 9 – 素晴らしい機能を満載して登場 « Mozilla Developer Street (modest)",
+            "url": "https://dev.mozilla.jp/hacksmozillaorg/firefox-4-beta-9-a-huge-pile-of-awesome/",
+            "content": "Firefox4での変化を網羅的に紹介。\n\n今までもっとも激しいアップデートになっている。",
+            "date": "2011-01-31T15:00:00.000Z"
+        }
+    ]
+}
