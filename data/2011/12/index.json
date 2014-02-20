@@ -1,0 +1,586 @@
+{
+    "list": [
+        {
+            "title": "『YSlow for Command Line』",
+            "url": "http://developer.yahoo.com/yslow/commandline/",
+            "content": "YSlowのコマンドライン版\n\nHar形式に対応してる",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery UI Bootstrap",
+            "url": "http://addyosmani.github.com/jquery-ui-bootstrap/",
+            "content": "Twitter BootstrapのjQuery UI widgets版",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "Google Documentの入力欄を僕達はまだ知らない。 - Google ドキュメント",
+            "url": "https://docs.google.com/document/d/1RRBJqK9TPGFA5pQPnafDTa0VWKq6Wh9DNiKjsLaZ63U/edit?pli=1",
+            "content": "Google Documentのエディタの仕組み\n\nD&Dでカーソルが追ってくる仕組みについて、リッチエディタ部分の仕組みなど",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『jQuery-inlog』",
+            "url": "http://prinzhorn.github.com/jquery-inlog/",
+            "content": "jQueryのメソッドをデバッグtraceを仕込んだものと置き換えて、メソッドを呼び出す度に選択してる要素などをコンソールに出力するデバッグ用プラグイン",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『FileとWebの関係をもっと知る: Blob, FileそしてFileSystemAPI』",
+            "url": "https://docs.google.com/present/view?id=0AUVUbfole2fwZHM3aHNyc18wZmR0cThtZnM&hl=en_US&pli=1",
+            "content": "File API、Blobについてのスライド\n\nBlob URLの作り方などについて",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『evilmartians/visibility.js - GitHub』",
+            "url": "https://github.com/evilmartians/visibility.js",
+            "content": "Page Visibility APIのラッパーライブラリ\n\nfocus/blurを使ったfallback実装も同梱サれている",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『URI.js』",
+            "url": "http://medialize.github.com/URI.js/",
+            "content": "URL文字列をメソッドチェーンで操作するJavaScriptライブラリ\n\nクエリの追加や削除、相対パス<->絶対パス、ノーマライズなどができる</->",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『zoom.js』",
+            "url": "http://lab.hakim.se/zoom-js/",
+            "content": "要素やポイントに対してズームを行う事ができるJavaScriptライブラリ",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Reliable Cross-Browser Testing, Part 1: Internet Explorer - Smashing Coding』",
+            "url": "http://coding.smashingmagazine.com/2011/09/02/reliable-cross-browser-testing-part-1-internet-explorer/",
+            "content": "IE6-10までの環境を揃える方法についていろいろ、ツール紹介とか。",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Untitled ✿ dabblet.com』",
+            "url": "http://dabblet.com/",
+            "content": "CSSをメインにしたJSFiddle的なエディタサービス。\n\ngithubと連携してgistに保存ができたりする",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScriptまわりあれこれ - ashizawaの日記",
+            "url": "http://ashizawa.hatenablog.jp/entry/2011/12/06/163003",
+            "content": "JavaScriptのテストツールやビルドツールなどをまとめたメモ",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『俺の CSS リセット: 2011 冬 - terkel.jp』",
+            "url": "http://terkel.jp/archives/2011/12/css-reset-2011-winter/",
+            "content": "normalizeとresetの違いについて\n\nノーマライズの手法についての解説",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『簡単に使える Compass のオススメ機能 - log』",
+            "url": "http://neotag.net/log/2011/12/Less-and-Sass-Advent-calendar-2011-24th.html",
+            "content": "Compassのいろいろな機能について\n\nCSS spriteや画像の高さや幅を取得して設定するや読み込み先の変更など",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "New Developer Tools in Firefox 11 Aurora ✩ Mozilla Hacks – the Web developer blog",
+            "url": "http://hacks.mozilla.org/2011/12/new-developer-tools-in-firefox-11-aurora/",
+            "content": "FIrefox10からデフォルトで入る開発者ツールの紹介\n\nスタイルエディタやTiltと呼ばれいていたDOMの構造を3Dで見られるインスペクタ",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "Introducing Aurora 11 with tons of new features and improvements ✩ Mozilla Hacks – the Web developer blog",
+            "url": "http://hacks.mozilla.org/2011/12/introducing-aurora-11-with-tons-of-new-features-and-improvements/",
+            "content": "Firefox11での変更点の解説。\n\n- outerHTMLプロパティ\n\n- XHRでhtmlのパースをサポート\n\nresponseType = \"document\"\n\nhttp://d.hatena.ne.jp/teramako/20111122/p1\n\n同様にresponseType == \"json\"もサポート\n\n- cancel(Request)AnimationFrameの実装\n\n- Event constructorsの実装\n\n- -moz-text-size-adjustの実装\n\n- SPDYを搭載(デフォルトOFF)\n\n- Websocketを-mozプレフィックスなしでも利用できるように\n\n- アニメーションGIFがCPUを使いまくるのを解消",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Backbone patterns』",
+            "url": "http://ricostacruz.com/backbone-patterns/",
+            "content": "Backbone.jsのベストプラクティスのパターンについて解説したドキュメント",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『CSS3 Filter Effects DEMO - jsdo.it - Share JavaScript, HTML5 and CSS』",
+            "url": "http://jsdo.it/GeckoTang/sdkT",
+            "content": "CSS3 Filter Effects を使ったデモ\n\nそれぞれの効果を視覚的に確認",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『debugging javascript is a lame title』",
+            "url": "http://wordsbyf.at/2011/12/23/debugging-javascript-is-a-lame-title/",
+            "content": "JavaScriptのデバッガーを使ったデバッグについて。\n\nGetters/Setters+debuggerステートメントを使った方法が面白い",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『fent/randexp.js @ GitHub』",
+            "url": "http://fent.github.com/randexp.js/",
+            "content": "正規表現からそれにマッチするランダムなデータを作成するライブラリ",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Rickshaw』",
+            "url": "http://shutterstock.github.com/rickshaw/",
+            "content": "時系列グラフ生成JavaScriptライブラリ\n\nd3.jsを使ったSVGで描画してる",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "最近のJavaScriptモジュールの書き方 - yo_waka's blog",
+            "url": "http://waka.hatenablog.com/entry/2011/11/27/215627",
+            "content": "AMD、CJSのModuleなどに対応したモジュールの書き方について",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: Foundation Adobe Edge Preview: for HTML5, CSS3, and JavaScript Development [Paperback]: Tomo Green』",
+            "url": "http://www.amazon.com/o/ASIN/1430243503/book042-22/ref=nosim",
+            "content": "2012年5月31日発売\n\nAdobe Edge本",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "Fake operator overloading in JavaScript",
+            "url": "http://www.2ality.com/2011/12/fake-operator-overloading.html",
+            "content": "def.js のような演算子のオーバロードに見せかける方法についての解説\n\nvalueOfとtoStringの上書き",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Knockout 2.0.0 released - Steve Sanderson’s blog - As seen on YouTube™』",
+            "url": "http://blog.stevensanderson.com/2011/12/21/knockout-2-0-0-released/",
+            "content": "Knockout 2.0.0 がリリース",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『[jQuery Mobile] チートシートつくりました | Screw-Axis』",
+            "url": "http://screw-axis.com/2011/12/22/jquery-mobile-cheat-sheet/",
+            "content": "jQuery Mobileのマークアップチートシート",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Web-ARIA』",
+            "url": "http://iwmw.ukoln.ac.uk/iwmw2009/sessions/jackson/ppt2000-html/index_files/frame.html",
+            "content": "WAI-ARIAについてのスライド\n\nWAI-ARIAとは何かという、role属性について、HTML5とWAI-ARIA、問題点などについて",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Quick Fun: CSS3 Filter Effects « GirlieMac! Blog』",
+            "url": "http://girliemac.com/blog/2011/12/21/quick-fun-css3-filter-effects/",
+            "content": "CSS Filter Effectsのサンプル集\n\nWebkitのnightlyで利用できる",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Hogan.js』",
+            "url": "http://twitter.github.com/hogan.js/",
+            "content": "Twitter製のJavaScriptテンプレートライブラリ",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『ryu22eBlog : Node.jsのテスティングフレームワーク「Mocha」（前編）』",
+            "url": "http://blog.livedoor.jp/ryu22e/archives/65636256.html",
+            "content": "Mochaの使い方紹介\n\nオプションについての解説、後編では出力方法についても",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『knockout.js 2.0.0 がリリースされたので試してみた - まめしば雑記』",
+            "url": "http://d.hatena.ne.jp/shiba-yan/20111222/1324485589",
+            "content": "knockout.js 2.0.0の変更点などについて",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "Virtual machine and javascript engine",
+            "url": "http://www.slideshare.net/nwind/virtual-machine-and-javascript-engine",
+            "content": "JavaScriptエンジンの最適化とか実装とかについてのスライド\n\nJSC、V8、SpiderMonkery、Chakra、Carakan、Rhino、LLVMとEmscriptenとFabric engine。\n\nそれぞれのJavaScriptエンジン毎にも書かれている",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "WebStorm 3.0: The JavaScript IDE! | WebStorm & PhpStorm Blog",
+            "url": "http://blog.jetbrains.com/webide/2011/12/webstorm-3-0-the-javascript-ide/",
+            "content": "JavaScriptを中心にWeb開発向けIDEのWebStorm 3.0がリリースされた。\n\nNodeやJSLint(JSHint)、CoffeeScript対応やGIthubのレポジトリ作成や,gistへ投稿などgit系の対応も増えています。",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『CoffeeScript』",
+            "url": "http://coffeescript.org/#changelog",
+            "content": "CoffeeScript 1.2.0リリース\n\n--watchと--joinが一緒に使えるようになった。\n\nhttp://sourceforge.jp/magazine/11/12/20/0834224",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: Web Standards: Mastering Html5, Css3, and Xml [ペーパーバック]: Leslie Sikos』",
+            "url": "http://www.amazon.co.jp/o/ASIN/1430240415/book042-22/ref=nosim",
+            "content": "2011年11月14日発売\n\nHTML5,CSS3,XMLとWeb標準についての書籍",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Polyfilling The HTML5 Gaps With JavaScript』",
+            "url": "http://addyosmani.com/polyfillthehtml5gaps/slides/#1",
+            "content": "HTML5やES5などに対するPolyfillについてのスライド。\n\nかなり広範囲な内容について扱っていて、多数のライブラリなどを紹介している。\n\nまたPolyfillを実現する手段についてもいろいろ",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "qooxdoo » News » Announcements",
+            "url": "http://news.qooxdoo.org/category/announcements",
+            "content": "RIAフレームワークなqooxdoo 1.6リリース\n\n",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『JSPkg』",
+            "url": "http://jspkg.com/",
+            "content": "JavaScriptパッケージをホスティングしてくれるサービス。\n\n開発者がzipファイルをアップロード(またはgitからもインポート)して、\n\n利用者がシンプルにzipでダウロードできるようにしてくれる感じのサービス",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Home - Chai』",
+            "url": "http://chaijs.com/",
+            "content": "BDD/TDDなアサーションライブラリ。\n\nライブラリ自身はmochaと組み合わせてテストされてる",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "メッセージングでまあまあ捗るかもしれない話 - 愛と勇気と缶ビール",
+            "url": "http://d.hatena.ne.jp/zentoo/20111213/1323787997",
+            "content": "メッセージングによる通知のメリットや実装について",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "Dartium (Dart-enabled Chromium) source and build instructions - General Dart Discussion | Google グループ",
+            "url": "https://groups.google.com/a/dartlang.org/group/misc/browse_thread/thread/6d8c441b2a1288f7",
+            "content": "DartVMを内蔵したChromiumが公開された",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Learn more about AMD! | The Dojo Toolkit Blog』",
+            "url": "http://dojotoolkit.org/blog/learn-more-about-amd",
+            "content": "AMDとは何かついての解説などをまとめたリンク集",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Dojo 1.7.1 is Released! | The Dojo Toolkit Blog』",
+            "url": "http://dojotoolkit.org/blog/dojo-1-7-1-is-released",
+            "content": "Dojo 1.7.1リリース",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『The Jasmine Spy Cheatsheet』",
+            "url": "http://tobyho.com/2011/12/15/jasmine-spy-cheatsheet/",
+            "content": "Jasmineのspy関数のチートシート",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『ECMAScript 5』",
+            "url": "http://www.slideshare.net/ferrantes/ecmascript-5-10575898",
+            "content": "ES5についてのスライド\n\n- Object.create nullを渡した場合についても\n\n- defineProperty\n\ngetOwnPropertyDescriptor, getOwnPropertyNames, Object.keysや\n\nArray, bind, など追加されたものについてES3での後方互換実装を交えて解説していてとてもわかりやすい",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "2011 11-mozcamp",
+            "url": "http://www.slideshare.net/jviereck/2011-11mozcamp",
+            "content": "PDF.jsについてのスライド\n\n動作原理、重い処理を回す方法など",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "RFC 6455 on The WebSocket Protocol",
+            "url": "http://www.ietf.org/mail-archive/web/ietf-announce/current/msg09663.html",
+            "content": "WebSocketプロトコルがRFC 6455として公開された",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScriptの無名関数の実行 (function(){})() と (function(){}()) の違い | 圧縮電子精神音楽浮遊構造体",
+            "url": "http://polygon-planet.blogspot.com/2011/12/javascript-function-function.html",
+            "content": "Spidermonkeyのディスアセンブル関数を使った比較",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "DailyJS: JavaScript Developer Survey 2011 Results",
+            "url": "http://dailyjs.com/2011/12/15/javascript-survey-results/",
+            "content": "DailyJSで行われいたJavaScript開発者向けのアンケート結果発表\n\nQUnitよりJasmineを使っている人が多いのが意外だった",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『IndexedDBに関する覚書 (2011年12月版) | mzsm.me』",
+            "url": "http://mzsm.me/2011/12/16/indexeddb-201112/",
+            "content": "IndexedDBについてかなり詳細な解説。\n\nJaidというIndexedDB用のライブラリについても",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: HTML5スマートフォンWebアプリ制作 [単行本]: 谷中 志織』",
+            "url": "http://www.amazon.co.jp/o/ASIN/4798031895/book042-22/ref=nosim",
+            "content": "2011年12月20日発売",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『nanoScroller.js』",
+            "url": "http://jamesflorentino.com/jquery.nanoscroller/",
+            "content": "Lionみたいなスクロールバーを表示させるjQueryプラグイン",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『HTML5 for Applications: The Fourth IE10 Platform Preview - IEBlog - Site Home - MSDN Blogs』",
+            "url": "http://blogs.msdn.com/b/ie/archive/2011/11/29/html5-for-applications-the-fourth-ie10-platform-preview.aspx",
+            "content": "Internet Explorer 10 Platform Preview 4がリリース\n\n- COPS\n\n- File API Writer\n\n- typed array\n\n- user-select\n\nのサポートなど",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "Buster",
+            "url": "http://busterjs.org/",
+            "content": "Sinon.jsの作者が作成してるJavaScriptテストフレームワーク。\n\n",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『dochub | Instant Documentation Search』",
+            "url": "http://dochub.io/#css/",
+            "content": "MDCのHTML/JavaScript/DOM/CSSとjQueryのドキュメントのインデックスをインクリメンタルに絞込み検索",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "Opera Developer News - Hello Opera 11.60!",
+            "url": "http://my.opera.com/ODIN/blog/2011/12/06/hello-opera-11-60",
+            "content": "Opera 11.60リリース",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "Internet Explorer 10 Release Notes",
+            "url": "http://ie.microsoft.com/testdrive/info/releasenotes/default.html",
+            "content": "Internet Explorer 10 Platform Preview 4がリリースされた",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Mobile Performance Manifesto | David Calhoun's Developer Blog』",
+            "url": "http://davidbcalhoun.com/2011/mobile-performance-manifesto",
+            "content": "モバイル端末のパフォーマンス最適化について\n\nnavigator.connection(Androidのみ)を使って3Gかwifiなのかを判定したり、Base64で画像の埋め込みやキャッシュマニフェスト、CSSでのGPU使用についてやHTTPパイプラインなどかなり幅広く解説している",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Knyle Style Sheets — Warpspire』",
+            "url": "http://warpspire.com/posts/kss/",
+            "content": "CSS(Sass/Lessも含む)のコード中のコメントからドキュメントを生成してくれるツール\n\nGithubの人が作成",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Clean Javascript』",
+            "url": "http://www.slideshare.net/tricknotes/clean-javascript",
+            "content": "綺麗なJavaScriptを書くためには...というスライド @  Sapporo.js\n\nロジックの分離やモジュール化、深いスコープなどの解決方法について書かれている",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: CSS3 Solutions: Essential Techniques for CSS3 Developers [Paperback]: Marco Casario, Nathalie Wormser』",
+            "url": "http://www.amazon.com/o/ASIN/143024335X/book042-22/ref=nosim",
+            "content": "2012年5月23日発売\n\nHTML5 Solutionsと同じ所から",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "Backbone.js の資料をざっとリストアップ - tatsuo.sakuraiの日記",
+            "url": "http://d.hatena.ne.jp/t2os/20111209/1323416436",
+            "content": "Backbone.jsについてのまとめ",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Oscar Godson - JavaScriptologist』",
+            "url": "http://oscargodson.com/#%21/article/55075016",
+            "content": "Writing Eloquent JavaScript Without CoffeeScript\n\nJavaScriptの書き方についての記事。\n\n",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: Learn HTML5 and JavaScript for Android [Paperback]: Gavin Williams』",
+            "url": "http://www.amazon.com/o/ASIN/1430243473/book042-22/ref=nosim",
+            "content": "2012年5月23日発売\n\nAndroidとJavaScriptについての書籍",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Kyosuke hamalog (Sass と LESS 以外の選択肢 Stylus)』",
+            "url": "http://kyosuke.tumblr.com/post/14003234226/stylus",
+            "content": "Stylusの紹介",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『clutchski/coffeelint - GitHub』",
+            "url": "https://github.com/clutchski/coffeelint",
+            "content": "CoffeeScriptのLintを行うnode製ツール",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "Going Global with JavaScript and Globalize.js",
+            "url": "http://bytelevelbooks.com/books/global_javascript.html",
+            "content": "i18nなどの国際化対応についての書籍",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "Introducing ECMAScript 5.1 - Dev.Opera",
+            "url": "http://dev.opera.com/articles/view/introducing-ecmascript-5-1/",
+            "content": "dev.operaのES5紹介",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: Effective JavaScript: 30 Specific Ways to Harness the Power of JavaScript (Effective Software Development Series) [Paperback]: David Herman』",
+            "url": "http://www.amazon.com/o/ASIN/0321812182/book042-22/ref=nosim",
+            "content": "2012年6月21日発売\n\nMozillaのDavid Herman著\n\n",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: Programming in CoffeeScript [Paperback]: Mark Bates』",
+            "url": "http://www.amazon.com/o/ASIN/032182010X/book042-22/ref=nosim",
+            "content": "2012年6月10日発売\n\nCoffeeScript本\n\nソースコードはGithubにある\n\nhttps://github.com/markbates/Programming-In-CoffeeScript",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "Announcing Amber.js « Katz Got Your Tongue?",
+            "url": "http://yehudakatz.com/2011/12/08/announcing-amber-js/",
+            "content": "SproutCoreはAmber.jsという名前に変更",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "DailyJS: Testing with Mocha",
+            "url": "http://dailyjs.com/2011/12/08/mocha/",
+            "content": "JavaScriptテスティングフレームワークのMochaについての紹介",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Move The Web Forward | Guide to getting involved with standards and browser development』",
+            "url": "http://movethewebforward.org/",
+            "content": "Web開発者向けのガイドライン\n\nブログやリファレンス、学び方や質問の仕方などについて",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Moving to Dojo 1.7 and the path to 2.0』",
+            "url": "http://www.slideshare.net/jthomas/moving-to-dojo-17-and-the-path-to-20",
+            "content": "Dojo 1.7についてのスライド\n\nAMDモジュールの非同期ロードについてかなり詳細に書かれている。\n\nまたDojo Mobileについて",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "O'Reilly Japan - jQuery Mobile",
+            "url": "http://www.oreilly.co.jp/books/9784873115269/",
+            "content": "2011年12月22日 発売\n\njQuery Mobile: Up and Running では無い方のjQuery Mobile本の日本語版",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Drip documentation』",
+            "url": "http://alogicalparadox.com/drip/",
+            "content": "小さなイベント管理JavaScriptライブラリ\n\non/once/many/emit/off",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『[Android] Android標準ブラウザ HTML5&CSS3対応状況まとめ - adakoda』",
+            "url": "http://www.adakoda.com/adakoda/2011/12/android-androidhtml5css3.html",
+            "content": "Androidのバージョン別(機種別)のHTML5要素やAPI、CSS3などの対応状況をまとめたもの",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: 新JavaScriptワークブック [単行本]』",
+            "url": "http://www.amazon.co.jp/o/ASIN/4877838171/book042-22/ref=nosim",
+            "content": "2011/12/8発売\n\n授業の演習本みたいな感じ\n\nhttp://www.amazon.co.jp/dp/487783818X/ の新版",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: JavaScript&jQueryレッスンブック [単行本]: 大津 真』",
+            "url": "http://www.amazon.co.jp/o/ASIN/4883377946/book042-22/ref=nosim",
+            "content": "2011/12/8発売\n\nプログラミング初心者向けな感じ\n\nhttp://www.socym.co.jp/book/4883377946.html",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "Extending JavaScript Natives « JavaScript, JavaScript…",
+            "url": "http://javascriptweblog.wordpress.com/2011/12/05/extending-javascript-natives/",
+            "content": "JavaScriptのネイティブオブジェクトの拡張についてよくまとまった記事。\n\nPrototype.jsのようなもの、プロトタイプ汚染、ES5のdefineProperty、ES5とES3のbindの違い、prlyfillの書き方、iframeを使ったサンドボックス、それらから得られる教訓",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "KeyboardJS Demo",
+            "url": "http://robertwhurst.github.com/KeyboardJS/",
+            "content": "キーバインドライブラリ。\n\nAMDモジュールとしても利用できる。",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: Webデザイナーのための jQuery入門　魅力的なユーザーインターフェースを手軽に作る (Books for Web Creative) [大型本]: 高津戸 壮』",
+            "url": "http://www.amazon.co.jp/o/ASIN/4774148563/book042-22/ref=nosim",
+            "content": "2011年12月7日発売\n\nJavaScriptの基礎にも触れながら、jQueryを覚えていけるような書籍\n\nhttp://hamalog.tumblr.com/post/13682600794/web-jquery",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『はてなブログのHTML5 - techlog』",
+            "url": "http://d.hatena.ne.jp/j7400157/20111203/1322919968",
+            "content": "はてなブログでみるHTML5要素の使い方",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "Firefox – tons of tools for web developers! ✩ Mozilla Hacks – the Web developer blog",
+            "url": "http://hacks.mozilla.org/2011/11/firefox-tons-of-tools-for-web-developers/",
+            "content": "Firefoxのデバッグキングアドオンのまとめ。\n\n",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "trevmex's tumblings - EnvJasmine 1.6 is released!",
+            "url": "http://trevmex.com/post/13637352846/envjasmine-1-6-is-released",
+            "content": "EnvJasmine 1.6 リリース\n\nhttps://github.com/trevmex/EnvJasmine",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『MooTools - MooTools 1.4.2 Released』",
+            "url": "http://mootools.net/blog/2011/12/02/mootools-1-4-2-released/",
+            "content": "MooTools 1.4.2リリース。\n\n",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『テストフレームワーク mocha - hokaccha.hamalog v2』",
+            "url": "http://d.hatena.ne.jp/hokaccha/20111202/1322840375",
+            "content": "Node/クライアントサイドで動作するテスティングフレームワークのmochaについての解説",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Echo JS launched by @arnorhs』",
+            "url": "http://arnorhs.com/2011/12/01/echo-js-launched/",
+            "content": "JavaScriptのソーシャルニュース(Hacker Newsみたいな)サイト",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "DailyJS: Ender Roundup: Ender, Qwery, Sel, Reqwest, Ender Twitter Bootstrap, CalEnder",
+            "url": "http://dailyjs.com/2011/12/02/ender-roundup/",
+            "content": "クライアントサイド向けのJavaScriptパッケージマネージャなEnder.jsについての紹介",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Backbone.jsの1番良いリファレンスを頼む』へのAwesomeな回答を翻訳してみた - hamheiの日記",
+            "url": "http://d.hatena.ne.jp/hamhei/20111202/1322814067",
+            "content": "Backbone.jsのリソースまとめ",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Patching native objects, isn't it evil? - Sugar』",
+            "url": "http://sugarjs.com/native",
+            "content": "JavaScriptのネイティブオブジェクトを拡張する事についての典型的な例からの解説",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQueryのCSSセレクタAPIを高速に扱う方法 | tech.kayac.com - KAYAC engineers' blog",
+            "url": "http://tech.kayac.com/archive/jquery-selector-api-tuneup.html",
+            "content": "jQueryのCSSセレクタ解釈について\n\n",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "DailyJS: JavaScript Developer Survey 2011",
+            "url": "http://dailyjs.com/2011/12/01/javascript-developer-survey-2011/",
+            "content": "JavaScript開発者の開発環境アンケート2011受付中",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Siphon』",
+            "url": "http://safari-park.herokuapp.com/siphon/index.html",
+            "content": "iPadのようなタブレットでも動作するCoffeeScriptプログラミング環境",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Dojo 1.7 Released! | The Dojo Toolkit Blog』",
+            "url": "http://dojotoolkit.org/blog/dojo-1-7-released",
+            "content": "Dojo 1.7リリース。\n\nDojo Nanoというファイルサイズが小さくなるバージョンも出している",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Paving the way for open games on the Web with the Gamepad and Mouse Lock APIs ✩ Mozilla Hacks – the Web developer blog』",
+            "url": "http://hacks.mozilla.org/2011/12/paving-the-way-for-open-games-on-the-web-with-the-gamepad-and-mouse-lock-apis/",
+            "content": "GamePad APIとMouse Lock APIについての解説とデモ動画",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『[JavaScript] AS3のEventDispatcherみたいにObserverパターン « きんくまデザイン』",
+            "url": "http://www.kuma-de.com/blog/2011-11-29/2849",
+            "content": "observeパターンとMVC",
+            "date": "2011-12-31T15:00:00.000Z"
+        },
+        {
+            "title": "『TweenJS: A Tweening & Animation Library for Javascript & HTML5.』",
+            "url": "http://tweenjs.com/",
+            "content": "イージングやTweenなどのアニメーションライブラリ",
+            "date": "2011-12-31T15:00:00.000Z"
+        }
+    ]
+}

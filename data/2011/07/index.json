@@ -1,0 +1,520 @@
+{
+    "list": [
+        {
+            "title": "『jQuery Proven Performance Tips And Tricks (翻訳) - YutaKikuchiのTechBlog』",
+            "url": "http://d.hatena.ne.jp/yutakikuchi/20110731/1312090278",
+            "content": "jQueryのパフォーマンス Tipsや内部動作などついて書かれたスライドを意訳したもの\n\n",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『jQuery Proven Performance Tips And Tricks (翻訳) - YutaKikuchiのTechBlog』",
+            "url": "http://d.hatena.ne.jp/yutakikuchi/20110731/1312090278",
+            "content": "jQueryのパフォーマンス Tipsや内部動作などついて書かれたスライドを意訳したもの\n\n",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Node.js on Windows (or JavaScript for the backend) - Christopher Bennage - Devlicio.us - Just the Tasty Bits』",
+            "url": "http://devlicio.us/blogs/christopher_bennage/archive/2011/07/28/node-js-on-windows.aspx",
+            "content": "Windows版Node.jsを使った簡易チュートリアル",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "grumble.js",
+            "url": "http://jamescryer.github.com/grumble.js/",
+            "content": "CSS3 transformsを使ったツールチップjQueryプラグイン",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript Enlightenment | by Cody Lindley | 1st Edition | ECMA-262, Edition 3",
+            "url": "http://www.javascriptenlightenment.com/",
+            "content": "\"JavaScriptライブラリユーザーからJavaScript開発者へ\"という電子書籍。\n\nPDFフォーマットで$15で販売\n\n一部関連:\n\nhttp://net.tutsplus.com/tutorials/javascript-ajax/fully-understanding-the-this-keyword/",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『WebSocketことはじめ』",
+            "url": "http://www.slideshare.net/kadoppe/websocket-8735698",
+            "content": "WebSocketを使った開発についてのスライド\n\n素のWebSocket API、Socket.IO、Pusherを使ったパターンを紹介",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『特集：IE10（プレビュー版）概説（中編） － ＠IT』",
+            "url": "http://www.atmarkit.co.jp/fdotnet/special/ie10earlyreview02/ie10earlyreview02_01.html",
+            "content": "D&D API、フォームバリデーション、iframeのsandbox属性、File Reader API、scriptのasync属性、Web Workers ＆ Channel Messagingについての紹介記事",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "html2canvas - screenshots with JavaScript",
+            "url": "http://html2canvas.hertzen.com/",
+            "content": "HTMLページをCanvasでレンダリングするJavaScriptライブラリ。\n\n",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: Beginning iOS Application Development with HTML and JavaScript: Richard Wagner』",
+            "url": "http://www.amazon.com/o/ASIN/1118159004",
+            "content": "2012年1月18日発売\n\niOSでのHTML/CSS/JSに関する書籍。\n\n",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: Smashing Node.JS: JavaScript Everywhere (Smashing Magazine Book Series): Guillermo Rauch』",
+            "url": "http://www.amazon.com/o/ASIN/1119962595",
+            "content": "2012年1月18日発売\n\n著者のサイト\n\nhttp://devthought.com/",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "Getfirebug Blog » Blog Archive » Firebug 1.8.0",
+            "url": "http://blog.getfirebug.com/2011/07/29/firebug-1-8-0/",
+            "content": "Firebug1.8.0がリリース。\n\nモジュールローダーとしてRequireJSを採用して、内部アーキテクチャが大きく改良されている。",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Client-side JavaScript Vulnerabilities』",
+            "url": "http://www.slideshare.net/orysegal/clientside-javascript-vulnerabilities",
+            "content": "JavaScript Security AnalyzerというIBM製のDOM-based XSSなどの調査ツールについてのスライド",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "Davis.jsでHistory APIを比較的お手軽に使う - Takazudo hamalog",
+            "url": "http://hamalog.tumblr.com/post/8177396934/davis-js-history-api",
+            "content": "Ajax遷移とHistory APIを合わせた実例。\n\nDavis.jsを使って遷移を監視させる",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "高レイテンシ下での改善，Microdata，QRESYNCへ対応 | Opera-users.jp",
+            "url": "http://opera-users.jp/translations/weekly/2011-07-27-latency-microdata-qresync/",
+            "content": "Opera(スナップショット)がMicrodataに対応\n\nMicrodataについては以下がわかりやすい\n\nhttp://standards.mitsue.co.jp/archives/001471.html",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Web技術勉強会 20110723』",
+            "url": "http://www.slideshare.net/mapserver2007/web-20110723",
+            "content": "プロトタイプベースOOPライブラリ mix.js についてのスライド\n\nhttps://github.com/mapserver2007/mixjs\n\n過去のスライドと比べるとどう変化していってるか見られるのが面白い",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "sergi/jsftp - GitHub",
+            "url": "https://github.com/sergi/jsftp",
+            "content": "JavaScript(node.js)でFTPプロトコルの実装",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Joint - JavaScript diagramming library.』",
+            "url": "http://www.jointjs.com/about.html",
+            "content": "ダイアグラムを表示するJavaScriptライブラリ。JSON/SVGへの入出力。(SVGはexportのみ)",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: Modern JavaScript: Develop and Design: Larry Ullman』",
+            "url": "http://www.amazon.com/o/ASIN/0321812522",
+            "content": "2012年1月16日発売\n\n著者のサイト http://www.larryullman.com/\n\n",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScriptで実装されたJavaScriptエンジン「Narcissus」をFirefoxで利用するためのアドオン「Zaphod 1.2」、Mozilla Labsがリリース - SourceForge.JP Magazine : オープンソースの話題満載",
+            "url": "http://sourceforge.jp/magazine/11/07/28/0931214",
+            "content": "Firefoxの標準JavaScriptエンジン「SpiderMonkey」の代わりにNarcissusをデフォルトエンジンとして利用できるようにするアドオン。",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "HOME | フォントプラス",
+            "url": "http://webfont.fontplus.jp/",
+            "content": "日本語Webfontサービス",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "An interview with John Resig",
+            "url": "http://john.resig.usesthis.com/",
+            "content": "John Resigの開発環境、使ってるものやソフトについてのインタビュー",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "HTML5 でやりがちな間違い | WWW WATCH",
+            "url": "http://hyper-text.org/archives/2011/07/html5_mistakes.shtml",
+            "content": "HTML5のマークアップについて。\n\nsection,hreader,nav,figure,type,フォーム属性の正しい使い方",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "InfoQ: 仮想パネル：最先端のJavaScriptユニットテスティング",
+            "url": "http://www.infoq.com/jp/articles/javascript-unit-testing",
+            "content": "JavaScriptのテスティングフレームワーク\n\nQUnit,Jasmine,Jarvis,jfUnitの各作者へのインタビュー記事\n\n",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Resources for HTML5 and CSS3』",
+            "url": "http://www.w3conversions.com/resources.html",
+            "content": "HTML5やCSS3についての仕様、情報、ツール、チュートリアルやサンプルなどを大量にまとめたもの",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": ".:jfUnit:. Unit tests for Javascript",
+            "url": "http://felipenmoura.org/projetos/jfunit/home.php",
+            "content": "JavascriptのUnit Testライブラリ",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "SeaJS 正式发布 1.0.0 版本 « 岁月如歌",
+            "url": "http://lifesinger.wordpress.com/2011/07/22/seajs-v1-0-0/",
+            "content": "モジュールローダーライブラリのSeaJS1.0がリリース\n\n英語版のドキュメントも用意されてる。",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "つい最近JavaScript Gardenの翻訳しだした - Life goes on",
+            "url": "http://d.hatena.ne.jp/Layzie/20110726/1311614734",
+            "content": "Javascript Gardenの日本語訳",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Meow: A Growl Work-Alike for jQuery』",
+            "url": "http://zacstewart.com/2011/06/18/meow-a-growl-work-alike-for-jquery.html",
+            "content": "GrowlライクなjQueryプラグイン",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "ECMAScript関連ドキュメント",
+            "url": "http://dl.dropbox.com/u/9124140/tsoft/ecmascript.html",
+            "content": "ECMA-262第5版の日本語訳",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "CSS Design and Programming",
+            "url": "http://www.slideshare.net/usualoma/css-design-and-programming-8669338",
+            "content": "jsdo.itで見かけるCSSプログラミングについてのスライド",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "insin/DOMBuilder - GitHub",
+            "url": "https://github.com/insin/DOMBuilder",
+            "content": "HTMタグ生成の補助をするJavaScriptライブラリ",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "Firefox5+HTML5×5",
+            "url": "http://www.slideshare.net/dynamis/firefox5html5",
+            "content": "dynamisさんのHTML5周りについてのスライド\n\nアニメーションの使い分けでCanvas,SVG,CSS,WebGLの特徴についてや、HTML5 API、CSPなどについて。",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『melonJS』",
+            "url": "http://www.melonjs.org/",
+            "content": "2DゲームエンジンJavaScriptライブラリ",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『potraceをjavascriptに移植した - Webと文字』",
+            "url": "http://d.hatena.ne.jp/project_the_tower2/20110724/1311473645",
+            "content": "\"potraceとはラスター画像からSVG等のベクター画像を作成するソフト\"\n\nC→ActionScript→JavaScript",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "Mindscape Blog » Blog Archive » Visual Studio + Sass + Less + CoffeeScript = Web Workbench",
+            "url": "http://www.mindscapehq.com/blog/index.php/2011/07/14/visual-studio-sass-less-coffeescript-web-workbench/",
+            "content": "Visual StudioでSass,Less,CoffeeScriptに対応する拡張機能",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "HiveJS",
+            "url": "http://www.hivejs.com/",
+            "content": "GUIでパーツを配置して、それを操作するJavaScriptを書いて、HTMLとして出力できるMac向けソフトウェア",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "haz.io › HTML5 & CSS3 Browser Capabilities",
+            "url": "http://haz.io/",
+            "content": "HTML5,CSS3,フォーム属性などにどのくらい対応しているかを判定できる。",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『weinre - WEb INspector REmote』",
+            "url": "http://muellerware.org/papers/weinre/manual.html",
+            "content": "weinre の仕組みの解説\n\nWeb Inspectorとのやりとり(CDTP)など",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "2011-07-15 チューニングが楽になる JavaScript 道具箱",
+            "url": "http://www.slideshare.net/yoko/javascript-8632523",
+            "content": "LazyLoad,throttle,storage 遅延評価的な話などのスライド。\n\nパフォーマンスチューニング。",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "What's a Closure?",
+            "url": "http://nathansjslessons.appspot.com/",
+            "content": "JavaScriptの解説があって、実際に入力して学べるサイト",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "プログラミング経験者が JavaScript を学ぶためのリソース - フリーフォーム フリークアウト",
+            "url": "http://d.hatena.ne.jp/cou929_la/20110721/1311262784",
+            "content": "JavaScriptを学ぶにあたってのリソースについてのまとめ",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "レポート：「第19回　HTML5とか勉強会」活動報告｜gihyo.jp … 技術評論社",
+            "url": "http://gihyo.jp/news/report/2011/07/2201",
+            "content": "PJAX,Box2DJS,Responsive Web Design,スマートフォンデバッグについての発表",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "Titanium Studioのデバッグ機能が無料で使えるようになりました！ « Appcelerator Developer Center",
+            "url": "http://developer.appcelerator.com/blog/2011/07/titanium-studio%e3%81%ae%e3%83%87%e3%83%90%e3%83%83%e3%82%b0%e6%a9%9f%e8%83%bd%e3%81%8c%e7%84%a1%e6%96%99%e3%81%a7%e4%bd%bf%e3%81%88%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be.html?lang=ja",
+            "content": "Titanium Studioの(Mobile)デバッガーが無償版でも使えるように",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: HTML5･JavaScript･CSS3アプリケーション開発入門 (日経BPパソコンベストムック): 日経ソフトウエア』",
+            "url": "http://www.amazon.co.jp/o/ASIN/4822222675",
+            "content": "2011/7/29発売\n\nムック本",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "Node で使える ECMA5 の新機能 - Block Rockin’ Codes",
+            "url": "http://d.hatena.ne.jp/Jxck/20110709/1310215628",
+            "content": "ES5で追加されたJavaScriptのメソッドなどの解説。 別にNode.jsでなくてもモダンなJavaScriptなら同じなので参考になる。",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Tagneto: RequireJS 0.25.0 released, AMD advancing』",
+            "url": "http://tagneto.blogspot.com/2011/07/requirejs-0250-released-amd-advancing.html",
+            "content": "RequireJS 0.25.0リリース\n\nRequireJS以外のAMD loaderについても紹介してる",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『株式会社シャノン技術ブログ: JSが苦手なWebデザイナーに贈る たった２つの克服のコツ』",
+            "url": "http://shanon-tech.blogspot.com/2011/07/jsweb.html",
+            "content": "jQuery入門的なスライド。\n\nエラーの読み方",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "第六届D2论坛主题演讲及作品秀资料 _ D2 前端技术论坛",
+            "url": "http://www.d2forum.org/2011/07/15/%e7%ac%ac%e5%85%ad%e5%b1%8ad2%e4%bd%9c%e5%93%81%e7%a7%80%e8%b5%84%e6%96%99/",
+            "content": "中国の第六回D2フロントエンド技術フォーラムで行われた発表資料。\n\nフロントエンド関係のスライドまとめ\n\nHTML,CSS,TDD,MVC,WAI-ARIA,アクセシビリティ,Androidなど\n\nライブラリ関係はYUI,EISA,SeaJSなど",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『InfoQ: Google Code Gets Git』",
+            "url": "http://www.infoq.com/news/2011/07/google-git",
+            "content": "Google CodeがGitをサポート。\n\n",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "第19回HTML5とか勉強会発表資料 (Kanasansoft Web Lab.)",
+            "url": "http://www.kanasansoft.com/weblab/2011/07/html5toka19.html",
+            "content": "スマートフォン用ベージをデバッグする5つの方 についてのスライドと動画。\n\nweinreのデモなど",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "MDC-ja 通信 vol.14 - A Better Project＠はてなダイアリー",
+            "url": "http://d.hatena.ne.jp/potappo/20110714/1310572023",
+            "content": "MDCの翻訳ドキュメントについての月刊通信\n\nMDCにはFirefox以外でもWebなどに関する新しいドキュメントが多い。",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: HTML5 and JavaScript Projects: Jeanine Meyer",
+            "url": "http://www.amazon.com/o/ASIN/1430240326/book042-22/ref=nosim",
+            "content": "2011年2月16日発売\n\n",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: Learn HTML5 and JavaScript for iOS: Web Standards-based Apps for iPhone, iPad, and iPod touch: Scott Preston",
+            "url": "http://www.amazon.com/o/ASIN/1430240385/book042-22/ref=nosim",
+            "content": "2011年12月30日発売\n\niOS上でのJavaScriptについての書籍",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Getting started - jsOAuth Manual & Documentation』",
+            "url": "http://bytespider.github.com/jsOAuth/",
+            "content": "JavaScriptで使えるOAuthライブラリ",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "PDFKit — A PDF Generation Library for Node",
+            "url": "http://devongovett.github.com/pdfkit/",
+            "content": "Node.jsでPDFを生成するライブラリ",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Node v0.5.1 « node blog』",
+            "url": "http://blog.nodejs.org/2011/07/14/node-v0-5-1/",
+            "content": "Node.js 0.5.1(開発版)リリース。\n\n今回からWindowsバイナリもリリースされてる。",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Selenium 2.0: Out Now! « Official Selenium Blog』",
+            "url": "http://seleniumhq.wordpress.com/2011/07/08/selenium-2-0/",
+            "content": "Selenium 2.0リリース\n\n",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『devongovett/slang - GitHub』",
+            "url": "https://github.com/devongovett/slang/",
+            "content": "文字列を操作するユーティリティライブラリ",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『javascript-bcrypt - jsBCrypt - Google Project Hosting』",
+            "url": "http://code.google.com/p/javascript-bcrypt/",
+            "content": "JavaScriptで実装されたBCrypt\n\n",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "Essential JavaScript Design Patterns For Beginners",
+            "url": "http://addyosmani.com/resources/essentialjsdesignpatterns/book/",
+            "content": "JavaScriptで学ぶデザインパターン\n\nCC BY-NC-SA 3.0で公開",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『node.jsでメソッドの中身をconsole.logで確認するにはutil.inspectを使う』",
+            "url": "http://memo.yomukaku.net/entries/308",
+            "content": "util.inspectを使って確認できる。\n\nshowHiddenオプションで列挙されないプロパティも表示できる。",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Smooth CoffeeScript』",
+            "url": "http://autotelicum.github.com/Smooth-CoffeeScript/",
+            "content": "CoffeeScriptの無料電子書籍\n\ngithubにLatex(LyX)のソースコードも置いてある。",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Defense in Depth: Locking Down Mash-Ups with HTML5 Sandbox - IEBlog - Site Home - MSDN Blogs』",
+            "url": "http://blogs.msdn.com/b/ie/archive/2011/07/14/defense-in-depth-locking-down-mash-ups-with-html5-sandbox.aspx",
+            "content": "iframeのsandbox属性についての解説",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "HTML5 におけるアウトラインに関して簡単解説 | WWW WATCH",
+            "url": "http://hyper-text.org/archives/2011/07/html5_outline.shtml",
+            "content": "HTML5のセクションとアウトラインについての解説。\n\nsection要素と見出しを中心に解説",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "CSS3 Media Queries を使って、Webサイトをスマートフォンに対応させるときの注意書き",
+            "url": "http://webdesignrecipes.com/web-design-for-mobile-with-css3-media-queries/",
+            "content": "Media Queryを使ったモバイル端末へのデザインの適応チュートリアル",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "[翻訳] これから HTML と CSS を学び始める君へ | Unformed Building",
+            "url": "http://unformedbuilding.com/articles/for-html-css-beginners/",
+            "content": "HTMLやCSSといったウェブ関係の学び方について。また参考になるリソースの紹介。",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "A Survey Of JavaScript Lisp Implementations - ceaude",
+            "url": "http://ceaude.twoticketsplease.de/articles/a-survey-of-javascript-lisp-implementations.html",
+            "content": "JavaScriptでLispを実装したものをまとめたもの。\n\n性能とかいろいろな項目での比較もされている。",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『CSS1K』",
+            "url": "http://css1k.com/",
+            "content": "CSS版1Kbでどこまでデザインできるかコンテスト。js1k",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "Latest Updates - DocumentCloud",
+            "url": "http://blog.documentcloud.org/blog/2011/07/code-release-backbone-js-0-5-0/",
+            "content": "Backbone.js 0.5.0リリース\n\npushStateをサポート",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "danlucraft/git.js at master - GitHub",
+            "url": "https://github.com/danlucraft/git.js",
+            "content": "gitをJavaScriptで実装したもの。\n\nNode.jsからコマンドラインで使う部分とclient side API が実装されている",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "Mozilla Japan ブログ - Firefox の新しいベータ版をテスト用に公開しました",
+            "url": "http://mozilla.jp/blog/entry/6998/",
+            "content": "Firefox6βがリリースされた。\n\n",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "JSを編集してエディタで保存するとき、JSHint でコーディングバリデーションをかける - 冬通りに消え行く制服ガールは✖夢物語にリアルを求めない。 - subtech",
+            "url": "http://subtech.g.hatena.ne.jp/cho45/20110708/1310121676",
+            "content": "vimparse.js +JSHintを使ったバリデーション",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery Proven Performance Tips And Tricks (Slides)",
+            "url": "http://addyosmani.com/jqprovenperformance/",
+            "content": "jQueryのパフォーマンスに関するスライド\n\n遅くなる書き方とかバージョン間での差異など",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Pragmatic JavaScript Testing with Jasmine | The Carbon Emitter』",
+            "url": "http://blog.carbonfive.com/2011/07/06/pragmatic-javascript-testing-with-jasmine/",
+            "content": "Jasmineを使ったJavaScriptテストのチュートリアル",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Dataview.js』",
+            "url": "http://dataviewjs.com/",
+            "content": "JSONライクなオブジェクトデータの管理をしやすくするJavaScriptライブラリ。",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "egonelbre/jsfx - GitHub",
+            "url": "https://github.com/egonelbre/jsfx",
+            "content": "サウンドエフェクトジェネレーター\n\nwavなサウンドを生成するJavaScriptライブラリ",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery Mobile Team update: Week of July 4th | jQuery Mobile",
+            "url": "http://jquerymobile.com/blog/2011/07/08/jquery-mobile-team-update-week-of-july-4th/",
+            "content": "jQuery Mobileβ2について。",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "Using PC Hardware more efficiently in HTML5: New Web Performance APIs, Part 2 - IEBlog - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/ie/archive/2011/07/08/using-pc-hardware-more-efficiently-in-html5-new-web-performance-apis-part-2.aspx",
+            "content": "Page Visibility APIの解説\n\n",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『窓の杜 - 【NEWS】フェンリル、Mac OS X向けWebブラウザー「Sleipnir for Mac」のアルファ版を公開』",
+            "url": "http://www.forest.impress.co.jp/docs/news/20110708_459244.html",
+            "content": "SleipnirのMac版αリリース\n\nレンダリングエンジンはWebkit",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "Node v0.5.0 (Unstable) « node blog",
+            "url": "http://blog.nodejs.org/2011/07/06/node-v0-5-0-unstable/",
+            "content": "(unstable)Node.js 0.5.0リリース\n\n日本語訳: http://blog.summerwind.jp/archives/1470",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "NodeLists and Arrays in JavaScript — Can Duruk",
+            "url": "http://blog.duruk.net/2011/06/19/nodelists-and-arrays-in-javascript/",
+            "content": "Nodeリストとは何か、また配列とはどのような関係なのかについての解説記事",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "iOS 5 finally brings Nitro JavaScript speed to home screen Web apps",
+            "url": "http://arstechnica.com/apple/news/2011/06/ios-5-brings-nitro-speed-to-home-screen-web-apps.ars",
+            "content": "iOS5ならホームから起動したWebアプリもNitroの恩賜を受けられるようになった。",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "Buzz, a Javascript HTML5 Audio library",
+            "url": "http://buzz.jaysalvat.com/",
+            "content": "HTML5のAudio要素を扱うJavaScriptライブラリ\n\n",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "New Firefox Aurora is Ready for Download and Testing | Future Releases",
+            "url": "http://blog.mozilla.com/futurereleases/2011/07/07/firefoxaurora7/",
+            "content": "Firefox Aurora 7のメモリなどの改善点について\n\n- http://internet.watch.impress.co.jp/docs/news/20110708_459184.html\n\n- http://journal.mycom.co.jp/news/2011/07/08/029/index.html",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "『H2O Space. マークアップガイドライン « H2O Blog.』",
+            "url": "http://h2o-space.com/blog_ver2/code_rule",
+            "content": "HTMLマークアップのコードガイドライン\n\nコーディング規約",
+            "date": "2011-07-31T15:00:00.000Z"
+        },
+        {
+            "title": "HTML5 Parsing in IE10 - IEBlog - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/ie/archive/2011/07/06/html5-parsing-in-ie10.aspx",
+            "content": "IE10pp2の更新された動作(一部)について\n\nHTML5のパース、閉じタグ省略時の挙動、エラー表示、innerHTML の改善\n\nレガシーな機能を削除\n\n-条件付きコメント <!--[if IE]><br />\n-Element Behaviors(VML, time2, htc)<br />\n-XML Data Islands<br />\n</p>\n\n\n<blockquote cite=\"http://blog.nodejs.org/2011/07/06/node-v0-5-0-unstable/\" title=\"『Node v0.5.0 (Unstable) « node blog』\">\n<p class=\"jser-sitelink\">\n<strong>『Node v0.5.0 (Unstable) « node blog』</strong><br />\n<a href=\"http://blog.nodejs.org/2011/07/06/node-v0-5-0-unstable/\" title=\"『Node v0.5.0 (Unstable) « node blog』\">http://blog.nodejs.org/2011/07/06/node-v0-5-0-unstable/</a>\n</p>\n</blockquote>\n<p>(unstable)Node.js 0.5.0リリース<br />\n日本語訳: http://blog.summerwind.jp/archives/1470</p>\n\n\n<blockquote cite=\"http://www.slideshare.net/donotfold/jquery-introduction-8514887\" title=\"『jQuery introduction』\">\n<p class=\"jser-sitelink\">\n<strong>『jQuery introduction』</strong><br />\n<a href=\"http://www.slideshare.net/donotfold/jquery-introduction-8514887\" title=\"『jQuery introduction』\">http://www.slideshare.net/donotfold/jquery-introduction-8514887</a>\n</p>\n</blockquote>\n<p>jQueryの紹介スライド<br />\n1/3くらいはJavaScriptの基本について</p>\n\n\n<blockquote cite=\"http://tatsu-zine.com/books/box2djs\" title=\"はじめる！ Box2DJS - 達人出版会\">\n<p class=\"jser-sitelink\">\n<strong>はじめる！ Box2DJS - 達人出版会</strong><br />\n<a href=\"http://tatsu-zine.com/books/box2djs\" title=\"はじめる！ Box2DJS - 達人出版会\">http://tatsu-zine.com/books/box2djs</a>\n</p>\n</blockquote>\n<p>物理エンジンJavaScriptライブラリであるBox2DJSの書籍。</p>\n\n\n<blockquote cite=\"http://help.dottoro.com/\" title=\"Dottoro Web Reference\">\n<p class=\"jser-sitelink\">\n<strong>Dottoro Web Reference</strong><br />\n<a href=\"http://help.dottoro.com/\" title=\"Dottoro Web Reference\">http://help.dottoro.com/</a>\n</p>\n</blockquote>\n<p>HTML,CSS,JavaScriptについて各ブラウザの対応状況や使い方などのリファレンスサイト。<br />\nかなり網羅的にできている。</p>\n\n\n<blockquote cite=\"http://www.amazon.co.jp/o/ASIN/4798124257/book042-22/ref=nosim\" title=\"『Amazon: PhoneGap 入門ガイド: アシアル株式会社』\">\n<p class=\"jser-sitelink\">\n<strong>『Amazon: PhoneGap 入門ガイド: アシアル株式会社』</strong><br />\n<a href=\"http://www.amazon.co.jp/o/ASIN/4798124257/book042-22/ref=nosim\" title=\"『Amazon: PhoneGap 入門ガイド: アシアル株式会社』\">http://www.amazon.co.jp/o/ASIN/4798124257/book042-22/ref=nosim</a>\n</p>\n</blockquote>\n<p>2011/7/23発売<br />\nPhoneGap入門本</p>\n\n\n<blockquote cite=\"http://blogs.msdn.com/b/ie/archive/2011/07/01/web-workers-in-ie10-background-javascript-makes-web-apps-faster.aspx\" title=\"Web Workers in IE10: Background JavaScript Makes Web Apps Faster - IEBlog - Site Home - MSDN Blogs\">\n<p class=\"jser-sitelink\">\n<strong>Web Workers in IE10: Background JavaScript Makes Web Apps Faster - IEBlog - Site Home - MSDN Blogs</strong><br />\n<a href=\"http://blogs.msdn.com/b/ie/archive/2011/07/01/web-workers-in-ie10-background-javascript-makes-web-apps-faster.aspx\" title=\"Web Workers in IE10: Background JavaScript Makes Web Apps Faster - IEBlog - Site Home - MSDN Blogs\">http://blogs.msdn.com/b/ie/archive/2011/07/01/web-workers-in-ie10-background-javascript-makes-web-apps-faster.aspx</a>\n</p>\n</blockquote>\n<p>The Web Worker \"Mini-DOM\"<br />\nWeb Workerから触れられるオブジェクトの概念図が分かりやすい</p>\n\n\n<blockquote cite=\"http://leaverou.me/polyfills/progress/\" title=\"『HTML5 polyfill by Lea Verou』\">\n<p class=\"jser-sitelink\">\n<strong>『HTML5 polyfill by Lea Verou』</strong><br />\n<a href=\"http://leaverou.me/polyfills/progress/\" title=\"『HTML5 polyfill by Lea Verou』\">http://leaverou.me/polyfills/progress/</a>\n</p>\n</blockquote>\n<p>progress要素に未対応のブラウザでも動くようにするpolyfill。</p>\n\n\n<blockquote cite=\"http://tokkono.cute.coocan.jp/blog/slow/index.php/xhtmlcss/jquery-deferred-with-html5-web-workers/\" title=\"『jQuery DeferredとHTML5 Web Workersでオブジェクト指向な並列プログラミングを | ゆっくりと…』\">\n<p class=\"jser-sitelink\">\n<strong>『jQuery DeferredとHTML5 Web Workersでオブジェクト指向な並列プログラミングを | ゆっくりと…』</strong><br />\n<a href=\"http://tokkono.cute.coocan.jp/blog/slow/index.php/xhtmlcss/jquery-deferred-with-html5-web-workers/\" title=\"『jQuery DeferredとHTML5 Web Workersでオブジェクト指向な並列プログラミングを | ゆっくりと…』\">http://tokkono.cute.coocan.jp/blog/slow/index.php/xhtmlcss/jquery-deferred-with-html5-web-workers/</a>\n</p>\n</blockquote>\n<p>Web WorkersとjQuery Deferredを合わせて使う</p>\n\n\n<blockquote cite=\"http://momdo.s35.xrea.com/web-html-test/CSS3-ja/\" title=\"『CSS3の日本語訳集 - 血統の森 web実験小屋』\">\n<p class=\"jser-sitelink\">\n<strong>『CSS3の日本語訳集 - 血統の森 web実験小屋』</strong><br />\n<a href=\"http://momdo.s35.xrea.com/web-html-test/CSS3-ja/\" title=\"『CSS3の日本語訳集 - 血統の森 web実験小屋』\">http://momdo.s35.xrea.com/web-html-test/CSS3-ja/</a>\n</p>\n</blockquote>\n<p>CSSの仕様書と日本語訳へのリンクの対応表</p>\n\n\n<blockquote cite=\"http://elrte.org/\" title=\"『elRTE - open source WYSIWYG editor for Web』\">\n<p class=\"jser-sitelink\">\n<strong>『elRTE - open source WYSIWYG editor for Web』</strong><br />\n<a href=\"http://elrte.org/\" title=\"『elRTE - open source WYSIWYG editor for Web』\">http://elrte.org/</a>\n</p>\n</blockquote>\n<p>ロシア製のwysiwygエディタ<br />\ni18nにもちゃんと対応してるリッチエディタ</p>\n\n\n<blockquote cite=\"http://screencasts.org/episodes/introduction-to-coffeescript\" title=\"『Introduction to CoffeeScript - Free Quality Screencasts by Screencasts.org』\">\n<p class=\"jser-sitelink\">\n<strong>『Introduction to CoffeeScript - Free Quality Screencasts by Screencasts.org』</strong><br />\n<a href=\"http://screencasts.org/episodes/introduction-to-coffeescript\" title=\"『Introduction to CoffeeScript - Free Quality Screencasts by Screencasts.org』\">http://screencasts.org/episodes/introduction-to-coffeescript</a>\n</p>\n</blockquote>\n<p>CoffeeScript紹介のスクリーンキャスト<br />\n</p>\n\n\n<blockquote cite=\"https://gist.github.com/1057588\" title=\"『User script to add browser support for setImmediate() API. Try on IE10 demo: http://ie.microsoft.com/testdrive/Performance/setImmediateSorting/Default.html — Gist』\">\n<p class=\"jser-sitelink\">\n<strong>『User script to add browser support for setImmediate() API. Try on IE10 demo: http://ie.microsoft.com/testdrive/Performance/setImmediateSorting/Default.html — Gist』</strong><br />\n<a href=\"https://gist.github.com/1057588\" title=\"『User script to add browser support for setImmediate() API. Try on IE10 demo: http://ie.microsoft.com/testdrive/Performance/setImmediateSorting/Default.html — Gist』\">https://gist.github.com/1057588</a>\n</p>\n</blockquote>\n<p>setImmediate (setTimeoutの非同期即時実行みたいな)のクロスブラウザ向け関数<br />\nhttp://j.mp/lUMP3H<br />\nfail safeは0msに近いpostMessageが使われてる(一部例外ある)<br />\nhttp://j.mp/jHBCVD</p>\n\n\n<blockquote cite=\"https://github.com/joelambert/morf/tree/1c94cacf67afe0ded80fce366b33a4dbee886c56\" title=\"『joelambert/morf - GitHub』\">\n<p class=\"jser-sitelink\">\n<strong>『joelambert/morf - GitHub』</strong><br />\n<a href=\"https://github.com/joelambert/morf/tree/1c94cacf67afe0ded80fce366b33a4dbee886c56\" title=\"『joelambert/morf - GitHub』\">https://github.com/joelambert/morf/tree/1c94cacf67afe0ded80fce366b33a4dbee886c56</a>\n</p>\n</blockquote>\n<p>CSS3 transitionsを使ったTweenライブラリ。CSS3 Animation</p>\n\n\n<blockquote cite=\"http://www.slideshare.net/nzakas/maintainable-javascript-2011\" title=\"Maintainable JavaScript 2011\">\n<p class=\"jser-sitelink\">\n<strong>Maintainable JavaScript 2011</strong><br />\n<a href=\"http://www.slideshare.net/nzakas/maintainable-javascript-2011\" title=\"Maintainable JavaScript 2011\">http://www.slideshare.net/nzakas/maintainable-javascript-2011</a>\n</p>\n</blockquote>\n<p>Nicholas Zakasによるメンテナンス性とJavaScriptについてのスライド<br />\n- イベントハンドラはイベントのみを扱うべき<br />\n- nullとの比較での注意点<br />\n- configデータと処理の分離<br />\nなど</p>\n\n\n<blockquote cite=\"http://varjs.com/voice-debugger/\" title=\"『Voice debugger』\">\n<p class=\"jser-sitelink\">\n<strong>『Voice debugger』</strong><br />\n<a href=\"http://varjs.com/voice-debugger/\" title=\"『Voice debugger』\">http://varjs.com/voice-debugger/</a>\n</p>\n</blockquote>\n<p>エラーログを音声で読み上げてくれるJavaScriptライブラリ</p>\n\n\n<blockquote cite=\"http://code.google.com/p/jebgl/\" title=\"jebgl - Java emulated WebGL canvas - Google Project Hosting\">\n<p class=\"jser-sitelink\">\n<strong>jebgl - Java emulated WebGL canvas - Google Project Hosting</strong><br />\n<a href=\"http://code.google.com/p/jebgl/\" title=\"jebgl - Java emulated WebGL canvas - Google Project Hosting\">http://code.google.com/p/jebgl/</a>\n</p>\n</blockquote>\n<p>Javaアプレットを使いWebGLをIEなどのWebGL未対応ブラウザでも動かせるようにする</p>\n\n\n<blockquote cite=\"http://webreflection.blogspot.com/2011/06/es5-and-use-strict.html\" title=\"Web Reflection: ES5 and use strict\">\n<p class=\"jser-sitelink\">\n<strong>Web Reflection: ES5 and use strict</strong><br />\n<a href=\"http://webreflection.blogspot.com/2011/06/es5-and-use-strict.html\" title=\"Web Reflection: ES5 and use strict\">http://webreflection.blogspot.com/2011/06/es5-and-use-strict.html</a>\n</p>\n</blockquote>\n<p>ES5のStrict modeについて。<br />\nStrict modeの動作について一つずつ解説</p>\n\n\n<blockquote cite=\"http://paperjs.org/\" title=\"Paper.js — Paper.js\">\n<p class=\"jser-sitelink\">\n<strong>Paper.js — Paper.js</strong><br />\n<a href=\"http://paperjs.org/\" title=\"Paper.js — Paper.js\">http://paperjs.org/</a>\n</p>\n</blockquote>\n<p>Canvasでベクターグラフィックを生成できるフレームワーク。DOM(レイヤーの事みたいなもの)とかPathとか、キーボード、マウスななどのインタラクティブな機能がある<br />\nCanvasでVector not SVG</p>\n\n\n<blockquote cite=\"http://www.kanasansoft.com/weblab/2011/06/xiangpian_basic.html\" title=\"『iOS等のブラウザにJavaScriptを送信して実行できるXiangpian(基本編) (Kanasansoft Web Lab.)』\">\n<p class=\"jser-sitelink\">\n<strong>『iOS等のブラウザにJavaScriptを送信して実行できるXiangpian(基本編) (Kanasansoft Web Lab.)』</strong><br />\n<a href=\"http://www.kanasansoft.com/weblab/2011/06/xiangpian_basic.html\" title=\"『iOS等のブラウザにJavaScriptを送信して実行できるXiangpian(基本編) (Kanasansoft Web Lab.)』\">http://www.kanasansoft.com/weblab/2011/06/xiangpian_basic.html</a>\n</p>\n</blockquote>\n<p>WebSocketを使ってリモートのモバイル端末でJavaScriptを実行するコンソールソフトウェア<br />\n</p>\n\n\n<blockquote cite=\"http://blog.jquery.com/2011/06/30/jquery-162-released/\" title=\"『jQuery: » jQuery 1.6.2 Released』\">\n<p class=\"jser-sitelink\">\n<strong>『jQuery: » jQuery 1.6.2 Released』</strong><br />\n<a href=\"http://blog.jquery.com/2011/06/30/jquery-162-released/\" title=\"『jQuery: » jQuery 1.6.2 Released』\">http://blog.jquery.com/2011/06/30/jquery-162-released/</a>\n</p>\n</blockquote>\n<p>jQuery 1.6.2 正式版リリース</p>-->",
+            "date": "2011-07-31T15:00:00.000Z"
+        }
+    ]
+}

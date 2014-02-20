@@ -1,0 +1,604 @@
+{
+    "list": [
+        {
+            "title": "Javascript Scope Quiz",
+            "url": "http://madebyknight.com/javascript-scope/",
+            "content": "JavaScriptのスコープについてのクイズ。\n\nスコープについて学びながら進めていける",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery Blog » jQuery 1.8.1 Released",
+            "url": "http://blog.jquery.com/2012/08/30/jquery-1-8-1-released/",
+            "content": "jQuery 1.8.1リリース\n\nQuirks modeのサポートはしない事に",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Welcome to Sinon.JS Documentation. — SinonJSDoc 1.0 documentation",
+            "url": "http://sinonjsdoc.readthedocs.org/en/latest/",
+            "content": "SInon.JSについてのドキュメント\n\nSinon.JSの内部構成などについて",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Introduction to XMLHttpRequest Level 2 - Dev.Opera",
+            "url": "http://dev.opera.com/articles/view/xhr2/",
+            "content": "XHR Level2について。\n\ntimeouts、クロスドメイン、FormData、 ProgressEvent、responseTypeについて",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "WebGL: Up and Running - O'Reilly Media",
+            "url": "http://shop.oreilly.com/product/0636920024729.do",
+            "content": "2012年8月発売\n\nWebGL本",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "TEST CORDING » Sassの可変長引数で出来ること出来ないことまとめ",
+            "url": "http://testcording.com/?p=261",
+            "content": "Sassの可変長引数の解説",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Testem 0.1.0 Released and Screencasts",
+            "url": "http://tobyho.com/2012/08/29/testem-intro-screencast/",
+            "content": "インタラクティブなJavaScript Test RunnerのTestem 0.1.0リリース\n\n自動でブラウザを起動する機能や、console.log等の出力対応",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: JavaScript & JQuery: Interactive Front-End Development [Paperback]: Jon Duckett",
+            "url": "http://www.amazon.com/o/ASIN/1118531647/book042-22/ref=nosim",
+            "content": "2013年3月5日発売。\n\n著者は HTML and CSS: Design and Build Websites http://www.htmlandcssbook.com/ の人。\n\nこの書籍と同様にかなりビジュアル面に凝った書籍になるそう\n\n",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Things I didn’t know about the WebKit inspector | joocode",
+            "url": "http://blog.joocode.com/browsers/12-things-about-the-webkit-inspector-i-didnt-know/",
+            "content": "Web InspectorのTips",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Web Performance Power Tool: HTTP Archive (HAR) - igvita.com",
+            "url": "http://www.igvita.com/2012/08/28/web-performance-power-tool-http-archive-har/",
+            "content": "通信時のデータを記録するHTTP Archive (HAR)について。\n\nharファイルの見方やyslow、デバッガーからharファイルを保存する方法、proxyを使ったトレース等について",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "HTML5 Boilerplate – v4.0.0 | drublic",
+            "url": "http://drublic.de/blog/html5bp-v4-0-0/",
+            "content": "HTML5 Boilerplate 4.0.0リリース。\n\nMITライセンスの追加、console.logラッパーの変更、構造の整理等",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Firefox 15.0 リリースノート",
+            "url": "http://www.mozilla.jp/firefox/15.0/releasenotes/",
+            "content": "Firefox 15.0リリース\n\nhttps://dev.mozilla.jp/2012/07/firefox15/",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Yeti 0.2.9 released",
+            "url": "http://yeti.cx/blog/2012/08/yeti-0-2-9-released/",
+            "content": "Yeti 0.2.9リリース。\n\nタイムアウトの設定、YUI Test Coverageの結果表示ができるように",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "LucidJS Event Emitters - Make your code Lucid.",
+            "url": "http://robertwhurst.github.com/LucidJS/",
+            "content": "Event Emitterライブラリ。\n\non/once/trigger/set(like trigger)/pipe/clear.\n\nMeta Eventやドット区切りのSub Eventsもサポートしてる",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "A guide to 2ality’s posts on the JavaScript language",
+            "url": "http://www.2ality.com/2012/08/guide-jslang.html",
+            "content": "Dr.AxelのJavaScriptについての記事目次。\n\n基本的なことから、歴史、ES.next等かなり深い所までかかれていて幅広い",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: Html5 Hacking and Javascript Security: Attacks and Defenses [Hardcover]: Shreeraj Shah",
+            "url": "http://www.amazon.com/o/ASIN/1466565314/book042-22/ref=nosim",
+            "content": "2012年6月15日発売\n\nHTML5に関するセキュリティ本\n\nhttp://shreeraj.blogspot.jp/",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "linq.js ver.3 and JavaScript in Visual Studio 2012",
+            "url": "http://www.slideshare.net/neuecc/linqjs-ver3-and-visual-studio-2012-in-javascript",
+            "content": "linq.js についてのスライド",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript MVC: Client vs Server - Google ドキュメント",
+            "url": "https://docs.google.com/presentation/d/1K4RY_1dOi2o_0RBPTr05WL0Vr9E28rRJsnbUP23D6hc/present#slide=id.gf37f796_147_0",
+            "content": "JavaScriptとMVC系の過去/現在/未来を簡単にまとめたスライド",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Getting HTML5 Ready - ContentEditable : Remote Synthesis",
+            "url": "http://www.remotesynthesis.com/post.cfm/getting-html5-ready-contenteditable",
+            "content": "ContentEditableのブラウザ毎の対応について",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "コンテントセキュリティポリシー入門 - ずっと君のターン",
+            "url": "http://d.hatena.ne.jp/technohippy/20120820#1345469971",
+            "content": "HTML5RocksのCSPについての記事翻訳。 ",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon.co.jp： JavaScript逆引きハンドブック: 古籏 一浩: 本",
+            "url": "http://www.amazon.co.jp/o/ASIN/4863541082/book042-22/ref=nosim",
+            "content": "2012年9月10日発売\n\n864ページ、JavaScript逆引き本",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Web Reflection: A Safer JS Environment",
+            "url": "http://webreflection.blogspot.jp/2012/08/a-safer-js-environment.html",
+            "content": "this, Object.prototypeのfreezeする事について\n\nグローバル汚染をfreezeする利点について。\n\n",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery UI 1.9 RC « jQuery UI Blog",
+            "url": "http://blog.jqueryui.com/2012/08/jquery-ui-1-9-rc/",
+            "content": "jQuery UI 1.9 RC リリース",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Sass 3.2 is released",
+            "url": "http://chriseppstein.github.com/blog/2012/08/23/sass-3-2-is-released/",
+            "content": "Sass 3.2の機能紹介や変更点。\n\nプレースホルダーセレクタ、\n\nSelectors Level 4、Variable Arguments、Directive Interpolation、新しい関数、nullデータ等",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "リッチスマートフォンWebアプリのメモリ管理｜1 pixel｜サイバーエージェント公式クリエイターズブログ",
+            "url": "http://ameblo.jp/ca-1pixel/entry-11333270027.html",
+            "content": "JavaScriptのメモリまわりのデバッグ方法について。\n\nWeb Inspectorの Heap Snapshotを使ってオブジェクトが開放されているかを確認する。image poolを作ってメモリ使用量を抑える方法についえ",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Mocha 1.4.0 - TJ Holowaychuk",
+            "url": "http://tjholowaychuk.com/post/29996505898/mocha-1-4-0",
+            "content": "Mocha 1.4.0リリース",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "idiomatic.js/translations/ja_JP at master · rwldrn/idiomatic.js",
+            "url": "https://github.com/rwldrn/idiomatic.js/tree/master/translations/ja_JP",
+            "content": "\"一貫性のある慣用的なJavaScriptの書き方\" コーディングルール的なものの和訳。\n\n癖が少なく良く出来てる",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "nathansmith/javascript-quiz",
+            "url": "https://github.com/nathansmith/javascript-quiz",
+            "content": "JavaScript Quiz",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Version 0.8.8 (stable)",
+            "url": "http://blog.nodejs.org/2012/08/22/node-v0-8-8-stable/",
+            "content": "Node.js 0.8.8リリース",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: Single Page Web Applications: JavaScript end-to-end [Paperback]: Michael Mikowski, Josh Powell",
+            "url": "http://www.amazon.com/o/ASIN/1617290750/book042-22/ref=nosim",
+            "content": "2013年1月28日発売\n\nシングルページWebアプリについての書籍",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript for Cats",
+            "url": "http://jsforcats.com/",
+            "content": "猫でも分かるJavaScript\n\nプログラミング初心者向け",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Bootstrap 2.1.0 released · Twitter Bootstrap Blog",
+            "url": "http://blog.getbootstrap.com/2012/08/20/bootstrap-2-1-0-released/",
+            "content": "Twitter Bootstrap 2.1.0リリース",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: HTML5(ファイブ)+JavaScript+CSS+Web [単行本]: 大西 武",
+            "url": "http://www.amazon.co.jp/o/ASIN/4798034630/book042-22/ref=nosim",
+            "content": "2012/8/21発売",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Infinity.js",
+            "url": "http://airbnb.github.com/infinity/",
+            "content": "JavaScriptでiOSのUITableViewライクな実装。\n\nリストで表示される領域の前後だけを実際に描画したり、表示をキャッシュしてスクロールに合わせて描画してる。\n\nコメント付きのソースコードを公開してる",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "ES5 features on iOS/Android's default browser - 愛と勇気と缶ビール",
+            "url": "http://d.hatena.ne.jp/zentoo/20120819/1345378440",
+            "content": "iOS/AndroidのECMAScript 5 compatibility tableの調査まとめ",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Changelog · bestiejs/lodash Wiki",
+            "url": "https://github.com/bestiejs/lodash/wiki/Changelog",
+            "content": "underscore.jsの互換ライブラリのLo-Dash v0.5.1リリース\n\nhttps://github.com/bestiejs/lodash/compare/v0.4.2...v0.5.1",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Comparing v0.4.2...v0.5.1 · bestiejs/lodash",
+            "url": "https://github.com/bestiejs/lodash/compare/v0.4.2...v0.5.1",
+            "content": "underscore.jsの互換ライブラリのLo-Dash v0.5.1リリース",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Developers We Admire. « Paul Irish",
+            "url": "http://paulirish.com/2012/developers-we-admire/",
+            "content": "Paul版注目すべき人リスト",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "25 JS Developers You Must Follow On Twitter",
+            "url": "http://blog.crossrider.com/post/28828010399/25-js-developers-you-must-follow-on-twitter",
+            "content": "JavaScript関係とかでフォローすべき人Google+版\n\nhttps://plus.google.com/u/0/114798913484842413424/posts/LkqX3FrYE5Q",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Tagneto: RequireJS 2.0.6 released",
+            "url": "http://tagneto.blogspot.com/2012/08/requirejs-206-released.html",
+            "content": "RequireJS 2.0.6 リリース",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Debugging your JavaScript app using WebStorm",
+            "url": "http://www.gamefromscratch.com/post/2012/08/17/Debugging-with-JavaScript-with-WebStorm.aspx",
+            "content": "WebStormを使ったデバッグ方法について。内蔵してるデバッガーの使い方について",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Localised JavaScript",
+            "url": "http://fhtr.org/js-i18n/",
+            "content": "JavaScriptを英語以外の言語に変換するライブラリ。\n\nキーワードとか関数を日本語にしたりできる。",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "wesleyhales.com: Web Performance Testing With PhantomJS",
+            "url": "http://wesleyhales.com/blog/2012/08/16/Site-Load-Time-Testing-with-PhantomJS/",
+            "content": "phamtomJSを使ったパフォーマンス測定とappcache生成スクリプトについて\n\nhttps://github.com/jamesgpearce/confess/",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "High-Performance, Garbage-Collector-Friendly Code - Build New Games",
+            "url": "http://buildnewgames.com/garbage-collector-friendly-code",
+            "content": "JavaScriptとガーベッジコレクションについて。\n\nChromeを使ったメモリ測定方法\n\nhttp://efcl.info/2010/1226/res2191/\n\nObject Poolの実装について。",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Third Party JavaScript In The Third Person - Alex Sexton",
+            "url": "http://alexsexton.com/blog/2012/08/third-party-javascript-in-the-third-person",
+            "content": "サードパーティJavaScriptについての発表。\n\nSame Origin Policyやiframe、サードパーティボタンのキャシュについて",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "サイト制作時のメモ 2012年前半 | Unformed Building",
+            "url": "http://unformedbuilding.com/articles/webdevelopment-memo-2012-first-half/",
+            "content": "Graceful Degradation、多言語対応(アジア系)、Android/iOSのモバイル対応について注意点や参考サイトなどについて",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "» Safari 6 and Chrome 21 add image-set to support retina images Cloud Four Blog",
+            "url": "http://blog.cloudfour.com/safari-6-and-chrome-21-add-image-set-to-support-retina-images/",
+            "content": "Webkit系にprefix付き実装されたimage-setについて。\n\nデバイスピクセル比によって出す画像を変える。\n\nhttp://myakura.hatenablog.com/entry/2012/03/23/040058 も参照",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Benchmark.js",
+            "url": "http://benchmarkjs.com/",
+            "content": "jsPerfなどでも使われてるBenchmark.js v 1.0.0がリリース\n\nhttps://github.com/bestiejs/benchmark.js/compare/0.3.0...v1.0.0",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "古いブラウザでSVG表示ができるSIE 3 の公開 - プラグインレスでSVGを表示する「SIE」開発ブログ",
+            "url": "http://d.hatena.ne.jp/dhrname/20120818/p1",
+            "content": "SIE 3リリース",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "jsPerf, JSPerfView を使った、JavaScript コードのベンチマーク計測とブログなどで計測結果を利用する方法 : document",
+            "url": "http://blog.livedoor.jp/imaya_js/archives/5850053.html",
+            "content": "jsPerfで計測したデータのグラフを埋め込みで表示する方法",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "When milliseconds are not enough: performance.now() - HTML5Rocks Updates",
+            "url": "http://updates.html5rocks.com/2012/08/When-milliseconds-are-not-enough-performance-now",
+            "content": "performance.now()の使い所について",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript で書かれた ZLIB の伸張速度比較 : document",
+            "url": "http://blog.livedoor.jp/imaya_js/archives/5841859.html",
+            "content": "JavaScriptのZLIBライブラリの比較",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Dojo 1.8 Released! | The Dojo Toolkit Blog",
+            "url": "http://dojotoolkit.org/blog/dojo-1-8-released",
+            "content": "Dojo 1.8リリース\n\nドキュメントページを改善、request,router,promiseやUIコンポーネントの追加等",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "File: SASS_CHANGELOG",
+            "url": "http://sass-lang.com/docs/yardoc/file.SASS_CHANGELOG.html",
+            "content": "Sass 3.2.0(3.2.1)リリース\n\n@content, Placeholder Selectors, Variable Arguments, Directive Interpolation",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Version 0.8.7 (stable)",
+            "url": "http://blog.nodejs.org/2012/08/15/node-v0-8-7-stable/",
+            "content": "Node.js  0.8.7リリース",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery UI 1.8.23 « jQuery UI Blog",
+            "url": "http://blog.jqueryui.com/2012/08/jquery-ui-1-8-23/",
+            "content": "jQuery UI 1.8.23リリース\n\nメンテナンスリリース",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript for… by Thomas S. Bradford [Leanpub PDF/iPad/Kindle]",
+            "url": "https://leanpub.com/javascriptforassholes",
+            "content": "\"JavaScript for Assholes\"\n\n変わった感じのJavaScript電子書籍",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript Syntax // Speaker Deck",
+            "url": "https://speakerdeck.com/u/ynonperek/p/javascript-syntax",
+            "content": "JavaScriptの基本的な文法からprototypeとか幅広く書かれているスライド。\n\nhttp://www.slideshare.net/dominion/javascript-blast とかに近い感じ",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "ES.next - class, arrow, quasi etc.",
+            "url": "http://constellation.github.com/slides/contents/20120812/presentation.html#slide1",
+            "content": "ES.nextのclassの仕組みついての解説、\n\nどのようにしてsuperを解決できるようになっているか。\n\nArrow functionについて、thisがどのように解決されているかの図解。\n\nQuasiLiteral(template string)の機能解説",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "CoffeeScript is Beautiful & I Never Want to Write Plain JavaScript Again // Speaker Deck",
+            "url": "https://speakerdeck.com/u/sstephenson/p/coffeescript-is-beautiful-i-never-want-to-write-plain-javascript-again",
+            "content": "CoffeeScriptの紹介スライド。\n\nCoffeeScriptの好きな所を10個ほど紹介してる",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "escodegen + esprima で JS のデバッグをしたら捗りそう - tokuhirom's blog.",
+            "url": "http://blog.64p.org/entry/2012/08/13/173120",
+            "content": "一見不可解なコードをesprimaでJavaScriptのASTを取り出して、escodegen でASTからコードジェネレートして、どう見えてるのかを可視化するデバッグ",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: HTML5/JavaScriptとPhoneGapで作るiPhoneアプリ開発入門 [単行本（ソフトカバー）]: 富田 宏昭",
+            "url": "http://www.amazon.co.jp/o/ASIN/4839943710/book042-22/ref=nosim",
+            "content": "2012年8月31日発売",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "JSNetworkX by fkling",
+            "url": "http://felix-kling.de/JSNetworkX/",
+            "content": "Pythonのネットワーク構造を可視化するグラフライブラリNetworkXのJavaScriptポート",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Sassを簡単に使うためのツール SassTray - ういはるかぜの化学 - subtech",
+            "url": "http://subtech.g.hatena.ne.jp/mayuki/20120812/1344754131",
+            "content": "WindowsでSass watchを行えるGUIツール",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Akamai IO",
+            "url": "http://www.akamai.com/html/io/index1.html",
+            "content": "Akamaiのブラウザシェアデータ等が航海されてる。",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Leak Finder: a new tool for JavaScript - Google Open Source Blog",
+            "url": "http://google-opensource.blogspot.com/2012/08/leak-finder-new-tool-for-javascript.html",
+            "content": "Chromeを使ったJavaScriptのメモリリーク解析ツール。",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Callback Hell",
+            "url": "http://callbackhell.com/",
+            "content": "Callback地獄になってしまった非同期のプログラムをどう解決していくべきかについてのサイト",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Getting Bitwise with JavaScript - Bocoup",
+            "url": "http://weblog.bocoup.com/getting-bitwise-with-javascript/",
+            "content": "JavaScriptでビット演算について学ぶ",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Tagneto: RequireJS 2.0.5 released",
+            "url": "http://tagneto.blogspot.com/2012/08/requirejs-205-released.html",
+            "content": "RequireJS 2.0.5リリース\n\nr.jsでparse.jsからesprimaを使うように変更",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "How to add Notification Center support to your website or app",
+            "url": "http://www.fngtps.com/2012/how-to-add-notification-center-notifications-to-your-web-app/",
+            "content": "Mac SafariにもwebkitNotificationsが実装された",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "DataURI Maximum length - latest log",
+            "url": "http://uupaa.hatenablog.com/entry/2012/08/09/165800",
+            "content": "ブラウザ別のDataURIの最大サイズまとめ",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "The Problem with Native JavaScript APIs - O'Reilly Media",
+            "url": "http://oreillynet.com/oreilly/javascript/radarreports/native-javascript-apis.csp",
+            "content": "ネイティブ機能と互換な機能を実装するときにfacade(異なるインタフェース)とpolyfill(ネイティブと同じインタフェース)のどちらを選ぶのか。\n\nmatchMedia()を例に書かれてる",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "The Past, Present, and Future of JavaScript - O'Reilly Media",
+            "url": "http://oreillynet.com/oreilly/javascript/radarreports/past-present-future-javascript.csp",
+            "content": "JavaScriptの過去/現在/未来について書かれた無料の電子書籍\n\n未来のところはAPIレベルの話やWebアプリではないJavaScriptの話等結構幅広い",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery Blog » jQuery 1.8 Released",
+            "url": "http://blog.jquery.com/2012/08/09/jquery-1-8-released/",
+            "content": "jQuery 1.8リリース",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript でメディアクエリを行う window.matchMedia の使い方 | Mozilla Developer Street (modest)",
+            "url": "https://dev.mozilla.jp/2012/08/using-window-matchmedia-to-do-media-queries-in-javascript/",
+            "content": "matchMediaの使い方、機能について",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Tools and Techniques for Faster Development",
+            "url": "http://www.slideshare.net/jtaby/tools-and-techniques-for-faster-development",
+            "content": "Chrome Developer Toolsの各機能についての紹介スライド。\n\nまたiTerm2,Gix(L),xScope等のツールについても",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Greatest tool for sorting CSS properties in specific order",
+            "url": "http://csscomb.com/",
+            "content": "CSSのプロパティのソートを行なってくれるツール。\n\nエディタ向けのプラグインとオンラインでも動作する",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "ご存知、ないのですか？CSSの優先順位",
+            "url": "http://www.slideshare.net/yumi-uniq-ishizaki/css-13918388",
+            "content": "CSSの優先順位の計算式について",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Prototype JavaScript framework: Prototype 1.7.1",
+            "url": "http://prototypejs.org/2012/8/8/prototype-1-7-1",
+            "content": "Prototype.js 1.7.1リリース\n\ndom.jsの書き直しやES5への互換性等。\n\nPrototype.jsの今後についても書かれてる。",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Version 0.8.6 (stable)",
+            "url": "http://blog.nodejs.org/2012/08/07/node-v0-8-6-stable/",
+            "content": "Node.js 0.8.6 リリース\n\nLinux等向けのバイナリ配布を開始",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Yeti 0.2.8 released",
+            "url": "http://yeti.cx/blog/2012/08/yeti-0-2-8-released/",
+            "content": "Yeti 0.2.8 リリース",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Ben Alman » Why grunt? Why not something else?",
+            "url": "http://benalman.com/news/2012/08/why-grunt/",
+            "content": "なぜgruntなのか",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Rich JavaScript Applications – the Seven Frameworks (Throne of JS, 2012) - Steve Sanderson’s blog - As seen on YouTube™",
+            "url": "http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/",
+            "content": "MVC系フレームワークの比較まとめ。\n\n機能別、Who/What/Why/Where/Whenの項目で書かれてる",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Master of the :nth-child | CSS3 pseudo classes and :nth-child ranges",
+            "url": "http://nthmaster.com/",
+            "content": ":nth-childと:nth-of-typeについて視覚的に学べるサイト",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Sinon.JS - Versatile standalone test spies, stubs and mocks for JavaScript",
+            "url": "http://sinonjs.org/",
+            "content": "Sinon.JSのGetting startedが更新された",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Processing.js",
+            "url": "http://processingjs.org/blog/2012/07/31/processing-js-v1-4-0-released.html",
+            "content": "Processing.js 1.4.0リリース",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Jam :: Require.jsを使う時に便利そうなパッケージマネージャ - Playground of Mine",
+            "url": "http://d.hatena.ne.jp/sDaigo/20120705/1341460980",
+            "content": "クライアントサイドJavaScriptのパッケージマネージャであるJamの使い方",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Yeti 0.2.7 released",
+            "url": "http://yeti.cx/blog/2012/08/yeti-0-2-7-released/",
+            "content": "YUIのCLIツールYeti 0.2.7 リリース",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Efendi Books - Testing with CoffeeScript",
+            "url": "https://efendibooks.com/minibooks/testing-with-coffeescript",
+            "content": "JasmineとCoffeeScriptを使ったテストについての50ページほどの電子書籍(Free)\n\n1. 導入 2. テストを書いてコードを書く 3.リファクタリング 4. stubなどを使ったテスト\n\n著者は javascriptplayground.com の方",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "彩雲｜マーケットシェアチェックツール",
+            "url": "http://marketshare.biz-samurai.com/",
+            "content": "忍者アクセス解析を使ったブラウザのシェアチェックツール。\n\nStatCounterみたいな感じ",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Support for @supports in Firefox Nightly • Cameron McCormack's blog",
+            "url": "http://mcc.id.au/blog/2012/08/supports",
+            "content": "Firefox NightlyでCSSの@supportsをサポートした。",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Piecon / Pie charts in your favicon!",
+            "url": "http://lipka.github.com/piecon/",
+            "content": "ファビコンにプログレス円グラフを表示するライブラリ",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Takeshi Yoshino - Google+ - The WebSocket Protocol (RFC 6455) の歴史 WebSocket…",
+            "url": "https://plus.google.com/u/0/103969044621963378195/posts/af6Fg972tGQ",
+            "content": "WebSocketの歴史\n\nSec-等のセキュリティ対策の仕様ができた理由とか",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "blittle/jstesting · GitHub",
+            "url": "https://github.com/blittle/jstesting",
+            "content": "AMD, Sinon.JS. Jasmine, jsTestDriver, PhantomJS を使ったJavaScriptのテスト構成のテンプレ",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "New in 5.0: Google Closure Compiler JSDoc annotations | WebStorm & PhpStorm Blog",
+            "url": "http://blog.jetbrains.com/webide/2012/08/closure-syntax/",
+            "content": "WebStorm5.0でGoogle Closure Compilerの JSDoc記法をサポート\n\n",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Automating Unit Tests | Blog | Sencha",
+            "url": "http://www.sencha.com/blog/automating-unit-tests/",
+            "content": "Senchaを使ったアプリでUnit Test + Lint + UI Testsについての記事",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "JSBooks",
+            "url": "http://jsmag.revolunet.com/",
+            "content": "オンラインで公開されてるJavaScript関連の書籍的なものをまとめたページ",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Announcing YUI 3.6.0 » Yahoo! User Interface Blog (YUIBlog)",
+            "url": "http://www.yuiblog.com/blog/2012/08/01/announcing-yui-3-6-0/",
+            "content": "YUI3.6.0リリース。",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Announcing jQuery Mobile 1.2.0 Alpha | jQuery Mobile",
+            "url": "http://jquerymobile.com/blog/2012/08/01/announcing-jquery-mobile-1-2-0-alpha/",
+            "content": "jQuery Mobile 1.2.0αリリース\n\nPopup APIの追加、折りたたみリスト、vmouse eventがダウンロードビルダーでstandaloneとして使えるように",
+            "date": "2012-08-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: JavaScriptテクニックバイブル ~効率的な開発に役立つ150の技 [単行本（ソフトカバー）]: JSサポーターズ",
+            "url": "http://www.amazon.co.jp/o/ASIN/4774152439/book042-22/ref=nosim",
+            "content": "2012年8月31日発売\n\n\"逆引きリファレンスとして活用できるテクニック集\"",
+            "date": "2012-08-31T15:00:00.000Z"
+        }
+    ]
+}

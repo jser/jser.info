@@ -1,0 +1,448 @@
+{
+    "list": [
+        {
+            "title": "サーバサイドJavaScriptの本命「node.js」の基礎知識（1/3）- ＠IT",
+            "url": "http://www.atmarkit.co.jp/fwcr/rensai2/nodejs01/01.html",
+            "content": "node.js入門の記事。\n\nnode.jsとnpmのインストール手順の解説",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript対応APIドキュメント生成ツールのまとめ | Web scratch",
+            "url": "http://efcl.info/2011/0226/res2291/",
+            "content": "JavaScript内のコメントからドキュメントを生成するツールのまとめ",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "danwrong/loadrunner - GitHub",
+            "url": "https://github.com/danwrong/loadrunner",
+            "content": "依存関係解決、非同期ローダ。\n\nコマンドラインのビルドツールが付いていて一つのminifyされたファイルにまとめることもできる。",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "みなさん、Qt の JavaScript はますます速くなります",
+            "url": "http://qt-labs.jp/2011/02/25/qt-people-our-javascript-platform-is-burning-rubber.html",
+            "content": "Qt でGoogleのV8 JavaScript エンジンの利用について研究を行っているそうです。\n\n",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "dherman/structsjs - GitHub",
+            "url": "https://github.com/dherman/structsjs",
+            "content": "(typedarrayに代わるものとして提案されてた)ECMAScript Binary Data APIの実装ライブラリ(プロトタイプレベル)\n\n-http://wiki.ecmascript.org/doku.php?id=strawman:binary_data",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Unit Testing in JavaScript | Agile Pain Relief",
+            "url": "http://agilepainrelief.com/notesfromatooluser/2008/11/unit-testing-in-javascript.html",
+            "content": "JavaScriptのテスト関係のリンク集",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery: » jQuery 1.5.1 Released",
+            "url": "http://blog.jquery.com/2011/02/24/jquery-151-released/",
+            "content": "jQuery1.5が正式リリース。\n\nIE9RCをサポートや$.ajax()周りにオプションが追加された",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Why I forked JSLint to JSHint",
+            "url": "http://anton.kovalyov.net/2011/02/20/why-i-forked-jslint-to-jshint/",
+            "content": "なぜJSLintをフォークしてJSHintを始めたのかについてAnton Kovalyovさんが書いている。\n\nコメント欄も併せて",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: Applied jQuery: Jay Blanchard",
+            "url": "http://www.amazon.com/o/ASIN/0321772563/book042-22/ref=nosim",
+            "content": "2011年8月25日発売\n\n著者はjQueryコミュニティとかで活動している人みたいです",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Python的format関数 - 箱入りあじゃらの日記",
+            "url": "http://d.hatena.ne.jp/ajalabox/20110223/1298448703",
+            "content": "Pythonのformat関数のようなものをJavaScriptでも",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "EGit",
+            "url": "http://www.eclipse.org/egit/",
+            "content": "Eclipse向けのGitプラグイン",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "알찬돌삐",
+            "url": "http://dev.i-swear.com/barcode/info.php",
+            "content": "JavaScriptでバーコードを生成。\n\ndivタグを並べて表示",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Episode 0.4.9 - Git, Showoff, and XBox Kinect with Scott Chacon - The Changelog - Open Source moves fast. Keep up.",
+            "url": "http://thechangelog.com/post/3445186374/episode-0-4-9-git-showoff-and-xbox-kinect-with-scott-cha",
+            "content": "gitを中心として書籍やツールなどの紹介",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "httpstat.us",
+            "url": "http://httpstat.us/",
+            "content": "必要なHTTPレスポンスコードを返してくれるサービス。テストなどに利用できそう\n\n",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "『rsms/move - GitHub』",
+            "url": "https://github.com/rsms/move",
+            "content": "JavaScriptにコンパイルできるメタ言語\n\n関数を^で表せたり、export,importな機能がある。",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: Jquery Plugin Development Beginner's Guide: Giulio Bai",
+            "url": "http://www.amazon.co.jp/o/ASIN/1849512248/book042-22/ref=nosim",
+            "content": "jQueryプラグイン開発入門本\n\n-<a href=\"https://www.packtpub.com/jquery-plugin-development-beginners-guide/book#in_detail\" title=\"jQuery Plugin Development Beginner&apos;s Guide Book &amp; eBook | Packt Publishing Technical &amp; IT Book Store\">jQuery Plugin Development Beginner's Guide Book &amp; eBook | Packt Publishing Technical &amp; IT Book Store</a>",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "『JSHint, A JavaScript Code Quality Tool』",
+            "url": "http://jshint.com/",
+            "content": "JSLintをフォークしたもの。\n\n個人というよりコミュニティやチームといった視点が置かれたコーディングルールチェックツール。\n\n",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Effective JavaScriptをPDFにしました - renoivのブログ",
+            "url": "http://d.hatena.ne.jp/renoiv/20110218/1298034375",
+            "content": "Webで公開されていた、Effective JavaScriptのPDF版の配布",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Command-line CSS spriting / Stoyan's phpied.com",
+            "url": "http://www.phpied.com/command-line-css-spriting/",
+            "content": "Imagemagickを使ってコマンドラインからCSSスプライトを作成\n\n",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "ruidlopes/minimal.js - GitHub",
+            "url": "https://github.com/ruidlopes/minimal.js",
+            "content": "HTML/JSONテンプレートエンジン。\n\nJSONライクな形式からHTMLタグのテンプレートを生成するライブラリ",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "2011-02-20 - 新・たけぞう瀕死の日記",
+            "url": "http://d.hatena.ne.jp/takezoe/20110220#p1",
+            "content": "EclipseHTMLEditor 2.1.0がリリース\n\nJavaScript系の機能が大幅に強化されています",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Javascript JSON parser",
+            "url": "http://asenbozhilov.com/json.html",
+            "content": "ECMA-262-5に基づいたJSON.parseの実装ライブラリ\n\nブラウザJSON.parseがないブラウザ向けに使うのではなくて、JSON文字列のデバッグやテスト向けの用途として開発",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: Head First HTML5: Eric T Freeman, Elisabeth Robson",
+            "url": "http://www.amazon.com/o/ASIN/1449390544/book042-22/ref=nosim",
+            "content": "2011年7月15日発売\n\nHead FirstシリーズのHTML5本\n\n-<a href=\"http://oreilly.com/catalog/0636920010906/\" title=\"Head First HTML5 - O&apos;Reilly Media\">Head First HTML5 - O'Reilly Media</a>",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: Head First jQuery: Ryan Benedetti, Ronan Cranley",
+            "url": "http://www.amazon.com/o/ASIN/1449393217/book042-22/ref=nosim",
+            "content": "2011年7月15日発売\n\nHead FirstシリーズのjQuery本\n\n-<a href=\"http://oreilly.com/catalog/0636920012740\" title=\"Head First jQuery - O&apos;Reilly Media\">Head First jQuery - O'Reilly Media</a>",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: Node: Up and Running: Scalable Server-Side Code with JavaScript: Tom Hughes-Croucher",
+            "url": "http://www.amazon.com/o/ASIN/1449398588/book042-22/ref=nosim",
+            "content": "2011年7月15日発売\n\nNode.js本",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Software is hard | Firebug Tip: using command line within an iframe",
+            "url": "http://www.softwareishard.com/blog/planet-mozilla/firebug-tip-using-command-line-within-an-iframe/",
+            "content": "Firebugのcdコマンドについての紹介。\n\ncdコマンドを使えばframeの移動ができる",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "『Internet Explorer 9 Guide for Developers』",
+            "url": "http://msdn.microsoft.com/en-us/ie/ff468705",
+            "content": "IE9での変更点をまとめた開発者向けのページ",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "モバイルアプリケーション開発のためのHTML/CSS/JavaScript関連技術まとめ － Publickey",
+            "url": "http://www.publickey1.jp/blog/11/htmlcssjavascript.html",
+            "content": "モバイル対応のJavaScriptライブラリや、Titanium Mobileのようなネイティブアプリケーション作成ツールのまとめ。",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Internet Explorer UA Style Sheets",
+            "url": "http://www.iecss.com/",
+            "content": "IEのバージョン別デフォルトスタイルシート。\n\nIE6-IE9まで",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "IE9 on Windows Phone - IEBlog - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/ie/archive/2011/02/14/ie9-on-windows-phone.aspx",
+            "content": "Windows PhoneのブラウザがIE7からIE9になる。",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "『kriskowal/zip - GitHub』",
+            "url": "https://github.com/kriskowal/zip",
+            "content": "Node.js向けのunzip実装",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Webfont 사용하기 | FRENDS.KR",
+            "url": "http://frends.kr/topics/webfont-%ec%82%ac%ec%9a%a9%ed%95%98%ea%b8%b0/",
+            "content": "@font-faceでのWebフォントについて。\n\nそれぞれのブラウザごとのFont Type対応表\n\nDaum_Regular.ttfの場合のフォントサイズ比較\n\nレンダリングの違いではWindowsの場合ブラウザによってまちまちな描画になっている。\n\n→結論としてWiindowsできれいなフォント表示するには画像かフラッシュを使う\n\nweb fontsの比較(ライブラリやPHPやFlashを使ったもの)\n\n-<a href=\"http://socialcompare.com/en/comparison/comparison-of-web-fonts-solutions-7d0b3w9\" title=\"Comparison of web fonts solutions | SocialCompare - Comparisons community\">Comparison of web fonts solutions | SocialCompare - Comparisons community</a>\n\nで、この中で一番よかったのは<a href=\"https://github.com/sorccu/cufon/wiki/about\" title=\"Cuf&#xF3;n\">Cufón</a>というJavaScriptライブラリ。(フォントサイズは大きくなるのが欠点)\n\nサイズは大きくなるけど、フォントサブセット(使うものだけ埋め込む)gzip圧縮する(mod_gzip使用)と、220kbぐらいになりブラウザ間の際はほとんどなくなった。\n\n結論\n\n1.WindowsではCufónを使い、Mac / Linuxでは@font-faceを使う\n\n2.プラットフォームで分けるのが面倒なら<a href=\"https://github.com/sorccu/cufon/wiki/about\" title=\"Cuf&#xF3;n\">Cufón</a>を使う\n\n3. 1,2がいやならFlashを使う\n\n@font-faceの利用にする場合に読んでおくべきURL\n\n# http://paulirish.com/2009/fighting-the-font-face-fout/\n\n# http://paulirish.com/2009/bulletproof-font-face-implementation-syntax/ http://paulirish.com/2009/bulletproof-font-face-implementation-syntax/\n\n# http://paulirish.com/2010/font-face-gotchas/ http://paulirish.com/2010/font-face-gotchas/ ",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "balupton/History.js - GitHub",
+            "url": "https://github.com/balupton/History.js",
+            "content": "HTML5 History/State APIをすべてのブラウザで使えるようにするライブラリ。\n\nHistory API未対応のブラウザは#フラグメントを利用する",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery内部のエラー処理について | バシャログ。",
+            "url": "http://c-brains.jp/blog/wsg/11/02/13-080934.php",
+            "content": "jQueryのerror処理について。\n\njQuery.errorのコードを追ってみてわかること",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "IE9RC で document が const になり再定義が不可能になった - latest log",
+            "url": "http://d.hatena.ne.jp/uupaa/20110211/1297409300",
+            "content": "IE9RCのdocumentの再定義についてとナビ子記法の導入について\n\n-<a href=\"http://handsout.jp/slide/1883\" title=\"2&#x5206;&#x3067;&#x308F;&#x304B;&#x308B; uupaa.js &#x306E; Debug Navigation :: handsOut.jp\">2分でわかる uupaa.js の Debug Navigation :: handsOut.jp</a>",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Sass - チュートリアル",
+            "url": "http://hail2u.net/documents/sass-tutorial.html",
+            "content": "Sassチュートリアルの日本語訳",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "narwhal - introduction",
+            "url": "http://narwhaljs.org/",
+            "content": "CommonJSに基づいたサーバーサイドJavaScript環境",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Benchmark.js",
+            "url": "http://benchmarkjs.com/",
+            "content": "jsPerfでも使われているベンチマーク計測ライブラリ。ブラウザ、コンソール、node.js、Javaアプレット(nano秒対応)とほとんどの環境に対応している。\n\nJavaScriptのコード速度の比較にはjsPerfが便利です\n\n-<a href=\"http://jsperf.com/\" title=\"jsPerf: JavaScript performance playground\">jsPerf: JavaScript performance playground</a>",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript Garden",
+            "url": "http://bonsaiden.github.com/JavaScript-Garden/",
+            "content": "JavaScriptの変わってるとこやパフォーマンスや仕組みなどかなり詳細に書かれた内容。\n\nかなり深く掘り下げていたりしてJavaScript Patternsと同じくらい薦められる読み物。\n\n読んでいたときのメモ書きを公開してあります。\n\n-<a href=\"http://efcl.info/adiary/Javascript/JavaScriptGarden\" title=\"JavaScript Garden&#x306E;&#x8AAD;&#x66F8;&#x30E1;&#x30E2; - prog*sig\">JavaScript Gardenの読書メモ - prog*sig</a>",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "ゆっくりと… » ブラウザ動作の理解－レンダリングの負荷を測る",
+            "url": "http://tokkono.cute.coocan.jp/blog/slow/index.php/web-technology/visualization-of-rendering-activity/",
+            "content": "リフローなどの時間をGUIで確認できるツールについての紹介\n\ndynaTrace(IE,Firefox向けベータもでた)とSpeedTracer(Webkit)を使ってリフローの観測",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "CSS minifiers comparison / Stoyan's phpied.com",
+            "url": "http://www.phpied.com/css-minifiers-comparison/",
+            "content": "CSS圧縮ツールの比較\n\ncssminjs,CSSTidy-small,ajaxmin",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Sass、そしてSassy CSS (SCSS)",
+            "url": "http://hail2u.net/documents/sass-and-sassy-css.html",
+            "content": "CSSを拡張したメタ言語のSass,SCSSについての解説。\n\nSCSSを使ってCSSフレームワークを作る方法について紹介されている",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Github Trends",
+            "url": "http://github-trends.oscardelben.com/",
+            "content": "GitHubのトレンドをRSS配信。\n\n-<a href=\"https://github.com/languages/\" title=\"Top Languages - GitHub\">Top Languages - GitHub</a>",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "HTML5 Games 0.2: Integers are Your Friends - Facebook Developers",
+            "url": "https://developers.facebook.com/blog/post/460/",
+            "content": "ゲームプラットフォームとしてのブラウザのパフォーマンス比較",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "『30 Developers you MUST Subscribe to as a JavaScript Junkie | Nettuts+』",
+            "url": "http://net.tutsplus.com/articles/web-roundups/30-developers-you-must-subscribe-to-as-a-javascript-junkie/",
+            "content": "JavaScriptで著名な人のまとめ。\n\nそれぞれブログやTwitterなどがまとまっていて便利",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "v8 at master from einars/js-beautify - GitHub",
+            "url": "https://github.com/einars/js-beautify/tree/master/v8",
+            "content": "Node.js向けのjsbeautify\n\nコマンドラインからjsファイルの整形に使える",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "node v0.4 announcement",
+            "url": "http://nodejs.org/v0.4_announcement.html",
+            "content": "Node.js 0.4がリリース",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Internet Explorer 9 RCの変更点 - NO UIHARU, NO LIFE. - subtech",
+            "url": "http://subtech.g.hatena.ne.jp/mayuki/20110210/1297359952",
+            "content": "タイマーの分解能が変更、documentの再定義が不可になる、window.performanceに変更などなど",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: 体系的に学ぶ 安全なWebアプリケーションの作り方　脆弱性が生まれる原理と対策の実践 (アマゾン文庫): 徳丸 浩",
+            "url": "http://www.amazon.co.jp/o/ASIN/4797361190/book042-22/ref=nosim",
+            "content": "2011/3/3発売\n\n徳丸さんのセキュリティ本\n\nWeb開発者にとってかなり大事な本になっていると思います。\n\n目次はこちらから\n\n-<a href=\"http://www.sbcr.jp/products/4797361193.html\" title=\"&#x30BD;&#x30D5;&#x30C8;&#x30D0;&#x30F3;&#x30AF; &#x30AF;&#x30EA;&#x30A8;&#x30A4;&#x30C6;&#x30A3;&#x30D6;:&#x4F53;&#x7CFB;&#x7684;&#x306B;&#x5B66;&#x3076; &#x5B89;&#x5168;&#x306A;Web&#x30A2;&#x30D7;&#x30EA;&#x30B1;&#x30FC;&#x30B7;&#x30E7;&#x30F3;&#x306E;&#x4F5C;&#x308A;&#x65B9;\">ソフトバンク クリエイティブ:体系的に学ぶ 安全なWebアプリケーションの作り方</a>",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Fastersite: Chrome's 10 Caches",
+            "url": "http://gent.ilcore.com/2011/02/chromes-10-caches.html",
+            "content": "Chromeに入ってる10個のキャッシュ機能をそれぞれ解説。\n\n本当に正確なベンチマークを取るときにどの部分がキャッシュされているのかを知っておく必要がある。",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "各Webブラウザの開発者向けページ - katata_hの日記",
+            "url": "http://d.hatena.ne.jp/lars_t/20100411/1271001418",
+            "content": "ブラウザ毎の開発者向けページのリンク集\n\nソースコード、バグリスト、ディスカッションのページ",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "InternetExplorerの問題を切り分けする際に使えるもの - katata_hの日記",
+            "url": "http://d.hatena.ne.jp/lars_t/20110208/1297187905",
+            "content": "IEの障害切り分けするためのツールや方法\n\nデバッグツール",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "各ブラウザのUTF-7の対応状況 - 葉っぱ日記",
+            "url": "http://d.hatena.ne.jp/hasegawayosuke/20110210/p1",
+            "content": "ブラウザ別UTF-7のサポート状況。\n\nXSSの攻撃手段としてよくあがる",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Video: Paul Irish on HTML5 Boilerplate - Marakana",
+            "url": "http://marakana.com/forums/html5/general/256.html",
+            "content": "HTML5 Boilerplateについての動画 by Paul Irish",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: Sams Teach Yourself HTML, CSS, and JavaScript All in One: Julie C. Meloni",
+            "url": "http://www.amazon.com/o/ASIN/0672333325/book042-22/ref=nosim",
+            "content": "2011年6月6日発売\n\nSams Teach Yourselfシリーズ",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript Typed Arrays",
+            "url": "http://vocamus.net/dave/?p=1258",
+            "content": "Typed Arraysでの sliceメソッドがsubarrayへとリネームされた",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "ブラウザでアニメーションファイル(GIF)をJavaScriptを用いて再生する方法 | GREE Engineers' Blog",
+            "url": "http://labs.gree.jp/blog/2011/02/2800/",
+            "content": "GIF画像をJSONとして読み込んで、JavaScriptでGIFヘッダーを見てフレームごとにデータスキームURIに変換してimgタグで表示。アニメーションGIFはCanvasのフレーム操作を利用して表示\n\n-<a href=\"http://blog.livedoor.jp/dankogai/archives/51067688.html\" title=\"404 Blog Not Found:javascript - Yet Another Base64 transcoder\">404 Blog Not Found:javascript - Yet Another Base64 transcoder</a>",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "JSONPの動的取得+エラー処理 - Okiraku Programming",
+            "url": "http://d.hatena.ne.jp/NeoCat/20110206/1296934235",
+            "content": "JSONPのエラーをキャッチするためにiframeを利用して読み込む方法。\n\nscriptタグのonerrorが実行されないブラウザでも対応できる。",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "WebGL勉強会 第5回で発表して来ました - 強火で進め",
+            "url": "http://d.hatena.ne.jp/nakamura001/20110205/1296913818",
+            "content": "「Learning WebGLで学ぶWebGL入門」のスライド資料\n\n",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "LearnBoost/stylus - GitHub",
+            "url": "https://github.com/LearnBoost/stylus",
+            "content": "Node.js製\n\nCSSに変数などの機能を持たせたメタ言語。\n\nコンパイルすることでCSSとして使用できる。",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Touch Events仕様のEditor's Draftが公開 | Web標準Blog | ミツエーリンクス",
+            "url": "http://standards.mitsue.co.jp/archives/001497.html",
+            "content": "W3CによるTouch EventのEditor's Draftが公開\n\nジェスチャーなどはまだ含まれていない",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "jquery1.5のDeferred Object - 俺の作業ログ",
+            "url": "http://d.hatena.ne.jp/pirosikick/20110203/1296749202",
+            "content": "Deferred Objectの使い方。\n\n時間差で設定してもちゃんとコールバックが呼ばれるのは面白い",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Using Deferreds in jQuery 1.5 | Eric Hynds",
+            "url": "http://www.erichynds.com/jquery/using-deferreds-in-jquery/",
+            "content": "jQuery 1.5で追加されたDeferredについての解説、使い方",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "O'Reilly Japan - JavaScriptパターン",
+            "url": "http://www.oreilly.co.jp/books/9784873114880/",
+            "content": "2011年02月15日発売\n\nJavaScript Patternsの翻訳版\n\n原著で読んでいますがとても良い書籍だと思います。\n\n-<a href=\"http://efcl.info/adiary/JavaScriptPatterns\" title=\"JavaScript Patterns&#x306E;&#x8AAD;&#x66F8;&#x8A18;&#x9332; - prog*sig\">JavaScript Patternsの読書記録 - prog*sig</a>",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Big Sky :: phantomjsをwebkitgtk+で書いてみた。",
+            "url": "http://mattn.kaoriya.net/software/lang/c/20110203044300.htm",
+            "content": "webkitgtk+で実装されたSpecterJS。\n\nphantomjs互換のコマンドラインツール",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Using CSS3 and @font-face to use any custom font on a web site - Robert's talk",
+            "url": "http://robertnyman.com/2011/01/27/using-css3-and-font-face-to-use-any-custom-font-on-a-web-site/",
+            "content": "@font-faceのサポート状況をブラウザ別にまとめてある。\n\nWOFF OpenType TrueType EOT SVG Fontsについてどのブラウザで利用できるかが書いてある。",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "WebStorm 2.0 :: Coming soon!",
+            "url": "http://www.jetbrains.com/webstorm/nextversion/index.html",
+            "content": "高機能なHTML(5)+CSS+JavaScript対応IDEのWebStormのバージョン2.0の特徴が掲載された。\n\nすぐに試したい方は<a href=\"http://confluence.jetbrains.net/display/WI/Web+IDE+EAP\" title=\"EAP\">EAP</a>を見るといいかと思います。\n\n-<a href=\"http://efcl.info/2010/1027/res2023/\" title=\"&#x6700;&#x5F37;&#x306E;JavaScript IDE &#x300C;WebStorm&#x300D;&#x3092;&#x4F7F;&#x3063;&#x3066;&#x307F;&#x305F; | Web scratch\">最強のJavaScript IDE 「WebStorm」を使ってみた | Web scratch</a>",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "ExceptionHub | JavaScript Error Tracking",
+            "url": "http://www.exceptionhub.com/#",
+            "content": "埋め込みコードを入れることでJavaScriptのエラー情報を自動的にログにしれくれるWebサービス",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "窓の杜 - 【REVIEW】「Visual Studio」の“Intellisense”をHTML5対応に「HTML 5 Intellisense」",
+            "url": "http://www.forest.impress.co.jp/docs/review/20110201_422595.html",
+            "content": "Visual StudioでHTML5のタグを対応させるツール",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "結局どうすればいいの？ - Dive Into HTML5",
+            "url": "http://hail2u.net/documents/diveintohtml5-semantics.html",
+            "content": "<a href=\"http://diveintohtml5.org/semantics.html\" title=\"What Does It All Mean? - Dive Into HTML5\">What Does It All Mean? - Dive Into HTML5</a>の日本語訳 \n\n-Doctypeの歴史\n\n-relの属性値について\n\n-HTML5で新しいセマンティックな要素 -Internet Explorerで認識しない要素を扱うハック方法(条件付きコメントと併用)\n\n-navと音声読み上げソフトウェア\n\nなど",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "Chrome 11, a renewed XSS Filter and vertical text for multiple-column layouts « Peter Beverloo",
+            "url": "http://peter.sh/2011/02/chrome-11-a-renewed-xss-filter-and-vertical-text-for-multiple-column-layouts/",
+            "content": "WebkitのXSSフィルターがデザインされ直した。スクリプトの実行をみるよりもHTMLトークナイザーのはき出したものを解析するような方向。\n\nWebkitも<input type=\"number\">をサポート",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "dynaTrace Firefox Closed Beta Program started Application Performance, Scalability and Architecture – The dynaTrace Blog",
+            "url": "http://blog.dynatrace.com/2011/01/28/dynatrace-firefox-closed-beta-program-started/",
+            "content": "IE向けのパフォーマンス調査ツールとして知られるdynaTraceのFirefox版クローズドベータが開始された\n\n-<a href=\"http://web-tan.forum.impressrd.jp/e/2010/07/27/8463\" title=\"IE&#x7528;&#x306E;Firebug&#x304C;&#x6B32;&#x3057;&#x3051;&#x308C;&#x3070;dynaTrace AJAX edition&#xFF08;&#x512A;&#x308C;&#x30E2;&#x30CE;&#xFF09;&#x3092;&#x4F7F;&#x304A;&#x3046;&#xFF01; | Web&#x62C5;&#x5F53;&#x8005;Forum\">IE用のFirebugが欲しければdynaTrace AJAX edition（優れモノ）を使おう！ | Web担当者Forum</a>",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery: » jQuery 1.5 Released",
+            "url": "http://blog.jquery.com/2011/01/31/jquery-15-released/",
+            "content": "jQuery 1.5正式版がリリース\n\nDeferred Objectが追加されている",
+            "date": "2011-02-28T15:00:00.000Z"
+        },
+        {
+            "title": "node.jsとjQueryでスクレイピングするウェブアプリの作り方 | さくらたんどっとびーず",
+            "url": "http://sakuratan.biz/archives/3393",
+            "content": "node.jsとjQueryを使ってスクレイピングを行う解説",
+            "date": "2011-02-28T15:00:00.000Z"
+        }
+    ]
+}

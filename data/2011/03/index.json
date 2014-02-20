@@ -1,0 +1,340 @@
+{
+    "list": [
+        {
+            "title": "Qwery - The Tiny Selector Engine",
+            "url": "http://dustindiaz.com/qwery",
+            "content": "機能を限定して小さく絞ったCSSセレクタエンジン。jQueryとかで有名なSizzleの1/4のサイズ",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Software is hard | Script Execution Analysis in Firefox 4",
+            "url": "http://www.softwareishard.com/blog/firebug/script-execution-analysis-in-firefox-4/",
+            "content": "Fireox3.6と4.0ではインラインスクリプトやScriptタグをつくって入れた外部スクリプトの挙動が少し変わってる。\n\nDOMContentLoadができるだけ早く起きるように工夫されて、無駄な実行待ちなどが減っている。addExternalScriptの実行順は取得順になっている",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Mootoolsについて « Mootips",
+            "url": "http://mootips.org/topics/15/",
+            "content": "Mootoolsの概要\n\n機能紹介やプラグインについて",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "IE9’s Document Modes and JavaScript - IEBlog - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/ie/archive/2011/03/24/ie9-s-document-modes-and-javascript.aspx",
+            "content": "IEのDocumentモードの種類と説明",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Getfirebug Blog » Blog Archive » Firebug Lite 1.3.2",
+            "url": "http://blog.getfirebug.com/2011/03/23/firebug-lite-1-3-2/",
+            "content": "Firebug Lite 1.3.2のリリース。\n\n互換性とブラウザとの結合性強化\n\n“Disable XHR Listener” というオプションがついた",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Androidサイトは横幅何pxで作ればいいのか？ - さくっとモバイル",
+            "url": "http://d.hatena.ne.jp/acidgraphix/20110126/1296018143",
+            "content": "Androidサイト基本320pxがいいという話\n\nAndroidのviewportについて。",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Selectors Level 4",
+            "url": "http://dev.w3.org/csswg/selectors4/",
+            "content": "Selectors Level4のEditor's Draft",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Getfirebug Blog » Blog Archive » Firebug 1.7.0",
+            "url": "http://blog.getfirebug.com/2011/03/21/firebug-1-7-0/",
+            "content": "Firefox4に対応したFirebug1.7.0がリリース",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "defunkt/dotjs - GitHub",
+            "url": "https://github.com/defunkt/dotjs",
+            "content": "サイトのドメイン名と同じ名前のjsファイルをおいて、自動的に読み込んで適応するChrome拡張\n\nFirefox版 https://github.com/rlr/dotjs-addon\n\nFirefox/CSS版 https://github.com/xvzf/firefox.css",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScriptで/.*/()とは何か. - プログラムモグモグ",
+            "url": "http://d.hatena.ne.jp/itchyny/20110322/1300720315",
+            "content": "/.*/.exec(RegExp.input)\n\nRegExpでFizzBuzz",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Firefox 4.0 リリース! - Another 朝顔日記",
+            "url": "http://d.hatena.ne.jp/nyama/20110323/1300842445",
+            "content": "Firefox4リリースリンク",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "PhantomJS: Headless WebKit with JavaScript API",
+            "url": "http://www.phantomjs.org/",
+            "content": "PhantomJSのページ",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Firefox 4 リリースノート",
+            "url": "http://mozilla.jp/firefox/4.0/releasenotes/",
+            "content": "Firefox4のリリース",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Web Dev .NET: JSConsole Remote Debugging and JSBin Live Preview",
+            "url": "http://www.elijahmanor.com/2011/03/jsconsole-remote-debugging-and-jsbin.html",
+            "content": "JSConsoleとJSBin(Live Preview)を使ってiPhoneのmobile safariをリモートでバッグする方法を解説\n\nJSBinでjsbin.livePreview();を実行する事でライブプレビューパネルが開く",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "inception explained as a 4 nested javascript closures — Gist",
+            "url": "https://gist.github.com/659424",
+            "content": "console.groupの実行してわかるサンプル",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "mockko/livereload - GitHub",
+            "url": "https://github.com/mockko/livereload",
+            "content": "Firefox/Chrome/Safari向けのCSS/JSの自動リロード拡張+コマンドラインツール\n\n変更を検知してリロードする",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Getfirebug Blog » Blog Archive » Firebug 1.7.0",
+            "url": "http://blog.getfirebug.com/2011/03/21/firebug-1-7-0/",
+            "content": "Firefox4に対応したFirebug1.7.0がリリース",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "CSS拡張メタ言語「SCSS(Sass)」と「LESS」の比較 - (DxD)∞",
+            "url": "http://dxd8.com/archives/217/",
+            "content": "SassとLESSの比較まとめ。\n\n動作環境や仕様、機能や文法についてよくまとまっている",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: Programming HTML5 Applications: Building Powerful Cross-Platform Environments in Javascript: Zachary Kessin",
+            "url": "http://www.amazon.com/o/ASIN/1449399088/book042-22/ref=nosim",
+            "content": "2011年8月15日発売\n\nHTML5とJavaScriptを使ったアプリケーション開発。",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: jQuery Mobile: Up and Running: Maximiliano Firtman",
+            "url": "http://www.amazon.com/o/ASIN/1449397654/book042-22/ref=nosim",
+            "content": "2011年8月15日発売\n\njQuery Mobile本",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Acebug :: Add-ons for Firefox",
+            "url": "https://addons.mozilla.org/ja/firefox/addon/acebug/",
+            "content": "FirebugのコンソールをAceを使ったエディタにする。シンタックスハイライトとかオートインデント、ViやEmacs風のキーバインド、ファイル保存、ロードなどができるようになる。",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript Binary Operations – the easy way @ Learning is bateru",
+            "url": "http://bateru.com/news/2011/03/javascript-binary-operations-the-easy-way/",
+            "content": "JavaScriptでバイナリ操作についての解説",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Web performance optimization (WPO)",
+            "url": "http://www.slideshare.net/bonoseo/web-performance-optimization-wpo",
+            "content": "Webサイトのパフォーマンスについてのスライド。それぞれに解決方法やツールの紹介がシンプルにまとまっている",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "モデルから知るGit",
+            "url": "http://www.slideshare.net/hiratara/git-7205454",
+            "content": "gitの各コマンドの動きを図で示していてとても分かりやすい内容。",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Multiple-tab selection, tab title elision, animations API and a new Chromium logo « Peter Beverloo",
+            "url": "http://peter.sh/2011/03/multiple-tab-selection-tab-title-elation-animations-api-and-a-new-chromium-logo/",
+            "content": "マルチタブ選択機能、CSS3 Writing Modes、ロゴが新しくなった",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Welcome to jsFiddle’s documentation — jsFiddle v0.5a2 documentation",
+            "url": "http://doc.jsfiddle.net/",
+            "content": "jsFiddleのAPIドキュメント。\n\nGitHubとの連携もできる",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Tagneto: RequireJS 0.24.0 Released",
+            "url": "http://tagneto.blogspot.com/2011/03/requirejs-0240-released.html",
+            "content": "IE9をサポートしたRequireJS 0.24.0がリリース。CoffeScript pluginが入った。",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "東北地方太平洋沖地震に伴うInternet Explorer(R) 9日本語版の製品版提供の延期について",
+            "url": "http://www.microsoft.com/japan/presspass/detail.aspx?newsid=3969",
+            "content": "IE9 日本だけ延期",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "A language for the Internet: Why JavaScript and Node.js is right for Internet Application",
+            "url": "http://www.slideshare.net/sh1mmer/a-language-for-the-internet-why-javascript-and-nodejs-is-right-for-internet-application",
+            "content": "YahooのTomさん(オライリーからNode.js本出す人)のNode.jsについてのスライド。\n\nNode.jsの特徴について",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "ブラウザ デフォルトCSSのチートシートを作ってみた。(力尽きた) : Web Design KOJIKA17",
+            "url": "http://kojika17.com/2011/03/browsers-default-css.php",
+            "content": "ブラウザのデフォルトCSSをまとめたチートシートの公開",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Blogging IE9: A Year in Review - IEBlog - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/ie/archive/2011/03/09/blogging-ie9-a-year-in-review.aspx",
+            "content": "IE9のリリースが近づいてきたので総まとめ",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Node.net – Node.js implemented in Javascript on the .NET runtime « Dan Newcome, blog",
+            "url": "http://newcome.wordpress.com/2010/05/08/node-net-node-js-implemented-in-javascript-on-the-net-runtime/",
+            "content": "Node.jsをJScript.NETで実装したものが公開",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "How to Create Bookmarklets | Nettuts+",
+            "url": "http://net.tutsplus.com/tutorials/javascript-ajax/create-bookmarklets-the-right-way/",
+            "content": "ブックマークレットの作成方法についての記事",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript Enlightenment | by Cody Lindley | 1st Edition | ECMA-262, Edition 3",
+            "url": "http://javascriptenlightenment.com/",
+            "content": "JavaScript library userをJavaScript developerへ変える電子書籍。\n\n著者はjQuery Enlightenmentの人",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "dynaTrace Ajax Edition 3.0 Beta supports Firefox and Internet Explorer Application Performance, Scalability and Architecture – The dynaTrace Blog",
+            "url": "http://blog.dynatrace.com/2011/03/08/dynatrace-ajax-edition-3-0-beta-supports-firefox-and-internet-explorer/",
+            "content": "Webページのパフォーマンス分析ツール。\n\nFirefox対応の一般ベータが開始された",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Pinned items - PhantomJS を Cocoa で書いた - Yarukidenized:ヤルキデナイズド",
+            "url": "http://d.hatena.ne.jp/uasi/20110311/1299776017",
+            "content": "Cocoa と WebKit.frameworkで実装されたPhantomJS。",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: 実践 サーバサイド JavaScript: 井上 誠一郎",
+            "url": "http://www.amazon.co.jp/o/ASIN/4774146293/book042-22/ref=nosim",
+            "content": "2011年4月20日発売\n\nアリエル・ネットワークCTOの井上 誠一郎さんだと思うけど、内容についてはまだ何も書いてないのでNode.jsかは不明",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "IE9 RTW Due Date, A Big Thank You, MIX11, and a Unicorn Named Frank | Charles | Channel 9",
+            "url": "http://channel9.msdn.com/Blogs/Charles/IE9-RTW-Due-Date-A-Big-Thank-You-MIX11-and-a-Unicorn-Named-Frank",
+            "content": "IE9製品版 米国時間3月14日に公開",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "strict mode - motivation and semantics - Constellation Scorpius",
+            "url": "http://utatane-constellation.tumblr.com/post/3711268645",
+            "content": "strict modeの概念とは何か\n\nstatic解析につながる話",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Travis Leithead「IEで出る",
+            "url": "http://d.hatena.ne.jp/vwxyz/20110308/1299572479",
+            "content": "IEを使ってるときに出るエラーダイアログ\"Operation Aborted\"のIEblogの斜め読み訳",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "CSS Quotes, mock-ups of the HTML5 date-picker and the P2P API « Peter Beverloo",
+            "url": "http://peter.sh/2011/03/css-quotes-mock-ups-of-the-html5-date-picker-and-the-p2p-api/",
+            "content": "ChromiumでHTML5 peer-to-peer connection APIの実装が始まった",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "typeof演算子から学ぶJavaScriptのデータ型の概念と関係する考察のまとめ - 三等兵",
+            "url": "http://d.hatena.ne.jp/sandai/20110308/p1",
+            "content": "JavaScript Gardenのtypeof演算子と\n\n[[Class]]との違いについての話。",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Sapporo.jsでJavaScriptの成り立ちについてLTしてきました。 - I am Bad at Math",
+            "url": "http://d.hatena.ne.jp/badatmath/20110308/1299554852",
+            "content": "JavaScriptの成り立ちからES5、Harmonyまでの話まで。標準化までの話が中心的",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Sass でもう一度 CSS を楽しく! - terkel.jp",
+            "url": "http://terkel.jp/archives/2011/03/sass-makes-css-fun-again/",
+            "content": "Sass入門方法のまとめ。\n\nUst動画が結構分かりやすいのでオススメ",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "O'Reilly Japan - ハイパフォーマンスJavaScript",
+            "url": "http://www.oreilly.co.jp/books/9784873114903/",
+            "content": "2011年03月19日 発売\n\nHTML、CSS、JavaScript＋Ajax、PHPなどWebアプリケーションのパフォーマンスについての書籍",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "スクロールするまで画像を読み込まない（はずの）Lazy Loadについて :: 5509",
+            "url": "http://5509.me/log/lazyload",
+            "content": "画像の遅延ロードするLazy Loadは新しいブラウザだと正しく動作しないため、HTTPリクエスト数が余計に増えたりするという話。\n\n",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "あーありがち - JavaScript Url DispatcherとかRouterについて調べた",
+            "url": "http://aligach.net/diary/20110306.html",
+            "content": "URL dispatcherについて。\n\n実装ライブラリの紹介など",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Javascriptによる正規表現まとめ - Happy Hacker WebEngineerのTechブログ』",
+            "url": "http://d.hatena.ne.jp/yutakikuchi/20110305/1299318337",
+            "content": "JavaScriptでの正規表現のまとめ。\n\n例コードがぞれぞれの要素毎にある。",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Khronos Press Releases -",
+            "url": "http://www.khronos.org/news/press/releases/khronos-releases-final-webgl-1.0-specification",
+            "content": "WebGL1.0の最終仕様がリリース",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "EaselJS 0.3.2 for JavaScript / Canvas Released : javascript",
+            "url": "http://www.reddit.com/r/javascript/comments/fwrvy/easeljs_032_for_javascript_canvas_released/",
+            "content": "CanvasアニメーションライブラリのEaselJS 0.3.2がリリース",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Issue 72975 - chromium - Blacklist GPU acceleration on Windows XP - Project Hosting on Google Code",
+            "url": "http://code.google.com/p/chromium/issues/detail?id=72975",
+            "content": "Chrome on XPでWebGLがオフになった。",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "『JavaScriptコードのパフォーマンス比較ができるWebサービス「jsPerf」の使い方 | Web scratch』",
+            "url": "http://efcl.info/2011/0303/res2330/",
+            "content": "jsPerfでベンチマークを比較して記録",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "ブラウザの最新情報を知るために、Web開発者が読んでおくべきブログ | Web scratch",
+            "url": "http://efcl.info/2011/0301/res2303/",
+            "content": "ブラウザ毎の新しい情報を配信してるブログリンク集",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: Foundation HTML5 Animation with JavaScript: Billy Lamberta, Keith Peters",
+            "url": "http://www.amazon.com/o/ASIN/1430236655/book042-22/ref=nosim",
+            "content": "2011年8月24日発売\n\n著者はDoodle-jsの方とActionScript 3.0アニメーションで有名なKeith Peters氏",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "micha/jsawk - GitHub",
+            "url": "https://github.com/micha/jsawk",
+            "content": "awkライクでJSONを操作することができるコマンドラインツール",
+            "date": "2011-03-31T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: iPhone+Android スマートフォンサイト制作入門 (WEB PROFESSIONAL): たにぐちまこと",
+            "url": "http://www.amazon.co.jp/o/ASIN/4048702181/book042-22/ref=nosim",
+            "content": "PhoneやAndroidといったスマートフォン向けに最適化されたWebサイトを構築に関しての書籍",
+            "date": "2011-03-31T15:00:00.000Z"
+        }
+    ]
+}

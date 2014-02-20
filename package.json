@@ -21,5 +21,10 @@
   "dependencies": {
     "jsonlint": "~1.6.0",
     "JSV": "~4.0.2"
+  },
+  "devDependencies": {
+    "cheerio": "~0.13.1",
+    "q-io": "~1.10.9",
+    "bluebird": "~1.0.5"
   }
 }

@@ -1,0 +1,568 @@
+{
+    "list": [
+        {
+            "title": "dfilatov/jspath",
+            "url": "https://github.com/dfilatov/jspath",
+            "content": "JSONから検索できるクエリのDSL.\n\nクエリとなるパスを書いてJSONから値を取り出す",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "compass ベンダープリフィックス — Gist",
+            "url": "https://gist.github.com/4146804",
+            "content": "compassのprefixを付けるmixinの仕組み解説",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "大規模JSでのBackbone.js/CoffeeScript について考えてみた - mizchi log",
+            "url": "http://d.hatena.ne.jp/mizchi/20121127/1354023345",
+            "content": "Backboneを使ったモデルの分離\n\nViewModelとイベント",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Backbone.js FAQ 日本語訳 - ",
+            "url": "http://havelog.ayumusato.com/develop/javascript/e532-backbone_faq_translate.html",
+            "content": "Bonebone.jsサイトのFAQの翻訳",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "HTML5 Hacks - O'Reilly Media",
+            "url": "http://shop.oreilly.com/product/0636920026273.do",
+            "content": "HTML5、Web API、Canvas、SVG、CSS3などについてのクックブック的な書籍",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "The Pragmatic Bookshelf | Async JavaScript",
+            "url": "http://pragprog.com/book/tbajs/async-javascript",
+            "content": "非同期JavaScriptについての書籍。\n\nイベントドリブン、Promises や Deferreds、Async.js、非同期ロードやtameJS等の変換系について",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "0-9, CSSファイルをJSから非同期読込する方法",
+            "url": "http://0-9.tumblr.com/post/36733562874/css-asynch-loading",
+            "content": "CSS(link element)を直接appendすると読み込みのブロックが起きるので、iframe内で読み込ませて、それを改めて追加することでブロックしないで読み込む",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "faisalman/ua-parser-js",
+            "url": "https://github.com/faisalman/ua-parser-js",
+            "content": "UAパースライブラリ",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "wise9 › enchant.js v0.6.0 リリース! アップデートの内容紹介",
+            "url": "http://wise9.jp/archives/8077",
+            "content": "enchant.js v0.6.0リリース。\n\nCanvas ベースの描画が標準となった。\n\nWebAudioのサポート、 tl.enchant.jsの統合",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Node v0.8.15 (Stable)",
+            "url": "http://blog.nodejs.org/2012/11/26/node-v0-8-15/",
+            "content": "node.js 0.8.15 リリース",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Graphical Timeline :: Add-ons for Firefox",
+            "url": "https://addons.mozilla.org/ja/firefox/addon/graphical-timeline/",
+            "content": "Firefoxのネットワークイベント、ページで発生するDOMイベント、GC等をタイムライン的に表示するアドオン",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "JSLint Error Explanations - Making Your Feelings Better",
+            "url": "http://jslinterrors.com/",
+            "content": "JSLintとJSHintのエラー文の解説を行ってるサイト. どのような状態で発生するか、なぜそれをエラーとするのかを解説",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "JSLint Error Explanations - Making Your Feelings Better",
+            "url": "http://jslinterrors.com/",
+            "content": "JSLintとJSHintのエラー文の解説を行ってるサイト.\n\nどこのような状態で発生するか、またなぜそのエラーとするのかを解説",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "UserAgent判定器 Project Woothee: v0.3.0 Javascript実装追加 - tagomorisのメモ置き場",
+            "url": "http://d.hatena.ne.jp/tagomoris/20121126/1353916345",
+            "content": "言語をまたいで共通の判定ロジック・結果を使うための UserAgent 判定ライブラリのJavaScript版",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "ECMAScript tools - composable modules and transpiler infrastructure",
+            "url": "http://constellation.github.com/slides/contents/20121118/modules.html#1",
+            "content": "Esprima ,Escodegen ,Esmangle についてのスライド\n\nhttp://nodefest.jp/2012/session.html",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "q",
+            "url": "http://documentup.com/kriskowal/q/",
+            "content": "promiseライブラリ",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "静的型付けをもつJavaScriptへのトランスコンパイル言語を味見してみた その２ ｜ クラスメソッド開発ブログ",
+            "url": "http://dev.classmethod.jp/server-side/language/haxe-jsx-typescript2/",
+            "content": "Haxe、JSX、TypeScriptの比較",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Webkit に最適化されたサイトを IE10 に適応させるためのガイド | WWW WATCH",
+            "url": "http://hyper-text.org/archives/2012/11/adapting_webkit_site_ie10.shtml",
+            "content": "Adapting your WebKit-optimized site for Internet Explorer 10 の翻訳記事.\n\nvendor-prefixとタッチ/ポインタイベントについて",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Content Security Policy 1.0 is officially awesome. - HTML5Rocks Updates",
+            "url": "http://updates.html5rocks.com/2012/11/Content-Security-Policy-1-0-is-officially-awesome",
+            "content": "CSP 1.0が勧告候補(Candidate Recommendation)になった",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Native CSS feature detection via the @supports rule - Dev.Opera",
+            "url": "http://dev.opera.com/articles/view/native-css-feature-detection-via-the-supports-rule/",
+            "content": "@supportsによるCSSの機能検出方法について. @supportsの使い方",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Firefox supports @⁠supports, gets my support - Broken Links",
+            "url": "http://www.broken-links.com/2012/08/06/firefox-supports-supports-gets-my-support/",
+            "content": "@supportsの使い方について",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Opera Developer News - Why use @supports instead of Modernizr?",
+            "url": "http://my.opera.com/ODIN/blog/why-use-supports-instead-of-modernizr",
+            "content": "@supportsとModernizrの関係について.\n\n@supportsがサポートされてない場合にModernizrを読み込む方法について",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "勉強会資料シェア Getting Started with RequireJS ::ハブろぐ",
+            "url": "http://havelog.ayumusato.com/develop/javascript/e525-into_requirejs.html",
+            "content": "RequireJSの基本的な内容から、r.js/gruntでのビルドについてのスライドと解説",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Naming this in nested functions — Gist",
+            "url": "https://gist.github.com/4135065",
+            "content": "var that = this;としないでコンテキストにあった名前をつけるべきという話。\n\nまたbindを使った方法について by cjohansen ",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript… by Reginald Braithwaite [Leanpub PDF/iPad/Kindle]",
+            "url": "https://leanpub.com/javascript-allonge",
+            "content": "JavaScriptについての電子書籍.\n\n関数、CSPなどにfocusした書籍",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "CoffeeScript… by Reginald Braithwaite [Leanpub PDF/iPad/Kindle]",
+            "url": "https://leanpub.com/coffeescript-ristretto",
+            "content": "CoffeeScriptについての電子書籍",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Migrii/blanket",
+            "url": "https://github.com/Migrii/blanket",
+            "content": "簡単に使うことができるのを目的としたコードカバレッジライブラリ. Esprimaやnode-falafelを利用。QunitやMochaに対応して簡単に統合できるような仕組みを持ってる",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery UI 1.9.2 | jQuery UI Blog",
+            "url": "http://blog.jqueryui.com/2012/11/jquery-ui-1-9-2/",
+            "content": "jQuery UI 1.9.2リリース",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "RequireJS 2.1.2 Released ~ James Burke",
+            "url": "http://jrburke.com/2012/11/21/requirejs-2.1.2-released/",
+            "content": "RequireJS 2.1.2リリース。\n\nr.jsがブラウザ上で動作するようになった。\n\nuglify2等を使って最適化するときにSourceMapを吐き出すオプション、optimizerのspeed optionの追加等",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Benvie/continuum",
+            "url": "https://github.com/Benvie/continuum",
+            "content": "JavaScriptで書かれたJavaScript virtual machine.\n\nES3レベルで書かれていて、ES6の実行環境を作ってる。",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "A Few New Things Coming To JavaScript",
+            "url": "http://addyosmani.com/blog/a-few-new-things-coming-to-javascript/",
+            "content": "ES.nextで来る/既にChromeやFirefoxに実装されていたりする新しいECMAScriptについて。\n\nmodule, import,class, Object.observe, block scope,Map, Set/WeakMap, Proxyなどについて",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Yeti 0.2.14 released",
+            "url": "http://yeti.cx/blog/2012/11/yeti-0-2-14-released/",
+            "content": "Yeti 0.2.14 リリース。\n\nMocha, Jasmine, QUnit, YUI Testのサポート/改善.\n\n複数ブラウザのテスト実行時のパフォーマンスを改善",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Polluting and Unused JavaScript Variables don't code today what you can't debug tomorrow",
+            "url": "http://ariya.ofilabs.com/2012/11/polluting-and-unused-javascript-variables.html",
+            "content": "グローバルに変数が漏れてないかをチェック/未使用の変数があるかをチェックするツールについて",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Firefox 17.0 リリースノート",
+            "url": "http://www.mozilla.jp/firefox/17.0/releasenotes/",
+            "content": "Firefox 17.0リリース\n\nhttps://dev.mozilla.jp/2012/10/firefox-17-site-compatibility/",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: Pro Node.js (Professional Apress) [Paperback]: Andreas Bergström",
+            "url": "http://www.amazon.com/o/ASIN/1430243899/book042-22/ref=nosim",
+            "content": "2013-07-15発売\n\nNode.js本",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Referencing JavaScript ~ James Burke",
+            "url": "http://jrburke.com/2012/11/02/referencing-javascript/",
+            "content": "AMDモジュールとリファクタリング",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "dameleon/tt.js",
+            "url": "https://github.com/dameleon/tt.js",
+            "content": "DOM操作周りのjQueryライクなAPIを提供するライブラリ。\n\nスマートフォン向けにサポートを絞ってる",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Firebug Tip: Styled Logging | Software is hard",
+            "url": "http://www.softwareishard.com/blog/firebug/firebug-tip-styled-logging/",
+            "content": "Firebugのコンソールに出力するログにCSSを適応したり、logImageで画像を表示する",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Principles of… by Nicholas C. Zakas [PDF/iPad/Kindle]",
+            "url": "https://leanpub.com/oopinjavascript",
+            "content": "Nicholas C. Zakas によるJavaScriptでのオブジェクト指向についての書籍",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Automatic timezone detection using JavaScript",
+            "url": "http://www.pageloom.com/automatic-timezone-detection-with-javascript",
+            "content": "タイムゾーン情報を取得できるライブラリ。",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "alphagov/magna-charta",
+            "url": "https://github.com/alphagov/magna-charta",
+            "content": "棒グラフを生成するjQueryプラグイン",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "When Not to Use YUI // Speaker Deck",
+            "url": "https://speakerdeck.com/yaypie/when-not-to-use-yui",
+            "content": "ライブラリとフレームワークの使い分けについて\n\nYUIと他との速度比較",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Morris.js",
+            "url": "http://www.oesmith.co.uk/morris.js/",
+            "content": "jQuerytとRaphaelを使ったグラフライブラリ",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Compiling to JavaScript: What, Why, and How? - Build New Games",
+            "url": "http://buildnewgames.com/compiling-to-javascript",
+            "content": "JavaScriptに変換する言語の分類.\n\n変換言語のポイントについて",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Sitespeed.io - Analyze your website speed and performance",
+            "url": "http://sitespeed.io/",
+            "content": "PhantomJSを使ったウェブサイトのパフォーマンス解析. YSlow的なルールを持ってる",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "PostScribe, asynchronously write javascript - a Krux Open Source project",
+            "url": "http://krux.github.com/postscribe/",
+            "content": "document.writeの代わりに非同期で要素を追加するライブラリ.",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: Windowsストアアプリ開発入門 HTMLとJavaScr [単行本]: 羽田野 太巳",
+            "url": "http://www.amazon.co.jp/o/ASIN/4798035726/book042-22/ref=nosim",
+            "content": "2012年11月21日発売",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Announcing TypeScript 0.8.1 - TypeScript - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/typescript/archive/2012/11/15/announcing-typescript-0-8-1.aspx",
+            "content": "TypeScript 0.8.1リリース\n\nsource mapでのデバッグサポート",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "6 LINQ For Javascript Libraries | ZoomZum",
+            "url": "http://zoomzum.com/6-linq-for-javascript-libraries/",
+            "content": "LINQ系のライブラリまとめ",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript APIs you’ve never heard of (and some you have)",
+            "url": "http://www.slideshare.net/nzakas/javascript-apis-youve-never-heard-of-and-some-you-have",
+            "content": "最近使えるような感じのDOM API(Element Traversal API等)、XHR 2、matchesSelector等の紹介",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "qooxdoo 2.1 released | qooxdoo News",
+            "url": "http://news.qooxdoo.org/qooxdoo-2-1-released",
+            "content": "RIAフレームワーク qooxdoo 2.1リリース",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "IE10: Fast, Fluid, Perfect for Touch, and Available Now for Windows 7 - IEBlog - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/ie/archive/2012/11/13/ie10-fast-fluid-perfect-for-touch-and-available-now-for-windows-7.aspx",
+            "content": "IE10 プレビューリリース\n\nWindows7でも利用できるように",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "See you on the web! - WebRTC",
+            "url": "https://sites.google.com/site/webrtc/blog/seeyouontheweb",
+            "content": "Chrome 23でWebRTCが正式サポート",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Opera Developer News - Opera 12.10 is out",
+            "url": "http://my.opera.com/ODIN/blog/opera-12-10-is-out",
+            "content": "Opera 12.10リリース。\n\nSPDYのサポート、 Page Visibility API、CSS Flexbox",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "ゲームミュージックと生存確認をかねた画期的な: svgの基本的な使い方をpdf化しました",
+            "url": "http://defghi1977-onblog.blogspot.com/2012/11/svgpdf.html",
+            "content": "\"svgの基本的な使い方まとめ\" のPDF版を販売開始",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Sencha Touchの本を書きました - きしだのはてな",
+            "url": "http://d.hatena.ne.jp/nowokay/20121114#1352853617",
+            "content": "2012年12月15日発売\n\nSencha Touch本",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery Blog » jQuery 1.8.3 Released",
+            "url": "http://blog.jquery.com/2012/11/13/jquery-1-8-3-released/",
+            "content": "jQuery 1.8.3リリース\n\nbugfixリリース。Android 2.3.4でtransitionsがクラッシュしてたのも含まれてる\n\nhttp://blog.webcreativepark.net/2012/11/07-112617.html",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: プロになるためのJavaScript入門 ~node.js、Backbone.js、HTML5、jQuery-Mobile (Software Design plus) [大型本]: 河村 嘉之, 川尻 剛",
+            "url": "http://www.amazon.co.jp/o/ASIN/4774154385/book042-22/ref=nosim",
+            "content": "2012年12月7日発売\n\n\"Java開発者のためのAjax実践開発入門\"の改定本、Backbone,jQuery Mobile等",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "The WebGL Podcast |",
+            "url": "http://thewebglpodcast.com/",
+            "content": "WebGLポッドキャスト",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Seleniumを使ったWeb UI自動テストシステムの構築でやったことまとめ - うなの日記",
+            "url": "http://d.hatena.ne.jp/unageanu/20111031/1320016739",
+            "content": "Seleniumを使ったUI自動テストのセオリー、気をつけること",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "SiestaでMVCアプリのテストを書く | Sunvisor Lab. Ext JS 別館",
+            "url": "http://extjs.sunvisor.net/607",
+            "content": "Siestaでのテスト",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript Style Badge",
+            "url": "http://jsstyle.github.com/",
+            "content": "質問に答えて自分のJavaScriptのスタイルのバッチ的なものを作ってくれるウェブサービス",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "melanke/Watch.JS · GitHub",
+            "url": "https://github.com/melanke/Watch.JS",
+            "content": "definePropertyなどでObjectを拡張して、プロパティの変更をwatchをするライブラリ.",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Lactate",
+            "url": "http://weltschmerz.github.com/Lactate/",
+            "content": "Node製の静的ファイルサーバモジュール",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "homoiconic/2012/11/canonicalization.js.md at master · raganwald/homoiconic",
+            "url": "https://github.com/raganwald/homoiconic/blob/master/2012/11/canonicalization.js.md",
+            "content": "\" Canonicalization in JavaScript\"\n\ninstance === instance;// true にするには",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Getfirebug Blog » Blog Archive » Firebug 1.11 beta 1",
+            "url": "https://blog.getfirebug.com/2012/11/09/firebug-1-11-beta-1/",
+            "content": "Firebug 1.11β1リリース。\n\nwindow.postMessage()のmassage eventを監視してログを出せるようになった",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Kirill Safonov: Let your tool help you imagine -- JSConf EU 2012 - YouTube",
+            "url": "http://www.youtube.com/watch?v=CIY6qNk1zy0",
+            "content": "WebStormについての発表.\n\nWebStormのLiveEdit機能等のデモが中心",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Gozala/interactivate",
+            "url": "https://github.com/Gozala/interactivate",
+            "content": "ブラウザベースのコード編集+repl.\n\n雰囲気はFirefoxのスクラッチパッドに似てる",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Chutzpah - Chutzpah 2.2 with TypeScript support - Matthew Manela - Farblondzshet in Code",
+            "url": "http://matthewmanela.com/blog/chutzpah-2-2-with-typescript-support/",
+            "content": "Visual StudioのJavaScript test runnerアドイン Chutzpah 2.2リリース。\n\nTypeScriptのサポート",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "ADVANCEDモードでコンパイルしたJavaScriptをデバッグするテクニック | Cybozu Inside Out | サイボウズエンジニアのブログ",
+            "url": "http://developer.cybozu.co.jp/tech/?p=701",
+            "content": "Closure CompilerのADVANCEDモードでコンパイルしたJavaScriptのデバッグ方法。\n\nデバッグオプションやブレークポイントを使ったデバッグ",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Writing Fast, Memory-Efficient JavaScript | Smashing Coding",
+            "url": "http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/",
+            "content": "JavaScriptのパフォーマンスとメモリ効率について。\n\nDOMやdelete、関数やクロージャー、モジュール配列等色々な場合についてまとめられてる。",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "airbnb/javascript",
+            "url": "https://github.com/airbnb/javascript",
+            "content": "JavaScriptの合理的なアプローチのまとめ。\n\n項目ごとに細かくわけてコーディングルール的な感じで解説",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Sencha Touch 2 vs jQuery Mobile",
+            "url": "http://www.slideshare.net/dsuket/sencha-touch-2-vs-jquery-mobile",
+            "content": "Sencha Touch 2とjQuery Mobileの比較のスライド",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "JsDoc3-manual-jp",
+            "url": "https://sites.google.com/site/jsdoc3manualjp/home",
+            "content": "JsDoc3のリファレンスサイト\n\n書き方、タグ解説、逆引き",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Sencha Touch 2.1 のリリースと新しいチャートとツール | 株式会社ゼノフィ",
+            "url": "http://www.xenophy.com/javascript/4225",
+            "content": " “Sencha Touch 2.1 is Here with New Charting & Tools”の翻訳",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "最近の CSS 実装でベンダー接頭辞の外れたもの (2012年11月) | Unformed Building",
+            "url": "http://unformedbuilding.com/articles/css-unprefixed-2012-11/",
+            "content": "Firefox 16, Opera 12.10, Internet Explorer 10でCSSのベンダーprefixが外れたものについてのまとめ",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Sencha Touch 2.1 is Here with New Charting & Tools | Blog | Sencha",
+            "url": "http://www.sencha.com/blog/introducing-sencha-touch-2-1-and-more",
+            "content": "Sencha Touch 2.1 リリース\n\nグラフ、devicePixelRatioを使ったretina対応、Sencha Cmdに Code Generation等のアップデート",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "JSX / Haxe / TypeScript",
+            "url": "http://www.slideshare.net/bleistift/jsx-haxe-typescript",
+            "content": "JSX、Haxe、TypeScriptの言語比較\n\n主に型について",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Object properties in JavaScript",
+            "url": "http://www.2ality.com/2012/10/javascript-properties.html",
+            "content": "JavaScriptのプロパティについて。\n\nプロパティとは、getter/setter、内部のプロパティ属性、Property descriptors、列挙の違い、ベストプラクティス、等一通り",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "YeomanとBrunchをさわさわした ::ハブろぐ",
+            "url": "http://havelog.ayumusato.com/develop/others/e524-yeoman_and_brunch.html",
+            "content": "YeomanとBrunchの比較",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScriptでうっかりやってしまいそうなこと色々 : アシアルブログ",
+            "url": "http://blog.asial.co.jp/1092",
+            "content": "JavaScriptでよくある間違いや型変換について。Jasmineのテスト付き",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "続: 型情報(宣言)と、実装を分離できる仕組み prof.js を実装してみました - latest log",
+            "url": "http://uupaa.hatenablog.com/entry/2012/11/02/154337",
+            "content": "既存の関数やメソッドに、引数と戻り値の型チェック,プロファイラ,トレース機能を後から書き加える事ができるライブラリ",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScriptのテストツール「testem」が素晴らしいぞ | Mach3.laBlog",
+            "url": "http://blog.mach3.jp/2012/10/js-testem-script.html",
+            "content": "testemの紹介",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Testacularで行こう",
+            "url": "http://node.ws/translate/2012/11/03/testacular/",
+            "content": "Dailly JSのTotally Testacularの翻訳",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "useful js: call & apply — phuu",
+            "url": "http://phuu.net/2012/11/02/javascript-function-call-and-function-apply.html",
+            "content": "callとapplyについてpubsubのシンプルな実装を例に学ぶ",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Getfirebug Blog » Blog Archive » Firebug 1.11 alpha 6",
+            "url": "https://blog.getfirebug.com/2012/11/02/firebug-1-11-alpha-6/",
+            "content": "Firebug 1.11a6リリース。\n\nincludeコマンドでJavaScriptファイルを現在のページにロードできるようになった",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "MooTools - Moobile 0.2 Released",
+            "url": "http://mootools.net/blog/2012/11/03/moobile-0-2-released/",
+            "content": "MooToolsによるモバイル向けのアプリケーションフレームワークライブラリ Moobile 0.2リリース",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: The New Web: Developing for a Multi-Device Web with HTML5, CSS3, and JavaScript [Paperback]: Peter Gasston",
+            "url": "http://www.amazon.com/o/ASIN/1593274874/book042-22/ref=nosim",
+            "content": "2013年4月22日発売",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Amazon: Jump Start JavaScript [Paperback]: Ara Pehlivanian",
+            "url": "http://www.amazon.com/o/ASIN/098733218X/book042-22/ref=nosim",
+            "content": "2013年4月22日発売",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "wise9 › enchant.js v0.5.2 リリース! & v0.6 の開発者による徹底解説",
+            "url": "http://wise9.jp/archives/8012",
+            "content": "enchant.js v0.5.2リリース。\n\n0.6系からは描画をCanvasで行うように鳴る",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "istanbul-js: A Javascript code coverage tool written in JS",
+            "url": "http://gotwarlost.github.com/istanbul/",
+            "content": "JavaScriptのコードカバレッジツール",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "Yeti 0.2.13 released",
+            "url": "http://yeti.cx/blog/2012/11/yeti-0-2-13-released/",
+            "content": "Yeti 0.2.13 リリース\n\nechoecho(Simple Server response echoer)を使ったサーバレスポンスのテストに対応、QUnitのサポートを改善",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "codylindley/frontend-tools",
+            "url": "https://github.com/codylindley/frontend-tools",
+            "content": "フロントエンド(HTML/CSS/JS)周りのツールやライブラリ、リファレンスやリソース、パフォーマンスなどについてのリンク集",
+            "date": "2012-11-30T15:00:00.000Z"
+        },
+        {
+            "title": "jQueryの未来に備える | Cybozu Inside Out | サイボウズエンジニアのブログ",
+            "url": "http://developer.cybozu.co.jp/tech/?p=814",
+            "content": "jQueryでdeprecatedとなっているAPIについて。\n\n$.browser,.size(),$.sub(),.live() / .die(), form系の独自CSSセレクタ, $.get()のコールバックまわり",
+            "date": "2012-11-30T15:00:00.000Z"
+        }
+    ]
+}

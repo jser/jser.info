@@ -1,0 +1,460 @@
+{
+    "list": [
+        {
+            "title": "(S)CSSの書き方メモ - Weblog - hail2u.net",
+            "url": "http://hail2u.net/blog/webdesign/ore-ore-scss-writing-rule.html",
+            "content": "Sassの書き方。ファイルの分け方やメンテナンス性について",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "モダン ブラウザのためのクライアント サイド Web 開発ガイダンス ～ Project Silk リリース：ASP.NET on the Web.：ITmedia オルタナティブ・ブログ",
+            "url": "http://blogs.itmedia.co.jp/chack/2011/10/web-project-sil-7ba0.html",
+            "content": "MSによるHTML5 と JavaScript (jQuery, jQuery UI Widgets) などでアプリケーションを構築していく話。\n\nMVCなどについても",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Overview of HTML5 Support in the Android 4.0 Browser | Mobile Zone",
+            "url": "http://mobile.dzone.com/news/overview-html5-support-android",
+            "content": "Android4で入ったHTML5などのAPI\n\nNavigation Timing APIやconsole.memory関係はMathMLの基本的な部分などがサポートされた",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Message library』",
+            "url": "http://dhtmlx.github.com/message/",
+            "content": "アラートやダイアログを表示するJavaScriptライブラリ。他のライブラリに依存していない",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: 徹底解説HTML5APIガイドブック オフライン系API編 [単行本]: 小松 健作』",
+            "url": "http://www.amazon.co.jp/o/ASIN/4798031267/book042-22/ref=nosim",
+            "content": "徹底解説 HTML5 APIガイドブックシリーズ",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『[jQuery.selection] - 今日も適当ダイアリー』",
+            "url": "http://d.hatena.ne.jp/ja9/searchdiary?word=*[jQuery.selection]",
+            "content": "選択範囲周りの操作を行うjQueryライブラリ",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "The WHATWG Blog — WHATWG Weekly: Now it’s for",
+            "url": "http://blog.whatwg.org/weekly-time-data",
+            "content": "time要素がなくなり、data要素になった。",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『JS-ImageDiff Demo』",
+            "url": "http://humblesoftware.github.com/js-imagediff/",
+            "content": "JavaScript,Canvasを使い画像のDiffを取得できるライブラリ",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Winter is coming! Get 50% OFF on WebStorm, PhpStorm and RubyMine | WebStorm & PhpStorm Blog",
+            "url": "http://blog.jetbrains.com/webide/2011/10/winter-is-coming-get-50-off-on-webstorm-phpstorm-and-rubymine/",
+            "content": "WebStrom,PhpStrom,RubyMineが半額セール",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: Building Web Applications with SVG [Paperback]: Jon Frost, David Dailey』",
+            "url": "http://www.amazon.com/o/ASIN/0735660123/book042-22/ref=nosim",
+            "content": "2012年3月22日発売\n\nSVG本 http://shop.oreilly.com/product/0790145329448.do",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "情報処理推進機構：情報処理技術者試験：新着：情報セキュリティスペシャリスト試験（SC）で出題するプログラム言語の変更について",
+            "url": "http://www.jitec.ipa.go.jp/1_00topic/topic_20111026_sc_yougo.html",
+            "content": "試験問題に出題される言語にECMAScriptが追加された",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery Standards Teamが発足 | Web標準Blog | ミツエーリンクス",
+            "url": "http://standards.mitsue.co.jp/archives/001530.html",
+            "content": "jQueryプロジェクトがStandards Teamというサブチームを立ち上げた。\n\n標準化団体とベンダーへの働きかけをする目的",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "HTML5, PhoneGap and What's Next",
+            "url": "http://www.slideshare.net/m0bz/html5-phonegap-and-whats-next",
+            "content": "PhoneGapの仕組みや目的、ロードマップ。\n\nまた関連するAPIのW3Cの策定状況など",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『jQuery: » jQuery 1.7 RC1 Released』",
+            "url": "http://blog.jquery.com/2011/10/24/jquery-1-7-rc1-released/",
+            "content": "jQuery 1.7 RC1リリース\n\nEvent周りの修正が多い",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Node.js 日本ユーザグループ Blog: Node にまつわる良くある質問",
+            "url": "http://blog.nodejs.jp/2011/10/node.html",
+            "content": "Node.jsに関するQ&A",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Scaling Isomorphic Javascript Code - blog.nodejitsu.com - scaling node.js applications one callback at a time.",
+            "url": "http://blog.nodejitsu.com/scaling-isomorphic-javascript-code",
+            "content": "JavaScriptのMVCベースなデザインパターンを図を用いて解説\n\nまたMVCライブラリの実装など。",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Complete your code - Cloud9 IDE Blog",
+            "url": "http://cloud9ide.posterous.com/complete-your-code",
+            "content": "Cloud9 IDEに補完とかスニペットの機能が入ってる",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『DOM Extension is not always evil』",
+            "url": "http://raynos.org/blog/8/DOM-Extension-is-not-always-evil",
+            "content": "DOM-shimのようなDOMのprototype拡張について",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "詳細 ECMA-262-3 第1章 実行コンテキスト - oogattaの勉強日記",
+            "url": "http://d.hatena.ne.jp/oogatta/20111018/1318896395",
+            "content": "Dmitry Soshnikovの\"詳細 ECMA-262-3\"の訳 by oogatta",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "0-9, jQueryのliveやdelegateは実際何をやってるのか",
+            "url": "http://0-9.tumblr.com/post/11618211320/jquery-live-delegate",
+            "content": "jQueryのlive,delegateの解説",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『携帯サイトを簡単にスマートフォン対応するsparrow.jsについて | 株式会社シンメトリック公式ブログ - 携帯開発から生まれる技術情報』",
+            "url": "http://symple.jp/124.html",
+            "content": "日本の携帯サイトをスマートフォンでも使い易いように変換するJavaScriptライブラリのsparrow.jsの紹介",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『发布 SeaJS v.1.0.2 以及 SPM v0.3.0 « 岁月如歌』",
+            "url": "http://lifesinger.wordpress.com/2011/10/20/seajs-v1-0-2/",
+            "content": "モジュールローダーライブラリのSeaJS 1.0.2がリリース",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Virtual Globe and Terrain Rendering: WebGL in Internet Explorer』",
+            "url": "http://blog.virtualglobebook.com/2011/10/webgl-in-internet-explorer.html",
+            "content": "IEでWebGLを利用する方法のまとめ。\n\n代替方法の紹介",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery 1.7 の $.Callbacks の解説 - わからん",
+            "url": "http://d.hatena.ne.jp/kitokitoki/20111022/p1",
+            "content": "jQueryの$.Callbacksについての解説",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "TodoMVC",
+            "url": "http://addyosmani.github.com/todomvc/",
+            "content": "MVCライブラリを使ってTodoアプリを作りつつ比較、学習するサイト",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Ext JS 4.0.7 Released : Ed Spencer",
+            "url": "http://edspencer.net/2011/10/ext-js-4-0-7-released.html",
+            "content": "リッチアプリ向けのフレームワークなExt JS 4.0.7がリリース",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Hermes.js』",
+            "url": "http://tcorral.github.com/Hermes.js/",
+            "content": "loggerライブラリ。\n\nエラーメッセージを作る部分とログを表示する部分がある。\n\nログレベルを指定して出力するログの範囲を決定したり、deferredやImmediateの設定してログの出力タイミングの変更等ができる。",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Getfirebug Blog » Blog Archive » Firebug 1.9a4",
+            "url": "http://blog.getfirebug.com/2011/10/21/firebug-1-9a4/",
+            "content": "Firebug 1.9a4リリース\n\nネットパネルからリクエストの再送やブレークポイントのツールチップ、WatchをDOMパネルからできるようになど",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: Professional Node.js: Building Javascript Based Scalable Software [Paperback]: Pedro Teixeira』",
+            "url": "http://www.amazon.com/o/ASIN/1118185463/book042-22/ref=nosim",
+            "content": "2012年6月5日発売\n\nNode.js本\n\n著者 http://nodetuts.com/",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Safari on iOS 5, HTML5 evolution for iPhone and iPad | Mobile Web Programming",
+            "url": "http://www.mobilexweb.com/blog/ios-5-iphone-and-ipad-html5",
+            "content": "iOS5でのmobile safariの更新内容。\n\nHTML5要素の対応やWebWorker, inline SVGやClass List、ContentEditable、History API、XHR2、コンパス情報の取得、Script要素のasync,defer\n\nなど結構使い道のあるものが更新されている",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "jQuery Mobile 1.0RC2 Released! | jQuery Mobile",
+            "url": "http://jquerymobile.com/blog/2011/10/19/jquery-mobile-1-0rc2-released/",
+            "content": "jQuery Mobile1.0RC2リリース",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Tagneto: RequireJS 1.0 released",
+            "url": "http://tagneto.blogspot.com/2011/10/requirejs-10-released.html",
+            "content": "RequireJS 1.0がリリース\n\n",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "新しい JavaScript エンジンモジュールオーナー « Mozilla Developer Street (modest)",
+            "url": "https://dev.mozilla.jp/2011/10/new-javascript-engine-module-owner/",
+            "content": "JavaScriptの生みの親であるBrendan EichによるJavaScriptの歴史",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Opera's Developer Relations Team - Opera 12 alpha: HTML5 Parser, Radial Gradients and WebGL",
+            "url": "http://my.opera.com/ODIN/blog/2011/10/13/opera-12-alpha-released",
+            "content": "Opera12でCSS3 radial gradients, WebGL, ES5.1をサポート",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『CSS Lint v0.7.0 released | NCZOnline』",
+            "url": "http://www.nczonline.net/blog/2011/10/14/css-lint-v0-7-0-released/",
+            "content": "CSS Lint 0.7.0リリース\n\n\n\n",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Wolfy87/EventEmitter - GitHub",
+            "url": "https://github.com/Wolfy87/EventEmitter",
+            "content": "ブラウザ向けのEventEmitter的なライブラリ。イベントオブジェクト管理ライブララリ",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『jQuery: » jQuery 1.7 Beta 2 Released』",
+            "url": "http://blog.jquery.com/2011/10/13/jquery-1-7-beta-2-released/",
+            "content": "jQuery 1.7β2リリース",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Manifested",
+            "url": "http://manifested.dregsoft.com/",
+            "content": "URLを入力してHTML5アプリケーションキャッシュのマニフェストファイルを自動生成するWebツール",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "[JavaScript] Deferredを作ってみた - うなの日記",
+            "url": "http://d.hatena.ne.jp/unageanu/20111010/1318230209",
+            "content": "CommonJS Promises/A 準拠なDeferredライブラリ",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『espadrine/New-In-A-Spec - GitHub』",
+            "url": "https://github.com/espadrine/New-In-A-Spec",
+            "content": "DOM4,ES6などの新しい仕様で追加された文法や属性、プロパティとかについて書かれてる",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『briancavalier/when.js - GitHub』",
+            "url": "https://github.com/briancavalier/when.js",
+            "content": "CommonJSのPromises/Aとwhenの実装ライブラリ。Deferred",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『プログラミング言語Dart入門 - 危ないRiSKのブログ』",
+            "url": "http://d.hatena.ne.jp/RiSK/20111010/1318251648",
+            "content": "Dart言語の文法まとめ",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: Pro HTML5 Application Development [Paperback]: Jeremy Chone』",
+            "url": "http://www.amazon.com/o/ASIN/143024173X/book042-22/ref=nosim",
+            "content": "2012年3月19日発売\n\nHTML5アプリケーション開発についての書籍\n\n",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: Pro HTML5 Accessibility [Paperback]: Joshue O Connor』",
+            "url": "http://www.amazon.com/o/ASIN/1430241942/book042-22/ref=nosim",
+            "content": "2012年3月26日発売\n\nHTML5のアクセシビリティについての書籍。WAI-ARIA",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Pot.js + PotLite.js -ドキュメントリファレンス",
+            "url": "http://polygonplanet.github.com/Pot.js/index.html",
+            "content": "JSDeferredのように非同期処理を直列的に書けるようにするライブラリ。\n\nMochiKit ライクな Deferred オブジェクトによりイテレート (forEach, filter, map, repeat, some など)もできる",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Dart : Structured web programming",
+            "url": "http://www.dartlang.org/",
+            "content": "GoogleによるWebアプリケーション開発向けのクラスベースなプログラミング言語Dart",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『CSS Selectors』",
+            "url": "http://alebelcor.blogspot.com/2011/09/css-selectors.html",
+            "content": "CSSセレクタのレベル別のセレクタまとめ",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "利用位反操作来简化 indexOf 判断 « 岁月如歌",
+            "url": "http://lifesinger.wordpress.com/2011/09/30/simplify-indexof-using-bitwise-not/",
+            "content": "indexOfの結果を~で反転させて使う",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "High Performance JavaScript (CapitolJS 2011)",
+            "url": "http://www.slideshare.net/nzakas/high-performance-javascript-capitoljs-2011",
+            "content": "ハイパフォの人のスライド。\n\nsetImmediateについての記述が増えている",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『MMD on WebGL デモページを用意した - by edvakf in hatena』",
+            "url": "http://d.hatena.ne.jp/edvakf/20111008/1318089948",
+            "content": "WebGLでMMDのモデルを動かすデモ。\n\nhttps://github.com/edvakf/MMDGL.js",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『cykod/CoderDeck - GitHub』",
+            "url": "https://github.com/cykod/CoderDeck",
+            "content": "ライブコーディングなスライドを作成するセット。Deck.jsやCodeMirror2などを使用している",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "tcorral/Design-Patterns-in-Javascript - GitHub",
+            "url": "https://github.com/tcorral/Design-Patterns-in-Javascript",
+            "content": "Head First Design Patternsなどで紹介されたデザインパターンをJavaScriptに落としたものをまとめたレポジトリ\n\n",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『javascript sandbox console demo - joss crowcroft』",
+            "url": "http://josscrowcroft.github.com/javascript-sandbox-console/",
+            "content": "jQueryとBackbone.jsを使って作られたJavaScriptコンソール",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Team Blog Posts > Using CORS with All (Modern) Browsers",
+            "url": "http://www.kendoui.com/blogs/teamblog/posts/11-10-04/using_cors_with_all_modern_browsers.aspx",
+            "content": "XHRなどのCross-Origin Resource Sharingについて。\n\nIEのXDomainRequestについてやOperaのように未対応のpoly fillについても",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "CSS アニメーションの基礎 | Unformed Building",
+            "url": "http://unformedbuilding.com/articles/learn-about-css-animation/",
+            "content": "CSSアニメーションの使い方とデモのまとめ",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Best Javascript Charting Libraries at Mixpanel Engineering』",
+            "url": "http://code.mixpanel.com/2010/09/17/best-javascript-charting-libraries/",
+            "content": "JavaScriptのグラフ系ライブラリを3つほど紹介",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "JavaScript Performance Best Practices - Nokia Developer Wiki",
+            "url": "http://www.developer.nokia.com/Community/Wiki/JavaScript_Performance_Best_Practices",
+            "content": "JavaScriptのベストプラクティスなどについてまとめられているwiki",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Emscripten: Using Non-JS Libraries in JS [pdf] : javascript",
+            "url": "http://www.reddit.com/r/javascript/comments/l50bm/emscripten_using_nonjs_libraries_in_js_pdf/",
+            "content": "LVM bitcodeをJavaScriptに変換するEmscriptenについてのスライド",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Amazon: jQuery本格入門　~JavaScript開発・デザイン効率化の基礎から Ajax・QUnitまで [大型本]: 沖林 正紀』",
+            "url": "http://www.amazon.co.jp/o/ASIN/477414892X/book042-22/ref=nosim",
+            "content": "2011年11月15日発売\n\nQUnitがタイトルに入ってるとは珍しい",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "W3C - 『The WebSocket API』日本語訳 - HTML5.JP",
+            "url": "http://www.html5.jp/trans/w3c_websockets.html?113",
+            "content": "WebSocket APIの日本語訳",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "MooTools - MooTools Core 1.4.1",
+            "url": "http://mootools.net/blog/2011/10/06/mootools-core-1-4-1/",
+            "content": "MooTools Core 1.4.1リリース\n\n bug fixが中心",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『2011年9月前半のW3C | Web標準Blog | ミツエーリンクス』",
+            "url": "http://standards.mitsue.co.jp/archives/001526.html",
+            "content": "9月前半のW3C周りの更新とかまとめ",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "fx7でresizeTo/resizeBy/moveTo/moveByがno longer apply to main windowな件 - Thousand Years",
+            "url": "http://d.hatena.ne.jp/shogo4405/20111005/1317822030",
+            "content": "Firefox7からwindow.resizeTo, window.resizeBy, window.moveTo , window.moveByなどのウィンドウを変化させるメソッドはメインウィンドウに対して適応できなくなった。",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Chromeのキャッシュをオフにする方法 :: 5509",
+            "url": "http://5509.me/log/disable-chrome-cache",
+            "content": "Chrom14あたりで導入されたWeb Inspectorでのキャッシュの無効化の設定方法",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "",
+            "url": "http://blogs.msdn.com/b/ie_jp/archive/2011/10/05/10220180.aspx",
+            "content": "非同期プログラミングでのpromise,Defferdについて",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『YUI 3.4.1 is now live » Yahoo! User Interface Blog (YUIBlog)』",
+            "url": "http://www.yuiblog.com/blog/2011/09/27/yui-3-4-1-is-now-live/",
+            "content": "YUI 3.4.1リリース。",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Tagneto: RequireJS 0.27.0 released, 1.0 release candidate』",
+            "url": "http://tagneto.blogspot.com/2011/10/requirejs-0270-released-10-release.html",
+            "content": "RequireJS 0.27.0リリース\n\n",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Bitbucket now rocks Git – Bitbucket blog",
+            "url": "http://blog.bitbucket.org/2011/10/03/bitbucket-now-rocks-git/",
+            "content": "Bitbucketがgitをサポート",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "New blog post, and a code review - The JSMentors JavaScript Discussion Group | Google グループ",
+            "url": "http://groups.google.com/group/jsmentors/browse_thread/thread/fdde20e4350a7a44/95b4f6eda932d7f0?show_docid=95b4f6eda932d7f0",
+            "content": "PunchというCSSセレクタエンジンを書いてみたというスクリーンキャスト",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Let's WeakMap - 枕を欹てて聴く』",
+            "url": "http://d.hatena.ne.jp/Constellation/20111002/1317561215",
+            "content": "WeakMapについての解説\n\n利用方法、JavaScriptエンジンの実装について",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『jQuery Keynote 2011: Boston』",
+            "url": "http://www.slideshare.net/jeresig/jquery-keynote-2011-boston",
+            "content": "jQuery 1.7についてのスライド\n\njQueryのコミュニティやAPIドキュメントや開発のプロセスについて",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "Mozilla 勉強会で ECMAScript 6 の WeakMap について LT しました - mooz deceives you",
+            "url": "http://d.hatena.ne.jp/mooz/20111002/p1",
+            "content": "WeakMapについてのスライド",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『jQueryのbind/live/delegateの違いまとめ、と更なる新API .on() による統合 - y-kawazの日記』",
+            "url": "http://d.hatena.ne.jp/y-kawaz/20111002/1317489435",
+            "content": "jQuery 1.7から入る、on/offでのEvent Emitter的なイベントAPIと以前の形式のイベントAPIとの比較",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『WebAppSec/Secure Coding Guidelines - MozillaWiki』",
+            "url": "https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines",
+            "content": "Mozillaの公開するセキュアコーディングガイドライン",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Introducing Google JS Test - Google Open Source Blog』",
+            "url": "http://google-opensource.blogspot.com/2011/09/introducing-google-js-test.html",
+            "content": "Google製のJavaScriptユニットテストフレームワーク",
+            "date": "2011-10-31T15:00:00.000Z"
+        },
+        {
+            "title": "『Firefox Security Features』",
+            "url": "http://www.slideshare.net/dynamis/firefox-security-features",
+            "content": "CSP(Content Security Policy)について紹介されてるスライド",
+            "date": "2011-10-31T15:00:00.000Z"
+        }
+    ]
+}
