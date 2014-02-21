@@ -5,9 +5,9 @@ JSer.info [Issues](https://github.com/azu/jser.info/issues "Issues · azu/jser.i
 
 [JSer.info][] に関して意見や要望や知らせたい事などあったら [Create a new issue.](https://github.com/azu/jser.info/issues "Create a new issue.") から。
 
-[Gitter](https://gitter.im/ "Gitter")にチャットルームもあるのでそちらからでも問題無いです。
+[Gitter](https://gitter.im/ "Gitter")に[チャットルーム](https://gitter.im/azu/jser.info "azu/jser.info - Gitter")もあるのでそちらからでも問題無いです。
 
-[![Gitter chat](https://badges.gitter.im/azu/jser.info.png)](https://gitter.im/azu/jser.info)
+* [azu/jser.info - Gitter](https://gitter.im/azu/jser.info "azu/jser.info - Gitter")
 
 ## Viewer
 
