@@ -8,30 +8,26 @@ var pather = require("path");
 var FS = require("q-io/fs");
 var Promise = require("bluebird");
 
-function makeIndexJSONPath(filePath) {
-    return pather.join(pather.dirname(filePath), "index.json");
+function pLoadFileList(fileList) {
+    return Promise.all(fileList.map(function (filePath) {
+        return FS.read(pather.resolve(filePath)).then(JSON.parse).catch(function (error) {
+            console.log(error);
+        });
+    }));
 }
-var filterNonExistJSON = function (fileList) {
-    var invert = function (value) {
-        return !value;
-    }
-    var promiseMap = Promise.filter(fileList, function (filePath) {
-        return FS.exists(pather.join(pather.dirname(filePath), "index.json")).then(invert);
-    });
-    return Promise.all(promiseMap);
-};
-FS.listTree("../../data/", function isIndexHTML(filePath, stat) {
+var concatPromise = FS.listTree("../../data/", function isIndexHTML(filePath, stat) {
     if (stat.isDirectory()) {
         return false;
     }
-    return pather.basename(filePath) === "index.html";
-}).then(filterNonExistJSON).then(function (fileList) {
-    var promises = fileList.map(function (filePath) {
-        return Promise.cast(html2json(filePath)).then(function (content) {
-            return FS.write(makeIndexJSONPath(filePath), JSON.stringify(content, null, 4));
-        });
-    });
-    Promise.all(promises).then(function (res) {
-        console.log("All Finish");
-    });
-})
+    return pather.basename(filePath) === "index.json";
+}).then(pLoadFileList).then(function (objectList) {
+    return objectList.reduce(function (prev, current) {
+        return prev.concat(current["list"]);
+    }, []);
+});
+
+concatPromise.then(function (array) {
+    return FS.write(pather.join(__dirname, "min.json"), JSON.stringify(array));
+}).then(function (result) {
+    console.log("All Finish");
+});
