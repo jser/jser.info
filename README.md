@@ -1,9 +1,13 @@
-[JSer.info][] [![Build Status](https://travis-ci.org/azu/jser.info.png)](https://travis-ci.org/azu/jser.info)
+[JSer.info][] [![Build Status](https://travis-ci.org/azu/jser.info.png)](https://travis-ci.org/azu/jser.info) [![Gitter chat](https://badges.gitter.im/azu/jser.info.png)](https://gitter.im/azu/jser.info)
 =========
 
 JSer.info [Issues](https://github.com/azu/jser.info/issues "Issues · azu/jser.info") repogitory.
 
 [JSer.info][] に関して意見や要望や知らせたい事などあったら [Create a new issue.](https://github.com/azu/jser.info/issues "Create a new issue.") から。
+
+[Gitter](https://gitter.im/ "Gitter")にチャットルームもあるのでそちらからでも問題無いです。
+
+[![Gitter chat](https://badges.gitter.im/azu/jser.info.png)](https://gitter.im/azu/jser.info)
 
 ## Viewer
 
