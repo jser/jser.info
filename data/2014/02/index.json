@@ -887,6 +887,62 @@
             ],
             "date": "2014-02-20T05:30:30.857Z",
             "related-links": []
+        },
+        {
+            "title": "Building Polyfills - O'Reilly Media",
+            "url": "http://shop.oreilly.com/product/0636920030690.do",
+            "content": "Web Platform APIsのPolyfillについての書籍。",
+            "tags": [
+                "JavaScript",
+                "book"
+            ],
+            "date": "2014-02-21T02:37:40.848Z",
+            "related-links": [
+                {
+                    "title": "Building Polyfills by Brandon Satrom",
+                    "url": "http://polyfillsbook.com/"
+                }
+            ]
+        },
+        {
+            "title": "React | React v0.9",
+            "url": "http://facebook.github.io/react/blog/2014/02/20/react-v0.9.html",
+            "content": "React v0.9リリース\nTest Utilitiesの追加、JSXのwhite spaceの扱いの変更",
+            "tags": [
+                "DOM",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-02-21T03:08:11.298Z",
+            "related-links": []
+        },
+        {
+            "title": "Why \"use strict\" in JavaScript can save you hours",
+            "url": "http://webdesignporto.com/why-use-strict-in-javascript-can-save-you-hours/",
+            "content": "strict modeにすることで、コードのミスからエラー (構文エラーor実行時エラー) に出来る事について",
+            "tags": [
+                "JavaScript",
+                "Tips"
+            ],
+            "date": "2014-02-21T07:24:50.067Z",
+            "related-links": []
+        },
+        {
+            "title": "Pint",
+            "url": "http://www.pintjs.com/",
+            "content": "Gruntラッパーなコマンドラインツール。\nタスクの設定ファイル分割、タスクの依存関係を元に可能ならタスクの並列実行を行えるようにする。",
+            "tags": [
+                "Grunt",
+                "Tools"
+            ],
+            "date": "2014-02-21T07:29:01.439Z",
+            "related-links": [
+                {
+                    "title": "Introducing Pint, the new build system for Grunt.js",
+                    "url": "https://www.codefellows.org/blogs/introducing-pint-the-new-build-system-for-grunt-js"
+                }
+            ]
         }
     ]
 }
