@@ -1009,6 +1009,22 @@
             ],
             "date": "2014-02-22T12:19:52.898Z",
             "related-links": []
+        },
+        {
+            "title": "joliss/broccoli",
+            "url": "https://github.com/joliss/broccoli",
+            "content": "高速なインクリメンタルビルドを目的としてGrunt等のようなビルドツール。\nビルド対象をファイルではなくtreeとして扱う、pluginもtreeとして扱う。キャッシュの仕組みなども入っている。\n",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2014-02-23T02:24:34.263Z",
+            "related-links": [
+                {
+                    "title": "Broccoli: First Beta Release",
+                    "url": "http://www.solitr.com/blog/2014/02/broccoli-first-release/"
+                }
+            ]
         }
     ]
 }
