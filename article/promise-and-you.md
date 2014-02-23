@@ -1,11 +1,11 @@
 ## [JavaScript Promises: There and back again - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es6/promises/ "JavaScript Promises: There and back again - HTML5 Rocks")
 
-- なんでPromisesなのか
+- 何故Promisesなのか?
 	- 画像がロードの正否でコールバックを呼びたい時
 	- "Event"を使う場合は`load`,`error`イベントで設定できる
-	- 既にロード済みの場合は発火しない
-	- そのため`complete` プロパティで判定して分岐する必要がある
-	- "Event" は いつもベストというわけではない
+		- 既にロード済みの場合は発火しない
+		- そのため`complete` プロパティで判定して分岐する必要がある
+		- "Event" は いつもベストというわけではない
 	- promiseは一度だけ呼ばれる **成功**、**失敗** のコールバックを設定出来る
 	- 既にロード済みでも、**成功**、**失敗** のコールバックは呼ぶことが出来る
 - [Promiseの用語](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-promise-terminology "Promise terminology")
@@ -27,6 +27,7 @@
 		- 結果を使う場合は `promise.then` で成功、失敗のコールバックを設定してあげる。
 	- JSのpromiseはDOM __"Futures"__ という名前で始まり、__"Promises"__ にリネームされた
 		- そのためDOMでも使えるし、現にいくつかのDOM APIの仕様でも使われてる
+		- (＊ECMAScript6の仕様の方に入ってるので、DOMがないところでも使える)
 - [ブラウザサポートとpolyfill](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-browser-support "Browser support &amp; polyfill")
 	- (＊ 最新の状態は[Can I use...](http://caniuse.com/#feat=promises "Can I use... Support tables for HTML5, CSS3, etc")等を見ましょう)
 - [他のライブラリとの互換性](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-lib-compatibility "Compatibility with other libraries")
@@ -53,19 +54,18 @@
 		- つまりPromiseコンストラクタ内で例外がおきても `then`/`catch` で[捉えることができる](http://jsfiddle.net/Jsb8x/)
 	- Error handling in practice
 		- promiseではない場合は`try-catch`を使った方法を使う
-		- promiseの場合は `catch` のchainを書くだけのシンプル
-- [Parallelism and sequencing - Getting the best of both](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-parallelism-sequencing "Parallelism and sequencing - Getting the best of both")   
+		- promiseの場合は `.catch()` のchainを書くだけとシンプル
+- [並行と逐次実行](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-parallelism-sequencing "Parallelism and sequencing - Getting the best of both")
+	- Promisesで複数の非同期処理を扱う方法について
+	- `promise.then` を使った非同期処理
+	- ループの中で `promise.then` の非同期処理しても上手く回らないケース
+		- ループでも動くように逐次実行用のpromiseオブジェクトを作る方法
+		- `array.reduce`を使ってmutableな変数を使わないように逐次実行
+	- `Promise.all` を使ってpromiseオブジェクトの配列をまとめて処理する
+	- PromisesとGeneratorsを合わせた使い方
 - [Promise API Reference](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-api "Promise API Reference")
-	- ループでそれぞれpromise.thenしても非同期処理なのでその順序では呼ばれない。
-	- sequence を作る
-		- promiseのsequenceへ処理したい内容を順番に入れる事で実行順序を描く
-		- Array.reduceを使ってもっと綺麗に書く
-	- `Promise.all` を使うことで複数のpromiseに対するコールバックを設定出来る
-- Promises and Generators
-	- PromiseとGenratorを組み合わせる		
-- PromiseのAPIリファレンス
+	- PromiseのAPIリファレンス
 	- （＊ [Promise - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise "Promise - JavaScript | MDN") )
-
 ---
 
 
