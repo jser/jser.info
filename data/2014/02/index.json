@@ -1048,6 +1048,23 @@
             ],
             "date": "2014-02-23T06:07:10.399Z",
             "related-links": []
+        },
+        {
+            "title": "angular/di.js",
+            "url": "https://github.com/angular/di.js",
+            "content": "AngularのDIライブラリ。\nES6で書かれていてTraceurで変換してる。",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library"
+            ],
+            "date": "2014-02-23T06:26:46.433Z",
+            "related-links": [
+                {
+                    "title": "ng-conf-di-v2.pdf",
+                    "url": "https://dl.dropboxusercontent.com/u/36607830/talks/ng-conf-di-v2.pdf"
+                }
+            ]
         }
     ]
 }
