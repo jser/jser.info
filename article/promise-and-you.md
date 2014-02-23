@@ -1,8 +1,13 @@
-## [JavaScript Promises: There and back again - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es6/promises/ "JavaScript Promises: There and back again - HTML5 Rocks")
 
-<div>Promisesについてよくまとまっていて、これを読めばひと通りの流れがわかるようになってる記事</div>
+----
 
-### アウトライン
+<blockquote title="JavaScript Promises: There and back again - HTML5 Rocks">
+<p class="jser-sitelink"><strong>JavaScript Promises: There and back again - HTML5 Rocks</strong><br /> <a title="JavaScript Promises: There and back again - HTML5 Rocks" href="http://www.html5rocks.com/en/tutorials/es6/promises/">http://www.html5rocks.com/en/tutorials/es6/promises/</a></p>
+</blockquote>
+
+Promisesについてよくまとまっていて、これを読めばひと通りの流れがわかるようになってる記事
+
+#### アウトライン
 
 - [何故Promisesなのか?](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-async "What&#39;s all the fuss about?")
 	- 画像がロードの正否でコールバックを呼びたい時
@@ -70,20 +75,63 @@
 - [Promise API Reference](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-api "Promise API Reference")
 	- PromiseのAPIリファレンス
 	- （＊ [Promise - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise "Promise - JavaScript | MDN") )
+
+
 ---
+	
+
+<blockquote title="JavaScript Promises - Thinking Sync in an Async World // Speaker Deck">
+<p class="jser-sitelink"><strong>JavaScript Promises - Thinking Sync in an Async World // Speaker Deck</strong><br />
+<a name="KerrickLongPromise"><a href="https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world" title="JavaScript Promises - Thinking Sync in an Async World // Speaker Deck">https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world</a></a></p>
+</blockquote>
+
+> [▶ JavaScript Promises: Thinking Sync in an Async World - YouTube](http://www.youtube.com/watch?v=wc72cyYt8-c "▶ JavaScript Promises: Thinking Sync in an Async World - YouTube")
+
+Promisesにおけるデータの流れについてよくまとまっているスライド。
+
+promiseの各メソッドについても紹介されているので全体像をさっとみるのに適している。
+
+#### アウトライン
+
+- [Promise Basic](https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world?slide=16)
+	- Promises/A+の実装ライブラリ
+		- [RSVP.js](https://github.com/tildeio/rsvp.js "RSVP.js"), [Q.js](https://github.com/kriskowal/q "q.js"), [Bluebird.js](https://github.com/petkaantonov/bluebird "bluebird.js")
+- [Promise States](https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world?slide=26)
+	- `Pending`,`Fulfilled`, `Rejected` の3つ
+	- `Pending` -(Value)-> `Fulfilled`
+	- `Pending` -(Reason)-> `Rejected`
+- [Promise Prototype Methods](https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world?slide=33)
+	- `Promise.prototype.then`
+	- `Promise.prototype.catch` - `promise.then(null, onFailure)` と同義
+	- `Promise.cast` - オブジェクトをpromiseにする
+	- `Promise.all` - 全てのpromiseが `resolve` された時に次へ行く
+	- `Prmises.race` - ひとつでもpromiseが `resolve` された時に次へ行く
+- [Creating Promises](https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world?slide=54)
+	- `new Promise(function(resolve, reject){/* work */});`
+	- Shortcut
+		- `Promise.resolve`
+		- `Promise.reject`
+- [Advanced Techiniques](https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world?slide=64)
+	- `then` の中での `this` と `bind`
+	- Absorbed Rejections
+		- `.catch` と `console.error` を bindする
+		
+----
 
 
-## [w3ctag/promises-guide](https://github.com/w3ctag/promises-guide "w3ctag/promises-guide")
+<blockquote title="w3ctag/promises-guide">
+<p class="jser-sitelink"><strong>w3ctag/promises-guide</strong><br /> <a href="https://github.com/w3ctag/promises-guide" title="w3ctag/promises-guide">https://github.com/w3ctag/promises-guide</a></p>
+</blockquote>
 
 Promisesはいろいろなライブラリで試されてきた概念で、それを元に[Promises/A+](http://promisesaplus.com/ "Promises/A+")というコミュニティベースな仕様が立ち上げられた。([Promises/A](http://wiki.commonjs.org/wiki/Promises/A "Promises/A"))
 
-この仕様に対して多くのライブラリが適合するようになり、そして今[Promises](http://people.mozilla.org/%7Ejorendorff/es6-draft.html#sec-promise-objects "Promise Objects")は次のECMAScript仕様にも含まれるようになった。
+この仕様に対して多くのライブラリが適合するようになり、そして今[Promisesは次のECMAScript仕様](http://people.mozilla.org/%7Ejorendorff/es6-draft.html#sec-promise-objects "Promise Objects")にも含まれるようになった。
 
 PromisesはWeb Platformにおける非同期処理の一つのパラダイムであり、[Streams API](http://www.w3.org/TR/streams-api/ "Streams API")など他の仕様でも使われつつある。
 
 このドキュメントはどのようにしてPromisesの仕様が作られたか、またPromisesをどのように使うかについて書かれている。
 
-### アウトライン
+#### アウトライン
 
 - [いつPromisesを使うか](https://github.com/w3ctag/promises-guide#when-to-use-promises " When to Use Promises")
 	- "One-and-Done Operations" 一度きりの操作の場合Promisesが適切
@@ -117,37 +165,74 @@ PromisesはWeb Platformにおける非同期処理の一つのパラダイムで
 
 ---
 
-## <a name="KerrickLongPromise"> [JavaScript Promises - Thinking Sync in an Async World // Speaker Deck](https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world "JavaScript Promises - Thinking Sync in an Async World // Speaker Deck")
+### 応用/実践
 
-<script async class="speakerdeck-embed" data-id="15dc2a3071d201314bf25aef2655508f" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<blockquote title="Promise nuggets">
+<p class="jser-sitelink"><strong>Promise nuggets</strong><br /> <a href="http://promise-nuggets.github.io/" title="Promise nuggets">http://promise-nuggets.github.io/</a></p>
+</blockquote>
 
-Promisesにおけるデータの流れについてよくまとまっているスライド。
+Promisesとコールバックを使った実装の比較やPromisesのパターンについて書かれているチュートリアルサイト。
 
-promiseの各メソッドについても紹介されているので全体像をさっとみるのに適している。
+(途中で出てくる`fs.readFileAsync(file)`は[Bluebird](https://github.com/petkaantonov/bluebird "Bluebird")の[Promise.promisifyAll](https://github.com/petkaantonov/bluebird/blob/master/API.md#promisepromisifyallobject-target---object "Promise.promisifyAll")を使ったpromiseを返すバージョンの事)
 
-### アウトライン
+<blockquote title="Why I am switching to promises">
+<p class="jser-sitelink"><strong>Why I am switching to promises</strong><br /> <a href="http://spion.github.io/posts/why-i-am-switching-to-promises.html" title="Why I am switching to promises">http://spion.github.io/posts/why-i-am-switching-to-promises.html</a></p>
+</blockquote>
 
-> [▶ JavaScript Promises: Thinking Sync in an Async World - YouTube](http://www.youtube.com/watch?v=wc72cyYt8-c "▶ JavaScript Promises: Thinking Sync in an Async World - YouTube")
+[Promise nuggets](http://promise-nuggets.github.io/ "Promise nuggets")の著者によって書かれたPromiseの利点についての記事。
 
-- [Promise Basic](https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world?slide=16)
-	- Promises/A+の実装ライブラリ
-		- [RSVP.js](https://github.com/tildeio/rsvp.js "RSVP.js"), [Q.js](https://github.com/kriskowal/q "q.js"), [Bluebird.js](https://github.com/petkaantonov/bluebird "bluebird.js")
-- [Promise States](https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world?slide=26)
-	- `Pending`,`Fulfilled`, `Rejected` の3つ
-	- `Pending` -(Value)-> `Fulfilled`
-	- `Pending` -(Reason)-> `Rejected`
-- [Promise Prototype Methods](https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world?slide=33)
-	- `Promise.prototype.then`
-	- `Promise.prototype.catch` - `promise.then(null, onFailure)` と同義
-	- `Promise.cast` - オブジェクトをpromiseにする
-	- `Promise.all` - 全てのpromiseが `resolve` された時に次へ行く
-	- `Prmises.race` - ひとつでもpromiseが `resolve` された時に次へ行く
-- [Creating Promises](https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world?slide=54)
-	- `new Promise(function(resolve, reject){/* work */});`
-	- Shortcut
-		- `Promise.resolve`
-		- `Promise.reject`
-- [Advanced Techiniques](https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world?slide=64)
-	- `then` の中での `this` と `bind`
-	- Absorbed Rejections
-		- `.catch` と `console.error` を bindする
+throw-safeなエラーハンドリング、パフォーマンスとメモリ消費、promise.nodeifyを使ったコールバックスタイルとの互換性、Promiseの書き方やユースケース等について書かれている。
+
+<blockquote title="Promise Anti-patterns">
+<p class="jser-sitelink"><strong>Promise Anti-patterns</strong><br /> <a href="http://taoofcode.net/promise-anti-patterns/" title="Promise Anti-patterns">http://taoofcode.net/promise-anti-patterns/</a></p>
+</blockquote>
+
+Promisesのアンチパターンについて書かれている記事。
+
+アンチパターンとそれを改善したパターンについて書かれているので、実際に書いてみて疑問に思ったりするパターンについてまとまっている。 
+
+#### アウトライン
+
+- ネストしたPromises
+- `then`の返り値はそれぞれ新しいpromiseを返すために起きるエラーハンドリングのミス
+	- http://www.es6fiddle.net/hs08k5sh/ のようなコードはエラーを`catch`できない
+	- `then` の返り値を返すようにすると`catch`できる http://www.es6fiddle.net/hs08nnaq/
+- 配列を渡してそれぞれについてpromiseを使った処理をする場合に起きる問題
+	- [Parallelism and sequencing - Getting the best of both](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-parallelism-sequencing "Parallelism and sequencing - Getting the best of both")
+	- `Promise.all` は `array.reduce` を使って処理できるようにする
+- 過剰なエラーハンドリング
+	- `then()`の第二引数(`onRejected`)でもエラーハンドリングはできるが
+	- 第一引数の `onFulfilled` 内でエラーが起きた場合に問題が起きる
+- promiseを返す関数であることを忘れて、さらにPromiseで包んでしまう問題
+
+### <a name="promises-library" href="#promises-library">ライブラリ/polyfill</a>
+
+<iframe src="http://caniuse.com/promises/embed/agents=desktop,ios_saf,android"></iframe>
+
+PromisesはChrome/Opera/Firefox等、一部ブラウザでしか実装されていませんが、
+[ECMAScript Language Specification](http://people.mozilla.org/%7Ejorendorff/es6-draft.html#sec-promise-objects "ECMAScript Language Specification ECMA-262 6th Edition – DRAFT")に基づく実装や、[Promises/A+](http://promises-aplus.github.io/promises-spec/ "Promises/A+")の実装ライブラリ等があります。
+(どちらも基本的に挙動はほぼ同じで、API名が異なる部分がある程度です)
+
+また、**Advanced**となっているものは、基本的な実装は同じですがよくあるパターン等を拡張したメソッド等が実装されています。
+
+またどちらのライブラリもAPIドキュメントが充実しるので、このライブラリを直接使わない場合も参照した方が良いこともあると思います。
+
+#### ES6 polyfill
+
+- [yahoo/ypromise](https://github.com/yahoo/ypromise "yahoo/ypromise")
+- [ES6-Promises](https://github.com/jakearchibald/es6-promise "ES6-Promises")
+	- [RSVP.js](https://github.com/tildeio/rsvp.js "RSVP.js")を元にES6の仕様に合うようにマップしたもの
+
+#### Promise/A+
+
+- [then/promise](https://github.com/then/promise "then/promise")
+	- [promises.org](http://www.promisejs.org/ "Promises")の作者による実装
+- [tildeio/rsvp.js](https://github.com/tildeio/rsvp.js "tildeio/rsvp.js")
+- [cujojs/when](https://github.com/cujojs/when "cujojs/when")
+
+#### Advanced
+
+- [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird "petkaantonov/bluebird")
+	- [bluebird/API.md at master · petkaantonov/bluebird](https://github.com/petkaantonov/bluebird/blob/master/API.md "bluebird/API.md at master · petkaantonov/bluebird")
+- [kriskowal/q](https://github.com/kriskowal/q "kriskowal/q")
+	- [API Reference · kriskowal/q Wiki](https://github.com/kriskowal/q/wiki/API-Reference "API Reference · kriskowal/q Wiki")
