@@ -1065,6 +1065,22 @@
                     "url": "https://dl.dropboxusercontent.com/u/36607830/talks/ng-conf-di-v2.pdf"
                 }
             ]
+        },
+        {
+            "title": "Task.js",
+            "url": "http://uupaa.github.io/Task.js/slide/#/",
+            "content": "カウントベースのフローコントロールライブラリ\nhttps://github.com/uupaa/Task.js についてのスライド\n",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-02-23T06:44:39.716Z",
+            "related-links": [
+                {
+                    "title": "Task.js は、非同期処理をスッキリ書ける(よく見かける)ライブラリである - latest log",
+                    "url": "http://uupaa.hatenablog.com/entry/2014/02/21/153344"
+                }
+            ]
         }
     ]
 }
