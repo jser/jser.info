@@ -1,5 +1,26 @@
+## はじめに
+
+この記事は、 ECMAScript6 promisesについてを理解するために読んだ方がよいと思われる記事やスライド等を紹介しています。
+
+promiseと呼ばれるプレースホルダーオブジェクト(よく非同期処理のコンテキストで使われます)はECMAScriptの言語仕様として策定が進められています。
+
+* [ECMAScript Language Specification ECMA-262 6th Edition – DRAFT](http://people.mozilla.org/%7Ejorendorff/es6-draft.html#sec-promise-objects "ECMAScript Language Specification ECMA-262 6th Edition – DRAFT")
+* [domenic/promises-unwrapping](https://github.com/domenic/promises-unwrapping "domenic/promises-unwrapping")
+
+まだER6は仕様の策定段階ですが、既にPromisesについては[polyfillとして利用できるライブラリ](#promises-library)等もあり、また他のライブラリ内でも[jQuery.Deferred()](http://api.jquery.com/category/deferred-object/ "jQuery.Deferred")や[Angularの$q](http://docs.angularjs.org/api/ng/service/$q "$q")等類似する実装が存在します。
+
+そのため、[Generators](http://wiki.ecmascript.org/doku.php?id=harmony:generators "Generators")等に比べると今すぐ使えるし、既に使われている機能といえると思います。
+
+[ES6 Promises](http://people.mozilla.org/%7Ejorendorff/es6-draft.html#sec-promise-objects "ECMAScript Language Specification ECMA-262 6th Edition – DRAFT")はAPIとしてはそこまで数はなく、また類似する実装でも基本的にAPI名が異なるだけで挙動は同様なため(jQuery Defferdはちょっと異なりますが…)、ES6 Promisesについて学ぶことは今すぐ使える知識なので、この機会にPromisesについて調べてみるといいかもしれません。
+
+紹介している記事は長いものも多いので、記事の簡単な概要とアウトラインをつけてあります。
+
+特に読む順番などはないですが(上から順に読みやすい感じにしてはいます)、気になるワードが出てきたものから読んでみるのもいいですね。
 
 ----
+
+## 紹介記事
+
 
 <blockquote title="JavaScript Promises: There and back again - HTML5 Rocks">
 <p class="jser-sitelink"><strong>JavaScript Promises: There and back again - HTML5 Rocks</strong><br /> <a title="JavaScript Promises: There and back again - HTML5 Rocks" href="http://www.html5rocks.com/en/tutorials/es6/promises/">http://www.html5rocks.com/en/tutorials/es6/promises/</a></p>
@@ -167,21 +188,6 @@ PromisesはWeb Platformにおける非同期処理の一つのパラダイムで
 
 ### 応用/実践
 
-<blockquote title="Promise nuggets">
-<p class="jser-sitelink"><strong>Promise nuggets</strong><br /> <a href="http://promise-nuggets.github.io/" title="Promise nuggets">http://promise-nuggets.github.io/</a></p>
-</blockquote>
-
-Promisesとコールバックを使った実装の比較やPromisesのパターンについて書かれているチュートリアルサイト。
-
-(途中で出てくる`fs.readFileAsync(file)`は[Bluebird](https://github.com/petkaantonov/bluebird "Bluebird")の[Promise.promisifyAll](https://github.com/petkaantonov/bluebird/blob/master/API.md#promisepromisifyallobject-target---object "Promise.promisifyAll")を使ったpromiseを返すバージョンの事)
-
-<blockquote title="Why I am switching to promises">
-<p class="jser-sitelink"><strong>Why I am switching to promises</strong><br /> <a href="http://spion.github.io/posts/why-i-am-switching-to-promises.html" title="Why I am switching to promises">http://spion.github.io/posts/why-i-am-switching-to-promises.html</a></p>
-</blockquote>
-
-[Promise nuggets](http://promise-nuggets.github.io/ "Promise nuggets")の著者によって書かれたPromiseの利点についての記事。
-
-throw-safeなエラーハンドリング、パフォーマンスとメモリ消費、promise.nodeifyを使ったコールバックスタイルとの互換性、Promiseの書き方やユースケース等について書かれている。
 
 <blockquote title="Promise Anti-patterns">
 <p class="jser-sitelink"><strong>Promise Anti-patterns</strong><br /> <a href="http://taoofcode.net/promise-anti-patterns/" title="Promise Anti-patterns">http://taoofcode.net/promise-anti-patterns/</a></p>
@@ -205,7 +211,24 @@ Promisesのアンチパターンについて書かれている記事。
 	- 第一引数の `onFulfilled` 内でエラーが起きた場合に問題が起きる
 - promiseを返す関数であることを忘れて、さらにPromiseで包んでしまう問題
 
-### <a name="promises-library" href="#promises-library">ライブラリ/polyfill</a>
+
+<blockquote title="Promise nuggets">
+<p class="jser-sitelink"><strong>Promise nuggets</strong><br /> <a href="http://promise-nuggets.github.io/" title="Promise nuggets">http://promise-nuggets.github.io/</a></p>
+</blockquote>
+
+Promisesとコールバックを使った実装の比較やPromisesのパターンについて書かれているチュートリアルサイト。
+
+(途中で出てくる`fs.readFileAsync(file)`は[Bluebird](https://github.com/petkaantonov/bluebird "Bluebird")の[Promise.promisifyAll](https://github.com/petkaantonov/bluebird/blob/master/API.md#promisepromisifyallobject-target---object "Promise.promisifyAll")を使ったpromiseを返すバージョンの事)
+
+<blockquote title="Why I am switching to promises">
+<p class="jser-sitelink"><strong>Why I am switching to promises</strong><br /> <a href="http://spion.github.io/posts/why-i-am-switching-to-promises.html" title="Why I am switching to promises">http://spion.github.io/posts/why-i-am-switching-to-promises.html</a></p>
+</blockquote>
+
+[Promise nuggets](http://promise-nuggets.github.io/ "Promise nuggets")の著者によって書かれたPromiseの利点についての記事。
+
+throw-safeなエラーハンドリング、パフォーマンスとメモリ消費、promise.nodeifyを使ったコールバックスタイルとの互換性、Promiseの書き方やユースケース等について書かれている。
+
+### <a name="promises-library" href="#promises-library">ライブラリ/polyfill/ツール</a>
 
 <iframe src="http://caniuse.com/promises/embed/agents=desktop,ios_saf,android"></iframe>
 
@@ -233,6 +256,24 @@ PromisesはChrome/Opera/Firefox等、一部ブラウザでしか実装されて�
 #### Advanced
 
 - [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird "petkaantonov/bluebird")
-	- [bluebird/API.md at master · petkaantonov/bluebird](https://github.com/petkaantonov/bluebird/blob/master/API.md "bluebird/API.md at master · petkaantonov/bluebird")
+	- [bluebird/API.md at master · petkaantonov/bluebird](https://github.com/petkaantonov/bluebird/blob/master/API.md "bluebird/API.md at master · petkaantonov/bluebird")					
 - [kriskowal/q](https://github.com/kriskowal/q "kriskowal/q")
 	- [API Reference · kriskowal/q Wiki](https://github.com/kriskowal/q/wiki/API-Reference "API Reference · kriskowal/q Wiki")
+
+### ツール
+
+- [ES6 Fiddle](http://www.es6fiddle.net/ "ES6 Fiddle")
+	- [Traceur](https://github.com/google/traceur-compiler "Traceur")を使ってコンパイルされるため、Promisesをサポートしてないブラウザでもコードを試せる
+	
+----
+
+
+## おわりに
+
+この記事は [あなたが読むべきPromises by azu · Pull Request #17 · azu/jser.info](https://github.com/azu/jser.info/pull/17 "あなたが読むべきPromises by azu · Pull Request #17 · azu/jser.info") で議論(という名のほぼ独り言)を元に書かれました。
+
+[あなたが読むべきPromises by azu · Pull Request #17 · azu/jser.info](https://github.com/azu/jser.info/pull/17 "あなたが読むべきPromises by azu · Pull Request #17 · azu/jser.info") のissueにはこの記事で紹介してない[実装しながら学ぶ](https://github.com/azu/jser.info/pull/17#issuecomment-34645577 "実装しながら学ぶ")系の記事や[モナドネタ](https://github.com/azu/jser.info/pull/17#issuecomment-35089400 "モナドネタ")なども候補に出してましたが、今回は入れてないので興味がある人はそちらも見るといいかもしれません。
+
+また、他にも読まれるべきだと思うものがある場合は、[あなたが読むべきPromises by azu · Pull Request #17 · azu/jser.info](https://github.com/azu/jser.info/pull/17 "あなたが読むべきPromises by azu · Pull Request #17 · azu/jser.info")にコメント等しておけば更新されるかもしれません。
+
+この記事/紹介してる記事がPromisesの理解の助けになればと思います。
