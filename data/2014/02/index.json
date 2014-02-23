@@ -1081,6 +1081,18 @@
                     "url": "http://uupaa.hatenablog.com/entry/2014/02/21/153344"
                 }
             ]
+        },
+        {
+            "title": "Promise Anti-patterns",
+            "url": "http://taoofcode.net/promise-anti-patterns/",
+            "content": "Promisesのアンチパターンについて。\nネストしたpromise、 例外を`catch`できないpromise、配列の中身に対してそれぞれ非同期処理するケース、分岐とpromise、過剰なエラーハンドリング、無駄なpromise",
+            "tags": [
+                "Promises",
+                "デザインパターン",
+                "JavaScript"
+            ],
+            "date": "2014-02-23T07:47:00.654Z",
+            "related-links": []
         }
     ]
 }
