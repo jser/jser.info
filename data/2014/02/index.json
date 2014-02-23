@@ -1025,6 +1025,18 @@
                     "url": "http://www.solitr.com/blog/2014/02/broccoli-first-release/"
                 }
             ]
+        },
+        {
+            "title": "Parse data files using Node.js streams - Nicolas Hery",
+            "url": "http://nicolashery.com/parse-data-files-using-nodejs-streams/",
+            "content": "node streamを使ってCSVをJSONに変換するTransform streamのチュートリアル。\n",
+            "tags": [
+                "node.js",
+                "stream",
+                "tutorial"
+            ],
+            "date": "2014-02-23T03:56:36.763Z",
+            "related-links": []
         }
     ]
 }
