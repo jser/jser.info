@@ -1,6 +1,10 @@
 ## [JavaScript Promises: There and back again - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es6/promises/ "JavaScript Promises: There and back again - HTML5 Rocks")
 
-- 何故Promisesなのか?
+<div>Promisesについてよくまとまっていて、これを読めばひと通りの流れがわかるようになってる記事</div>
+
+### アウトライン
+
+- [何故Promisesなのか?](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-async "What&#39;s all the fuss about?")
 	- 画像がロードの正否でコールバックを呼びたい時
 	- "Event"を使う場合は`load`,`error`イベントで設定できる
 		- 既にロード済みの場合は発火しない
@@ -10,7 +14,7 @@
 	- 既にロード済みでも、**成功**、**失敗** のコールバックは呼ぶことが出来る
 - [Promiseの用語](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-promise-terminology "Promise terminology")
 	- promiseが持つ状態の種類
-		- （＊Kerrick Longによる<a href="#KerrickLongPromise">スライド</a>		がわかりやすい)
+	- （＊Kerrick Longによる<a href="#KerrickLongPromise">スライド</a>		がわかりやすい)
 - [JavaScriptでのPromises](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-javascript-promises "Promises arrive in JavaScript!")
 	- [WinJS.Promise](http://msdn.microsoft.com/en-us/library/windows/apps/br211867.aspx "WinJS.Promise"), [RSVP.js](https://github.com/tildeio/rsvp.js "RSVP.js"), [Q](https://github.com/kriskowal/q "Q"), [when.js](https://github.com/cujojs/when " when.js")のようなライブラリがある
 	- 上記のライブラリは[Promises/A+](https://github.com/promises-aplus/promises-spec "Promises/A+")と呼ばれる仕様を元にしてる
@@ -71,14 +75,15 @@
 
 ## [w3ctag/promises-guide](https://github.com/w3ctag/promises-guide "w3ctag/promises-guide")
 
-Promisesはいろいろなライブラリで試されてきた概念で、それを元に[Promises/A+](http://promisesaplus.com/ "Promises/A+")というコミュニティベースな仕様が立ち上げられた。
+Promisesはいろいろなライブラリで試されてきた概念で、それを元に[Promises/A+](http://promisesaplus.com/ "Promises/A+")というコミュニティベースな仕様が立ち上げられた。([Promises/A](http://wiki.commonjs.org/wiki/Promises/A "Promises/A"))
 
-この仕様に対して多くのライブラリが適合するようになり、そして今、 [Promise Objects](http://people.mozilla.org/%7Ejorendorff/es6-draft.html#sec-promise-objects "Promise Objects")は次のECMAScript仕様にも含まれるようになった。
+この仕様に対して多くのライブラリが適合するようになり、そして今[Promises](http://people.mozilla.org/%7Ejorendorff/es6-draft.html#sec-promise-objects "Promise Objects")は次のECMAScript仕様にも含まれるようになった。
 
 PromisesはWeb Platformにおける非同期処理の一つのパラダイムであり、[Streams API](http://www.w3.org/TR/streams-api/ "Streams API")など他の仕様でも使われつつある。
 
-このドキュメントはどのようにしてPromisesの仕様が作られたか、又promisesをどのように使うかについて書かれている。
+このドキュメントはどのようにしてPromisesの仕様が作られたか、またPromisesをどのように使うかについて書かれている。
 
+### アウトライン
 
 - [いつPromisesを使うか](https://github.com/w3ctag/promises-guide#when-to-use-promises " When to Use Promises")
 	- "One-and-Done Operations" 一度きりの操作の場合Promisesが適切
@@ -103,7 +108,7 @@ PromisesはWeb Platformにおける非同期処理の一つのパラダイムで
 		- (この辺は議論中なのでちゃんと原文を見ましょう)
 		- 正常なコントールフローを管理する
 		- 不必要なタスクのキューとして使わない
-		- 成功やエラーの種類のために、新たに別のコールバックは作らない
+		- 成功やエラーの種類のために、追加で新たに別のコールバックは作らない
 			- `onFulfilled`, `onRejected`に渡す値で分けるべき
 	- [Promise Arguments](https://github.com/w3ctag/promises-guide#promise-arguments " Promise Arguments")
 		- `promises` を引数に受ける関数は `Promise.cast` すべきである。
@@ -116,6 +121,12 @@ PromisesはWeb Platformにおける非同期処理の一つのパラダイムで
 
 <script async class="speakerdeck-embed" data-id="15dc2a3071d201314bf25aef2655508f" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
+Promisesにおけるデータの流れについてよくまとまっているスライド。
+
+promiseの各メソッドについても紹介されているので全体像をさっとみるのに適している。
+
+### アウトライン
+
 > [▶ JavaScript Promises: Thinking Sync in an Async World - YouTube](http://www.youtube.com/watch?v=wc72cyYt8-c "▶ JavaScript Promises: Thinking Sync in an Async World - YouTube")
 
 - [Promise Basic](https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world?slide=16)
@@ -127,8 +138,8 @@ PromisesはWeb Platformにおける非同期処理の一つのパラダイムで
 	- `Pending` -(Reason)-> `Rejected`
 - [Promise Prototype Methods](https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world?slide=33)
 	- `Promise.prototype.then`
-	- `Promise.prototype.catch`
-	- `Promise.cast` 
+	- `Promise.prototype.catch` - `promise.then(null, onFailure)` と同義
+	- `Promise.cast` - オブジェクトをpromiseにする
 	- `Promise.all` - 全てのpromiseが `resolve` された時に次へ行く
 	- `Prmises.race` - ひとつでもpromiseが `resolve` された時に次へ行く
 - [Creating Promises](https://speakerdeck.com/kerrick/javascript-promises-thinking-sync-in-an-async-world?slide=54)
