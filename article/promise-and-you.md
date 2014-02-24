@@ -2,12 +2,13 @@
 
 この記事は、 ECMAScript6 promisesについてを理解するために読んだ方がよいと思われる記事やスライド等を紹介しています。
 
-promiseと呼ばれるプレースホルダーオブジェクト(よく非同期処理のコンテキストで使われます)はECMAScriptの言語仕様として策定が進められています。
+PromisesやDeferredといった言葉を非同期処理の話などで聞いた事があるかもしれませんが、
+現在Promisesは次のECMAScriptの言語仕様として策定が進められています。
 
 * [ECMAScript Language Specification ECMA-262 6th Edition – DRAFT](http://people.mozilla.org/%7Ejorendorff/es6-draft.html#sec-promise-objects "ECMAScript Language Specification ECMA-262 6th Edition – DRAFT")
 * [domenic/promises-unwrapping](https://github.com/domenic/promises-unwrapping "domenic/promises-unwrapping")
 
-まだER6は仕様の策定段階ですが、既にPromisesについては[polyfillとして利用できるライブラリ](#promises-library)等もあり、また他のライブラリ内でも[jQuery.Deferred()](http://api.jquery.com/category/deferred-object/ "jQuery.Deferred")や[Angularの$q](http://docs.angularjs.org/api/ng/service/$q "$q")等類似する実装が存在します。
+まだES6は策定段階ですが、既にPromisesについては[polyfillとして利用できるライブラリ](#promises-library)等もあり、また他のライブラリ内でも[jQuery.Deferred()](http://api.jquery.com/category/deferred-object/ "jQuery.Deferred")や[Angularの$q](http://docs.angularjs.org/api/ng/service/$q "$q")等類似する実装が存在します。
 
 そのため、[Generators](http://wiki.ecmascript.org/doku.php?id=harmony:generators "Generators")等に比べると今すぐ使えるし、既に使われている機能といえると思います。
 
@@ -15,7 +16,7 @@ promiseと呼ばれるプレースホルダーオブジェクト(よく非同期
 
 紹介している記事は長いものも多いので、記事の簡単な概要とアウトラインをつけてあります。
 
-特に読む順番などはないですが(上から順に読みやすい感じにしてはいます)、気になるワードが出てきたものから読んでみるのもいいですね。
+特に読むべき順番などはないですが(上から順に読みやすい感じにしてはいます)、気になるワードが出てきたものから読んでみるのもいいですね。
 
 ----
 
@@ -238,7 +239,7 @@ PromisesはChrome/Opera/Firefox等、一部ブラウザでしか実装されて�
 
 また、**Advanced**となっているものは、基本的な実装は同じですがよくあるパターン等を拡張したメソッド等が実装されています。
 
-またどちらのライブラリもAPIドキュメントが充実しるので、このライブラリを直接使わない場合も参照した方が良いこともあると思います。
+またどちらのライブラリもAPIドキュメントが充実しているので、このライブラリを直接使わない場合でも見ておくといいかもしれません。
 
 #### ES6 polyfill
 
@@ -270,9 +271,18 @@ PromisesはChrome/Opera/Firefox等、一部ブラウザでしか実装されて�
 
 ## おわりに
 
-この記事は [あなたが読むべきPromises by azu · Pull Request #17 · azu/jser.info](https://github.com/azu/jser.info/pull/17 "あなたが読むべきPromises by azu · Pull Request #17 · azu/jser.info") で議論(という名のほぼ独り言)を元に書かれました。
+Promisesはコールバックの深いネストを減らせるという見た目的な問題だけではなく、
+非同期処理の複雑なエラーハンドリングを分かりやすく書くことが出来る点等もメリットだと思います。
 
-[あなたが読むべきPromises by azu · Pull Request #17 · azu/jser.info](https://github.com/azu/jser.info/pull/17 "あなたが読むべきPromises by azu · Pull Request #17 · azu/jser.info") のissueにはこの記事で紹介してない[実装しながら学ぶ](https://github.com/azu/jser.info/pull/17#issuecomment-34645577 "実装しながら学ぶ")系の記事や[モナドネタ](https://github.com/azu/jser.info/pull/17#issuecomment-35089400 "モナドネタ")なども候補に出してましたが、今回は入れてないので興味がある人はそちらも見るといいかもしれません。
+非同期のタイミングで値が入った時にどうするか?という事を書いた器(promiseオブジェクト)をやりとりすることで、
+コールバックをネストした時に比べてあちこちに点々とする値ではなく、promiseオブジェクトという器に対して処理を集中して書けることが特徴だと思います。
+
+そのため、器であるpromiseオブジェクトに対して何度もデータを入れるような"Event"や"Stream"と言った動作にはPromisesは不向きであるかもしれません。
+必ずしも全てがPromisesで賄えるわけではないため、ひとつの手段として知っておくことが大切と言えると思います。
+
+最後に、この記事は [あなたが読むべきPromises by azu · Pull Request #17 · azu/jser.info](https://github.com/azu/jser.info/pull/17 "あなたが読むべきPromises by azu · Pull Request #17 · azu/jser.info") で議論(という名のほぼ独り言)を元に書かれました。
+
+このissueにはこの記事で紹介してない[実装しながら学ぶ](https://github.com/azu/jser.info/pull/17#issuecomment-34645577 "実装しながら学ぶ")系の記事や[モナドネタ](https://github.com/azu/jser.info/pull/17#issuecomment-35089400 "モナドネタ")なども候補に出してましたが、今回は入れてないので興味がある人はそちらも見るといいかもしれません。
 
 また、他にも読まれるべきだと思うものがある場合は、[あなたが読むべきPromises by azu · Pull Request #17 · azu/jser.info](https://github.com/azu/jser.info/pull/17 "あなたが読むべきPromises by azu · Pull Request #17 · azu/jser.info")にコメント等しておけば更新されるかもしれません。
 
