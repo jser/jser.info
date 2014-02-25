@@ -1,6 +1,6 @@
 ## はじめに
 
-この記事は、 ECMAScript6 promisesについてを理解するために読んだ方がよいと思われる記事やスライド等を紹介しています。
+この記事は、 JavaScript/ES6 promisesについてを理解するために読んだ方がよいと思われる記事やスライド等を紹介しています。
 
 PromisesやDeferredといった言葉を非同期処理の話などで聞いた事があるかもしれませんが、
 現在Promisesは次のECMAScriptの言語仕様として策定が進められています。
@@ -32,7 +32,7 @@ Promisesについてよくまとまっていて、これを読めばひと通り
 #### アウトライン
 
 - [何故Promisesなのか?](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-async "What&#39;s all the fuss about?")
-	- 画像がロードの正否でコールバックを呼びたい時
+	- 画像がロードの成否でコールバックを呼びたい時
 	- "Event"を使う場合は`load`,`error`イベントで設定できる
 		- 既にロード済みの場合は発火しない
 		- そのため`complete` プロパティで判定して分岐する必要がある
@@ -159,7 +159,7 @@ PromisesはWeb Platformにおける非同期処理の一つのパラダイムで
 	- "One-and-Done Operations" 一度きりの操作の場合Promisesが適切
 	- 同期的な関数は値を返すか例外を投げる
 	- 非同期な関数は `promise` を返す
-		- `promise` は 値を `fulfilled` するか、又は理由と共に `rejected` する
+		- `promise` は 値を `fulfilled` する or 理由と共に `rejected` する
 	- 今までのweb platformの仕様でも非同期操作は存在した
 	- それは `onsuccess`/`onerror` のようなイベントかコールバックで表現されていた
 	- 一度きりの "Event" としてのPormises
@@ -181,7 +181,7 @@ PromisesはWeb Platformにおける非同期処理の一つのパラダイムで
 		- 成功やエラーの種類のために、追加で新たに別のコールバックは作らない
 			- `onFulfilled`, `onRejected`に渡す値で分けるべき
 	- [Promise Arguments](https://github.com/w3ctag/promises-guide#promise-arguments " Promise Arguments")
-		- `promises` を引数に受ける関数は `Promise.cast` すべきである。
+		- `promiseオブジェクト` を引数に受ける関数は `Promise.cast` すべきである。
 - [Shorthand Phrases](https://github.com/w3ctag/promises-guide#shorthand-phrases " Shorthand Phrases")
 	- 仕様を読み書きするときに便利なフレーズ集
 
@@ -231,7 +231,7 @@ throw-safeなエラーハンドリング、パフォーマンスとメモリ消�
 
 ### <a name="promises-library" href="#promises-library">ライブラリ/polyfill/ツール</a>
 
-<iframe src="http://caniuse.com/promises/embed/agents=desktop,ios_saf,android"></iframe>
+<iframe src="http://caniuse.com/promises/embed/agents=desktop,ios_saf,android" width="100%" height="300"></iframe>
 
 PromisesはChrome/Opera/Firefox等、一部ブラウザでしか実装されていませんが、
 [ECMAScript Language Specification](http://people.mozilla.org/%7Ejorendorff/es6-draft.html#sec-promise-objects "ECMAScript Language Specification ECMA-262 6th Edition – DRAFT")に基づく実装や、[Promises/A+](http://promises-aplus.github.io/promises-spec/ "Promises/A+")の実装ライブラリ等があります。
