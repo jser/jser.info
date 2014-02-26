@@ -1179,6 +1179,18 @@
                     "url": "http://chimera.labs.oreilly.com/books/1234000000802"
                 }
             ]
+        },
+        {
+            "title": "Announcing TypeScript 1.0RC - TypeScript - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/typescript/archive/2014/02/25/announcing-typescript-1-0rc.aspx",
+            "content": "TypeScript 1.0RCリリース。\n0.9.7として開発されてたもの。\n別々の`interface` で宣言されたばあいもoverloadがマージされるように、lib.d.tsのWebGL周りが改善。",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote",
+                "WebGL"
+            ],
+            "date": "2014-02-26T05:15:45.397Z",
+            "related-links": []
         }
     ]
 }
