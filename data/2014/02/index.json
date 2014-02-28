@@ -1247,6 +1247,18 @@
             ],
             "date": "2014-02-28T00:40:54.495Z",
             "related-links": []
+        },
+        {
+            "title": "Test Console - automated functional UI testing in the cloud",
+            "url": "https://testconsole.com/",
+            "content": "CasperやSelenium+JUnit等でUIテストを書いて任意のサイトに対して実行してくれるサービス。\n任意のURLに対して実行し、テスト結果のレポートを見られる",
+            "tags": [
+                "webservice",
+                "debug",
+                "testing"
+            ],
+            "date": "2014-02-28T13:18:13.285Z",
+            "related-links": []
         }
     ]
 }
