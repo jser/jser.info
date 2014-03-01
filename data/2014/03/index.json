@@ -20,6 +20,17 @@
             ],
             "date": "2014-02-28T15:46:14.622Z",
             "related-links": []
+        },
+        {
+            "title": "Webアプリ開発者のためのHTML5セキュリティ入門",
+            "url": "http://www.slideshare.net/muneakinishimura/webhtml5-31749532",
+            "content": "CORS、XHR Lv2のリクエストヘッダにCSRF検証用のカスタムヘッダを付ける話、WebSocketにはOriginの制限がないためOriginの検証について。\nContent-Typeとnosniff、WebStorageとクッキーのアクセス権範囲の違いや使い分けについて。\nCSPの機能解説。",
+            "tags": [
+                "XHR",
+                "スライド"
+            ],
+            "date": "2014-03-01T05:02:23.087Z",
+            "related-links": []
         }
     ]
 }
