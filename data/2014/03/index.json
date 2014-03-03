@@ -64,6 +64,18 @@
             ],
             "date": "2014-03-03T08:02:26.359Z",
             "related-links": []
+        },
+        {
+            "title": "defunctzombie/zuul · GitHub",
+            "url": "https://github.com/defunctzombie/zuul",
+            "content": "CommonJSで書いたコードをBrowserifyを使い変換してブラウザでテストを実行出来る。\nmochaやqunitやtape、jasmine等をサポートしてる。\nまた、SauceLabでテストを実行もサポートされてる。\n\n![screenshot](http://gyazo.com/89c7fe1dcfd56ca2697bb74114926512.gif)",
+            "tags": [
+                "JavaScript",
+                "browserify",
+                "testing"
+            ],
+            "date": "2014-03-03T13:20:45.424Z",
+            "related-links": []
         }
     ]
 }
