@@ -111,6 +111,19 @@
             ],
             "date": "2014-03-05T13:11:43.782Z",
             "related-links": []
+        },
+        {
+            "title": "Environment-specific Builds With Grunt, Gulp or Broccoli",
+            "url": "http://addyosmani.com/blog/environment-specific-builds-with-grunt-gulp-or-broccoli/",
+            "content": "jsファイル等のパスをプロダクションとデバッグ時で切り替える3つの方法を3つのビルドツールで。\n置換、条件付きコメント、テンプレート",
+            "tags": [
+                "JavaScript",
+                "Grunt",
+                "gulp",
+                "Tools"
+            ],
+            "date": "2014-03-05T13:29:55.425Z",
+            "related-links": []
         }
     ]
 }
