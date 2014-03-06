@@ -136,6 +136,31 @@
             ],
             "date": "2014-03-06T01:04:38.702Z",
             "related-links": []
+        },
+        {
+            "title": "Release v1.9.0: 1.9.0 · cjohansen/Sinon.JS",
+            "url": "https://github.com/cjohansen/Sinon.JS/releases/tag/v1.9.0",
+            "content": "Sinon.JS 1.9.0リリース。\n`sinon.assert.match` の追加、ProgressEvent/CustomEventのサポート、バグ修正等",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library"
+            ],
+            "date": "2014-03-06T01:37:41.374Z",
+            "related-links": [
+                {
+                    "title": "Sinon.JS - Documentation",
+                    "url": "http://sinonjs.org/"
+                },
+                {
+                    "title": "Sinon.JS/Changelog.txt at master · cjohansen/Sinon.JS",
+                    "url": "https://github.com/cjohansen/Sinon.JS/blob/master/Changelog.txt"
+                },
+                {
+                    "title": "Add sinon.assert.match by ropez · Pull Request #410 · cjohansen/Sinon.JS",
+                    "url": "https://github.com/cjohansen/Sinon.JS/pull/410"
+                }
+            ]
         }
     ]
 }
