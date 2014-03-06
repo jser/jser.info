@@ -135,7 +135,12 @@
                 "Tools"
             ],
             "date": "2014-03-06T01:04:38.702Z",
-            "related-links": [{ "title" : "Gruntとgulp.jsでサイトパフォーマンスを向上させる - ワザノバ | wazanova", "url" : "http://wazanova.jp/items/1128"}]
+            "related-links": [
+                {
+                    "title": "Gruntとgulp.jsでサイトパフォーマンスを向上させる - ワザノバ | wazanova",
+                    "url": "http://wazanova.jp/items/1128"
+                }
+            ]
         },
         {
             "title": "Release v1.9.0: 1.9.0 · cjohansen/Sinon.JS",
@@ -161,6 +166,20 @@
                     "url": "https://github.com/cjohansen/Sinon.JS/pull/410"
                 }
             ]
+        },
+        {
+            "title": "CutJS — DOM + jQuery for Canvas",
+            "url": "http://cutjs.org/",
+            "content": "DOM/jQueryっぽいAPIでCanvasに描画出来るライブラリ",
+            "tags": [
+                "JavaScript",
+                "jQuery",
+                "DOM",
+                "canvas",
+                "library"
+            ],
+            "date": "2014-03-06T06:08:19.530Z",
+            "related-links": []
         }
     ]
 }
