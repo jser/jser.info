@@ -180,6 +180,21 @@
             ],
             "date": "2014-03-06T06:08:19.530Z",
             "related-links": []
+        },
+        {
+            "title": "Partial Application in JavaScript using bind()",
+            "url": "http://passy.svbtle.com/partial-application-in-javascript-using-bind",
+            "content": "`bind` のthisバインドと、部分適応を利用した書き方について。\n第一引数のみ異なるイベントハンドラで無名関数なしでも同様な事が出来る例を紹介している",
+            "tags": [
+                "JavaScript"
+            ],
+            "date": "2014-03-07T07:36:55.290Z",
+            "related-links": [
+                {
+                    "title": "JavaScriptでbind()を使って部分適用する - HackerNews翻訳してみた",
+                    "url": "http://rdepf.hatenablog.jp/entry/2014/02/25/195352"
+                }
+            ]
         }
     ]
 }
