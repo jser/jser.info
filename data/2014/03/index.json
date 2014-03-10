@@ -268,6 +268,19 @@
             ],
             "date": "2014-03-09T13:20:26.278Z",
             "related-links": []
+        },
+        {
+            "title": "testling-ciとtravis-ciでクライアントサイドもサーバサイドもテストを実行する - from scratch",
+            "url": "http://yosuke-furukawa.hatenablog.com/entry/2014/03/08/115537",
+            "content": "Noeでコードを書いて、tapeでテストを書いたものを、testlingとbrowserifyを使ってブラウザでもテストを動かす方法について。\ntestling-ci で各ブラウザのテスト結果を得られる",
+            "tags": [
+                "browserify",
+                "testing",
+                "webservice",
+                "CI"
+            ],
+            "date": "2014-03-10T07:17:34.579Z",
+            "related-links": []
         }
     ]
 }
