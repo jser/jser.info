@@ -281,6 +281,17 @@
             ],
             "date": "2014-03-10T07:17:34.579Z",
             "related-links": []
+        },
+        {
+            "title": "Node.jsのコールバック地獄をPromiseやGeneratorを使って解消する - HackerNews翻訳してみた",
+            "url": "http://rdepf.hatenablog.jp/entry/2014/03/07/122337",
+            "content": "ディレクトリからファイル一覧を見るようなコードで、コールバックのネストをどのように解消するかについて。\nモジュールでの分離、Async、Promises、Generator、それぞれのやり方と特徴について解説してる",
+            "tags": [
+                "JavaScript",
+                "Promises"
+            ],
+            "date": "2014-03-10T12:32:07.012Z",
+            "related-links": []
         }
     ]
 }
