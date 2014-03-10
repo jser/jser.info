@@ -292,6 +292,17 @@
             ],
             "date": "2014-03-10T12:32:07.012Z",
             "related-links": []
+        },
+        {
+            "title": "Object.observeについて - JS.next",
+            "url": "http://js-next.hatenablog.com/entry/2014/03/08/185434",
+            "content": "ES7のObject.observeがV8でデフォルト有効へ。\nオブジェクトの変更の監視の基本的な使い方、監視出来る対象、通知の種類、MutationObserverとの組み合わせについて等",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2014-03-10T12:41:26.891Z",
+            "related-links": []
         }
     ]
 }
