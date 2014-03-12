@@ -361,6 +361,28 @@
                     "url": "http://emberjs.com/guides/"
                 }
             ]
+        },
+        {
+            "title": "Karma - Changelog",
+            "url": "http://karma-runner.github.io/0.12/about/changelog.html",
+            "content": "Karma 0.12.0 リリース。\nJasmine 2.0のサポート、ファイル監視のパフォーマンス改善、sourcemapのサポート(スタックトレースの書き換え)",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "testing",
+                "ReleaseNote"
+            ],
+            "date": "2014-03-12T01:57:33.775Z",
+            "related-links": [
+                {
+                    "title": "Karma 0.12 is out - Google グループ",
+                    "url": "https://groups.google.com/forum/#!topic/karma-users/6svHczOwCiM"
+                },
+                {
+                    "title": "Use source maps for stacktraces · Issue #594 · karma-runner/karma",
+                    "url": "https://github.com/karma-runner/karma/issues/594"
+                }
+            ]
         }
     ]
 }
