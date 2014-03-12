@@ -430,6 +430,17 @@
             ],
             "date": "2014-03-12T03:01:15.444Z",
             "related-links": []
+        },
+        {
+            "title": "A Year with Browserify - ÆFLASH",
+            "url": "http://aeflash.com/2014-03/a-year-with-browserify.html",
+            "content": "Browserifyでの開発についてよくまとまってる。\nnpmで管理できるメリット、npm linkやnodeモジュールでの依存関係の解決がそのまま利用できる。\n既存ライブラリがある場合のビルドを高速化する方法としてshimやビルド自体を分ける事、バージョンが異なるライブラリの依存をaliasで解決。\ngruntでのビルド、相対パスが深くなるのをaliasMappingsでフラットにする方法などよくまとまっている。",
+            "tags": [
+                "browserify",
+                "まとめ"
+            ],
+            "date": "2014-03-12T09:22:57.233Z",
+            "related-links": []
         }
     ]
 }
