@@ -411,7 +411,7 @@
         {
             "title": "bower/CHANGELOG.md at master · bower/bower",
             "url": "https://github.com/bower/bower/blob/master/CHANGELOG.md#130---2014-03-10",
-            "content": "Bower 1.3.0リリース。\nopt-inで統計データの収集するBower Insight、パッケージがAMD/CJS/globalなのかを示す`moduleType`の追加、installの前後にhook scriptを設定可能に、SVNのサポート、",
+            "content": "Bower 1.3.0リリース。\nopt-inで統計データの収集するBower Insight、パッケージがAMD/CJS/globalなのかを示す`moduleType`の追加、installの前後にhook scriptを設定可能に、SVNのサポート",
             "tags": [
                 "Tools",
                 "browser"
