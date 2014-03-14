@@ -496,6 +496,29 @@
             ],
             "date": "2014-03-14T01:18:06.353Z",
             "related-links": []
+        },
+        {
+            "title": "mocha/History.md at master · visionmedia/mocha",
+            "url": "https://github.com/visionmedia/mocha/blob/master/History.md#1180--2014-03-13",
+            "content": "mocha 1.18.0リリース。\npromiseのテストをサポート。\nhttps://github.com/azu/mocha-support-promise promiseオブジェクトをreturnするだけで良くなる",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-03-14T01:58:03.461Z",
+            "related-links": [
+                {
+                    "title": "Adding promise support to runnables (and thus tests). by domenic · Pull Request #329 · visionmedia/mocha",
+                    "url": "https://github.com/visionmedia/mocha/pull/329"
+                },
+                {
+                    "title": "azu/mocha-support-promise",
+                    "url": "https://github.com/azu/mocha-support-promise"
+                }
+            ]
         }
     ]
 }
