@@ -534,6 +534,17 @@
             ],
             "date": "2014-03-15T06:40:44.700Z",
             "related-links": []
+        },
+        {
+            "title": "Async Programming Part 3: Finally - Brian Cavalier",
+            "url": "http://briancavalier.github.io/async-programming-part-3-finally",
+            "content": "Promisesでのエラーハンドリングのプラクティス。try-catchとpromiseの場合の違い。\n`otherwise` は `catch` と同じ。\npromiseを処理するfinally的なものを書くときに、渡した値を捨てないようにする",
+            "tags": [
+                "Promises",
+                "debug"
+            ],
+            "date": "2014-03-15T13:36:26.480Z",
+            "related-links": []
         }
     ]
 }
