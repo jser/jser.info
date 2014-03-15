@@ -517,8 +517,23 @@
                 {
                     "title": "azu/mocha-support-promise",
                     "url": "https://github.com/azu/mocha-support-promise"
-                },{ "title" : "MochaがPromisesのテストをサポートしました | Web scratch", "url" : "http://efcl.info/2014/0314/res3708/"}
+                },
+                {
+                    "title": "MochaがPromisesのテストをサポートしました | Web scratch",
+                    "url": "http://efcl.info/2014/0314/res3708/"
+                }
             ]
+        },
+        {
+            "title": "ES6 - Next Generation Javascript",
+            "url": "http://www.slideshare.net/RameshNair6/es6-next-generation-javascript",
+            "content": "ES6の新しいsyntaxについてのスライド.\nsyntaxの紹介、ES5との違い、サポートブラウザの状況がよくまとまってる。\n特に`...`の使い方についてユースケース、Generatorの使い方、Typed objects、module構文について詳しい",
+            "tags": [
+                "ECMAScript",
+                "スライド"
+            ],
+            "date": "2014-03-15T06:40:44.700Z",
+            "related-links": []
         }
     ]
 }
