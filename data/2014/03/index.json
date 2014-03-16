@@ -646,6 +646,19 @@
             ],
             "date": "2014-03-16T10:36:36.428Z",
             "related-links": []
+        },
+        {
+            "title": "termi/es6-transpiler",
+            "url": "https://github.com/termi/es6-transpiler",
+            "content": "ES6をES5に変換する実装。\ntraceur-compilerと違って、no runtime libraryで実行出来るようするなど",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "library",
+                "Tools"
+            ],
+            "date": "2014-03-16T12:45:14.644Z",
+            "related-links": []
         }
     ]
 }
