@@ -570,6 +570,22 @@
             ],
             "date": "2014-03-16T06:30:14.484Z",
             "related-links": []
+        },
+        {
+            "title": "azer/prettify-error",
+            "url": "https://github.com/azer/prettify-error",
+            "content": "errorオブジェクトからerrorが発生した前後の行のコードを表示してくれるnode module.\n",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-03-16T06:37:07.123Z",
+            "related-links": [
+                {
+                    "title": "azer/failing-code",
+                    "url": "https://github.com/azer/failing-code"
+                }
+            ]
         }
     ]
 }
