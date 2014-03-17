@@ -687,6 +687,22 @@
             ],
             "date": "2014-03-17T05:37:22.483Z",
             "related-links": []
+        },
+        {
+            "title": "ExpressJS 4.0: New Features and Upgrading from 3.0 ♥ Scotch",
+            "url": "http://scotch.io/bar-talk/expressjs-4-0-new-features-and-upgrading-from-3-0",
+            "content": "ExpressJS 4.0 rc1リリース。\nExpressJS 4.0の変更点等についてまとまってる。",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "date": "2014-03-17T12:49:11.993Z",
+            "related-links": [
+                {
+                    "title": "Migrating from 3.x to 4.x · visionmedia/express Wiki",
+                    "url": "https://github.com/visionmedia/express/wiki/Migrating-from-3.x-to-4.x#changed"
+                }
+            ]
         }
     ]
 }
