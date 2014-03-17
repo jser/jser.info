@@ -659,6 +659,22 @@
             ],
             "date": "2014-03-16T12:45:14.644Z",
             "related-links": []
+        },
+        {
+            "title": "azer/prova",
+            "url": "https://github.com/azer/prova",
+            "content": "tape + browserifyなtest runner。\nテストの失敗の表示に prettify-error を使ったりして見やすくしてる",
+            "tags": [
+                "browserify",
+                "testing"
+            ],
+            "date": "2014-03-17T02:30:26.112Z",
+            "related-links": [
+                {
+                    "title": "azer/prettify-error",
+                    "url": "https://github.com/azer/prettify-error"
+                }
+            ]
         }
     ]
 }
