@@ -703,6 +703,23 @@
                     "url": "https://github.com/visionmedia/express/wiki/Migrating-from-3.x-to-4.x#changed"
                 }
             ]
+        },
+        {
+            "title": "Making Change.org — Promises and Error Handling",
+            "url": "http://making.change.org/post/69613524472/promises-and-error-handling",
+            "content": "Promisesのエラーハンドリングについて。\nrejectする時はエラーオブジェクトを渡す、onRejectが呼ばれないパターンと`catch`の活用、`finally`はcleanupに使う、`done` を呼ぶことで次の処理に移る場合はエラーの時も忘れずに呼ぶ",
+            "tags": [
+                "Promises",
+                "debug",
+                "JavaScript"
+            ],
+            "date": "2014-03-17T13:50:45.614Z",
+            "related-links": [
+                {
+                    "title": "あなたが読むべきJavaScript Promises | JSer.info",
+                    "url": "http://jser.info/post/77696682011/es6-promises"
+                }
+            ]
         }
     ]
 }
