@@ -675,6 +675,18 @@
                     "url": "https://github.com/azer/prettify-error"
                 }
             ]
+        },
+        {
+            "title": "azer/memdiff",
+            "url": "https://github.com/azer/memdiff",
+            "content": "BDDなテストを書く感じで書けるnode.jsのメモリリークの調査ライブラリ。",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "node.js"
+            ],
+            "date": "2014-03-17T05:37:22.483Z",
+            "related-links": []
         }
     ]
 }
