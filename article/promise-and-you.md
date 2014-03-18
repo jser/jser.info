@@ -194,6 +194,8 @@ PromisesはWeb Platformにおける非同期処理の一つのパラダイムで
 <p class="jser-sitelink"><strong>Promise Anti-patterns</strong><br /> <a href="http://taoofcode.net/promise-anti-patterns/" title="Promise Anti-patterns">http://taoofcode.net/promise-anti-patterns/</a></p>
 </blockquote>
 
+訳: [Promiseアンチパターン - くじら公園](http://p-baleine.hatenablog.com/entry/2014/03/14/085536 "Promiseアンチパターン - くじら公園")
+
 Promisesのアンチパターンについて書かれている記事。
 
 アンチパターンとそれを改善したパターンについて書かれているので、実際に書いてみて疑問に思ったりするパターンについてまとまっている。 
