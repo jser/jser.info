@@ -767,6 +767,22 @@
             ],
             "date": "2014-03-18T05:30:54.802Z",
             "related-links": []
+        },
+        {
+            "title": "▶ InstaBuster: JavaScript testing with LightTable & Buster.JS - YouTube",
+            "url": "http://www.youtube.com/watch?v=WKHWazblpbc",
+            "content": "Light Table上でBuster.JSでのテスト結果をインライン表示するプラグイン。\nテストコードにそのまま結果が表示されていて面白い",
+            "tags": [
+                "BusterJS",
+                "testing"
+            ],
+            "date": "2014-03-18T13:00:06.814Z",
+            "related-links": [
+                {
+                    "title": "busterjs/lt-instabuster",
+                    "url": "https://github.com/busterjs/lt-instabuster"
+                }
+            ]
         }
     ]
 }
