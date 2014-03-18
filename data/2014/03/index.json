@@ -720,6 +720,19 @@
                     "url": "http://jser.info/post/77696682011/es6-promises"
                 }
             ]
+        },
+        {
+            "title": "The state of JavaScript Linting",
+            "url": "http://www.slideshare.net/mischah/js-linting",
+            "content": "JavaScriptのLintツールについてまとまってるスライド。ドイツ語。 \nJSのLintツールの歴史、JSHint/JSHint/ESLintの開発スタイル、機能的な特徴、オプション、検出可能なルールの紹介等",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "スライド",
+                "歴史"
+            ],
+            "date": "2014-03-18T00:49:58.080Z",
+            "related-links": []
         }
     ]
 }
