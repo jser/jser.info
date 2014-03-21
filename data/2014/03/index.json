@@ -857,6 +857,22 @@
                     "url": "http://speakingjs.com/"
                 }
             ]
+        },
+        {
+            "title": "ES6 in Real Life",
+            "url": "http://www.slideshare.net/domenicdenicola/es6-in-real-life",
+            "content": "ArrowFunction、class syntaxの紹介。\nまたES6のブラウザの実装状況や対応するshimやtranspilerについて。",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2014-03-21T11:15:09.209Z",
+            "related-links": [
+                {
+                    "title": "lukehoban/es6features",
+                    "url": "https://github.com/lukehoban/es6features"
+                }
+            ]
         }
     ]
 }
