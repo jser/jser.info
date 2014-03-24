@@ -995,6 +995,22 @@
                     "url": "http://nekman.se/object-observe/"
                 }
             ]
+        },
+        {
+            "title": "l33t literals in JavaScript - appendTo",
+            "url": "http://appendto.com/2014/02/l33t-literals-javascript/",
+            "content": "オブジェクトをドットで繋いで書くと、プロパティが存在してない場合にエラーになるかもしれないので、その辺を安全に取得するためのライブラリについて",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-03-24T12:05:16.257Z",
+            "related-links": [
+                {
+                    "title": "nicholascloud/l33teral",
+                    "url": "https://github.com/nicholascloud/l33teral"
+                }
+            ]
         }
     ]
 }
