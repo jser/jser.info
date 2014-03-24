@@ -975,6 +975,26 @@
                     "url": "https://hacks.mozilla.org/2013/12/split-console-pretty-print-minified-js-and-more-firefox-developer-tools-episode-28/"
                 }
             ]
+        },
+        {
+            "title": "Why I'm Excited About Object.observe",
+            "url": "http://amasad.me/2014/03/16/why-im-excited-about-objectobserve/",
+            "content": "ES7で予定されてる/V8でデフォルト有効になったObject.observeについて。\n",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2014-03-24T12:00:17.392Z",
+            "related-links": [
+                {
+                    "title": "Object.observe()とNode.jsのイベントループの関係 - ぼちぼち日記",
+                    "url": "http://d.hatena.ne.jp/jovi0608/20140320/1395294325"
+                },
+                {
+                    "title": "Object.observe | nekman",
+                    "url": "http://nekman.se/object-observe/"
+                }
+            ]
         }
     ]
 }
