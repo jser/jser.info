@@ -951,6 +951,30 @@
                     "url": "http://fluentconf.com/fluent2014"
                 }
             ]
+        },
+        {
+            "title": "Firefox 28.0 リリースノート",
+            "url": "http://www.mozilla.jp/firefox/28.0/releasenotes/",
+            "content": "Firefox 28 リリース。\nWebM/VP9、spdy/3の実装、`File`コンストラクタの実装等",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "date": "2014-03-24T09:30:29.916Z",
+            "related-links": [
+                {
+                    "title": "Firefox 28 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/ja/docs/Mozilla/Firefox/Releases/28"
+                },
+                {
+                    "title": "Firefox 28 が正式リリース、Flexbox によるマルチラインレイアウトが可能に | WWW WATCH",
+                    "url": "http://hyper-text.org/archives/2014/03/firefox_28_release.shtml"
+                },
+                {
+                    "title": "Split console, pretty-print minified JS and more – Firefox Developer Tools Episode 28 ✩ Mozilla Hacks – the Web developer blog",
+                    "url": "https://hacks.mozilla.org/2013/12/split-console-pretty-print-minified-js-and-more-firefox-developer-tools-episode-28/"
+                }
+            ]
         }
     ]
 }
