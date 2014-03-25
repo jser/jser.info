@@ -1052,6 +1052,23 @@
                     "url": "https://github.com/jquery/jquery/commit/027d470b574e15c94cda28f5e2c7a0ed54c11fa6"
                 }
             ]
+        },
+        {
+            "title": "Build your own TDD boilerplate project for JavaScript | dfkaye.github.io",
+            "url": "http://dfkaye.github.io/2014/03/04/tdd-boilerplate/",
+            "content": "JavaScriptのtdd-boilerplateを作る話。\nGithubでプロジェクトを作成する所からnode、mochaのセットアップ、npm test、browserでのテスト実行、testem、Travis CIの設定等丁寧に書かれてる",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "github"
+            ],
+            "date": "2014-03-25T15:36:30.517Z",
+            "related-links": [
+                {
+                    "title": "dfkaye/tdd-boilerplate",
+                    "url": "https://github.com/dfkaye/tdd-boilerplate"
+                }
+            ]
         }
     ]
 }
