@@ -1036,6 +1036,22 @@
             ],
             "date": "2014-03-25T00:49:03.308Z",
             "related-links": []
+        },
+        {
+            "title": "jQuery 1.11.1 Beta 1 and 2.1.1 Beta 1 Released | Official jQuery Blog",
+            "url": "http://blog.jquery.com/2014/03/24/jquery-1-11-1-beta-1-and-2-1-1-beta-1-released/",
+            "content": "jQuery 1.11.1β/2.1.1βリリース。\nbower.jsonに`main`が定義された(browserify等の利用がしやすくなる)、pointer eventとの互換性の向上等\n",
+            "tags": [
+                "jQuery",
+                "ReleaseNote"
+            ],
+            "date": "2014-03-25T00:59:03.828Z",
+            "related-links": [
+                {
+                    "title": "Bower: add main property, move Sizzle to devDependencies, add license pr... · 027d470 · jquery/jquery",
+                    "url": "https://github.com/jquery/jquery/commit/027d470b574e15c94cda28f5e2c7a0ed54c11fa6"
+                }
+            ]
         }
     ]
 }
