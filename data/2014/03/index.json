@@ -1040,7 +1040,7 @@
         {
             "title": "jQuery 1.11.1 Beta 1 and 2.1.1 Beta 1 Released | Official jQuery Blog",
             "url": "http://blog.jquery.com/2014/03/24/jquery-1-11-1-beta-1-and-2-1-1-beta-1-released/",
-            "content": "jQuery 1.11.1β/2.1.1βリリース。\nbower.jsonに`main`が定義された(browserify等の利用がしやすくなる)、pointer eventとの互換性の向上等\n",
+            "content": "jQuery 1.11.1β/2.1.1βリリース。\nbower.jsonに`main`が定義された(1.11.0もtagが打ち直された)ため、browserify等から利用がしやすくなった。\npointer eventとの互換性の向上等",
             "tags": [
                 "jQuery",
                 "ReleaseNote"
