@@ -1069,6 +1069,22 @@
                     "url": "https://github.com/dfkaye/tdd-boilerplate"
                 }
             ]
+        },
+        {
+            "title": "Sweet.js Tutorial #2: Recursive Macros and Custom Pattern Classes",
+            "url": "http://jlongster.com/Sweet.js-Tutorial--2--Recursive-Macros-and-Custom-Pattern-Classes",
+            "content": "sweet.jsのチュートリアル Part2。\nES6 variable destructuringの実装を題材にsweet.jsについて学ぶ",
+            "tags": [
+                "JavaScript",
+                "tutorial"
+            ],
+            "date": "2014-03-26T06:35:51.390Z",
+            "related-links": [
+                {
+                    "title": "Writing Your First Sweet.js Macro",
+                    "url": "http://jlongster.com/Writing-Your-First-Sweet.js-Macro"
+                }
+            ]
         }
     ]
 }
