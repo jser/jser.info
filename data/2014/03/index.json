@@ -1102,6 +1102,18 @@
                     "url": "http://www.riaxdnp.jp/?p=6529"
                 }
             ]
+        },
+        {
+            "title": "Duktape",
+            "url": "http://duktape.org/index.html",
+            "content": "埋め込み用のJavaScriptエンジン。\n正規表現エンジンも内蔵していて、ES5対応でtest262、Underscore等のテストを通してる。",
+            "tags": [
+                "JavaScript",
+                "C言語",
+                "C++"
+            ],
+            "date": "2014-03-27T01:09:17.388Z",
+            "related-links": []
         }
     ]
 }
