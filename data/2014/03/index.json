@@ -1114,6 +1114,23 @@
             ],
             "date": "2014-03-27T01:09:17.388Z",
             "related-links": []
+        },
+        {
+            "title": "Welcome WebStorm 8.0: AngularJS support, spy-js, multiple selections, Grunt and more | JetBrains WebStorm Blog",
+            "url": "http://blog.jetbrains.com/webstorm/2014/03/welcome-webstorm-8/",
+            "content": "WebStorm 8.0リリース。\nAngularJSのサポート改善、Spy-jsの統合、Grunt・Bowerの統合、Live Consoleの追加、CucumberJSのサポート、ES6 module対応等",
+            "tags": [
+                "WebStorm",
+                "ReleaseNote",
+                "AngularJS"
+            ],
+            "date": "2014-03-27T03:20:42.493Z",
+            "related-links": [
+                {
+                    "title": "WebStorm 8 EAP (build 134.1081): Bower, improved spy-js and AngularJS support and more | JetBrains WebStorm Blog",
+                    "url": "http://blog.jetbrains.com/webstorm/2014/02/webstorm-8-eap-build-134-1081/#spy-js"
+                }
+            ]
         }
     ]
 }
