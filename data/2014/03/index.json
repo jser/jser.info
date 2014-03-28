@@ -1143,6 +1143,20 @@
             ],
             "date": "2014-03-28T03:41:38.603Z",
             "related-links": []
+        },
+        {
+            "title": "ci_on_client_and_server // Speaker Deck",
+            "url": "https://speakerdeck.com/yosuke_furukawa/ci-on-client-and-server",
+            "content": "Broserify+testについてのスライド。\nTravis CI、drone.io、testlling-ci、zuulの比較",
+            "tags": [
+                "node.js",
+                "browserify",
+                "testing",
+                "webservice",
+                "CI"
+            ],
+            "date": "2014-03-28T05:14:20.849Z",
+            "related-links": []
         }
     ]
 }
