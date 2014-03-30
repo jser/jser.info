@@ -1304,6 +1304,23 @@
             ],
             "date": "2014-03-30T07:08:45.502Z",
             "related-links": []
+        },
+        {
+            "title": "rotundasoftware/parcelify",
+            "url": "https://github.com/rotundasoftware/parcelify",
+            "content": "browserifyの上にCSSやテンプレートも扱えるような依存関係の仕組みをもたせたもの。\nComponentのように一つのHTML/CSS/JSのセットをmoduleとして管理出来るようにするイメージ\n",
+            "tags": [
+                "browserify",
+                "CSS",
+                "Tools"
+            ],
+            "date": "2014-03-30T08:09:21.647Z",
+            "related-links": [
+                {
+                    "title": "Componentによるフロントエンドのパッケージ管理 ::ハブろぐ",
+                    "url": "http://havelog.ayumusato.com/develop/javascript/e588-component_package_and_dependency_and_build.html"
+                }
+            ]
         }
     ]
 }
