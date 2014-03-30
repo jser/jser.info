@@ -1241,6 +1241,23 @@
             ],
             "date": "2014-03-28T15:48:28.347Z",
             "related-links": []
+        },
+        {
+            "title": "ESLint 0.4.5 released - ESLint",
+            "url": "http://eslint.org/blog/2014/03/eslint-0.4.5-released/",
+            "content": "ESLint 0.4.5 リリース。\n`--no-eslintrc` のオプション追加、`handle-callback-err`のルールを追加",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2014-03-30T03:33:57.898Z",
+            "related-links": [
+                {
+                    "title": "Ensures Callback Error Handling",
+                    "url": "http://eslint.org/docs/rules/handle-callback-err.html"
+                }
+            ]
         }
     ]
 }
