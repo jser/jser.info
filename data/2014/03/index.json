@@ -1258,6 +1258,17 @@
                     "url": "http://eslint.org/docs/rules/handle-callback-err.html"
                 }
             ]
+        },
+        {
+            "title": "jQueryのメモリーリークの傾向と対策 — KaoriYa",
+            "url": "http://www.kaoriya.net/blog/2014/03/28/",
+            "content": "jQueryは自分で要素を保持するので、jQueryのAPIを使わないで要素を削除すると強参照が残ってしまう話。\nMutationObserverで監視して削除する",
+            "tags": [
+                "jQuery",
+                "JavaScript"
+            ],
+            "date": "2014-03-30T06:10:24.092Z",
+            "related-links": []
         }
     ]
 }
