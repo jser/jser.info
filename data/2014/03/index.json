@@ -1333,6 +1333,27 @@
             ],
             "date": "2014-03-30T14:24:45.509Z",
             "related-links": []
+        },
+        {
+            "title": "Shibu's Diary: JavaScriptのメモリリークを10倍速で発見する",
+            "url": "http://blog.shibu.jp/article/92030639.html",
+            "content": "node-webkit-agentを使ったNode.jsでのメモリリークの検出方法について。\n\n",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "debug"
+            ],
+            "date": "2014-03-31T14:07:15.880Z",
+            "related-links": [
+                {
+                    "title": "c4milo/node-webkit-agent",
+                    "url": "https://github.com/c4milo/node-webkit-agent"
+                },
+                {
+                    "title": "shibukawa/add-func-name",
+                    "url": "https://github.com/shibukawa/add-func-name"
+                }
+            ]
         }
     ]
 }
