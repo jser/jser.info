@@ -1337,7 +1337,7 @@
         {
             "title": "Shibu's Diary: JavaScriptのメモリリークを10倍速で発見する",
             "url": "http://blog.shibu.jp/article/92030639.html",
-            "content": "node-webkit-agentを使ったNode.jsでのメモリリークの検出方法について。\n\n",
+            "content": "node-webkit-agentを使ったNode.jsでのメモリリークの検出方法について。\n無名関数に自動的に名前を付けるadd-func-nameを利用してデバッグ。",
             "tags": [
                 "node.js",
                 "JavaScript",
