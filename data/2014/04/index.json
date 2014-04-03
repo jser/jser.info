@@ -93,6 +93,18 @@
             ],
             "date": "2014-04-03T14:30:53.647Z",
             "related-links": []
+        },
+        {
+            "title": "Debugging Asynchronous JavaScript with Chrome DevTools - HTML5 Rocks",
+            "url": "http://www.html5rocks.com/en/tutorials/developertools/async-call-stack/",
+            "content": "Chrome 35でsetTimeout, XHR, promisesのような非同期処理のスタックトレースが取れるようになった。\nまたコールスタックで特定のものを選択した時にそのスコープでの情報を取れるように、Promise chainのデバッグ、名前付き関数式にすることのメリット等についても書かれている",
+            "tags": [
+                "JavaScript",
+                "Chrome",
+                "debug"
+            ],
+            "date": "2014-04-03T14:43:27.488Z",
+            "related-links": []
         }
     ]
 }
