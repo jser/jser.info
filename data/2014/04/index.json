@@ -44,6 +44,19 @@
             ],
             "date": "2014-04-03T05:36:14.218Z",
             "related-links": []
+        },
+        {
+            "title": "モダンブラウザのストレージ容量と調査方法まとめ - HTML5 Rocks",
+            "url": "http://www.html5rocks.com/ja/tutorials/offline/quota-research/",
+            "content": "WebStorage(LocalStorage/SessionStorage)、WebSQL、Indexed DB、FileSystem API、App Cacheの容量と調査方法にまとまっている。\n",
+            "tags": [
+                "ストレージ",
+                "browser",
+                "API",
+                "まとめ"
+            ],
+            "date": "2014-04-03T05:52:04.694Z",
+            "related-links": []
         }
     ]
 }
