@@ -227,6 +227,19 @@
             ],
             "date": "2014-04-05T08:45:07.758Z",
             "related-links": []
+        },
+        {
+            "title": "Optimization killers · petkaantonov/bluebird Wiki",
+            "url": "https://github.com/petkaantonov/bluebird/wiki/Optimization-killers",
+            "content": "V8の最適化ができない事例についてよくまとめられている。\n最適化ができるか調べる方法、try-catchなど関数内にあると最適化をしなくなる式、arguments、switch-case、hash tableとしてのオブジェクトについて等",
+            "tags": [
+                "JavaScript",
+                "Promises",
+                "Tips",
+                "performance"
+            ],
+            "date": "2014-04-05T13:30:15.896Z",
+            "related-links": []
         }
     ]
 }
