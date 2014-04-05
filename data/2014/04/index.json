@@ -150,6 +150,27 @@
             ],
             "date": "2014-04-05T06:37:15.682Z",
             "related-links": []
+        },
+        {
+            "title": "サイトに適したリソース配置 – レンダリング優先のグッド・プラクティス | ゆっくりと…",
+            "url": "http://tokkono.cute.coocan.jp/blog/slow/index.php/xhtmlcss/resource-potitioning-best-practice/",
+            "content": "script要素の場所と`async`と`defer`属性について。\nstyle要素、img要素とDOM構築の関係、`</body>`直前での読み込みとFOUC。\n読み込みを実験出来るサイトについて",
+            "tags": [
+                "JavaScript",
+                "HTML",
+                "performance"
+            ],
+            "date": "2014-04-05T07:31:49.772Z",
+            "related-links": [
+                {
+                    "title": "Content Loaded",
+                    "url": "http://contentloaded.com/"
+                },
+                {
+                    "title": "CSSのロードタイミングの不備が引き起こす、FOUCとは？ - ふろしき.js",
+                    "url": "http://furoshiki.hatenadiary.jp/entry/2013/06/27/052327"
+                }
+            ]
         }
     ]
 }
