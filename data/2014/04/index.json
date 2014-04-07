@@ -313,6 +313,17 @@
                     "url": "https://www.youtube.com/watch?v=0VUjM-jJf2U"
                 }
             ]
+        },
+        {
+            "title": "Async",
+            "url": "http://bredele.github.io/async/",
+            "content": "JavaScriptの非同期処理のパターンの実装ライブラリと紹介。\nEventEmitter、Promises、FSM、Doors、Emitter queueの実装であるライブラリと概要が書かれてる",
+            "tags": [
+                "JavaScript",
+                "まとめ"
+            ],
+            "date": "2014-04-07T13:05:18.947Z",
+            "related-links": []
         }
     ]
 }
