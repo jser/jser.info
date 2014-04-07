@@ -296,6 +296,23 @@
                     "url": "https://github.com/jshint/jshint/pull/1503"
                 }
             ]
+        },
+        {
+            "title": "Practical Workflows for ES6 Modules",
+            "url": "http://guybedford.com/practical-workflows-for-es6-modules",
+            "content": "ES6 moduleとmodule loaderについて。\nまたES6 moduleをCJS/AMDへ変換して利用する方法や動的にロードするSystemJS loader等について",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "AMD"
+            ],
+            "date": "2014-04-07T12:58:14.536Z",
+            "related-links": [
+                {
+                    "title": "▶ Practical Workflows for ES6 Modules, Fluent 2014 - YouTube",
+                    "url": "https://www.youtube.com/watch?v=0VUjM-jJf2U"
+                }
+            ]
         }
     ]
 }
