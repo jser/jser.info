@@ -275,6 +275,27 @@
             ],
             "date": "2014-04-07T02:08:27.056Z",
             "related-links": []
+        },
+        {
+            "title": "Release JSHint 2.5.0 · jshint/jshint",
+            "url": "https://github.com/jshint/jshint/releases/tag/2.5.0",
+            "content": "JSHint 2.5.0リリース。\nインデントスタイル関係のLintの削除(JSCSへと移行を推奨)、template strings、`--filename`のCLIオプションを追加、ディレクトリごとにオプションを変更する設定を追加",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2014-04-07T05:26:18.604Z",
+            "related-links": [
+                {
+                    "title": "mdevils/node-jscs",
+                    "url": "https://github.com/mdevils/node-jscs"
+                },
+                {
+                    "title": "support a --filename flag by Raynos · Pull Request #1503 · jshint/jshint",
+                    "url": "https://github.com/jshint/jshint/pull/1503"
+                }
+            ]
         }
     ]
 }
