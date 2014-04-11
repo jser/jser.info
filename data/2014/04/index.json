@@ -423,6 +423,24 @@
             ],
             "date": "2014-04-11T05:34:52.660Z",
             "related-links": []
+        },
+        {
+            "title": "Spy-js: WebStorm secret service | JetBrains WebStorm Blog",
+            "url": "http://blog.jetbrains.com/webstorm/2014/04/spy-js-webstorm-secret-service/",
+            "content": "WebStorm8に入ったspy-jsの詳細。\nトレースを行うproxyサーバを立てて、JSのトレースを行う。\nイベントのスタックを見たり、カバレッジのようにコードの実行された部分の可視化や実行時の値の確認等が出来る。",
+            "tags": [
+                "JavaScript",
+                "debug",
+                "Tools",
+                "WebStorm"
+            ],
+            "date": "2014-04-11T15:16:53.839Z",
+            "related-links": [
+                {
+                    "title": "spy-js: tracing, profiling, debugging javascript",
+                    "url": "http://spy-js.com/"
+                }
+            ]
         }
     ]
 }
