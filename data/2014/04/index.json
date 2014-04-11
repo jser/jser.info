@@ -399,6 +399,17 @@
             ],
             "date": "2014-04-11T00:36:56.099Z",
             "related-links": []
+        },
+        {
+            "title": "Relato - Open Source Statistics",
+            "url": "http://bripkens.github.io/relato/",
+            "content": "npmに登録されてるパッケージの統計データ。\nユーザー数、利用者( dependencies)、開発利用者(devDependencies)、ページランク等でソートして一覧出来る",
+            "tags": [
+                "node.js",
+                "webservice"
+            ],
+            "date": "2014-04-11T00:39:52.042Z",
+            "related-links": []
         }
     ]
 }
