@@ -371,6 +371,23 @@
             ],
             "date": "2014-04-10T12:48:46.260Z",
             "related-links": []
+        },
+        {
+            "title": "ESLint 0.5.0 released - ESLint",
+            "url": "http://eslint.org/blog/2014/04/eslint-0.5.0-released/",
+            "content": "ESLint 0.5.0リリース\n`eslint-env`又はCLIの`--env`オプションで実行環境の設定が出来るように、グローバル変数を定義するCLI `--global`オプションの追加等",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2014-04-11T00:34:17.379Z",
+            "related-links": [
+                {
+                    "title": "eslint/docs/command-line-interface at master · eslint/eslint",
+                    "url": "https://github.com/eslint/eslint/tree/master/docs/command-line-interface#--env"
+                }
+            ]
         }
     ]
 }
