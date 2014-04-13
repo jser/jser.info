@@ -521,6 +521,18 @@
             ],
             "date": "2014-04-13T12:56:08.347Z",
             "related-links": []
+        },
+        {
+            "title": "Running Node.js apps in production",
+            "url": "http://fhemberger.github.io/talks/nodejs-in-production/#/cover",
+            "content": "Node.jsアプリのデプロイ、モニタリング等についてのスライド。\nrecluster, PM2, kibana, new relic、エラーレポート等ツールについて色々まとまってる",
+            "tags": [
+                "node.js",
+                "Tools",
+                "スライド"
+            ],
+            "date": "2014-04-13T14:19:49.819Z",
+            "related-links": []
         }
     ]
 }
