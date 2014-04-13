@@ -555,6 +555,17 @@
             ],
             "date": "2014-04-13T14:28:19.272Z",
             "related-links": []
+        },
+        {
+            "title": "Asynchronous JavaScript Interfaces",
+            "url": "http://medikoo.com/asynchronous-javascript-interfaces/promises-deferred/",
+            "content": "JavaScriptの非同期処理についてのスライド。Event、コールバック、Generator、Promises。\nPromisesのエラーハンドリング、簡単に実装しながら学ぶ、`done`と`then`の違い、Deferred、`done`の論争についてよくまとまってる",
+            "tags": [
+                "JavaScript",
+                "スライド"
+            ],
+            "date": "2014-04-13T23:12:11.137Z",
+            "related-links": []
         }
     ]
 }
