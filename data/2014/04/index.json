@@ -600,8 +600,22 @@
             ],
             "date": "2014-04-15T02:47:40.565Z",
             "related-links": [
-                { "title" : "moment/moment", "url" : "https://github.com/moment/moment"}
+                {
+                    "title": "moment/moment",
+                    "url": "https://github.com/moment/moment"
+                }
             ]
+        },
+        {
+            "title": "WAI-ARIA の基礎知識 — Website Usability Info",
+            "url": "http://website-usability.info/2014/04/entry_140415.html",
+            "content": "WAI-ARIAとはどういう仕様なのか。\nRoles、States/Properties、Managin Focus、HTML5との関係について簡単に紹介されてる",
+            "tags": [
+                "WAI-ARIA",
+                "アクセシビリティ"
+            ],
+            "date": "2014-04-15T07:47:33.210Z",
+            "related-links": []
         }
     ]
 }
