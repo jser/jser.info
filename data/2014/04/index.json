@@ -589,6 +589,19 @@
             ],
             "date": "2014-04-14T07:48:17.896Z",
             "related-links": []
+        },
+        {
+            "title": "moment-2.6.0.md",
+            "url": "https://gist.github.com/ichernev/10544682",
+            "content": "Dateを扱うライブラリであるmoment.js 2.6.0リリース。\nNode.js環境でグローバル変数がでないように、AMDのshim対応の改善、DST(夏時間)の対応改善等",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-04-15T02:47:40.565Z",
+            "related-links": [
+                null
+            ]
         }
     ]
 }
