@@ -716,7 +716,12 @@
                 "Tools"
             ],
             "date": "2014-04-19T02:30:45.212Z",
-            "related-links": [{ "title" : "phantomJS2 build on linux - Qiita", "url" : "http://qiita.com/ku0522a/items/c92a07802b3bba3a4235"}]
+            "related-links": [
+                {
+                    "title": "phantomJS2 build on linux - Qiita",
+                    "url": "http://qiita.com/ku0522a/items/c92a07802b3bba3a4235"
+                }
+            ]
         },
         {
             "title": "NYTimes/pourover",
@@ -744,6 +749,23 @@
                 "browserify"
             ],
             "related-links": []
+        },
+        {
+            "title": "Node-v0.12からデフォルトでES6の一部が使えるようになった(WeakMap解説編) - ぼちぼち日記",
+            "url": "http://d.hatena.ne.jp/jovi0608/20140418/1397789018",
+            "content": "WeakMapの概要と使い方について",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "ECMAScript"
+            ],
+            "date": "2014-04-19T11:46:07.504Z",
+            "related-links": [
+                {
+                    "title": "Let's WeakMap - 枕を欹てて聴く",
+                    "url": "http://constellation.hatenablog.com/entry/20111002/1317561215"
+                }
+            ]
         }
     ]
 }
