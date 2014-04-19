@@ -733,6 +733,17 @@
                     "url": "https://github.com/nytimes/tamper/"
                 }
             ]
+        },
+        {
+            "title": "Reusable components by Vue.js and Browserify",
+            "url": "http://blog.koba04.com/post/2014/04/17/reusable-components-by-vuejs-and-browserify/",
+            "content": "Vue.jsとbrowserifyを使ってJavascript、HTML、CSSをcomponentとして再利用性のあるものにする方法やRoutingについて",
+            "date": "2014-04-18T16:09:49.662Z",
+            "tags": [
+                "vue.js",
+                "browserify"
+            ],
+            "related-links": []
         }
     ]
 }
