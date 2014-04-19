@@ -717,6 +717,22 @@
             ],
             "date": "2014-04-19T02:30:45.212Z",
             "related-links": []
+        },
+        {
+            "title": "NYTimes/pourover",
+            "url": "https://github.com/NYTimes/pourover",
+            "content": "コレクションの高速なフィルタリング、ソートが出来るライブラリ。\n大量のデータに耐えられる作り",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-04-19T03:14:34.225Z",
+            "related-links": [
+                {
+                    "title": "NYTimes/tamper",
+                    "url": "https://github.com/nytimes/tamper/"
+                }
+            ]
         }
     ]
 }
