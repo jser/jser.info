@@ -692,6 +692,18 @@
                     "url": "http://www.telerik.com/company/press-releases/2014/04/16/telerik-open-sources-world-s-largest-library-of-ui-tools-and-javascript-framework-features-with-telerik-kendo-ui-core"
                 }
             ]
+        },
+        {
+            "title": "ripplejs/ripple",
+            "url": "https://github.com/ripplejs/ripple",
+            "content": "Viewのテンプレートとデータバインディングライブラリ。\nCoreは小さめで、pluginをmixinすることでディレクティブ等を拡張出来る仕組み",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ui"
+            ],
+            "date": "2014-04-19T02:28:56.937Z",
+            "related-links": []
         }
     ]
 }
