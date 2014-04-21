@@ -20,6 +20,7 @@ html, body {
     height: 60px; }
 
 #content {
+  background: #fff;
   font-size: 12px;
   height: 100%; }
 

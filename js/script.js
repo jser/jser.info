@@ -10,7 +10,7 @@ $(function () {
     ko.bindingHandlers.sortable.afterMove = function (arg) {
         var article = arg.item;
         window.app.visited.setItem(article.url, new Date());
-    }
+    };
     ko.applyBindings(vm);
 
     Handlebars.registerHelper('auto_format_html', function (text) {
