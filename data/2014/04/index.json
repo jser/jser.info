@@ -829,6 +829,18 @@
                     "url": "http://vk.com/event69759919"
                 }
             ]
+        },
+        {
+            "title": "square/esnext · GitHub",
+            "url": "https://github.com/square/esnext",
+            "content": "SquareのES6のコードを現在のJavaScriptに変換するツール。\nTraceurとやりたい事は似てるが、runtimeに必要なコードはできるだけ小さく、人間でも読みやすいコードを出力するのが目的",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2014-04-21T12:17:10.168Z",
+            "related-links": []
         }
     ]
 }
