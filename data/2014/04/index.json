@@ -885,6 +885,19 @@
             ],
             "date": "2014-04-22T14:46:56.485Z",
             "related-links": []
+        },
+        {
+            "title": "angular/deferred",
+            "url": "https://github.com/angular/deferred",
+            "content": "Promisesを使ったDeferred(主にDIのため)\nPromiseMockという同期的にPromise APIのテストをするためのモジュールと、Promiseをモックに置き換えるzoneを提供するPromiseBackendの構成。",
+            "tags": [
+                "JavaScript",
+                "Promises",
+                "testing",
+                "library"
+            ],
+            "date": "2014-04-22T15:32:32.949Z",
+            "related-links": []
         }
     ]
 }
