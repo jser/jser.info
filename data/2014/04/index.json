@@ -980,6 +980,17 @@
             ],
             "date": "2014-04-28T08:15:03.792Z",
             "related-links": []
+        },
+        {
+            "title": "Functional Programming in Javascript === Garbage « Thomas Reynolds",
+            "url": "http://awardwinningfjords.com/2014/04/21/functional-programming-in-javascript-equals-garbage.html",
+            "content": "JavaScriptで関数型スタイルを取るときに気をつけるべきこと。\nImmutableにするためにコピーが必要なこと、末尾最適化がないためトランポリン、関数合成と部分適応について",
+            "tags": [
+                "JavaScript",
+                "関数型プログラミング"
+            ],
+            "date": "2014-04-28T09:16:33.063Z",
+            "related-links": []
         }
     ]
 }
