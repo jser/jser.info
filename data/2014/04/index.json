@@ -969,6 +969,17 @@
             ],
             "date": "2014-04-28T06:47:39.097Z",
             "related-links": []
+        },
+        {
+            "title": "Node-v0.12の新機能について",
+            "url": "http://www.slideshare.net/shigeki_ohtsu/node-v012tng12",
+            "content": "Node.js 0.12についてのスライド。\nES6の機能の追加、Stream3(又stream1,2の問題点)、動機child_process、`beforeExit`イベント、新しいvmモジュールについて等",
+            "tags": [
+                "node.js",
+                "スライド"
+            ],
+            "date": "2014-04-28T08:15:03.792Z",
+            "related-links": []
         }
     ]
 }
