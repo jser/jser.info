@@ -1043,6 +1043,17 @@
             ],
             "date": "2014-04-29T03:34:26.544Z",
             "related-links": []
+        },
+        {
+            "title": "Callbacks, promises, generators - asynchronous javascript",
+            "url": "http://www.slideshare.net/wookieb/callbacks-promises-generators-asynchronous-javascript",
+            "content": "JavaScriptの非同期処理のスライド。\nAsync+コールバックのウォーターフォールな書き方。\nPromiseを使って行う場合に、コールバックスタイルをPromiseに変換、既存の関数を利用する方法について。\nGenerator、thunk、coを使った方法に ついてバランスよくまとまってる。\nコールバックベースの関数をPublic APIとして用意して、自分orチームに最適な方法を選んで使うという方針についても書かれてる",
+            "tags": [
+                "JavaScript",
+                "スライド"
+            ],
+            "date": "2014-04-29T06:54:23.037Z",
+            "related-links": []
         }
     ]
 }
