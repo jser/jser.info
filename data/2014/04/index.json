@@ -1054,6 +1054,24 @@
             ],
             "date": "2014-04-29T06:54:23.037Z",
             "related-links": []
+        },
+        {
+            "title": "Regenerator, AST, and ES6 at Facebook",
+            "url": "http://www.hakkalabs.co/articles/ecmascript-6-at-facebook",
+            "content": "regeneratorの作者(Facebook社)によるJavaScript ASTによる変換についてのスライド。\nES6 -> ES5の変換の仕組みやfacebook.com内のコードの置き換えた結果やそこから学んだ事について。\n変換ツールを運用する際のTipsについても書かれてる。\nReact、regeneratorの変換、動作の仕組みについて。\nまた何故このような難しいものをサイドプロジェクトとしてやっているのかについて話されてる。",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "動画",
+                "スライド"
+            ],
+            "date": "2014-04-29T08:19:11.721Z",
+            "related-links": [
+                {
+                    "title": "Technical and Social Progress Toward ECMAScript 6 at Facebook",
+                    "url": "http://benjamn.github.io/pivotal-meetup-talk/#/"
+                }
+            ]
         }
     ]
 }
