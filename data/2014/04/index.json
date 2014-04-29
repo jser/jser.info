@@ -1072,6 +1072,18 @@
                     "url": "http://benjamn.github.io/pivotal-meetup-talk/#/"
                 }
             ]
+        },
+        {
+            "title": "Release 1.0.0 · jakearchibald/es6-promise",
+            "url": "https://github.com/jakearchibald/es6-promise/releases/tag/1.0.0",
+            "content": "ES6 Promisesのpolyfillライブラリであるes6-promise 1.0.0リリース。\nES6の仕様に追従した変更として`cast`がなくなり、`resolve`を使うようになった",
+            "tags": [
+                "JavaScript",
+                "Promises",
+                "ReleaseNote"
+            ],
+            "date": "2014-04-29T14:37:32.659Z",
+            "related-links": []
         }
     ]
 }
