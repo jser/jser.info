@@ -1084,6 +1084,22 @@
             ],
             "date": "2014-04-29T14:37:32.659Z",
             "related-links": []
+        },
+        {
+            "title": "Firefox — Notes — Mozilla",
+            "url": "http://www.mozilla.org/en-US/mobile/29.0/releasenotes/",
+            "content": "Firefox29リリース。\n`box-sizing`がunprefixに、ECMAScript i18n APIの実装、ES6 Promises、SharedWorker、webworkerから扱えるものが増えた、Gamepad APIが有効に",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "date": "2014-04-29T14:47:00.232Z",
+            "related-links": [
+                {
+                    "title": "Firefox 29 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/Firefox/Releases/29"
+                }
+            ]
         }
     ]
 }
