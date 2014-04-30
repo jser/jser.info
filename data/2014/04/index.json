@@ -1133,6 +1133,23 @@
                     "url": "http://chimera.labs.oreilly.com/books/1230000000545"
                 }
             ]
+        },
+        {
+            "title": "ECMAScript 6入门",
+            "url": "http://es6.ruanyifeng.com/",
+            "content": "ES6入門の電子書籍。\nES6の新しい構文や追加されたメソッド等について書かれている。\nCC BY-NC 4.0でソースも公開されてる",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "book"
+            ],
+            "date": "2014-04-30T12:27:10.162Z",
+            "related-links": [
+                {
+                    "title": "ruanyf/es6tutorial",
+                    "url": "https://github.com/ruanyf/es6tutorial"
+                }
+            ]
         }
     ]
 }
