@@ -81,6 +81,22 @@
             ],
             "date": "2014-05-02T03:25:45.574Z",
             "related-links": []
+        },
+        {
+            "title": "Node.js require(s) best practices · Mirco Zeiss",
+            "url": "http://www.mircozeiss.com/node-js-require-s-best-practices/",
+            "content": "node.jsでのrequireの書き方のベストプラクティスについて。\nESLintで似たようなものがルールとして定義されてる\nhttp://eslint.org/docs/rules/no-mixed-requires.html\n",
+            "tags": [
+                "node.js",
+                "Tips"
+            ],
+            "date": "2014-05-02T04:43:48.922Z",
+            "related-links": [
+                {
+                    "title": "Disallow Mixed Requires",
+                    "url": "http://eslint.org/docs/rules/no-mixed-requires.html"
+                }
+            ]
         }
     ]
 }
