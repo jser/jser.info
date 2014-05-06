@@ -183,6 +183,23 @@
             ],
             "date": "2014-05-06T07:04:24.530Z",
             "related-links": []
+        },
+        {
+            "title": "I’m writing a book. - JS Testing Recipes",
+            "url": "http://jstesting.jcoglan.com/",
+            "content": "JavaScriptのテストについての書籍。\nhttp://jstest.jcoglan.com/ を使っていて、Node.jsのStreamやCLIアプリ、ブラウザのテスト、関数とモック、`with`についてなど書かれている",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "book"
+            ],
+            "date": "2014-05-06T08:26:45.095Z",
+            "related-links": [
+                {
+                    "title": "jstest",
+                    "url": "http://jstest.jcoglan.com/"
+                }
+            ]
         }
     ]
 }
