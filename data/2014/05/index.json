@@ -159,6 +159,18 @@
                     "url": "http://nodebp.com/"
                 }
             ]
+        },
+        {
+            "title": "facebook/fb-flo",
+            "url": "https://github.com/facebook/fb-flo",
+            "content": "ファイル監視してビルドした結果を実行中のアプリに反映するツールとChrome拡張。\nLive Edit的なツール",
+            "tags": [
+                "browser",
+                "debug",
+                "Tools"
+            ],
+            "date": "2014-05-06T04:44:17.655Z",
+            "related-links": []
         }
     ]
 }
