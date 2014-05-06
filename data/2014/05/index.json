@@ -217,6 +217,17 @@
                     "url": "http://futurejs.org/"
                 }
             ]
+        },
+        {
+            "title": "Node v0.11.13 (Unstable)",
+            "url": "http://blog.nodejs.org/2014/05/02/node-v0-11-13-unstable/",
+            "content": "Node 0.11.13 unstableリリース。\nV8の更新でES6 PromiseやObject.observe、WeakMap/Set等が入った",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "date": "2014-05-06T08:46:51.305Z",
+            "related-links": []
         }
     ]
 }
