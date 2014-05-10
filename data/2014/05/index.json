@@ -335,6 +335,18 @@
             ],
             "date": "2014-05-10T03:16:27.382Z",
             "related-links": []
+        },
+        {
+            "title": "rdio/jsfmt",
+            "url": "https://github.com/rdio/jsfmt",
+            "content": "gofmtみたいなJavaScriptの整形/検索/置換ツール。\nJavaScript ASTを使ったものとなってる。",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "Tools"
+            ],
+            "date": "2014-05-10T11:31:40.149Z",
+            "related-links": []
         }
     ]
 }
