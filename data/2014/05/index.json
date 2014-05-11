@@ -347,6 +347,22 @@
             ],
             "date": "2014-05-10T11:31:40.149Z",
             "related-links": []
+        },
+        {
+            "title": "browserify v4 changelog",
+            "url": "https://gist.github.com/substack/e831c05da4a74a29b50b",
+            "content": "browserify 4.0.0リリース。\n",
+            "tags": [
+                "browserify",
+                "ReleaseNote"
+            ],
+            "date": "2014-05-11T05:19:09.513Z",
+            "related-links": [
+                {
+                    "title": "Comparing 3.46.1...master · substack/node-browserify",
+                    "url": "https://github.com/substack/node-browserify/compare/3.46.1...master"
+                }
+            ]
         }
     ]
 }
