@@ -363,6 +363,17 @@
                     "url": "https://github.com/substack/node-browserify/compare/3.46.1...master"
                 }
             ]
+        },
+        {
+            "title": "Getting gulpy — Medium",
+            "url": "https://medium.com/web-code-junk/a2010c13d3d5",
+            "content": "gulpとstreamについて詳しく書かれてる。\nbuffer <-> stream、いつもpluginが必要という訳ではないという話、Task orchestrationについて",
+            "tags": [
+                "gulp",
+                "node.js"
+            ],
+            "date": "2014-05-11T10:59:53.406Z",
+            "related-links": []
         }
     ]
 }
