@@ -391,6 +391,18 @@
                     "url": "http://bigpipe.io/"
                 }
             ]
+        },
+        {
+            "title": "Service Worker - first draft published - JakeArchibald.com",
+            "url": "http://jakearchibald.com/2014/service-worker-first-draft/",
+            "content": "Service Worker の最初のドラフトがリリースされた。\nオフラインアプリで使うようなキャッシュの仕様。\n今のところSSL下でないと使えない仕様になってる。",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "セキュリティ"
+            ],
+            "date": "2014-05-11T14:45:52.022Z",
+            "related-links": []
         }
     ]
 }
