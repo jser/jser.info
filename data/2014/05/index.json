@@ -476,6 +476,16 @@
             ],
             "date": "2014-05-12T10:59:40.820Z",
             "related-links": []
+        },
+        {
+            "title": "Chapter 28. Subclassing Built-ins",
+            "url": "http://speakingjs.com/es5/ch28.html",
+            "content": "ビルトインオブジェクトのサブクラス的な実装をする方法について。 それぞれの` internal instance property`について。 Arrayのサブクラスの実装例、Errorのサブクラス、delegateによる実装",
+            "tags": [
+                "JavaScript"
+            ],
+            "date": "2014-05-12T11:58:19.419Z",
+            "related-links": []
         }
     ]
 }
