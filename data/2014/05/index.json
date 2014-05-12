@@ -509,6 +509,27 @@
             ],
             "date": "2014-05-12T12:07:32.705Z",
             "related-links": []
+        },
+        {
+            "title": "cofounders/urlutils",
+            "url": "https://github.com/cofounders/urlutils",
+            "content": "https://github.com/medialize/URI.js をベースにした`URL` コンストラクタの実装。\n文字列からURLオブジェクトを作成出来る",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "URL"
+            ],
+            "date": "2014-05-12T12:26:40.823Z",
+            "related-links": [
+                {
+                    "title": "medialize/URI.js",
+                    "url": "https://github.com/medialize/URI.js"
+                },
+                {
+                    "title": "URL() - Web API インターフェイス | MDN",
+                    "url": "https://developer.mozilla.org/ja/docs/Web/API/URL.URL"
+                }
+            ]
         }
     ]
 }
