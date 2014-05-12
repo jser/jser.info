@@ -439,6 +439,18 @@
             ],
             "date": "2014-05-12T01:35:10.692Z",
             "related-links": []
+        },
+        {
+            "title": "kintoneのJSユニットテスト最新事情 | Cybozu Inside Out | サイボウズエンジニアのブログ",
+            "url": "http://developer.cybozu.co.jp/tech/?p=7089",
+            "content": "それぞれのテストが独立したtestbedとなるHTMLを持つ方式から、\ntest runnerとしてKarmaを採用し乗り換えた時に起きた問題と対策、乗り換えたことによって得られた効果について",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "browser"
+            ],
+            "date": "2014-05-12T09:25:20.622Z",
+            "related-links": []
         }
     ]
 }
