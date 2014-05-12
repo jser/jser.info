@@ -451,6 +451,19 @@
             ],
             "date": "2014-05-12T09:25:20.622Z",
             "related-links": []
+        },
+        {
+            "title": "Test Double | Our Thinking | JavaScript Testing Tactics: Lightning Edition",
+            "url": "http://blog.testdouble.com/posts/2014-05-09-javascript-testing-tactics-lightning-edition.html",
+            "content": "JasmineとCoffeeScriptを使ったテスト。\nXHRに対してはFake server、UI Eventじはテストしやすくするためにも、自分の手に届くようにラッパーを作る、非同期コード、DOMへのテストの方針について書かれてる。",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "動画",
+                "スライド"
+            ],
+            "date": "2014-05-12T09:32:44.976Z",
+            "related-links": []
         }
     ]
 }
