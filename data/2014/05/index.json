@@ -580,6 +580,18 @@
             ],
             "date": "2014-05-14T00:47:59.643Z",
             "related-links": []
+        },
+        {
+            "title": "Blink in JavaScript - Google スライド",
+            "url": "https://docs.google.com/presentation/d/1XvZdAF29Fgn19GCjDhHhlsECJAfOR49tpUFWrbtQAwU/edit#slide=id.g3840fe06e_00",
+            "content": "Blink-in-JSはDOM機能をJSで実装するメカニズム。\nセキュリティ、メンテンス性、Webアーキテクチャのレイヤー化が目的\nJIT化したJSはC++の20倍ぐらいのサイズになるけど遅延コンパイルで対処。\nisolate,context,worldの領域を分ける、Chrome拡張のような領域の分離、world間のやり取りの動的バリデーション等によるセキュリティモデルの構築",
+            "tags": [
+                "JavaScript",
+                "Chrome",
+                "スライド"
+            ],
+            "date": "2014-05-14T15:33:38.939Z",
+            "related-links": []
         }
     ]
 }
