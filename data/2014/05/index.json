@@ -592,6 +592,18 @@
             ],
             "date": "2014-05-14T15:33:38.939Z",
             "related-links": []
+        },
+        {
+            "title": "Jest | Painless JavaScript Unit Testing",
+            "url": "http://facebook.github.io/jest/",
+            "content": "FacebookによるNodeモジュールのモック機能を持ったtest runner。\n基本的なテストは内蔵しているJasmine、Automatic Mocking機能を持ち、CJS moduleに対してデフォルトでモックを行うアプローチ。",
+            "tags": [
+                "facebook",
+                "jasmine",
+                "testing"
+            ],
+            "date": "2014-05-15T00:49:41.866Z",
+            "related-links": []
         }
     ]
 }
