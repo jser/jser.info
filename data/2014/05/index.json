@@ -621,6 +621,19 @@
                     "url": "http://ascii.asciimw.jp/books/books/detail/978-4-04-866145-4.shtml"
                 }
             ]
+        },
+        {
+            "title": "FredKSchott/NodeJS-Handbook",
+            "url": "https://github.com/FredKSchott/NodeJS-Handbook",
+            "content": "Node.jsのデザインパターンやベストプラクティスについての連載。",
+            "tags": [
+                "node.js",
+                "デザインパターン",
+                "book",
+                "testing"
+            ],
+            "date": "2014-05-15T01:06:44.883Z",
+            "related-links": []
         }
     ]
 }
