@@ -702,6 +702,18 @@
             ],
             "date": "2014-05-18T01:18:48.756Z",
             "related-links": []
+        },
+        {
+            "title": "ESLint 0.6.0 released - ESLint",
+            "url": "http://eslint.org/blog/2014/05/eslint-0.6.0-released/",
+            "content": "ESLint 0.6.0リリース。\n.eslintignoreはplain text形式のみへ、ルールの追加/修正(無駄な括弧の注意、switch defaultの検知等)、CLIで`--rule`と`--force`オプションの追加",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2014-05-18T01:41:53.289Z",
+            "related-links": []
         }
     ]
 }
