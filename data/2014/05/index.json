@@ -748,6 +748,16 @@
             ],
             "date": "2014-05-19T13:54:40.095Z",
             "related-links": []
+        },
+        {
+            "title": "Understanding asm.js",
+            "url": "http://www.sitepoint.com/understanding-asm-js/",
+            "content": "asm.jsについての解説。\nEmscriptenを使ってC++のコードをasm.jsに対応したJavaScriptと、ClangでC++のコードをコンパイルしたコード それぞれ実行してどのくらいの違いがでるかを紹介してて分かりやすい",
+            "tags": [
+                "JavaScript"
+            ],
+            "date": "2014-05-19T14:02:37.461Z",
+            "related-links": []
         }
     ]
 }
