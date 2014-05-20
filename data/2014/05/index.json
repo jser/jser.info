@@ -855,6 +855,24 @@
             ],
             "date": "2014-05-20T12:37:42.045Z",
             "related-links": []
+        },
+        {
+            "title": "Release v1.10.0 · cjohansen/Sinon.JS",
+            "url": "https://github.com/cjohansen/Sinon.JS/releases/tag/v1.10.0",
+            "content": "Sinon.js 1.10.0リリース。\nXDomainRequestのサポート、武具修正",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "ReleaseNote",
+                "library"
+            ],
+            "date": "2014-05-20T12:40:42.788Z",
+            "related-links": [
+                {
+                    "title": "1.10.0",
+                    "url": "http://sinonjs.org/Changelog.txt"
+                }
+            ]
         }
     ]
 }
