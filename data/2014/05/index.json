@@ -785,6 +785,18 @@
                     "url": "https://github.com/medialize/URI.js"
                 }
             ]
+        },
+        {
+            "title": "Unoptimize V8 for Easy Debugging - Moshe's Blog",
+            "url": "http://kolodny.github.io/blog/blog/2014/05/19/unoptimize-devtools-for-easy-debugging",
+            "content": "Chrome/V8は最適化によってbreakしてもまだ変数が見えない時があるため、`eval()`によって最適化を無効にしてbreakする話",
+            "tags": [
+                "V8",
+                "Chrome",
+                "debug"
+            ],
+            "date": "2014-05-20T05:28:07.913Z",
+            "related-links": []
         }
     ]
 }
