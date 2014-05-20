@@ -873,6 +873,18 @@
                     "url": "http://sinonjs.org/Changelog.txt"
                 }
             ]
+        },
+        {
+            "title": "substack/browserify-handbook",
+            "url": "https://github.com/substack/browserify-handbook",
+            "content": "substackによるbrowserifyハンドブック。\nbrowserifyを使うにあたって必要な知識がまとめられている",
+            "tags": [
+                "node.js",
+                "browserify",
+                "book"
+            ],
+            "date": "2014-05-20T12:46:38.625Z",
+            "related-links": []
         }
     ]
 }
