@@ -897,6 +897,23 @@
             ],
             "date": "2014-05-20T13:25:38.532Z",
             "related-links": []
+        },
+        {
+            "title": "Chrome Releases: Stable Channel Update",
+            "url": "http://googlechromereleases.blogspot.com/2014/05/stable-channel-update_20.html",
+            "content": "Chrom35リリース。\nPromiseの実装、フラグ付でWeakMaps/WeakSetsの追加、Shadow-DOMのprefixがなくなった。\ntouch-actionとObject.observeは36へ延期",
+            "tags": [
+                "Chrome",
+                "ReleaseNote",
+                "JavaScript"
+            ],
+            "date": "2014-05-21T15:40:45.783Z",
+            "related-links": [
+                {
+                    "title": "Chromium Blog: Chrome 35 Beta: More developer control over touch input, new JavaScript features, and unprefixed Shadow DOM",
+                    "url": "http://blog.chromium.org/2014/04/chrome-35-beta-more-developer-control.html"
+                }
+            ]
         }
     ]
 }
