@@ -926,6 +926,26 @@
             ],
             "date": "2014-05-22T02:05:22.141Z",
             "related-links": []
+        },
+        {
+            "title": "YUI 3.17.1 Released - YUI Blog",
+            "url": "http://www.yuiblog.com/blog/2014/05/21/yui-3-17-1-released/",
+            "content": "YUI 3.17.1リリース。\nypromiseを取り込み、touch eventsはHammer.jsを使うようになった。D&Dのレグレッションの修正等",
+            "tags": [
+                "YUI",
+                "ReleaseNote"
+            ],
+            "date": "2014-05-22T02:35:15.902Z",
+            "related-links": [
+                {
+                    "title": "Hammer.js - A javascript library for multi-touch gestures",
+                    "url": "http://eightmedia.github.io/hammer.js/"
+                },
+                {
+                    "title": "yahoo/ypromise",
+                    "url": "https://github.com/yahoo/ypromise"
+                }
+            ]
         }
     ]
 }
