@@ -930,7 +930,7 @@
         {
             "title": "YUI 3.17.1 Released - YUI Blog",
             "url": "http://www.yuiblog.com/blog/2014/05/21/yui-3-17-1-released/",
-            "content": "YUI 3.17.1リリース。\nypromiseを取り込み、touch eventsはHammer.jsを使うようになった。D&Dのレグレッションの修正等",
+            "content": "YUI 3.17.1リリース。\nPromiseはypromise、touch eventsはHammer.jsとするため下準備(まだ取り込まれてはいない)。D&Dのレグレッションの修正等",
             "tags": [
                 "YUI",
                 "ReleaseNote"
