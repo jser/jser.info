@@ -974,6 +974,19 @@
                     "url": "https://github.com/arqex/amdrequire"
                 }
             ]
+        },
+        {
+            "title": "indus/ncc",
+            "url": "https://github.com/indus/ncc",
+            "content": "Node.js向けのCanvasライブラリ。\nChromeのremote debugging protocolを利用して、Node.jsからChromeで実際にCanvasを動かす。\n",
+            "tags": [
+                "Chrome",
+                "canvas",
+                "node.js",
+                "library"
+            ],
+            "date": "2014-05-23T02:25:08.659Z",
+            "related-links": []
         }
     ]
 }
