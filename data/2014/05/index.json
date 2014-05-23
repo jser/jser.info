@@ -957,6 +957,23 @@
             ],
             "date": "2014-05-23T01:00:04.978Z",
             "related-links": []
+        },
+        {
+            "title": "Reusing require.js modules in Node.js - arqex",
+            "url": "http://arqex.com/874/reusing-require-js-modules-node-js",
+            "content": "Node.js上でAMDモジュールを`require`する事が出来るAMDrequireについて",
+            "tags": [
+                "JavaScript",
+                "AMD",
+                "library"
+            ],
+            "date": "2014-05-23T02:23:58.383Z",
+            "related-links": [
+                {
+                    "title": "arqex/amdrequire",
+                    "url": "https://github.com/arqex/amdrequire"
+                }
+            ]
         }
     ]
 }
