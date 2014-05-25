@@ -1027,7 +1027,7 @@
         {
             "title": "Release v1.4.11 · npm/npm",
             "url": "https://github.com/npm/npm/releases/tag/v1.4.11",
-            "content": "npm 1.4.11リリース\nnpmデフォルトのリポジトリが`https://`から`git://`に変更、npm versionにprerelease, preminor, prepatch を追加等",
+            "content": "npm 1.4.11リリース\nnpmデフォルトのリポジトリが`git://`から`https://`に変更、npm versionにprerelease, preminor, prepatch を追加等",
             "tags": [
                 "node.js",
                 "ReleaseNote"
