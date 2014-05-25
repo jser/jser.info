@@ -1061,6 +1061,19 @@
                     "url": "http://www.slideshare.net/brianskold/html5j-2013"
                 }
             ]
+        },
+        {
+            "title": "Data-binding Revolutions with Object.observe() - HTML5 Rocks",
+            "url": "http://www.html5rocks.com/en/tutorials/es7/observe/",
+            "content": "ES7の`Object.observe()`によるデータバインディングについて。\n現状のやり方であるDirty-checkingやCotainerとの違い、`Object.observe`の使い方。\nPathObserver、ArrayObserver等についても解説されてる",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "Chrome",
+                "tutorial"
+            ],
+            "date": "2014-05-25T15:20:24.028Z",
+            "related-links": []
         }
     ]
 }
