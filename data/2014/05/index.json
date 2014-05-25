@@ -1085,6 +1085,17 @@
             ],
             "date": "2014-05-25T15:23:50.406Z",
             "related-links": []
+        },
+        {
+            "title": "Communicating Large Objects with Web Workers in javascript | Red Hat Developer Blog",
+            "url": "http://developerblog.redhat.com/2014/05/20/communicating-large-objects-with-web-workers-in-javascript/",
+            "content": "JavaScriptででかいファイルをやり取りするときにWebWorkerを使って1行ずつ渡していく方法等について。\nRedHatのログ解析画面で行っている事例",
+            "tags": [
+                "JavaScript",
+                "webworker"
+            ],
+            "date": "2014-05-25T15:27:59.325Z",
+            "related-links": []
         }
     ]
 }
