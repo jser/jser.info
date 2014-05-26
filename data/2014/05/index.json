@@ -1130,6 +1130,22 @@
             ],
             "date": "2014-05-26T11:54:48.676Z",
             "related-links": []
+        },
+        {
+            "title": "Journey to the Promises Land | LinkedIn Engineering",
+            "url": "http://engineering.linkedin.com/javascript/journey-promises-land",
+            "content": "Promiseを使ったコードフローの管理について。\n`.nodeify()`を上手く使ってて、nodeify(done)という感じでテストにも使ってる。(今だとpromiseオブジェクト自体にも対応してるけど)",
+            "tags": [
+                "Promises",
+                "node.js"
+            ],
+            "date": "2014-05-26T12:02:31.009Z",
+            "related-links": [
+                {
+                    "title": "LinkedIn: Promiseでデータフローコントロールを改善 - ワザノバ | wazanova",
+                    "url": "http://wazanova.jp/items/750"
+                }
+            ]
         }
     ]
 }
