@@ -1194,6 +1194,23 @@
             ],
             "date": "2014-05-28T16:16:17.030Z",
             "related-links": []
+        },
+        {
+            "title": "Socket.IO — Introducing Socket.IO 1.0",
+            "url": "http://socket.io/blog/introducing-socket-io-1-0/",
+            "content": "Socket.IO 1.0リリース。\nWebSockets等のtransport周りのクロスブラウザ対応はEngine.IOという別モジュールへレイヤー分け、Coreの軽量化、バイナリのサポート、デバッグツール等",
+            "tags": [
+                "node.js",
+                "WebSocket",
+                "library"
+            ],
+            "date": "2014-05-29T01:09:01.852Z",
+            "related-links": [
+                {
+                    "title": "Automattic/engine.io",
+                    "url": "https://github.com/automattic/engine.io"
+                }
+            ]
         }
     ]
 }
