@@ -1211,6 +1211,18 @@
                     "url": "https://github.com/automattic/engine.io"
                 }
             ]
+        },
+        {
+            "title": "Empeeric/asynctrace",
+            "url": "https://github.com/Empeeric/asynctrace",
+            "content": "node.js 0.11以降のtracing apiと https://github.com/othiym23/shimmer を使ってMochaでのテスト実行時に深いスタックトレースを表示できるnode module",
+            "tags": [
+                "JavaScript",
+                "debug",
+                "library"
+            ],
+            "date": "2014-05-29T09:18:02.954Z",
+            "related-links": []
         }
     ]
 }
