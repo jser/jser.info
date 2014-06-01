@@ -1,0 +1,24 @@
+{
+    "list": [
+        {
+            "title": "Release 3.7 · gulpjs/gulp",
+            "url": "https://github.com/gulpjs/gulp/releases/tag/3.7",
+            "content": "streamベースのビルドシステムツールであるgulp 3.7リリース。\n設定ファイルをjs以外、coffeescriptなどでも書けるようになった(node-liftoffを利用)",
+            "tags": [
+                "gulp",
+                "ReleaseNote"
+            ],
+            "date": "2014-06-01T08:34:05.104Z",
+            "related-links": [
+                {
+                    "title": "altjs - gulp 3.7 リリース: CoffeeScriptネイティブに - Qiita",
+                    "url": "http://qiita.com/cognitom/items/4468723674199cf5f9a5"
+                },
+                {
+                    "title": "tkellen/node-liftoff",
+                    "url": "https://github.com/tkellen/node-liftoff"
+                }
+            ]
+        }
+    ]
+}
