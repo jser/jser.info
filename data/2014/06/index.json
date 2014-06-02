@@ -76,6 +76,22 @@
             ],
             "date": "2014-06-02T07:46:59.371Z",
             "related-links": []
+        },
+        {
+            "title": "Unshackling JavaScript with Macros // Speaker Deck",
+            "url": "https://speakerdeck.com/jlongster/unshackling-javascript-with-macros",
+            "content": "sweet.jsのマクロを使ったEmojiScriptについてのスライド。\nsweet.jsを使ったHygieneなマクロ、パターンマッチ等についても紹介してる",
+            "tags": [
+                "JavaScript",
+                "スライド"
+            ],
+            "date": "2014-06-02T08:00:27.996Z",
+            "related-links": [
+                {
+                    "title": "jlongster/emojiscript",
+                    "url": "https://github.com/jlongster/emojiscript"
+                }
+            ]
         }
     ]
 }
