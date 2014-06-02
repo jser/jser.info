@@ -52,6 +52,18 @@
             ],
             "date": "2014-06-02T02:25:25.204Z",
             "related-links": []
+        },
+        {
+            "title": "then/promise",
+            "url": "https://github.com/then/promise",
+            "content": "ES6 Promisesなライブラリ。\n仕様にはないけどよく使いそうな`denodeify`、`nodeify`、`done`が用意されてる。\nまたPromiseの拡張方法(継承とdelegateとprototype)について書かれてる",
+            "tags": [
+                "JavaScript",
+                "Promises",
+                "library"
+            ],
+            "date": "2014-06-02T02:28:01.447Z",
+            "related-links": []
         }
     ]
 }
