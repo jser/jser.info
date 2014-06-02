@@ -160,6 +160,23 @@
             ],
             "date": "2014-06-02T08:59:49.864Z",
             "related-links": []
+        },
+        {
+            "title": "Front End Ops Tooling // Speaker Deck",
+            "url": "https://speakerdeck.com/bevacqua/front-end-ops-tooling",
+            "content": "ビルドファーストという考え方、ビルドツール、プロセス、ワークフローについてのスライド。\nGrunt/gulp/npm run-scriptそれぞれの特徴。またCommonJSで書いてbrowserifyでビルドすることの利点について。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "スライド"
+            ],
+            "date": "2014-06-02T12:58:54.158Z",
+            "related-links": [
+                {
+                    "title": "JavaScript Application Design #buildfirst · bevacqua.io",
+                    "url": "http://bevacqua.io/buildfirst"
+                }
+            ]
         }
     ]
 }
