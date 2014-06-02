@@ -147,6 +147,19 @@
                     "url": "https://github.com/codeschool/abecedary"
                 }
             ]
+        },
+        {
+            "title": "Hacking with Unicode // Speaker Deck",
+            "url": "https://speakerdeck.com/mathiasbynens/hacking-with-unicode",
+            "content": "ユニコードとJavaScriptについて詳しく書かれたスライド(と動画)\nユニコードでの問題として文字数とlengthの違い、ノーマライズ、反転時の問題、正規表現でUnicode symbolがマッチしない問題。\nES6での正しくコードポイントやサロゲートペアを扱う方等について。\nそれを利用したMySQLやXSSの事例についても",
+            "tags": [
+                "文字コード",
+                "JavaScript",
+                "スライド",
+                "SQL"
+            ],
+            "date": "2014-06-02T08:59:49.864Z",
+            "related-links": []
         }
     ]
 }
