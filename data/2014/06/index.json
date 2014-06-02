@@ -41,6 +41,17 @@
             ],
             "date": "2014-06-02T02:23:22.134Z",
             "related-links": []
+        },
+        {
+            "title": "TremayneChrist/ProtectJS",
+            "url": "https://github.com/TremayneChrist/ProtectJS",
+            "content": "prototypeに実装されてるメソッドで`_`で始まるものをprivate method的に呼べなくするライブラリ。\n(protectしたオブジェクトを作成する)",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-06-02T02:25:25.204Z",
+            "related-links": []
         }
     ]
 }
