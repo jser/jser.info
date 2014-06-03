@@ -243,6 +243,22 @@
             ],
             "date": "2014-06-03T14:42:29.547Z",
             "related-links": []
+        },
+        {
+            "title": "JS NICE: Statistical renaming, Type inference and Deobfuscation",
+            "url": "http://jsnice.org/",
+            "content": "JavaScriptコードの整形とJSDocの型注釈コメントの自動追加、変数のリネームとその名前のサジェストをしてくれるツール。\nGithubのプロジェクトをクロールして学習した結果が使われてる。\nエディタの部分はCodeMirrorを利用",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2014-06-03T14:52:29.924Z",
+            "related-links": [
+                {
+                    "title": "Software Reliability Lab | ETH | Jsnice",
+                    "url": "http://www.srl.inf.ethz.ch/jsnice.php"
+                }
+            ]
         }
     ]
 }
