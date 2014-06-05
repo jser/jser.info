@@ -271,6 +271,18 @@
             ],
             "date": "2014-06-04T02:41:10.813Z",
             "related-links": []
+        },
+        {
+            "title": "Snap.svg/history.md at master · adobe-webplatform/Snap.svg",
+            "url": "https://github.com/adobe-webplatform/Snap.svg/blob/master/history.md#030",
+            "content": "SVGライブラリのSnap.svg 0.3.0リリース。\n`.addClass()`等のクラス系のAPI、`Paper.mask()`や`Paper.ptrn()`等の`Paper.g()`のショートカット的なマスク/パターン要素のメソッドの追加等",
+            "tags": [
+                "SVG",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-06-05T01:25:01.088Z",
+            "related-links": []
         }
     ]
 }
