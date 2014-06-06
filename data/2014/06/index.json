@@ -346,6 +346,28 @@
                     "url": "http://sourceforge.jp/magazine/14/06/05/160000"
                 }
             ]
+        },
+        {
+            "title": "Command-line utilities with Node.js",
+            "url": "http://cruft.io/posts/node-command-line-utilities/",
+            "content": "Node.jsで作るコマンドラインツールnチュートリアル。\nshebang、commanderでの引数の処理、 chalkを使った色、終了コード、他のCLIとパイプで繋げられるようにするなどについて",
+            "tags": [
+                "node.js",
+                "tutorial",
+                "console",
+                "Tools"
+            ],
+            "date": "2014-06-06T05:55:46.775Z",
+            "related-links": [
+                {
+                    "title": "visionmedia/commander.js",
+                    "url": "https://github.com/visionmedia/commander.js/"
+                },
+                {
+                    "title": "sindresorhus/chalk",
+                    "url": "https://github.com/sindresorhus/chalk"
+                }
+            ]
         }
     ]
 }
