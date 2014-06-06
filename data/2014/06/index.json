@@ -319,6 +319,17 @@
             ],
             "date": "2014-06-05T14:20:55.457Z",
             "related-links": []
+        },
+        {
+            "title": "Detect, Undo And Redo DOM Changes With Mutation Observers",
+            "url": "http://addyosmani.com/blog/mutation-observers/",
+            "content": "MutationObserverの使い方、MutationObserverでキャッチ出来る変化をUndo/Redoする実装について",
+            "tags": [
+                "JavaScript",
+                "tutorial"
+            ],
+            "date": "2014-06-06T04:44:05.122Z",
+            "related-links": []
         }
     ]
 }
