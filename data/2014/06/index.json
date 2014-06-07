@@ -368,6 +368,16 @@
                     "url": "https://github.com/sindresorhus/chalk"
                 }
             ]
+        },
+        {
+            "title": "The ECMAScript 6 schedule changes",
+            "url": "http://www.2ality.com/2014/06/es6-schedule.html",
+            "content": "ES6リリースのスケジュールについて。\nバグへの対応を除いたものは2014年の終わりまでに完了し、それらの実装からくるフィードバックに対応してから、\n正式なものとしてECMAに提出するのは June 2015 に予定を変更",
+            "tags": [
+                "ECMAScript"
+            ],
+            "date": "2014-06-07T01:49:35.086Z",
+            "related-links": []
         }
     ]
 }
