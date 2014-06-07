@@ -403,6 +403,23 @@
             ],
             "date": "2014-06-07T15:08:01.552Z",
             "related-links": []
+        },
+        {
+            "title": "reworkcss/css",
+            "url": "https://github.com/reworkcss/css",
+            "content": "CSSパーサー/ジェネレーターライブラリ。CSSプリプロセッサのreworkで使われている。\nCSSをパースした結果をASTとして取得でき、ASTからCSSを生成時にSourcemapも生成出来る。",
+            "tags": [
+                "CSS",
+                "library",
+                "node.js"
+            ],
+            "date": "2014-06-07T16:27:42.728Z",
+            "related-links": [
+                {
+                    "title": "reworkcss/rework",
+                    "url": "https://github.com/reworkcss/rework"
+                }
+            ]
         }
     ]
 }
