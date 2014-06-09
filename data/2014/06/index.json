@@ -446,6 +446,22 @@
             ],
             "date": "2014-06-08T03:27:51.441Z",
             "related-links": []
+        },
+        {
+            "title": "Promises: The Sync Problem (part 1) | getiblog",
+            "url": "http://blog.getify.com/promises-part-1/",
+            "content": "ES6 Promisesについての連載。\nPromise Polyfillがsub-classableである事とstateの保護が両立できない事について。\nネイティブのPromise.prototypeを拡張すべきなのかどうか、Promiseをレゴのように組み立てて使う話。",
+            "tags": [
+                "JavaScript",
+                "Promises"
+            ],
+            "date": "2014-06-09T07:47:02.349Z",
+            "related-links": [
+                {
+                    "title": "getify/native-promise-only",
+                    "url": "https://github.com/getify/native-promise-only"
+                }
+            ]
         }
     ]
 }
