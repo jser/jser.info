@@ -546,6 +546,26 @@
             ],
             "date": "2014-06-11T04:50:58.106Z",
             "related-links": []
+        },
+        {
+            "title": "Firefox 30.0 リリースノート",
+            "url": "http://www.mozilla.jp/firefox/30.0/releasenotes/",
+            "content": "Firefox 30リリース\n`XMLHttpRequest`等DOMのコンストラクタ関数を`new`なしでは呼べないように、`__proto__`のsetter利用の警告、特定条件下では300msのタッチイベントの遅延が廃止等",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "date": "2014-06-11T05:16:22.916Z",
+            "related-links": [
+                {
+                    "title": "Firefox 30 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/ja/docs/Mozilla/Firefox/Releases/30"
+                },
+                {
+                    "title": "Firefox 30 サイト互換性情報 - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/ja/docs/Mozilla/Firefox/Releases/30/Site_Compatibility"
+                }
+            ]
         }
     ]
 }
