@@ -524,6 +524,17 @@
                     "url": "http://2014.jsconf.us/"
                 }
             ]
+        },
+        {
+            "title": "Getfirebug Blog » Blog Archive » Firebug 2.0",
+            "url": "https://blog.getfirebug.com/2014/06/10/firebug-2-0/",
+            "content": "Firebug 2.0リリース。\nスクリプトの自動整形、シンタックスハイライト付きの編集、DOM Eventインスペクタ、正規表現での検索、 Command Editor(複数行)での補完、consoleログのグルーピング、returnした値のwatch、Mutation Observersの監視等",
+            "tags": [
+                "Firebug",
+                "ReleaseNote"
+            ],
+            "date": "2014-06-11T03:16:47.011Z",
+            "related-links": []
         }
     ]
 }
