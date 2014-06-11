@@ -566,6 +566,16 @@
                     "url": "https://developer.mozilla.org/ja/docs/Mozilla/Firefox/Releases/30/Site_Compatibility"
                 }
             ]
+        },
+        {
+            "title": "Two-Way Data Binding",
+            "url": "http://n12v.com/2-way-data-binding/",
+            "content": "VanillaJS、Backbone、React、Angular、Meteorでの2-wayデータバインディングの実装比較。\n",
+            "tags": [
+                "JavaScript"
+            ],
+            "date": "2014-06-11T06:40:48.904Z",
+            "related-links": []
         }
     ]
 }
