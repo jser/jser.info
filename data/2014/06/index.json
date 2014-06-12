@@ -576,6 +576,23 @@
             ],
             "date": "2014-06-11T06:40:48.904Z",
             "related-links": []
+        },
+        {
+            "title": "Sharing Data Between Sass and JavaScript with JSON | Viget",
+            "url": "http://viget.com/extend/sharing-data-between-sass-and-javascript-with-json",
+            "content": "sass-json-varsを使ってSassでJSONを読み込んで使う話",
+            "tags": [
+                "JavaScript",
+                "Sass",
+                "JSON"
+            ],
+            "date": "2014-06-12T01:36:19.165Z",
+            "related-links": [
+                {
+                    "title": "vigetlabs/sass-json-vars",
+                    "url": "https://github.com/vigetlabs/sass-json-vars"
+                }
+            ]
         }
     ]
 }
