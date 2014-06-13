@@ -593,6 +593,17 @@
                     "url": "https://github.com/vigetlabs/sass-json-vars"
                 }
             ]
+        },
+        {
+            "title": "PhoneGap | PhoneGap 3.5.0 Release",
+            "url": "http://phonegap.com/blog/2014/06/12/phonegap-3_5_release/",
+            "content": "PhoneGap 3.5.0リリース。\n全てのプラットフォーム向けがnpmでリリースされた、`package.json`、今後のアップデートはnpm経由、iOS5.0のサポートは終了、iOSのユニバーサルバイナリ対応",
+            "tags": [
+                "PhoneGap",
+                "ReleaseNote"
+            ],
+            "date": "2014-06-13T03:47:03.799Z",
+            "related-links": []
         }
     ]
 }
