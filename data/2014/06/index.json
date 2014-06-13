@@ -604,6 +604,17 @@
             ],
             "date": "2014-06-13T03:47:03.799Z",
             "related-links": []
+        },
+        {
+            "title": "Tumblrの省メモリーな無限スクロール - 記録",
+            "url": "http://vzvu3k6k.tk/memo/2014/04/26/tumblr-ghostlist.html",
+            "content": "Tumblrの無限スクロールでのメモリの使用量対策について。\n画像を一時的にダミーに入れ替える方法、display:noneとする方法や、ノードは変数として保持してDOMから削除する事によるメモリへの影響について書かれてる",
+            "tags": [
+                "tumblr",
+                "JavaScript"
+            ],
+            "date": "2014-06-13T14:38:51.446Z",
+            "related-links": []
         }
     ]
 }
