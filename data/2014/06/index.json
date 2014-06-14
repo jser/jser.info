@@ -615,6 +615,24 @@
             ],
             "date": "2014-06-13T14:38:51.446Z",
             "related-links": []
+        },
+        {
+            "title": "Release v2.0.0 · chrisdickinson/beefy",
+            "url": "https://github.com/chrisdickinson/beefy/releases/tag/v2.0.0",
+            "content": "Browserifyでの開発補助ツール(自動ビルド、更新)であるbeefy 2.0.0がリリース。\nnode moduleとしても利用しやすくなった。全体的に書きなおして内部構造の改善、Windowsサポートの改善等",
+            "tags": [
+                "JavaScript",
+                "browserify",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2014-06-14T03:07:53.543Z",
+            "related-links": [
+                {
+                    "title": "Beefy 2 -- The Beefening by chrisdickinson · Pull Request #40 · chrisdickinson/beefy",
+                    "url": "https://github.com/chrisdickinson/beefy/pull/40"
+                }
+            ]
         }
     ]
 }
