@@ -633,6 +633,17 @@
                     "url": "https://github.com/chrisdickinson/beefy/pull/40"
                 }
             ]
+        },
+        {
+            "title": "Understanding Error Messages in JavaScript",
+            "url": "http://www.choskim.me/understanding-error-messages-in-javascript/",
+            "content": "JavaScriptのエラーが発生した時のコンソールに表示されるエラー内容についての解説。\nまだ初期化されてない、識別子が間違ってる、データタイプがあってない\nケースについてそれぞれ例と解説が書かれてる",
+            "tags": [
+                "JavaScript",
+                "debug"
+            ],
+            "date": "2014-06-14T06:05:52.702Z",
+            "related-links": []
         }
     ]
 }
