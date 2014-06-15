@@ -655,6 +655,17 @@
             ],
             "date": "2014-06-14T16:27:02.356Z",
             "related-links": []
+        },
+        {
+            "title": "GLSL ray marching",
+            "url": "http://wgld.org/o/tools/slide/doc/001/",
+            "content": "WebGLでのレイマーチングについてのスライド。\nレイトレーシング、レイマーチングがどういうものなのかについても書かれてる。\nレイマーチングでの中心的な要素となるdistance functionについて",
+            "tags": [
+                "WebGL",
+                "スライド"
+            ],
+            "date": "2014-06-15T14:21:59.649Z",
+            "related-links": []
         }
     ]
 }
