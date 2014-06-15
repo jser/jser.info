@@ -688,6 +688,22 @@
             ],
             "date": "2014-06-15T14:30:41.190Z",
             "related-links": []
+        },
+        {
+            "title": "VOC.js作った。　視覚と見た目に基づいた非同期コミュニケーションができるよ - 標高+1m",
+            "url": "http://ympbyc.hatenablog.com/entry/VOCjs",
+            "content": "Vision Oriented Communication、プルベースな考え方のコミュニケーションライブラリ。\nそれぞれのオブジェクトがループの中で外から情報を取ってきて、それに対する挙動を書いていく感じ。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-06-15T14:39:35.068Z",
+            "related-links": [
+                {
+                    "title": "ympbyc/VOC",
+                    "url": "https://github.com/ympbyc/VOC"
+                }
+            ]
         }
     ]
 }
