@@ -715,6 +715,23 @@
             ],
             "date": "2014-06-16T12:32:53.133Z",
             "related-links": []
+        },
+        {
+            "title": "Easy audio capture with the MediaRecorder API ✩ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2014/06/easy-audio-capture-with-the-mediarecorder-api/",
+            "content": "Firefox 25からサポートしてる\nMediaRecorder API(navigator.getUserMedia)で、音声を録音できるという話",
+            "tags": [
+                "audio",
+                "API",
+                "JavaScript"
+            ],
+            "date": "2014-06-16T12:52:47.533Z",
+            "related-links": [
+                {
+                    "title": "Web Audio API - Web API Interfaces | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API"
+                }
+            ]
         }
     ]
 }
