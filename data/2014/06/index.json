@@ -614,7 +614,12 @@
                 "JavaScript"
             ],
             "date": "2014-06-13T14:38:51.446Z",
-            "related-links": [{ "title" : "無限スクロールの問題点と解決方法 - 記録", "url" : "http://vzvu3k6k.tk/memo/2014/04/27/better-infinite-scroll.html"}]
+            "related-links": [
+                {
+                    "title": "無限スクロールの問題点と解決方法 - 記録",
+                    "url": "http://vzvu3k6k.tk/memo/2014/04/27/better-infinite-scroll.html"
+                }
+            ]
         },
         {
             "title": "Release v2.0.0 · chrisdickinson/beefy",
@@ -751,6 +756,19 @@
                     "url": "http://1000ch.net/posts/2014/frontend-engineer-training-book.html"
                 }
             ]
+        },
+        {
+            "title": "ブラウザにやさしいHTML/CSS",
+            "url": "http://www.slideshare.net/TakeharuIgari/htmlcss-34506501",
+            "content": "HTTP通信、DOMのレンダリングツリー、GPU Layer、CSSセレクタ、JavaScriptの実行の大まかな動きについて書かれたスライド。\n常に変化がある部分だけど、どういう要素があってどうゆう手法があったのかについて把握しやすく書かれてる",
+            "tags": [
+                "browserify",
+                "DOM",
+                "HTTP",
+                "スライド"
+            ],
+            "date": "2014-06-16T13:39:02.517Z",
+            "related-links": []
         }
     ]
 }
