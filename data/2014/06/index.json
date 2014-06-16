@@ -769,6 +769,17 @@
             ],
             "date": "2014-06-16T13:39:02.517Z",
             "related-links": []
+        },
+        {
+            "title": "Release vinyl-fs update · gulpjs/gulp",
+            "url": "https://github.com/gulpjs/gulp/releases/tag/3.8",
+            "content": "gulp 3.8.0リリース。\n`gulp.src`を使ってpipeの途中でファイルを追加出来るように、`gulp.dest`が関数を受け取ることが出来るようになって出力先を操作しやすくなった",
+            "tags": [
+                "gulp",
+                "ReleaseNote"
+            ],
+            "date": "2014-06-16T13:42:54.685Z",
+            "related-links": []
         }
     ]
 }
