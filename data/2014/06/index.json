@@ -887,6 +887,19 @@
                     "url": "https://github.com/marionettejs/Marionette.Upgrade"
                 }
             ]
+        },
+        {
+            "title": "Release 2.0.0 · reworkcss/css",
+            "url": "https://github.com/reworkcss/css/releases/tag/2.0.0",
+            "content": "CSSパーサのcss 2.0.0リリース。\nASTのnodeに`position`を追加、`@custom-media`等のサポート\nhttps://github.com/reworkcss/css/blob/2.0.0/History.md\n",
+            "tags": [
+                "CSS",
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-06-19T00:50:04.352Z",
+            "related-links": []
         }
     ]
 }
