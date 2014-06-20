@@ -912,6 +912,22 @@
             ],
             "date": "2014-06-19T12:21:46.198Z",
             "related-links": []
+        },
+        {
+            "title": "Node v0.10.29 (Stable)",
+            "url": "http://blog.nodejs.org/2014/06/16/node-v0-10-29-stable/",
+            "content": "Node v0.10.29 リリース。\nBufferでのUTF-8 の表示が変わった",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "date": "2014-06-20T05:06:46.259Z",
+            "related-links": [
+                {
+                    "title": "OpenSSL and Breaking UTF-8 Change (fixed in Node v0.8.27 and v0.10.29)",
+                    "url": "http://blog.nodejs.org/2014/06/16/openssl-and-breaking-utf-8-change/"
+                }
+            ]
         }
     ]
 }
