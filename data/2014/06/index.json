@@ -1001,6 +1001,26 @@
                     "url": "http://blog.chromium.org/2014/06/web-fundamentals-and-web-starter-kit.html"
                 }
             ]
+        },
+        {
+            "title": "asynquence: The Promises You Don't Know Yet (Part 1)",
+            "url": "http://davidwalsh.name/asynquence-part-1",
+            "content": "Promiseスタイルの非同期sequenceフローコントールライブラリであるasynquenceについての連載",
+            "tags": [
+                "JavaScript",
+                "Promises"
+            ],
+            "date": "2014-06-22T12:56:19.899Z",
+            "related-links": [
+                {
+                    "title": "Promises: The Sync Problem (part 1) | getiblog",
+                    "url": "http://blog.getify.com/promises-part-1/"
+                },
+                {
+                    "title": "getify/asynquence",
+                    "url": "https://github.com/getify/asynquence"
+                }
+            ]
         }
     ]
 }
