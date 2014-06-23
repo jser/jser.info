@@ -1096,6 +1096,17 @@
             ],
             "date": "2014-06-23T12:28:40.592Z",
             "related-links": []
+        },
+        {
+            "title": "Socket.IO 1.0の変更点・内部的な話 // Speaker Deck",
+            "url": "https://speakerdeck.com/nkzawa/socket-dot-io-1-dot-0falsebian-geng-dian-nei-bu-de-nahua",
+            "content": "socket.io 1.0/engine.ioについてまとまってるスライド。\nWebSocketへのアップグレードの仕組み、ハンドシェイクから接続の間に処理を入れるミドルウェア、バイナリサポート、Adapter、サーバ間共有、プロトコルの変化等",
+            "tags": [
+                "WebSocket",
+                "スライド"
+            ],
+            "date": "2014-06-23T12:33:24.140Z",
+            "related-links": []
         }
     ]
 }
