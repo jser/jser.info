@@ -1061,6 +1061,16 @@
                     "url": "https://github.com/soareschen/es6-promise-debugging"
                 }
             ]
+        },
+        {
+            "title": "Structs and ImmutableStructs",
+            "url": "http://raganwald.com/2014/06/15/immutable-structs.html",
+            "content": "`Object.defineProperties`を使ってImmutableなオブジェクトを作る話",
+            "tags": [
+                "JavaScript"
+            ],
+            "date": "2014-06-23T12:24:03.721Z",
+            "related-links": []
         }
     ]
 }
