@@ -1122,6 +1122,17 @@
             ],
             "date": "2014-06-23T12:44:32.657Z",
             "related-links": []
+        },
+        {
+            "title": "GlobalEventHandlers.onerror - Web API Interfaces | MDN",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers.onerror",
+            "content": "Firefox 31から`onerror`のハンドラに第4,5引数が追加された\nカラム番号とErrorオブジェクトそのものが取得出来るように\nhttp://jsbin.com/xagiy/1/edit",
+            "tags": [
+                "JavaScript",
+                "firefox"
+            ],
+            "date": "2014-06-24T09:06:59.915Z",
+            "related-links": []
         }
     ]
 }
