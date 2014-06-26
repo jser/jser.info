@@ -1173,6 +1173,22 @@
                     "url": "http://www.mozilla.jp/blog/entry/10412/"
                 }
             ]
+        },
+        {
+            "title": "CSS Shrink",
+            "url": "http://cssshrink.com/",
+            "content": "CSS圧縮ツール。\nCSS ASTをtraverseして余分なCSSを取り除いたり、まとめたりしてコード量を小さくする",
+            "tags": [
+                "CSS",
+                "Tools"
+            ],
+            "date": "2014-06-26T06:38:11.616Z",
+            "related-links": [
+                {
+                    "title": "CSS shrinkage",
+                    "url": "http://cssshrink.com/velocity/"
+                }
+            ]
         }
     ]
 }
