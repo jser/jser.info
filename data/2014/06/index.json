@@ -1312,6 +1312,20 @@
                     "url": "https://github.com/gunta/webpack-samples-1pixel"
                 }
             ]
+        },
+        {
+            "title": "Firefox DevTools - Velocity 2014",
+            "url": "http://media.fitzgeraldnick.com/velocity2014/presentation/html5/template.html",
+            "content": "Firefoxの開発者ツールについてのスライド.\n`csscoverage`コマンド、ネットワークモニタの使い方、`console.profile`、描画の可視化、リフローを発生させたコードのログ、Canvasデバッガー等について。",
+            "tags": [
+                "firefox",
+                "JavaScript",
+                "debug",
+                "Tools",
+                "スライド"
+            ],
+            "date": "2014-06-29T13:04:49.704Z",
+            "related-links": []
         }
     ]
 }
