@@ -1290,6 +1290,28 @@
                     "url": "http://2014.lxjs.org/"
                 }
             ]
+        },
+        {
+            "title": "RequireJS等はもう古い。WebPackとは？｜1 pixel｜サイバーエージェント公式クリエイターズブログ",
+            "url": "http://ameblo.jp/ca-1pixel/entry-11884453208.html",
+            "content": "何でも`require`出来るWebPackのしょうかい記事。\nWebPackの特徴や色々な構成のサンプルについて書かれてる",
+            "tags": [
+                "JavaScript",
+                "CSS",
+                "HTML",
+                "Tools"
+            ],
+            "date": "2014-06-29T13:01:40.576Z",
+            "related-links": [
+                {
+                    "title": "webpack module bundler",
+                    "url": "http://webpack.github.io/"
+                },
+                {
+                    "title": "gunta/webpack-samples-1pixel",
+                    "url": "https://github.com/gunta/webpack-samples-1pixel"
+                }
+            ]
         }
     ]
 }
