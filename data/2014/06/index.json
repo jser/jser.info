@@ -1242,6 +1242,19 @@
             ],
             "date": "2014-06-29T05:38:30.392Z",
             "related-links": []
+        },
+        {
+            "title": "Node.jsで書いてQuickStartを使ってブラウザで実行する話 | Web scratch",
+            "url": "http://efcl.info/2014/0629/res3956/",
+            "content": "BrowserifyみたいにCommonJSで書いてビルド出来るツールについて。\nローダとして使えるため、開発中はビルドしないでローダとして使って、プロダクトはビルドして使うみたいな事が出来る",
+            "tags": [
+                "node.js",
+                "browserify",
+                "CommonJS",
+                "Tools"
+            ],
+            "date": "2014-06-29T11:07:32.331Z",
+            "related-links": []
         }
     ]
 }
