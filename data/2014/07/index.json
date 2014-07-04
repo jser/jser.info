@@ -119,6 +119,25 @@
             ],
             "date": "2014-07-04T13:39:09.084Z",
             "related-links": []
+        },
+        {
+            "title": "Crush & Lovely — 7 Patterns to Refactor JavaScript Applications: Value Objects",
+            "url": "http://journal.crushlovely.com/post/88286828068/7-patterns-to-refactor-javascript-applications-value",
+            "content": "JavaScriptの問題の分離をするAPIデザインとテストについての連載。\n\"7 Patterns to Refactor Fat ActiveRecord Models\" が元ネタで、それぞれについてサンプルコードとテストが書いてあって丁寧に書いせるされてる",
+            "tags": [
+                "JavaScript",
+                "API",
+                "design",
+                "Promises",
+                "testing"
+            ],
+            "date": "2014-07-04T15:18:39.092Z",
+            "related-links": [
+                {
+                    "title": "7 Patterns to Refactor Fat ActiveRecord Models - Code Climate Blog",
+                    "url": "http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/"
+                }
+            ]
         }
     ]
 }
