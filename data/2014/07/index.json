@@ -95,6 +95,18 @@
             ],
             "date": "2014-07-04T04:29:47.725Z",
             "related-links": []
+        },
+        {
+            "title": "CSS will-changeプロパティについて知っておくべきこと | POSTD",
+            "url": "http://postd.cc/css-will-change-property/",
+            "content": "GPUを使うためのtranslate3dというハックではなくwill-changeというそれを用のプロパティについての話。\n予めて変化するものをブラウザに伝える事で最適化し、変化後に削除する。\nCSS animationのチラツキの軽減とハードウェアアクセラレーションの活用",
+            "tags": [
+                "JavaScript",
+                "CSS",
+                "animation"
+            ],
+            "date": "2014-07-04T07:07:33.687Z",
+            "related-links": []
         }
     ]
 }
