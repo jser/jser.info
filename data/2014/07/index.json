@@ -138,6 +138,19 @@
                     "url": "http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/"
                 }
             ]
+        },
+        {
+            "title": "お前自分ちのページャUIが本当に速いと思ってんの？ // Speaker Deck",
+            "url": "https://speakerdeck.com/mizchi/oqian-zi-fen-tifalsepeziyauigaben-dang-nisu-itosi-tutenfalse",
+            "content": "テンプレートエンジンとデータバインドによるDOMの書き換え方の違いについてののスライド。\nリストビューとデータバインドでの差分描画のアプローチ、無限スクロールでのページャについて",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "performance",
+                "スライド"
+            ],
+            "date": "2014-07-05T03:56:39.048Z",
+            "related-links": []
         }
     ]
 }
