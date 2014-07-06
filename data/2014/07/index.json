@@ -166,8 +166,22 @@
                     "title": "Standard ECMA-408",
                     "url": "http://www.ecma-international.org/publications/standards/Ecma-408.htm"
                 },
-                { "title" : "Ecma Standardizes Dart", "url" : "http://www.infoq.com/news/2014/07/ecma-dart-google#.U7c9cZBvbc0.twitter"}
+                {
+                    "title": "Ecma Standardizes Dart",
+                    "url": "http://www.infoq.com/news/2014/07/ecma-dart-google#.U7c9cZBvbc0.twitter"
+                }
             ]
+        },
+        {
+            "title": "AngularJS: Novice to Ninja - O'Reilly Media",
+            "url": "http://shop.oreilly.com/product/9780992279455.do",
+            "content": "2014年9月発売\nAngularについての書籍。\nデータバインディング、TDD、モジュール、ディレクティブ、SPA",
+            "tags": [
+                "AngularJS",
+                "book"
+            ],
+            "date": "2014-07-06T02:06:21.359Z",
+            "related-links": []
         }
     ]
 }
