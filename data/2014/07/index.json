@@ -193,6 +193,23 @@
             ],
             "date": "2014-07-07T03:32:36.699Z",
             "related-links": []
+        },
+        {
+            "title": "JavaScript Modules",
+            "url": "http://jsmodules.io/",
+            "content": "ES6 moduleの使い方についてまとまってるサイト。\nNode/CommonJSスタイルとの比較についても書かれている",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "module"
+            ],
+            "date": "2014-07-07T09:04:01.640Z",
+            "related-links": [
+                {
+                    "title": "Porting from CommonJS",
+                    "url": "http://jsmodules.io/cjs.html"
+                }
+            ]
         }
     ]
 }
