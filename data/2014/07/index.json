@@ -210,6 +210,23 @@
                     "url": "http://jsmodules.io/cjs.html"
                 }
             ]
+        },
+        {
+            "title": "bahmutov/next-update",
+            "url": "https://github.com/bahmutov/next-update",
+            "content": "node moduleのdependenciesを一時的にアップデートした状態でテストを走らせて、問題なくアップデートできるかどうかを確認するコマンドラインツール",
+            "tags": [
+                "node.js",
+                "console",
+                "Tools"
+            ],
+            "date": "2014-07-07T09:17:13.681Z",
+            "related-links": [
+                {
+                    "title": "Node.jsパッケージ: next-update - Weblog - Hail2u.net",
+                    "url": "http://hail2u.net/blog/software/node-next-update.html"
+                }
+            ]
         }
     ]
 }
