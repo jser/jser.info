@@ -23,3 +23,9 @@ JSer.info [Issues](https://github.com/azu/jser.info/issues "Issues · azu/jser.i
 [JSer.info Pull Request Form](http://azu.github.io/JSer.info-tribute/ "JSer.info Pull Request Form") を利用すると楽に行えます。
 
 詳しくは[Pull Requestのガイドラインについて](CONTRIBUTING.md)を参照して下さい。
+
+## License
+
+The  source code under the MIT LICENSE.
+
+`article/` and `data/` under the CC-BY <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
