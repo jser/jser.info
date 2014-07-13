@@ -301,6 +301,23 @@
             ],
             "date": "2014-07-13T14:21:31.061Z",
             "related-links": []
+        },
+        {
+            "title": "Julie Pagano - JavaScript Debugging for Beginners",
+            "url": "http://juliepagano.com/blog/2014/05/18/javascript-debugging-for-beginners/",
+            "content": "JavaScriptのデバッグ方法とブラウザのデバッグツールについての解説",
+            "tags": [
+                "JavaScript",
+                "debug",
+                "browser"
+            ],
+            "date": "2014-07-13T14:24:31.250Z",
+            "related-links": [
+                {
+                    "title": "Secrets of the Browser Developer Tools - Secrets",
+                    "url": "http://devtoolsecrets.com/"
+                }
+            ]
         }
     ]
 }
