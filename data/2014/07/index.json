@@ -352,6 +352,18 @@
             ],
             "date": "2014-07-14T09:00:14.219Z",
             "related-links": []
+        },
+        {
+            "title": "React | React v0.11 RC",
+            "url": "http://facebook.github.io/react/blog/2014/07/13/react-v0.11-rc1.html",
+            "content": "React v0.11 RCリリース。\n何もレンダリングしないというのを明示的にnullを返す事で出来るように、JSXでJS風な名前空間が辿れるように、DOM 3 Eventsの対応改善等",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-07-14T13:15:09.087Z",
+            "related-links": []
         }
     ]
 }
