@@ -364,6 +364,17 @@
             ],
             "date": "2014-07-14T13:15:09.087Z",
             "related-links": []
+        },
+        {
+            "title": "Writing Unit Tests for Existing JavaScript - Adventures in JavaScript Development",
+            "url": "http://rmurphey.com/blog/2014/07/13/unit-tests/",
+            "content": "既存のJavaScriptコードに対してテストを書いていくステップの話。\nテストフレームワークにIntern、テストダブルにSquire.js、Sinon.jsを使って進める。\n何をテストし何をスべきではないかについて",
+            "tags": [
+                "JavaScript",
+                "testing"
+            ],
+            "date": "2014-07-14T13:43:09.680Z",
+            "related-links": []
         }
     ]
 }
