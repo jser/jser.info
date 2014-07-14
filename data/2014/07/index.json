@@ -375,6 +375,23 @@
             ],
             "date": "2014-07-14T13:43:09.680Z",
             "related-links": []
+        },
+        {
+            "title": "Designing Modules for the Browser and Node with Browserify",
+            "url": "http://www.slideshare.net/kwhinnery/designing-modules-for-the-browser-and-node-with-browserify",
+            "content": "Browserifyを使ったNodeとブラウザ向けにモジュールを作る方法について。\nbrowser fieldを使ってブラウザ向けの設定をpackage.jsonにする\nhttps://www.youtube.com/watch?v=rx3O64is50g",
+            "tags": [
+                "browserify",
+                "スライド",
+                "動画"
+            ],
+            "date": "2014-07-14T15:26:20.331Z",
+            "related-links": [
+                {
+                    "title": "browser field",
+                    "url": "https://github.com/substack/browserify-handbook#browser-field"
+                }
+            ]
         }
     ]
 }
