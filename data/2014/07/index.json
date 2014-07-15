@@ -465,7 +465,7 @@
         {
             "title": "ES6 proxies",
             "url": "http://tagtree.tv/es6-proxies",
-            "content": "ES6 Proxyについてのスクリーンキャスト。\n基本的なProxy APIの使い方、Reflect APIを使っての元処理の維持、setにproxywを挟んで変更の検知等",
+            "content": "ES6 Proxyについてのスクリーンキャスト。\n基本的なProxy APIの使い方、Reflect APIを使っての元処理の維持、setにproxyを挟んで変更の検知等",
             "tags": [
                 "ECMAScript",
                 "JavaScript",
