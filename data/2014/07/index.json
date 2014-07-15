@@ -444,6 +444,18 @@
                     "url": "https://github.com/uupaa/Spec.js/wiki/iOS-8.x-Changesets"
                 }
             ]
+        },
+        {
+            "title": "リファクタリングのためのテスト",
+            "url": "http://hokaccha.github.io/slides/refactoring/",
+            "content": "リファクタリングしても通らなくなったりしないテストについてのスライド",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "スライド"
+            ],
+            "date": "2014-07-15T12:50:18.605Z",
+            "related-links": []
         }
     ]
 }
