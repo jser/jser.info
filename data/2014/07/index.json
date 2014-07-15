@@ -455,7 +455,24 @@
                 "スライド"
             ],
             "date": "2014-07-15T12:50:18.605Z",
-            "related-links": [{ "title" : "Remixing Vol.1 イベントリポート | TECH BLOG", "url" : "http://www.rich.co.jp/tech/?p=427"}]
+            "related-links": [
+                {
+                    "title": "Remixing Vol.1 イベントリポート | TECH BLOG",
+                    "url": "http://www.rich.co.jp/tech/?p=427"
+                }
+            ]
+        },
+        {
+            "title": "ES6 proxies",
+            "url": "http://tagtree.tv/es6-proxies",
+            "content": "ES6 Proxyについてのスクリーンキャスト。\n基本的なProxy APIの使い方、Reflect APIを使っての元処理の維持、setにproxywを挟んで変更の検知等",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "動画"
+            ],
+            "date": "2014-07-15T13:15:09.681Z",
+            "related-links": []
         }
     ]
 }
