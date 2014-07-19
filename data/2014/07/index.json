@@ -532,6 +532,22 @@
             ],
             "date": "2014-07-18T03:11:24.700Z",
             "related-links": []
+        },
+        {
+            "title": "The roles of AngularJS and Polymer",
+            "url": "http://www.2ality.com/2014/07/angularjs-vs-polymer.html",
+            "content": "AngularJSとPolymerの役割の違い。\nAngularはアプリ開発に最適化したデザイン(DIやルーティング等)、PolymerはCustom Element開発に最適化したデザイン。\n2つは競合なのかどうかについて書かれてる。\n",
+            "tags": [
+                "AngularJS",
+                "WebComponents"
+            ],
+            "date": "2014-07-19T04:30:15.874Z",
+            "related-links": [
+                {
+                    "title": "Plans for supporting Web Components in AngularJS and Ember.js",
+                    "url": "http://www.2ality.com/2013/05/web-components-angular-ember.html"
+                }
+            ]
         }
     ]
 }
