@@ -596,6 +596,27 @@
             ],
             "date": "2014-07-20T13:28:05.790Z",
             "related-links": []
+        },
+        {
+            "title": "Ampersand.js - Home",
+            "url": "http://ampersandjs.com/",
+            "content": "HumanJSの作者によるJavaScriptアプリ向けのフレームワーク。\nBackbone.jsを使っていた経験から、機能を細かくNodeモジュールとして分けてBrowserifyでコンパイルして利用出来るようになってる。",
+            "tags": [
+                "JavaScript",
+                "backbone.js",
+                "library"
+            ],
+            "date": "2014-07-20T14:04:55.185Z",
+            "related-links": [
+                {
+                    "title": "Ampersand.js - Backbone.jsに対抗する\"フレームワークらしくない\"フレームワーク",
+                    "url": "http://www.infoq.com/jp/news/2014/07/ampersandjs"
+                },
+                {
+                    "title": "Introducing Ampersand.js | Blog",
+                    "url": "http://blog.andyet.com/2014/06/25/introducing-ampersand-js"
+                }
+            ]
         }
     ]
 }
