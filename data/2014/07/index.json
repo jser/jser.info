@@ -651,6 +651,26 @@
             ],
             "date": "2014-07-21T13:06:07.689Z",
             "related-links": []
+        },
+        {
+            "title": "Chrome Releases: Stable Channel Update",
+            "url": "http://googlechromereleases.blogspot.com/2014/07/stable-channel-update.html",
+            "content": "Chrome 36 stableリリース。\n`Object.observe()`や`element.animate()`、 HTML Imports等が入った",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "date": "2014-07-21T13:10:24.606Z",
+            "related-links": [
+                {
+                    "title": "Chromium Blog: Chrome 36 Beta: element.animate(), HTML Imports, and Object.observe()",
+                    "url": "http://blog.chromium.org/2014/05/chrome-36-beta-elementanimate-html.html"
+                },
+                {
+                    "title": "Chrome 36 Launches with New Incognito Design",
+                    "url": "http://thenextweb.com/google/2014/07/16/chrome-36-launches-rich-notifications-improvements-new-incognito-design-app-launcher-linux/"
+                }
+            ]
         }
     ]
 }
