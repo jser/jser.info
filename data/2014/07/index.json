@@ -682,6 +682,17 @@
             ],
             "date": "2014-07-21T13:14:29.490Z",
             "related-links": []
+        },
+        {
+            "title": "Improve Your Tests by Breaking the Rules - Bocoup",
+            "url": "http://bocoup.com/weblog/breaking-rules-in-tests/",
+            "content": "JavaScript一般で良くないパターンを、あえてテストにおいては使用することで改善できるという話。\nグローバル変数の利用、同期的なコードにする(Sinon.JS、Generator)、DRYじゃないコードを書く事で得られる点について",
+            "tags": [
+                "JavaScript",
+                "testing"
+            ],
+            "date": "2014-07-21T13:25:01.491Z",
+            "related-links": []
         }
     ]
 }
