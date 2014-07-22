@@ -768,6 +768,19 @@
             ],
             "date": "2014-07-22T12:32:11.812Z",
             "related-links": []
+        },
+        {
+            "title": "Protractor - end to end testing for AngularJS",
+            "url": "http://angular.github.io/protractor/",
+            "content": "AngularJS向けのWebdriverを使ったE2EテストフレームワークであるProtractorが公開された。\nデフォルトではテストコードはJasmineで書くt興ができ、MochaやCucumberも利用できる。",
+            "tags": [
+                "AngularJS",
+                "testing",
+                "Selenium",
+                "library"
+            ],
+            "date": "2014-07-22T12:37:08.955Z",
+            "related-links": []
         }
     ]
 }
