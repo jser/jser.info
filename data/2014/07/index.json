@@ -717,6 +717,18 @@
             ],
             "date": "2014-07-22T08:48:23.493Z",
             "related-links": []
+        },
+        {
+            "title": "node streams",
+            "url": "http://tagtree.tv/intro-to-node-streams",
+            "content": "node.jsのStreamについてのスクリーンキャスト。\nランダムな単語を流すStreamを作り、transform streamで変換してWriteStreamに流すサンプルについて",
+            "tags": [
+                "node.js",
+                "stream",
+                "動画"
+            ],
+            "date": "2014-07-22T08:50:19.200Z",
+            "related-links": []
         }
     ]
 }
