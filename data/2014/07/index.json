@@ -740,6 +740,22 @@
             ],
             "date": "2014-07-22T12:12:04.667Z",
             "related-links": []
+        },
+        {
+            "title": "天使やカイザーと呼ばれて » Web ComponentsのWebブラウザ別動作を調べてみた",
+            "url": "http://www.eisbahn.jp/yoichiro/2014/07/confirmation_of_web_components_on_each_browser.html",
+            "content": "WebCompoentsをサポートしてないブラウザでのplatform.jsのpolyfillの挙動について。\n`createShadowRoot()` と Shadow DOMのCSSスコープについて",
+            "tags": [
+                "WebComponents",
+                "browser"
+            ],
+            "date": "2014-07-22T12:19:39.390Z",
+            "related-links": [
+                {
+                    "title": "Why Web Components Aren't Ready for Production... Yet -Telerik Developer Network",
+                    "url": "http://developer.telerik.com/featured/web-components-arent-ready-production-yet/"
+                }
+            ]
         }
     ]
 }
