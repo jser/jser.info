@@ -704,6 +704,19 @@
             ],
             "date": "2014-07-22T00:35:19.308Z",
             "related-links": []
+        },
+        {
+            "title": "Raynos/mercury",
+            "url": "https://github.com/Raynos/mercury",
+            "content": "モジュール指向なフレームワーク。\nInput(Controller),State(Model),Render(View)\nReactのようにVirtual DOM持っていて、データバインディングはモデルクラス方式。",
+            "tags": [
+                "JavaScript",
+                "MVC",
+                "library",
+                "browserify"
+            ],
+            "date": "2014-07-22T08:48:23.493Z",
+            "related-links": []
         }
     ]
 }
