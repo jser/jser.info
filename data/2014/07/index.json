@@ -756,6 +756,18 @@
                     "url": "http://developer.telerik.com/featured/web-components-arent-ready-production-yet/"
                 }
             ]
+        },
+        {
+            "title": "Polymer vs. X-Tag - Here's the difference · Pascal Precht",
+            "url": "http://pascalprecht.github.io/2014/07/21/polymer-vs-x-tag-here-is-the-difference/",
+            "content": "Polymerのplatform.jsによるpolyfillとX-Tagの違い。\nX-TagはCustom Elementについて扱う。\npolymer-elementにnoscript属性を入れる意味等Polyfillを使ったCustom Elementについて詳しく書かれている",
+            "tags": [
+                "WebComponents",
+                "library",
+                "browser"
+            ],
+            "date": "2014-07-22T12:32:11.812Z",
+            "related-links": []
         }
     ]
 }
