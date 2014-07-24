@@ -813,6 +813,17 @@
                     "url": "https://github.com/substack/labeled-stream-splicer"
                 }
             ]
+        },
+        {
+            "title": "Solving spyOn problems in Jasmine - Two Fucking Developers",
+            "url": "http://twofuckingdevelopers.com/2014/07/solving-spyon-problems-in-jasmine/",
+            "content": "jasmineでlocalstroage#setに対してspyOnするときにFirefoxが例外を投げる問題について。\nlocalstroage自体をmockで置き換える",
+            "tags": [
+                "jasmine",
+                "testing"
+            ],
+            "date": "2014-07-24T08:19:09.481Z",
+            "related-links": []
         }
     ]
 }
