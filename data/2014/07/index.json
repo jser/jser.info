@@ -871,6 +871,23 @@
             ],
             "date": "2014-07-25T00:32:26.772Z",
             "related-links": []
+        },
+        {
+            "title": "Valve/fingerprintjs",
+            "url": "https://github.com/Valve/fingerprintjs",
+            "content": "ブラウザのnavition.*や入ってるプラグインなどから特定のハッシュ値を生成するライブラリ。\nEFFが発表してた94%は特定出来るというのが元ネタ\n",
+            "tags": [
+                "browser",
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-07-26T03:25:39.519Z",
+            "related-links": [
+                {
+                    "title": "browser-uniqueness.pdf",
+                    "url": "https://panopticlick.eff.org/browser-uniqueness.pdf"
+                }
+            ]
         }
     ]
 }
