@@ -11,7 +11,7 @@ JSer.info [Issues](https://github.com/jser/jser.info/issues "Issues · jser/jser
 
 ## Viewer
 
-[JSer.infoのアーカイブ](http://azu.github.io/jser.info/ "JSer.infoのアーカイブ") でアーカイブのデータを見られます。
+[JSer.infoのアーカイブ](http://jser.github.io/jser.info/ "JSer.infoのアーカイブ") でアーカイブのデータを見られます。
 
 ``Edit index.json on Github`` から該当するindex.jsonを修正出来ます。
 
