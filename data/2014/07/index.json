@@ -913,6 +913,23 @@
             ],
             "date": "2014-07-26T23:26:18.210Z",
             "related-links": []
+        },
+        {
+            "title": "RReverser/estemplate",
+            "url": "https://github.com/RReverser/estemplate",
+            "content": "JavaScript ASTベースのテンプレートエンジン。\nSourceMapに対応したコードを生成できる",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "library"
+            ],
+            "date": "2014-07-26T23:37:01.627Z",
+            "related-links": [
+                {
+                    "title": "Proper (AST-based) JavaScript code templating with source maps support.",
+                    "url": "http://rreverser.com/gh-estemplate/"
+                }
+            ]
         }
     ]
 }
