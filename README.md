@@ -1,13 +1,13 @@
-[JSer.info][] [![Build Status](https://travis-ci.org/azu/jser.info.png)](https://travis-ci.org/azu/jser.info) [![Gitter chat](https://badges.gitter.im/azu/jser.info.png)](https://gitter.im/azu/jser.info)
+[JSer.info][] [![Build Status](https://travis-ci.org/jser/jser.info.png)](https://travis-ci.org/jser/jser.info) [![Gitter chat](https://badges.gitter.im/jser/jser.info.png)](https://gitter.im/jser/jser.info)
 =========
 
-JSer.info [Issues](https://github.com/azu/jser.info/issues "Issues · azu/jser.info") repogitory.
+JSer.info [Issues](https://github.com/jser/jser.info/issues "Issues · jser/jser.info") repogitory.
 
-[JSer.info][] に関して意見や要望や知らせたい事などあったら [Create a new issue.](https://github.com/azu/jser.info/issues "Create a new issue.") から。
+[JSer.info][] に関して意見や要望や知らせたい事などあったら [Create a new issue.](https://github.com/jser/jser.info/issues "Create a new issue.") から。
 
-[Gitter](https://gitter.im/ "Gitter")に[チャットルーム](https://gitter.im/azu/jser.info "azu/jser.info - Gitter")もあるのでそちらからでも問題無いです。
+[Gitter](https://gitter.im/ "Gitter")に[チャットルーム](https://gitter.im/jser/jser.info "jser/jser.info - Gitter")もあるのでそちらからでも問題無いです。
 
-* [azu/jser.info - Gitter](https://gitter.im/azu/jser.info "azu/jser.info - Gitter")
+* [jser/jser.info - Gitter](https://gitter.im/jser/jser.info "jser/jser.info - Gitter")
 
 ## Viewer
 
