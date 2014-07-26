@@ -888,6 +888,19 @@
                     "url": "https://panopticlick.eff.org/browser-uniqueness.pdf"
                 }
             ]
+        },
+        {
+            "title": "zzarcon/html-observer",
+            "url": "https://github.com/zzarcon/html-observer",
+            "content": "Object.observeを使ったデータバインディングライブラリ",
+            "tags": [
+                "HTML",
+                "JavaScript",
+                "DOM",
+                "library"
+            ],
+            "date": "2014-07-26T04:13:59.843Z",
+            "related-links": []
         }
     ]
 }
