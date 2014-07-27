@@ -930,6 +930,18 @@
                     "url": "http://rreverser.com/gh-estemplate/"
                 }
             ]
+        },
+        {
+            "title": "blittle/bower-installer",
+            "url": "https://github.com/blittle/bower-installer",
+            "content": "bower.jsonにモジュールのコピー場所を追加する事で、インストールしたモジュールをコピー出来るコマンドラインツール。",
+            "tags": [
+                "web",
+                "console",
+                "tools"
+            ],
+            "date": "2014-07-27T00:50:15.452Z",
+            "related-links": []
         }
     ]
 }
