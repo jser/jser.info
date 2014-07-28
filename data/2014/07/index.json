@@ -942,6 +942,25 @@
             ],
             "date": "2014-07-27T00:50:15.452Z",
             "related-links": []
+        },
+        {
+            "title": "Shipping Blink-in-JS - Google グループ",
+            "url": "https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/0cpgMaFnZIk",
+            "content": "JavaScriptでのDOM実装であるBlink-in-JSがshipへ。\nC++ではない理由としてセキュリティとメンテナンスビリティが主。",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "blink",
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "date": "2014-07-28T01:51:41.143Z",
+            "related-links": [
+                {
+                    "title": "Blink-in-JavaScript - The Chromium Projects",
+                    "url": "https://sites.google.com/a/chromium.org/dev/blink/blink-in-js"
+                }
+            ]
         }
     ]
 }
