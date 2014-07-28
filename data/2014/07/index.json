@@ -961,6 +961,21 @@
                     "url": "https://sites.google.com/a/chromium.org/dev/blink/blink-in-js"
                 }
             ]
+        },
+        {
+            "title": "そろそろ押さえておきたい AngularJSのセキュリティ",
+            "url": "http://www.slideshare.net/muneakinishimura/angularjs-37342658",
+            "content": "AngularJSのデータバインディングとDOM Based XSSについてのスライド。\nホワイトリストによるフィルタリング、自作のディレクティブでの扱い、SCE、ng-cspについて。",
+            "tags": [
+                "JavaScript",
+                "AngularJS",
+                "XSS",
+                "DOM",
+                "セキュリティ",
+                "スライド"
+            ],
+            "date": "2014-07-28T08:24:42.070Z",
+            "related-links": []
         }
     ]
 }
