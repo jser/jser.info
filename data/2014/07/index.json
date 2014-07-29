@@ -1052,6 +1052,23 @@
                     "url": "http://angularjsninja.com/blog/2014/07/29/angularjs-styleguide-in-Japanese/"
                 }
             ]
+        },
+        {
+            "title": "CSS Triggers...",
+            "url": "http://csstriggers.com/",
+            "content": "CSSプロパティ別にreflowやrepaintの発生、Compositeが可能かどうかが一覧出来る。\nChrome DevToolsで調べた結果を元にしてる。",
+            "tags": [
+                "CSS",
+                "検索",
+                "まとめ"
+            ],
+            "date": "2014-07-29T04:27:22.380Z",
+            "related-links": [
+                {
+                    "title": "Aerotwist - CSS Triggers",
+                    "url": "http://aerotwist.com/blog/css-triggers/"
+                }
+            ]
         }
     ]
 }
