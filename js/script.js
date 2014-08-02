@@ -57,8 +57,7 @@ $(function () {
         var result = template({
             Groups: filteredJSON
         });
-        var imgTag = '[tags]: /public/img/icon-tags.png "tag-image"';
-        $("#js-dialog-textarea").text(result.trim() + "\n\n" + imgTag + "\n");
+        $("#js-dialog-textarea").text(result.trim());
         $("#jq-dialog").dialog({
             title: "Markdown",
             width: 700,
