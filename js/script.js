@@ -21,7 +21,12 @@ $(function () {
     Handlebars.registerHelper('auto_format_md', function (text) {
         // autolinkTwitter 内でHTMLエスケープされているためHandlebarではしない
         var linkedText = window.autolinkTwitter(text);
-        return linkedText.replace(/\n/g, "\n\n");
+        return linkedText.replace(/\n/g, "\n\n").trim();
+    });
+    Handlebars.registerHelper('format_tags', function (tags) {
+        return new Handlebars.SafeString(
+            tags.join(", ")
+        );
     });
     Handlebars.registerHelper('ttp', function (text) {
         return text.replace(/https?:\/\//i, "");
@@ -38,7 +43,7 @@ $(function () {
             screenfull.request(document.querySelector("#content"));
         }
     });
-    $("#jq-dialog").on("dialogfocus", function (evt,ui) {
+    $("#jq-dialog").on("dialogfocus", function (evt, ui) {
         $("#js-dialog-textarea").select();
     });
     $('#copy-markdown').button().on("click", function () {
@@ -48,7 +53,8 @@ $(function () {
         var result = template({
             Groups: filteredJSON
         });
-        $("#js-dialog-textarea").text(result.trim());
+        var imgTag = '[tags]: /public/img/icon-tags.png "tag-image"';
+        $("#js-dialog-textarea").text(result.trim() + "\n\n" + imgTag + "\n");
         $("#jq-dialog").dialog({
             title: "Markdown",
             width: 700,
@@ -81,8 +87,8 @@ $(function () {
             vm.reloadInput(list);
             $("#content").data("file-dir-path", fileDirPath);
         }).fail(function (err) {
-                $.WsGrowl.show({content: 'その月のアーカイブはないです'});
-            });
+            $.WsGrowl.show({content: 'その月のアーカイブはないです'});
+        });
     };
     $("#date-picker").calendarPicker({
         monthNames: ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月'],
