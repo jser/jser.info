@@ -24,9 +24,9 @@ $(function () {
         return linkedText.replace(/\n/g, "\n\n").trim();
     });
     Handlebars.registerHelper('format_tags', function (tags) {
-        return new Handlebars.SafeString(
-            tags.join(", ")
-        );
+        return tags.map(function (tag) {
+            return '<span class="jser-tag">' + tag + '</span>';
+        }).join(" ");
     });
     Handlebars.registerHelper('escape_md', function (text) {
         var markdown_literal = /[\\`\*_\{\}\[\]\#\|!]/g;
