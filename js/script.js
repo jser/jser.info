@@ -28,6 +28,10 @@ $(function () {
             tags.join(", ")
         );
     });
+    Handlebars.registerHelper('escape_md', function (text) {
+        var markdown_literal = /[\\`\*_\{\}\[\]\#\|!]/g;
+        return text.replace(markdown_literal, "\\$&");
+    });
     Handlebars.registerHelper('ttp', function (text) {
         return text.replace(/https?:\/\//i, "");
     });

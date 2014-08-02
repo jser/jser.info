@@ -118,13 +118,13 @@
 {{#articles}}----
 
 ## {{title}}
-[{{ttp url}}]({{url}} "{{title}}")
+[{{ttp url}}]({{url}} "{{escape_md title}}")
 {{#if tags}}
-![][tags] {{format_tags tags}}
+<p class="jser-tags">{{#each tags}}<span class="jser-tag">{{this}}</span>{{/each}}</p>
 {{/if}}
 {{{auto_format_md content}}}
 {{#relatedLinks}}
-- [{{title}}]({{url}} "{{title}}"){{#if @last}}
+- [{{escape_md title}}]({{url}} "{{escape_md title}}"){{#if @last}}
 {{/if}}{{/relatedLinks}}
 {{#if @last}}----{{/if}}{{/articles}}{{/Groups}}
 </script>
