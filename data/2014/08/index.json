@@ -94,6 +94,22 @@
             ],
             "date": "2014-08-03T15:06:38.183Z",
             "related-links": []
+        },
+        {
+            "title": "JavaScript and V8 TurboFan",
+            "url": "http://ariya.ofilabs.com/2014/08/javascript-and-v8-turbofan.html",
+            "content": "V8にlandedしたばかりの新しいOptimizing compilerであるTurboFanについての解説。\nCrankshaftの後任的なものでまだ開発が始まったばかり",
+            "tags": [
+                "JavaScript",
+                "V8"
+            ],
+            "date": "2014-08-04T05:16:35.369Z",
+            "related-links": [
+                {
+                    "title": "[v8] r22709 committed - Land the Fan (disabled)... - Google グループ",
+                    "url": "https://groups.google.com/forum/#!msg/v8-dev/ab8V5Z58_70/5-05DvysCt8J"
+                }
+            ]
         }
     ]
 }
