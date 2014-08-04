@@ -122,6 +122,23 @@
             ],
             "date": "2014-08-04T05:26:38.290Z",
             "related-links": []
+        },
+        {
+            "title": "DOM Event Delegation without jQuery | Matt Andrews",
+            "url": "https://mattandre.ws/2014/08/small-beautiful-dom-delegation/",
+            "content": "依存がないシンプルなDOM delegateライブラリ。\nelementを取って、そこに対してイベントを設定出来る",
+            "tags": [
+                "DOM",
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-08-04T05:56:10.405Z",
+            "related-links": [
+                {
+                    "title": "ftlabs/ftdomdelegate",
+                    "url": "https://github.com/ftlabs/ftdomdelegate"
+                }
+            ]
         }
     ]
 }
