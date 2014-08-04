@@ -110,6 +110,18 @@
                     "url": "https://groups.google.com/forum/#!msg/v8-dev/ab8V5Z58_70/5-05DvysCt8J"
                 }
             ]
+        },
+        {
+            "title": "facebook/immutable-js",
+            "url": "https://github.com/facebook/immutable-js",
+            "content": "immutableなVector、Map、Set等を提供してくれるライブラリ。\nそれぞれ同名のオブジェクトと同じメソッドを提供しくれるのと、遅延シーケンスに対応してる。\nES6で書かれてる",
+            "tags": [
+                "JavaScript",
+                "関数型プログラミング",
+                "library"
+            ],
+            "date": "2014-08-04T05:26:38.290Z",
+            "related-links": []
         }
     ]
 }
