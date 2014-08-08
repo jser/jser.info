@@ -167,6 +167,17 @@
                     "url": "https://twitter.com/rakuten_tech/status/496913434668064768"
                 }
             ]
+        },
+        {
+            "title": "Best Practices for Building Angular.js Apps with BrowerifyModern Web",
+            "url": "http://medium.com/@dickeyxxx/best-practices-for-building-angular-js-apps-266c1a4a6917",
+            "content": "Angular.JSにはmodule機能があるため、BrowserifyやRequire.JSのようなビルドを使わなくてもconcatするだけでも問題ないという話。\nconcatでもsourcemapは対応できて、何よりシンプル。",
+            "tags": [
+                "AngularJS",
+                "browserify"
+            ],
+            "date": "2014-08-08T06:52:59.206Z",
+            "related-links": []
         }
     ]
 }
