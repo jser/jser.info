@@ -292,6 +292,17 @@
             ],
             "date": "2014-08-11T08:17:38.807Z",
             "related-links": []
+        },
+        {
+            "title": "Using PDF.js web worker cross domain (CORS) | ColonelPanic",
+            "url": "http://colonelpanic.net/2014/08/using-pdf-js-web-worker-cross-domain-cors/",
+            "content": "WebWorker内でXHRをして取得したリソースを、`URL.createObjectURL`でblob URLにして、blob URLを受け取って使うという話",
+            "tags": [
+                "JavaScript",
+                "webworker"
+            ],
+            "date": "2014-08-11T09:08:42.229Z",
+            "related-links": []
         }
     ]
 }
