@@ -256,9 +256,26 @@
                     "title": "bterlson/test262-harness",
                     "url": "https://github.com/bterlson/test262-harness"
                 },
-                { "title" : "simd-128-tc39.pdf", "url" : "http://esdiscuss.org/notes/2014-07/simd-128-tc39.pdf"},
-                { "title" : "Exponentiation Operator: **", "url" : "https://gist.github.com/rwaldron/ebe0f4d2d267370be882"}
+                {
+                    "title": "simd-128-tc39.pdf",
+                    "url": "http://esdiscuss.org/notes/2014-07/simd-128-tc39.pdf"
+                },
+                {
+                    "title": "Exponentiation Operator: **",
+                    "url": "https://gist.github.com/rwaldron/ebe0f4d2d267370be882"
+                }
             ]
+        },
+        {
+            "title": "github/time-elements",
+            "url": "https://github.com/github/time-elements",
+            "content": "GitHubで使われている`<time>`のCustom Elementsライブラリ",
+            "tags": [
+                "github",
+                "WebComponents"
+            ],
+            "date": "2014-08-11T05:25:10.761Z",
+            "related-links": []
         }
     ]
 }
