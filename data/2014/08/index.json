@@ -303,6 +303,17 @@
             ],
             "date": "2014-08-11T09:08:42.229Z",
             "related-links": []
+        },
+        {
+            "title": "Speeding up AngularJS apps with simple optimizations - Tutorial - Binpress",
+            "url": "http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135",
+            "content": "AngularJSパフォーマンス改善Tips.\n`{{ ::title }}` 一度きりのバインディング、$scope.$apply() と $scope.$digest()の違い、ng-repeat、ディレクティブ内でのDOM操作について",
+            "tags": [
+                "AngularJS",
+                "performance"
+            ],
+            "date": "2014-08-11T09:11:38.766Z",
+            "related-links": []
         }
     ]
 }
