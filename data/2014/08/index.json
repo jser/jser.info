@@ -314,6 +314,24 @@
             ],
             "date": "2014-08-11T09:11:38.766Z",
             "related-links": []
+        },
+        {
+            "title": "trek/pretender",
+            "url": "https://github.com/trek/pretender",
+            "content": "HTTPモックライブラリ。\nXHRをFakeXHRにすり替えておき、リクエストに対するレスポンスの定義して、任意のリソースへのリクエストをテストするモックライブラリ。\n",
+            "tags": [
+                "JavaScript",
+                "library",
+                "HTTP",
+                "testing"
+            ],
+            "date": "2014-08-11T12:16:48.585Z",
+            "related-links": [
+                {
+                    "title": "trek/FakeXMLHttpRequest",
+                    "url": "https://github.com/trek/FakeXMLHttpRequest"
+                }
+            ]
         }
     ]
 }
