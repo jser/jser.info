@@ -240,7 +240,12 @@
                 "ReleaseNote"
             ],
             "date": "2014-08-10T14:39:47.215Z",
-            "related-links": [{ "title" : "Internet Explorer のサポートライフサイクルが変更されます | Hebikuzure's Tech Memo", "url" : "http://hebikuzure.wordpress.com/2014/08/08/lifecycle-change-on-internet-explorer/"}]
+            "related-links": [
+                {
+                    "title": "Internet Explorer のサポートライフサイクルが変更されます | Hebikuzure's Tech Memo",
+                    "url": "http://hebikuzure.wordpress.com/2014/08/08/lifecycle-change-on-internet-explorer/"
+                }
+            ]
         },
         {
             "title": "tc39-notes/es6/2014-07 at master · rwaldron/tc39-notes",
@@ -275,6 +280,17 @@
                 "WebComponents"
             ],
             "date": "2014-08-11T05:25:10.761Z",
+            "related-links": []
+        },
+        {
+            "title": "Wisembly/basil.js",
+            "url": "https://github.com/Wisembly/basil.js",
+            "content": "localstorage, cookie ,session storage , in memoryにおいて統一的なAPIで扱えるメソッドを提供してくれるライブラリ。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-08-11T08:17:38.807Z",
             "related-links": []
         }
     ]
