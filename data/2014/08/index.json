@@ -384,6 +384,18 @@
                     "url": "https://github.com/twada/escallmatch"
                 }
             ]
+        },
+        {
+            "title": "arian/partition-bundle",
+            "url": "https://github.com/arian/partition-bundle",
+            "content": "Browserify内にAMD的な動的ロードを持ち込むplugin。\n動的に読み込みたいjsファイルを定義した設定ファイルを作り、動的に読み込むようにrequireではなく`loadjs`関数を使って読み込む。",
+            "tags": [
+                "browserify",
+                "plugin",
+                "library"
+            ],
+            "date": "2014-08-14T00:43:49.830Z",
+            "related-links": []
         }
     ]
 }
