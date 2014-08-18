@@ -513,6 +513,26 @@
                     "url": "http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/"
                 }
             ]
+        },
+        {
+            "title": "Web Reflection: PointerEvents No More",
+            "url": "http://webreflection.blogspot.com/2014/08/pointerevents-no-more.html",
+            "content": "BlinkはPointerEventsを実装しないことにした。\n- touch eventsが既にある\n- hit-testモデルがパフォーマンス的に不利\n- 複雑すぎる\n",
+            "tags": [
+                "Chrome",
+                "event"
+            ],
+            "date": "2014-08-18T06:03:06.596Z",
+            "related-links": [
+                {
+                    "title": "Issue 162757 - chromium - Implement pointer events in Chrome behind experimental flag - An open-source project to help move the web forward. - Google Project Hosting",
+                    "url": "https://code.google.com/p/chromium/issues/detail?id=162757#c64"
+                },
+                {
+                    "title": "PSA: PointerEvents and PointerGestures are being replaced by polymer-gestures, breaking changes for pointer* events - Google グループ",
+                    "url": "https://groups.google.com/forum/#!topic/polymer-dev/ba4aDyOozm8"
+                }
+            ]
         }
     ]
 }
