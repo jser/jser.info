@@ -496,6 +496,23 @@
             ],
             "date": "2014-08-18T03:10:16.816Z",
             "related-links": []
+        },
+        {
+            "title": "長期かつ修正頻度の高いPJでのCSSメンテ - ワザノバ | wazanova",
+            "url": "http://wazanova.jp/items/1484",
+            "content": "大規模プロジェクトでのCSSのメンテナンスビリティについて。\nDRYより修正する時に迷わず消せるような疎結合なコンポーネントであるとよい、プロジェクにおける命名ルールを持つことはいいこと、ファイルの管理、ライブラリmixinについて等",
+            "tags": [
+                "CSS",
+                "設計",
+                "翻訳"
+            ],
+            "date": "2014-08-18T05:44:12.216Z",
+            "related-links": [
+                {
+                    "title": "Enduring CSS: writing style sheets for rapidly changing, long-lived projects - Author and responsive web developer Ben Frain",
+                    "url": "http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/"
+                }
+            ]
         }
     ]
 }
