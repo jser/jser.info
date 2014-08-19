@@ -591,6 +591,22 @@
                     "url": "https://github.com/sass/sass/issues/747"
                 }
             ]
+        },
+        {
+            "title": "mizchi/bower-build",
+            "url": "https://github.com/mizchi/bower-build",
+            "content": "bowerの`main`で指定されているファイルをconcatしたものを生成するツール",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2014-08-19T11:54:52.828Z",
+            "related-links": [
+                {
+                    "title": "bower-buildでbowerで入れたファイルを一つにconcatする - Qiita",
+                    "url": "http://qiita.com/mizchi/items/67fcaf92ef3e8e5ac393"
+                }
+            ]
         }
     ]
 }
