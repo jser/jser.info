@@ -658,6 +658,22 @@
                     "url": "http://qiita.com/laco0416/items/6a45b08da45385dda746"
                 }
             ]
+        },
+        {
+            "title": "ストリーム表現とその変換 - ✘╹◡╹✘",
+            "url": "http://r7kamura.hatenablog.com/entry/2014/08/21/113654",
+            "content": "リアクティブプログラミングにおけるストリームの実装ライブラリと、ストリームについての解説。\nストリームの作成、ストリームを変換するmap、filter、scanについて",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-08-21T13:41:05.428Z",
+            "related-links": [
+                {
+                    "title": "ストリームとは、時間順に並んだ進行中のイベントの列",
+                    "url": "http://ninjinkun.hatenablog.com/entry/introrxja"
+                }
+            ]
         }
     ]
 }
