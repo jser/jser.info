@@ -708,6 +708,24 @@
             ],
             "date": "2014-08-21T14:08:45.632Z",
             "related-links": []
+        },
+        {
+            "title": "Duo",
+            "url": "http://duojs.org/",
+            "content": "Componentライクなパッケージ管理ツール。component.jsonでまとめられたコンポーネントからビルドしたjsやcssを生成出来る。またGo言語のようにrequireに直接GitHubのレポジトリを指定して使うことも出来る",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "GoLang",
+                "browserify"
+            ],
+            "date": "2014-08-22T15:00:45.796Z",
+            "related-links": [
+                {
+                    "title": "the future of component? · Issue #594 · component/component",
+                    "url": "https://github.com/component/component/issues/594"
+                }
+            ]
         }
     ]
 }
