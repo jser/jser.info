@@ -750,6 +750,19 @@
             ],
             "date": "2014-08-23T03:09:31.796Z",
             "related-links": []
+        },
+        {
+            "title": "normalize.io - an ES6 module, Web Component, and SPDY/HTTP2 Push frontend development worfklow",
+            "url": "https://normalize.github.io/",
+            "content": "ES6 moudle/HTML Import/CSS importで書いてimportしたものをビルド出来るパッケージ管理ツール。\nnpm、URL、components等に対応してる(CJS形式)",
+            "tags": [
+                "node.js",
+                "CSS",
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2014-08-23T08:03:46.770Z",
+            "related-links": []
         }
     ]
 }
