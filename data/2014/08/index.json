@@ -725,7 +725,10 @@
                     "title": "the future of component? · Issue #594 · component/component",
                     "url": "https://github.com/component/component/issues/594"
                 },
-                { "title" : "duo? · Issue #27 · normalize/discussions", "url" : "https://github.com/normalize/discussions/issues/27"}
+                {
+                    "title": "duo? · Issue #27 · normalize/discussions",
+                    "url": "https://github.com/normalize/discussions/issues/27"
+                }
             ]
         },
         {
@@ -763,6 +766,16 @@
                 "Tools"
             ],
             "date": "2014-08-23T08:03:46.770Z",
+            "related-links": []
+        },
+        {
+            "title": "Sass 3.4 is Out!",
+            "url": "http://www.sitepoint.com/sass-3-4-is-out/",
+            "content": "Sass3.4の更新内容について。\nparent selector 、selector function、 `@error` ディレクティブなどについて",
+            "tags": [
+                "Sass"
+            ],
+            "date": "2014-08-23T08:51:14.474Z",
             "related-links": []
         }
     ]
