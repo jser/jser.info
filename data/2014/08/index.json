@@ -724,7 +724,8 @@
                 {
                     "title": "the future of component? · Issue #594 · component/component",
                     "url": "https://github.com/component/component/issues/594"
-                }
+                },
+                { "title" : "duo? · Issue #27 · normalize/discussions", "url" : "https://github.com/normalize/discussions/issues/27"}
             ]
         },
         {
@@ -754,7 +755,7 @@
         {
             "title": "normalize.io - an ES6 module, Web Component, and SPDY/HTTP2 Push frontend development worfklow",
             "url": "https://normalize.github.io/",
-            "content": "ES6 moudle/HTML Import/CSS importで書いてimportしたものをビルド出来るパッケージ管理ツール。\nnpm、URL、components等に対応してる(CJS形式)",
+            "content": "ES6 moudle/HTML Import/CSS importで書いてimportしたものをビルド出来るパッケージ管理ツール。\nnpm、URL、components等に対応してて、パッケージをURLで指定するという原則を持ってる",
             "tags": [
                 "node.js",
                 "CSS",
