@@ -805,6 +805,19 @@
                     "url": "http://hail2u.net/blog/webdesign/node-csswring-v1.1.0.html"
                 }
             ]
+        },
+        {
+            "title": "soliton4/nodeMirror",
+            "url": "https://github.com/soliton4/nodeMirror",
+            "content": "node.js + CodeMirrorなブラウザで動くIDE的なツール。\nローカルサーバを立ち上げて、ブラウザで使う。hexエディタ、ターミナル、HTMLの表示などが出来る",
+            "tags": [
+                "node.js",
+                "editor",
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-08-24T14:40:23.455Z",
+            "related-links": []
         }
     ]
 }
