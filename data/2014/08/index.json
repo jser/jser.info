@@ -870,6 +870,18 @@
                     "url": "http://www.laktek.com/2012/12/29/revisiting-javascript-objects/"
                 }
             ]
+        },
+        {
+            "title": "slap-editor/slap",
+            "url": "https://github.com/slap-editor/slap",
+            "content": "node.js製のターミナル上で動くテキストエディタ。\nSublimeText的なファイルリストやマウスやキーバインドの対応などデフォルトでもそのまま使えるような感じで面白い",
+            "tags": [
+                "node.js",
+                "console",
+                "editor"
+            ],
+            "date": "2014-08-25T12:58:21.126Z",
+            "related-links": []
         }
     ]
 }
