@@ -829,6 +829,22 @@
             ],
             "date": "2014-08-24T15:34:52.966Z",
             "related-links": []
+        },
+        {
+            "title": "WebRTC で動く Chord DHT の実装 webrtc-chord を公開しました - tsujio’s blog",
+            "url": "http://ntsujio.hatenablog.com/entry/2014/07/03/221023",
+            "content": "WebRTCを使った分散ハッシュテーブル (DHT: Distributed Hash Table) の実装",
+            "tags": [
+                "JavaScript",
+                "WebRTC"
+            ],
+            "date": "2014-08-25T09:12:55.201Z",
+            "related-links": [
+                {
+                    "title": "tsujio/webrtc-chord",
+                    "url": "https://github.com/tsujio/webrtc-chord"
+                }
+            ]
         }
     ]
 }
