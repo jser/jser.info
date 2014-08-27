@@ -933,6 +933,17 @@
             ],
             "date": "2014-08-26T09:32:32.765Z",
             "related-links": []
+        },
+        {
+            "title": "CoffeeScript",
+            "url": "http://coffeescript.org",
+            "content": "CoffeeScript 1.8.0リリース。\nsourcemapのファイル名が.js.mapに変更、CLIの改善、`require(\"coffee-script/repl\")`をrequire出来るように",
+            "tags": [
+                "CoffeeScript",
+                "ReleaseNote"
+            ],
+            "date": "2014-08-27T01:17:08.611Z",
+            "related-links": []
         }
     ]
 }
