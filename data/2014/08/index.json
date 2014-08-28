@@ -1045,6 +1045,19 @@
                     "url": "https://www.dartlang.org/docs/spec/deferred-loading.html"
                 }
             ]
+        },
+        {
+            "title": "Virtual DOMを持つMV*ライブラリのmercuryについて | Web Scratch",
+            "url": "http://efcl.info/2014/08/28/mercury/",
+            "content": "mercuryのModel(State)、View(Virtual DOM)、Controller(Event)について。\nモジュールを組み合わせた構造と関数型プログラミング的なアプローチがベースのライブラリ",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library",
+                "MVC"
+            ],
+            "date": "2014-08-28T07:09:54.383Z",
+            "related-links": []
         }
     ]
 }
