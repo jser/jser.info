@@ -1171,6 +1171,18 @@
                     "url": "https://news.ycombinator.com/item?id=8243523"
                 }
             ]
+        },
+        {
+            "title": "mathiasbynens/regexpu",
+            "url": "https://github.com/mathiasbynens/regexpu",
+            "content": "ES6の正規表現の`u`フラグをES5でも使えるように変換するtranspiler",
+            "tags": [
+                "JavaScript",
+                "正規表現",
+                "Tools"
+            ],
+            "date": "2014-08-30T14:30:44.654Z",
+            "related-links": []
         }
     ]
 }
