@@ -1183,6 +1183,18 @@
             ],
             "date": "2014-08-30T14:30:44.654Z",
             "related-links": []
+        },
+        {
+            "title": "Unicode-aware regular expressions in ES6 · Mathias Bynens",
+            "url": "https://mathiasbynens.be/notes/es6-unicode-regex",
+            "content": "ES6で導入された正規表現の`u`フラグについての解説とES5でも使えるようにするTransppilerについて。\n正規表現でユニコード文字を正しく扱うためのフラグ",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "正規表現"
+            ],
+            "date": "2014-08-30T14:33:18.617Z",
+            "related-links": []
         }
     ]
 }
