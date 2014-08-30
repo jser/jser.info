@@ -1135,6 +1135,26 @@
             ],
             "date": "2014-08-30T08:53:24.121Z",
             "related-links": []
+        },
+        {
+            "title": "Chromium Blog: Chrome 38 Beta: New primitives for the next-generation web",
+            "url": "http://blog.chromium.org/2014/08/chrome-38-beta-new-primitives-for-next.html",
+            "content": "Chrome 38βリリース。\npicture要素、Map/Set、for...of、Symbol、Math周りの追加。\nNetInfo API、 Screen Orientation AP、Encoding APIでバイナリのstreamをデコード出来るように",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "date": "2014-08-30T13:00:03.861Z",
+            "related-links": [
+                {
+                    "title": "Collecting and Iterating, the ES6 Way - HTML5Rocks Updates",
+                    "url": "http://updates.html5rocks.com/2014/08/Collecting-and-Iterating-the-ES6-Way"
+                },
+                {
+                    "title": "Easier ArrayBuffer <-> String conversion with the Encoding API - HTML5Rocks Updates",
+                    "url": "http://updates.html5rocks.com/2014/08/Easier-ArrayBuffer---String-conversion-with-the-Encoding-API"
+                }
+            ]
         }
     ]
 }
