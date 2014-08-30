@@ -1093,6 +1093,24 @@
             ],
             "date": "2014-08-29T14:49:28.450Z",
             "related-links": []
+        },
+        {
+            "title": "aster",
+            "url": "http://rreverser.com/aster-ast-based-code-builder/",
+            "content": "JavaScript ASTを処理するビルドツール。\nGruntやGulp等はtaskごとにパースと生成を繰り返すため非効率な部分がある。\nasterはASTに対して変換の処理をパイプラインで行うため無駄な処理が減る。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "AST",
+                "library"
+            ],
+            "date": "2014-08-30T08:31:08.768Z",
+            "related-links": [
+                {
+                    "title": "asterjs/aster",
+                    "url": "https://github.com/asterjs/aster"
+                }
+            ]
         }
     ]
 }
