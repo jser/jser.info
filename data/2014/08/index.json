@@ -1195,6 +1195,25 @@
             ],
             "date": "2014-08-30T14:33:18.617Z",
             "related-links": []
+        },
+        {
+            "title": "JavaScript Memory Management Masterclass // Speaker Deck",
+            "url": "https://speakerdeck.com/addyosmani/javascript-memory-management-masterclass",
+            "content": "JavaScriptでのメモリリークとそもそも何故起きるのかについてのスライド。 \nDOM leakやV8のメモリ管理の方法、世代別GC、DevToolsを使っての見つけ方、Performance Toolsの使い方についてなどかなり詳しく紹介されている。",
+            "tags": [
+                "V8",
+                "JavaScript",
+                "browser",
+                "debug",
+                "スライド"
+            ],
+            "date": "2014-08-31T12:05:01.809Z",
+            "related-links": [
+                {
+                    "title": "JavaScript Memory Management Masterclass のメモ | wIssue Note",
+                    "url": "http://efcl.wordpress.com/2014/08/31/javascript-memory-management-masterclass-%e3%81%ae%e3%83%a1%e3%83%a2/"
+                }
+            ]
         }
     ]
 }
