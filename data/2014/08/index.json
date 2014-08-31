@@ -1214,6 +1214,27 @@
                     "url": "http://efcl.wordpress.com/2014/08/31/javascript-memory-management-masterclass-%e3%81%ae%e3%83%a1%e3%83%a2/"
                 }
             ]
+        },
+        {
+            "title": "A Gentle Browserify Walkthrough - Pony Foo",
+            "url": "http://blog.ponyfoo.com/2014/08/25/a-gentle-browserify-walkthrough",
+            "content": "Browserifyについての丁寧なチュートリアル。\nCommonJSとは何か、browserifyの基本的な使い方、利点としてnpmのモジュールが使える点やCJS以外のモジュールをbrowserify-shimで扱う事について等",
+            "tags": [
+                "JavaScript",
+                "browserify",
+                "tutorial"
+            ],
+            "date": "2014-08-31T12:32:45.692Z",
+            "related-links": [
+                {
+                    "title": "Browserify All The Things // Speaker Deck",
+                    "url": "https://speakerdeck.com/bevacqua/browserify-all-the-things"
+                },
+                {
+                    "title": "substack/browserify-handbook",
+                    "url": "https://github.com/substack/browserify-handbook"
+                }
+            ]
         }
     ]
 }
