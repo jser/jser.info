@@ -1235,6 +1235,19 @@
                     "url": "https://github.com/substack/browserify-handbook"
                 }
             ]
+        },
+        {
+            "title": "Chartist - Simple responsive charts",
+            "url": "http://gionkunz.github.io/chartist-js/",
+            "content": "SVGベースのレスポンシブなグラフライブラリ。\nmedia queriesを使って指定",
+            "tags": [
+                "JavaScript",
+                "SVG",
+                "グラフ",
+                "library"
+            ],
+            "date": "2014-08-31T13:44:07.845Z",
+            "related-links": []
         }
     ]
 }
