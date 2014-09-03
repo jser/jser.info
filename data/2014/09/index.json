@@ -45,6 +45,27 @@
             ],
             "date": "2014-09-03T14:38:52.586Z",
             "related-links": []
+        },
+        {
+            "title": "Firefox — Notes (32.0) — Mozilla",
+            "url": "http://www.mozilla.org/en-US/firefox/32.0/releasenotes/",
+            "content": "Firefox 32リリース。\nposition:stickyがデフォルト有効に、imgのsrcset属性を試験サポート、`Array.from()`、Public Key Pinningの対応",
+            "tags": [
+                "firefox",
+                "ReleaseNote",
+                "セキュリティ"
+            ],
+            "date": "2014-09-03T14:54:18.553Z",
+            "related-links": [
+                {
+                    "title": "Public Key Pinning",
+                    "url": "http://hyper-text.org/archives/2014/09/firefox_32_release.shtml"
+                },
+                {
+                    "title": "、position:sticky",
+                    "url": "https://developer.mozilla.org/ja/docs/Mozilla/Firefox/Releases/32"
+                }
+            ]
         }
     ]
 }
