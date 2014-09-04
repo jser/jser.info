@@ -57,9 +57,28 @@
             ],
             "date": "2014-09-03T14:54:18.553Z",
             "related-links": [
-                { "title" : "Firefox 32 が正式リリース、position: sticky; や srcset 属性への対応、開発ツールの機能追加など | WWW WATCH", "url" : "http://hyper-text.org/archives/2014/09/firefox_32_release.shtml"},
-                { "title" : "Firefox 32 for developers - Mozilla | MDN", "url" : "https://developer.mozilla.org/ja/docs/Mozilla/Firefox/Releases/32"}
+                {
+                    "title": "Firefox 32 が正式リリース、position: sticky; や srcset 属性への対応、開発ツールの機能追加など | WWW WATCH",
+                    "url": "http://hyper-text.org/archives/2014/09/firefox_32_release.shtml"
+                },
+                {
+                    "title": "Firefox 32 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/ja/docs/Mozilla/Firefox/Releases/32"
+                }
             ]
+        },
+        {
+            "title": "O'Reilly Japan - 実践 Selenium WebDriver",
+            "url": "http://www.oreilly.co.jp/books/9784873116952/",
+            "content": "2014年09月18日 発売\nSeleniumについての書籍。\nブラウザやiOS/Androidのテストについて扱う",
+            "tags": [
+                "Selenium",
+                "book",
+                "ios",
+                "Android"
+            ],
+            "date": "2014-09-04T06:43:56.752Z",
+            "related-links": []
         }
     ]
 }
