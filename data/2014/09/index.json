@@ -91,6 +91,19 @@
             ],
             "date": "2014-09-05T00:35:49.513Z",
             "related-links": []
+        },
+        {
+            "title": "多段SourceMapの対応方法とライブラリ | Web Scratch",
+            "url": "http://efcl.info/2014/09/03/multi-stage-sourcemap/",
+            "content": "多段SourceMapといわれてるものについての問題と、それをマッピングし直すことでその問題を解決するモジュールについて",
+            "tags": [
+                "sourcemap",
+                "JavaScript",
+                "library",
+                "node.js"
+            ],
+            "date": "2014-09-05T10:56:13.543Z",
+            "related-links": []
         }
     ]
 }
