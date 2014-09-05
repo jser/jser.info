@@ -79,6 +79,18 @@
             ],
             "date": "2014-09-04T06:43:56.752Z",
             "related-links": []
+        },
+        {
+            "title": "Socket.IO — Socket.IO 1.1.0",
+            "url": "http://socket.io/blog/socket-io-1-1-0/",
+            "content": "Socket.IO 1.1.0リリース。\nnamespaceの指定が`/`から始まるかどうかはどちらでも良くなった。バグ修正等",
+            "tags": [
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-09-05T00:35:49.513Z",
+            "related-links": []
         }
     ]
 }
