@@ -184,6 +184,23 @@
                     "url": "http://eslint.org/docs/developer-guide/working-with-plugins.html"
                 }
             ]
+        },
+        {
+            "title": "RReverser/acorn-csp",
+            "url": "https://github.com/RReverser/acorn-csp",
+            "content": "acornのCSP対応版を生成するツール。\n`new Function`を使っているのを、\nAST変換を使ったインライン展開的な事をして対応してる",
+            "tags": [
+                "JavaScript",
+                "library",
+                "AST"
+            ],
+            "date": "2014-09-07T07:40:21.910Z",
+            "related-links": [
+                {
+                    "title": "Acorn-cspのできた流れ - efcl’s blog",
+                    "url": "http://efcl.hatenablog.com/entry/2014/09/07/022914"
+                }
+            ]
         }
     ]
 }
