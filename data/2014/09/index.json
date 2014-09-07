@@ -229,7 +229,33 @@
                 "library"
             ],
             "date": "2014-09-07T08:13:40.428Z",
-            "related-links": [{ "title" : "YUI との別れを惜しむ | 株式会社ゼノフィ", "url" : "https://www.xenophy.com/sencha-blog/11463"},{ "title" : "Enterprise Web Development: From Desktop to Mobile", "url" : "http://enterprisewebbook.com/"}]
+            "related-links": [
+                {
+                    "title": "YUI との別れを惜しむ | 株式会社ゼノフィ",
+                    "url": "https://www.xenophy.com/sencha-blog/11463"
+                },
+                {
+                    "title": "Enterprise Web Development: From Desktop to Mobile",
+                    "url": "http://enterprisewebbook.com/"
+                }
+            ]
+        },
+        {
+            "title": "Supersonic JavaScript // Speaker Deck",
+            "url": "https://speakerdeck.com/ariya/supersonic-javascript",
+            "content": "JavaScriptエンジンの最適化についてのスライド。\nコンストラクタ関数の最適化(Shape、Hidden class)を妨げない書き方、短絡評価、段階的なアプローチ、GCに就いてなど",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "スライド"
+            ],
+            "date": "2014-09-07T08:36:08.408Z",
+            "related-links": [
+                {
+                    "title": "JavaScript Memory Management Masterclass // Speaker Deck",
+                    "url": "https://speakerdeck.com/addyosmani/javascript-memory-management-masterclass"
+                }
+            ]
         }
     ]
 }
