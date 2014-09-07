@@ -167,6 +167,23 @@
                     "url": "http://efcl.info/2014/09/03/multi-stage-sourcemap/"
                 }
             ]
+        },
+        {
+            "title": "ESLint 0.8.0 released - ESLint",
+            "url": "http://eslint.org/blog/2014/09/eslint-0.8.0-released/",
+            "content": "ESLint 0.8.0リリース。\nプラグインの仕組みがstableになって、作り方、テスト方法、命名ルール等が公開された。\nignorefileの`/**`の変更、パフォーマンスの改善等",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2014-09-07T07:27:53.426Z",
+            "related-links": [
+                {
+                    "title": "Working with Plugins",
+                    "url": "http://eslint.org/docs/developer-guide/working-with-plugins.html"
+                }
+            ]
         }
     ]
 }
