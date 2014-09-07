@@ -149,6 +149,24 @@
             ],
             "date": "2014-09-07T07:19:30.196Z",
             "related-links": []
+        },
+        {
+            "title": "Release v0.9.0: Release 0.9.0 (2014-09-02) multi-stage sourcemaps · twada/power-assert",
+            "url": "https://github.com/twada/power-assert/releases/tag/v0.9.0",
+            "content": "power-assert 0.9.0リリース。\nAltJS等を使っている時に、元ファイルの正しいエラー行数を表示するために多段SourceMapに対応",
+            "tags": [
+                "JavaScript",
+                "library",
+                "testing",
+                "ReleaseNote"
+            ],
+            "date": "2014-09-07T07:21:18.141Z",
+            "related-links": [
+                {
+                    "title": "多段SourceMapの対応方法とライブラリ | Web Scratch",
+                    "url": "http://efcl.info/2014/09/03/multi-stage-sourcemap/"
+                }
+            ]
         }
     ]
 }
