@@ -201,6 +201,23 @@
                     "url": "http://efcl.hatenablog.com/entry/2014/09/07/022914"
                 }
             ]
+        },
+        {
+            "title": "zendesk/cross-storage",
+            "url": "https://github.com/zendesk/cross-storage",
+            "content": "postMessageを使ったクロスドメインでデータを共有出来るlocalStorageラッパライブラリ。\nES6 Promisesを使ったPromiseベースのAPIになってる",
+            "tags": [
+                "JavaScript",
+                "Promises",
+                "library"
+            ],
+            "date": "2014-09-07T08:00:17.213Z",
+            "related-links": [
+                {
+                    "title": "DailyJS: Cross-Storage: Share Local Data Across Domains",
+                    "url": "http://dailyjs.com/2014/09/05/cross-storage/"
+                }
+            ]
         }
     ]
 }
