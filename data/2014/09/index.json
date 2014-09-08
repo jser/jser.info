@@ -330,6 +330,25 @@
             ],
             "date": "2014-09-08T10:48:16.973Z",
             "related-links": []
+        },
+        {
+            "title": "pioneer.js - javascript integration testing",
+            "url": "http://pioneerjs.com/",
+            "content": "Cucumber的なDSLと、そのDSLに対応した処理をJavaScriptで書けるStep、どこをテストするのかのDOMをラップしたWIdgetsの3層構造のテストフレームワーク。\nWebDriverを使ってブラウザ自動テストが出来る",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "Selenium",
+                "webdriver",
+                "library"
+            ],
+            "date": "2014-09-08T12:25:18.674Z",
+            "related-links": [
+                {
+                    "title": "Pioneerのお試しステップ - efcl’s blog",
+                    "url": "http://efcl.hatenablog.com/entry/2014/09/08/212101"
+                }
+            ]
         }
     ]
 }
