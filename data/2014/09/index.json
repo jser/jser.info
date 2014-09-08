@@ -349,6 +349,17 @@
                     "url": "http://efcl.hatenablog.com/entry/2014/09/08/212101"
                 }
             ]
+        },
+        {
+            "title": "ECMAScript 6 modules: the final syntax",
+            "url": "http://www.2ality.com/2014/09/es6-modules-final.html",
+            "content": "ES6 modulesの構文について。\n構文の仕様は固まり、CommonJSのような同期的な形とAMDのような非同期的な呼び出しどちらでも使える。\nES6 modulesの構文、使い方、default exportやSystem.importについて等まとまってる",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2014-09-08T12:29:39.517Z",
+            "related-links": []
         }
     ]
 }
