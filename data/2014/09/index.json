@@ -294,6 +294,18 @@
                     "url": "https://code.google.com/p/chromium/issues/detail?id=162757#c64"
                 }
             ]
+        },
+        {
+            "title": "TimBeyer/html-to-vdom",
+            "url": "https://github.com/TimBeyer/html-to-vdom",
+            "content": "HTML文字列をVirtual DOM(vTree)に変換するライブラリ。\n",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library"
+            ],
+            "date": "2014-09-08T00:45:35.568Z",
+            "related-links": []
         }
     ]
 }
