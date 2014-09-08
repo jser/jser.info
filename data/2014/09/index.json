@@ -306,6 +306,17 @@
             ],
             "date": "2014-09-08T00:45:35.568Z",
             "related-links": []
+        },
+        {
+            "title": "From AngularJS to React: the isomorphic way",
+            "url": "http://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/",
+            "content": "SEO的な視点からAngularJSからReactにした話。\nAngularではkoa-prerenderでプリレンダリングをしていた。\nReactを使うことでクライアントもサーバも同じコード(Isomorphic JavaScript)を使ってViewができるようになった",
+            "tags": [
+                "JavaScript",
+                "AngularJS"
+            ],
+            "date": "2014-09-08T10:42:55.860Z",
+            "related-links": []
         }
     ]
 }
