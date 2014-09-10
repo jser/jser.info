@@ -371,6 +371,19 @@
             ],
             "date": "2014-09-10T00:50:34.223Z",
             "related-links": []
+        },
+        {
+            "title": "thlorenz/v8-perf",
+            "url": "https://github.com/thlorenz/v8-perf",
+            "content": "V8のパフォーマンスに関するレポートや資料のまとめ。\nData type、コンパイラ、最適化、GC、メモリ、CPUプロファイリング。\nまたfast objectであるかどうかの確認方法やプロファイルの取り方などについて",
+            "tags": [
+                "Chrome",
+                "V8",
+                "performance",
+                "まとめ"
+            ],
+            "date": "2014-09-10T01:14:41.541Z",
+            "related-links": []
         }
     ]
 }
