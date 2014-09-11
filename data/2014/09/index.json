@@ -425,6 +425,22 @@
                     "url": "http://terkel.jp/archives/2014/09/srcset-sizes/"
                 }
             ]
+        },
+        {
+            "title": "Polyfill service",
+            "url": "https://cdn.polyfill.io/v1/",
+            "content": "polyfillライブラリを配信してくれるCDNサービス。\nクエリでfeaturesやuaを指定してそれに対するpolyfillをまとめくれたものを配信してくれる",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-09-11T07:25:20.053Z",
+            "related-links": [
+                {
+                    "title": "Polyfills as a service | FT Labs",
+                    "url": "http://labs.ft.com/2014/09/polyfills-as-a-service/"
+                }
+            ]
         }
     ]
 }
