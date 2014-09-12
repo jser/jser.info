@@ -465,6 +465,17 @@
             ],
             "date": "2014-09-11T12:55:12.132Z",
             "related-links": []
+        },
+        {
+            "title": "「for やめろ」またはイベントループと nextTick() - Block Rockin’ Codes",
+            "url": "http://jxck.hatenablog.com/entry/for-with-eventloop",
+            "content": "node.jsにおけるイベントループとブロッグについて。\nsetTimeout、process.nextTick、setImmediateの意味の違い。\nI/Oイベントとそれぞれの実行タイミングについて分かりやすく解説してる。",
+            "tags": [
+                "JavaScript",
+                "node.js"
+            ],
+            "date": "2014-09-12T13:53:03.710Z",
+            "related-links": []
         }
     ]
 }
