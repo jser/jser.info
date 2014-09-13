@@ -505,6 +505,20 @@
                     "url": "http://thenewstack.io/javascripts-history-and-how-it-led-to-reactjs/"
                 }
             ]
+        },
+        {
+            "title": "V8の最適化とIRHydraでの可視化とベンチマークについてのメモ | Web Scratch",
+            "url": "http://efcl.info/2014/09/13/v8-optimization-memo/",
+            "content": "V8のHidden Class等のJavaScriptの最適化やhot codeについて。\nIRHydra2を使った最適化されてない事の可視化や参考リソースについて。",
+            "tags": [
+                "JavaScript",
+                "V8",
+                "performance",
+                "Tools",
+                "まとめ"
+            ],
+            "date": "2014-09-13T15:36:30.779Z",
+            "related-links": []
         }
     ]
 }
