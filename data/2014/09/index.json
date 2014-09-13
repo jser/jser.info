@@ -488,6 +488,23 @@
             ],
             "date": "2014-09-13T04:52:19.103Z",
             "related-links": []
+        },
+        {
+            "title": "OSCON - React Architecture // Speaker Deck",
+            "url": "https://speakerdeck.com/vjeux/oscon-react-architecture",
+            "content": "Reactの歴史とReactのDOM Diffについてのスライド\nhttps://www.youtube.com/watch?v=eCf5CquV_Bw\nDOMのバージョン管理に擬えて、Virtual DOMのdiffの仕組みについて解説されてる",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "スライド"
+            ],
+            "date": "2014-09-13T07:10:36.439Z",
+            "related-links": [
+                {
+                    "title": "JavaScript’s History and How it Led To ReactJS | The New Stack",
+                    "url": "http://thenewstack.io/javascripts-history-and-how-it-led-to-reactjs/"
+                }
+            ]
         }
     ]
 }
