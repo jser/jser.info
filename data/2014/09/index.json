@@ -531,6 +531,19 @@
             ],
             "date": "2014-09-13T15:46:32.930Z",
             "related-links": []
+        },
+        {
+            "title": "V8 Installation and d8 shell usage",
+            "url": "https://gist.github.com/kevincennis/0cd2138c78a07412ef21",
+            "content": "d8コマンドをインストールして、最適化/非最適化、プロファイリング、GCのトレース、hidden class等のチェック方法などについてまとまってるチュートリアル",
+            "tags": [
+                "V8",
+                "console",
+                "Tools",
+                "tutorial"
+            ],
+            "date": "2014-09-13T16:32:53.330Z",
+            "related-links": []
         }
     ]
 }
