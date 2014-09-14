@@ -664,23 +664,6 @@
         {
             "title": "Intro to Broccoli",
             "url": "http://aexmachina.info/assets/talks/intro-to-broccoli/#1",
-            "content": "ビルドツールであるBroccoliについてのスライド。\nRailsで言えばBroccoliはasset pipelineで、GruntやGulpはrakeに当たるツールでビルドに焦点を置いている。",
-            "tags": [
-                "JavaScript",
-                "Tools",
-                "スライド"
-            ],
-            "date": "2014-09-14T10:10:54.968Z",
-            "related-links": [
-                {
-                    "title": "broccolijs/broccoli",
-                    "url": "https://github.com/broccolijs/broccoli"
-                }
-            ]
-        },
-        {
-            "title": "Intro to Broccoli",
-            "url": "http://aexmachina.info/assets/talks/intro-to-broccoli/#1",
             "content": "ビルドツールであるBroccoliについてのスライド。 Railsで言えばBroccoliはasset pipelineで、GruntやGulpはrakeに当たるツール。\nビルドに焦点をおいているという特徴がある",
             "tags": [
                 "JavaScript",
