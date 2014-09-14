@@ -631,6 +631,23 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Tools/Firefox_Tools_Adapter"
                 }
             ]
+        },
+        {
+            "title": "ブラウザ内で安全に文字列からDOMを組み立てるためのRickDOMというライブラリを書いた - 葉っぱ日記",
+            "url": "http://d.hatena.ne.jp/hasegawayosuke/20140912/p1",
+            "content": "DOMParserやcreateHTMLDocumentを使って文字列から安全にDOMを組み立てるライブラリ",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library"
+            ],
+            "date": "2014-09-14T09:26:27.799Z",
+            "related-links": [
+                {
+                    "title": "hasegawayosuke/rickdom",
+                    "url": "https://github.com/hasegawayosuke/rickdom"
+                }
+            ]
         }
     ]
 }
