@@ -613,6 +613,24 @@
             ],
             "date": "2014-09-14T09:10:04.256Z",
             "related-links": []
+        },
+        {
+            "title": "Firefox Add-on Enables Web Development Across Browsers and Devices ✩ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2014/09/firefox-tools-adapter/",
+            "content": "Firefoxの開発者ツールを使ってChromeやSafariで表示してるページをデバッグするアダプタのアドオン。\nremotedebug.org と似ているが、共有のプロトコルの提供ではなく、Firefoxのプロトコルをベースとしてる",
+            "tags": [
+                "firefox",
+                "debug",
+                "Chrome",
+                "addon"
+            ],
+            "date": "2014-09-14T09:22:27.342Z",
+            "related-links": [
+                {
+                    "title": "Firefox Tools Adapter - Firefox Developer Tools | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Tools/Firefox_Tools_Adapter"
+                }
+            ]
         }
     ]
 }
