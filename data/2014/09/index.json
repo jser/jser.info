@@ -588,6 +588,19 @@
             ],
             "date": "2014-09-14T07:55:00.093Z",
             "related-links": []
+        },
+        {
+            "title": "thlorenz/proxyquireify",
+            "url": "https://github.com/thlorenz/proxyquireify",
+            "content": "`require`をラップして読み込んだモジュールのメソッドのstubを行えるbrowserify plugin。\n変換によってDIが行われるので元モジュールに特殊な仕組みが必要ない",
+            "tags": [
+                "browserify",
+                "plugin",
+                "testing",
+                "library"
+            ],
+            "date": "2014-09-14T08:25:35.055Z",
+            "related-links": []
         }
     ]
 }
