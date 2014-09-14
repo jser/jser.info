@@ -557,6 +557,24 @@
             ],
             "date": "2014-09-14T06:32:42.455Z",
             "related-links": []
+        },
+        {
+            "title": "Asynchronous JavaScript & Promises",
+            "url": "http://www.innoarchitech.com/asynchronous-javascript-promises/",
+            "content": "JavaScriptの非同期処理、Promiseについての動画とスライド。\nPromiseとはどういうものかについて",
+            "tags": [
+                "JavaScript",
+                "Promises",
+                "スライド",
+                "動画"
+            ],
+            "date": "2014-09-14T07:48:31.251Z",
+            "related-links": [
+                {
+                    "title": "Asynchronous JavaScript & Promises by Alex Castrounis",
+                    "url": "http://slides.com/alexcastrounis/async-js-promises#/"
+                }
+            ]
         }
     ]
 }
