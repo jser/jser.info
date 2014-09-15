@@ -726,6 +726,22 @@
             ],
             "date": "2014-09-15T12:02:35.343Z",
             "related-links": []
+        },
+        {
+            "title": "Integrating D3.js visualizations in a React app - Nicolas Hery",
+            "url": "http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/",
+            "content": "D3.jsのデータ・ドリブンのデータ更新とReactのVirtual DOMを組み合わせた話",
+            "tags": [
+                "d3.js",
+                "DOM"
+            ],
+            "date": "2014-09-15T12:11:50.844Z",
+            "related-links": [
+                {
+                    "title": "D3.js の Data-Driven な DOM 操作がおもしろい - てっく煮ブログ",
+                    "url": "http://tech.nitoyon.com/ja/blog/2013/10/24/d3js/"
+                }
+            ]
         }
     ]
 }
