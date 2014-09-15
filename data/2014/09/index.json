@@ -702,6 +702,18 @@
             ],
             "date": "2014-09-15T08:23:45.656Z",
             "related-links": []
+        },
+        {
+            "title": "hello.js - Javascript API for OAuth2 authentication and REST services",
+            "url": "http://adodson.com/hello.js/",
+            "content": "OAuth 2対応のアプリの認証やAPIを叩く機能を持ったライブラリ。\nhttps://auth-server.herokuapp.com/ という認証のサーバを使っていて、クライアントサイトを書くだけでGitHubやFacebook等のAPIを利用できる",
+            "tags": [
+                "JavaScript",
+                "OAuth",
+                "library"
+            ],
+            "date": "2014-09-15T11:57:34.119Z",
+            "related-links": []
         }
     ]
 }
