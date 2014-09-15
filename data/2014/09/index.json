@@ -742,6 +742,24 @@
                     "url": "http://tech.nitoyon.com/ja/blog/2013/10/24/d3js/"
                 }
             ]
+        },
+        {
+            "title": "BSidesLA Managing Content Security Policy // Speaker Deck",
+            "url": "https://speakerdeck.com/oreoshake/bsidesla-managing-content-security-policy",
+            "content": "CSPについてのスライド。\nCSPとは何か、どうやって適応するか、どうやって管理するか。\nCSP Lv2のhashについてやCSPレポート解析と http://caspr.io/ ついて",
+            "tags": [
+                "セキュリティ",
+                "CSP",
+                "browser",
+                "スライド"
+            ],
+            "date": "2014-09-15T12:19:44.105Z",
+            "related-links": [
+                {
+                    "title": "Caspr",
+                    "url": "http://caspr.io/#/"
+                }
+            ]
         }
     ]
 }
