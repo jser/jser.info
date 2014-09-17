@@ -811,6 +811,19 @@
                     "url": "http://constellation.github.io/blog/2014/07/14/webkit-css-jit-internals/"
                 }
             ]
+        },
+        {
+            "title": "Node.jsエンジニアなら2014年内に知っておきたいPromise入門 | Tokyo Otaku Mode Tech Blog",
+            "url": "http://blog.otakumode.com/2014/09/17/nodejs-promise/",
+            "content": "JavaScript Promiseの基本的な使い方、async.jsを使っていた場合にそれをPromiseに書き換える実装方法について。\nPromiseについてよくまとまってるチュートリアル",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "Promises",
+                "tutorial"
+            ],
+            "date": "2014-09-17T06:25:09.580Z",
+            "related-links": []
         }
     ]
 }
