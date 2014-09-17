@@ -824,6 +824,17 @@
             ],
             "date": "2014-09-17T06:25:09.580Z",
             "related-links": []
+        },
+        {
+            "title": "Componentization for Reality",
+            "url": "http://ja.slideshare.net/ygoto3q/componentization-for-reality",
+            "content": "コンポーネントベースで考えるウェブ開発についてスライド。\nディレクトリ単位だとバラけてしまうのでコンポーネント単位でまとめる。\nジェネレータ、webpack、insertCSS、Angular",
+            "tags": [
+                "JavaScript",
+                "スライド"
+            ],
+            "date": "2014-09-17T14:08:10.953Z",
+            "related-links": []
         }
     ]
 }
