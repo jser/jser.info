@@ -50,7 +50,7 @@
                         "id": "http://jsonschema.net/list/0/url",
                         "required": true
                     },
-                    "related-links": {
+                    "relatedLinks": {
                         "type": "array",
                         "items": {
                             "type": "object",

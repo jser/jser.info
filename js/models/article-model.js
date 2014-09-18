@@ -20,14 +20,14 @@
                         "testing"
                     ],
                     "date": "2014-01-01T03:14:27.201Z",
-                    "related-links": []
+                    "relatedLinks": []
                  */
         this.title = object.title;
         this.url = object.url;
         this.content = object.content;
         this.tags = object.tags;
         this.date = object.date;
-        this.relatedLinks = object["related-links"];
+        this.relatedLinks = object["relatedLinks"];
     };
 
     var inputGroups = [
