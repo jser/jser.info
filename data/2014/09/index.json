@@ -890,6 +890,19 @@
             ],
             "date": "2014-09-19T00:40:22.083Z",
             "relatedLinks": []
+        },
+        {
+            "title": "wingify/dom-comparator",
+            "url": "https://github.com/wingify/dom-comparator",
+            "content": "2つのDOM文字列を比較した結果を取得するライブラリ。\nCSSやNodeにどういう操作が行われたかの情報が取れる",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "testing",
+                "library"
+            ],
+            "date": "2014-09-20T15:11:48.371Z",
+            "relatedLinks": []
         }
     ]
 }
