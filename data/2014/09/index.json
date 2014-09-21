@@ -969,6 +969,22 @@
                     "url": "http://www.joyent.com/developers/node/design/errors"
                 }
             ]
+        },
+        {
+            "title": "deloreanjs/delorean",
+            "url": "https://github.com/deloreanjs/delorean",
+            "content": "Flux patternの実装ライブラリ\ndispatcherとstore、ComponentとしてReactやFlight、Ractiveなどと組み合わせて使うことができる",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-09-21T06:51:54.199Z",
+            "relatedLinks": [
+                {
+                    "title": "Fluxxor - Home",
+                    "url": "http://fluxxor.com/"
+                }
+            ]
         }
     ]
 }
