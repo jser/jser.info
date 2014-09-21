@@ -1033,6 +1033,17 @@
             ],
             "date": "2014-09-21T11:36:29.140Z",
             "relatedLinks": []
+        },
+        {
+            "title": "透過PNGをSVGを利用して軽くするテクニック - Weblog - Hail2u.net",
+            "url": "http://hail2u.net/blog/webdesign/with-svg.html",
+            "content": "JPG画像とマスクとなるPNG画像をsvgのmask要素を合わせる事で擬似アルファチャネルをやる事について。\n単体の透過pngよりサイズサイズが軽量に出来る話。\nhttp://blog.jackadam.net/2010/alpha-jpegs/",
+            "tags": [
+                "SVG",
+                "画像"
+            ],
+            "date": "2014-09-21T11:54:06.061Z",
+            "relatedLinks": []
         }
     ]
 }
