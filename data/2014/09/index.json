@@ -985,6 +985,18 @@
                     "url": "http://fluxxor.com/"
                 }
             ]
+        },
+        {
+            "title": "fat/bean",
+            "url": "https://github.com/fat/bean",
+            "content": "JavaScriptのDOMイベントを簡単に扱える小さなライブラリ。\non/off/fire/one/cloneが用意されている。cloneではNodeと共にeventをコピーすることができる",
+            "tags": [
+                "JavaScript",
+                "library",
+                "event"
+            ],
+            "date": "2014-09-21T06:59:58.344Z",
+            "relatedLinks": []
         }
     ]
 }
