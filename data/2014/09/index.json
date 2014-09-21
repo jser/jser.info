@@ -953,6 +953,22 @@
                     "url": "https://bugsnag.com/blog/async-profile"
                 }
             ]
+        },
+        {
+            "title": "Node.js Best Practices",
+            "url": "http://blog.risingstack.com/node-js-best-practices/",
+            "content": "Node.jsにおけるコーディングルール的なのとエラーについて。\ncallbackのerrorはチェックする事と早期return、Operational errorとProgrammer errorsの違いと対処、npmを使ったWorkflowについて書かれてる",
+            "tags": [
+                "node.js",
+                "開発環境"
+            ],
+            "date": "2014-09-21T06:31:07.089Z",
+            "relatedLinks": [
+                {
+                    "title": "Error Handling in Nodejs - Developer Center - Joyent",
+                    "url": "http://www.joyent.com/developers/node/design/errors"
+                }
+            ]
         }
     ]
 }
