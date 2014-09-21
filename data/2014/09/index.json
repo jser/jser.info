@@ -834,7 +834,12 @@
                 "スライド"
             ],
             "date": "2014-09-17T14:08:10.953Z",
-            "relatedLinks": [{ "title" : "俺の話を聞け、5分だけでもいい　ーJavaScriptだいすきな男たちとJavaScriptを学ぼう！【JSオジサン#3】 JSオジサン 先生 - 無料動画学習｜schoo（スクー）", "url" : "https://schoo.jp/class/1190"}]
+            "relatedLinks": [
+                {
+                    "title": "俺の話を聞け、5分だけでもいい　ーJavaScriptだいすきな男たちとJavaScriptを学ぼう！【JSオジサン#3】 JSオジサン 先生 - 無料動画学習｜schoo（スクー）",
+                    "url": "https://schoo.jp/class/1190"
+                }
+            ]
         },
         {
             "title": "A Quick Introduction to BrowserSync - Tuts+ Web Design Tutorial",
@@ -1043,6 +1048,18 @@
                 "画像"
             ],
             "date": "2014-09-21T11:54:06.061Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "Syncing Async",
+            "url": "http://www.slideshare.net/fitc_slideshare/syncingasync",
+            "content": "非同期処理とPromiseについてのスライド。\nコールバックのネストの問題、PromiseやGeneratorで考える非同期で逐次的な処理について。",
+            "tags": [
+                "JavaScript",
+                "Promises",
+                "スライド"
+            ],
+            "date": "2014-09-21T12:41:00.350Z",
             "relatedLinks": []
         }
     ]
