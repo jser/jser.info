@@ -920,7 +920,12 @@
                 "performance"
             ],
             "date": "2014-09-21T03:32:14.697Z",
-            "relatedLinks": [{ "title" : "iOS 8 に Apple の HTML5 への愛を見た | 株式会社ゼノフィ", "url" : "https://www.xenophy.com/sencha-blog/11578"}]
+            "relatedLinks": [
+                {
+                    "title": "iOS 8 に Apple の HTML5 への愛を見た | 株式会社ゼノフィ",
+                    "url": "https://www.xenophy.com/sencha-blog/11578"
+                }
+            ]
         },
         {
             "title": "iOS 8 and iPhone 6 for web developers and designers: next evolution for Safari and native webapps | Breaking the Mobile Web",
@@ -1013,7 +1018,12 @@
                 "ReleaseNote"
             ],
             "date": "2014-09-21T07:24:28.005Z",
-            "relatedLinks": [{ "title" : "WinJS3.0 がリリースされました。 - monoe's blog - Site Home - MSDN Blogs", "url" : "http://blogs.msdn.com/b/osamum/archive/2014/09/19/winjs3-0.aspx"}]
+            "relatedLinks": [
+                {
+                    "title": "WinJS3.0 がリリースされました。 - monoe's blog - Site Home - MSDN Blogs",
+                    "url": "http://blogs.msdn.com/b/osamum/archive/2014/09/19/winjs3-0.aspx"
+                }
+            ]
         },
         {
             "title": "matthew-andrews/denodeify",
@@ -1060,6 +1070,19 @@
                 "スライド"
             ],
             "date": "2014-09-21T12:41:00.350Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "inikulin/dmn",
+            "url": "https://github.com/inikulin/dmn",
+            "content": "プロジェクトで使ってるファイルからら.npmignoreを生成するコマンドラインツール。\nまた、インストール済みのnode_modulesから不要なファイルを削除する事も出来る。\n",
+            "tags": [
+                "npm",
+                "node.js",
+                "console",
+                "Tools"
+            ],
+            "date": "2014-09-23T03:26:31.282Z",
             "relatedLinks": []
         }
     ]
