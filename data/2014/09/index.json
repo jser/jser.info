@@ -1129,6 +1129,18 @@
                     "url": "https://www.npmjs.org/doc/misc/npm-scope.html"
                 }
             ]
+        },
+        {
+            "title": "Traceur, Gulp, Browserify and ES6 - Matt Greer",
+            "url": "http://www.mattgreer.org/articles/traceur-gulp-browserify-es6/",
+            "content": "Gulp+TraceurでES6のコードを使う方法と、Browserify + es6ifyでTraceurを使う方法について。",
+            "tags": [
+                "JavaScript",
+                "gulp",
+                "browserify"
+            ],
+            "date": "2014-09-23T07:17:26.830Z",
+            "relatedLinks": []
         }
     ]
 }
