@@ -1084,6 +1084,18 @@
             ],
             "date": "2014-09-23T03:26:31.282Z",
             "relatedLinks": []
+        },
+        {
+            "title": "WebStorm 9 EAP, 138.2406: spy-js code completion, CSS3 enhancements, Scratch files and… JSX | JetBrains WebStorm Blog",
+            "url": "http://blog.jetbrains.com/webstorm/2014/09/webstorm-9-eap-138-2406/",
+            "content": "spy.jsを実行した結果を使ったコード補完が行えるように。また、今までは引数や返り値のみだったか、式にも対応した。\nemacsみたいなScratchファイルの機能を追加、indexingの範囲をデフォルトではnode_moduleまでに限定、JSX(React)のサポート改善等",
+            "tags": [
+                "WebStorm",
+                "ReleaseNote",
+                "node.js"
+            ],
+            "date": "2014-09-23T04:22:36.466Z",
+            "relatedLinks": []
         }
     ]
 }
