@@ -1141,6 +1141,22 @@
             ],
             "date": "2014-09-23T07:17:26.830Z",
             "relatedLinks": []
+        },
+        {
+            "title": "async vs defer attributes - Growing with the Web",
+            "url": "http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html",
+            "content": "script要素のasync属性とdefer属性の動作の違いを図解にしたもの ",
+            "tags": [
+                "HTML",
+                "JavaScript"
+            ],
+            "date": "2014-09-24T14:53:32.674Z",
+            "relatedLinks": [
+                {
+                    "title": "サイトに適したリソース配置とasync/defer完全マスター – レンダリング優先のグッド・プラクティス | ゆっくりと…",
+                    "url": "http://tokkono.cute.coocan.jp/blog/slow/index.php/xhtmlcss/resource-potitioning-best-practice/"
+                }
+            ]
         }
     ]
 }
