@@ -1275,6 +1275,17 @@
             ],
             "date": "2014-09-29T13:58:03.114Z",
             "relatedLinks": []
+        },
+        {
+            "title": "The State of Grunt",
+            "url": "http://cowboy.github.io/state-of-grunt-fe-summit-2014-talk/#1",
+            "content": "Gruntの現状と未来についてのスライド。\nGrunt 0.4ではGulpやBroccoliのプラグインも使えるようにすることやstream/promiseベースのTaskのパイプラインのサポート。\nGrunt/Gulp/Broccoliの目的の違いについてまとめられてる",
+            "tags": [
+                "Grunt",
+                "スライド"
+            ],
+            "date": "2014-09-29T14:17:37.006Z",
+            "relatedLinks": []
         }
     ]
 }
