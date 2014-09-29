@@ -1221,6 +1221,17 @@
             ],
             "date": "2014-09-27T12:22:30.480Z",
             "relatedLinks": []
+        },
+        {
+            "title": "JavaScript - BrowserifyからWebpackへの移行時の注意点 - Qiita",
+            "url": "http://qiita.com/derui@github/items/5233b4ef8fbde1e80d33",
+            "content": "Browserifyから見たWebpackのメリットについて。 Browserifyはデフォルト(factor-bundleなどが必要)では1ビルドに1出力で、Webpackは複数のファイルを吐き出せる。\nまた、Webpackはデフォルトで賢いビルドをするため高速にビルド出来る。\n(BrowserifyはAdvanced Optionsなどで細かい指定やビルドの工夫が必要)\nどちらもビルド時間の多くがSourceMap出力が占めている傾向がある。",
+            "tags": [
+                "JavaScript",
+                "browserify"
+            ],
+            "date": "2014-09-29T09:39:56.861Z",
+            "relatedLinks": []
         }
     ]
 }
