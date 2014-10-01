@@ -3,19 +3,17 @@
  * LICENSE : MIT
  */
 "use strict";
-var fs = require("fs");
 var pather = require("path");
 var FS = require("q-io/fs");
 var Promise = require("bluebird");
 
 function pLoadFileList(fileList) {
     return Promise.all(fileList.map(function (filePath) {
-        return FS.read(pather.resolve(filePath)).then(JSON.parse).catch(function (error) {
-            console.log(error);
-        });
+        return FS.read(pather.resolve(filePath))
+            .then(JSON.parse)
     }));
 }
-var concatPromise = FS.listTree("../../data/", function isIndexHTML(filePath, stat) {
+var concatenateJSONPromise = FS.listTree("../../data/", function isIndexHTML(filePath, stat) {
     if (stat.isDirectory()) {
         return false;
     }
@@ -26,8 +24,10 @@ var concatPromise = FS.listTree("../../data/", function isIndexHTML(filePath, st
     }, []);
 });
 
-concatPromise.then(function (array) {
+concatenateJSONPromise.then(function (array) {
     return FS.write(pather.join(__dirname, "min.json"), JSON.stringify(array));
 }).then(function (result) {
     console.log("All Finish");
+}).catch(function (error) {
+    console.error(error);
 });
