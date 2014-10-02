@@ -58,17 +58,40 @@ function counterLink(siteObject) {
 function countOfYear(siteObjectArray) {
     return siteObjectArray.reduce(function (prev, current) {
         return prev + counterLink(current);
-    }, 0)
+    }, 0);
+}
+// "url",content,relatedLinksを対象に
+function countAllURLOfData(data) {
+    var results = data.map(function (yearObject) {
+        var key = Object.keys(yearObject)[0];
+        var obj = {};
+        obj[key] = countOfYear(yearObject[key]);
+        return obj;
+    });
+    console.log("月\tURL数");
+    results.forEach(function (object, index) {
+        var key = Object.keys(object)[0];
+        console.log(key + "\t" + object[key]);
+    });
+}
+// "url" のみを対象に
+function countURLAttrOfData(data) {
+    var results = data.map(function (yearObject) {
+        var key = Object.keys(yearObject)[0];
+        var obj = {};
+        obj[key] = yearObject[key].length;
+        return obj;
+    });
+    console.log("月\t記事数");
+    results.forEach(function (object, index) {
+        var key = Object.keys(object)[0];
+        console.log(key + "\t" + object[key]);
+    });
 }
 concatenateJSONPromise.then(function (array) {
-    var results = {};
-    array.forEach(function (yearObject) {
-        var key = Object.keys(yearObject)[0];
-        results[key] = countOfYear(yearObject[key]);
-    });
-    console.log(results);
-    console.log(Object.keys(results).join("\t"));
-    console.log(Object.values(results).join("\t"));
+    countAllURLOfData(array);
+    countURLAttrOfData(array);
+
 
 }).then(function (result) {
     console.log("All Finish");
