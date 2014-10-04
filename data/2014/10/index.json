@@ -131,6 +131,18 @@
                     "url": "https://github.com/sandermak/typescript-presentation"
                 }
             ]
+        },
+        {
+            "title": "node-browserify/changelog.markdown at 6.0.0 · substack/node-browserify",
+            "url": "https://github.com/substack/node-browserify/blob/6.0.0/changelog.markdown",
+            "content": "browserify 6.0.0リリース。\nSourceMapのファイルパスがベースURLからの相対パスとなるように",
+            "tags": [
+                "browserify",
+                "ReleaseNote",
+                "sourcemap"
+            ],
+            "date": "2014-10-04T05:19:24.854Z",
+            "relatedLinks": []
         }
     ]
 }
