@@ -179,6 +179,17 @@
             ],
             "date": "2014-10-04T15:25:09.047Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Node.js Security Tips",
+            "url": "http://blog.risingstack.com/node-js-security-tips/",
+            "content": "Node.jsとセキュリティについて\neval、strict mode、sudoしない、シェルを叩いてコマンドを実行しない、一時ファイル、XSS、HttpOnly、CSP等の扱いについて書かれている",
+            "tags": [
+                "node.js",
+                "セキュリティ"
+            ],
+            "date": "2014-10-04T15:46:20.681Z",
+            "relatedLinks": []
         }
     ]
 }
