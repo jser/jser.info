@@ -250,6 +250,17 @@
             ],
             "date": "2014-10-05T04:04:02.248Z",
             "relatedLinks": []
+        },
+        {
+            "title": "A primer on Content Security Policy // Speaker Deck",
+            "url": "https://speakerdeck.com/polarblau/a-primer-on-content-security-policy",
+            "content": "XSSの動く仕組み、そのXSSを防止するためのエスケープや必要な事の多さとその一つとしてのCSPについてのスライド。\nCSPのルールについての紹介",
+            "tags": [
+                "CSP",
+                "スライド"
+            ],
+            "date": "2014-10-05T04:46:22.321Z",
+            "relatedLinks": []
         }
     ]
 }
