@@ -238,6 +238,18 @@
             ],
             "date": "2014-10-05T04:02:02.499Z",
             "relatedLinks": []
+        },
+        {
+            "title": "npm 2.0.0でローカルモジュールを使ってrequire('../../../')を回避する | Web Scratch",
+            "url": "http://efcl.info/2014/10/04/npm2-local-module/",
+            "content": "npm 2.0.0からdependenciesにローカルパスを指定出来るようになり、プロジェクトだけで使うUitlsを読み込みやすくなった話",
+            "tags": [
+                "npm",
+                "node.js",
+                "JavaScript"
+            ],
+            "date": "2014-10-05T04:04:02.248Z",
+            "relatedLinks": []
         }
     ]
 }
