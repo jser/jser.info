@@ -368,6 +368,17 @@
             ],
             "date": "2014-10-06T12:27:33.771Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ECMAScript 6 promises (2/2): the API",
+            "url": "http://www.2ality.com/2014/10/es6-promises-api.html",
+            "content": "ES6 Promiseについて詳しい解説。基本的な使い方やどのようなフローで動くか、エラーハンドリング、メリット/デメリット、デバッグ、Promiseラッパの書き方、他の機能と強調した書き方についてなど",
+            "tags": [
+                "Promises",
+                "tutorial"
+            ],
+            "date": "2014-10-06T12:35:42.408Z",
+            "relatedLinks": []
         }
     ]
 }
