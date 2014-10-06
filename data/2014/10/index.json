@@ -379,6 +379,18 @@
             ],
             "date": "2014-10-06T12:35:42.408Z",
             "relatedLinks": []
+        },
+        {
+            "title": "React Apps Using Flux and Backbone | Toptal",
+            "url": "http://www.toptal.com/front-end/simple-data-flow-in-react-applications-using-flux-and-backbone",
+            "content": "Fluxアーキテクチャのフローについて。\nDispatcherでイベントとState管理、Store(EventEmitter)がブロードキャストしたイベントをキャッチしてViewをレンダリングするという流れ。\nこれをBackbone.jsとReactを使った実装について",
+            "tags": [
+                "React",
+                "backbone.js",
+                "JavaScript"
+            ],
+            "date": "2014-10-06T13:11:18.925Z",
+            "relatedLinks": []
         }
     ]
 }
