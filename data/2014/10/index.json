@@ -431,6 +431,18 @@
             ],
             "date": "2014-10-07T15:02:50.481Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Nightmare",
+            "url": "http://www.nightmarejs.org/",
+            "content": "PhantomJS APIでの操作をメソッドチェーンで書いていけるライブラリ。\n`.run(callback)` にerrorオブジェクトが渡ってくる。\n操作をまとめたモジュールを作って`.use`で再利用できる",
+            "tags": [
+                "JavaScript",
+                "browserify",
+                "library"
+            ],
+            "date": "2014-10-07T15:06:10.298Z",
+            "relatedLinks": []
         }
     ]
 }
