@@ -468,6 +468,18 @@
             ],
             "date": "2014-10-07T15:13:40.108Z",
             "relatedLinks": []
+        },
+        {
+            "title": "sebmck/6to5",
+            "url": "https://github.com/sebmck/6to5",
+            "content": "ES6のコードをランタイムなしのES5に変換するツール。\nSourceMap対応、BrowserifyからGrunt等のpluginが用意されてる。\n他のES6コード変換との比較表も載せている",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2014-10-08T14:12:17.298Z",
+            "relatedLinks": []
         }
     ]
 }
