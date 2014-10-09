@@ -521,6 +521,19 @@
                     "url": "http://yosuke-furukawa.hatenablog.com/entry/2014/10/09/100629"
                 }
             ]
+        },
+        {
+            "title": "cure53/jPurify",
+            "url": "https://github.com/cure53/jPurify",
+            "content": "jQueryでDOM Based XSSを引き起こす可能性があるメソッドを乗っ取って、サニタイズ的な処理を追加するライブラリ",
+            "tags": [
+                "jQuery",
+                "DOM",
+                "XSS",
+                "library"
+            ],
+            "date": "2014-10-09T05:23:01.750Z",
+            "relatedLinks": []
         }
     ]
 }
