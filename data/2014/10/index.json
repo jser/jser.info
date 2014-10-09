@@ -550,6 +550,23 @@
                     "url": "http://blog.chromium.org/2014/08/chrome-38-beta-new-primitives-for-next.html"
                 }
             ]
+        },
+        {
+            "title": "ractive/CHANGELOG.md at master · ractivejs/ractive",
+            "url": "https://github.com/ractivejs/ractive/blob/master/CHANGELOG.md",
+            "content": "Ractive.js 0.6.0リリース。\n`init`の代わりに`onrender`等のevent hooksが追加された。\nテンプレートエンジンへの機能追加等",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-10-09T13:37:32.602Z",
+            "relatedLinks": [
+                {
+                    "title": "Version 0.6.0 - Google グループ",
+                    "url": "https://groups.google.com/forum/#!topic/ractive-js/_VIdRH_pG3w"
+                }
+            ]
         }
     ]
 }
