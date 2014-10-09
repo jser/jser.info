@@ -505,6 +505,22 @@
             ],
             "date": "2014-10-08T14:47:50.329Z",
             "relatedLinks": []
+        },
+        {
+            "title": "WebRTC (概要から中の仕組みまで) // Speaker Deck",
+            "url": "https://speakerdeck.com/yosuke_furukawa/webrtc-gai-yao-karazhong-falseshi-zu-mimade",
+            "content": "WebRTCの接続確立から通信するまで流れとWebRTCのAPIについてのスライド。\nNAT、ICE(STUN,TURN)、DTLS,\nSRTP、SCTP、WebSocket APIとの類似性などについて",
+            "tags": [
+                "WebRTC",
+                "スライド"
+            ],
+            "date": "2014-10-09T02:06:15.630Z",
+            "relatedLinks": [
+                {
+                    "title": "WebRTCについての話を社内勉強会でしてきた - from scratch",
+                    "url": "http://yosuke-furukawa.hatenablog.com/entry/2014/10/09/100629"
+                }
+            ]
         }
     ]
 }
