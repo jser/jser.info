@@ -88,11 +88,51 @@ function countURLAttrOfData(data) {
         console.log(key + "\t" + object[key]);
     });
 }
+
+
+function isReleaseTag(tags){
+    if(!tags) {
+        return false;
+    }
+    return tags.indexOf("ReleaseNote") !== -1;
+}
+function countReleaseNotGitHub(data){
+    var results = data.map(function (yearObject) {
+        var key = Object.keys(yearObject)[0];
+        var obj = {};
+        var sitesOfYear = yearObject[key];
+        obj[key] = sitesOfYear.filter(function(site){
+            return isReleaseTag(site.tags) && !/github.com\//.test(site.url);
+        }).length;
+        return obj;
+    });
+    console.log("月\t通常のリリース数");
+    results.forEach(function (object, index) {
+        var key = Object.keys(object)[0];
+        console.log(key + "\t" + object[key]);
+    });
+}
+function countGitHubRelease(data){
+    var results = data.map(function (yearObject) {
+        var key = Object.keys(yearObject)[0];
+        var obj = {};
+        var sitesOfYear = yearObject[key];
+        obj[key] = sitesOfYear.filter(function(site){
+            return isReleaseTag(site.tags) && /github.com\//.test(site.url);
+        }).length;
+        return obj;
+    });
+    console.log("月\tGitHubリリース数");
+    results.forEach(function (object, index) {
+        var key = Object.keys(object)[0];
+        console.log(key + "\t" + object[key]);
+    });
+}
 concatenateJSONPromise.then(function (array) {
     countAllURLOfData(array);
     countURLAttrOfData(array);
-
-
+    countGitHubRelease(array);
+    countReleaseNotGitHub(array);
 }).then(function (result) {
     console.log("All Finish");
 }).catch(function (error) {
