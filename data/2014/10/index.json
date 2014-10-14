@@ -670,6 +670,19 @@
             ],
             "date": "2014-10-13T12:36:15.992Z",
             "relatedLinks": []
+        },
+        {
+            "title": "github/fetch · GitHub",
+            "url": "https://github.com/github/fetch",
+            "content": "WHATWGで策定されてる`fetch`のpolyfillライブラリ。 \nXHRよりもシンプルなAPIでデータの取得、送信等が行える。\nfetchはPromiseを返すので別途Promiseのpolyfillが必要。\nformやArrayBuffer等まだ実装されていない部分などもある",
+            "tags": [
+                "JavaScript",
+                "XHR",
+                "Promises",
+                "library"
+            ],
+            "date": "2014-10-14T02:50:03.672Z",
+            "relatedLinks": []
         }
     ]
 }
