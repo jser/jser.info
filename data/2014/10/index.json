@@ -727,6 +727,19 @@
             ],
             "date": "2014-10-14T10:36:42.353Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Browser Platform Status Tracker",
+            "url": "http://platformstatustracker.azurewebsites.net/",
+            "content": "IEやChromiumのステータス情報から差分の情報をまとめてくれているページ。\nどの機能がどのバージョンで入ったか、prefixが外れたか等が分かる",
+            "tags": [
+                "IE",
+                "Chrome",
+                "まとめ",
+                "browser"
+            ],
+            "date": "2014-10-15T15:24:30.813Z",
+            "relatedLinks": []
         }
     ]
 }
