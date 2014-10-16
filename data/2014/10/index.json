@@ -757,6 +757,17 @@
                     "url": "http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#october_14_2014_draft_rev_28"
                 }
             ]
+        },
+        {
+            "title": "No9/localstorage-down",
+            "url": "https://github.com/no9/localstorage-down",
+            "content": "leveldownのdbとして使えるlocalStorageのバックエンド実装。\n",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-10-16T13:11:00.056Z",
+            "relatedLinks": []
         }
     ]
 }
