@@ -853,6 +853,18 @@
             ],
             "date": "2014-10-17T05:51:17.773Z",
             "relatedLinks": []
+        },
+        {
+            "title": "box/leche",
+            "url": "https://github.com/box/leche",
+            "content": "mockするためのオブジェクト作成やパラメタライズドテストを行うData Providerの機能が用意されているテストの補助ライブラリ。\nMochaとSinonと共に使う事を想定して作られている",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library"
+            ],
+            "date": "2014-10-18T05:35:46.494Z",
+            "relatedLinks": []
         }
     ]
 }
