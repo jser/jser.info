@@ -865,6 +865,17 @@
             ],
             "date": "2014-10-18T05:35:46.494Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release Dragon Master · sass/libsass",
+            "url": "https://github.com/sass/libsass/releases/tag/3.0",
+            "content": "SassコンパイラのC++実装であるlibsass 3.0リリース。\nSass3.4の動作に近づけていく改善が中心。\n`@extends`、Map、`call()`のサポート、WIndowsでの動作を改善など",
+            "tags": [
+                "Sass",
+                "C++"
+            ],
+            "date": "2014-10-18T05:56:41.871Z",
+            "relatedLinks": []
         }
     ]
 }
