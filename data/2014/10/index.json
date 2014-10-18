@@ -897,6 +897,17 @@
                     "url": "http://sourceforge.jp/magazine/14/10/17/151500"
                 }
             ]
+        },
+        {
+            "title": "medikoo/memoize",
+            "url": "https://github.com/medikoo/memoize",
+            "content": "memorizeを行うためのライブラリ。\n多彩なキャッシュするルールが用意されていて、特定の引数をキーにしたり、非同期対応、Weakなmemorizeなども用意されている",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-10-18T06:41:58.343Z",
+            "relatedLinks": []
         }
     ]
 }
