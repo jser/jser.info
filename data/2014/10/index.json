@@ -876,6 +876,18 @@
             ],
             "date": "2014-10-18T05:56:41.871Z",
             "relatedLinks": []
+        },
+        {
+            "title": "FormatJS",
+            "url": "http://formatjs.io/",
+            "content": "数字や日付、文字列の国際化対応のためのライブラリ。\n150言語以上に対応しており、HandlebarsやReact等のテンプレートの対応も用意されている。\nECMA i18n APIやUnicode CLDR、ICU Messageなどの標準の上に実装されている",
+            "tags": [
+                "JavaScript",
+                "i18n",
+                "library"
+            ],
+            "date": "2014-10-18T06:29:24.365Z",
+            "relatedLinks": []
         }
     ]
 }
