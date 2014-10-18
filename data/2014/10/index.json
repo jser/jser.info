@@ -908,6 +908,18 @@
             ],
             "date": "2014-10-18T06:41:58.343Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Knockout Secure Binding – Brian M Hunt",
+            "url": "http://brianmhunt.github.io/articles/knockout-plus-content-security-policy/",
+            "content": "KnockoutのCSP対応なバインディングを出来るようにするライブラリ。\n`new Function`を使わないようにしてる",
+            "tags": [
+                "CSP",
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-10-18T08:08:30.417Z",
+            "relatedLinks": []
         }
     ]
 }
