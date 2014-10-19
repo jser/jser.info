@@ -931,6 +931,17 @@
             ],
             "date": "2014-10-18T08:22:57.400Z",
             "relatedLinks": []
+        },
+        {
+            "title": "NPM 2.0 and how it helps avoiding global dependencies | 4waisenkinder",
+            "url": "http://4waisenkinder.de/blog/2014/10/18/npm-2-dot-0-and-the-much-better-star-npm-run-star-command/",
+            "content": "npm 2.0からnpm run scriptに引数を渡せるようになった件とnpm run scriptでは自動的にnode_modules/.binのパスを解決してくれる事について",
+            "tags": [
+                "node.js",
+                "npm"
+            ],
+            "date": "2014-10-19T02:57:17.567Z",
+            "relatedLinks": []
         }
     ]
 }
