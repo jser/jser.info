@@ -1024,6 +1024,17 @@
             ],
             "date": "2014-10-19T09:55:01.786Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ReactJS For Stupid People",
+            "url": "http://blog.andrewray.me/reactjs-for-stupid-people/",
+            "content": "Reactとは何かについて。\nReactはViewのみを扱うライブラリ、DOM APIでHTML作成は大変なのでJSXというSyntaxを持つ、Reactはサーバでも使える。\n良くない点としてドキュメントサイト、サイズ。\nFluxはコンセプトであってライブラリではないという話やどういう時に使うべきかについて",
+            "tags": [
+                "JavaScript",
+                "React"
+            ],
+            "date": "2014-10-19T11:37:32.185Z",
+            "relatedLinks": []
         }
     ]
 }
