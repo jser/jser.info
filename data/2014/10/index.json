@@ -1057,6 +1057,22 @@
             ],
             "date": "2014-10-19T12:59:30.189Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Announcing key advances to JavaScript performance in Windows 10 Technical Preview - IEBlog - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/ie/archive/2014/10/09/announcing-key-advances-to-javascript-performance-in-windows-10-technical-preview.aspx",
+            "content": "IEのJavaScriptエンジンであるChakraの最適化について。baseline的なASTを中間層としてJITコンパイル。\n最適化として、オブジェクトの同値の場合にインラインキャッシュ、コードのインライン化、Arrayアクセスの最適化、mark&sweep GCの改善等",
+            "tags": [
+                "IE",
+                "JavaScript"
+            ],
+            "date": "2014-10-19T13:29:35.311Z",
+            "relatedLinks": [
+                {
+                    "title": "Baseline コンパイラを導入しました | Mozilla Developer Street (modest)",
+                    "url": "https://dev.mozilla.jp/2013/04/the-baseline-compiler-has-landed/"
+                }
+            ]
         }
     ]
 }
