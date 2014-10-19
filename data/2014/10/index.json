@@ -1073,6 +1073,18 @@
                     "url": "https://dev.mozilla.jp/2013/04/the-baseline-compiler-has-landed/"
                 }
             ]
+        },
+        {
+            "title": "mattdesl/module-best-practices",
+            "url": "https://github.com/mattdesl/module-best-practices",
+            "content": "node.jsのmoduleベストプラクティス。\nmoduleのファイル名、npmモジュールの作成、コンストラクタのパターン、テスト、バージョニング、package.jsonの情報、npmignore、npm run-scriptについて等",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "document"
+            ],
+            "date": "2014-10-19T14:23:34.937Z",
+            "relatedLinks": []
         }
     ]
 }
