@@ -1035,6 +1035,17 @@
             ],
             "date": "2014-10-19T11:37:32.185Z",
             "relatedLinks": []
+        },
+        {
+            "title": "React v0.12 RC | React",
+            "url": "http://facebook.github.io/react/blog/2014/10/16/react-v0.12-rc1.html",
+            "content": "React v0.12 RCリリース。\nJSXに破壊的な変更が多く含まれている。\n`@jsx` pragmaは不要に、JSXタグは小文字or`-`が含まれてるならHTMLとして扱うように、Spread attributesのサポートし代わりにtransferPropsToは非推奨に等など",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "date": "2014-10-19T12:24:55.323Z",
+            "relatedLinks": []
         }
     ]
 }
