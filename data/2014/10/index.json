@@ -1077,7 +1077,7 @@
         {
             "title": "mattdesl/module-best-practices",
             "url": "https://github.com/mattdesl/module-best-practices",
-            "content": "node.jsのmoduleベストプラクティス。\nmoduleのファイル名、npmモジュールの作成、コンストラクタのパターン、テスト、バージョニング、package.jsonの情報、npmignore、npm run-scriptについて等",
+            "content": "Node.jsのモジュールベストプラクティス。\nモジュールのファイル名、npmモジュールの作成、コンストラクタのパターン、テスト、バージョニング、package.jsonの情報、npmignore、npm run-scriptについて等",
             "tags": [
                 "node.js",
                 "JavaScript",
@@ -1100,6 +1100,19 @@
                     "url": "https://developers.google.com/web/starter-kit/"
                 }
             ]
+        },
+        {
+            "title": "hughsk/district",
+            "url": "https://github.com/hughsk/district",
+            "content": "指定したディレクトリをnode_modules以下にエイリアスを貼るツール。\nモジュールを特定のディレクトリに名前空間的にまとめることができる",
+            "tags": [
+                "node.js",
+                "npm",
+                "console",
+                "Tools"
+            ],
+            "date": "2014-10-20T13:09:20.960Z",
+            "relatedLinks": []
         }
     ]
 }
