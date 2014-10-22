@@ -1141,13 +1141,18 @@
         {
             "title": "WebStorm 9 released: Meteor support, React and JSX, Gulp integration, and more | JetBrains WebStorm Blog",
             "url": "http://blog.jetbrains.com/webstorm/2014/10/webstorm-9-released-meteor-support-react-and-jsx-gulp-integration-and-more/",
-            "content": "WebStorm 9リリース。\nMeteor、React/JSX、Polymerのサポート、PhoneGap、Gulp統合、spy-js/LiveEditがNode.jsアプリに対応、ESLint/JSCS/EditorConfigのサポート等",
+            "content": "WebStorm 9リリース。\n\n主に以下の様な機能追加等が中心です。\n\n- Meteor、React/JSX、Polymerのサポート\n- PhoneGap、Gulp統合\n- spy-js/LiveEditがNode.jsアプリケーションに対応\n- ESLint/JSCS/EditorConfigのサポート",
             "tags": [
                 "WebStorm",
                 "ReleaseNote"
             ],
             "date": "2014-10-22T14:45:49.598Z",
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "What's new in WebStorm 9",
+                    "url": "https://www.jetbrains.com/webstorm/whatsnew/"
+                }
+            ]
         }
     ]
 }
