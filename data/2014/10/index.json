@@ -1153,6 +1153,18 @@
                     "url": "https://www.jetbrains.com/webstorm/whatsnew/"
                 }
             ]
+        },
+        {
+            "title": "Release Custom Driver Support · mozilla/localForage",
+            "url": "https://github.com/mozilla/localForage/releases/tag/1.1.1",
+            "content": "localForage 1.1.1リリース。\n`defineDriver()`メソッドが追加され、任意のCustom Driverを作成して適応出来るようになった。\n任意のストレージをバックエンドに実装出来る",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-10-23T01:18:52.234Z",
+            "relatedLinks": []
         }
     ]
 }
