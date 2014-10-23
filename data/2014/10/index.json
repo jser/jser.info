@@ -1165,6 +1165,23 @@
             ],
             "date": "2014-10-23T01:18:52.234Z",
             "relatedLinks": []
+        },
+        {
+            "title": "dameleon/paw.js",
+            "url": "https://github.com/dameleon/paw.js",
+            "content": "TouchEventやPointerEventをハンドリングして、シンプルに扱える`tap`イベント等のカスタムイベントを発行してくれるライブラリ。",
+            "tags": [
+                "JavaScript",
+                "mobile",
+                "library"
+            ],
+            "date": "2014-10-23T08:16:23.633Z",
+            "relatedLinks": [
+                {
+                    "title": "Paw.jsというのを書いたのと今から始めるマルチタッチイベント処理 - damelog",
+                    "url": "http://dameleon.hatenablog.com/entry/2014/10/21/171448"
+                }
+            ]
         }
     ]
 }
