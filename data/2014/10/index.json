@@ -1243,6 +1243,23 @@
             ],
             "date": "2014-10-25T02:45:18.935Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ブラウザのパフォーマンスを限界まで高める HTMLコーディングの考え方",
+            "url": "http://ja.slideshare.net/kawada_hiroshi/html-40678123",
+            "content": "ブラウザのパフォーマンス最適化の戦略についてのスライド。\n極端な例外を除いたパーセンタイルを見てパフォーマンスを調整。\nレンダリングの開始時間、Speed Index、Critical Redering Pathを目安にする。\n標準化やNavigation Timingについて",
+            "tags": [
+                "browser",
+                "performance",
+                "スライド"
+            ],
+            "date": "2014-10-25T06:44:10.143Z",
+            "relatedLinks": [
+                {
+                    "title": "Google I/O 2014 - Mobile Web performance auditing",
+                    "url": "https://www.google.com/events/io/schedule/session/c8300366-03ed-e311-903f-00155d5066d7"
+                }
+            ]
         }
     ]
 }
