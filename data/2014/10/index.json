@@ -1223,7 +1223,7 @@
         {
             "title": "ECMAScript 6 returns JavaScript to original intent | InfoWorld",
             "url": "http://www.infoworld.com/article/2837425/javascript/ecmascript-6-returns-javascript-to-original-intent.html",
-            "content": "ES6,7についてJafar Husainさん(Async Generatorの人)へのインタビュー。\n何故ES6,7を同時進行しているのか、Async functionとAsync Generatorについて、大きなアプリと型の必要性について。",
+            "content": "ES6,7についてJafar Husainさん(Async Generatorの人)へのインタビュー。\n何故ES6,7を同時進行しているのか、Async functionとAsync Generatorについて、大きなアプリケーションと型の必要性について。",
             "tags": [
                 "JavaScript",
                 "ECMAScript",
@@ -1289,7 +1289,7 @@
         {
             "title": "写真サービス機能のブラウザ内実装 | 株式会社サイバーエージェント",
             "url": "https://www.cyberagent.co.jp/recruit/techreport/report/id=8548",
-            "content": "iOS6.0~、Android4.0~に対応した画像を扱う時に起きる問題と対処について。\niOS6のファイルサイズの問題、AndroidのtoDataURLがjpegをサポートしてない問題、フィルタ処理やリサイズについてなどハマりどころをまとめられている",
+            "content": "iOS6.0~、Android4.0~に対応した画像を扱う時に起きる問題と対処について。\niOS6のファイルサイズの問題、AndroidのtoDataURLがJPEGをサポートしてない問題、フィルタ処理やリサイズについてなどハマりどころをまとめられている",
             "tags": [
                 "ios",
                 "Android",
@@ -1374,7 +1374,7 @@
         {
             "title": "christianalfoni WebApp Enthusiast",
             "url": "http://christianalfoni.github.io/javascript/2014/08/20/react-js-and-flux.html",
-            "content": "Backbone/Angular/Flux+Reactでそれぞれ実装した場合の違いを見ながら、Fluxアーキテクチャの特徴について紹介。 ",
+            "content": "Backbone/Angular/Flux+Reactでそれぞれ実装した場合の違いを見ながら、Fluxアーキテクチャの特徴について紹介。 \n\n[Ractive.js](http://www.ractivejs.org/ \"Ractive.js\")と[vue.js](http://vuejs.org/ \"vue.js\")とFluxアーキテクチャを使って同様のサンプルを作ってあります。",
             "tags": [
                 "JavaScript",
                 "Flux"
