@@ -1285,6 +1285,20 @@
             ],
             "date": "2014-10-26T01:14:08.606Z",
             "relatedLinks": []
+        },
+        {
+            "title": "写真サービス機能のブラウザ内実装 | 株式会社サイバーエージェント",
+            "url": "https://www.cyberagent.co.jp/recruit/techreport/report/id=8548",
+            "content": "iOS6.0~、Android4.0~に対応した画像を扱う時に起きる問題と対処について。\niOS6のファイルサイズの問題、AndroidのtoDataURLがjpegをサポートしてない問題、フィルタ処理やリサイズについてなどハマりどころをまとめられている",
+            "tags": [
+                "ios",
+                "Android",
+                "画像",
+                "canvas",
+                "browser"
+            ],
+            "date": "2014-10-26T01:34:48.343Z",
+            "relatedLinks": []
         }
     ]
 }
