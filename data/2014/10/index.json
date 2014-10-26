@@ -1413,6 +1413,18 @@
                     "url": "http://ngeurope.org/"
                 }
             ]
+        },
+        {
+            "title": "ES6 & Traceur",
+            "url": "http://arv.github.io/ngeurope/#/",
+            "content": "ES6の機能についてのスライド。\n機能ごとにいつ、どんな時に使うべきかも書かれている。\nまたTraceurがどのように動いているかやAngularで使われてるAtScriptの拡張について",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "スライド"
+            ],
+            "date": "2014-10-26T08:57:19.239Z",
+            "relatedLinks": []
         }
     ]
 }
