@@ -1345,6 +1345,19 @@
             ],
             "date": "2014-10-26T02:22:31.260Z",
             "relatedLinks": []
+        },
+        {
+            "title": "wooorm/mdast",
+            "url": "https://github.com/wooorm/mdast",
+            "content": "JavaScriptのMarkdownパーサライブラリ。パースした結果をJSON的なASTとして出力する。\ngfmやpandoc風の解釈も対応していて、Parser API ライクなドキュメントもあって良さそう",
+            "tags": [
+                "Markdown",
+                "node.js",
+                "AST",
+                "library"
+            ],
+            "date": "2014-10-26T05:05:51.944Z",
+            "relatedLinks": []
         }
     ]
 }
