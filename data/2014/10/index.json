@@ -1358,6 +1358,18 @@
             ],
             "date": "2014-10-26T05:05:51.944Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Khan/structuredjs",
+            "url": "https://github.com/Khan/structuredjs",
+            "content": "JavaScriptのコードをプレースホルダー的に書いておいて、入力されたコードがプレースホルダーと一致するかをチェックできるライブラリ。\n不一致の場合のエラー情報等も定義でき、学習サイト等で使われる感じ",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "library"
+            ],
+            "date": "2014-10-26T06:48:08.976Z",
+            "relatedLinks": []
         }
     ]
 }
