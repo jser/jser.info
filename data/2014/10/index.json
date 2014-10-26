@@ -1386,6 +1386,16 @@
                     "url": "https://github.com/azu/Flux-Checkbox-Example"
                 }
             ]
+        },
+        {
+            "title": "TypeScript and the Road to 2.0 - TypeScript - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/typescript/archive/2014/10/22/typescript-and-the-road-to-2-0.aspx",
+            "content": "TypeScript 2.0のロードマップ。\n1.4で union types のサポート、1.5からES6の親和性の向上などを目指す。\nまたFacebookのFlowやAngular2.0で使われてるAtScriptのチームと一緒にType AnnotaionsをECMAScriptへの提案を進めていく",
+            "tags": [
+                "TypeScript"
+            ],
+            "date": "2014-10-26T07:20:09.851Z",
+            "relatedLinks": []
         }
     ]
 }
