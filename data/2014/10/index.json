@@ -1425,6 +1425,28 @@
             ],
             "date": "2014-10-26T08:57:19.239Z",
             "relatedLinks": []
+        },
+        {
+            "title": "AtScript Primer - Google ドキュメント",
+            "url": "https://docs.google.com/document/d/11YUzC-1d0V1-Q3V0fQ7KSit97HnZoKVygDxpWzEYW0U/preview#",
+            "content": "Angular2.0で使われているES6に型定義を拡張したもの。\nassert.jsを使ったES6 vliadなものへTraceurで変換が出来る。 \nまたDI等に利用できるMetadata Annotationsがある。\nECMAScript標準への提案を行っていく方向",
+            "tags": [
+                "AngularJS",
+                "JavaScript",
+                "document",
+                "spec"
+            ],
+            "date": "2014-10-26T09:22:33.553Z",
+            "relatedLinks": [
+                {
+                    "title": "Assert.js",
+                    "url": "http://angular.github.io/assert/"
+                },
+                {
+                    "title": "The Extensible Web Manifesto",
+                    "url": "http://extensiblewebmanifesto.org/"
+                }
+            ]
         }
     ]
 }
