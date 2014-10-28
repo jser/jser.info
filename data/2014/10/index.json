@@ -1522,6 +1522,18 @@
             ],
             "date": "2014-10-28T07:29:07.104Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Getting To Know Flux, the React.js Architecture ♥ Scotch",
+            "url": "http://scotch.io/tutorials/javascript/getting-to-know-flux-the-react-js-architecture",
+            "content": "Fluxアーキテクチャについて分かりやすく解説されてる。\nStoreが複数ある場合にwatiForを使って依存関係の解決する方法やどのようなフローで処理が行うかを図を用いて分かりやすくまとめられている",
+            "tags": [
+                "JavaScript",
+                "Flux",
+                "React"
+            ],
+            "date": "2014-10-28T14:55:19.653Z",
+            "relatedLinks": []
         }
     ]
 }
