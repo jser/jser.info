@@ -1458,6 +1458,18 @@
             ],
             "date": "2014-10-26T09:48:10.649Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release RxJS Version 2.3 · Reactive-Extensions/RxJS",
+            "url": "https://github.com/Reactive-Extensions/RxJS/releases/tag/v2.3.12",
+            "content": "RxJS 2.3リリース。\nPromise、Generatorのサポート。\nまたES6以降のArray.fromといったメソッドと同等の機能の提供など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-10-28T00:02:13.983Z",
+            "relatedLinks": []
         }
     ]
 }
