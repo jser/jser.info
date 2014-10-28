@@ -1496,6 +1496,20 @@
             ],
             "date": "2014-10-28T06:20:12.539Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ブラウザーに優しくて、アニメーションを滑らかに",
+            "url": "http://people.mozilla.org/~bbirtles/pres/html5j-2014/#/",
+            "content": "Web Animationについてのスライド。\nどのようなフローでスタイルが決定され、レンダリングが行われているか。\nまたどうすれば、レンダリングやレイアウトのコストを減らせるかについて等の最適化について。\nレイヤーや`will-change`などについても触れている",
+            "tags": [
+                "JavaScript",
+                "CSS",
+                "SVG",
+                "animation",
+                "スライド"
+            ],
+            "date": "2014-10-28T07:14:04.347Z",
+            "relatedLinks": []
         }
     ]
 }
