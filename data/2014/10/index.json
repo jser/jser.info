@@ -1483,6 +1483,19 @@
             ],
             "date": "2014-10-28T00:14:31.810Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Socket.IO — Socket.IO 1.2.0",
+            "url": "http://socket.io/blog/socket-io-1-2-0/",
+            "content": "Socket.IO 1.2.0リリース。\nサーバとクライアントのバグ修正。\nIE10みたいにXDRとXHR Lv2がある場合はXHRを優先するように、PhantomJSのサポート等",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-10-28T06:20:12.539Z",
+            "relatedLinks": []
         }
     ]
 }
