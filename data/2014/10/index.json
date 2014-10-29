@@ -1609,6 +1609,24 @@
             ],
             "date": "2014-10-29T05:21:56.166Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Model-View-Intent and the Virtual DOM",
+            "url": "http://staltz.com/mvi-freaklies/#/",
+            "content": "Reactiveなパターンについてのスライド。\nMVCが絡み合って複雑になるのをイベントバスを使ってどう解決するか。\nModel、View(Virtual DOM)、Intentでのアーキテクチャについて",
+            "tags": [
+                "VirualDOM",
+                "JavaScript",
+                "スライド",
+                "MVC"
+            ],
+            "date": "2014-10-29T05:29:40.461Z",
+            "relatedLinks": [
+                {
+                    "title": "MVI Example",
+                    "url": "http://staltz.com/mvi-example/"
+                }
+            ]
         }
     ]
 }
