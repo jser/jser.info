@@ -1558,6 +1558,23 @@
             ],
             "date": "2014-10-29T02:23:52.790Z",
             "relatedLinks": []
+        },
+        {
+            "title": "jwerle/w625",
+            "url": "https://github.com/jwerle/w625",
+            "content": "6to5を使ってES6で書けるREPLの実装。\n特定のウェブサイトに繋いで、コンソール的に使うことも出来る",
+            "tags": [
+                "JavaScript",
+                "console",
+                "Tools"
+            ],
+            "date": "2014-10-29T02:53:50.865Z",
+            "relatedLinks": [
+                {
+                    "title": "sebmck/6to5",
+                    "url": "https://github.com/sebmck/6to5"
+                }
+            ]
         }
     ]
 }
