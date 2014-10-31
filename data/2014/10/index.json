@@ -1662,6 +1662,23 @@
             ],
             "date": "2014-10-31T02:35:36.907Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Bootstrap 3.3.0 released · Bootstrap Blog",
+            "url": "http://blog.getbootstrap.com/2014/10/29/bootstrap-3-3-0-released/",
+            "content": "Bootstrap 3.3.0リリース。\nHTML lintをするbootlintや4.0についても書かれている",
+            "tags": [
+                "CSS",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-10-31T07:48:15.661Z",
+            "relatedLinks": [
+                {
+                    "title": "twbs/bootlint",
+                    "url": "https://github.com/twbs/bootlint"
+                }
+            ]
         }
     ]
 }
