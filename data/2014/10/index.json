@@ -1679,6 +1679,26 @@
                     "url": "https://github.com/twbs/bootlint"
                 }
             ]
+        },
+        {
+            "title": "A State of Change — On the future of Object.observe",
+            "url": "https://markdalgleish.github.io/presentation-a-state-of-change-object-observe/",
+            "content": "Object.observeについてのスライド。\nObject.observeはオブジェクトの変更を監視できるが、Imuutabilityとは逆の事になってしまう。\nImmutableなしくみを提供するmori等のライブラリや同様にDOMでもStatelessなDOMを提供するReactやVirtual DOMがある。\nただ、全体としてのUI状態を管理するImmutableオブジェクトは必要。\n\nImmutableなオブジェクトでやるとUndoの実装が簡単になる話。\n\n現在のシンプルなバインディングはMutableデータをStateful DOMへ結びつける。\n未来のレンダリングはImmutableデータをStateless DOMにする?",
+            "tags": [
+                "JavaScript",
+                "スライド"
+            ],
+            "date": "2014-10-31T14:36:57.236Z",
+            "relatedLinks": [
+                {
+                    "title": "The Future of JavaScript MVC Frameworks",
+                    "url": "http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/"
+                },
+                {
+                    "title": "presentation-a-state-of-change-object-observe/REFERENCES.md at master · markdalgleish/presentation-a-state-of-change-object-observe",
+                    "url": "https://github.com/markdalgleish/presentation-a-state-of-change-object-observe/blob/master/REFERENCES.md"
+                }
+            ]
         }
     ]
 }
