@@ -28,7 +28,7 @@
         {
             "title": "The Fine Art of JavaScript Error Tracking — Medium",
             "url": "https://medium.com/@jico/the-fine-art-of-javascript-error-tracking-bc031f24c659",
-            "content": "JavaScriptのエラーレポートを集めるサービスについて。\nまたエラーレポートはノイズにも成り得る。Sentryでは重要と思われるエラーを表示やどのブラウザなのかについて表示してくれる",
+            "content": "JavaScriptのエラーレポートを集めるサービスについて。\nまたエラーレポートはノイズにも成り得る。Sentryでは重要と思われるエラーを優先的表示やどのブラウザなのかについて表示してくれる",
             "tags": [
                 "JavaScript",
                 "debug",
@@ -53,6 +53,18 @@
                     "url": "https://getsentry.com/welcome/"
                 }
             ]
+        },
+        {
+            "title": "Class構文が実装された - JS.next",
+            "url": "http://js-next.hatenablog.com/entry/2014/11/01/034607",
+            "content": "ES6のclass syntaxについて。\nprototypeの糖衣構文であることや継承、匿名クラス、class内はstrict modeになる点について書かれている",
+            "tags": [
+                "JavaScript",
+                "V8",
+                "ECMAScript"
+            ],
+            "date": "2014-11-02T06:50:28.241Z",
+            "relatedLinks": []
         }
     ]
 }
