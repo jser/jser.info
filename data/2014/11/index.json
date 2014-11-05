@@ -79,7 +79,7 @@
         {
             "title": "Reactive MVC and the Virtual DOM — Futurice",
             "url": "http://futurice.com/blog/reactive-mvc-and-the-virtual-dom",
-            "content": "MVIというReactiveなデザインパターンについて。\nMV*と違いControllerを取り除き、代わりにIntentというユーザーイベントを扱う仕組みを入れる。\n 一方通行にする点などFluxに似ている所はあるが、RxJS等を意識した話。\nまたVirtual DOMを使い、テストしやすくするためViewと実際の表示を作るRendererに分けている。\n最後にReact/Fluxとどのような点が違うのかについて書かれている",
+            "content": "MVIというReactiveなデザインパターンについて。\nMV*と違いControllerを取り除き、代わりにIntentというユーザイベントを扱う仕組みを入れる。\n 一方通行にする点などFluxに似ている所はあるが、RxJS等を意識した話。\nまたVirtual DOMを使い、テストしやすくするためViewと実際の表示を作るRendererに分けている。\n最後にReact/Fluxとどのような点が違うのかについて書かれている",
             "tags": [
                 "React",
                 "Flux",
