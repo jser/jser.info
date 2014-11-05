@@ -98,6 +98,17 @@
                     "url": "http://staltz.com/mvi-freaklies/#/"
                 }
             ]
+        },
+        {
+            "title": "AngularJS についての所感 ::ハブろぐ",
+            "url": "http://havelog.ayumusato.com/develop/javascript/e628-angularjs_thought.html",
+            "content": "AngularJSの扱い方を間違えるとハマってしまう所。\n$scope、DIとProviderと依存の数、ルールの抑制とexpression、Controllerの肥大化。\n他のライブラリに応用がしにくい世界観などについて",
+            "tags": [
+                "AngularJS",
+                "JavaScript"
+            ],
+            "date": "2014-11-05T03:11:23.701Z",
+            "relatedLinks": []
         }
     ]
 }
