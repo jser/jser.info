@@ -153,6 +153,19 @@
                     "url": "http://travishorn.com/npm-package-store/"
                 }
             ]
+        },
+        {
+            "title": "substack/html-inline",
+            "url": "https://github.com/substack/html-inline",
+            "content": "HTMLで読み込み指定されてるJavaScriptやCSS、画像をインライン化するコマンドラインツール",
+            "tags": [
+                "HTML",
+                "CSS",
+                "画像",
+                "Tools"
+            ],
+            "date": "2014-11-06T12:13:19.015Z",
+            "relatedLinks": []
         }
     ]
 }
