@@ -306,6 +306,17 @@
                     "url": "http://blog.koba04.com/post/2014/10/07/vue-js-v011-changes/"
                 }
             ]
+        },
+        {
+            "title": "rtfeldman/seamless-immutable",
+            "url": "https://github.com/rtfeldman/seamless-immutable",
+            "content": "ES5の機能を使ってImmutableな配列やオブジェクトを作成するライブラリ。\nそれぞれのオブジェクトは`Object.freeze`された状態になり、幾つか補助するメソッドが追加が用意されている",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-11-07T15:53:29.019Z",
+            "relatedLinks": []
         }
     ]
 }
