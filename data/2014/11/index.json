@@ -255,6 +255,23 @@
             ],
             "date": "2014-11-07T14:14:58.552Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Stream API がブラウザにやってくる - Block Rockin’ Codes",
+            "url": "http://jxck.hatenablog.com/entry/whatwg-stream",
+            "content": "WHATWGのStream APIについて。\n連続したイベントを表現するStreamの流れ、ReadableとWritableの処理待ちのバランスが悪くなった時に調整するBack Pressureについても書かれている",
+            "tags": [
+                "stream",
+                "API",
+                "JavaScript"
+            ],
+            "date": "2014-11-07T15:17:33.710Z",
+            "relatedLinks": [
+                {
+                    "title": "Streams Standard",
+                    "url": "https://streams.spec.whatwg.org/"
+                }
+            ]
         }
     ]
 }
