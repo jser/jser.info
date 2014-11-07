@@ -189,6 +189,23 @@
             ],
             "date": "2014-11-07T02:23:19.030Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Ember.js - Ember.js 1.8.0 and 1.9 Beta Released",
+            "url": "http://emberjs.com/blog/2014/10/26/ember-1-8-0-released.html",
+            "content": "Ember 1.8.0と1.9βリリース。\nまたEmber 2.0についても話し合われている",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-11-07T02:41:51.444Z",
+            "relatedLinks": [
+                {
+                    "title": "The Road to Ember 2.0 RFC by tomdale · Pull Request #15 · emberjs/rfcs",
+                    "url": "https://github.com/emberjs/rfcs/pull/15"
+                }
+            ]
         }
     ]
 }
