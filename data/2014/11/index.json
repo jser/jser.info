@@ -321,6 +321,24 @@
             ],
             "date": "2014-11-07T15:53:29.019Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Components, React and Flux (WIP) by Dan Abramov",
+            "url": "http://slides.com/danabramov/components-react-flux-wip#/",
+            "content": "Reactに関する事が幅広く書かれているスライド。\njQuery、Backbone、Reactそれぞれで実装した場合について。\nReactの特徴である再利用性、コンポーネントのネスト、ステートフルやreact-router等について。\nまた開発ツールとしてhot-reload、一方向のデータフローを実現するFluxアーキテクチャについてもそれぞれの役割が詳しく書かれている。",
+            "tags": [
+                "React",
+                "Flux",
+                "スライド",
+                "サンプル"
+            ],
+            "date": "2014-11-08T11:34:06.633Z",
+            "relatedLinks": [
+                {
+                    "title": "gaearon/flux-react-router-example",
+                    "url": "https://github.com/gaearon/flux-react-router-example"
+                }
+            ]
         }
     ]
 }
