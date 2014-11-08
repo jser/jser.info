@@ -339,6 +339,19 @@
                     "url": "https://github.com/gaearon/flux-react-router-example"
                 }
             ]
+        },
+        {
+            "title": "uxebu/kommando",
+            "url": "https://github.com/uxebu/kommando",
+            "content": "Webdriverを使ったE2Eテストを行うライブラリ。\nwd.jsやleadfootなどのクライアントライブラリはオプションで指定できる。",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "testing",
+                "library"
+            ],
+            "date": "2014-11-08T13:58:48.455Z",
+            "relatedLinks": []
         }
     ]
 }
