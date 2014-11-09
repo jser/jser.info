@@ -352,6 +352,19 @@
             ],
             "date": "2014-11-08T13:58:48.455Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Protractor for AngularJS: writing end-to-end tests has never been so fun",
+            "url": "http://ramonvictor.github.io/protractor/slides/",
+            "content": "Protractorについてよく書かれたスライド。\nProtractorの仕組み、インストール方法、設定、API、Page Objectsを使ったテストのパターン、デバッグ方法等幅広くまとまってる",
+            "tags": [
+                "protractor",
+                "AngularJS",
+                "testing",
+                "スライド"
+            ],
+            "date": "2014-11-09T01:51:43.670Z",
+            "relatedLinks": []
         }
     ]
 }
