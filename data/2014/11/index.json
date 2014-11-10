@@ -388,6 +388,17 @@
             ],
             "date": "2014-11-10T04:13:20.896Z",
             "relatedLinks": []
+        },
+        {
+            "title": "browserify をはじめてみる - Please Sleep",
+            "url": "http://please-sleep.cou929.nu/trying-browserify.html",
+            "content": "埋め込み配布を目的としてJavaScriptをBrowserifyビルドするにあたっての話。\nbowerでインストールしたjQueryの依存関係の解決、browserify-shimを使ってCommonJSに対応してないライブラリを使う方法について",
+            "tags": [
+                "JavaScript",
+                "browserify"
+            ],
+            "date": "2014-11-10T10:20:18.813Z",
+            "relatedLinks": []
         }
     ]
 }
