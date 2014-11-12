@@ -430,6 +430,17 @@
                     "url": "https://www.mozilla.org/ja/firefox/developer/"
                 }
             ]
+        },
+        {
+            "title": "Underscore vs Lo-Dash",
+            "url": "http://benmccormick.org/",
+            "content": "UnderscoreとLo-Dashについて。\nLo-DashはUnderscoreを書き直し+機能追加したもの。\n2つの違いについてユーザビリティ、ファイルサイズ、バージョニング、追加機能、パフォーマンスの観点で書かれている。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-11-12T23:13:22.368Z",
+            "relatedLinks": []
         }
     ]
 }
