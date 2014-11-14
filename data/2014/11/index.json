@@ -503,6 +503,19 @@
             ],
             "date": "2014-11-13T14:56:27.481Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release 3.2 “Indivisibiliter ac Inseparabiliter” · postcss/autoprefixer",
+            "url": "https://github.com/postcss/autoprefixer/releases/tag/3.2.0",
+            "content": "Autoprefixer 3.2リリース。\nSourceMapがデフォルト有効に、`prev`でsourcemapを指定時にエラーが起きた時に元の行数を示せるように。\n不要なprefixの削除がデフォルト有効になるなど",
+            "tags": [
+                "CSS",
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2014-11-14T01:34:56.881Z",
+            "relatedLinks": []
         }
     ]
 }
