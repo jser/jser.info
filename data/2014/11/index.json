@@ -542,6 +542,19 @@
             ],
             "date": "2014-11-15T13:40:21.531Z",
             "relatedLinks": []
+        },
+        {
+            "title": "jasmine/2.1.0.md at master · pivotal/jasmine",
+            "url": "https://github.com/pivotal/jasmine/blob/master/release_notes/2.1.0.md",
+            "content": "Jasmine 2.1.0リリース。\n`fit`、`fdescribe`で指定したテストのみを実行出来るように、`beforeAll`、`afterAll`のサポート、`fail`のサポート、それぞれタイムアウトの時間指定のサポート等",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-11-15T16:56:31.081Z",
+            "relatedLinks": []
         }
     ]
 }
