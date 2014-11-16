@@ -615,6 +615,22 @@
             ],
             "date": "2014-11-16T11:11:07.955Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Simplifying Async Programs",
+            "url": "http://jlongster.com/s/nationjs-slides/#/",
+            "content": "js-CSPについてのスライド",
+            "tags": [
+                "JavaScript",
+                "スライド"
+            ],
+            "date": "2014-11-16T11:33:23.233Z",
+            "relatedLinks": [
+                {
+                    "title": "ubolonton/js-csp",
+                    "url": "https://github.com/ubolonton/js-csp"
+                }
+            ]
         }
     ]
 }
