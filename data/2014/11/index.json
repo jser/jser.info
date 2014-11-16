@@ -588,6 +588,18 @@
             ],
             "date": "2014-11-16T02:55:36.163Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Announcing ES6 and JSX Support - ESLint",
+            "url": "http://eslint.org/blog/2014/11/es6-jsx-support/",
+            "content": "ESLintではES6とJSXをサポートしたブランチ `es6jsx` が用意されて、masterとは別モジュールとしてインストールする事でES6のコードに対応する。\nJSXはオプションで有効化出来る。 \nまた、現時点ではES6ではスコープの表現力が変わったため正しく動作しないルールが存在している。\n年内にES6対応をリリース予定",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2014-11-16T09:02:41.708Z",
+            "relatedLinks": []
         }
     ]
 }
