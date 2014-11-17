@@ -514,7 +514,12 @@
                 "Tools"
             ],
             "date": "2014-11-14T01:51:25.824Z",
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "PostCSS v3の変更点 - Weblog - Hail2u.net",
+                    "url": "http://hail2u.net/blog/coding/postcss-v3.html"
+                }
+            ]
         },
         {
             "title": "interact.js for drag and drop, resizing and multi-touch gestures ✩ Mozilla Hacks – the Web developer blog",
@@ -635,7 +640,7 @@
         {
             "title": "Living on the Edge – our next step in helping the web just work - IEBlog - Site Home - MSDN Blogs",
             "url": "http://blogs.msdn.com/b/ie/archive/2014/11/11/living-on-the-edge-our-next-step-in-interoperability.aspx",
-            "content": "IE11の新しいプレビュー版が公開された。\n多くのES6の機能が入り、CSP1.0、CSS Interaction Media Queries、Gamepad API等が実装された。\nまたドキュメントモードの挙動もEdgeがデフォルトとなり、互換表示となる場合が限定された。",
+            "content": "IE 11の新しいプレビュー版が公開された。\n多くのES6の機能が入り、CSP1.0、CSS Interaction Media Queries、Gamepad API等が実装された。\nまたドキュメントモードの挙動もEdgeがデフォルトとなり、互換表示となる場合が限定された。",
             "tags": [
                 "IE",
                 "ECMAScript",
