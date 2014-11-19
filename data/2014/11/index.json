@@ -726,6 +726,19 @@
             ],
             "date": "2014-11-18T08:31:21.877Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Flow | A static type checker for JavaScript",
+            "url": "http://flowtype.org/",
+            "content": "Facebookの静的型チェックツール。\nOcamlで書かれていて、TypeScriptと大体互換性が型定義を行える。\nサーバとして動かす事もできる。HHVM/Hackみたいなインクリメンタルな型付けを行える",
+            "tags": [
+                "flowtype",
+                "facebook",
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2014-11-19T06:08:06.877Z",
+            "relatedLinks": []
         }
     ]
 }
