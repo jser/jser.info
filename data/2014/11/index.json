@@ -763,6 +763,23 @@
             ],
             "date": "2014-11-20T05:30:22.332Z",
             "relatedLinks": []
+        },
+        {
+            "title": "uxebu/mocha-sinon-traceur-example",
+            "url": "https://github.com/uxebu/mocha-sinon-traceur-example",
+            "content": "ES6でテストを書いてTDDするサンプルプロジェクト",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "testing"
+            ],
+            "date": "2014-11-20T09:18:19.971Z",
+            "relatedLinks": [
+                {
+                    "title": "ES6 and TDD at work, with traceur, mocha and sinon - uxebu",
+                    "url": "http://www.uxebu.com/blog/2014/11/es6-tdd-work-traceur-mocha-sinon/"
+                }
+            ]
         }
     ]
 }
