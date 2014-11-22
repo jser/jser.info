@@ -780,6 +780,17 @@
                     "url": "http://www.uxebu.com/blog/2014/11/es6-tdd-work-traceur-mocha-sinon/"
                 }
             ]
+        },
+        {
+            "title": "jas-/secStore.js",
+            "url": "https://github.com/jas-/secStore.js",
+            "content": "localStorage/sessionStorage/Cookieで暗号化をサポートするラッパーライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-11-22T04:29:31.941Z",
+            "relatedLinks": []
         }
     ]
 }
