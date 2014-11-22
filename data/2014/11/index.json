@@ -803,6 +803,19 @@
             ],
             "date": "2014-11-22T05:33:38.472Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Modern Debugging Experience: Part 2 - Tuts+ Code Tutorial",
+            "url": "http://code.tutsplus.com/tutorials/modern-debugging-experience-part-2--cms-22584",
+            "content": "開発者ツールを使ったデバッグ方法のTips。\ndebuggerステートメント、コールスタック、getter/setter/Object.observe等を使ったアクセス時にBreakさせる方法やWatch Expression、イベントリスナーのデバッグ等について書かれている",
+            "tags": [
+                "JavaScript",
+                "Chrome",
+                "debug",
+                "Tools"
+            ],
+            "date": "2014-11-22T07:11:46.714Z",
+            "relatedLinks": []
         }
     ]
 }
