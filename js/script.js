@@ -20,8 +20,7 @@ $(function () {
     });
     Handlebars.registerHelper('auto_format_md', function (text) {
         // autolinkTwitter 内でHTMLエスケープされているためHandlebarではしない
-        var linkedText = window.autolinkTwitter(text);
-        return linkedText.replace(/\n/g, "\n\n").trim();
+        return text.replace(/\n/g, "\n\n").trim();
     });
     Handlebars.registerHelper('format_tags', function (tags) {
         return tags.map(function (tag) {
