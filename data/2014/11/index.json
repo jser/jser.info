@@ -890,6 +890,18 @@
             ],
             "date": "2014-11-24T12:55:40.764Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Send beacon data in Chrome 39",
+            "url": "http://updates.html5rocks.com/2014/10/Send-beacon-data-in-Chrome-39",
+            "content": "Chrome 39でBeacon APIが入った。\nBeacon APIを使えばクリックしてページ移動するときのクリックのログも非同期でちゃんと送ることが出来る。(単純なXHRだと送り終わる前に遷移してしまう)",
+            "tags": [
+                "JavaScript",
+                "アクセス解析",
+                "Chrome"
+            ],
+            "date": "2014-11-24T13:57:50.685Z",
+            "relatedLinks": []
         }
     ]
 }
