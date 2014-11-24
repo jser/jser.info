@@ -906,7 +906,7 @@
         {
             "title": "Chromium Blog: Chrome 39 Beta: JS Generators, Animation Playback Control, and the WebApp Manifest",
             "url": "http://blog.chromium.org/2014/10/chrome-39-beta-js-generators-animation.html",
-            "content": "Chrome 39βリリース。\nGeneratorがデフォルト有効、Web Animationの`play()`や`pause()`のサポート、 Web Application Manifest、 Beacon API のサポート",
+            "content": "Chrome 39βリリース。\nGeneratorがデフォルトで有効、Web Animationの`play()`や`pause()`のサポート、 Web Application Manifest、 Beacon API のサポート",
             "tags": [
                 "Chrome",
                 "ReleaseNote"
@@ -938,6 +938,19 @@
                     "url": "http://blog.spoonx.nl/javascript-dependency-management/"
                 }
             ]
+        },
+        {
+            "title": "techlayer/espresso.js",
+            "url": "https://github.com/techlayer/espresso.js",
+            "content": "BackboneとReactをインスパイアしたMV*ライブラリ。\nFluxのデータフローを一方向にするアイデアをBackboneに持ってきた感じのライブラリ",
+            "tags": [
+                "JavaScript",
+                "library",
+                "backbone.js",
+                "Flux"
+            ],
+            "date": "2014-11-24T22:52:44.951Z",
+            "relatedLinks": []
         }
     ]
 }
