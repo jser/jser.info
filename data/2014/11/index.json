@@ -922,6 +922,22 @@
                     "url": "http://updates.html5rocks.com/2014/10/Send-beacon-data-in-Chrome-39"
                 }
             ]
+        },
+        {
+            "title": "SpoonX/useuses",
+            "url": "https://github.com/SpoonX/useuses",
+            "content": "`@uses`アノテーションコメントでそのJSファイルが依存するファイルパスを記述して使うモジュール管理ルール、ビルドツール\nconcatする程度にはシンプルで、CommonJSのような強い依存関係ではなく、単純にコメントを追加するだけなので余計にファイルは必要ない。",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2014-11-24T15:26:25.057Z",
+            "relatedLinks": [
+                {
+                    "title": "javascript dependency management « Php « SpoonX Blog",
+                    "url": "http://blog.spoonx.nl/javascript-dependency-management/"
+                }
+            ]
         }
     ]
 }
