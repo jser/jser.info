@@ -962,6 +962,18 @@
             ],
             "date": "2014-11-24T23:06:09.390Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Functional Programming",
+            "url": "http://scott.sauyet.com/Javascript/Talk/2014/01/FuncProgTalk/",
+            "content": "関数型プログラミングについてのスライド。\nオブジェクト指向との考え方の違い、DeclarativeとImperative、まだJSでは扱えない部分について(末尾最適化等)、具体的にOOPからFPへどう書き換えるかの例等",
+            "tags": [
+                "JavaScript",
+                "関数型プログラミング",
+                "スライド"
+            ],
+            "date": "2014-11-25T01:40:17.577Z",
+            "relatedLinks": []
         }
     ]
 }
