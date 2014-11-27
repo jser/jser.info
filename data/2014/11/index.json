@@ -1022,6 +1022,20 @@
             ],
             "date": "2014-11-26T13:51:57.543Z",
             "relatedLinks": []
+        },
+        {
+            "title": "krasimir/atomus",
+            "url": "https://github.com/krasimir/atomus",
+            "content": "Node.js環境でDOMを含めたクライアントサイドのコードをテストするライブラリ。\njsdomを使っていて、テストを実行する場所となるHTMLを渡して、クリックなどのイベントを起こしてテスト出来る",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "node.js",
+                "testing",
+                "library"
+            ],
+            "date": "2014-11-27T07:50:01.499Z",
+            "relatedLinks": []
         }
     ]
 }
