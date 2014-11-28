@@ -1051,7 +1051,7 @@
         {
             "title": "ESLint 0.10.0 released - ESLint",
             "url": "http://eslint.org/blog/2014/11/eslint-0.10.0-released/",
-            "content": "ESLint 0.10.0リリース。\nCLIがデフォルトでnode_modulesを無視するように、また拡張子のデフォルト値を設定出来るように、バグ修正等",
+            "content": "ESLint 0.10.0リリース。\nCLIがデフォルトでnode_modulesを無視するように、拡張子なしのファイル名のみの指定が可能になり、別途オプションとして拡張子のデフォルト値を設定出来るようになる等",
             "tags": [
                 "JavaScript",
                 "Tools",
