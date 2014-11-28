@@ -1047,6 +1047,18 @@
             ],
             "date": "2014-11-27T08:10:10.732Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ESLint 0.10.0 released - ESLint",
+            "url": "http://eslint.org/blog/2014/11/eslint-0.10.0-released/",
+            "content": "ESLint 0.10.0リリース。\nCLIがデフォルトでnode_modulesを無視するように、また拡張子のデフォルト値を設定出来るように、バグ修正等",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2014-11-28T01:47:28.867Z",
+            "relatedLinks": []
         }
     ]
 }
