@@ -1118,6 +1118,27 @@
             ],
             "date": "2014-11-30T06:40:03.350Z",
             "relatedLinks": []
+        },
+        {
+            "title": "decadecity/css-specificity-map",
+            "url": "https://github.com/decadecity/css-specificity-map",
+            "content": "CSSの詳細度グラフのデータを作るライブラリ",
+            "tags": [
+                "CSS",
+                "JavaScript",
+                "tools"
+            ],
+            "date": "2014-11-30T08:02:18.719Z",
+            "relatedLinks": [
+                {
+                    "title": "The Specificity Graph – CSS Wizardry – CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts",
+                    "url": "http://csswizardry.com/2014/10/the-specificity-graph/"
+                },
+                {
+                    "title": "CSS specificity graphs | Blog | Decade City",
+                    "url": "https://decadecity.net/blog/2014/11/26/css-specificity-graphs"
+                }
+            ]
         }
     ]
 }
