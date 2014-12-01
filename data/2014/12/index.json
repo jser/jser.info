@@ -10,6 +10,18 @@
             ],
             "date": "2014-12-01T02:12:15.077Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release 0.11.1 · yyx990803/vue",
+            "url": "https://github.com/yyx990803/vue/releases/tag/0.11.1",
+            "content": "vue.js 0.11.1リリース。\nv-componentのスコープの変更、`wait-for`属性で特定のeventがemitされるまで待てるように、`v-style`にdataとしてCSSオブジェクトを渡してスタイルを適応出来るようになるなど",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-12-01T03:18:19.704Z",
+            "relatedLinks": []
         }
     ]
 }
