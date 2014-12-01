@@ -34,6 +34,17 @@
             ],
             "date": "2014-12-01T12:01:41.747Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Goodbye, Layout Invalidation: Animating SVGs With CSS Transforms | Charlie Marsh",
+            "url": "http://www.princeton.edu/~crmarsh/svg-performance/",
+            "content": "動かすSVG要素を分けてCSS transform等を使ってGPUで処理が出来るようにチューニングすることで、60FPSが出るようにパフォーマンス改善をする話",
+            "tags": [
+                "SVG",
+                "performance"
+            ],
+            "date": "2014-12-01T12:13:39.539Z",
+            "relatedLinks": []
         }
     ]
 }
