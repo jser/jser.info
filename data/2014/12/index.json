@@ -116,6 +116,18 @@
                     "url": "https://hacks.mozilla.org/2014/09/webide-storage-inspector-jquery-events-iframe-switcher-more-firefox-developer-tools-episode-34/"
                 }
             ]
+        },
+        {
+            "title": "Moving from PhantomJS to node-webkit - Todd Wolfson",
+            "url": "http://twolfson.com/2014-11-22-moving-from-phantomjs-to-node-webkit",
+            "content": "node-webklitを使いスクリーンショットを取って画像diffのレグレッションテストを行う話。",
+            "tags": [
+                "browser",
+                "node-webkit",
+                "testing"
+            ],
+            "date": "2014-12-03T14:38:00.189Z",
+            "relatedLinks": []
         }
     ]
 }
