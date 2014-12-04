@@ -202,6 +202,28 @@
                     "url": "https://github.com/jquery/globalize/"
                 }
             ]
+        },
+        {
+            "title": "qunit/History.md at 1.16.0 · jquery/qunit",
+            "url": "https://github.com/jquery/qunit/blob/1.16.0/History.md",
+            "content": "QUnit 1.16.0リリース。\n`done()`呼び出しでの非同期テストを行う`assert.async`の追加、Promiseのサポート、setup/teardownをbeforeEach/afterEachにリネーム、HTML Reporterの改善等",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-12-04T14:32:37.103Z",
+            "relatedLinks": [
+                {
+                    "title": "async() | QUnit API Documentation",
+                    "url": "http://api.qunitjs.com/async/"
+                },
+                {
+                    "title": "Async: Make tests Promise-aware by JamesMGreene · Pull Request #634 · jquery/qunit",
+                    "url": "https://github.com/jquery/qunit/pull/634"
+                }
+            ]
         }
     ]
 }
