@@ -295,7 +295,7 @@
         {
             "title": "Introduction to Service Worker: How to use Service Worker - HTML5 Rocks",
             "url": "http://www.html5rocks.com/en/tutorials/service-worker/introduction/",
-            "content": "Service Workerのライフサイクル、Service Workerにスクリプトの登録方法や基本的な使い方、どうやってスクリプトを更新するか、注意点について",
+            "content": "Service Workerのライフサイクル、Service Workerへのスクリプトの登録方法や基本的な使い方、どうやってキャッシュを更新するか、注意点について",
             "tags": [
                 "JavaScript",
                 "tutorial"
