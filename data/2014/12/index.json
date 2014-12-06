@@ -228,6 +228,23 @@
                     "url": "http://qunitjs.com/upgrade-guide-2.x/"
                 }
             ]
+        },
+        {
+            "title": "QUnit 2.xで変わること",
+            "url": "http://azu.github.io/slide/chatwork/qunit2.html",
+            "content": "QUnit 2.xでの変更点についてのスライド。\nモジュール化、`done`スタイルの非同期テストサポート、スマートなPromiseテストサポート、レポーターの標準化活動など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "スライド"
+            ],
+            "date": "2014-12-06T06:23:56.343Z",
+            "relatedLinks": [
+                {
+                    "title": "QUnit 2.x Upgrade Guide | QUnit",
+                    "url": "http://qunitjs.com/upgrade-guide-2.x/"
+                }
+            ]
         }
     ]
 }
