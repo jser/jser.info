@@ -365,6 +365,16 @@
             ],
             "date": "2014-12-07T12:43:43.692Z",
             "relatedLinks": []
+        },
+        {
+            "title": "webpackを使い倒す - Thujikun blog",
+            "url": "http://thujikun.github.io/blog/2014/12/07/webpack",
+            "content": "webpackのloader紹介、`resolve`フィールドの指定による`require`のパス解決、pluginsの紹介、Webpack Deb Server、非同期読み込みについて",
+            "tags": [
+                "webpack"
+            ],
+            "date": "2014-12-07T14:28:56.016Z",
+            "relatedLinks": []
         }
     ]
 }
