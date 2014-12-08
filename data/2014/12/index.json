@@ -404,6 +404,22 @@
                     "url": "http://nmi.jp/archives/582"
                 }
             ]
+        },
+        {
+            "title": "rejs – Vanilla JS Module Builderの紹介 | GREE Engineers' Blog",
+            "url": "http://labs.gree.jp/blog/2014/12/12311/",
+            "content": "名前空間オブジェクトを使うJavaScriptファイルを、名前空間のプロパティにアクセスできるようにソートして結合出来るコマンドラインツール",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2014-12-08T10:38:18.541Z",
+            "relatedLinks": [
+                {
+                    "title": "Moncader/rejs",
+                    "url": "https://github.com/Moncader/rejs"
+                }
+            ]
         }
     ]
 }
