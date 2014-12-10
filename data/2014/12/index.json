@@ -490,6 +490,24 @@
                     "url": "http://emberjs.com/guides/deprecations/"
                 }
             ]
+        },
+        {
+            "title": "Release 3.5 “Mount Sharp” · mbostock/d3",
+            "url": "https://github.com/mbostock/d3/releases/tag/v3.5.0",
+            "content": "D3.js 3.5リリース",
+            "tags": [
+                "JavaScript",
+                "SVG",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-12-10T14:12:05.951Z",
+            "relatedLinks": [
+                {
+                    "title": "D3 バージョン 3.5 がリリースされました。 | Daily D3",
+                    "url": "http://daily.d3js.info/?p=775"
+                }
+            ]
         }
     ]
 }
