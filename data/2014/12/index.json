@@ -473,6 +473,23 @@
             ],
             "date": "2014-12-10T01:53:38.918Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Ember.js - Ember.js 1.9.0 and 1.10 Beta Released",
+            "url": "http://emberjs.com/blog/2014/12/08/ember-1-9-0-released.html",
+            "content": "Ember.js 1.9.0と1.10βリリース。\nEmber 2.0に向けて1.9では非推奨となった機能があることについて書かれている。\nHandlebars 2.0へのアップデート、streams observationパターンの導入等",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2014-12-10T08:25:27.002Z",
+            "relatedLinks": [
+                {
+                    "title": "Ember.js - Deprecations: Deprecations",
+                    "url": "http://emberjs.com/guides/deprecations/"
+                }
+            ]
         }
     ]
 }
