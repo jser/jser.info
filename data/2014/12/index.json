@@ -442,6 +442,22 @@
             ],
             "date": "2014-12-09T05:40:31.121Z",
             "relatedLinks": []
+        },
+        {
+            "title": "harmony:specification_drafts [ES Wiki]",
+            "url": "http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#december_6_2014_draft_rev_29",
+            "content": "ECMAscript 6 Draft Rev 29リリース。\n`RegExp.prototype.flags`の追加、WeakMap/WeakSetから`clear`メソッドの削除、`String.prototype.contains`が`includes`にリネーム",
+            "tags": [
+                "ECMAScript",
+                "ReleaseNote"
+            ],
+            "date": "2014-12-10T01:33:17.272Z",
+            "relatedLinks": [
+                {
+                    "title": "TC39 MTG Notes 第43回 報告会",
+                    "url": "http://azu.github.io/slide/chatwork/tc39-mtg-notes.html"
+                }
+            ]
         }
     ]
 }
