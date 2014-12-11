@@ -508,6 +508,17 @@
                     "url": "http://daily.d3js.info/?p=775"
                 }
             ]
+        },
+        {
+            "title": "On Third-Party JavaScript - In Production Case-Study",
+            "url": "http://blog.risingstack.com/on-third-party-javascript-in-production/",
+            "content": "サードパーティJavaScriptのケーススタディから学べる事について。\nMixpanel、Disqusからサイズやキャッシュ、どういう初期化経路を踏むかなどについて書かれている",
+            "tags": [
+                "JavaScript",
+                "セキュリティ"
+            ],
+            "date": "2014-12-11T01:13:58.187Z",
+            "relatedLinks": []
         }
     ]
 }
