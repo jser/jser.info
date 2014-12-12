@@ -579,6 +579,16 @@
             ],
             "date": "2014-12-12T09:26:07.420Z",
             "relatedLinks": []
+        },
+        {
+            "title": "How to Use npm as a Build Tool",
+            "url": "http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/",
+            "content": "npm run-scriptをビルドツールとして使う話\nクロスプラットフォーム向けにrmの代わりにrimrafモジュールを使ったり、タスクのグループ化やhookについて書かれている。",
+            "tags": [
+                "npm"
+            ],
+            "date": "2014-12-12T09:32:06.198Z",
+            "relatedLinks": []
         }
     ]
 }
