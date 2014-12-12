@@ -589,6 +589,18 @@
             ],
             "date": "2014-12-12T09:32:06.198Z",
             "relatedLinks": []
+        },
+        {
+            "title": "[JavaScript Advent Calendar 2014 No.6] navigator.onLine in Blink",
+            "url": "http://blog.oimou.com/javascript-advent-calendar-2014-6ri-mu-navigator-onlinemaniatukusu2589ed73/",
+            "content": "navigator.onLineがどのように実装されているかをBlink/Chromeのソースコードから追っていく話。\nブラウザのソースコードを見ていく方法について実例での参考になりそう",
+            "tags": [
+                "Chrome",
+                "blink",
+                "コードリーディング"
+            ],
+            "date": "2014-12-12T09:33:47.348Z",
+            "relatedLinks": []
         }
     ]
 }
