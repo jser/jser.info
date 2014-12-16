@@ -670,6 +670,17 @@
             ],
             "date": "2014-12-15T07:40:49.493Z",
             "relatedLinks": []
+        },
+        {
+            "title": "decimal.js API",
+            "url": "http://mikemcl.github.io/decimal.js/",
+            "content": "Decimalを扱うライブラリ。\n小数点同士の演算、丸め込みの挙動の指定等、フォーマットを指定しての出力等が出来る",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2014-12-16T07:46:02.514Z",
+            "relatedLinks": []
         }
     ]
 }
