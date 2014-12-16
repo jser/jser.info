@@ -691,6 +691,24 @@
             ],
             "date": "2014-12-16T08:09:09.172Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Meta programming with ECMAScript 6 proxies",
+            "url": "http://www.2ality.com/2014/12/es6-proxies.html",
+            "content": "ES6のProxyについて詳しい解説。\nメタプログラミングとは何か、Proxyはどのように動くのか、ユースケース、Proxyかどうかの判定方法、PropertyDescriptorとあわせた場合の挙動、Reflect APIについて",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "リファレンス",
+                "まとめ"
+            ],
+            "date": "2014-12-16T11:16:24.257Z",
+            "relatedLinks": [
+                {
+                    "title": "ECMAScript 6 proxyによるメタプログラミング(1/11) | JSお散歩",
+                    "url": "http://panda.node.ws/?p=1371"
+                }
+            ]
         }
     ]
 }
