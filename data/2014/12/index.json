@@ -841,6 +841,18 @@
             ],
             "date": "2014-12-18T11:41:38.905Z",
             "relatedLinks": []
+        },
+        {
+            "title": "JavaScript - こわくない Protractor - Qiita",
+            "url": "http://qiita.com/shuhei/items/6973fe694d29a193f224",
+            "content": "ProtractorというE2Eテストツールの仕組みについての解説。\nelement() は DOM 要素を選択してる訳ではない、ブラウザの操作をするメソッドはPromiseを返している、書いた順番で実行されるようになっている点などどのような仕組みで動いているかについてまとめられている",
+            "tags": [
+                "protractor",
+                "E2E",
+                "testing"
+            ],
+            "date": "2014-12-18T11:52:25.310Z",
+            "relatedLinks": []
         }
     ]
 }
