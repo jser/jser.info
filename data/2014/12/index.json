@@ -813,6 +813,22 @@
             ],
             "date": "2014-12-18T07:32:32.682Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Node v0.10.34 (Stable)",
+            "url": "http://blog.nodejs.org/2014/12/17/node-v0-10-34-stable",
+            "content": "Node v0.10.34 リリース。\nv0.11.15がv0.12RCとなるので、次のStableで0.12がリリースされる予定",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "date": "2014-12-18T07:36:58.314Z",
+            "relatedLinks": [
+                {
+                    "title": "node js on Twitter: \"Node v0.10.34 (Stable) http://t.co/VimTZXc1VK tomorrow is v0.11.15 (the release candidate for v0.12)\"",
+                    "url": "https://twitter.com/nodejs/status/545349270241435648"
+                }
+            ]
         }
     ]
 }
