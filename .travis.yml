@@ -3,3 +3,5 @@ language: node_js
 branches:
   only:
     - gh-pages
+notifications:
+  slack: azu:N5eERwlEf0Wpj4UAUHVAhCGe
