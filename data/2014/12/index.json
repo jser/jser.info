@@ -904,6 +904,17 @@
                     "url": "https://github.com/hail2u/html-best-practices"
                 }
             ]
+        },
+        {
+            "title": "domenic/html-as-custom-elements",
+            "url": "https://github.com/domenic/html-as-custom-elements",
+            "content": "HTML要素をCustom Elementで実装し直すプロジェクト。",
+            "tags": [
+                "HTML",
+                "WebComponents"
+            ],
+            "date": "2014-12-22T10:28:28.063Z",
+            "relatedLinks": []
         }
     ]
 }
