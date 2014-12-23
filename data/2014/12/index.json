@@ -940,6 +940,17 @@
             ],
             "date": "2014-12-23T07:06:07.944Z",
             "relatedLinks": []
+        },
+        {
+            "title": "foss-haas/fynx",
+            "url": "https://github.com/foss-haas/fynx",
+            "content": "Fluxアーキテクチャ的な実装ライブラリ。\nAjax的な操作を行うServicesという場所を明示的に用意している。\n",
+            "tags": [
+                "Flux",
+                "library"
+            ],
+            "date": "2014-12-23T07:08:11.085Z",
+            "relatedLinks": []
         }
     ]
 }
