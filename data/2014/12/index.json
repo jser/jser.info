@@ -1086,6 +1086,23 @@
             ],
             "date": "2014-12-26T06:17:02.540Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Flux react現状確認会",
+            "url": "http://www.slideshare.net/VOYAGE_GROUP/flux-react",
+            "content": "FluxとReactについてのスライド。\nアーキテクチャ = オブザーバパターン、データの一方通行性、メリット・デメリット、ViewライブラリとしてReactを選んだ理由について。\n実際にFlux的にやっての本家との違いについて",
+            "tags": [
+                "React",
+                "Flux",
+                "スライド"
+            ],
+            "date": "2014-12-26T08:23:49.198Z",
+            "relatedLinks": [
+                {
+                    "title": "Fluxとはなんだったのか + misc at 2014 - snyk_s log",
+                    "url": "http://saneyukis.hatenablog.com/entry/2014/12/24/014421"
+                }
+            ]
         }
     ]
 }
