@@ -1151,6 +1151,18 @@
                     "url": "https://github.com/6to5/6to5/issues/341"
                 }
             ]
+        },
+        {
+            "title": "jsdom/Changelog.md at 2.0.0 · tmpvar/jsdom",
+            "url": "https://github.com/tmpvar/jsdom/blob/2.0.0/Changelog.md",
+            "content": "jsdom 2.0.0リリース。\nリファクタリング、内部構造が大きく変えていくリリース。\n`levels`という概念を捨ててliving standart modelに従う用に。\n非標準なAPIを標準化されたものへ変更など",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library"
+            ],
+            "date": "2014-12-29T05:09:15.443Z",
+            "relatedLinks": []
         }
     ]
 }
