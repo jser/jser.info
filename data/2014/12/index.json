@@ -1163,6 +1163,16 @@
             ],
             "date": "2014-12-29T05:09:15.443Z",
             "relatedLinks": []
+        },
+        {
+            "title": "HTMLBars - A Feature-by-Feature Review | colintoh.com",
+            "url": "http://colintoh.com/blog/htmlbars",
+            "content": "Emberが採用するHTMLBarsについて。\n以前のEmberのレンダリング\nテンプレート -> AST -> HTML String -> DOM\nというフローだった。\nHTMLBarsでは\nテンプレート -> JS関数 -> DOM\nというフローとなった理由や仕組みについて。",
+            "tags": [
+                "JavaScript"
+            ],
+            "date": "2014-12-29T12:59:03.221Z",
+            "relatedLinks": []
         }
     ]
 }
