@@ -1173,6 +1173,17 @@
             ],
             "date": "2014-12-29T12:59:03.221Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Symbols in ECMAScript 6",
+            "url": "http://www.2ality.com/2014/12/es6-symbols.html",
+            "content": "ES6のSymbolsについて。\nSymbolの使い方、const Symbol()でのユニーク値としての利用、WeakMapと合わせてのプライベート値、メタ値との利用、iframe、なぜ文字列じゃなくてSymbolなのかについて",
+            "tags": [
+                "ECMAScript",
+                "JavaScript"
+            ],
+            "date": "2014-12-29T15:12:17.283Z",
+            "relatedLinks": []
         }
     ]
 }
