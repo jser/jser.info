@@ -1228,6 +1228,18 @@
                     "url": "http://www.smashingmagazine.com/2014/09/08/improving-smashing-magazine-performance-case-study/"
                 }
             ]
+        },
+        {
+            "title": "Functional Reactive Programming with the Power of Node.js Streams",
+            "url": "http://blog.risingstack.com/functional-reactive-programming-with-the-power-of-nodejs-streams/",
+            "content": "NodeのStreamとFRPの導入的な記事。\nリアクティブプログラミングはどのようなケースで有用なのか、FRPのライブラリとしてRxJSやBacon等が既にある。\nまたNodeのStreamとの互換性を高めたHighland.jsというライブラリの紹介記事",
+            "tags": [
+                "node.js",
+                "stream",
+                "関数型プログラミング"
+            ],
+            "date": "2014-12-30T13:23:18.297Z",
+            "relatedLinks": []
         }
     ]
 }
