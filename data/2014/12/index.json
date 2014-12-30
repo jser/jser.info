@@ -1240,6 +1240,22 @@
             ],
             "date": "2014-12-30T13:23:18.297Z",
             "relatedLinks": []
+        },
+        {
+            "title": "The state of the Web Notifications API - Aurelio De Rosa blog",
+            "url": "http://aurelio.audero.it/blog/2014/10/18/state-web-notifications-api/",
+            "content": "Web Notifications APIの`events`周りの仕様がW3CとWHATWGで異なるが、それぞれのブラウザの実装はどうなっているかについて。\n",
+            "tags": [
+                "JavaScript",
+                "WebPlatformAPI"
+            ],
+            "date": "2014-12-30T13:38:51.131Z",
+            "relatedLinks": [
+                {
+                    "title": "W3C vs. WhatWG HTML5 Specs - Differences Documented -Telerik Developer Network",
+                    "url": "http://developer.telerik.com/featured/w3c-vs-whatwg-html5-specs-differences-documented/"
+                }
+            ]
         }
     ]
 }
