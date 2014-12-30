@@ -1211,6 +1211,23 @@
             ],
             "date": "2014-12-30T07:41:58.627Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Smashing Magazineのパフォーマンス改善ケースが凄まじい件 — MOL",
+            "url": "http://t32k.me/mol/log/style-class-conference/",
+            "content": "Smashing Magazineのパフォーマンス改善について。\nCritical Rendering Pathの最適化、パフォーマンス改善の指標をSpeed Index <= 1000としている点について等",
+            "tags": [
+                "JavaScript",
+                "CSS",
+                "performance"
+            ],
+            "date": "2014-12-30T12:41:58.578Z",
+            "relatedLinks": [
+                {
+                    "title": "Improving Smashing Magazine's Performance: A Case Study - Smashing Magazine",
+                    "url": "http://www.smashingmagazine.com/2014/09/08/improving-smashing-magazine-performance-case-study/"
+                }
+            ]
         }
     ]
 }
