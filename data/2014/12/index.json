@@ -1197,6 +1197,20 @@
             ],
             "date": "2014-12-30T02:42:04.821Z",
             "relatedLinks": []
+        },
+        {
+            "title": "azu/textlint",
+            "url": "https://github.com/azu/textlint",
+            "content": "テキストやMarkdownをLintするツール。\nESLintのようにルールをJavaScriptで書いて拡張出来る。",
+            "tags": [
+                "JavaScript",
+                "Markdown",
+                "Tools",
+                "library",
+                "node.js"
+            ],
+            "date": "2014-12-30T07:41:58.627Z",
+            "relatedLinks": []
         }
     ]
 }
