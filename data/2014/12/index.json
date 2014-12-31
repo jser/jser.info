@@ -1274,6 +1274,19 @@
             ],
             "date": "2014-12-30T13:48:20.224Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ESLint 0.11.0 released - ESLint",
+            "url": "http://eslint.org/blog/2014/12/eslint-0.11.0-released/",
+            "content": "ESLint 0.11.0リリース。\nJavaScriptパーサがesprimaからEspreeへと変更された。\nまたES5がデフォルトとなり、ES3のコードとしてLintしたい場合はオプションを変更する必要がある",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2014-12-31T01:32:47.511Z",
+            "relatedLinks": []
         }
     ]
 }
