@@ -54,6 +54,18 @@
             ],
             "date": "2015-01-02T12:40:12.264Z",
             "relatedLinks": []
+        },
+        {
+            "title": "KeyboardEvent.keyを利用する前に知っておくべき事 - WebStudio",
+            "url": "http://www.d-toybox.com/studio/weblog/show.php?mode=single;id=2015010100",
+            "content": "DOM 3 KeyEventについて。 \nKeyboardEvent.keyCodeの問題点、\nKeyboardEvent.keyは入力される文字となり直感的、KeyboardEvent.codeはキー自体を示す、クロスブラウザでのキーイベント対応について",
+            "tags": [
+                "DOM",
+                "event",
+                "キーボード"
+            ],
+            "date": "2015-01-02T13:12:35.503Z",
+            "relatedLinks": []
         }
     ]
 }
