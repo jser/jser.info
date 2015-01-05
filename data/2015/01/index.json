@@ -113,6 +113,22 @@
             ],
             "date": "2015-01-05T01:16:41.466Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Advanced unit testing tools for Node.js",
+            "url": "http://blog.wercker.com/2014/12/23/Testing-in-Node.html",
+            "content": "TAP形式とtapeを使ってのNodeのテストについて。\nproxyquireを使ってのStubなど",
+            "tags": [
+                "JavaScript",
+                "testing"
+            ],
+            "date": "2015-01-05T07:30:26.140Z",
+            "relatedLinks": [
+                {
+                    "title": "thlorenz/proxyquire",
+                    "url": "https://github.com/thlorenz/proxyquire"
+                }
+            ]
         }
     ]
 }
