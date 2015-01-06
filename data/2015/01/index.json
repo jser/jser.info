@@ -177,6 +177,19 @@
             ],
             "date": "2015-01-06T02:14:47.704Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ECMAScript 6: maps and sets",
+            "url": "http://www.2ality.com/2015/01/es6-maps-sets.html",
+            "content": "Map, WeakMap, Set, WeakSetの挙動についての解説。\nそれぞれのAPIの解説、WeakMapを使ったプライベートデータ, spread operatorとあわせた使い方等について",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "まとめ",
+                "tutorial"
+            ],
+            "date": "2015-01-06T02:20:02.295Z",
+            "relatedLinks": []
         }
     ]
 }
