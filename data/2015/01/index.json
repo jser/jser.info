@@ -190,6 +190,26 @@
             ],
             "date": "2015-01-06T02:20:02.295Z",
             "relatedLinks": []
+        },
+        {
+            "title": "browserify for webpack users",
+            "url": "https://gist.github.com/substack/68f8d502be42d5cd4942",
+            "content": "Browserifyとwebpackのそれぞれの機能対応について。\nwebpackは多くの機能が同梱されているため、その機能に対応するBrowserify pluginの紹介や設計思想の違い等について\n",
+            "tags": [
+                "browserify",
+                "webpack"
+            ],
+            "date": "2015-01-06T02:33:38.768Z",
+            "relatedLinks": [
+                {
+                    "title": "webpack for browserify users",
+                    "url": "http://webpack.github.io/docs/webpack-for-browserify-users.html"
+                },
+                {
+                    "title": "substack/browserify-handbook",
+                    "url": "https://github.com/substack/browserify-handbook"
+                }
+            ]
         }
     ]
 }
