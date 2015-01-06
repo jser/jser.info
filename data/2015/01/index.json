@@ -250,6 +250,18 @@
                     "url": "http://typescript.ninja/2015/01/01/typescript-in-definitelyland.html"
                 }
             ]
+        },
+        {
+            "title": "The jsdom",
+            "url": "http://www.slideshare.net/domenicdenicola/the-jsdom",
+            "content": "jsdomの実装、将来についてのスライド。\n今のjsdomだと動かない機能もある。\nまたWebIDLから実装に落としていくツールについて",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "スライド"
+            ],
+            "date": "2015-01-06T13:14:15.426Z",
+            "relatedLinks": []
         }
     ]
 }
