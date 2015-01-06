@@ -210,6 +210,17 @@
                     "url": "https://github.com/substack/browserify-handbook"
                 }
             ]
+        },
+        {
+            "title": "bearcat",
+            "url": "http://bearcatjs.org/",
+            "content": "モジュール定義部分をbearcatの書き方にすることで、DI、非同期ロード、AOPに対応出来るライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-01-06T02:59:32.875Z",
+            "relatedLinks": []
         }
     ]
 }
