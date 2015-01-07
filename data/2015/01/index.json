@@ -262,6 +262,24 @@
             ],
             "date": "2015-01-06T13:14:15.426Z",
             "relatedLinks": []
+        },
+        {
+            "title": "JavaScript in 2015 - Glen Maddern: Internet Pro",
+            "url": "http://glenmaddern.com/articles/javascript-in-2015",
+            "content": "jspmの紹介記事+動画。\nredditのAPIを使いGIFを表示する画面をjspm+npm+ES6をつかって書く動画。\nテンポ良くできていて、開発中はビルド等不要でローダで読み込み、プロダクションでは一つのファイルbundle出来るという特徴を紹介してる",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "Tools",
+                "動画"
+            ],
+            "date": "2015-01-07T12:45:05.253Z",
+            "relatedLinks": [
+                {
+                    "title": "jspm.io - Frictionless Browser Package Management",
+                    "url": "http://jspm.io/"
+                }
+            ]
         }
     ]
 }
