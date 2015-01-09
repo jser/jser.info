@@ -32,7 +32,7 @@ function lint(filePath) {
     var list = json.list;
     var results = list.map(function (item) {
         var content = item.content;
-        return textlint.lintText(content);
+        return textlint.lintMarkdown(content);
     });
     results.forEach(function (result, index) {
         if (!hasError(result)) {
