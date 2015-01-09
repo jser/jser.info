@@ -338,6 +338,18 @@
             ],
             "date": "2015-01-08T13:47:15.329Z",
             "relatedLinks": []
+        },
+        {
+            "title": "6to5 · Turn ES6+ code into readable vanilla ES5",
+            "url": "https://6to5.org/",
+            "content": "包含的にES6のコードをES5に変換する6to5の公式サイトリニューアル。\n JSXやFlowとか多くの部分を対応、polyfill出来るところは外部のpolyfillを読み込み対応、可読性が高いコードを吐くようになっている。",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2015-01-09T01:13:49.244Z",
+            "relatedLinks": []
         }
     ]
 }
