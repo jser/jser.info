@@ -414,6 +414,20 @@
             ],
             "date": "2015-01-09T08:12:32.059Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ライブラリをES6で書いて公開する所から始めよう | Web Scratch",
+            "url": "http://efcl.info/2015/01/09/write-es6/",
+            "content": "ES6でライブラリを書いて、テストしてnpmに公開するまでの流れ。\n6to5+power-assert+mochaを組み合わせを設定ファイルレスで行う話",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "library",
+                "testing",
+                "document"
+            ],
+            "date": "2015-01-09T15:02:23.916Z",
+            "relatedLinks": []
         }
     ]
 }
