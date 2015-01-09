@@ -18,13 +18,14 @@
   "bugs": {
     "url": "https://github.com/jser/jser.info/issues"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "jsonlint": "~1.6.0",
     "JSV": "~4.0.2",
-    "cheerio": "~0.13.1",
-    "q-io": "~1.10.9",
-    "bluebird": "~1.0.5"
+    "bluebird": "^2.6.2",
+    "cheerio": "^0.18.0",
+    "jsonlint": "~1.6.0",
+    "q-io": "^1.11.6",
+    "spellcheck-tech-word-textlint-rule": "^2.0.1",
+    "textlint": "^1.4.3"
   }
 }
