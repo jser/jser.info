@@ -24,7 +24,7 @@ function lintJSON(source) {
         var env = JSV.createEnvironment("json-schema-draft-03");
         var schema = JSON.parse(fs.readFileSync(schemaPath, "utf8"));
         var report = env.validate(parsed, schema);
-        if (report.errors.length) {
+        if (report.errors.length > 0) {
             throw report.errors.reduce(schemaError, 'Validation Errors:');
         }
         return JSON.stringify(parsed, null, 4);
@@ -46,7 +46,7 @@ function getJSONFiles(rootDir, mainCallback) {
             }
         });
         return walk.results;
-    }
+    };
 
     function getJSONFileInDir(error, targetDirs, callback) {
         var jsonFiles = [];
@@ -78,8 +78,8 @@ function getJSONFiles(rootDir, mainCallback) {
                 var fileName = path.basename(file);
                 return /\d{4}/.test(fileName);
             }).map(function (dir) {
-                    return path.resolve(rootDir, dir);
-                });
+                return path.resolve(rootDir, dir);
+            });
             getJSONFileInDir(null, filteredDir, callback);
         });
     }

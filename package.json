@@ -4,7 +4,7 @@
   "description": "JSer.info repogitory.",
   "main": "index.js",
   "scripts": {
-    "test": "node tests/validate-json.js"
+    "test": "node tests/validate-json.js && node tests/data-test.js"
   },
   "repository": {
     "type": "git",
@@ -23,9 +23,11 @@
     "JSV": "~4.0.2",
     "bluebird": "^2.6.2",
     "cheerio": "^0.18.0",
+    "format-text": "0.0.3",
     "jsonlint": "~1.6.0",
     "q-io": "^1.11.6",
     "spellcheck-tech-word-textlint-rule": "^2.0.1",
+    "style-format": "0.0.0",
     "textlint": "^1.4.3"
   }
 }
