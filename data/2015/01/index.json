@@ -145,7 +145,7 @@
         {
             "title": "ES6 Generatorを使ってasync/awaitを実装するメモ - maru source",
             "url": "http://blog.h13i32maru.jp/entry/2015/01/02/225457",
-            "content": "ES6 GeneratorとPromiseを使ってcoライクな実装をするまでをステップ・バイ・ステップで",
+            "content": "ES6 GeneratorとPromiseを使ってcoライクな実装をするまでをStep by Stepで",
             "tags": [
                 "JavaScript",
                 "Promises",
@@ -157,7 +157,7 @@
         {
             "title": "Multi-User Video Conference with WebRTC – Minko Gechev's blog",
             "url": "http://blog.mgechev.com/2014/12/26/multi-user-video-conference-webrtc-angularjs-yeoman",
-            "content": "AngularJS+WebRTC+socket.ioを使ってビデオチャットを作るチュートリアル。\nyeomanのジェネレータを使ってAngularのコードベースを生成してる",
+            "content": "AngularJS+WebRTC+Socket.IOを使ってビデオチャットを作るチュートリアル。\nyeomanのジェネレータを使ってAngularのコードベースを生成してる",
             "tags": [
                 "JavaScript",
                 "WebRTC",
@@ -331,7 +331,7 @@
         {
             "title": "bevacqua/local-storage",
             "url": "https://github.com/bevacqua/local-storage",
-            "content": "localStorageのAPIをシンプルにしたライブラリ",
+            "content": "localStorageのAPIをシンプルにしたライブラリ\nタブ間のコミュニケーションに使うような監視機能も持ってる",
             "tags": [
                 "JavaScript",
                 "library"
