@@ -374,6 +374,21 @@
             ],
             "date": "2015-01-09T01:24:05.745Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Cross-tab Communication",
+            "url": "http://ponyfoo.com/articles/cross-tab-communication",
+            "content": "localStorageを使ったタブ間のやり取りする方法。\nより簡単に行う`local-storage`というライブラリについて",
+            "tags": [
+                "JavaScript"
+            ],
+            "date": "2015-01-09T01:31:31.478Z",
+            "relatedLinks": [
+                {
+                    "title": "bevacqua/local-storage",
+                    "url": "https://github.com/bevacqua/local-storage"
+                }
+            ]
         }
     ]
 }
