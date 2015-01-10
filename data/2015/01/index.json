@@ -439,6 +439,18 @@
             ],
             "date": "2015-01-09T15:49:46.822Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Headless Browser Testing With Xvfb",
+            "url": "http://tobyho.com/2015/01/09/headless-browser-testing-xvfb/",
+            "content": "Firefoxなどヘッドレスで動かすのにXvfbが必要なアプリをxvfb-run firefoxという感じで起動できるコマンドラインツール",
+            "tags": [
+                "console",
+                "firefox",
+                "browser"
+            ],
+            "date": "2015-01-10T00:27:03.305Z",
+            "relatedLinks": []
         }
     ]
 }
