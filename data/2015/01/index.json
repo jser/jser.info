@@ -451,6 +451,27 @@
             ],
             "date": "2015-01-10T00:27:03.305Z",
             "relatedLinks": []
+        },
+        {
+            "title": "The Refactoring Tales -",
+            "url": "http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html",
+            "content": "JavaScriptのリファクタリングについてのウェブで公開されてる書籍。(まだ執筆中)\n1,2章はjQueryべったりな書き方のリファクタリング、3章は不必要な複雑性を分離、4章はデザインパターン、5章はFat Controller等",
+            "tags": [
+                "JavaScript",
+                "book",
+                "jQuery"
+            ],
+            "date": "2015-01-11T10:12:32.713Z",
+            "relatedLinks": [
+                {
+                    "title": "The Refactoring Tales",
+                    "url": "http://javascriptplayground.com/the-refactoring-tales/"
+                },
+                {
+                    "title": "The Refactoring Tales - JavaScriptのリファクタリング本を読んだ | Web Scratch",
+                    "url": "http://efcl.info/2015/01/11/refactoring-tales/"
+                }
+            ]
         }
     ]
 }
