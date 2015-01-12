@@ -472,6 +472,18 @@
                     "url": "http://efcl.info/2015/01/11/refactoring-tales/"
                 }
             ]
+        },
+        {
+            "title": "Shape Security Labs: A Technical Comparison of the Shift and SpiderMonkey AST Formats",
+            "url": "http://engineering.shapesecurity.com/2015/01/a-technical-comparison-of-shift-and.html",
+            "content": "Shift ASTとSpiderMonkey ASTの違いについて。\n改善点、拡張された点、まだ議論すべき点について",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "spec"
+            ],
+            "date": "2015-01-12T14:06:35.555Z",
+            "relatedLinks": []
         }
     ]
 }
