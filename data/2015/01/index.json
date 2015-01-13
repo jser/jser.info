@@ -495,6 +495,28 @@
             ],
             "date": "2015-01-13T01:10:21.597Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Modularizing Underscore.js | &yet Blog",
+            "url": "http://blog.andyet.com/2015/01/07/modularizing-underscorejs",
+            "content": "小さいモジュールを大量に作って公開する場合にも問題となる点がある事について。\nAmp.jsという小さなモジュールの組み合わせでUnderscoreライクなものを作り、それぞれのモジュールがどのような構造になっているかについて",
+            "tags": [
+                "JavaScript",
+                "npm",
+                "document",
+                "library"
+            ],
+            "date": "2015-01-13T11:08:52.268Z",
+            "relatedLinks": [
+                {
+                    "title": "Amp.js",
+                    "url": "http://amp.ampersandjs.com/"
+                },
+                {
+                    "title": "HenrikJoreteg/fixpack",
+                    "url": "https://github.com/henrikjoreteg/fixpack"
+                }
+            ]
         }
     ]
 }
