@@ -517,6 +517,22 @@
                     "url": "https://github.com/henrikjoreteg/fixpack"
                 }
             ]
+        },
+        {
+            "title": "Amp.js",
+            "url": "http://amp.ampersandjs.com/",
+            "content": "Underscore的なUtility関数のコレクションライブラリ。\nそれぞれの機能をちゃんと個別のnpmモジュールとしてインストール出来る",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-01-13T11:13:33.627Z",
+            "relatedLinks": [
+                {
+                    "title": "Modularizing Underscore.js | &yet Blog",
+                    "url": "http://blog.andyet.com/2015/01/07/modularizing-underscorejs"
+                }
+            ]
         }
     ]
 }
