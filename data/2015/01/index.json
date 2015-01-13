@@ -545,6 +545,20 @@
             ],
             "date": "2015-01-13T12:26:16.244Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Esperanto demo",
+            "url": "http://esperantojs.org/",
+            "content": "ES6 modulesのコードをCommonJS、AMD、UMDに変換するコマンドラインツール。Nodeモジュールとしても利用できる。",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "library",
+                "node.js",
+                "Tools"
+            ],
+            "date": "2015-01-13T13:57:56.967Z",
+            "relatedLinks": []
         }
     ]
 }
