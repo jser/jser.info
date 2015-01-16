@@ -608,7 +608,7 @@
         {
             "title": "Release v2.7.0 · petkaantonov/bluebird",
             "url": "https://github.com/petkaantonov/bluebird/releases/tag/v2.7.0",
-            "content": "blubird 2.7.0リリース。\n`process.on(\"unhandledRejection\", fn)` という感じでグローバルにunhandled Rejectionをキャッチ出来るイベントを登録できるように。",
+            "content": "bluebird 2.7.0リリース。\n`process.on(\"unhandledRejection\", fn)` という感じでグローバルにunhandled Rejectionをキャッチ出来るイベントを登録できるように。",
             "tags": [
                 "Promises",
                 "library",
