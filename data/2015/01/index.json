@@ -689,6 +689,17 @@
                     "url": "https://speakerdeck.com/reiz/continuous-updating"
                 }
             ]
+        },
+        {
+            "title": "ServiceWorker を使った XHR のモックテスト - Block Rockin’ Codes",
+            "url": "http://jxck.hatenablog.com/entry/response-injection",
+            "content": "ServiceWorkerを使ったXHRのモック。\n`onfetch`に登録すれば、XHR等のリクエストに対してhookができるので、事前に定義しておいたレスポンスを返すようにする。\nServiceWorkerの登録プロセスについて",
+            "tags": [
+                "JavaScript",
+                "ServiceWorker"
+            ],
+            "date": "2015-01-17T07:21:14.182Z",
+            "relatedLinks": []
         }
     ]
 }
