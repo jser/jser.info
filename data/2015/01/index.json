@@ -673,6 +673,22 @@
                     "url": "http://qiita.com/vvakame/items/69efc1c6a3b91876330d"
                 }
             ]
+        },
+        {
+            "title": "VersionEye - Notification System for Software Packages",
+            "url": "https://www.versioneye.com/",
+            "content": "npmやgem等色々な言語のライブラリの更新チェック、依存関係のチェック等が出来るサービス。\nファイルアップロードとかAPI等もある。\nパッケージをフォローしてRSSで見たりできる",
+            "tags": [
+                "package",
+                "webservice"
+            ],
+            "date": "2015-01-17T06:59:49.441Z",
+            "relatedLinks": [
+                {
+                    "title": "Continuous Updating // Speaker Deck",
+                    "url": "https://speakerdeck.com/reiz/continuous-updating"
+                }
+            ]
         }
     ]
 }
