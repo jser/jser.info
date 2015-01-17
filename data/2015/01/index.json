@@ -717,6 +717,17 @@
                     "url": "https://github.com/tc39/ecma262/blob/master/workingdocs/ES6-super-construct%3Dproposal.md"
                 }
             ]
+        },
+        {
+            "title": "RubaXa/Sortable",
+            "url": "https://github.com/RubaXa/Sortable",
+            "content": "D&Dで要素を動かせるsortableライブラリ。\njQuery等の依存してないライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-01-17T07:35:00.821Z",
+            "relatedLinks": []
         }
     ]
 }
