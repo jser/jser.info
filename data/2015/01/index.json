@@ -700,6 +700,23 @@
             ],
             "date": "2015-01-17T07:21:14.182Z",
             "relatedLinks": []
+        },
+        {
+            "title": "harmony:specification_drafts [ES Wiki]",
+            "url": "http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#january_15_2015_draft_rev_31",
+            "content": "ECMAScript 6のDraft Rev 31リリース。\n議論検討する`super()`についての記述の変更が中心",
+            "tags": [
+                "ECMAScript",
+                "spec",
+                "ReleaseNote"
+            ],
+            "date": "2015-01-17T07:24:51.573Z",
+            "relatedLinks": [
+                {
+                    "title": "ecma262/ES6-super-construct=proposal.md at master · tc39/ecma262",
+                    "url": "https://github.com/tc39/ecma262/blob/master/workingdocs/ES6-super-construct%3Dproposal.md"
+                }
+            ]
         }
     ]
 }
