@@ -741,6 +741,18 @@
             ],
             "date": "2015-01-18T02:13:53.951Z",
             "relatedLinks": []
+        },
+        {
+            "title": "gobblejs/gobble",
+            "url": "https://github.com/gobblejs/gobble",
+            "content": "JavaScriptビルドツール。\nGruntはビルドツールではないため、Gruntと共存する形でも使える。\nまたデバッガビリティを優先して開発していて、pluginも変に複雑化しないように役割をシンプルにしてる",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "Grunt"
+            ],
+            "date": "2015-01-19T13:51:18.994Z",
+            "relatedLinks": []
         }
     ]
 }
