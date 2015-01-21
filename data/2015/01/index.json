@@ -829,6 +829,17 @@
             ],
             "date": "2015-01-20T12:58:32.987Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ES6 Module Gotchas | geedew",
+            "url": "http://www.geedew.com/2014/12/26/es6-module-gotchas/",
+            "content": "ES6 modulesのアンチパターンについて。\n静的なものを扱うデザインであるという話、オブジェクトをexportした場合の問題、副作用を目的としたモジュールの読込方法、export defaultを出来るだけ使うべき等",
+            "tags": [
+                "ECMAScript",
+                "JavaScript"
+            ],
+            "date": "2015-01-21T07:02:08.248Z",
+            "relatedLinks": []
         }
     ]
 }
