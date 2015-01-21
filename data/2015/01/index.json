@@ -840,6 +840,22 @@
             ],
             "date": "2015-01-21T07:02:08.248Z",
             "relatedLinks": []
+        },
+        {
+            "title": "shiwano/typhen",
+            "url": "https://github.com/shiwano/typhen",
+            "content": "d.tsからJSON Schemaを作ったり、Handlebarsを使ったテンプレートでコードやドキュメントを出力できるツール",
+            "tags": [
+                "TypeScript",
+                "Tools"
+            ],
+            "date": "2015-01-21T07:29:43.189Z",
+            "relatedLinks": [
+                {
+                    "title": "TypeScript の型定義からコードを自動生成するツールを作った - Qiita",
+                    "url": "http://qiita.com/shiwano/items/dd769ead84e0da2d349a"
+                }
+            ]
         }
     ]
 }
