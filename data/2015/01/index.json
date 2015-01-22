@@ -910,6 +910,26 @@
             ],
             "date": "2015-01-22T03:27:50.046Z",
             "relatedLinks": []
+        },
+        {
+            "title": "What the Virtual Viewport?",
+            "url": "http://updates.html5rocks.com/2015/01/virtual-viewport",
+            "content": "Chrome 39と40でviewportの仕組みが変わった。\n40からLayout ViewportとVisual Viewportに分かれて処理されるようになった。(IEと同様)\nズーム時にposition:fixedな要素等の動作が違いがでる。",
+            "tags": [
+                "Chrome",
+                "browser"
+            ],
+            "date": "2015-01-22T08:26:15.924Z",
+            "relatedLinks": [
+                {
+                    "title": "Chrome Viewports - Google スライド",
+                    "url": "https://docs.google.com/presentation/d/1nJvJqL2dw5STi5FFpR6tP371vSpDWWs5Beksbfitpzc/present"
+                },
+                {
+                    "title": "A tale of two viewports — part two",
+                    "url": "http://www.quirksmode.org/mobile/viewports2.html"
+                }
+            ]
         }
     ]
 }
