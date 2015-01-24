@@ -964,6 +964,19 @@
             ],
             "date": "2015-01-24T07:44:59.316Z",
             "relatedLinks": []
+        },
+        {
+            "title": "テストできないコードをE2Eテストを使ってリファクタリングしよう | Web Scratch",
+            "url": "http://efcl.info/2015/01/24/testium-e2e-refactoring/",
+            "content": "E2EテストフレームワークのTestiumの紹介とリファクタリングについて。\nMocha+Testium+power-assertでユニットテストと同じようにE2Eテストを書くための設定やサンプル",
+            "tags": [
+                "JavaScript",
+                "E2E",
+                "testing",
+                "browser"
+            ],
+            "date": "2015-01-24T13:18:34.940Z",
+            "relatedLinks": []
         }
     ]
 }
