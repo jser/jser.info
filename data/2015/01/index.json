@@ -977,6 +977,19 @@
             ],
             "date": "2015-01-24T13:18:34.940Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Fetch API in action",
+            "url": "http://blog.gospodarets.com/fetch_in_action",
+            "content": "Fetch APIについての紹介。\nレスポンスのステータスコード、レスポンスのJSONパース、タイムアウトの問題、使い方、polyfillについて",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "API",
+                "XHR"
+            ],
+            "date": "2015-01-24T15:11:50.209Z",
+            "relatedLinks": []
         }
     ]
 }
