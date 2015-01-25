@@ -30,7 +30,7 @@ JSer.infoに掲載する予定の記事候補や過去に掲載したデータ�
 ## Pull Request
 
 [JSer.info](http://jser.info/ "JSer.info") で紹介して欲しい記事やサイト等をPull Requestしたい場合は、
-[JSer.info Pull Request Form](http://azu.github.io/JSer.info-tribute/ "JSer.info Pull Request Form") を利用すると楽に行えます。
+[JSer.info Pull Request Form](http://jser.info/JSer.info-tribute/ "JSer.info Pull Request Form") を利用すると楽に行えます。
 
 詳しくは[Pull Requestのガイドラインについて](CONTRIBUTING.md)を参照して下さい。
 
