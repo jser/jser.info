@@ -1035,6 +1035,18 @@
             ],
             "date": "2015-01-26T07:20:36.489Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release 2.5.0 · groupon-testium/testium",
+            "url": "https://github.com/groupon-testium/testium/releases/tag/v2.5.0",
+            "content": "Integration Testフレームワークのtestium 2.5.0リリース。\n日本語などの入力ができない問題の修正やエラー表示の改善、`Element.prototype.getElement`の実装など",
+            "tags": [
+                "E2E",
+                "testing",
+                "ReleaseNote"
+            ],
+            "date": "2015-01-27T07:17:54.374Z",
+            "relatedLinks": []
         }
     ]
 }
