@@ -1103,6 +1103,19 @@
                     "url": "https://gist.github.com/kuu/b7eb679a3ad48d980ed3"
                 }
             ]
+        },
+        {
+            "title": "Wallaby - intelligent test runner for JavaScript",
+            "url": "http://wallabyjs.com/",
+            "content": "JetBrains IDE等と統合して使えるTest Runner。\nMocha、QUnit、Jasmine等が使えて、コードカバレッジをエディタ上に表示、テストケースを一部だけ実行などが出来る。\nspy-jsの人が作ってる\n",
+            "tags": [
+                "JetBrains",
+                "IDE",
+                "JavaScript",
+                "testing"
+            ],
+            "date": "2015-01-27T08:49:57.573Z",
+            "relatedLinks": []
         }
     ]
 }
