@@ -1071,6 +1071,22 @@
             ],
             "date": "2015-01-27T07:40:22.416Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Home | Aurelia",
+            "url": "http://aurelia.io/",
+            "content": "Durandalの次世代となるJavaScriptフレームワーク。 ES6(or AltJS) + jspm、two-way binding、DI、ルーティング等を盛り込んだフレームワーク。\n元AngularJSチームの人が開発してる",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-01-27T08:17:29.966Z",
+            "relatedLinks": [
+                {
+                    "title": "Introducing Aurelia",
+                    "url": "http://blog.durandal.io/2015/01/26/introducing-aurelia/"
+                }
+            ]
         }
     ]
 }
