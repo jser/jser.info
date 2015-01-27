@@ -1087,6 +1087,22 @@
                     "url": "http://blog.durandal.io/2015/01/26/introducing-aurelia/"
                 }
             ]
+        },
+        {
+            "title": "Getting Literal With ES6 Template Strings",
+            "url": "http://updates.html5rocks.com/2015/01/ES6-Template-Strings",
+            "content": "ES6 Template Stringsについての解説",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2015-01-27T08:19:33.936Z",
+            "relatedLinks": [
+                {
+                    "title": "TemplateStrings.md",
+                    "url": "https://gist.github.com/kuu/b7eb679a3ad48d980ed3"
+                }
+            ]
         }
     ]
 }
