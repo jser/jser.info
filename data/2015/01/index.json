@@ -1202,6 +1202,18 @@
             ],
             "date": "2015-01-28T23:19:45.274Z",
             "relatedLinks": []
+        },
+        {
+            "title": "最近のASTパーサの動き",
+            "url": "http://azu.github.io/slide/crosushi/shift-ast.html",
+            "content": "Esprima/Esprima-FB/espree、Shift AST、acorn/acorn-6to5とかのJS ASTパーサの近況についてのスライド。\nEsprimaがjQuery Fundationに移管した話とか",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "スライド"
+            ],
+            "date": "2015-01-29T15:33:25.783Z",
+            "relatedLinks": []
         }
     ]
 }
