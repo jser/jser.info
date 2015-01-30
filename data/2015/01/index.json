@@ -1276,6 +1276,17 @@
             ],
             "date": "2015-01-30T05:57:38.961Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Replace CoffeeScript with ES6",
+            "url": "http://robots.thoughtbot.com/replace-coffeescript-with-es6",
+            "content": "CoffeeScriptのSyntaxをES6に書き換える方法について\nhttps://github.com/eventualbuddha/decaffeinate みたいなツールではなくて、どういう対応のコードになるかが書かれている",
+            "tags": [
+                "CoffeeScript",
+                "JavaScript"
+            ],
+            "date": "2015-01-30T06:12:19.384Z",
+            "relatedLinks": []
         }
     ]
 }
