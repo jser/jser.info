@@ -1253,6 +1253,17 @@
                     "url": "https://github.com/6to5/6to5/issues/596"
                 }
             ]
+        },
+        {
+            "title": "New string features in ECMAScript 6",
+            "url": "http://www.2ality.com/2015/01/es6-strings.html",
+            "content": "ES6で追加されるString系のメソッドについて。\nTemplate strings、ユニコードコードポイントを正しく扱う方法、追加された便利メソッドについて",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2015-01-30T05:26:17.310Z",
+            "relatedLinks": []
         }
     ]
 }
