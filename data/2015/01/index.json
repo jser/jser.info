@@ -1236,6 +1236,23 @@
             ],
             "date": "2015-01-30T02:57:50.116Z",
             "relatedLinks": []
+        },
+        {
+            "title": "2to3 · 6to5",
+            "url": "https://6to5.org/blog/2015/01/27/2to3",
+            "content": "6to5 3.0リリース。\nコマンドラインオプションに`--blacklist`と`--whitelist`の追加、パフォーマンス改善、細かいオプションの変更等。\n",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "React"
+            ],
+            "date": "2015-01-30T04:34:05.175Z",
+            "relatedLinks": [
+                {
+                    "title": "Name suggestions · Issue #596 · 6to5/6to5",
+                    "url": "https://github.com/6to5/6to5/issues/596"
+                }
+            ]
         }
     ]
 }
