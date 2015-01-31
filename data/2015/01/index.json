@@ -1367,6 +1367,18 @@
             ],
             "date": "2015-01-31T08:47:12.551Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Home | marty.js",
+            "url": "http://martyjs.org/",
+            "content": "Fluxアーキテクチャ実装のライブラリ。\n基本的なStore、Dispatcher、Actionがあり、追加でConstant値の作成、Storageを指定して管理出来るStateが用意されてる。\nChromeのデバッグで流れを見られるようになってる",
+            "tags": [
+                "JavaScript",
+                "Flux",
+                "library"
+            ],
+            "date": "2015-01-31T11:48:08.894Z",
+            "relatedLinks": []
         }
     ]
 }
