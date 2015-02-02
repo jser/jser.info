@@ -1,7 +1,9 @@
-#!/bin/bash
+#!/bin/sh
 
-declare parentDir=$(cd $(dirname $(cd $(dirname $0);pwd));pwd)
-git -c "${parentDir}" pull
-git -c "${parentDir}" add -A .
-git -c "${parentDir}" commit -m "$1"
-git -c "${parentDir}" push
+set -e
+
+parentDir=$(cd $(dirname $(cd $(dirname $0);pwd));pwd)/.git/
+git --git-dir="${parentDir}" pull
+git --git-dir="${parentDir}" add -A .
+git --git-dir="${parentDir}" commit -m "$1"
+git --git-dir="${parentDir}" push
