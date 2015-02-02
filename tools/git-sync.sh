@@ -1,9 +1,7 @@
 #!/bin/bash
 
 declare parentDir=$(cd $(dirname $(cd $(dirname $0);pwd));pwd)
-cd $(cd $(dirname $(cd $(dirname $0);pwd));pwd)
-git fetch
-git merge origin/gh-pages
-git add -A .
-git commit -m "$1"
-git push
+git -c "${parentDir}" pull
+git -c "${parentDir}" add -A .
+git -c "${parentDir}" commit -m "$1"
+git -c "${parentDir}" push
