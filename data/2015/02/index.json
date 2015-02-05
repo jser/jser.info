@@ -220,17 +220,6 @@
                     "url": "https://github.com/Polymer/observe-js"
                 }
             ]
-        },
-        {
-            "title": "js-data/js-data · GitHub",
-            "url": "https://github.com/js-data/js-data",
-            "content": "データストア部分をadapterで変更出来るモデルライブラリ。 observe-jsを使ってdirtyチェックをするため、特別なgetter/settterなしでバインディングを行える。 Ember DataのようなREST APIをバックエンドとするhttp adapterも持っている。",
-            "tags": [
-                "JavaScript",
-                "library"
-            ],
-            "date": "2015-02-05T15:39:30.650Z",
-            "relatedLinks": []
         }
     ]
 }
