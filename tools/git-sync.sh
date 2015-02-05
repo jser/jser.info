@@ -4,7 +4,8 @@ set -e
 commitMessage=$1
 parentDir=$(cd $(dirname $(cd $(dirname $0);pwd));pwd)/.git/
 echo "${parentDir}"
-if [ -z "$(git status --porcelain)" ]; then
+isClean=$(git --git-dir="${parentDir}" status --porcelain)
+if [ -z "${isClean}" ]; then
   # Working directory clean
   git --git-dir="${parentDir}" pull
   git --git-dir="${parentDir}" push

@@ -123,6 +123,103 @@
                     "url": "https://github.com/codrops/css-reference-issues"
                 }
             ]
+        },
+        {
+            "title": "WebStorm 10 EAP | JetBrains WebStorm Blog",
+            "url": "http://blog.jetbrains.com/webstorm/2015/02/webstorm-10-eap/",
+            "content": "WebStorm 10 EAPリリース。\nJavaScriptサポートの改善、spy-jsが多段SourceMapに対応しAltJSなどでも元ソースへジャンプできるように、Firefoxでのデバッグに再対応",
+            "tags": [
+                "WebStorm",
+                "ReleaseNote"
+            ],
+            "date": "2015-02-05T12:42:27.723Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "BroadcastChannel API in Firefox 38 ✩ Mozilla Hacks – the Web developer blog",
+            "url": "http://hacks.mozilla.org/2015/02/broadcastchannel-api-in-firefox-38/",
+            "content": "BroadcastChannelについて。\nタブやウィンドウをまたぎsame origin間でメッセージングでやり取りするAPI。",
+            "tags": [
+                "JavaScript",
+                "WebPlatformAPI"
+            ],
+            "date": "2015-02-05T13:01:24.275Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "Releases · google/closure-compiler Wiki",
+            "url": "https://github.com/google/closure-compiler/wiki/Releases#february-2-2015-v20150126",
+            "content": "closure-compiler v20150126リリース。\nTypeScript的な型アノテーションのサポートを開始、ES6のサポート改善",
+            "tags": [
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "date": "2015-02-05T13:08:32.165Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "Tech — Switching from immutable.js to seamless-immutable",
+            "url": "http://noredinktech.tumblr.com/post/107617838018/switching-from-immutable-js-to-seamless-immutable",
+            "content": "immutable.jsは専用のオブジェクトになるため、既存のライブラリと連携がしにくい、またAPIも独特。\nその辺を扱いやすく使えるseamless-immutableというライブラリについて",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-02-05T13:23:58.324Z",
+            "relatedLinks": [
+                {
+                    "title": "rtfeldman/seamless-immutable",
+                    "url": "https://github.com/rtfeldman/seamless-immutable#asmutable"
+                }
+            ]
+        },
+        {
+            "title": "voronianski/flux-comparison",
+            "url": "https://github.com/voronianski/flux-comparison",
+            "content": "FluxライブラリのTodoMVCみたいな感じのサンプル実装集。\nオンラインショップカートをサンプルケースとして実装されてる",
+            "tags": [
+                "Flux",
+                "library",
+                "サンプル"
+            ],
+            "date": "2015-02-05T13:31:57.180Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "io.js/CHANGELOG.md at v1.1.0 · iojs/io.js",
+            "url": "https://github.com/iojs/io.js/blob/v1.1.0/CHANGELOG.md",
+            "content": "io.js 1.1.0リリース。\ncryptoのパフォーマンス改善、エラーメッセージを作るときに`JSON.stringify()`だと循環参照でエラーとなるため、`util.inspect()`を使うように変更された",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "date": "2015-02-05T15:22:48.285Z",
+            "relatedLinks": [
+                {
+                    "title": "DailyJS | Node 0.11.16 と io.js 1.1.0 がリリース | JSお散歩",
+                    "url": "http://panda.node.ws/?p=2152"
+                },
+                {
+                    "title": "assert: use util.inspect() to create error messages by cjihrig · Pull Request #668 · iojs/io.js",
+                    "url": "https://github.com/iojs/io.js/pull/668"
+                }
+            ]
+        },
+        {
+            "title": "js-data/js-data",
+            "url": "https://github.com/js-data/js-data",
+            "content": "データストア部分をadapterで変更出来るモデルライブラリ。\nobserve-jsを使ってdirtyチェックをするため、特別なgetter/settterなしでバインディングを行える。\nEmber DataのようなREST APIをバックエンドとするhttp adapterも持っている。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-02-05T15:32:46.898Z",
+            "relatedLinks": [
+                {
+                    "title": "Polymer/observe-js",
+                    "url": "https://github.com/Polymer/observe-js"
+                }
+            ]
         }
     ]
 }
