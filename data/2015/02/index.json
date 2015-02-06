@@ -237,6 +237,18 @@
                     "url": "http://nodebots.io/"
                 }
             ]
+        },
+        {
+            "title": "Release 0.11.5 · yyx990803/vue",
+            "url": "https://github.com/yyx990803/vue/releases/tag/0.11.5",
+            "content": "Vue.js 0.11.5 リリース。\n`Vue.nextTick`でMutationObserverが使える時は使うように、`v-with`で親子間でバインディングが働くように",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-02-06T02:28:57.871Z",
+            "relatedLinks": []
         }
     ]
 }
