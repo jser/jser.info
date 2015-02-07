@@ -315,6 +315,30 @@
                     "url": "http://azu.github.io/slide/crosushi/shift-ast.html"
                 }
             ]
+        },
+        {
+            "title": "Node v0.12.0 (Stable)",
+            "url": "http://blog.nodejs.org/2015/02/06/node-v0-12-0-stable/",
+            "content": "Node v0.12.0リリース。\nStreams 3、maxSocketsのデフォルト値がInfinityになった、spawnSync/execSyncの追加、ECMA i18n APIのサポートなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "date": "2015-02-07T07:43:53.114Z",
+            "relatedLinks": [
+                {
+                    "title": "StrongLoop | What’s New in io.js 1.0 Beta? – Streams3",
+                    "url": "http://strongloop.com/strongblog/whats-new-io-js-beta-streams3/"
+                },
+                {
+                    "title": "Stream今昔物語 - from scratch",
+                    "url": "http://yosuke-furukawa.hatenablog.com/entry/2014/12/01/155303"
+                },
+                {
+                    "title": "Node-v0.12の新機能について",
+                    "url": "http://www.slideshare.net/shigeki_ohtsu/node-v012tng12"
+                }
+            ]
         }
     ]
 }
