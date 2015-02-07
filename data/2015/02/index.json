@@ -341,6 +341,10 @@
                 {
                     "title": "StrongLoop | Node.js v0.12 is Now Available With Improvements to Clustering and Performance",
                     "url": "http://strongloop.com/strongblog/node-js-v0-12-released/"
+                },
+                {
+                    "title": "Node.js v0.12 がリリースされました。 - from scratch",
+                    "url": "http://yosuke-furukawa.hatenablog.com/entry/2015/02/07/185002"
                 }
             ]
         },
@@ -363,6 +367,16 @@
                 "CSS"
             ],
             "date": "2015-02-07T08:16:44.415Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "Measuring Client-side JavaScript Test Coverage With Istanbul | Quick Left",
+            "url": "https://quickleft.com/blog/measuring-clientside-javascript-test-coverage-istanbul/",
+            "content": "mocha-phantomjs + istanbulでコードカバレッジを取る方法について",
+            "tags": [
+                "JavaScript"
+            ],
+            "date": "2015-02-07T16:03:47.792Z",
             "relatedLinks": []
         }
     ]
