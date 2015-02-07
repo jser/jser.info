@@ -339,6 +339,17 @@
                     "url": "http://www.slideshare.net/shigeki_ohtsu/node-v012tng12"
                 }
             ]
+        },
+        {
+            "title": "Temporal Dead Zone (TDZ) demystified - ES6 Rocks",
+            "url": "http://es6rocks.com/2015/01/temporal-dead-zone-tdz-demystified/",
+            "content": "ES6のTDZ(Temporal Dead Zone)について。\nES6では`let`によりlexical scopeが増えた、また`var`と違い変数宣言は巻き上げされないため、宣言より前方などには変数にアクセスできない領域(TDZ)が存在する事について\n",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2015-02-07T08:03:56.329Z",
+            "relatedLinks": []
         }
     ]
 }
