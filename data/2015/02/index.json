@@ -402,6 +402,17 @@
             ],
             "date": "2015-02-08T03:59:51.871Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Variables and scoping in ECMAScript 6",
+            "url": "http://www.2ality.com/2015/02/es6-scoping.html",
+            "content": "letやconstのスコープやconstでのimmutableデータの扱いについて。\nconstとObject.freeze、TDZ、デフォルトパラメータとスコープ、グロール空間でのvar/functionとlet/const/classの違いについて",
+            "tags": [
+                "ECMAScript",
+                "JavaScript"
+            ],
+            "date": "2015-02-08T04:53:04.192Z",
+            "relatedLinks": []
         }
     ]
 }
