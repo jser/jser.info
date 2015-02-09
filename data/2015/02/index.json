@@ -451,6 +451,18 @@
             ],
             "date": "2015-02-09T13:20:07.472Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Phoenixmatrix/phoenixmatrix-proxy",
+            "url": "https://github.com/Phoenixmatrix/phoenixmatrix-proxy",
+            "content": "node-webkit(nw.js)で書かれたプロキシアプリ。\nSSLにもCharlesみたいに証明書を使ってプロキシ出来る。Fiddlerとかみたいにスクリプタブルなデバッグプロキシとなるのが目的",
+            "tags": [
+                "node-webkit",
+                "proxy",
+                "app"
+            ],
+            "date": "2015-02-09T15:52:34.722Z",
+            "relatedLinks": []
         }
     ]
 }
