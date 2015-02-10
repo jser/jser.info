@@ -2,10 +2,10 @@
 
 ## 紹介記事の追加
 
-> [JSer.info Pull Request Form](http://azu.github.io/JSer.info-tribute/ "JSer.info Pull Request Form")
+> [JSer.info Pull Request Form](http://jser.info/JSer.info-tribute/ "JSer.info Pull Request Form")
 
 [JSer.info](http://jser.info/ "JSer.info") で紹介して欲しい記事やサイト等をPull Requestしたい場合は、
-[JSer.info Pull Request Form](http://azu.github.io/JSer.info-tribute/ "JSer.info Pull Request Form") を利用すると、
+[JSer.info Pull Request Form](http://jser.info/JSer.info-tribute/ "JSer.info Pull Request Form") を利用すると、
 追加するJSONフォーマットを自動的に生成できます。 (その月の `data/year/month/index.json` に対してJSONを追記していきます。)
 
 
