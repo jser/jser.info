@@ -584,6 +584,24 @@
             ],
             "date": "2015-02-11T08:25:11.609Z",
             "relatedLinks": []
+        },
+        {
+            "title": "60fps on the mobile web — Flipboard Engineering",
+            "url": "http://engineering.flipboard.com/2015/02/mobile-web/",
+            "content": "React Canvas について。\nCavnas要素でUIを作ることで60FPSのスクロールを実現する。\n宣言的にUIを作れるためDOM的な抽象レイヤーとしてReactを使い、内部的にCanvasでレンダリングするReact Canvasを開発した話",
+            "tags": [
+                "JavaScript",
+                "canvas",
+                "React",
+                "DOM"
+            ],
+            "date": "2015-02-11T08:36:16.870Z",
+            "relatedLinks": [
+                {
+                    "title": "Flipboard/react-canvas",
+                    "url": "https://github.com/flipboard/react-canvas"
+                }
+            ]
         }
     ]
 }
