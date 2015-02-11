@@ -527,6 +527,23 @@
             ],
             "date": "2015-02-11T06:12:26.039Z",
             "relatedLinks": []
+        },
+        {
+            "title": "css2scss - from css to scss",
+            "url": "http://sebastianpontow.de/css2compass",
+            "content": "CSSからSCSSの機能を使ったもの変換したり、色見本を作ってくれるサービス。",
+            "tags": [
+                "CSS",
+                "Sass",
+                "webservice"
+            ],
+            "date": "2015-02-11T06:56:47.432Z",
+            "relatedLinks": [
+                {
+                    "title": "汚いcssを整形するWebアプリ「css2scss」でリファクタリングした際、「ヤバい」と感じた３つの機能と３つの点 - Qiita",
+                    "url": "http://qiita.com/koh-taka@github/items/bf638dd64c7c09e93557"
+                }
+            ]
         }
     ]
 }
