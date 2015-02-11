@@ -636,6 +636,22 @@
                     "url": "http://h4writer.com/?p=40"
                 }
             ]
+        },
+        {
+            "title": "Extensible Web を支える低レベル API 群 - Block Rockin’ Codes",
+            "url": "http://jxck.hatenablog.com/entry/extensible-lowlevel-api",
+            "content": "現在策定や実装が進んでいる低レベルなAPIとしてどのようなものがあるかについてのまとめ",
+            "tags": [
+                "JavaScript",
+                "WebPlatformAPI"
+            ],
+            "date": "2015-02-11T11:06:12.840Z",
+            "relatedLinks": [
+                {
+                    "title": "Extensible web",
+                    "url": "http://www.slideshare.net/Jxck/extensible-web"
+                }
+            ]
         }
     ]
 }
