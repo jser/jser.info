@@ -515,6 +515,18 @@
             ],
             "date": "2015-02-11T04:32:54.557Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Flipboard/react-canvas",
+            "url": "https://github.com/flipboard/react-canvas",
+            "content": "CavasのレンダリングをするReact components。\n基本的な要素、Events、Text sizing、css-layout(パフォーマンス優先なのでなくなるかも?)、Accessibilityへの配慮が予定されてる",
+            "tags": [
+                "React",
+                "canvas",
+                "library"
+            ],
+            "date": "2015-02-11T06:12:26.039Z",
+            "relatedLinks": []
         }
     ]
 }
