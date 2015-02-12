@@ -720,6 +720,18 @@
             ],
             "date": "2015-02-12T02:32:16.721Z",
             "relatedLinks": []
+        },
+        {
+            "title": "maxogden/maintenance-modules",
+            "url": "https://github.com/maxogden/maintenance-modules",
+            "content": "npmでモジュールを公開するのを補助する色々なツールの紹介。\nTravisCIの設定、gh-pagesへのデプロイスクリプト、package.jsonの整形、npm release、依存パッケージのチェックなど",
+            "tags": [
+                "JavaScript",
+                "npm",
+                "Tools"
+            ],
+            "date": "2015-02-12T09:29:25.475Z",
+            "relatedLinks": []
         }
     ]
 }
