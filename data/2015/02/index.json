@@ -840,6 +840,18 @@
             ],
             "date": "2015-02-14T10:05:22.304Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Flux solutions compared by example - Pixelhunter.me | Dmitri Voronianski's blog",
+            "url": "http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example",
+            "content": "Flux実装のライブラリは多種多様で、小さなサンプルをそれぞれのライブラリを使って分かった事について。\n通信でデータ取得はどこですべきか、\nIsomorphicとシングルトン、ComponentをラップしたContainerのレイヤーを設ける事についてなど",
+            "tags": [
+                "Flux",
+                "サンプル",
+                "JavaScript"
+            ],
+            "date": "2015-02-14T13:13:45.639Z",
+            "relatedLinks": []
         }
     ]
 }
