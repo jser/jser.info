@@ -876,6 +876,26 @@
             ],
             "date": "2015-02-14T13:37:21.326Z",
             "relatedLinks": []
+        },
+        {
+            "title": "JSCS in use",
+            "url": "http://varya.me/en/posts/jscs-in-use/",
+            "content": "JavaScriptのコードスタイルチェックツールであるJSCSの使い方について",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2015-02-14T13:40:29.317Z",
+            "relatedLinks": [
+                {
+                    "title": "JavaScript CodeStyle. Automatically!",
+                    "url": "http://varya.me/jscs-talk/"
+                },
+                {
+                    "title": "JSCS: JavaScript Code Style — Frontend Babel",
+                    "url": "http://frontendbabel.info/articles/jscs-javascript-code-style/"
+                }
+            ]
         }
     ]
 }
