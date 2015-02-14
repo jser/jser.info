@@ -852,6 +852,18 @@
             ],
             "date": "2015-02-14T13:13:45.639Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release v1.11.0 · jscs-dev/node-jscs",
+            "url": "https://github.com/jscs-dev/node-jscs/releases/tag/v1.11.0",
+            "content": "jscs v1.11.0リリース。\n既存のファイルの用意されてるプリセットでチェックして、自動で設定ファイルを作成出来る`--auto-configure`のオプションの追加、ルールの追加修正など。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2015-02-14T13:33:20.790Z",
+            "relatedLinks": []
         }
     ]
 }
