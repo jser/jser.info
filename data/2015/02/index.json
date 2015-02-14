@@ -828,6 +828,18 @@
             ],
             "date": "2015-02-14T02:59:17.531Z",
             "relatedLinks": []
+        },
+        {
+            "title": "acdlite/flummox",
+            "url": "https://github.com/acdlite/flummox",
+            "content": "Flux実装ライブラリ。\nコアとなるFlummoxクラスをを継承して、そこにStoreとActionを登録することでシングルトンを避ける作りになっている。ES6 classやasync/awaitを使った書き方等が考慮されている。\n",
+            "tags": [
+                "Flux",
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-02-14T10:05:22.304Z",
+            "relatedLinks": []
         }
     ]
 }
