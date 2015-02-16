@@ -920,6 +920,30 @@
             ],
             "date": "2015-02-16T03:21:08.234Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Not Born to Die · Babel",
+            "url": "https://babeljs.io/blog/2015/02/15/not-born-to-die",
+            "content": "6to5が\"Babel\"にリネームされた。\n多くのツールがparsersとtranspilersに依存しているため、Babelプロジェクトではこの部分を解決していく。\nESTreeというASTの仕様の標準化作業にも協力していくとのこと",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2015-02-16T03:33:21.105Z",
+            "relatedLinks": [
+                {
+                    "title": "Project scope and future · Issue #568 · babel/babel",
+                    "url": "https://github.com/babel/babel/issues/568"
+                },
+                {
+                    "title": "estree/estree",
+                    "url": "https://github.com/estree/estree"
+                },
+                {
+                    "title": "Name suggestions · Issue #596 · babel/babel",
+                    "url": "https://github.com/babel/babel/issues/596"
+                }
+            ]
         }
     ]
 }
