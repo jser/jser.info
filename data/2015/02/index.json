@@ -944,6 +944,18 @@
                     "url": "https://github.com/babel/babel/issues/596"
                 }
             ]
+        },
+        {
+            "title": "mking/react-hn",
+            "url": "https://github.com/mking/react-hn",
+            "content": "Reactを使ったHackerNewsのクローン。\nどういうComponentの粒度になってるかや構造についての解説が書かれている",
+            "tags": [
+                "React",
+                "サンプル",
+                "tutorial"
+            ],
+            "date": "2015-02-17T02:02:37.354Z",
+            "relatedLinks": []
         }
     ]
 }
