@@ -956,6 +956,18 @@
             ],
             "date": "2015-02-17T02:02:37.354Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release 0.7.0 · airportyh/testem",
+            "url": "https://github.com/airportyh/testem/releases/tag/v0.7.0",
+            "content": "testem 0.7.0リリース。\niojsやNode 0.12のサポート、Windowsでもci-modeが動くように修正、実行ページをよりisolateに",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "date": "2015-02-17T02:50:48.123Z",
+            "relatedLinks": []
         }
     ]
 }
