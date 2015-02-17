@@ -992,6 +992,17 @@
             ],
             "date": "2015-02-17T14:58:19.528Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Classes in ECMAScript 6 (final semantics)",
+            "url": "http://www.2ality.com/2015/02/es6-classes-final.html",
+            "content": "ES6 Classについての詳しい解説。\nClassの挙動、使い方、Iterator、継承、`super()`、`new.target`の値、ES5では無理だったビルトインコンストラクタのサブクラスが可能になる点などについて",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2015-02-17T15:20:31.663Z",
+            "relatedLinks": []
         }
     ]
 }
