@@ -1065,6 +1065,19 @@
             ],
             "date": "2015-02-19T08:43:18.525Z",
             "relatedLinks": []
+        },
+        {
+            "title": "yahoo/preceptor",
+            "url": "https://github.com/yahoo/preceptor",
+            "content": "Mocha、Cucumberなどに対応したTest Runner。\n設定によりレポーターやテスト対象などを細かく設定することができ、何をテストするかはTaskという塊で定義でき、Taskを並列で動かすこともできる。",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "testing",
+                "library"
+            ],
+            "date": "2015-02-19T08:53:53.324Z",
+            "relatedLinks": []
         }
     ]
 }
