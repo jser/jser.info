@@ -1203,7 +1203,12 @@
                 "スライド"
             ],
             "date": "2015-02-22T05:44:06.193Z",
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "dummy",
+                    "url": "http://dummy"
+                }
+            ]
         },
         {
             "title": "Introduction To React // Speaker Deck",
@@ -1251,6 +1256,18 @@
                 "testing"
             ],
             "date": "2015-02-23T01:58:57.269Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "gabelerner/canvg",
+            "url": "https://github.com/gabelerner/canvg",
+            "content": "SVGをCanvasでレンダリングするライブラリ",
+            "tags": [
+                "JavaScript",
+                "SVG",
+                "canvas"
+            ],
+            "date": "2015-02-23T03:48:11.000Z",
             "relatedLinks": []
         }
     ]
