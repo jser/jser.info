@@ -1414,6 +1414,18 @@
             ],
             "date": "2015-02-24T13:51:36.925Z",
             "relatedLinks": []
+        },
+        {
+            "title": "olahol/eselement",
+            "url": "https://github.com/olahol/eselement",
+            "content": "ASTをDOMライクなAPIで操作出来るライブラリ。\nquerySelector、childNodes、removeChild、createElementのようなAPIが用意されてる",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "library"
+            ],
+            "date": "2015-02-24T14:52:50.349Z",
+            "relatedLinks": []
         }
     ]
 }
