@@ -1351,6 +1351,22 @@
             ],
             "date": "2015-02-24T02:10:07.987Z",
             "relatedLinks": []
+        },
+        {
+            "title": "jxcore·io",
+            "url": "http://jxcore.io/",
+            "content": "Node.jsを拡張したフレームワーク。\nSpidermonkeyとV8のエンジンの切り替え、マルチスレッドサポート、モバイルアプリへの組み込みなどをサポートしてる",
+            "tags": [
+                "JavaScript",
+                "node.js"
+            ],
+            "date": "2015-02-24T06:57:37.314Z",
+            "relatedLinks": [
+                {
+                    "title": "Node.jsを拡張した「JXCore」、オープンソースでソースコードを公開 | SourceForge.JP Magazine",
+                    "url": "http://sourceforge.jp/magazine/15/02/24/164700"
+                }
+            ]
         }
     ]
 }
