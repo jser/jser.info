@@ -1305,7 +1305,7 @@
         {
             "title": "Underscore.js",
             "url": "http://underscorejs.org/",
-            "content": "underscore.js 1.8.0(現在1.8.2まで出てる)リリース。\nファイルサイズの削減、エイリアスとして使われていたメソッド名を一部変更、削除などのBreaking Changeを含んでいる。\n詳しくは下記のIssueを参照。\n1.8.0はIE 8の互換性がないので、1.8.1と1.8.2で互換性の修正が行われている。",
+            "content": "underscore.js 1.8.0(現在1.8.2まで出てる)リリース。\nファイルサイズの削減、エイリアスとして使われていたメソッド名を一部変更、削除などのBreaking Changeを含んでいる。\n詳しくは下記のIssueを参照。\n1.8.0はIE8の互換性がないので、1.8.1と1.8.2で互換性の修正が行われている。",
             "tags": [
                 "JavaScript",
                 "library"
