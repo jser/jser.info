@@ -1462,6 +1462,17 @@
                     "url": "http://blog.jquery.com/2015/02/24/getting-on-point/"
                 }
             ]
+        },
+        {
+            "title": "Firefox — Notes (36.0) — Mozilla",
+            "url": "https://www.mozilla.org/en-US/firefox/36.0/releasenotes/",
+            "content": "Firefox 36.0リリース。\nHTTP/2のフルサポート、ES6 Symbolサポート、CSSの`object-fit`と`object-position`、`will-change`、`isolation`の実装、promiseオブジェクトのデバッグ対応など",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "date": "2015-02-25T02:40:25.648Z",
+            "relatedLinks": []
         }
     ]
 }
