@@ -1500,6 +1500,18 @@
             ],
             "date": "2015-02-25T15:55:18.788Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Service worker が拓く mobile web の新しいかたち",
+            "url": "http://www.slideshare.net/kinukox/service-worker-mobile-web",
+            "content": "ServiceWorkerについてのスライド。\nどういうことができるのか、Fetch API、Fetch APIのResponse、デバッグ方法、セキュリティポリシーについて。\nChromeでの実装者によるスライド",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "スライド"
+            ],
+            "date": "2015-02-26T01:46:30.692Z",
+            "relatedLinks": []
         }
     ]
 }
