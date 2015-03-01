@@ -32,6 +32,17 @@
             ],
             "date": "2015-03-01T13:14:43.044Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Iterables and iterators in ECMAScript 6",
+            "url": "http://www.2ality.com/2015/02/es6-iteration.html",
+            "content": "ES6のIteratorについての詳しい解説。\nfor..ofでのイテレート、spread演算子での展開、`Symbol.iterator`でのIterableの実装などについて",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2015-03-01T13:17:19.093Z",
+            "relatedLinks": []
         }
     ]
 }
