@@ -58,6 +58,29 @@ __説明__ はどう書けばいいか悩むかもしれませんが、とりあ
 
 説明は自分自身の意見よりも、サイトの主張を紹介する場所です。(過剰な主張なら注釈を入れるなどをすると和らぐかもしれません)
 
+## スペルチェック
+
+[azu/technical-word-rules](https://github.com/azu/technical-word-rules "azu/technical-word-rules")の辞書を使った、
+用語統一のLintがコミットに対してチェックが自動的に行われます。
+
+### チェック対象となった場合の対応
+
+Lint結果に対して以下のような対応を取ることができます。
+
+1. コメントに応じて修正する
+2. [azu/technical-word-rules](https://github.com/azu/technical-word-rules "azu/technical-word-rules")の辞書を修正する
+
+辞書は完璧ではないので、辞書の方を直したほうが良い場合はコメントなどして下さい。
+
+### ローカルでLintする方法
+
+```
+npm install
+npm test
+```
+
+でLintを書けることが出来ます。
+
 ## その他の修正や改善
 
 `gh-pages` の方に修正内容や追加の実装などをPull Requestして下さい。
