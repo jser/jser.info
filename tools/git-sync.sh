@@ -16,7 +16,7 @@ else
   git pull
   git stash pop
   if [ -n "${commitMessage}" ]; then
-    git add -A .
+    git add .
     git commit -m "${commitMessage}"
   fi
   git push
