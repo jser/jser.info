@@ -253,6 +253,17 @@
                     "url": "https://github.com/npm/npm/releases/tag/v2.7.0"
                 }
             ]
+        },
+        {
+            "title": "NW.js v0.12.0 released - Google グループ",
+            "url": "https://groups.google.com/forum/#!msg/nwjs-general/NJA-Up4MFug/1jmBPjzklSUJ",
+            "content": "NW.js 0.12.0 リリース。\n`webview`タグの追加、 chrome.webrequest APIの追加、`bg-script'`フィールドの追加、ソースコードを難読化するnwjcツールの追加など",
+            "tags": [
+                "node-webkit",
+                "ReleaseNote"
+            ],
+            "date": "2015-03-07T13:47:02.254Z",
+            "relatedLinks": []
         }
     ]
 }
