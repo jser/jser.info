@@ -233,6 +233,26 @@
             ],
             "date": "2015-03-07T08:45:20.716Z",
             "relatedLinks": []
+        },
+        {
+            "title": "io.js/CHANGELOG.md at v1.5.0 · iojs/io.js",
+            "url": "https://github.com/iojs/io.js/blob/v1.5.0/CHANGELOG.md",
+            "content": "io.js 1.5.0リリース。\n",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "date": "2015-03-07T09:12:05.720Z",
+            "relatedLinks": [
+                {
+                    "title": "io.js ウィークリーアップデート 2015/03/06",
+                    "url": "http://blog.iojs.jp/2015-03-06.html"
+                },
+                {
+                    "title": "Release v2.7.0 · npm/npm",
+                    "url": "https://github.com/npm/npm/releases/tag/v2.7.0"
+                }
+            ]
         }
     ]
 }
