@@ -307,6 +307,17 @@
                     "url": "https://blog.angularjs.org/2014/03/angular-20.html"
                 }
             ]
+        },
+        {
+            "title": "Angular 2: Built on TypeScript - TypeScript - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/typescript/archive/2015/03/05/angular-2-0-built-on-typescript.aspx",
+            "content": "TypeScriptにアノテーションを実装していく方針になったのでAtScript自体はなくなるという話。\n\n[Welcome Brad Green and Igor Minar - YouTube](https://www.youtube.com/watch?v=QHulaj5ZxbI \"Welcome Brad Green and Igor Minar - YouTube\") の 20:00ぐらいからAtScriptの今後についての話。\n\n既にアノテーションのissueがあるがこれがどうかは分からない。\nhttps://github.com/Microsoft/TypeScript/issues/1557\nまた、AtScriptのアノテーションは実行時に情報が残ることを意図してる(DIとかに利用するため)\nTypeScriptはゴールとしてh実行時に情報を残すことはしないこととしているため、この辺どうするのかはまだ分からない\nhttps://github.com/Microsoft/TypeScript/wiki/TypeScript-Design-Goals",
+            "tags": [
+                "AngularJS",
+                "TypeScript"
+            ],
+            "date": "2015-03-08T15:02:42.332Z",
+            "relatedLinks": []
         }
     ]
 }
