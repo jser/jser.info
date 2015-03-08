@@ -275,6 +275,22 @@
             ],
             "date": "2015-03-08T08:40:29.471Z",
             "relatedLinks": []
+        },
+        {
+            "title": "The Flux Quick Start Guide",
+            "url": "http://www.jackcallister.com/2015/02/26/the-flux-quick-start-guide.html",
+            "content": "Fluxアーキテクチャのコンセプトについて登場要素ごとに順を追って解説されてる。\n併せて小さなstarter-kitも用意されているので、動かして試すことができる",
+            "tags": [
+                "Flux",
+                "JavaScript"
+            ],
+            "date": "2015-03-08T13:29:56.864Z",
+            "relatedLinks": [
+                {
+                    "title": "jarsbe/flux-starter-kit",
+                    "url": "https://github.com/jarsbe/flux-starter-kit"
+                }
+            ]
         }
     ]
 }
