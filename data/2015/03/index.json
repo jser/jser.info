@@ -391,6 +391,18 @@
                     "url": "http://blog.koba04.com/post/2015/03/05/react-js-v013-changes/"
                 }
             ]
+        },
+        {
+            "title": "Esprima 2.1 Released | Official jQuery Blog",
+            "url": "http://blog.jquery.com/2015/03/10/esprima-2-1-released/",
+            "content": "Esprima 2.1リリース。\nES6サポートが中心でclass、rest parameter、computed property nameなどをサポートした。\nESTreeでAST仕様を策定してる件について",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "ReleaseNote"
+            ],
+            "date": "2015-03-11T04:14:31.009Z",
+            "relatedLinks": []
         }
     ]
 }
