@@ -506,6 +506,18 @@
                     "url": "http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web"
                 }
             ]
+        },
+        {
+            "title": "Push Notifications on the Open Web",
+            "url": "http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web",
+            "content": "Chrome 42でサポートされたPush APIについての解説。\nGoogle Cloud Messagingからどのようにプッシュ通知を行うかについての解説",
+            "tags": [
+                "Chrome",
+                "ServiceWorker",
+                "WebPlatformAPI"
+            ],
+            "date": "2015-03-14T06:13:12.902Z",
+            "relatedLinks": []
         }
     ]
 }
