@@ -462,6 +462,17 @@
             ],
             "date": "2015-03-14T05:42:14.508Z",
             "relatedLinks": []
+        },
+        {
+            "title": "How to implement a programming language (tutorial for beginners)",
+            "url": "http://lisperator.net/pltut/",
+            "content": "JavaScriptでλanguageという言語を実装するチュートリアル。\ntoken stream、パーサ、AST、ジェネレータ、最適化、CPSなど色々書かれてる。\nUglifyJS作者によるもの",
+            "tags": [
+                "JavaScript",
+                "tutorial"
+            ],
+            "date": "2015-03-14T05:44:49.326Z",
+            "relatedLinks": []
         }
     ]
 }
