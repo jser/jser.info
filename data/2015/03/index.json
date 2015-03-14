@@ -518,6 +518,24 @@
             ],
             "date": "2015-03-14T06:13:12.902Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ecomfe/fontmin",
+            "url": "https://github.com/ecomfe/fontmin",
+            "content": "ウェブフォントのMinifyを行うNodeモジュール。\nttfやotfからeot、woff、svgへの変換を行う。また使用する文字だけのサブセットも作成出来る",
+            "tags": [
+                "node.js",
+                "fonts",
+                "Tools",
+                "library"
+            ],
+            "date": "2015-03-14T07:07:26.710Z",
+            "relatedLinks": [
+                {
+                    "title": "中文字体 webfont 自动化构建 | EFE Tech",
+                    "url": "http://efe.baidu.com/blog/chinese-font-build/"
+                }
+            ]
         }
     ]
 }
