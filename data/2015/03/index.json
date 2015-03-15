@@ -589,6 +589,23 @@
             ],
             "date": "2015-03-14T14:43:58.084Z",
             "relatedLinks": []
+        },
+        {
+            "title": "JavaScript - IndexedDbをActiveRecord+Promiseっぽく扱えてJSONSchemaでバリデーションできてnodeでもオンメモリで動いてくORMみたいな何か作ってみた - Qiita",
+            "url": "http://qiita.com/mizchi/items/bd8befaffa8fe9f32522",
+            "content": "IndexedDBを扱うライブラリ。\nJSONスキーマによるバリデーションやActiveRecord風のAPIを持っている。\nマイグレーション用のUtilも設けている\n",
+            "tags": [
+                "JavaScript",
+                "データベース",
+                "library"
+            ],
+            "date": "2015-03-15T02:08:34.066Z",
+            "relatedLinks": [
+                {
+                    "title": "mizchi/stone-skin",
+                    "url": "https://github.com/mizchi/stone-skin"
+                }
+            ]
         }
     ]
 }
