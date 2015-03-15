@@ -624,6 +624,17 @@
                     "url": "https://github.com/yannickcr/eslint-plugin-react"
                 }
             ]
+        },
+        {
+            "title": "Experiments with Strengthening JavaScript - Chrome V8 — Google Developers",
+            "url": "https://developers.google.com/v8/experiments",
+            "content": "Chromeに実験的に実装してるStrong Mode(SaneScript)とSoundScript(型システム)についてのドキュメント。",
+            "tags": [
+                "google",
+                "JavaScript"
+            ],
+            "date": "2015-03-15T09:18:25.265Z",
+            "relatedLinks": []
         }
     ]
 }
