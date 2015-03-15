@@ -647,7 +647,10 @@
             ],
             "date": "2015-03-15T09:31:25.590Z",
             "relatedLinks": [
-                { "title" : "poteto/emberconf-2015", "url" : "https://github.com/poteto/emberconf-2015"}
+                {
+                    "title": "poteto/emberconf-2015",
+                    "url": "https://github.com/poteto/emberconf-2015"
+                }
             ]
         },
         {
@@ -660,8 +663,23 @@
             ],
             "date": "2015-03-15T09:49:47.613Z",
             "relatedLinks": [
-                { "title" : "Next Generation HTML5 and JavaScript > Articles > Page #1", "url" : "http://www.infoq.com/Next-Generation-HTML5-JavaScript/articles/"}
+                {
+                    "title": "Next Generation HTML5 and JavaScript > Articles > Page #1",
+                    "url": "http://www.infoq.com/Next-Generation-HTML5-JavaScript/articles/"
+                }
             ]
+        },
+        {
+            "title": "zewish/rmodal.js",
+            "url": "https://github.com/zewish/rmodal.js",
+            "content": "依存がないシンプルなモーダルダイアログUIライブラリ",
+            "tags": [
+                "JavaScript",
+                "UI",
+                "library"
+            ],
+            "date": "2015-03-15T10:00:21.419Z",
+            "relatedLinks": []
         }
     ]
 }
