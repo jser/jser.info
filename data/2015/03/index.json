@@ -606,6 +606,24 @@
                     "url": "https://github.com/mizchi/stone-skin"
                 }
             ]
+        },
+        {
+            "title": "ESLint 0.17.0 released - ESLint",
+            "url": "http://eslint.org/blog/2015/03/eslint-0.17.0-released/",
+            "content": "ESLint 0.17.0リリース。\nJSX/Reactのセマンティックに関するルールはESLint本体ではなくpluginで行うように。\n",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2015-03-15T03:56:33.135Z",
+            "relatedLinks": [
+                {
+                    "title": "yannickcr/eslint-plugin-react",
+                    "url": "https://github.com/yannickcr/eslint-plugin-react"
+                }
+            ]
         }
     ]
 }
