@@ -821,7 +821,12 @@
                 "JavaScript"
             ],
             "date": "2015-03-19T02:07:38.596Z",
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "レンダリングを妨げる JavaScript を削除する - PageSpeed Insights — Google Developers",
+                    "url": "https://developers.google.com/speed/docs/insights/BlockingJS"
+                }
+            ]
         }
     ]
 }
