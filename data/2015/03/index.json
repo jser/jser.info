@@ -811,6 +811,17 @@
             ],
             "date": "2015-03-18T15:02:04.192Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Chromium Blog: New JavaScript techniques for rapid page loads",
+            "url": "http://blog.chromium.org/2015/03/new-javascript-techniques-for-rapid.html",
+            "content": "Chrome41で`async`属性をつけたスクリプトはダウンロードが始まった瞬間にパーサ用の別スレッドでパースされるためより高速になるとの話",
+            "tags": [
+                "Chrome",
+                "JavaScript"
+            ],
+            "date": "2015-03-19T02:07:38.596Z",
+            "relatedLinks": []
         }
     ]
 }
