@@ -13,7 +13,7 @@ function pLoadFileList(fileList) {
             .then(JSON.parse)
     }));
 }
-var concatenateJSONPromise = FS.listTree("../../data/", function isIndexHTML(filePath, stat) {
+var concatenateJSONPromise = FS.listTree(__dirname + "/../../data/", function isIndexHTML(filePath, stat) {
     if (stat.isDirectory()) {
         return false;
     }
