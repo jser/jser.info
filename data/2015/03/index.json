@@ -904,7 +904,7 @@
         {
             "title": "DevTools: State Of The Union 2015 // Speaker Deck",
             "url": "https://speakerdeck.com/addyosmani/devtools-state-of-the-union-2015",
-            "content": "Chromeの開発者ツールの新しい機能や実際のパフォーマンス計測、問題の見つけ方について。\nWikipediaとjQueryの例、一つの処理が100ms取ってるなら危険、`hide()`のボトルネック、まずは計測することから始めるという話",
+            "content": "Chromeの開発者ツールの新しい機能や実際のパフォーマンス計測、問題の見つけ方について。\nWikipediaとjQueryの例、一つの処理が100ms以上取ってるなら危険、`hide()`のボトルネック、まずは計測することから始めるという話",
             "tags": [
                 "Chrome",
                 "debug",
