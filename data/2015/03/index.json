@@ -935,6 +935,17 @@
                     "url": "http://lanyrd.com/2015/jquery-uk/coverage/"
                 }
             ]
+        },
+        {
+            "title": "Hamsa",
+            "url": "http://gethamsa.com/",
+            "content": "`Object.observe()` (又はpolyfill)を使ったモデルライブラリ。\nスキーマ的なプロパティの型やデフォルト値の定義、class継承、` Object.observe()` を使った変更監視、find系の探査メソッドを持つ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-03-22T14:39:26.109Z",
+            "relatedLinks": []
         }
     ]
 }
