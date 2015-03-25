@@ -1017,6 +1017,17 @@
             ],
             "date": "2015-03-24T15:40:23.842Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Package Quality",
+            "url": "http://packagequality.com/",
+            "content": "npmのパッケージのクオリティチェック。\nissueの数やバージョンなどの情報を元に数値化してる",
+            "tags": [
+                "npm",
+                "webservice"
+            ],
+            "date": "2015-03-25T07:01:24.167Z",
+            "relatedLinks": []
         }
     ]
 }
