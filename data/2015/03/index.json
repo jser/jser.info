@@ -1089,6 +1089,23 @@
             ],
             "date": "2015-03-29T02:58:16.815Z",
             "relatedLinks": []
+        },
+        {
+            "title": "bloomberg/brisket",
+            "url": "https://github.com/bloomberg/brisket",
+            "content": "Bloombergのisomorphic JavaScriptフレームワーク。\nRendrと同じくBackboneをベースとしたサーバサイドレンダリングの仕組みを持つ。\n",
+            "tags": [
+                "JavaScript",
+                "backbone.js",
+                "library"
+            ],
+            "date": "2015-03-29T03:14:37.757Z",
+            "relatedLinks": [
+                {
+                    "title": "At Bloomberg We’ve Made Brisket. And It Can Make Anything. | Bloomberg L.P.",
+                    "url": "http://www.bloomberg.com/company/2015-03-24/bloomberg-weve-made-brisket-can-make-anything/"
+                }
+            ]
         }
     ]
 }
