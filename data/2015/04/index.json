@@ -1,0 +1,147 @@
+{
+    "list": [
+        {
+            "title": "Release v1.4.0 · bower/bower",
+            "url": "https://github.com/bower/bower/releases/tag/v1.4.0",
+            "content": "Bower 1.4.0リリース。\nloginとunregisterコマンドをサポート、pacakge.jsonにBowerの設定を書けるように、`--save-exact`のサポートなど",
+            "tags": [
+                "JavaScript",
+                "package",
+                "ReleaseNote"
+            ],
+            "date": "2015-03-31T15:49:01.451Z",
+            "relatedLinks": [
+                {
+                    "title": "Unregister and login commands (rebased) by sheerun · Pull Request #1719 · bower/bower",
+                    "url": "https://github.com/bower/bower/pull/1719"
+                },
+                {
+                    "title": "Accept npm's config variables in package.json · Issue #1711 · bower/bower",
+                    "url": "https://github.com/bower/bower/issues/1711"
+                }
+            ]
+        },
+        {
+            "title": "Auto-formatting JavaScript Code Style — Medium",
+            "url": "https://medium.com/@addyosmani/auto-formatting-javascript-code-style-fe0f98a923b8",
+            "content": "JSCS 1.12.0で自動整形機能が入り、JSCSを使ってSublime Textで自動整形を行う方法について。",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2015-04-01T07:59:38.365Z",
+            "relatedLinks": [
+                {
+                    "title": "Release v1.12.0 · jscs-dev/node-jscs",
+                    "url": "https://github.com/jscs-dev/node-jscs/releases/tag/v1.12.0"
+                }
+            ]
+        },
+        {
+            "title": "Release v1.12.0 · jscs-dev/node-jscs",
+            "url": "https://github.com/jscs-dev/node-jscs/releases/tag/v1.12.0",
+            "content": "JSCS 1.12.0リリース。\n自動整形機能のサポート(`-x` オプション)、ルールの追加、Auto-configurationのエラー表示の改善など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2015-04-01T08:07:32.809Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "Node v0.12.2 (Stable)",
+            "url": "http://blog.nodejs.org/2015/03/31/node-v0-12-2-stable/",
+            "content": "Node v0.12.2リリース。\n",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "date": "2015-04-01T13:01:52.493Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "WebStorm 10 released: improved JavaScript support, TypeScript 1.4, V8 profiling, and more | JetBrains WebStorm Blog",
+            "url": "http://blog.jetbrains.com/webstorm/2015/03/webstorm-10-released/",
+            "content": "WebStorm 10リリース。\nES6のサポート改善、TypeScript 1.4のサポート、spy-jsで依存関係の表示、多段SourceMapに対応、V8のプロファイリングのサポートなど",
+            "tags": [
+                "WebStorm",
+                "ReleaseNote"
+            ],
+            "date": "2015-04-01T15:18:45.083Z",
+            "relatedLinks": [
+                {
+                    "title": "What's new in WebStorm 10",
+                    "url": "https://www.jetbrains.com/webstorm/whatsnew/"
+                }
+            ]
+        },
+        {
+            "title": "Firefox — Notes (37.0) — Mozilla",
+            "url": "https://www.mozilla.org/en-US/firefox/37.0/releasenotes/",
+            "content": "Firefox 37リリース。\nTyped ArrayにもArrayメソッドの追加、Web Audio APIを最新の仕様に追従、Web Worker内でIndexedDBを使えるようになる等\n",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "date": "2015-04-02T06:04:10.747Z",
+            "relatedLinks": [
+                {
+                    "title": "Firefox 37 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/ja/Firefox/Releases/37"
+                },
+                {
+                    "title": "Firefox 37 サイト互換性情報 - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/ja/Firefox/Releases/37/Site_Compatibility"
+                }
+            ]
+        },
+        {
+            "title": "Jam3/jam3-lesson-module-basics",
+            "url": "https://github.com/Jam3/jam3-lesson-module-basics",
+            "content": "小さいnpmのモジュールを使ってクライアントサイドの開発をしようという紹介記事。\n実際にBrowserifyなどを使ってどうやって開発するかについて紹介している\n",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "npm"
+            ],
+            "date": "2015-04-02T06:10:50.900Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "sorting algorithms in javascript",
+            "url": "http://h3manth.com/javascript-sorting/",
+            "content": "JavaScriptでソートアルゴリズムの実装",
+            "tags": [
+                "JavaScript",
+                "アルゴリズム"
+            ],
+            "date": "2015-04-02T07:33:22.883Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "SemVer checker",
+            "url": "http://semver.npmjs.com/",
+            "content": "npmのsemver計算機\nバージョン文字列からどのバージョンにマッチするかを確認できる",
+            "tags": [
+                "npm",
+                "webservice",
+                "Tools"
+            ],
+            "date": "2015-04-03T05:15:58.699Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "5.0.0 Released · Babel",
+            "url": "https://babeljs.io/blog/2015/03/31/5.0.0",
+            "content": "Babel 5.0.0リリース。\n`--experimental`を廃止して、ECMAScriptを策定してるTC39のプロセスを元にしたStageベースのフラグを導入。またES7のDecoratorsなどの実装を追加、class継承でのsuper()の呼び出しチェックを追加するなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2015-04-03T07:54:21.152Z",
+            "relatedLinks": []
+        }
+    ]
+}
