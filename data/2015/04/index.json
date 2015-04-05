@@ -142,6 +142,119 @@
             ],
             "date": "2015-04-03T07:54:21.152Z",
             "relatedLinks": []
+        },
+        {
+            "title": "less.js/CHANGELOG.md at v2.5.0 · less/less.js",
+            "url": "https://github.com/less/less.js/blob/v2.5.0/CHANGELOG.md",
+            "content": "less.js 2.5.0 リリース。\nスコープ内でも`@plugin`を動作するように、パーサのパフォーマンス改善や細かい警告の修正など",
+            "tags": [
+                "CSS",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-04-04T03:20:54.455Z",
+            "relatedLinks": [
+                {
+                    "title": "Fix `@plugin` scoping rules by rjgotten · Pull Request #2522 · less/less.js",
+                    "url": "https://github.com/less/less.js/pull/2522"
+                }
+            ]
+        },
+        {
+            "title": "flow/Changelog at v0.8.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/blob/v0.8.0/Changelog",
+            "content": "FlowType 0.8.0リリース。\n",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "date": "2015-04-04T03:39:05.344Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "ECMAScript 6: Feature Overview and Comparison",
+            "url": "http://es6-features.org/",
+            "content": "ES6とES5の書き方を項目毎に比較紹介してるサイト",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "まとめ"
+            ],
+            "date": "2015-04-04T03:42:47.482Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "harmony:specification_drafts [ES Wiki]",
+            "url": "http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#april_3_2015_rev_37_release_candidate_4",
+            "content": "ECMAScript 2015(ES6) RC4リリース。\nTC39で承認されたバージョン、\"Edition 6\"という記述を\"ECMAScript 2015\"に置換されるなど",
+            "tags": [
+                "ECMAScript",
+                "ReleaseNote"
+            ],
+            "date": "2015-04-04T09:26:21.754Z",
+            "relatedLinks": [
+                {
+                    "title": "Allen Wirfs-Brock on Twitter: \"@rwaldron @SlexAxton RC4 replaced a lot of \"Edition 6\" with \"ECMAScript 2015\". Will help with ISO version aka ISO/IEC-16262 Edition 4\"",
+                    "url": "https://twitter.com/awbjs/status/584093254045413376"
+                },
+                {
+                    "title": "Allen Wirfs-Brock on Twitter: \"The final ES6 draft will be RC4 which I will finalize and forward to Ecma next week.\"",
+                    "url": "https://twitter.com/awbjs/status/580326814826020864"
+                }
+            ]
+        },
+        {
+            "title": "the-offline-cookbook-ja/ja.md at master · kuu/the-offline-cookbook-ja",
+            "url": "https://github.com/kuu/the-offline-cookbook-ja/blob/master/ja.md",
+            "content": "The offline cookbookの翻訳。\nService Workerのパターンについて書かれている",
+            "tags": [
+                "ServiceWorker",
+                "翻訳",
+                "JavaScript"
+            ],
+            "date": "2015-04-04T09:35:38.621Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "azu/wait-for-element.js",
+            "url": "https://github.com/azu/wait-for-element.js",
+            "content": "CSSセレクタにマッチする要素が表示されるまで待つライブラリ。\nMutationObserverを使った実装とsetTimeoutを使った実装を持ってる",
+            "tags": [
+                "JavaScript",
+                "library",
+                "DOM"
+            ],
+            "date": "2015-04-04T09:37:01.395Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "Announcing TypeScript 1.5 Alpha - TypeScript - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/typescript/archive/2015/03/27/announcing-typescript-1-5-alpha.aspx",
+            "content": "TypeScript 1.5αリリース。\nES6 modulesなどの対応、デコレータのサポート、Sublime Textプラグインの追加など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "date": "2015-04-04T09:56:18.339Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "Live Editing JavaScript with Webpack (Part III)",
+            "url": "http://jlongster.com/Backend-Apps-with-Webpack--Part-III",
+            "content": "webpackのhot module replacementの仕組みについての解説。\nリロードなしでモジュールの変更をする仕組みについて",
+            "tags": [
+                "webpack",
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2015-04-04T14:09:23.160Z",
+            "relatedLinks": [
+                {
+                    "title": "hot module replacement with webpack",
+                    "url": "http://webpack.github.io/docs/hot-module-replacement-with-webpack.html"
+                }
+            ]
         }
     ]
 }
