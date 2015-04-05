@@ -21,3 +21,5 @@ else
   fi
   git push
 fi
+
+type /usr/local/bin/terminal-notifier >/dev/null 2>&1 && /usr/local/bin/terminal-notifier -message "Sync!!" -title "JSer.info"
