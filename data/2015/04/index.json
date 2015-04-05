@@ -255,6 +255,18 @@
                     "url": "http://webpack.github.io/docs/hot-module-replacement-with-webpack.html"
                 }
             ]
+        },
+        {
+            "title": "Release v2.0.0 · eslint/espree",
+            "url": "https://github.com/eslint/espree/releases/tag/v2.0.0",
+            "content": "ESLintが使うASTパーサであるespree 2.0.0リリース。\nESTree仕様への追従のためにBreaking Change、`super`の対応、RestElementへの対応など",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "ReleaseNote"
+            ],
+            "date": "2015-04-05T05:04:53.244Z",
+            "relatedLinks": []
         }
     ]
 }
