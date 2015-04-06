@@ -226,7 +226,12 @@
                 "DOM"
             ],
             "date": "2015-04-04T09:37:01.395Z",
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "ある要素が表示されるまで待つJSライブラリを書いた(MutationObserver) | Web Scratch",
+                    "url": "http://efcl.info/2015/04/06/wait-for-element/"
+                }
+            ]
         },
         {
             "title": "Announcing TypeScript 1.5 Alpha - TypeScript - Site Home - MSDN Blogs",
