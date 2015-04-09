@@ -323,6 +323,18 @@
             ],
             "date": "2015-04-08T13:27:09.195Z",
             "relatedLinks": []
+        },
+        {
+            "title": "mojo-js/obj-stream",
+            "url": "https://github.com/mojo-js/obj-stream",
+            "content": "Stream的なAPIを持ったライブラリ。\nオブジェクトをStreamに流すことができ、EventEmitterを使ったStream的なものなのでブラウザでも動作する",
+            "tags": [
+                "JavaScript",
+                "library",
+                "browser"
+            ],
+            "date": "2015-04-09T01:43:55.280Z",
+            "relatedLinks": []
         }
     ]
 }
