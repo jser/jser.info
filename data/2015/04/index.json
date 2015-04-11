@@ -371,6 +371,23 @@
             ],
             "date": "2015-04-10T13:06:36.512Z",
             "relatedLinks": []
+        },
+        {
+            "title": "A Detailed Explanation of JavaScript Game Loops and Timing | Isaac Sukin",
+            "url": "http://www.isaacsukin.com/news/2015/01/detailed-explanation-javascript-game-loops-and-timing",
+            "content": "JavaScriptで正しいメインループを実装するにはどうするかについて。",
+            "tags": [
+                "JavaScript",
+                "game",
+                "library"
+            ],
+            "date": "2015-04-11T07:06:01.778Z",
+            "relatedLinks": [
+                {
+                    "title": "IceCreamYou/MainLoop.js",
+                    "url": "https://github.com/IceCreamYou/MainLoop.js"
+                }
+            ]
         }
     ]
 }
