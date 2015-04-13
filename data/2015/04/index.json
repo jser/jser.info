@@ -438,6 +438,23 @@
             ],
             "date": "2015-04-12T15:40:44.593Z",
             "relatedLinks": []
+        },
+        {
+            "title": "babel/CHANGELOG.md at master · babel/babel",
+            "url": "https://github.com/babel/babel/blob/master/CHANGELOG.md#510",
+            "content": "Babel 5.1.0リリース。\ntrailing-function-commasのサポート、オブジェクトリテラルのメソッドに対するdecoratorsのサポートなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2015-04-13T13:24:19.594Z",
+            "relatedLinks": [
+                {
+                    "title": "Decorators in object literals trigger SyntaxError · Issue #1154 · babel/babel",
+                    "url": "https://github.com/babel/babel/issues/1154"
+                }
+            ]
         }
     ]
 }
