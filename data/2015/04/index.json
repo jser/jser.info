@@ -484,6 +484,18 @@
                     "url": "http://genius.it/ejohn.org/files/jquery-original.html"
                 }
             ]
+        },
+        {
+            "title": "eval ソースをデバッグする - 開発ツール | MDN",
+            "url": "https://developer.mozilla.org/ja/docs/Tools/Debugger/How_to/Debug_eval_sources",
+            "content": "FirefoxやChromeの開発者ツールはevalやnew Function経由で実行されるコードに//# sourceURL=my-foo.js のような識別子があると通常のスクリプトと同等に扱えるので、ブレークポイントなどが可能になる。",
+            "tags": [
+                "firefox",
+                "sourcemap",
+                "debug"
+            ],
+            "date": "2015-04-14T02:43:03.450Z",
+            "relatedLinks": []
         }
     ]
 }
