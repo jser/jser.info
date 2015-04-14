@@ -551,6 +551,18 @@
             ],
             "date": "2015-04-14T13:44:32.565Z",
             "relatedLinks": []
+        },
+        {
+            "title": "RQ",
+            "url": "http://www.rq.crockford.com/",
+            "content": "Douglas Crockford製のPromiseハンドリングライブラリ。\nsequence、parallel、race、fallbackなどの複数のPromiseの流れを扱うライブラリ",
+            "tags": [
+                "JavaScript",
+                "Promises",
+                "library"
+            ],
+            "date": "2015-04-14T13:55:52.450Z",
+            "relatedLinks": []
         }
     ]
 }
