@@ -521,6 +521,23 @@
             ],
             "date": "2015-04-14T09:09:52.958Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Rapid Prototyping in JavaScript",
+            "url": "http://mattdesl.svbtle.com/rapid-prototyping",
+            "content": "browserify、wzrd、budoを使ったプロトタイピングについて。\nブラウザのリロードなしで変更を反映出来るHot Reloadingが出来るbudoをローカルサーバにして開発する流れ",
+            "tags": [
+                "JavaScript",
+                "debug",
+                "開発環境"
+            ],
+            "date": "2015-04-14T13:43:08.002Z",
+            "relatedLinks": [
+                {
+                    "title": "mattdesl/budo",
+                    "url": "https://github.com/mattdesl/budo"
+                }
+            ]
         }
     ]
 }
