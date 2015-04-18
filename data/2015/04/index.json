@@ -691,6 +691,19 @@
             ],
             "date": "2015-04-18T06:38:42.128Z",
             "relatedLinks": []
+        },
+        {
+            "title": "vdemedes/interaptor",
+            "url": "https://github.com/vdemedes/interaptor",
+            "content": "mitmを使ったHTTP stubライブラリ。\n特定のリクエストに対して任意のレスポンスを定義して返せる",
+            "tags": [
+                "node.js",
+                "HTTP",
+                "testing",
+                "library"
+            ],
+            "date": "2015-04-18T09:23:12.277Z",
+            "relatedLinks": []
         }
     ]
 }
