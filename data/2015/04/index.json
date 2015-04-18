@@ -658,6 +658,26 @@
             ],
             "date": "2015-04-17T09:41:12.988Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Controllable React Components // Speaker Deck",
+            "url": "https://speakerdeck.com/lettertwo/controllable-react-components",
+            "content": "ReactでES6 classesを使ったComponentを作るスライド。\nComponent内では常にstateじゃなくpropsを使いたい、FormのControlled Componentでもpropsを使うための高階関数について",
+            "tags": [
+                "React",
+                "スライド"
+            ],
+            "date": "2015-04-18T03:44:31.836Z",
+            "relatedLinks": [
+                {
+                    "title": "Forms | React",
+                    "url": "http://facebook.github.io/react/docs/forms.html#controlled-components"
+                },
+                {
+                    "title": "matthewwithanm/react-controllables",
+                    "url": "https://github.com/matthewwithanm/react-controllables"
+                }
+            ]
         }
     ]
 }
