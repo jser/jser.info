@@ -748,6 +748,22 @@
             ],
             "date": "2015-04-19T12:42:35.320Z",
             "relatedLinks": []
+        },
+        {
+            "title": "React v0.13.2 | React",
+            "url": "http://facebook.github.io/react/blog/2015/04/18/react-v0.13.2.html",
+            "content": "React v0.13.2リリース。\nreact toolsに`--es6module`のオプションを追加など",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "date": "2015-04-19T12:57:46.142Z",
+            "relatedLinks": [
+                {
+                    "title": "Document new es6module flag in react-tools README by TimeBomb · Pull Request #3618 · facebook/react",
+                    "url": "https://github.com/facebook/react/pull/3618"
+                }
+            ]
         }
     ]
 }
