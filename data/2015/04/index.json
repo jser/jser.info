@@ -843,6 +843,23 @@
                     "url": "https://github.com/mixi-inc/JavaScriptTraining"
                 }
             ]
+        },
+        {
+            "title": "ARIA in HTML 日本語訳",
+            "url": "http://momdo.github.io/html-aria/",
+            "content": "HTMLとWAI-ARIAの属性についての要件をまとめた仕様。\nある要素のデフォルトのARIAセマンティクスと使用してもよいARIAロールについて簡潔にまとめられている",
+            "tags": [
+                "HTML",
+                "WAI-ARIA",
+                "spec"
+            ],
+            "date": "2015-04-20T12:46:02.066Z",
+            "relatedLinks": [
+                {
+                    "title": "ARIA in HTML 日本語訳を公開した - 水底の血",
+                    "url": "http://momdo.hatenablog.jp/entry/20150418/1429345964"
+                }
+            ]
         }
     ]
 }
