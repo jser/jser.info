@@ -827,6 +827,22 @@
             ],
             "date": "2015-04-20T07:20:41.372Z",
             "relatedLinks": []
+        },
+        {
+            "title": "mixi-inc/JavaScriptTraining",
+            "url": "https://github.com/mixi-inc/JavaScriptTraining",
+            "content": "mixi社のJavaScript研修資料。\nテストを通すことで進んでいけるような内容になっている。\nDOM操作、DOMイベント、非同期処理、PromiseとFetch API、bowerを使ったパッケージ管理などについて",
+            "tags": [
+                "JavaScript",
+                "tutorial"
+            ],
+            "date": "2015-04-20T12:38:09.242Z",
+            "relatedLinks": [
+                {
+                    "title": "mixi-inc/JavaScriptTraining",
+                    "url": "https://github.com/mixi-inc/JavaScriptTraining"
+                }
+            ]
         }
     ]
 }
