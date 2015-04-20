@@ -38,9 +38,9 @@
         new ArticleGroup("ヘッドライン", []),
         new ArticleGroup("アーティクル", []),
         new ArticleGroup("スライド、動画関係", []),
-        new ArticleGroup("サイト、サービス", []),
+        new ArticleGroup("サイト、サービス、ドキュメント", []),
         new ArticleGroup("ソフトウェア、ツール、ライブラリ関係", []),
-        new ArticleGroup("書籍関係", []),
+        new ArticleGroup("書籍関係", [])
     ];
 
     var JSerModel = function (input, output) {
