@@ -894,6 +894,19 @@
             ],
             "date": "2015-04-22T13:08:10.909Z",
             "relatedLinks": []
+        },
+        {
+            "title": "【翻訳】ReactをjQueryの数行に要約する | POSTD",
+            "url": "http://postd.cc/boiling-react-down-to-a-few-lines-in-jquery/",
+            "content": "jQueryで書いたコードにReactのアイデアを適応して、状態の変更とDOMへの反映へと処理を分けていく話。\nVirtual DOMやimmutabilityについても触れている",
+            "tags": [
+                "jQuery",
+                "React",
+                "JavaScript",
+                "翻訳"
+            ],
+            "date": "2015-04-23T14:05:38.624Z",
+            "relatedLinks": []
         }
     ]
 }
