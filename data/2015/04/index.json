@@ -921,16 +921,15 @@
             "relatedLinks": []
         },
         {
-            "title": "Re-evaluating Front-end Performance Best Practices // Speaker Deck",
-            "url": "https://speakerdeck.com/benvinegar/re-evaluating-front-end-performance-best-practices",
-            "content": "かつて言われていたハイパフォーマンスウェブ的な最適化は現在有効なのかを検証するスライド。\nhostname sharding、forループのlengthキャッシュ、動的なscriptの追加とasync属性などについて",
+            "title": "Pixi.js v3 - Goodboy™ — Goodboy™",
+            "url": "http://www.goodboydigital.com/pixi-js-v3/",
+            "content": "JavaScriptゲームエンジンのpixi.js v3リリース。\nWebGL Renderer、Particle Containerの追加、Interaction、Resolution管理の改善など",
             "tags": [
-                "HTTP",
+                "game",
                 "JavaScript",
-                "performance",
-                "スライド"
+                "library"
             ],
-            "date": "2015-04-24T00:53:22.933Z",
+            "date": "2015-04-24T07:20:09.778Z",
             "relatedLinks": []
         }
     ]
