@@ -919,6 +919,19 @@
             ],
             "date": "2015-04-23T14:18:27.945Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Re-evaluating Front-end Performance Best Practices // Speaker Deck",
+            "url": "https://speakerdeck.com/benvinegar/re-evaluating-front-end-performance-best-practices",
+            "content": "かつて言われていたハイパフォーマンスウェブ的な最適化は現在有効なのかを検証するスライド。\nhostname sharding、forループのlengthキャッシュ、動的なscriptの追加とasync属性などについて",
+            "tags": [
+                "HTTP",
+                "JavaScript",
+                "performance",
+                "スライド"
+            ],
+            "date": "2015-04-24T00:53:22.933Z",
+            "relatedLinks": []
         }
     ]
 }
