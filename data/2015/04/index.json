@@ -1105,6 +1105,17 @@
             ],
             "date": "2015-04-29T11:41:07.195Z",
             "relatedLinks": []
+        },
+        {
+            "title": "rambler-digital-solutions/es6-class-mixin",
+            "url": "https://github.com/rambler-digital-solutions/es6-class-mixin",
+            "content": "ES6 classesでのmixinを行うライブラリ。\n`class Input extends mixin(BaseClass. mixin) {}` という感じでBaseClassを拡張したクラスをその場で作成する",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-04-29T12:23:38.937Z",
+            "relatedLinks": []
         }
     ]
 }
