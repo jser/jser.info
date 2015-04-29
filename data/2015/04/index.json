@@ -1004,6 +1004,23 @@
             ],
             "date": "2015-04-29T05:07:17.228Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ReactとFluxのこと // Speaker Deck",
+            "url": "https://speakerdeck.com/geta6/reacttofluxfalsekoto",
+            "content": "Reactによって富豪的なViewの描画が現実的なレベルに落とせる話やFluxアーキテクチャがどういう形でデータを一方通行に回すかについて書かれているスライド",
+            "tags": [
+                "React",
+                "Flux",
+                "スライド"
+            ],
+            "date": "2015-04-29T05:07:43.883Z",
+            "relatedLinks": [
+                {
+                    "title": "社内勉強会でReactとFluxについて喋った - pixiv engineering blog",
+                    "url": "http://inside.pixiv.net/entry/2015/04/27/170944"
+                }
+            ]
         }
     ]
 }
