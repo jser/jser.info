@@ -1150,7 +1150,16 @@
                 "ReleaseNote"
             ],
             "date": "2015-04-29T12:37:40.120Z",
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Prevent iOS from improperly JIT-ing isArrayLike by jridgewell · Pull Request #2094 · jashkenas/underscore",
+                    "url": "https://github.com/jashkenas/underscore/pull/2094"
+                },
+                {
+                    "title": "Bug 142792 – Objects with numeric properties intermittently get a phantom 'length' property",
+                    "url": "https://bugs.webkit.org/show_bug.cgi?id=142792"
+                }
+            ]
         }
     ]
 }
