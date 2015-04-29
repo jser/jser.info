@@ -1043,6 +1043,23 @@
                     "url": "http://yutapon.hatenablog.com/entry/2015/04/27/150000"
                 }
             ]
+        },
+        {
+            "title": "Eliminate JavaScript Code Smells",
+            "url": "http://elijahmanor.github.io/talks/js-smells/#/",
+            "content": "JSHintやESLintを使って複雑なコードの検出、jsinspectやjscpdを使ってコピペを検出、色々なあやしいコードの検出するeslint pluginや特定のライブラリをサポートするeslint pluginについて",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "スライド"
+            ],
+            "date": "2015-04-29T05:24:42.125Z",
+            "relatedLinks": [
+                {
+                    "title": "elijahmanor/eslint-plugin-smells",
+                    "url": "https://github.com/elijahmanor/eslint-plugin-smells"
+                }
+            ]
         }
     ]
 }
