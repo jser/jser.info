@@ -1021,6 +1021,28 @@
                     "url": "http://inside.pixiv.net/entry/2015/04/27/170944"
                 }
             ]
+        },
+        {
+            "title": "10分で実装するFlux",
+            "url": "http://azu.github.io/slide/react-meetup/flux.html",
+            "content": "一からFluxアーキテクチャを実装してみてFluxがどういう仕組みで回ってるのかを確認していくスライド。\nFluxの特徴であるデータの一方通行に流れているかをスタックトレースで確認する",
+            "tags": [
+                "JavaScript",
+                "Flux",
+                "library",
+                "スライド"
+            ],
+            "date": "2015-04-29T05:09:45.493Z",
+            "relatedLinks": [
+                {
+                    "title": "橋本商会 » flux.DispatcherのwaitForの実装",
+                    "url": "http://shokai.org/blog/archives/9905"
+                },
+                {
+                    "title": "React+FluxでTodoMVCを作ってFluxについて学んでみた - yutaponのブログ",
+                    "url": "http://yutapon.hatenablog.com/entry/2015/04/27/150000"
+                }
+            ]
         }
     ]
 }
