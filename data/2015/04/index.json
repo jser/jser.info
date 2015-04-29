@@ -1206,6 +1206,17 @@
             ],
             "date": "2015-04-29T15:59:58.205Z",
             "relatedLinks": []
+        },
+        {
+            "title": "The npm Blog — solving npm’s hard problem: naming packages",
+            "url": "http://blog.npmjs.org/post/116936804365/solving-npms-hard-problem-naming-packages",
+            "content": "scoped moduleを private modules として登録する場合は有料だが、無料でpublicとして公開する事ができるという話。\n@<user>/<package name>という感じで名前空間を作れることが可能になる",
+            "tags": [
+                "npm",
+                "node.js"
+            ],
+            "date": "2015-04-29T16:55:07.856Z",
+            "relatedLinks": []
         }
     ]
 }
