@@ -1160,6 +1160,17 @@
                     "url": "https://bugs.webkit.org/show_bug.cgi?id=142792"
                 }
             ]
+        },
+        {
+            "title": "Dev.Opera — Opera 29 released",
+            "url": "https://dev.opera.com/blog/opera-29/",
+            "content": "Opera 29 (based on Chromium 42) リリース。\nES6 classes、object literalsの拡張サポート、Fetch APIがwindowコンテキストでも利用できるように、Web Audio APIの仕様追従など",
+            "tags": [
+                "Opera",
+                "ReleaseNote"
+            ],
+            "date": "2015-04-29T12:50:34.273Z",
+            "relatedLinks": []
         }
     ]
 }
