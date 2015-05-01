@@ -1,0 +1,94 @@
+{
+    "list": [
+        {
+            "title": "Brackets Blog - The Free, Open Source Code Editor for the Web",
+            "url": "http://blog.brackets.io/2015/04/27/brackets-1-3-release-is-here/",
+            "content": "Brackets 1.3 リリース。\nbracketsコマンドの追加、Code Foldingのサポート、Brackets Health Dataというユーザ情報の収集する仕組みが入った",
+            "tags": [
+                "JavaScript",
+                "editor",
+                "ReleaseNote"
+            ],
+            "date": "2015-04-30T15:24:43.960Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "Announcing TypeScript 1.5 Beta - TypeScript - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/typescript/archive/2015/04/30/announcing-typescript-1-5-beta.aspx",
+            "content": "TypeScript 1.5 Betaリリース。\n",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "date": "2015-05-01T08:25:52.570Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "Vorlon.JS",
+            "url": "http://vorlonjs.com/",
+            "content": "スクリプトタグを埋め込んでおくとリモートデバッグ出来るツール。\nConsole、DOMツリーの表示、Modernizrを使ったサポート状況の表示などが出来る。\nまたpluginで拡張する事が出来る",
+            "tags": [
+                "browser",
+                "debug",
+                "Tools"
+            ],
+            "date": "2015-05-01T08:51:07.756Z",
+            "relatedLinks": [
+                {
+                    "title": "MicrosoftDX/Vorlonjs",
+                    "url": "https://github.com/MicrosoftDX/Vorlonjs"
+                }
+            ]
+        },
+        {
+            "title": "javascript/react at master · airbnb/javascript",
+            "url": "https://github.com/airbnb/javascript/tree/master/react",
+            "content": "AirbnbのReactコードスタイルガイド",
+            "tags": [
+                "React",
+                "コードレビュー"
+            ],
+            "date": "2015-05-01T09:01:23.954Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "ES6 — strings — Medium",
+            "url": "https://medium.com/@mrzepinski/es6-string-bae03d964d43",
+            "content": "ES6のString関係のメソッドについてのまとめ",
+            "tags": [
+                "ECMAScript",
+                "JavaScript"
+            ],
+            "date": "2015-05-01T09:20:32.229Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "Isomorphic Survival Guide // Speaker Deck",
+            "url": "https://speakerdeck.com/koichik/isomorphic-survival-guide",
+            "content": "isomorphicというキーワードを歴史的な流れを踏まえて解説するスライド。\nフロントエンド/バックエンド/クライアントサイド/サーバサイドという言葉の意味の変遷、isomorphicの構成要素、Rendrが解決した事、React/Fluxが解決できている事などについて",
+            "tags": [
+                "JavaScript",
+                "サーバー",
+                "スライド"
+            ],
+            "date": "2015-05-01T09:44:41.424Z",
+            "relatedLinks": [
+                {
+                    "title": "isomorphic",
+                    "url": "https://html5experts.jp/shumpei-shiraishi/14895/"
+                }
+            ]
+        },
+        {
+            "title": "npmで名前空間を持ったモジュールを公開する方法(scoped modules) | Web Scratch",
+            "url": "http://efcl.info/2015/04/30/npm-namespace/",
+            "content": "npmでscoped modulesを無料で公開できるようになった。\nユーザ名を名前空間として使えるためモジュール名の重複を気にせず公開できる話",
+            "tags": [
+                "npm",
+                "node.js"
+            ],
+            "date": "2015-05-01T10:43:20.097Z",
+            "relatedLinks": []
+        }
+    ]
+}
