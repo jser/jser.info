@@ -135,6 +135,23 @@
             ],
             "date": "2015-05-04T12:44:28.879Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Designing Front-End Components",
+            "url": "http://ponyfoo.com/articles/designing-front-end-components",
+            "content": "UIライブラリを作るにあたり気をつける事。\nインラインスタイルを避けるべき、CSSクラスのprefixを付ける、スタイルは最小にする、ライブラリはplainなCSSを提供する。\n見通しの良いAPIと柔軟なAPI設計について",
+            "tags": [
+                "JavaScript",
+                "UI",
+                "library"
+            ],
+            "date": "2015-05-04T12:58:55.239Z",
+            "relatedLinks": [
+                {
+                    "title": "bevacqua/rome",
+                    "url": "https://github.com/bevacqua/rome#default-options"
+                }
+            ]
         }
     ]
 }
