@@ -152,6 +152,22 @@
                     "url": "https://github.com/bevacqua/rome#default-options"
                 }
             ]
+        },
+        {
+            "title": "io.js/CHANGELOG.md at master · iojs/io.js",
+            "url": "https://github.com/iojs/io.js/blob/master/CHANGELOG.md#2015-05-04-version-200-rvagg",
+            "content": "io.js 2.0.0リリース。\nBreaking changesはV8のC++ APIの変更と`os.tmpdir()`のみ。\nV8のアップデートによるES6対応の追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "date": "2015-05-05T12:28:26.710Z",
+            "relatedLinks": [
+                {
+                    "title": "yosuke-furukawa/iojs-new-features",
+                    "url": "https://github.com/yosuke-furukawa/iojs-new-features"
+                }
+            ]
         }
     ]
 }
