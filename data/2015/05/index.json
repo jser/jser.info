@@ -168,6 +168,17 @@
                     "url": "https://github.com/yosuke-furukawa/iojs-new-features"
                 }
             ]
+        },
+        {
+            "title": "ESDoc - An API Document Generator For JavaScript(ES6)",
+            "url": "https://esdoc.org/",
+            "content": "ESDocというJavaScript(ES6)のためのAPIドキュメントツールをつくりました。\n基本的にはJSDocと同じようにタグ(@paramなど)を見てドキュメントを生成します。\nESDocの特徴は以下のようなものです。\n- 詳細なドキュメントを生成する\n- ドキュメントのカバレッジを計測する\n- テストコードとドキュメントを関連付ける\n- ES6の``class``と``import/export``を使ったコードスタイルを対象とする",
+            "date": "2015-05-05T12:46:37.085Z",
+            "tags": [
+                "document",
+                "JSDoc"
+            ],
+            "relatedLinks": []
         }
     ]
 }
