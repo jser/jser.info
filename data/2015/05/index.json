@@ -180,7 +180,12 @@
                 "JSDoc",
                 "Tools"
             ],
-            "relatedLinks": [{ "title" : "Use JSDoc: Index", "url" : "http://usejsdoc.org/"}]
+            "relatedLinks": [
+                {
+                    "title": "Use JSDoc: Index",
+                    "url": "http://usejsdoc.org/"
+                }
+            ]
         },
         {
             "title": "Introducing Microsoft Edge Dev",
@@ -199,6 +204,10 @@
                 {
                     "title": "Developer Resources : MSEdge Dev",
                     "url": "http://dev.modern.ie/"
+                },
+                {
+                    "title": "Microsoft Edge",
+                    "url": "https://github.com/MicrosoftEdge/"
                 }
             ]
         }
