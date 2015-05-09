@@ -254,6 +254,17 @@
             ],
             "date": "2015-05-07T13:14:58.839Z",
             "relatedLinks": []
+        },
+        {
+            "title": "React v0.13.3 | React",
+            "url": "https://facebook.github.io/react/blog/2015/05/08/react-v0.13.3.html",
+            "content": "React v0.13.3リリース。\nES6 Classesを使った時に非推奨メソッドの警告を改善、\n`dangerouslySetInnerHTML`で値がundefinedの時に例外を投げないようになるなど",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "date": "2015-05-09T04:56:05.255Z",
+            "relatedLinks": []
         }
     ]
 }
