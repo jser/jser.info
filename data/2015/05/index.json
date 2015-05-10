@@ -305,6 +305,22 @@
                     "url": "https://frontenddevweekly.curated.co/"
                 }
             ]
+        },
+        {
+            "title": "Milliseconds Matter Modern JavaScript libraries: the isomorphic way",
+            "url": "https://blog.algolia.com/modern-javascript-libraries-the-isomorphic-way/",
+            "content": "Nodeとブラウザどちらでも動くライブラリ書いていく記事。\nfaux-jaxを使ったXHRのテストをzuulで動す。コールバックとPromiseのサポートについてやBrowserify等を使ったモジュールの変換、後方互換ガイドの書き方についてなど",
+            "tags": [
+                "JavaScript",
+                "tutorial"
+            ],
+            "date": "2015-05-10T14:53:43.558Z",
+            "relatedLinks": [
+                {
+                    "title": "algolia/faux-jax",
+                    "url": "https://github.com/algolia/faux-jax"
+                }
+            ]
         }
     ]
 }
