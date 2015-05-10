@@ -276,6 +276,18 @@
             ],
             "date": "2015-05-10T05:44:23.938Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ESLint 0.21.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2015/05/eslint-0.21.0-released",
+            "content": "ESLint 0.21.0リリース。\n`eslint --init`で設定ファイルの作成をインタラクティブに行えるように、外部の設定ファイルを継承出来るようになるなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2015-05-10T05:53:51.184Z",
+            "relatedLinks": []
         }
     ]
 }
