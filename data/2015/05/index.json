@@ -321,6 +321,18 @@
                     "url": "https://github.com/algolia/faux-jax"
                 }
             ]
+        },
+        {
+            "title": "Challenger.js",
+            "url": "http://rileyjshaw.com/challenger/",
+            "content": "練習問題などを作るライブラリ。\n期待する結果をコードで書いて検証でき、また入力されるコードをASTのNode名などを使ったwhitelist、blacklist方式で制限できる",
+            "tags": [
+                "JavaScript",
+                "library",
+                "AST"
+            ],
+            "date": "2015-05-11T06:32:55.453Z",
+            "relatedLinks": []
         }
     ]
 }
