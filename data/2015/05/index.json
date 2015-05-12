@@ -88,7 +88,16 @@
                 "node.js"
             ],
             "date": "2015-05-01T10:43:20.097Z",
-            "relatedLinks": [{ "title" : "CodeGrid 3周年記念パーティでnpmについて話してきました - 思ったこと", "url" : "http://watilde.hatenablog.com/entry/2015/05/11/110943"},{ "title" : "Daijiro Wachi — Medium", "url" : "https://medium.com/@watilde/"}]
+            "relatedLinks": [
+                {
+                    "title": "CodeGrid 3周年記念パーティでnpmについて話してきました - 思ったこと",
+                    "url": "http://watilde.hatenablog.com/entry/2015/05/11/110943"
+                },
+                {
+                    "title": "Daijiro Wachi — Medium",
+                    "url": "https://medium.com/@watilde/"
+                }
+            ]
         },
         {
             "title": "paldepind/flyd",
@@ -373,7 +382,12 @@
                 "ECMAScript"
             ],
             "date": "2015-05-12T07:36:35.207Z",
-            "relatedLinks": [{ "title" : "Hello, ES6 ~これから迎えるJSのミライ~ - @yoshiko_pg", "url" : "http://yoshiko-pg.github.io/slides/20150425-jsfes/"}]
+            "relatedLinks": [
+                {
+                    "title": "Hello, ES6 ~これから迎えるJSのミライ~ - @yoshiko_pg",
+                    "url": "http://yoshiko-pg.github.io/slides/20150425-jsfes/"
+                }
+            ]
         },
         {
             "title": "Immutability in JavaScript",
@@ -384,6 +398,22 @@
             ],
             "date": "2015-05-12T10:14:50.262Z",
             "relatedLinks": []
+        },
+        {
+            "title": "The Core Concepts of Angular 2 | Victor Savkin",
+            "url": "http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2",
+            "content": "AngularJS2のコアコンセプトについて。\nテンプレート、ライフサイクル、DI、コンポーネントなどの構成要素について。",
+            "tags": [
+                "AngularJS",
+                "設計"
+            ],
+            "date": "2015-05-12T11:52:13.702Z",
+            "relatedLinks": [
+                {
+                    "title": "angular/zone.js",
+                    "url": "https://github.com/angular/zone.js"
+                }
+            ]
         }
     ]
 }
