@@ -333,6 +333,18 @@
             ],
             "date": "2015-05-11T06:32:55.453Z",
             "relatedLinks": []
+        },
+        {
+            "title": "nkzawa/hyperd",
+            "url": "https://github.com/nkzawa/hyperd",
+            "content": "virtual-domを使ったUIコンポーネントライブラリ。\nhtml-to-domでHTMLからvirtual-domへの変換やコンポーネント自体がEventEmitterを継承している",
+            "tags": [
+                "JavaScript",
+                "UI",
+                "library"
+            ],
+            "date": "2015-05-12T02:45:07.223Z",
+            "relatedLinks": []
         }
     ]
 }
