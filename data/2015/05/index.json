@@ -349,7 +349,7 @@
         {
             "title": "Deku: How we built our functional alternative to React",
             "url": "https://segment.com/blog/deku-our-functional-alternative-to-react/",
-            "content": "Virtual DOMを持ち、Reactのようなライフサイクルを持つコンポーネントライブラリ。\nES6 Classesではなくライフサイクルに対応する関数をexportする形式となっていて`this`を気にせず書くことができる。\nファイルサイズが10kb程度",
+            "content": "Virtual DOMを持ち、Reactのようなライフサイクルを持つコンポーネントライブラリ。\nES6 Classesではなくライフサイクルに対応する関数をexportする形式となっていて`this`を気にせず書くことができる。\nまたNode.js上でも動作するためサーバサイドレンダリングが行える。\nファイルサイズが10kb程度。",
             "tags": [
                 "JavaScript",
                 "DOM",
