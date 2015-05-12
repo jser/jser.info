@@ -345,6 +345,24 @@
             ],
             "date": "2015-05-12T02:45:07.223Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Deku: How we built our functional alternative to React",
+            "url": "https://segment.com/blog/deku-our-functional-alternative-to-react/",
+            "content": "Virtual DOMを持ち、Reactのようなライフサイクルを持つコンポーネントライブラリ。\nES6 Classesではなくライフサイクルに対応する関数をexportする形式となっていて`this`を気にせず書くことができる。\nファイルサイズが10kb程度",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "UI",
+                "library"
+            ],
+            "date": "2015-05-12T06:57:01.103Z",
+            "relatedLinks": [
+                {
+                    "title": "segmentio/deku",
+                    "url": "https://github.com/segmentio/deku"
+                }
+            ]
         }
     ]
 }
