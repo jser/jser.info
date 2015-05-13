@@ -480,6 +480,22 @@
                     "url": "https://developer.mozilla.org/ja/Firefox/Releases/38/Site_Compatibility"
                 }
             ]
+        },
+        {
+            "title": "Bringing Node.js to Windows 10 IoT Core",
+            "url": "http://blogs.windows.com/buildingapps/2015/05/12/bringing-node-js-to-windows-10-iot-core/",
+            "content": "Chakra JavaScriptエンジンを使ったNode.jsのforkが公開された。",
+            "tags": [
+                "node.js",
+                "JavaScript"
+            ],
+            "date": "2015-05-13T06:59:55.988Z",
+            "relatedLinks": [
+                {
+                    "title": "Microsoft/node",
+                    "url": "https://github.com/Microsoft/node"
+                }
+            ]
         }
     ]
 }
