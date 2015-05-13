@@ -448,6 +448,30 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API"
                 }
             ]
+        },
+        {
+            "title": "Firefox — Notes (38.0) — Mozilla",
+            "url": "https://www.mozilla.org/en-US/firefox/38.0/releasenotes/",
+            "content": "Firefox 38.0リリース。\nruby要素のサポート、WebSocketがWeb Workerで動作するように、BroadcastChannel API、`srcset`属性とpicture要素のサポート、開発者ツールで`copy`関数のサポートなど",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "date": "2015-05-13T06:49:09.176Z",
+            "relatedLinks": [
+                {
+                    "title": "Ruby support in Firefox Developer Edition 38 ✩ Mozilla Hacks – the Web developer blog",
+                    "url": "https://hacks.mozilla.org/2015/03/ruby-support-in-firefox-developer-edition-38/"
+                },
+                {
+                    "title": "Trainspotting: Firefox 38 ✩ Mozilla Hacks – the Web developer blog",
+                    "url": "https://hacks.mozilla.org/2015/05/trainspotting-firefox-38/"
+                },
+                {
+                    "title": "Firefox 38の性能を検証 ゲーム・プラットフォームとしての優秀さを示す - Mozilla Flux",
+                    "url": "http://rockridge.hatenablog.com/entry/2015/05/13/003218"
+                }
+            ]
         }
     ]
 }
