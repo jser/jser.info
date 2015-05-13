@@ -431,6 +431,23 @@
                     "url": "http://babeljs.io/docs/usage/options/"
                 }
             ]
+        },
+        {
+            "title": "BroadcastChannel API in Firefox 38 ✩ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2015/02/broadcastchannel-api-in-firefox-38/",
+            "content": "Firefox38でBroadcastChannel APIが実装された。\n同じchannelを指定すれば、異なるタブやウィンドウ間でもメッセージのやり取りができるようになるAPI。\nBlobデータのやりとりも可能",
+            "tags": [
+                "firefox",
+                "JavaScript",
+                "WebPlatformAPI"
+            ],
+            "date": "2015-05-13T01:55:15.097Z",
+            "relatedLinks": [
+                {
+                    "title": "Broadcast Channel API - Web API Interfaces | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API"
+                }
+            ]
         }
     ]
 }
