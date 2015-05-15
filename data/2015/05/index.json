@@ -528,6 +528,21 @@
                     "url": "http://efcl.info/2015/05/06/this-is-es6-module/"
                 }
             ]
+        },
+        {
+            "title": "ブラウザでビジュアルテストをするreftest-runnerを作った | Web Scratch",
+            "url": "http://efcl.info/2015/05/14/reftest-runner/",
+            "content": "ブラウザの描画結果を比較する自動テストライブラリとコマンドラインツール。\n2つのHTMLを用意して表示結果が一致するかどうかテストをするので、Canvasのテストなどに利用できる",
+            "tags": [
+                "browser",
+                "testing",
+                "canvas",
+                "JavaScript",
+                "library",
+                "webdriver"
+            ],
+            "date": "2015-05-15T02:35:30.606Z",
+            "relatedLinks": []
         }
     ]
 }
