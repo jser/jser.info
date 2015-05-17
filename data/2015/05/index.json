@@ -677,6 +677,27 @@
             ],
             "date": "2015-05-17T13:03:34.960Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Do not Measure the Weather",
+            "url": "http://mrale.ph/talks/goto2015/#/",
+            "content": "計測と最適化の問題についてのスライド。\nJSエンジンはJITコンパイルするため計測結果は未最適化+最適化になる。場合によっては計測対象がdead codeとなり最適化によって消えているかもしれないのを実際にIRHydra2を使って検証する話",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "スライド"
+            ],
+            "date": "2015-05-17T13:27:05.265Z",
+            "relatedLinks": [
+                {
+                    "title": "V8の最適化とIRHydraでの可視化とベンチマークについてのメモ | Web Scratch",
+                    "url": "http://efcl.info/2014/09/13/v8-optimization-memo/"
+                },
+                {
+                    "title": "IRHydra2",
+                    "url": "http://mrale.ph/irhydra/2/"
+                }
+            ]
         }
     ]
 }
