@@ -644,6 +644,27 @@
             ],
             "date": "2015-05-17T12:49:43.246Z",
             "relatedLinks": []
+        },
+        {
+            "title": "0.9 released!",
+            "url": "http://blog.polymer-project.org/announcements/2015/05/14/0.9-release/",
+            "content": "polymer 0.9リリース。\n0.8でexperimentalだった機能がデフォルトサポートされている。\n`:root`セレクター、Gesture,\nCSPのサポートやUtilの追加など。\nBreaking Changeもあり、Migration guideが用意されている",
+            "tags": [
+                "WebComponents",
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-05-17T12:55:34.030Z",
+            "relatedLinks": [
+                {
+                    "title": "Release notes - Polymer",
+                    "url": "https://www.polymer-project.org/0.9/docs/release-notes.html"
+                },
+                {
+                    "title": "Migration guide - Polymer",
+                    "url": "https://www.polymer-project.org/0.9/docs/migration.html"
+                }
+            ]
         }
     ]
 }
