@@ -778,6 +778,23 @@
             ],
             "date": "2015-05-21T08:24:58.466Z",
             "relatedLinks": []
+        },
+        {
+            "title": "We have a problem with promises",
+            "url": "http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html",
+            "content": "Promiseの色々な落とし穴やアンチパターンについてよくまとまってる",
+            "tags": [
+                "JavaScript",
+                "Promises",
+                "まとめ"
+            ],
+            "date": "2015-05-21T10:04:57.957Z",
+            "relatedLinks": [
+                {
+                    "title": "JavaScript Promiseの本",
+                    "url": "http://azu.github.io/promises-book/"
+                }
+            ]
         }
     ]
 }
