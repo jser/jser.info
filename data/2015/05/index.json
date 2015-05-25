@@ -878,6 +878,23 @@
             ],
             "date": "2015-05-25T13:26:07.903Z",
             "relatedLinks": []
+        },
+        {
+            "title": "padolsey/operative",
+            "url": "https://github.com/padolsey/operative",
+            "content": "直接関数を渡してそれをWeb Workerで動かせるライブラリ。\n古いブラウザ向けのfallbackやPromiseのサポートなど、できるだけシームレスに書けるようにしてる",
+            "tags": [
+                "webworker",
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-05-25T15:43:17.355Z",
+            "relatedLinks": [
+                {
+                    "title": "operativeでWebWorkersを手軽に扱う - 四角革命前夜",
+                    "url": "http://blog.sasaplus1.com/2015/05/23/01/"
+                }
+            ]
         }
     ]
 }
