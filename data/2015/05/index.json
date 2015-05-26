@@ -930,6 +930,17 @@
             ],
             "date": "2015-05-26T04:55:29.257Z",
             "relatedLinks": []
+        },
+        {
+            "title": "graphite, grafana, sitespeed.io, diamond で継続 Web パフォーマンスモニタリング - Qiita",
+            "url": "http://qiita.com/Jxck_/items/abfa9f3dd15c5572cbfd",
+            "content": "sitespeed.ioを使い実際のブラウザを動かしてTiming API等のクライアントサイドでのメトリクス情報を継続的に取得したデータをgraphiteに保存し可視化する方法について",
+            "tags": [
+                "browser",
+                "performance"
+            ],
+            "date": "2015-05-26T17:08:39.867Z",
+            "relatedLinks": []
         }
     ]
 }
