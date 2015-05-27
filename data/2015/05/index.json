@@ -976,6 +976,23 @@
             ],
             "date": "2015-05-27T09:41:05.496Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Easily testing React components with react-test-tree — Qubit Engineering — Medium",
+            "url": "https://medium.com/qubit-engineering/easily-testing-react-components-with-react-test-tree-f9e1668b1c2d",
+            "content": "React component向けのテストライブラリ。\n対象のReact componentをラップしてclickなどのイベントのシミュレートや子componentをstubすることができる",
+            "tags": [
+                "React",
+                "testing",
+                "DOM"
+            ],
+            "date": "2015-05-27T09:43:26.160Z",
+            "relatedLinks": [
+                {
+                    "title": "react-test-tree/package.json at master · QubitProducts/react-test-tree",
+                    "url": "https://github.com/QubitProducts/react-test-tree/blob/master/package.json"
+                }
+            ]
         }
     ]
 }
