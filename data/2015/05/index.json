@@ -1062,6 +1062,23 @@
             ],
             "date": "2015-05-31T08:27:32.650Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ESLint 0.22.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2015/06/eslint-0.22.0-released",
+            "content": "ESLint 0.22.0リリース\nルールプラグインに設定のバリデーション用のJSON Schemaを書けるように、.eslintrcの設定ファイルをバリデーションできるように",
+            "tags": [
+                "Tools",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "date": "2015-05-31T11:24:49.919Z",
+            "relatedLinks": [
+                {
+                    "title": "format",
+                    "url": "http://eslint.org/docs/developer-guide/working-with-rules"
+                }
+            ]
         }
     ]
 }
