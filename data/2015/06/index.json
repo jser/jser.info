@@ -11,6 +11,39 @@
             ],
             "date": "2015-06-01T05:32:11.950Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Apigee API Studio",
+            "url": "http://apistudio.io/",
+            "content": "yamlなDSLでAPIを作ってモックサーバにしたり、APIのリファレンスを作成したりできるウェブサービス",
+            "tags": [
+                "API",
+                "webservice"
+            ],
+            "date": "2015-06-01T05:38:06.892Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "skadimoolam/x-doc",
+            "url": "https://github.com/skadimoolam/x-doc",
+            "content": "Node.js/io.jsをコマンドラインからオフラインで引けるリファレンスツール",
+            "tags": [
+                "node.js",
+                "リファレンス"
+            ],
+            "date": "2015-06-01T14:08:03.407Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "ES6 In Depth: Destructuring ✩ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/",
+            "content": "Destructuringの色々なパターンについて。\n配列、ES6 module、Iteratorなどとあわせた例",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2015-06-01T14:25:16.100Z",
+            "relatedLinks": []
         }
     ]
 }
