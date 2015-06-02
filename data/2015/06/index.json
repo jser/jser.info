@@ -67,6 +67,23 @@
             ],
             "date": "2015-06-02T09:09:17.272Z",
             "relatedLinks": []
+        },
+        {
+            "title": "gulp/CHANGELOG.md at v3.9.0 · gulpjs/gulp",
+            "url": "https://github.com/gulpjs/gulp/blob/v3.9.0/CHANGELOG.md",
+            "content": "gulp 3.9.0リリース。\ngullpfileをBabelやlivescriptで書けるようにinterpretのアップデートが入った(.babel.jsのように拡張子で判定される)",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2015-06-02T12:33:37.314Z",
+            "relatedLinks": [
+                {
+                    "title": "tkellen/js-interpret",
+                    "url": "https://github.com/tkellen/js-interpret"
+                }
+            ]
         }
     ]
 }
