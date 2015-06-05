@@ -140,7 +140,7 @@
         {
             "title": "React/dekuコンポーネントとthisのパターン | Web Scratch",
             "url": "http://efcl.info/2015/06/05/this-component/",
-            "content": "ReactのこｎをES6 Classesで書くと`this`が多くなる問題とイベントハンドラの登録/解除の例。\nまた、関数的なアプローチを持つdekuのコンポーネントとの違いについて",
+            "content": "ReactのコンポーネントをES6 Classesで書くと`this`が多くなる問題とイベントハンドラの登録/解除の例。\nまた、関数的なアプローチを持つdekuのコンポーネントとの違いについて",
             "tags": [
                 "React",
                 "JavaScript"
