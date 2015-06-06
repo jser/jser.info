@@ -169,6 +169,17 @@
             ],
             "date": "2015-06-06T06:39:24.325Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Integrity protection for third-party JavaScript // Speaker Deck",
+            "url": "https://speakerdeck.com/fmarier/integrity-protection-for-third-party-javascript-1",
+            "content": "ブラウザの実装してるサードパーティスクリプトに対するセキュリティについてのスライド。\nCSP、HSTS、SRIについて",
+            "tags": [
+                "browser",
+                "セキュリティ"
+            ],
+            "date": "2015-06-06T06:53:33.448Z",
+            "relatedLinks": []
         }
     ]
 }
