@@ -278,6 +278,23 @@
             ],
             "date": "2015-06-07T14:22:31.050Z",
             "relatedLinks": []
+        },
+        {
+            "title": "▶ Asynchronous JavaScript at Netflix by Matthew Podwysowski at JSConf Budapest 2015 - YouTube",
+            "url": "https://www.youtube.com/watch?v=a8W5VVGO-jA",
+            "content": "RxやObservableについての発表。\n非同期においてはPromiseがあるがCancelができない問題があり、またNode Streamは最適ではないとして、そこを扱うAPIデザインとしてのObservable、Rxについて紹介している",
+            "tags": [
+                "JavaScript",
+                "動画",
+                "スライド"
+            ],
+            "date": "2015-06-07T15:19:45.568Z",
+            "relatedLinks": [
+                {
+                    "title": "mattpodwysocki/jsconfbp-2015",
+                    "url": "https://github.com/mattpodwysocki/jsconfbp-2015"
+                }
+            ]
         }
     ]
 }
