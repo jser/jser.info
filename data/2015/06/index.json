@@ -342,6 +342,22 @@
             ],
             "date": "2015-06-10T01:28:52.936Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Safari 9.0",
+            "url": "https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Articles/Safari_9.html",
+            "content": "Safari 9.0での変更点としてTemplate strings、Classes、WeakSet、SymbolなどのES6サポート、開発者ツールのデザインや機能追加などが行われている",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "date": "2015-06-10T01:37:16.962Z",
+            "relatedLinks": [
+                {
+                    "title": "Safari 9.0の新機能の概要 - console.lealog();",
+                    "url": "http://lealog.hateblo.jp/entry/2015/06/09/115905"
+                }
+            ]
         }
     ]
 }
