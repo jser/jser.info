@@ -13,7 +13,10 @@ lastCommit=$(git log --oneline | head -n 1)
 git clone https://github.com/jser/source-data.git "${tmpDir}/source-data"
 mv ${currentDir}/converter/items.json "${tmpDir}/source-data"
 
+cd "${tmpDir}/source-data"
 # git update
 git add --all
 git commit -m "${lastCommit}"
-ls ${tmpDir}/source-data
+git push --force --quiet "https://${GH_TOKEN}@github.com/jser/source-data.git" gh-pages:gh-pages > /dev/null
+# pop
+cd -
