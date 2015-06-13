@@ -404,6 +404,23 @@
             ],
             "date": "2015-06-12T11:18:30.270Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Vue.js 0.12 released! - vue.js",
+            "url": "http://vuejs.org/2015/06/11/012-release/",
+            "content": "Vue.js 0.12リリース。\n`v-component`と`v-with`を廃止して代わりに`props`を利用するように、Asynchronous Components、Element Directivesの追加など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-06-13T08:11:08.502Z",
+            "relatedLinks": [
+                {
+                    "title": "Release 0.12.0: Dragon Ball · yyx990803/vue",
+                    "url": "https://github.com/yyx990803/vue/releases/tag/0.12.0"
+                }
+            ]
         }
     ]
 }
