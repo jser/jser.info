@@ -17,6 +17,10 @@ cd "${tmpDir}/source-data"
 # git update
 git add --all
 git commit -m "${lastCommit}"
-git push --force --quiet "https://${GH_TOKEN}@github.com/jser/source-data.git" gh-pages:gh-pages > /dev/null
+if [ -z "${GH_TOKEN}" ]; then
+    git push --force --quiet "https://github.com/jser/source-data.git" gh-pages:gh-pages > /dev/null
+else
+    git push --force --quiet "https://${GH_TOKEN}@github.com/jser/source-data.git" gh-pages:gh-pages > /dev/null
+fi
 # pop
 cd -
