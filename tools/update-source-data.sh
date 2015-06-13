@@ -16,4 +16,4 @@ mv ${currentDir}/converter/items.json "${tmpDir}/source-data"
 # git update
 git add --all
 git commit -m "${lastCommit}"
-ls ${tmpDir}
+ls ${tmpDir}/source-data1
