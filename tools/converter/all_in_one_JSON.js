@@ -14,22 +14,23 @@ function pLoadFileList(fileList) {
     }));
 }
 // 2013年4月以降はdateプロパティがあるので、それ以下は無視する
-var borderDate = "2013/04";
+//var borderDate = "2013/04";
 var concatenateJSONPromise = FS.listTree(path.join(__dirname, "/../../data/"), function isIndexHTML(filePath, stat) {
     if (stat.isDirectory()) {
         return false;
     }
-    var dirs = path.dirname(filePath).split(path.sep);
-    var yearMonth = dirs[dirs.length - 2] + "/" + dirs[dirs.length - 1];
-    if (yearMonth < borderDate) {
-        console.log("ignore : " + yearMonth);
-        return false;
-    }
+    //var dirs = path.dirname(filePath).split(path.sep);
+    //var yearMonth = dirs[dirs.length - 2] + "/" + dirs[dirs.length - 1];
+    //if (yearMonth < borderDate) {
+    //    console.log("ignore : " + yearMonth);
+    //    return false;
+    //}
     return path.basename(filePath) === "index.json";
 }).then(pLoadFileList).then(function (objectList) {
     return objectList.reduce(function (prev, current) {
         // dateがない月は無視する
         if (!current["list"][0].date) {
+            console.log(current);
             return prev;
         }
         return prev.concat(current["list"]);
