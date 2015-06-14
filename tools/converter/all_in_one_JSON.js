@@ -29,10 +29,11 @@ var concatenateJSONPromise = FS.listTree(path.join(__dirname, "/../../data/"), f
 }).then(pLoadFileList).then(function (objectList) {
     return objectList.reduce(function (prev, current) {
         // dateがない月は無視する
-        if (!current["list"][0].date) {
-            console.log(current);
-            return prev;
-        }
+        current["list"].forEach(function (item) {
+            if (!item["date"]) {
+                throw item;
+            }
+        });
         return prev.concat(current["list"]);
     }, []);
 });
