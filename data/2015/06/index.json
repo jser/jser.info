@@ -454,6 +454,17 @@
                     "url": "http://www.2ality.com/"
                 }
             ]
+        },
+        {
+            "title": "StrongLoop | New io.js Features You May Not Be Using",
+            "url": "https://strongloop.com/strongblog/new-io-js-features-you-may-not-be-using/",
+            "content": "io.js 2.1までに新しく入った機能についてのまとめ。\nES6、ドキュメントの改善、stream、unhandledRejection、Preload modules、Sync I/Oのデバッグなど",
+            "tags": [
+                "node.js",
+                "JavaScript"
+            ],
+            "date": "2015-06-14T02:30:18.710Z",
+            "relatedLinks": []
         }
     ]
 }
