@@ -499,6 +499,19 @@
             ],
             "date": "2015-06-14T16:05:48.717Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Chakram - REST API test framework",
+            "url": "http://dareid.github.io/chakram/",
+            "content": "Mocha上で動くREST APIのテストフレームワーク。\nchai-expectを拡張したレスポンスのassert、`expect(promise)`を使ってスッキリ書けるようにしているのが特徴\n",
+            "tags": [
+                "JavaScript",
+                "API",
+                "testing",
+                "library"
+            ],
+            "date": "2015-06-15T05:54:17.585Z",
+            "relatedLinks": []
         }
     ]
 }
