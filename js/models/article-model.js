@@ -47,6 +47,7 @@
         var that = this;
         that.inputModels = input || inputGroups;
         that.outputModels = output || outputGroups;
+        that.latestPostDate = null;
         that.reloadInput = function (array) {
             var inputModel = that.inputModels[0];
             inputModel.articles.removeAll();
@@ -61,6 +62,12 @@
             }
         };
         that.isVisited = function (article) {
+            if (that.latestPostDate) {
+                var articleDate = new Date(article.date);
+                if (articleDate.getTime() <= that.latestPostDate.getTime()) {
+                    return true;
+                }
+            }
             return window.app.visited.hasItem(article.url);
         };
     };
@@ -68,4 +75,4 @@
     window.app.model = {
         JSerModel: JSerModel
     }
-})()
+})();

@@ -83,8 +83,10 @@ $(function () {
         var date = cal.currentDate;
         var fileDirPath = "data/" + date.getFullYear() + '/' + format0((date.getMonth() + 1), 2);
         var JSONFilePath = fileDirPath + "/index.json?" + new Date().getTime();
-        window.app.client.load(JSONFilePath).done(function (data) {
-            var list = data.list;
+        $.when(window.app.client.loadItems(JSONFilePath), window.app.client.loadPosts()).done(function (items, posts) {
+            var list = items[0].list;
+            var latestPost = posts[0][0];
+            vm.latestPostDate = new Date(latestPost.date);
             vm.reloadInput(list);
             $("#content").data("file-dir-path", fileDirPath);
         }).fail(function (err) {
