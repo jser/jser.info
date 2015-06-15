@@ -512,6 +512,18 @@
             ],
             "date": "2015-06-15T05:54:17.585Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Unit testing React components without a DOM – simonsmith.io – Portfolio and blog of a London based front-end web developer",
+            "url": "http://simonsmith.io/unit-testing-react-components-without-a-dom/",
+            "content": "`React.addons.TestUtils.createRenderer` を使ったReact Componentのテストについて。",
+            "tags": [
+                "React",
+                "DOM",
+                "testing"
+            ],
+            "date": "2015-06-15T09:25:44.862Z",
+            "relatedLinks": []
         }
     ]
 }
