@@ -580,6 +580,18 @@
             ],
             "date": "2015-06-16T13:28:04.184Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release JSHint 2.8.0 · jshint/jshint",
+            "url": "https://github.com/jshint/jshint/releases/tag/2.8.0",
+            "content": "JSHint 2.8.0リリース。\n`module`でコードをES6 moduleとみなしてチェック出来るように、バグ修正など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2015-06-16T16:03:46.596Z",
+            "relatedLinks": []
         }
     ]
 }
