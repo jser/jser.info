@@ -635,6 +635,18 @@
             ],
             "date": "2015-06-18T13:47:52.891Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Brendan Eich » Blog Archive » From ASM.JS to WebAssembly",
+            "url": "https://brendaneich.com/2015/06/from-asm-js-to-webassembly/",
+            "content": "ブラウザ向けのバイナリフォーマットの標準化プロジェクトとして WebAssemblyが公開された。 サイズやロード時間の効率化のためのフォーマットで、第一段階の目標としてはasm.jsのバイナリ版、polyfillが予定されてる",
+            "tags": [
+                "WebAssembly",
+                "asm.js",
+                "JavaScript"
+            ],
+            "date": "2015-06-19T06:17:26.432Z",
+            "relatedLinks": []
         }
     ]
 }
