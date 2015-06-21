@@ -750,6 +750,18 @@
                     "url": "https://github.com/babel-plugins"
                 }
             ]
+        },
+        {
+            "title": "sighjs/sigh",
+            "url": "https://github.com/sighjs/sigh",
+            "content": "JavaScriptビルドツール。\ngulp pluginをサポートしていて、デフォルトで並列タスク、インクリメンタルリビルド、Source Mapの対応など他のビルドツールの特徴も持たせてる\nhttp://sighjs.github.io/",
+            "tags": [
+                "JavaScript",
+                "gulp",
+                "Tools"
+            ],
+            "date": "2015-06-21T14:08:24.253Z",
+            "relatedLinks": []
         }
     ]
 }
