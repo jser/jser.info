@@ -813,6 +813,23 @@
                     "url": "http://2015.jsconf.us/"
                 }
             ]
+        },
+        {
+            "title": "ECMAScript 2015 is now an Ecma Standard",
+            "url": "https://esdiscuss.org/topic/ecmascript-2015-is-now-an-ecma-standard",
+            "content": "ECMAScript 2015(ES6) 正式リリース。",
+            "tags": [
+                "ECMAScript",
+                "spec",
+                "ReleaseNote"
+            ],
+            "date": "2015-06-23T12:01:59.374Z",
+            "relatedLinks": [
+                {
+                    "title": "ECMAScript 2015 Language Specification – ECMA-262 6th Edition",
+                    "url": "http://www.ecma-international.org/ecma-262/6.0/"
+                }
+            ]
         }
     ]
 }
