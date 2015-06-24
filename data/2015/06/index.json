@@ -830,6 +830,19 @@
                     "url": "http://www.ecma-international.org/ecma-262/6.0/"
                 }
             ]
+        },
+        {
+            "title": "ES5 + Facebook JSXで書かれたJavaScriptコードベースをTypeScriptに移行させる - VOYAGE GROUP techlog",
+            "url": "http://techlog.voyagegroup.com/entry/2015/06/24/170611",
+            "content": "TypeScriptでES6 targetなコードを吐き出し、BabelでES5へ変換するビルドチェーンの形成について。\n既存のプロジェクトを段階的な移行のステップについて。",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "ECMAScript",
+                "React"
+            ],
+            "date": "2015-06-24T14:49:06.787Z",
+            "relatedLinks": []
         }
     ]
 }
