@@ -843,6 +843,58 @@
             ],
             "date": "2015-06-24T14:49:06.787Z",
             "relatedLinks": []
+        },
+        {
+            "title": "HTML5test - How well does your browser support HTML5?",
+            "url": "https://html5test.com/",
+            "content": "ブラウザの実装してるHTMLやJavaScriptの機能をテストしてスコアを出すサービス",
+            "tags": [
+                "webservice",
+                "HTML5",
+                "browser",
+                "WebPlatformAPI"
+            ],
+            "date": "2015-06-25T05:56:47.773Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "Announcing Orion 9.0 | Orion News",
+            "url": "http://planetorion.org/news/2015/06/language-tooling-goodness-in-orion-9-0/",
+            "content": "Orion 9.0リリース。\nTernをベースとしたコード解析に変更し、コード補完やコードナビゲーション、リファクタリング機能の追加。",
+            "tags": [
+                "JavaScript",
+                "IDE",
+                "ReleaseNote"
+            ],
+            "date": "2015-06-25T08:02:58.176Z",
+            "relatedLinks": [
+                {
+                    "title": "Eclipse、Webブラウザ上で動作する統合開発環境「Orion 9.0」をリリース：CodeZine",
+                    "url": "http://codezine.jp/article/detail/8798"
+                }
+            ]
+        },
+        {
+            "title": "Vorlon.js 0.0.15 is out ! - Etienne Margraff - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/emargraff/archive/2015/06/24/vorlon-js-0-0-15-is-out.aspx",
+            "content": "JavaScriptデバッグツールのVorlon.js 0.0.15リリース。\nネットワークパネル、DOMパネル、プラグイン機能の改善など",
+            "tags": [
+                "JavaScript",
+                "debug",
+                "ReleaseNote"
+            ],
+            "date": "2015-06-25T08:11:17.998Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "JavaScript Scene Tech Survey Results — JavaScript Scene — Medium",
+            "url": "https://medium.com/javascript-scene/javascript-scene-tech-survey-d2449a529ed",
+            "content": "Twitterなどで行ったJavaScriptアンケートの結果発表。\nNode.jsのユーザーが多めで、ES6を利用したことがある人が50%弱、関心のあるフレームワークなど",
+            "tags": [
+                "JavaScript"
+            ],
+            "date": "2015-06-25T08:15:05.032Z",
+            "relatedLinks": []
         }
     ]
 }
