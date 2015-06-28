@@ -918,6 +918,17 @@
             ],
             "date": "2015-06-28T07:29:14.344Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Metaprogramming in ES6: Symbols and why they're awesome",
+            "url": "http://blog.keithcirkel.co.uk/metaprogramming-in-es6-symbols/",
+            "content": "ES6とメタプログラミング。\nSymbolの使い方。Symbol.hasInstance、Symbol.iterator、Symbol.matchなどそれぞれを定義しておいた時の挙動について書かれてる",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2015-06-28T07:37:30.746Z",
+            "relatedLinks": []
         }
     ]
 }
