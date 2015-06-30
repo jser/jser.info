@@ -1015,6 +1015,31 @@
             ],
             "date": "2015-06-29T22:49:07.930Z",
             "relatedLinks": []
+        },
+        {
+            "title": "jsdom/Changelog.md at master · tmpvar/jsdom",
+            "url": "https://github.com/tmpvar/jsdom/blob/master/Changelog.md#550",
+            "content": "jsdom 5.5.0リリース。\npostMessageのサポート、`cloneNode`と`importNode`の問題を修正など",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-06-30T07:04:26.562Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "flow/Changelog.md at master · facebook/flow",
+            "url": "https://github.com/facebook/flow/blob/master/Changelog.md#v0131",
+            "content": "Flow v0.13.1リリース。\n`fiow ast`でESTree ASTを出力するように。class式、binary/octal integer literalのサポートなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2015-06-30T10:22:16.549Z",
+            "relatedLinks": []
         }
     ]
 }
