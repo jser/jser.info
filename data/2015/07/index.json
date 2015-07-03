@@ -45,6 +45,40 @@
             ],
             "date": "2015-07-02T13:56:53.457Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Amazon.com: Test-driven JavaScript Development eBook: Ravi Kumar Gupta, Harmeet Singh, Hetal Prajapati: Kindle Store",
+            "url": "http://www.amazon.com/Test-driven-JavaScript-Development-Kumar-Gupta-ebook/dp/B010T266P6",
+            "content": "2016年1月5日発売\nJavaScriptのTDD本",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "book"
+            ],
+            "date": "2015-07-03T08:25:08.614Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "Safe JavaScript Templating",
+            "url": "http://yahoo.github.io/secure-handlebars/",
+            "content": "Yahoo製のAutomatic Contextual Escapingを持ったHandlebars互換のテンプレーエンジン。\n",
+            "tags": [
+                "JavaScript",
+                "template",
+                "library",
+                "セキュリティ"
+            ],
+            "date": "2015-07-03T09:12:59.644Z",
+            "relatedLinks": [
+                {
+                    "title": "Frontend Security: Applying Contextual Escaping Automatically, or How…",
+                    "url": "http://www.slideshare.net/adonatwork/automatic-contextual-escaping-made-easy"
+                },
+                {
+                    "title": "yahoo/xss-filters",
+                    "url": "https://github.com/yahoo/xss-filters"
+                }
+            ]
         }
     ]
 }
