@@ -179,7 +179,7 @@
         {
             "title": "Cycle.js",
             "url": "http://cyclejs.github.io/index.html",
-            "content": "Rxを使った一方通行のデータフローとImmutabilityを実現するフレームワーク。_Model-View-Intent_というアーキテクチャを持ち、常にメインループを回った状態で、ユーザからの入力を_Intent_とし_Model_へ通知し、_Model_の変更を監視している_View_が更新される。それぞれの間をRxのObservableで繋ぐ。またViewにはvirtual-domを用いる。",
+            "content": "Rxを使った一方通行のデータフローとImmutabilityを実現するフレームワーク。_Model-View-Intent_というアーキテクチャを持ち、ユーザからの入力を_Intent_とし_Model_へ通知し、_Model_の変更を監視している_View_が更新される。それぞれの間をRxのObservableで繋ぐ。またViewにはvirtual-domを用いる。",
             "tags": [
                 "JavaScript",
                 "Rx",
