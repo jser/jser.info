@@ -99,6 +99,22 @@
                     "url": "https://developer.mozilla.org/ja/Firefox/Releases/39"
                 }
             ]
+        },
+        {
+            "title": "React v0.14 Beta 1 | React",
+            "url": "https://facebook.github.io/react/blog/2015/07/03/react-v0.14-beta-1.html",
+            "content": "React v0.14 Beta 1リリース。\nreactとreact-domにパッケージが分かれた。refsがDOM nodeそのものを指すようになるなど。\nまた移行用の変換ツールとしてreact-codemodが公開された",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "date": "2015-07-04T05:32:27.800Z",
+            "relatedLinks": [
+                {
+                    "title": "react-codemod",
+                    "url": "https://www.npmjs.com/package/react-codemod"
+                }
+            ]
         }
     ]
 }
