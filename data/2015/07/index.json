@@ -138,6 +138,18 @@
             ],
             "date": "2015-07-04T05:46:53.755Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Aerotwist - React + Performance = ?",
+            "url": "https://aerotwist.com/blog/react-plus-performance-equals-what/",
+            "content": "DOMは遅くてReactのVirtual DOMは早いと言われることがあるけどそれは本当なのか。\n写真を追加するサンプルをVanillaとReactで比較してみた結果から分かった事について",
+            "tags": [
+                "React",
+                "DOM",
+                "performance"
+            ],
+            "date": "2015-07-04T06:07:25.626Z",
+            "relatedLinks": []
         }
     ]
 }
