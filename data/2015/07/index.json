@@ -175,6 +175,28 @@
             ],
             "date": "2015-07-04T09:12:31.684Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Cycle.js",
+            "url": "http://cyclejs.github.io/index.html",
+            "content": "Rxを使った一方通行のデータフローto\nImmutabilityを実現するフレームワーク。\nModel-View-Intentというアーキテクチャを持ち、間をRxのObservableで繋ぐ。\nViewにはvirtual-domを用いる。",
+            "tags": [
+                "JavaScript",
+                "Rx",
+                "library",
+                "VirtualDOM"
+            ],
+            "date": "2015-07-04T14:06:39.403Z",
+            "relatedLinks": [
+                {
+                    "title": "Reactive MVC and the Virtual DOM — Futurice",
+                    "url": "http://futurice.com/blog/reactive-mvc-and-the-virtual-dom"
+                },
+                {
+                    "title": "Cyclejs vs mercuryjs · Issue #49 · cyclejs/cycle-core",
+                    "url": "https://github.com/cyclejs/cycle-core/issues/49"
+                }
+            ]
         }
     ]
 }
