@@ -197,6 +197,18 @@
                     "url": "https://github.com/cyclejs/cycle-core/issues/49"
                 }
             ]
+        },
+        {
+            "title": "Important security upgrades for node.js and io.js — Medium",
+            "url": "https://medium.com/@iojs/important-security-upgrades-for-node-js-and-io-js-8ac14ece5852",
+            "content": "Node.jsとio.jsにV8起因の脆弱性があったためセキュリティアップデートとしてNode.js v0.12.6、io.js-v2.3.3、io.js-v1.8.3がリリースされた",
+            "tags": [
+                "node.js",
+                "ReleaseNote",
+                "セキュリティ"
+            ],
+            "date": "2015-07-05T01:24:35.392Z",
+            "relatedLinks": []
         }
     ]
 }
