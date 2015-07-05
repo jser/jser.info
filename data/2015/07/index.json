@@ -208,7 +208,12 @@
                 "セキュリティ"
             ],
             "date": "2015-07-05T01:24:35.392Z",
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Node.js と io.js のCritical Security Issue について",
+                    "url": "http://blog.iojs.jp/important_security_issue.html"
+                }
+            ]
         }
     ]
 }
