@@ -225,6 +225,19 @@
             ],
             "date": "2015-07-06T09:46:49.130Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Perf audit: Loading performance · Issue #247 · reddit/reddit-mobile",
+            "url": "https://github.com/reddit/reddit-mobile/issues/247",
+            "content": "paulirishによるredditのモバイルサイトのローディング完了までに45秒かかってる原因について報告してるissue。\nChrome開発者ツール、React Perf、discなどを使って何が原因であるかを見ていく方法について参考になる",
+            "tags": [
+                "performance",
+                "mobile",
+                "browser",
+                "issue"
+            ],
+            "date": "2015-07-06T13:19:46.671Z",
+            "relatedLinks": []
         }
     ]
 }
