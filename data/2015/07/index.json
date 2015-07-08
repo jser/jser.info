@@ -260,6 +260,29 @@
             ],
             "date": "2015-07-07T15:23:07.920Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Jam3/math-as-code",
+            "url": "https://github.com/Jam3/math-as-code",
+            "content": "色々な数学記号や数式をJavaScriptで表現するチートシート",
+            "tags": [
+                "JavaScript",
+                "チートシート"
+            ],
+            "date": "2015-07-08T07:35:21.486Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "React on ES6+ · Babel",
+            "url": "https://babeljs.io/blog/2015/06/07/react-on-es6-plus",
+            "content": "Reactを題材にしたES6やES nextについての機能紹介。\n具体的にES5で書いたものがどう変わるかをReactを例にして解説してる。",
+            "tags": [
+                "JavaScript",
+                "babel",
+                "React"
+            ],
+            "date": "2015-07-08T13:21:27.635Z",
+            "relatedLinks": []
         }
     ]
 }
