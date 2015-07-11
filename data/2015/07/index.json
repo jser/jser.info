@@ -318,6 +318,18 @@
                     "url": "https://gist.github.com/azu/8f1afa948eeb2da3ad00"
                 }
             ]
+        },
+        {
+            "title": "A Formal Commitment to New Language Features",
+            "url": "http://jshint.com/blog/new-lang-features/",
+            "content": "BabelなどによってES nextの機能を試せるようになったが、JSHintがそれらの新しすぎる構文をサポートするのが難しい理由について。\n\n詳しくは [JSHint: A Formal Commitment to New Language Features - JSer.info](http://jser.info/2015/07/11/jshint-new-lang-features/ \"JSHint: A Formal Commitment to New Language Features - JSer.info\") に書きました。",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "Tools"
+            ],
+            "date": "2015-07-11T06:51:03.659Z",
+            "relatedLinks": []
         }
     ]
 }
