@@ -79,13 +79,22 @@ $(function () {
         return ('_' + Math.pow(10, len) + str).slice(-len);
     }
 
+    function findFirstJSerPost(posts) {
+        for (var i = 0; i < posts.length; i++) {
+            var post = posts[i];
+            if (/jser/i.test(post.category)) {
+                return post;
+            }
+        }
+    }
+
     var pickedCalendarHandler = function (cal) {
         var date = cal.currentDate;
         var fileDirPath = "data/" + date.getFullYear() + '/' + format0((date.getMonth() + 1), 2);
         var JSONFilePath = fileDirPath + "/index.json?" + new Date().getTime();
         $.when(window.app.client.loadItems(JSONFilePath), window.app.client.loadPosts()).done(function (items, posts) {
             var list = items[0].list;
-            var latestPost = posts[0][0];
+            var latestPost = findFirstJSerPost(posts[0]);
             vm.latestPostDate = new Date(latestPost.date);
             vm.reloadInput(list);
             $("#content").data("file-dir-path", fileDirPath);
