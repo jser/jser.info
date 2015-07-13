@@ -454,6 +454,17 @@
             ],
             "date": "2015-07-13T13:02:30.166Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Testing JavaScript Modules with Tape",
+            "url": "http://ponyfoo.com/articles/testing-javascript-modules-with-tape",
+            "content": "tape, proxyquire, sinon.jsを使ったテストについて。\ntapeによるテストの書き方、proxyquireとsinon.jsを使ったモックについて",
+            "tags": [
+                "JavaScript",
+                "testing"
+            ],
+            "date": "2015-07-13T13:11:10.168Z",
+            "relatedLinks": []
         }
     ]
 }
