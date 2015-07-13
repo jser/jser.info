@@ -5,6 +5,7 @@
  */
 
 $(function () {
+    var currentJSerNo;
     var app = window.app || {};
     var vm = new app.model.JSerModel();
     ko.bindingHandlers.sortable.afterMove = function (arg) {
@@ -54,8 +55,8 @@ $(function () {
         var template = Handlebars.compile(source);
         var result = template({
             Groups: filteredJSON
-        });
-        $("#js-dialog-textarea").text(result.trim());
+        }).trim();
+        $("#js-dialog-textarea").text("JSer.info #" + currentJSerNo + "\n\n----" + result);
         $("#jq-dialog").dialog({
             title: "Markdown",
             width: 700,
@@ -79,10 +80,14 @@ $(function () {
         return ('_' + Math.pow(10, len) + str).slice(-len);
     }
 
+    function isJSerCategory(post) {
+        return /jser/i.test(post.category)
+    }
+
     function findFirstJSerPost(posts) {
         for (var i = 0; i < posts.length; i++) {
             var post = posts[i];
-            if (/jser/i.test(post.category)) {
+            if (isJSerCategory(post)) {
                 return post;
             }
         }
@@ -94,7 +99,9 @@ $(function () {
         var JSONFilePath = fileDirPath + "/index.json?" + new Date().getTime();
         $.when(window.app.client.loadItems(JSONFilePath), window.app.client.loadPosts()).done(function (items, posts) {
             var list = items[0].list;
-            var latestPost = findFirstJSerPost(posts[0]);
+            var loadPosts = posts[0];
+            currentJSerNo = loadPosts.filter(isJSerCategory).length + 1 + 1;
+            var latestPost = findFirstJSerPost(loadPosts);
             vm.latestPostDate = new Date(latestPost.date);
             vm.reloadInput(list);
             $("#content").data("file-dir-path", fileDirPath);
