@@ -482,6 +482,34 @@
                     "url": "https://github.com/billautomata/d3js_design_patterns"
                 }
             ]
+        },
+        {
+            "title": "jQuery 3.0 and jQuery Compat 3.0 Alpha Versions Released | Official jQuery Blog",
+            "url": "http://blog.jquery.com/2015/07/13/jquery-3-0-and-jquery-compat-3-0-alpha-versions-released/",
+            "content": "jQuery 3.0αとjQuery Compat 3.0αリリース。\n`.show()`と`.hide()`のパフォーマンス改善、jQuery.DeferredがPromise/A+互換に、非推奨だったjqXHR.success | error | complete、イベントの`.load`/`.unload`/`.error`を削除。\nundocumentなメソッドを外から触れないように変更。\nアニメーションで再度requestAnimationFrameを使うように、カスタムセレクタの改善など",
+            "tags": [
+                "jQuery",
+                "ReleaseNote"
+            ],
+            "date": "2015-07-14T01:35:13.289Z",
+            "relatedLinks": [
+                {
+                    "title": "Issues · jquery/jquery",
+                    "url": "https://github.com/jquery/jquery/issues?q=is%3Aissue+milestone%3A3.0.0"
+                }
+            ]
+        },
+        {
+            "title": "High Performance Mobile Web - O'Reilly Media",
+            "url": "http://shop.oreilly.com/product/0636920035060.do",
+            "content": "2015年7月発売\nモバイルウェブサイトにおけるパフォーマンスについての書籍",
+            "tags": [
+                "browser",
+                "mobile",
+                "book"
+            ],
+            "date": "2015-07-14T09:56:54.865Z",
+            "relatedLinks": []
         }
     ]
 }
