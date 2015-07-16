@@ -544,6 +544,23 @@
             ],
             "date": "2015-07-16T14:05:48.270Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ESLint 1.0.0-rc-1 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2015/07/eslint-1.0.0-rc-1-released",
+            "content": "ESLint 1.0.0-rc-1リリース。\n`--reset`がデフォルトになり、ES6の対応改善、新しいルールの追加など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2015-07-16T15:04:53.473Z",
+            "relatedLinks": [
+                {
+                    "title": "Documentation - ESLint - Pluggable JavaScript linter",
+                    "url": "http://eslint.org/docs/1.0.0/user-guide/migrating-to-1.0.0"
+                }
+            ]
         }
     ]
 }
