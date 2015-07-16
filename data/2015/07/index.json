@@ -521,6 +521,29 @@
             ],
             "date": "2015-07-15T08:28:41.833Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Bringing componentization to the web: An overview of Web Components | Microsoft Edge Dev Blog",
+            "url": "http://blogs.windows.com/msedgedev/2015/07/14/bringing-componentization-to-the-web-an-overview-of-web-components/",
+            "content": "WebComponentsについての詳しい解説。\n何を目的にしているか、関連するコンポーネント実装の歴史。\nCSSスタイルのisolation、スタイルのスコープ、Global object isolation、iframeには欠けている部分についてなど",
+            "tags": [
+                "WebComponents",
+                "MSEdge",
+                "browser"
+            ],
+            "date": "2015-07-16T01:22:44.023Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "知らないと損するSassの組み込み関数徹底解剖 | Yuhiisk",
+            "url": "http://blog.yuhiisk.com/archive/2015/07/14/sass-built-in-functions.html",
+            "content": "Sassの関数まとめ",
+            "tags": [
+                "Sass",
+                "リファレンス"
+            ],
+            "date": "2015-07-16T14:05:48.270Z",
+            "relatedLinks": []
         }
     ]
 }
