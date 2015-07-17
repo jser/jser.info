@@ -561,6 +561,26 @@
                     "url": "http://eslint.org/docs/1.0.0/user-guide/migrating-to-1.0.0"
                 }
             ]
+        },
+        {
+            "title": "node-browserify/changelog.markdown at master · substack/node-browserify",
+            "url": "https://github.com/substack/node-browserify/blob/master/changelog.markdown#1100",
+            "content": "Browserify 11.0.0リリース。\nブラウザ向けの`stream`として使うreadable-streamをアップデートしStreams3ベースに。\nブラウザ向け`http`モジュールをFetch APIをベースとしたstream-httpへ変更しstreamをサポートできるように",
+            "tags": [
+                "browserify",
+                "ReleaseNote"
+            ],
+            "date": "2015-07-17T10:47:54.987Z",
+            "relatedLinks": [
+                {
+                    "title": "nodejs/readable-stream",
+                    "url": "https://github.com/nodejs/readable-stream"
+                },
+                {
+                    "title": "jhiesey/stream-http",
+                    "url": "https://github.com/jhiesey/stream-http"
+                }
+            ]
         }
     ]
 }
