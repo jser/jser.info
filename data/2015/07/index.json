@@ -628,6 +628,17 @@
             ],
             "date": "2015-07-18T04:50:58.891Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ES6 In Depth: Proxies ✩ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2015/07/es6-in-depth-proxies-and-reflect/",
+            "content": "Proxy APIについての解説。\nProxyで扱える14コのhandler、\nProxyの使いどころ、Revocable proxiesについてなど。\n\"オブジェクトはプロパティのコレクションである\"といえるかどうかの話",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2015-07-18T05:53:26.660Z",
+            "relatedLinks": []
         }
     ]
 }
