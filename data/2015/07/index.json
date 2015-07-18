@@ -581,6 +581,17 @@
                     "url": "https://github.com/jhiesey/stream-http"
                 }
             ]
+        },
+        {
+            "title": "StrongLoop | An Introduction to JavaScript ES6 Iterators",
+            "url": "https://strongloop.com/strongblog/introduction-to-es6-iterators/",
+            "content": "ES6 Iteratorについての解説。\nfor-ofとfor-inの違い、Symbol.iteratorを使って定義する方法とそれを利用する方法について",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2015-07-18T01:50:33.580Z",
+            "relatedLinks": []
         }
     ]
 }
