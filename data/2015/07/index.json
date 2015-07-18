@@ -592,6 +592,18 @@
             ],
             "date": "2015-07-18T01:50:33.580Z",
             "relatedLinks": []
+        },
+        {
+            "title": "V8 JavaScript Engine: V8 4.5 release",
+            "url": "http://v8project.blogspot.com/2015/07/v8-45-release.html",
+            "content": "V8 4.5(Chrome 45)リリース。\nArray Function、Array/TypedArrayのメソッド追加、Object.assign、最適化コンパイラのTurboFan、V8 APIの変更など",
+            "tags": [
+                "JavaScript",
+                "V8",
+                "ReleaseNote"
+            ],
+            "date": "2015-07-18T02:56:44.070Z",
+            "relatedLinks": []
         }
     ]
 }
