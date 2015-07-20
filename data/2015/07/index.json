@@ -661,6 +661,17 @@
             ],
             "date": "2015-07-18T13:06:06.928Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Flux in Depth. Store and Network Communication. – Minko Gechev's blog",
+            "url": "http://blog.mgechev.com/2015/07/18/flux-in-depth-store-network-communication-services",
+            "content": "Fluxからネットワークを含めたデータフローについて。\nStore --> View、View --> Storeまでの流れ、モデルとStateの分離。\nNetwork --> UI、UI --> Networkのパターンについて",
+            "tags": [
+                "Flux",
+                "JavaScript"
+            ],
+            "date": "2015-07-20T01:46:12.110Z",
+            "relatedLinks": []
         }
     ]
 }
