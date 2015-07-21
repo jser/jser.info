@@ -735,6 +735,24 @@
                     "url": "https://github.com/Microsoft/TypeScript/wiki/Roadmap#15"
                 }
             ]
+        },
+        {
+            "title": "azu/browser-javascript-resource",
+            "url": "https://github.com/azu/browser-javascript-resource",
+            "content": "IEやFirefoxなどブラウザごとのリリースノートや更新履歴、実装状況、バグレポートの方法などをまとめたもの",
+            "tags": [
+                "browser",
+                "JavaScript",
+                "blog",
+                "まとめ"
+            ],
+            "date": "2015-07-21T13:44:57.792Z",
+            "relatedLinks": [
+                {
+                    "title": "ブラウザ毎のリリースノートや実装状況はどこを見ればいいかをまとめました | Web Scratch",
+                    "url": "http://efcl.info/2015/07/21/browser-javascript-resource/"
+                }
+            ]
         }
     ]
 }
