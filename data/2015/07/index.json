@@ -719,6 +719,17 @@
             ],
             "date": "2015-07-21T02:50:48.967Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Announcing TypeScript 1.5 - TypeScript - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/typescript/archive/2015/07/20/announcing-typescript-1-5.aspx",
+            "content": "TypeScript 1.5リリース。\nmodulesやdestructuring等ES6の対応改善、tsconfig.jsonによるプロジェクト設定、Decoratorを`--experimentalDecorators`フラグで試験的サポートなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "date": "2015-07-21T13:41:02.595Z",
+            "relatedLinks": []
         }
     ]
 }
