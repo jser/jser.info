@@ -777,6 +777,54 @@
             ],
             "date": "2015-07-23T04:09:45.890Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Bringing automated testing to Microsoft Edge through WebDriver | Microsoft Edge Dev Blog",
+            "url": "http://blogs.windows.com/msedgedev/2015/07/23/bringing-automated-testing-to-microsoft-edge-through-webdriver/",
+            "content": "MSEdgeがWebDriverをサポート。\nMicrosoftWebDriver serverが公開された。",
+            "tags": [
+                "MSEdge",
+                "webdriver"
+            ],
+            "date": "2015-07-24T03:15:13.722Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "jdalton/polyfill-guide",
+            "url": "https://github.com/jdalton/polyfill-guide",
+            "content": "polyfillの書き方のガイド",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-07-24T06:53:29.101Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "schteppe/p2.js",
+            "url": "https://github.com/schteppe/p2.js",
+            "content": "2D物理エンジンライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-07-24T07:09:11.938Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "JavaScript engine for Internet of Things",
+            "url": "http://samsung.github.io/jerryscript/",
+            "content": "サムスンの組み込み向けJavaScriptエンジン。ファイルサイズが小さめでIoT向け。 iotjs というNode.js的なフレームワークも作ってる。\n\n- JerryScript : V8\n- iotjs : Node.js\n\nのような関係",
+            "tags": [
+                "JavaScript"
+            ],
+            "date": "2015-07-24T08:04:33.808Z",
+            "relatedLinks": [
+                {
+                    "title": "Platform for Internet of Things with JavaScript",
+                    "url": "http://samsung.github.io/iotjs/"
+                }
+            ]
         }
     ]
 }
