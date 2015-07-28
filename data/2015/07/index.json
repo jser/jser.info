@@ -875,6 +875,22 @@
             ],
             "date": "2015-07-28T08:34:41.260Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Chromium Blog: Chrome 45 Beta: New ES2015 features, service worker improvements, and media controls",
+            "url": "http://blog.chromium.org/2015/07/chrome-45-beta-new-es2015-features.html",
+            "content": "Chrome 45 Betaリリース。\nArrow FunctionやObject.assignなどのサポート、Subresource Integrityのサポート、SVGアニメーションを行うSMILを非推奨に、ServiceWorkerへpostMessageでメッセージをやりとりできるようになるなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "date": "2015-07-28T08:41:59.304Z",
+            "relatedLinks": [
+                {
+                    "title": "Subresource Integrity Sample",
+                    "url": "https://googlechrome.github.io/samples/subresource-integrity/index.html"
+                }
+            ]
         }
     ]
 }
