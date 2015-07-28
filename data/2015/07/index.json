@@ -895,7 +895,7 @@
         {
             "title": "channikhabra/yarr",
             "url": "https://github.com/channikhabra/yarr",
-            "content": "クライアントのみで動くRSSリーダを題材としたJavaScriptアプリのチュートリアル。\nBabel、dexie、jQuery、Rx、virtual-domで作られていて、どう作られたかの解説と共にgit tagでバージョン毎に見られるようになっているチュートリアル",
+            "content": "クライアントのみで動くRSSリーダーを題材としたJavaScriptアプリのチュートリアル。\nBabel、dexie、jQuery、Rx、virtual-domで作られている。\nまた、どういう手順で作成するのかというのをGit tagでバージョン毎に見られるようにして、それぞれのバージョン毎に解説が書かれている。",
             "tags": [
                 "JavaScript",
                 "rss",
