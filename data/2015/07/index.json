@@ -907,6 +907,22 @@
             ],
             "date": "2015-07-28T08:46:12.656Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release 1.0.0 - 2015.07.22 · zloirock/core-js · GitHub",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v1.0.0",
+            "content": "Babelにも同梱されてるES5、ES6、ES.nextのpolyfillであるcore-js 1.0.0リリース。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-07-28T12:54:40.005Z",
+            "relatedLinks": [
+                {
+                    "title": "Polyfill · Babel",
+                    "url": "https://babeljs.io/docs/usage/polyfill/"
+                }
+            ]
         }
     ]
 }
