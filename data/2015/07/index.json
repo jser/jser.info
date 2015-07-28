@@ -953,6 +953,18 @@
             ],
             "date": "2015-07-28T13:28:25.401Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Building Plugins for React Apps",
+            "url": "https://nylas.com/blog/react-plugins",
+            "content": "React Componentを独立性を保つにはどうするかという話\nStore同士に複雑な依存があると大変なので中央で管理するOmniStoreという概念の導入、Componentがただのデータであることを利用したDIする仕組み、Componentの独立性を確保するパターンについて等",
+            "tags": [
+                "React",
+                "Flux",
+                "tutorial"
+            ],
+            "date": "2015-07-28T13:47:26.283Z",
+            "relatedLinks": []
         }
     ]
 }
