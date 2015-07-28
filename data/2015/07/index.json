@@ -891,6 +891,18 @@
                     "url": "https://googlechrome.github.io/samples/subresource-integrity/index.html"
                 }
             ]
+        },
+        {
+            "title": "channikhabra/yarr",
+            "url": "https://github.com/channikhabra/yarr",
+            "content": "クライアントのみで動くRSSリーダを題材としたJavaScriptアプリのチュートリアル。\nBabel、dexie、jQuery、Rx、virtual-domで作られていて、どう作られたかの解説と共にgit tagでバージョン毎に見られるようになっているチュートリアル",
+            "tags": [
+                "JavaScript",
+                "rss",
+                "tutorial"
+            ],
+            "date": "2015-07-28T08:46:12.656Z",
+            "relatedLinks": []
         }
     ]
 }
