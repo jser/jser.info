@@ -1001,6 +1001,17 @@
             ],
             "date": "2015-07-30T09:34:50.456Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Flow | Version 0.14.0",
+            "url": "http://flowtype.org/blog/2015/07/29/Version-0.14.0.html",
+            "content": "Flow 0.14.0リリース。\n型指定してないパラメータを`any`と扱うように、Flowコメント構文をブロックコメント内で使えるようになるなど",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "date": "2015-07-30T13:34:54.476Z",
+            "relatedLinks": []
         }
     ]
 }
