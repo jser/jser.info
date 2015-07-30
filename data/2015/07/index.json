@@ -977,6 +977,18 @@
             ],
             "date": "2015-07-28T13:54:28.501Z",
             "relatedLinks": []
+        },
+        {
+            "title": "New regular expression features in ECMAScript 6",
+            "url": "http://www.2ality.com/2015/07/regexp-es6.html",
+            "content": "ES6で追加された正規表現の要素について。\nsticky flag、unicode flag、`\\u{...}`によるEscape sequencesについて",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "正規表現"
+            ],
+            "date": "2015-07-30T09:13:23.160Z",
+            "relatedLinks": []
         }
     ]
 }
