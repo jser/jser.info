@@ -989,6 +989,18 @@
             ],
             "date": "2015-07-30T09:13:23.160Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Flux inside Web Workers — Medium",
+            "url": "https://medium.com/@nsisodiya/flux-inside-web-workers-cc51fb463882",
+            "content": "DOM lessな実装をしてればWeb Workerでも動かせる。\nFluxをベースにStore->View、View->ActionをpostMessageでやりとりすることで、View以外をWeb Worker上で処理できるという話",
+            "tags": [
+                "JavaScript",
+                "Flux",
+                "DOM"
+            ],
+            "date": "2015-07-30T09:34:50.456Z",
+            "relatedLinks": []
         }
     ]
 }
