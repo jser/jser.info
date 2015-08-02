@@ -57,7 +57,7 @@
         {
             "title": "Isomorphic Architecture を実装してるときの細かいアレコレ ::ハブろぐ",
             "url": "http://havelog.ayumusato.com/develop/javascript/e682-universal_architecture_tips.html",
-            "content": "シングルページアプリケーションとサーバサイドレンダリングを扱う際に起こる問題と解決策について。\n設定の共有をするか、UAの評価、React Componentを`<head>`への適応方法、ライフサイクルの管理などについて",
+            "content": "シングルページアプリケーションとサーバサイドレンダリングを扱う際に起こる問題と解決策について。\n設定の共有をするか、UAの評価、React Componentの`<head>`への適応方法、ライフサイクルの管理などについて",
             "tags": [
                 "isomorphic",
                 "JavaScript"
