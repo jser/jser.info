@@ -36,6 +36,23 @@
             ],
             "date": "2015-08-02T02:53:17.180Z",
             "relatedLinks": []
+        },
+        {
+            "title": "| Intern 3 is here! | Blog | SitePen",
+            "url": "https://www.sitepen.com/blog/2015/07/30/intern-3-is-here/",
+            "content": "JavaScriptテストフレームワークのIntern 3リリース。\nIE8のサポート終了、ES6の対応改善、d.tsを追加、QUnit互換のサポートなど\n",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "date": "2015-08-02T03:19:41.748Z",
+            "relatedLinks": [
+                {
+                    "title": "Release 3.0.0 · theintern/intern",
+                    "url": "https://github.com/theintern/intern/releases/3.0.0"
+                }
+            ]
         }
     ]
 }
