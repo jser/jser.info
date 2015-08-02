@@ -64,6 +64,17 @@
             ],
             "date": "2015-08-02T05:05:13.074Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Non-blocking Asynchronous JSON.parse Using The Fetch API",
+            "url": "http://azimi.me/2015/07/30/non-blocking-async-json-parse.html",
+            "content": "Fetch APIで提供されてるResponseオブジェクトを使い`(new Response(string)).json()`を非同期JSON.parseとして利用する方法について",
+            "tags": [
+                "JavaScript",
+                "JSON"
+            ],
+            "date": "2015-08-02T05:37:25.506Z",
+            "relatedLinks": []
         }
     ]
 }
