@@ -75,6 +75,23 @@
             ],
             "date": "2015-08-02T05:37:25.506Z",
             "relatedLinks": []
+        },
+        {
+            "title": "WebRTCセキュリティレポート · A Study of WebRTC Security",
+            "url": "http://webrtc-security.github.io/report_ja/",
+            "content": "WebRTCのセキュリティについての文章。\nWebRTCがどういう仕組みで動いているのか、信頼性が何をベースとして構築されているか、暗号のメカニズム、安全に扱う方法についてなど",
+            "tags": [
+                "JavaScript",
+                "WebRTC",
+                "セキュリティ"
+            ],
+            "date": "2015-08-02T13:00:35.295Z",
+            "relatedLinks": [
+                {
+                    "title": "WebRTC入門+最新動向",
+                    "url": "http://www.slideshare.net/rotsuya/intro-webrtcppt"
+                }
+            ]
         }
     ]
 }
