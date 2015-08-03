@@ -103,6 +103,32 @@
             ],
             "date": "2015-08-02T15:13:48.440Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release 2.5.0 · jquery/esprima",
+            "url": "https://github.com/jquery/esprima/releases/tag/2.5.0",
+            "content": "esprima 2.5.0リリース。\nES6の全ての機能をパースできるように",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-08-03T07:59:32.167Z",
+            "relatedLinks": [
+                {
+                    "title": "esprima/ChangeLog at 2.5.0 · jquery/esprima",
+                    "url": "https://github.com/jquery/esprima/blob/2.5.0/ChangeLog"
+                },
+                {
+                    "title": "ES6 Main Tracking Issue · Issue #1099 · jquery/esprima",
+                    "url": "https://github.com/jquery/esprima/issues/1099"
+                },
+                {
+                    "title": "Esprima Meeting Agenda - Google ドキュメント",
+                    "url": "https://docs.google.com/document/d/1l02VT94tdphwUUZfPJorRYOY0Q_v41R_TyYhKayiP9M/edit"
+                }
+            ]
         }
     ]
 }
