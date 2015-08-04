@@ -173,6 +173,18 @@
             ],
             "date": "2015-08-04T03:30:37.133Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release RxJS Version 3.0 · Reactive-Extensions/RxJS",
+            "url": "https://github.com/Reactive-Extensions/RxJS/releases/tag/v3.0.0",
+            "content": "RxJS 3.0リリース。\nCoreパッケージとLiteパッケージへの追加。\n`Rx.Observable.fromEvent`/`Rx.Observable.spawn`/`Rx.Observable.prototype.scan`の引数の破壊的な変更など",
+            "tags": [
+                "JavaScript",
+                "Rx",
+                "ReleaseNote"
+            ],
+            "date": "2015-08-04T03:56:21.186Z",
+            "relatedLinks": []
         }
     ]
 }
