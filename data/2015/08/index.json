@@ -201,6 +201,17 @@
                     "url": "https://github.com/nodejs/io.js/wiki/Breaking-Changes#300-from-2x"
                 }
             ]
+        },
+        {
+            "title": "Dev.Opera — Opera 31 released",
+            "url": "https://dev.opera.com/blog/opera-31/",
+            "content": "Opera 31 (based on Chromium 44)リリース。\n`document.scrollingElement`、ES6 computed property names、Unicode code point escapesのサポートなど",
+            "tags": [
+                "Opera",
+                "ReleaseNote"
+            ],
+            "date": "2015-08-05T13:57:54.008Z",
+            "relatedLinks": []
         }
     ]
 }
