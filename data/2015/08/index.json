@@ -185,6 +185,22 @@
             ],
             "date": "2015-08-04T03:56:21.186Z",
             "relatedLinks": []
+        },
+        {
+            "title": "io.js/CHANGELOG.md at master · nodejs/io.js",
+            "url": "https://github.com/nodejs/io.js/blob/master/CHANGELOG.md#2015-08-04-version-300-rvagg",
+            "content": "io.js 3.0.0リリース。\nV8のアップデートによりES6のサポート改善、`Buffer.concat`の挙動変更などいくつか非互換の変更も含まれる",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "date": "2015-08-05T12:49:51.551Z",
+            "relatedLinks": [
+                {
+                    "title": "Breaking Changes · nodejs/io.js Wiki",
+                    "url": "https://github.com/nodejs/io.js/wiki/Breaking-Changes#300-from-2x"
+                }
+            ]
         }
     ]
 }
