@@ -250,6 +250,19 @@
             ],
             "date": "2015-08-08T03:54:49.584Z",
             "relatedLinks": []
+        },
+        {
+            "title": "jsdom/Changelog.md at 6.0.0 · tmpvar/jsdom",
+            "url": "https://github.com/tmpvar/jsdom/blob/6.0.0/Changelog.md",
+            "content": "jsdom 6.0.0リリース。\nio.js 2.0以上が必要に、パフォーマンスの改善、`window.onerror`が動くように、`URL`オブジェクトのサポートなど",
+            "tags": [
+                "DOM",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-08-08T05:57:23.568Z",
+            "relatedLinks": []
         }
     ]
 }
