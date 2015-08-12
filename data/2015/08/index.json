@@ -356,6 +356,24 @@
             ],
             "date": "2015-08-10T13:20:22.756Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Relay | A JavaScript framework for building data-driven React applications",
+            "url": "https://facebook.github.io/relay/",
+            "content": "GraphQLを使ったデータのやりとりをするフレームワーク。\nRelay.QLなどES6 template literalが前提になった作りになっていて面白い。",
+            "tags": [
+                "React",
+                "JavaScript",
+                "library",
+                "facebook"
+            ],
+            "date": "2015-08-12T03:00:12.960Z",
+            "relatedLinks": [
+                {
+                    "title": "Relay Technical Preview | React",
+                    "url": "https://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html"
+                }
+            ]
         }
     ]
 }
