@@ -57,7 +57,7 @@ $(function () {
         var result = template({
             Groups: filteredJSON
         }).trim();
-        $("#js-dialog-textarea").text("JSer.info #" + currentJSerNo + "\n\n----" + result);
+        $("#js-dialog-textarea").text("JSer.info #" + currentJSerNo + "\n\n----\n" + result);
         $("#jq-dialog").dialog({
             title: "Markdown",
             width: 700,
