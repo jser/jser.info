@@ -32,7 +32,8 @@ $(function () {
         return text.replace(markdown_literal, "\\$&");
     });
     Handlebars.registerHelper('ttp', function (text) {
-        return text.replace(/https?:\/\//i, "");
+        return text.replace(/https?:\/\//i, "")
+            .replace(/_/g, "\\_");
     });
     function getOutputJSON() {
         var json = ko.toJS(vm.outputModels);
