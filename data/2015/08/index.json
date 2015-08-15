@@ -472,6 +472,17 @@
             ],
             "date": "2015-08-15T04:12:11.747Z",
             "relatedLinks": []
+        },
+        {
+            "title": "patrick-steele-idem/morphdom",
+            "url": "https://github.com/patrick-steele-idem/morphdom",
+            "content": "Virutal DOMではなくDOMを使ってdiff/patchをしてDOM Nodeを置き換えるライブラリ。\n`virtual-dom`と比較したベンチマークも書かれている。",
+            "tags": [
+                "DOM",
+                "library"
+            ],
+            "date": "2015-08-15T05:46:57.392Z",
+            "relatedLinks": []
         }
     ]
 }
