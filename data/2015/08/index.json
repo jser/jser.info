@@ -495,6 +495,17 @@
             ],
             "date": "2015-08-15T11:08:00.508Z",
             "relatedLinks": []
+        },
+        {
+            "title": "scottcorgan/immu",
+            "url": "https://github.com/scottcorgan/immu",
+            "content": "Immutable Objectを扱うライブラリ。\nObject.definePropertyやObject.freezeを使ってArrayやObjectの変更を防止したオブジェクトを作成する",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-08-15T16:50:28.637Z",
+            "relatedLinks": []
         }
     ]
 }
