@@ -454,6 +454,19 @@
             ],
             "date": "2015-08-14T15:23:33.960Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release v1.0.0 · rackt/redux",
+            "url": "https://github.com/rackt/redux/releases/tag/v1.0.0",
+            "content": "Redux 1.0.0リリース。\nStateを管理するコンテナを提供することでFluxのActionCreatorとStoreにあたるものをただの関数として書けるようにし、単方向データの流れを行うライブラリ。",
+            "tags": [
+                "JavaScript",
+                "Flux",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-08-15T04:12:11.747Z",
+            "relatedLinks": []
         }
     ]
 }
