@@ -527,6 +527,17 @@
             ],
             "date": "2015-08-17T10:53:25.304Z",
             "relatedLinks": []
+        },
+        {
+            "title": "flux-utilsについて",
+            "url": "https://gist.github.com/azu/e0274b703ef97226b0db",
+            "content": "Facebookのfluxモジュールに追加されたutilsについて。\n今まではDispatcherのみだったがStoreやReact Componentと連携するためのContainerなどが提供されたことについて",
+            "tags": [
+                "Flux",
+                "JavaScript"
+            ],
+            "date": "2015-08-17T11:07:37.957Z",
+            "relatedLinks": []
         }
     ]
 }
