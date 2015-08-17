@@ -516,6 +516,17 @@
             ],
             "date": "2015-08-16T14:59:17.731Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ES6 In Depth: Modules ✩ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2015/08/es6-in-depth-modules/",
+            "content": "ES6 modulesのimport/exportの多様な構文のそれぞれの動作についての解説。\nModuleの仕様を分解してみた時にLoadingについてはECMAScriptでは未定義であること、構文的にstaticであることなどについて書かれている",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2015-08-17T10:53:25.304Z",
+            "relatedLinks": []
         }
     ]
 }
