@@ -538,6 +538,26 @@
             ],
             "date": "2015-08-17T11:07:37.957Z",
             "relatedLinks": []
+        },
+        {
+            "title": "MozillaZine.jp » Blog Archive » Firefox 40 がリリースされた",
+            "url": "http://mozillazine.jp/?p=4868",
+            "content": "Firefox 40リリース。\n`return`に書かれた到達できないコードへの警告がコンソールへ出るように開発者ツールの改善、Web Audio APIの仕様追従、Web Animations APIの仕様追従など",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "date": "2015-08-17T11:14:55.975Z",
+            "relatedLinks": [
+                {
+                    "title": "Firefox 40 サイト互換性情報 - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/ja/Firefox/Releases/40/Site_Compatibility"
+                },
+                {
+                    "title": "Firefox 40 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/ja/Firefox/Releases/40"
+                }
+            ]
         }
     ]
 }
