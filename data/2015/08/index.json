@@ -558,6 +558,22 @@
                     "url": "https://developer.mozilla.org/ja/Firefox/Releases/40"
                 }
             ]
+        },
+        {
+            "title": "Falcor: One Model Everywhere",
+            "url": "http://netflix.github.io/falcor/",
+            "content": "Netflixのモデル + data fetchライブラリ。\nJSON Graphでデータを一つのドメインモデルとして表現して、そのモデルを元にサーバはルーティング、クライアントはデータの取得を行える。\nまたクライアントではキャッシュの設定が行える",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-08-18T00:41:53.991Z",
+            "relatedLinks": [
+                {
+                    "title": "The Netflix Tech Blog: Netflix Releases Falcor Developer Preview",
+                    "url": "http://techblog.netflix.com/2015/08/falcor-developer-preview.html"
+                }
+            ]
         }
     ]
 }
