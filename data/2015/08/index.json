@@ -560,6 +560,18 @@
             ]
         },
         {
+            "title": "Windows 10 virtual machines now available on Microsoft Edge Dev | Microsoft Edge Dev Blog",
+            "url": "http://blogs.windows.com/msedgedev/2015/08/17/windows-10-virtual-machines-now-available-on-microsoft-edge-dev/",
+            "content": "MSEdgeが使えるWindows 10のVirtual machine(VM)が公開された",
+            "tags": [
+                "MS",
+                "MSEdge",
+                "仮想化"
+            ],
+            "date": "2015-08-18T07:59:02.196Z",
+            "relatedLinks": []
+        },
+        {
             "title": "Falcor: One Model Everywhere",
             "url": "http://netflix.github.io/falcor/",
             "content": "Netflixのモデル + data fetchライブラリ。\nJSON Graphでデータを一つのドメインモデルとして表現して、そのモデルを元にサーバはルーティング、クライアントはデータの取得を行える。\nまたクライアントではキャッシュの設定が行える",
