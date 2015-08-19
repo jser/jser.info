@@ -613,6 +613,60 @@
             ],
             "date": "2015-08-18T12:40:49.200Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ESLint 1.2.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2015/08/eslint-1.2.0-released/",
+            "content": "ESLint 1.2.0リリース。\n文字列結合をTemplate Stringsを使うようにするルール、コールバックにArrow Functionを優先するルールなどの追加、`commonjs\"のenvironment定義が追加された",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2015-08-19T02:08:22.513Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "reactjs - ES6版React.jsチュートリアル - Qiita",
+            "url": "http://qiita.com/nownabe/items/2d8b92d95186c3941de0",
+            "content": "ReactのチュートリアルをES6 classesなどを使って書いた場合にどうなるかについてをチュートリアル形式で書かれている。",
+            "tags": [
+                "React",
+                "ECMAScript",
+                "tutorial"
+            ],
+            "date": "2015-08-19T02:41:16.914Z",
+            "relatedLinks": [
+                {
+                    "title": "チュートリアル | React",
+                    "url": "http://facebook.github.io/react/docs/tutorial-ja-JP.html"
+                }
+            ]
+        },
+        {
+            "title": "Release RxJS Version 3.1 · Reactive-Extensions/RxJS",
+            "url": "https://github.com/Reactive-Extensions/RxJS/releases/tag/v3.1.0",
+            "content": "RxJS 3.1 リリース。\n`resultSelector`がオプショナルに、TypeScript定義ファイルが書き直されるなど",
+            "tags": [
+                "Rx",
+                "JavaScript",
+                "library",
+                "Electron"
+            ],
+            "date": "2015-08-19T08:07:53.615Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "Dev Tips - Developer Tips by Umar Hansa",
+            "url": "https://umaar.com/dev-tips/",
+            "content": "Chrome開発者ツールのTips集",
+            "tags": [
+                "Chrome",
+                "debug",
+                "Tips"
+            ],
+            "date": "2015-08-19T14:55:34.824Z",
+            "relatedLinks": []
         }
     ]
 }
