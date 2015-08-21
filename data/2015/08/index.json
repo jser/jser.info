@@ -667,6 +667,52 @@
             ],
             "date": "2015-08-19T14:55:34.824Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Ginza.rb で Quipper のシングルページアプリケーション開発について発表しました - @kyanny's blog",
+            "url": "http://blog.kyanny.me/entry/2015/08/20/014509",
+            "content": "Backbone.js/Chaplin/Marionette/React それぞれのシングルページアプリケーション開発における利点や問題点についてのスライド。\nRailsとの共存についてなど",
+            "tags": [
+                "JavaScript",
+                "スライド",
+                "backbone.js"
+            ],
+            "date": "2015-08-20T02:59:03.729Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "Bootstrap 4 alpha · Bootstrap Blog",
+            "url": "http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/",
+            "content": "Bootstrap 4αリリース。\nLessからSassへの移行、IE8のサポートを終了し`rem`を利用するように、flexboxをオプションで利用できるように、プラグインをES6で書きなおし、リセットスタイルをRebootにまとめるなど",
+            "tags": [
+                "CSS",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-08-20T09:49:16.041Z",
+            "relatedLinks": [
+                {
+                    "title": "Bootstrap 4 alpha · Bootstrap Blog",
+                    "url": "http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/"
+                }
+            ]
+        },
+        {
+            "title": "Release 1.1.0 - 2015.08.17 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v1.1.0",
+            "content": "core-js 1.1.0 リリース。\nstring paddingのプロポーサルへの追従、trimLeft/trimRightの追加、Reflect.enumerateはキャッシュされたkeyをiterateするようになるなど",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-08-21T00:31:56.149Z",
+            "relatedLinks": [
+                {
+                    "title": "Question about [[Enumerate]] and property decision timing",
+                    "url": "https://esdiscuss.org/topic/question-about-enumerate-and-property-decision-timing"
+                }
+            ]
         }
     ]
 }
