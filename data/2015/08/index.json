@@ -747,6 +747,18 @@
             ],
             "date": "2015-08-22T08:25:31.964Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release 5.0 “President Valac” · postcss/postcss",
+            "url": "https://github.com/postcss/postcss/releases/tag/5.0.0",
+            "content": "CSSを変換を扱うPostCSS 5.0リリース。\n`safe`オプションが別プロジェクトへ、\n`parser`や`stringifier`などもオプション化、\nSCSSのパースにも対応するなど",
+            "tags": [
+                "CSS",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-08-22T09:03:13.641Z",
+            "relatedLinks": []
         }
     ]
 }
