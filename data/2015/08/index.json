@@ -883,6 +883,18 @@
             ],
             "date": "2015-08-26T23:31:25.920Z",
             "relatedLinks": []
+        },
+        {
+            "title": "André Staltz - Unidirectional User Interface Architectures",
+            "url": "http://staltz.com/unidirectional-user-interface-architectures.html",
+            "content": "Flux, Redux, Famous, Elm, Cycle.js それぞれのアーキテクチャについてまとめた記事。\n構成要素、データーフロー、特徴について簡潔にまとめられている",
+            "tags": [
+                "Flux",
+                "JavaScript",
+                "設計"
+            ],
+            "date": "2015-08-27T01:54:24.365Z",
+            "relatedLinks": []
         }
     ]
 }
