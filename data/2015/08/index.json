@@ -919,6 +919,18 @@
             ],
             "date": "2015-08-27T12:35:11.308Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Using requestIdleCallback — Google Web Updates",
+            "url": "https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback",
+            "content": "requestIdleCallbackについての解説。\nIdleな期間に非同期でコールバックを呼び出す事ができ、第二引数で一定時間内には必ず呼び出す`timeout`を指定できる",
+            "tags": [
+                "WebPlatformAPI",
+                "JavaScript",
+                "Chrome"
+            ],
+            "date": "2015-08-28T01:57:35.506Z",
+            "relatedLinks": []
         }
     ]
 }
