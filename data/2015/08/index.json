@@ -966,6 +966,17 @@
             ],
             "date": "2015-08-29T10:20:32.156Z",
             "relatedLinks": []
+        },
+        {
+            "title": "V8 JavaScript Engine: V8 Release 4.6",
+            "url": "http://v8project.blogspot.com/2015/08/v8-release-46.html",
+            "content": "V8 4.6 リリース。\nES6の Spread operator、`new.target`の対応、TypedArrayの改善など",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "date": "2015-08-29T14:14:40.717Z",
+            "relatedLinks": []
         }
     ]
 }
