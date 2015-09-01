@@ -1,0 +1,33 @@
+{
+    "list": [
+        {
+            "title": "Release v2.0.0 · rackt/redux",
+            "url": "https://github.com/rackt/redux/releases/tag/v2.0.0",
+            "content": "Redux 2.0.0リリース。\nHot Reloadingのためだけにあった`getReducer()`を削除、`compose()`の動作を修正するなど",
+            "tags": [
+                "JavaScript",
+                "Flux",
+                "library"
+            ],
+            "date": "2015-09-01T01:48:39.394Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "mocha/HISTORY.md at master · mochajs/mocha",
+            "url": "https://github.com/mochajs/mocha/blob/master/HISTORY.md#230--2015-08-30",
+            "content": "Mocha 2.3.0リリース。 テストのエラーが起きた時に自動的にキャッチしないでスルーできる`--allowUncaught`の追加、非同期のテストのみ許可する`--async-only`でのPromiseの動作を修正",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "date": "2015-09-01T06:16:14.136Z",
+            "relatedLinks": [
+                {
+                    "title": "Added option to allow unhandled exceptions to propagate in the browser by amsul · Pull Request #1659 · mochajs/mocha",
+                    "url": "https://github.com/mochajs/mocha/pull/1659"
+                }
+            ]
+        }
+    ]
+}
