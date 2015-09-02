@@ -28,6 +28,57 @@
                     "url": "https://github.com/mochajs/mocha/pull/1659"
                 }
             ]
+        },
+        {
+            "title": "npm3 ❓ // Speaker Deck",
+            "url": "https://speakerdeck.com/watilde/npm3",
+            "content": "npm3で追加された機能や変更点などについてのスライド",
+            "tags": [
+                "npm",
+                "スライド"
+            ],
+            "date": "2015-09-01T13:10:56.057Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "mysticatea/npm-run-all",
+            "url": "https://github.com/mysticatea/npm-run-all",
+            "content": "npm run-scriptで定義したものの並列実行や逐次実行等の補助を行うコマンドラインツール。\nNodeモジュールとしても利用できる",
+            "tags": [
+                "npm",
+                "console",
+                "Tools"
+            ],
+            "date": "2015-09-01T15:24:27.942Z",
+            "relatedLinks": [
+                {
+                    "title": "npm-run-all と concurrently を試す | アカベコマイリ",
+                    "url": "http://akabeko.me/blog/2015/08/npm-run-all-and-concurrently/"
+                }
+            ]
+        },
+        {
+            "title": "Thimble by Mozilla - An online code editor for learners & educators.",
+            "url": "https://thimble.mozilla.org/",
+            "content": "オンラインでウェブサイトを作れるサービス。\nJSFiddle的なエディタ&プレビューとファイルツリー。\nまた、任意のファイルをアップロードできるのでHTMLで公開するのに便利そう",
+            "tags": [
+                "Mozilla",
+                "webservice",
+                "editor"
+            ],
+            "date": "2015-09-02T02:10:13.433Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "fizzbuzz",
+            "url": "http://ditam.github.io/posts/fizzbuzz.html",
+            "content": "JavaScriptで20種類のFizzBuzzの実装",
+            "tags": [
+                "JavaScript",
+                "アルゴリズム"
+            ],
+            "date": "2015-09-02T07:06:49.022Z",
+            "relatedLinks": []
         }
     ]
 }
