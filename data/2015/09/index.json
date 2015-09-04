@@ -166,6 +166,22 @@
             ],
             "date": "2015-09-04T05:56:45.498Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Announcing TypeScript 1.6 Beta: React/JSX, better error checking, and more - TypeScript - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/typescript/archive/2015/09/02/announcing-typescript-1-6-beta-react-jsx-better-error-checking-and-more.aspx",
+            "content": "TypeScript 1.6βリリース。\nTSX(JSX)サポート、tsconfig.jsonを作成する`--init`オプションの追加、`exclude`オプションの追加、abstruct classのサポートなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "date": "2015-09-04T07:23:39.664Z",
+            "relatedLinks": [
+                {
+                    "title": "TypeScript 1.6.0-beta 変更点 - Qiita",
+                    "url": "http://qiita.com/vvakame/items/072fa78f9fe496edd1f0"
+                }
+            ]
         }
     ]
 }
