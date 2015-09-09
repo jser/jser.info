@@ -226,6 +226,22 @@
             ],
             "date": "2015-09-06T11:58:47.890Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Node v4.0.0 (Stable) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v4.0.0/",
+            "content": "io.jsと統合したNode.js 4.0.0リリース。\n長期間サポート(LTS)のバージョンが1年に1度リリースされ、12ヶ月アクティブ + 18ヶ月メンテナンスモードでサポートされるリリースサイクルとなる予定。",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "date": "2015-09-09T02:59:57.922Z",
+            "relatedLinks": [
+                {
+                    "title": "All you need to know about Node.js 4.0.0 - Dynatrace APM Blog",
+                    "url": "http://apmblog.dynatrace.com/2015/09/05/all-you-need-to-know-about-node-js-4-0/"
+                }
+            ]
         }
     ]
 }
