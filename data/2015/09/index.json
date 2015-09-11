@@ -299,6 +299,18 @@
             ],
             "date": "2015-09-11T04:30:56.874Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ESLint v1.4.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2015/09/eslint-v1.4.0-released",
+            "content": "ESLint v1.4.0リリース。\nルールに合った形にコードを修正する `--fix` オプションの追加、実行結果をキャッシュ出来る `--cache` オプションの追加など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2015-09-11T16:13:00.506Z",
+            "relatedLinks": []
         }
     ]
 }
