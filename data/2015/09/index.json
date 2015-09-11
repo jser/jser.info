@@ -288,6 +288,17 @@
             ],
             "date": "2015-09-09T09:30:53.394Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Flow | Version 0.15.0",
+            "url": "http://flowtype.org/blog/2015/09/10/Version-0.15.0.html",
+            "content": "Flow 0.15.0リリース。\nGeneratorのサポート、ワーカープロセス数の設定ができるよう、ES6 classesで`super()`を呼ぶ前に`this`に触るのをチェックできるようになるなど",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "date": "2015-09-11T04:30:56.874Z",
+            "relatedLinks": []
         }
     ]
 }
