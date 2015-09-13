@@ -332,6 +332,17 @@
             ],
             "date": "2015-09-13T04:57:51.390Z",
             "relatedLinks": []
+        },
+        {
+            "title": "React v0.14 Release Candidate | React",
+            "url": "http://facebook.github.io/react/blog/2015/09/10/react-v0.14-rc1.html",
+            "content": "React v0.14 RCリリース。\nモジュールの分割、`refs`の参照がDOM node自体となるように、ステートレスコンポーネント、react-toolsの廃止、Babelへの移行など",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "date": "2015-09-13T05:13:24.123Z",
+            "relatedLinks": []
         }
     ]
 }
