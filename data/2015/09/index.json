@@ -418,6 +418,18 @@
             ],
             "date": "2015-09-13T23:45:34.131Z",
             "relatedLinks": []
+        },
+        {
+            "title": "jsdom/Changelog.md at 6.4.0 · tmpvar/jsdom",
+            "url": "https://github.com/tmpvar/jsdom/blob/6.4.0/Changelog.md",
+            "content": "jsdom 6.4.0リリース。\n`jsdom.nodeLocation`の追加、\n`getElementsByClassName`でスペースが区切られた文字列に対応など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-09-14T08:13:56.590Z",
+            "relatedLinks": []
         }
     ]
 }
