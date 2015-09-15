@@ -441,6 +441,17 @@
             ],
             "date": "2015-09-15T14:24:38.203Z",
             "relatedLinks": []
+        },
+        {
+            "title": "JavaScript iterables and iterators - JS Rocks",
+            "url": "http://jsrocks.org/2015/09/javascript-iterables-and-iterators/",
+            "content": "iterable、iteratorについて細かな疑問がQ&A形式でまとまっている記事。\niterableとiteratorそれぞれがどういう定義であるかや関係について。\nまた、`iterator.next()`の返り値がオブジェクトを返すようになった理由などについて",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2015-09-15T16:05:24.884Z",
+            "relatedLinks": []
         }
     ]
 }
