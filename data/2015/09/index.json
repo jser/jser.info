@@ -464,6 +464,17 @@
             ],
             "date": "2015-09-16T06:45:31.752Z",
             "relatedLinks": []
+        },
+        {
+            "title": "danielstjules/mocha.parallel",
+            "url": "https://github.com/danielstjules/mocha.parallel",
+            "content": "mochaで書かれたテストコードをdescribe単位で並列に処理できるライブラリ",
+            "tags": [
+                "JavaScript",
+                "testing"
+            ],
+            "date": "2015-09-16T06:48:37.702Z",
+            "relatedLinks": []
         }
     ]
 }
