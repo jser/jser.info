@@ -532,6 +532,17 @@
                     "url": "https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes#typescript-16"
                 }
             ]
+        },
+        {
+            "title": "Node v4.1.0 (Stable) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v4.1.0/",
+            "content": "Node v4.1.0リリース。\nBuffer作成の改善、fs.WriteStreamの書き込み速度の改善など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "date": "2015-09-17T06:50:53.677Z",
+            "relatedLinks": []
         }
     ]
 }
