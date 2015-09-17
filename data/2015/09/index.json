@@ -516,6 +516,22 @@
                     "url": "http://codezine.jp/article/detail/8963"
                 }
             ]
+        },
+        {
+            "title": "Announcing TypeScript 1.6 - TypeScript - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/typescript/archive/2015/09/16/announcing-typescript-1-6.aspx",
+            "content": "TypeScript 1.6リリース。\nJSX(TSX)、Class expressions、User defined type guards、Intersection types、Abstract classes、モジュール解決アルゴリズムの改善など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "date": "2015-09-17T02:02:41.657Z",
+            "relatedLinks": [
+                {
+                    "title": "Breaking Changes · Microsoft/TypeScript Wiki",
+                    "url": "https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes#typescript-16"
+                }
+            ]
         }
     ]
 }
