@@ -27,7 +27,7 @@ function lint(filePath) {
     var json = require(filePath);
     var textlint = require("textlint").textlint;
     textlint.setupRules({
-        "spellcheck-tech-word-textlint-rule": require("spellcheck-tech-word-textlint-rule")
+        "spellcheck-tech-word-textlint-rule": require("textlint-rule-spellcheck-tech-word")
     });
     var list = json.list;
     var results = list.map(function (item) {
