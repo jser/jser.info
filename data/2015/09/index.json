@@ -543,6 +543,29 @@
             ],
             "date": "2015-09-17T06:50:53.677Z",
             "relatedLinks": []
+        },
+        {
+            "title": "The npm Blog — npm weekly #29: npm 3 out of beta, Nick out of the...",
+            "url": "http://blog.npmjs.org/post/129378362260/npm-weekly-29-npm-3-out-of-beta-nick-out-of-the",
+            "content": "npm 3.xがlatestとしてリリースされた。\n`npm install -g npm` でnpm 3.xがインストールされるようになった",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "date": "2015-09-19T00:52:56.076Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "ESLint v1.5.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2015/09/eslint-v1.5.0-released/",
+            "content": "ESLint v1.5.0リリース。\n`--fix`に対応するルールの追加、`--debug`フラグの追加など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2015-09-19T01:47:42.607Z",
+            "relatedLinks": []
         }
     ]
 }
