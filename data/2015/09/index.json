@@ -578,6 +578,22 @@
             ],
             "date": "2015-09-20T05:53:47.721Z",
             "relatedLinks": []
+        },
+        {
+            "title": "リリース バージョン 10547 : Microsoft Edge Dev",
+            "url": "https://dev.modern.ie/platform/changelog/desktop/10547/",
+            "content": "MSEdge Build 10547リリース。\n`<template>`、`<picture>`の追加、`<a download>`の対応、SVGで外部コンテンツのロード、フラグ付きでAsync Function、`**`演算子の対応など",
+            "tags": [
+                "MSEdge",
+                "ReleaseNote"
+            ],
+            "date": "2015-09-21T16:03:14.894Z",
+            "relatedLinks": [
+                {
+                    "title": "Microsoft Edge の変更ログ - Windows 10 Insider Preview Build 10547 - Browser",
+                    "url": "http://browser.hatenablog.com/entry/2015/09/21/180947"
+                }
+            ]
         }
     ]
 }
