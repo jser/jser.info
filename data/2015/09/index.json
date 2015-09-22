@@ -622,6 +622,22 @@
                     "url": "http://qiita.com/ConquestArrow/items/450f961c3d54bc932cf3"
                 }
             ]
+        },
+        {
+            "title": "ESDoc Hosting Service - hosts documentation for JavaScript(ES6) with ESDoc",
+            "url": "https://doc.esdoc.org/",
+            "content": "[ESDoc](https://esdoc.org)で書かれたドキュメントをホスティングするサービスです。GitHubリポジトリのURLを登録するだけで、ドキュメントを生成してサイト上で見られるようになります。ドキュメントのカバレッジバッジやホスティングされているドキュメントを全文検索することができます。ESDocを使っていない場合でも「ES6のコードが/srcディレクトリにある」「/package.jsonが存在する」を満たす構成のリポジトリなら無設定でホスティングすることができます。",
+            "date": "2015-09-22T07:07:39.963Z",
+            "tags": [
+                "JSDoc",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESDoc",
+                    "url": "https://esdoc.org/"
+                }
+            ]
         }
     ]
 }
