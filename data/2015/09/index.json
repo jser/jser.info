@@ -634,6 +634,23 @@
             ],
             "relatedLinks": [
             ]
-        }
+        },
+{
+  "title": "UnitaryJS",
+  "url": "https://github.com/PandaNoir/UnitaryJS",
+  "content": "オブジェクトを作りcanvasで描画するというライブラリ。オブジェクトを作るので生のままcanvasを扱うより管理がしやすい。",
+  "date": "2015-09-23T09:30:21.286Z",
+  "tags": [
+    "javascript",
+    "canvas",
+    "library"
+  ],
+  "relatedLinks": [
+    {
+      "title": "サンプル集",
+      "url": "http://pandanoir.web.fc2.com/UnitaryJS/sample.html"
+    }
+  ]
+}
     ]
 }
