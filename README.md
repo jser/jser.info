@@ -45,7 +45,7 @@ JSer.infoに掲載する予定の記事候補や過去に掲載したデータ�
 ## Analytics
 
 [jser/stat-js](https://github.com/jser/stat-js "jser/stat-js")を使うことで、
-このリポジトリの記事データを分析などができます。
+このリポジトリの記事データを分析ができます。
 
 週ごとのデータの切り出しやあるURLがどの記事で紹介されているかなどを分析するJavaScriptライブラリとして利用できます。
 
