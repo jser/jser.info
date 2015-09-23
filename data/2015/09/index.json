@@ -634,6 +634,22 @@
             ],
             "relatedLinks": [
             ]
+        },
+        {
+            "title": "Release ES2016 Draft 1 · tc39/ecma262",
+            "url": "https://github.com/tc39/ecma262/releases/tag/es2016-draft-1",
+            "content": "ES2016 Draft 1リリース。\n仕様書がWordからEcmarkupで書かれるようになり、GitHubでリリースされた。",
+            "tags": [
+                "ECMAScript",
+                "ReleaseNote"
+            ],
+            "date": "2015-09-23T06:00:49.943Z",
+            "relatedLinks": [
+                {
+                    "title": "New in ECMAScript 2016, JavaScript's First Yearly Release",
+                    "url": "http://www.infoq.com/presentations/ecmascript-2016"
+                }
+            ]
         }
     ]
 }
