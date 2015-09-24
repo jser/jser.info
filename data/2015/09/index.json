@@ -632,8 +632,7 @@
                 "JSDoc",
                 "document"
             ],
-            "relatedLinks": [
-            ]
+            "relatedLinks": []
         },
         {
             "title": "Release ES2016 Draft 1 · tc39/ecma262",
@@ -650,6 +649,16 @@
                     "url": "http://www.infoq.com/presentations/ecmascript-2016"
                 }
             ]
+        },
+        {
+            "title": "Pointer Events Will Make Cross-Browser Touch Support Easy",
+            "url": "http://www.sitepoint.com/pointer-events-will-make-cross-browsers-touch-support-easy/",
+            "content": "Pointer Eventsのコンセプト、実際にどう使うかについての解説記事。\nfeature detectionの方法、ジェスチャーを扱うMSGesture objectについて",
+            "tags": [
+                "JavaScript"
+            ],
+            "date": "2015-09-24T00:08:36.965Z",
+            "relatedLinks": []
         }
     ]
 }
