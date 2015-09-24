@@ -684,6 +684,53 @@
             ],
             "date": "2015-09-24T05:30:07.771Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release the docs!",
+            "url": "http://sassdoc.com/",
+            "content": "コメントでアノテーションを書いたSassのコードからドキュメントを生成するツール",
+            "tags": [
+                "Sass",
+                "document",
+                "Tools",
+                "JSDoc"
+            ],
+            "date": "2015-09-24T05:51:54.807Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "Release 1.0 · bosonic/bosonic",
+            "url": "https://github.com/bosonic/bosonic/releases/tag/v1.0",
+            "content": "Web Componentsを扱うライブラリであるBosonic 1.0リリース",
+            "tags": [
+                "WebComponents",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-09-24T06:18:23.058Z",
+            "relatedLinks": [
+                {
+                    "title": "Bosonic Web Component",
+                    "url": "http://bosonic.github.io/"
+                }
+            ]
+        },
+        {
+            "title": "Firefox 41.0 リリースノート",
+            "url": "http://www.mozilla.jp/firefox/41.0/releasenotes/",
+            "content": "Firefox 41.0リリース。\n縦書きレイアウトの機能がデフォルト有効に、`Symbol.species`、`new.target`のサポート、Web Workerの中でNotification APIなどが利用できるようになるなど",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "date": "2015-09-24T07:50:47.484Z",
+            "relatedLinks": [
+                {
+                    "title": "Firefox 41 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/ja/Firefox/Releases/41"
+                }
+            ]
         }
     ]
 }
