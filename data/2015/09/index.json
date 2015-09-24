@@ -292,7 +292,7 @@
         {
             "title": "Flow | Version 0.15.0",
             "url": "http://flowtype.org/blog/2015/09/10/Version-0.15.0.html",
-            "content": "Flow 0.15.0リリース。\nGeneratorのサポート、ワーカープロセス数の設定ができるよう、ES6 classesで`super()`を呼ぶ前に`this`に触るのをチェックできるようになるなど",
+            "content": "Flow 0.15.0リリース。\nGeneratorのサポート、ワーカープロセス数の設定ができるよう、ES6 Classesで`super()`を呼ぶ前に`this`に触るのをチェックできるようになるなど",
             "tags": [
                 "flowtype",
                 "ReleaseNote"
@@ -315,7 +315,7 @@
         {
             "title": "ES2015(ES6)な時代だからこそ、ES5を改めて調べたJavaScript初級者のメモ - Qiita",
             "url": "http://qiita.com/zaru/items/d833dca52962c3f7770f",
-            "content": "ES5で追加されたPropety Descriptorや追加されたメソッドについて",
+            "content": "ES5で追加されたProperty Descriptorや追加されたメソッドについて",
             "tags": [
                 "ECMAScript"
             ],
