@@ -731,6 +731,30 @@
                     "url": "https://developer.mozilla.org/ja/Firefox/Releases/41"
                 }
             ]
+        },
+        {
+            "title": "Building Isomorphic JavaScript Apps: From Concept to Implementation to Real-World Solutions: Jason Strimpel, Maxime Najim: 9781491932933: Amazon.com: Books",
+            "url": "http://www.amazon.com/dp/1491932937/",
+            "content": "2016年4月30日発売\nIsomorphicについてのオライリー本",
+            "tags": [
+                "JavaScript",
+                "book"
+            ],
+            "date": "2015-09-25T05:08:06.107Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "Flagrant Badassery » XRegExp 3.0.0!",
+            "url": "http://blog.stevenlevithan.com/archives/xregexp-3-0-0",
+            "content": "正規表現の拡張ライブラリであるXRegExp 3.0.0リリース。\nUnicode周りのサポート改善、`A`(astral)フラグの追加、ES6に追従した変更など",
+            "tags": [
+                "JavaScript",
+                "正規表現",
+                "library",
+                "Electron"
+            ],
+            "date": "2015-09-25T05:19:04.770Z",
+            "relatedLinks": []
         }
     ]
 }

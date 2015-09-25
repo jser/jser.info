@@ -1,4 +1,4 @@
-#!/bin/sh
+﻿#!/bin/sh
 
 set -e
 commitMessage=$1
@@ -18,11 +18,11 @@ else
   if [ -n "${commitMessage}" ]; then
     git add .
     git commit -m "${commitMessage}"
+    git push
   fi
-  git push
 fi
 
-if [[ -n $(git status --porcelain) ]];then
+if [[ -z $(git status --porcelain) ]];then
   type /usr/local/bin/terminal-notifier >/dev/null 2>&1 && /usr/local/bin/terminal-notifier -message "Error!!" -title "JSer.info"
 else
   type /usr/local/bin/terminal-notifier >/dev/null 2>&1 && /usr/local/bin/terminal-notifier -message "Sync!!" -title "JSer.info"
