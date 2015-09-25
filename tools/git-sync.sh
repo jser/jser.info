@@ -39,7 +39,3 @@ if [[ -z $(git status --porcelain) ]];then
 else
   type /usr/local/bin/terminal-notifier >/dev/null 2>&1 && /usr/local/bin/terminal-notifier -message "Sync!!" -title "JSer.info"
 fi
-
-
-# 退避していたFDをもとに戻す
-exec 1>&3
