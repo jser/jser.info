@@ -777,6 +777,24 @@
             ],
             "date": "2015-09-26T05:54:08.990Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release v3.0.1 · rackt/redux",
+            "url": "https://github.com/rackt/redux/releases/tag/v3.0.1",
+            "content": "Redux 3.0.1リリース。\nActionオブジェクトは`type`を持つことを必須とする破壊的な変更が含まれている。\n`combineReducers()`にチェックする仕組みを追加。",
+            "tags": [
+                "JavaScript",
+                "Flux",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-09-26T06:09:01.816Z",
+            "relatedLinks": [
+                {
+                    "title": "Release v3.0.0 · rackt/redux",
+                    "url": "https://github.com/rackt/redux/releases/tag/v3.0.0"
+                }
+            ]
         }
     ]
 }
