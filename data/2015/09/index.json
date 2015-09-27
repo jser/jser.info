@@ -808,6 +808,19 @@
             ],
             "date": "2015-09-27T00:36:32.420Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release 1.2.0 - 2015.09.27 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v1.2.0",
+            "content": "core-js 1.2.0リリース。\nPromiseにUnhandled Rejection Trackingを実装、`IsRegExp`のalgorithmの修正、`String#leftPad`のプロポーザルへの追従など",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-09-27T01:14:45.936Z",
+            "relatedLinks": []
         }
     ]
 }
