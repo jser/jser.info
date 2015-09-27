@@ -795,6 +795,19 @@
                     "url": "https://github.com/rackt/redux/releases/tag/v3.0.0"
                 }
             ]
+        },
+        {
+            "title": "How to Write an Open Source JavaScript Library - Video Tutorial Series @eggheadio",
+            "url": "https://egghead.io/series/how-to-write-an-open-source-javascript-library",
+            "content": "JavaScriptライブラリを書いてGitHubに公開し、npmにpublishすることについてのスクリーンキャスト。\nES6で書く方法やsemverについてなど幅広い内容について解説されてる。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "動画",
+                "tutorial"
+            ],
+            "date": "2015-09-27T00:36:32.420Z",
+            "relatedLinks": []
         }
     ]
 }
