@@ -833,6 +833,18 @@
             ],
             "date": "2015-09-27T05:57:48.057Z",
             "relatedLinks": []
+        },
+        {
+            "title": "clipboard.js — Copy to clipboard without Flash",
+            "url": "http://zenorocha.github.io/clipboard.js/",
+            "content": "`execCommand`を使ったクリップボードへのコピーを行うライブラリ。\nユーザーのインタラクションに対して文字列のコピーとカットが行える",
+            "tags": [
+                "JavaScript",
+                "クリップボード",
+                "library"
+            ],
+            "date": "2015-09-28T14:55:17.161Z",
+            "relatedLinks": []
         }
     ]
 }
