@@ -845,6 +845,23 @@
             ],
             "date": "2015-09-28T14:55:17.161Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ES6 Promises in Depth",
+            "url": "http://ponyfoo.com/articles/es6-promises-in-depth",
+            "content": "Promiseの動きをビジュアライズしながら、`.then`や`.catch`がどのようなフローで処理されるかを解説している記事。\nPromiseを返すFetch APIを使った例を出している",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "Promises"
+            ],
+            "date": "2015-09-28T14:57:45.699Z",
+            "relatedLinks": [
+                {
+                    "title": "Promisees · Courtesy of ponyfoo.com",
+                    "url": "http://bevacqua.github.io/promisees/"
+                }
+            ]
         }
     ]
 }
