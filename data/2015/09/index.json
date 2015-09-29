@@ -875,6 +875,18 @@
             ],
             "date": "2015-09-29T02:11:22.005Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release v2.2.0 · jscs-dev/node-jscs",
+            "url": "https://github.com/jscs-dev/node-jscs/releases/tag/v2.2.0",
+            "content": "JSCS 2.2.0リリース。\n設定ファイルにYAMLを使えるように、HTML内のJavaScriptをチェックできるように、ルールやプリセットの追加と修正など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2015-09-29T06:42:43.521Z",
+            "relatedLinks": []
         }
     ]
 }
