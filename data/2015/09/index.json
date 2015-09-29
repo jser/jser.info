@@ -946,6 +946,22 @@
             ],
             "date": "2015-09-29T12:55:46.011Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ORTC API is now available in Microsoft Edge | Microsoft Edge Dev Blog",
+            "url": "http://blogs.windows.com/msedgedev/2015/09/18/ortc-api-is-now-available-in-microsoft-edge/",
+            "content": "MSEdgeにORTC APIが実装されたことについて",
+            "tags": [
+                "MSEdge",
+                "WebRTC"
+            ],
+            "date": "2015-09-29T12:59:48.890Z",
+            "relatedLinks": [
+                {
+                    "title": "ORTC が切り開く SVC サイマルキャストと WebRTC NV - Block Rockin’ Codes",
+                    "url": "http://jxck.hatenablog.com/entry/ortc-to-webrtcnv"
+                }
+            ]
         }
     ]
 }
