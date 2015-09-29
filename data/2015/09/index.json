@@ -901,6 +901,18 @@
             ],
             "date": "2015-09-29T06:51:39.343Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Typed React and Redux — Jack Hsu",
+            "url": "http://jaysoo.ca/2015/09/26/typed-react-and-redux/",
+            "content": "TypeScriptとReact、Reduxを組み合わせて使う事について\n型による早期エラーの発見、`interface`と`react.PropTypes`の違い、Reduxを扱う際にunion typesをモデルとして使うことについてなど",
+            "tags": [
+                "TypeScript",
+                "React",
+                "Flux"
+            ],
+            "date": "2015-09-29T07:26:35.621Z",
+            "relatedLinks": []
         }
     ]
 }
