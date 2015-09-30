@@ -988,6 +988,17 @@
             ],
             "date": "2015-09-29T13:06:53.598Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Customizing ES6 via well-known symbols",
+            "url": "http://www.2ality.com/2015/09/well-known-symbols-es6.html",
+            "content": "`Symbol`にデフォルトで定義されているwell-known symbolsの使い方について。\nECMAScriptのネイティブのメソッドはwell-known symbolsを参照するため、それらで扱われる際の設定などを行える。",
+            "tags": [
+                "ECMAScript",
+                "JavaScript"
+            ],
+            "date": "2015-09-30T02:07:30.318Z",
+            "relatedLinks": []
         }
     ]
 }
