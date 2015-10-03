@@ -62,6 +62,18 @@
             ],
             "date": "2015-10-03T07:42:16.723Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ESLint v1.6.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2015/10/eslint-v1.6.0-released/",
+            "content": "ESLint v1.6.0リリース。\n`--fix`対応のルールを追加、`no-undef`ルールに`typeof`オプションの追加、`env`に`nashorn`を追加など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2015-10-03T11:53:10.729Z",
+            "relatedLinks": []
         }
     ]
 }
