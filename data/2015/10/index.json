@@ -74,6 +74,19 @@
             ],
             "date": "2015-10-03T11:53:10.729Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Video.js Blog - Video.js 5: The Only Thing That’s Changed Is...",
+            "url": "http://blog.videojs.com/post/130143694631/video-js-5",
+            "content": "Video.js 5リリース。\nES6で書き直し、LessからSassへ移行、HLSをFlashなしでサポート、アクセシビリティの改善、pluginへの設定の渡し方を変更、CDNにFastlyを利用するようになるなど",
+            "tags": [
+                "JavaScript",
+                "library",
+                "動画",
+                "ReleaseNote"
+            ],
+            "date": "2015-10-04T14:00:47.957Z",
+            "relatedLinks": []
         }
     ]
 }
