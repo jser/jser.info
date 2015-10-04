@@ -87,6 +87,18 @@
             ],
             "date": "2015-10-04T14:00:47.957Z",
             "relatedLinks": []
+        },
+        {
+            "title": "エディタの実装をcycle.jsでMVIベースにしてみた話 - ✘╹◡╹✘",
+            "url": "http://r7kamura.hatenablog.com/entry/2015/10/04/062333",
+            "content": "cycle.jsのアーキテクチャについて。\n「イベントソースを受け取ってイベントソースを返す関数」がどのように使われてるのか、MVIとはどういう責務での分離なのかについて。",
+            "tags": [
+                "JavaScript",
+                "Rx",
+                "設計"
+            ],
+            "date": "2015-10-04T14:22:53.350Z",
+            "relatedLinks": []
         }
     ]
 }
