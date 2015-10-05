@@ -99,6 +99,17 @@
             ],
             "date": "2015-10-04T14:22:53.350Z",
             "relatedLinks": []
+        },
+        {
+            "title": "JavaScript - 末尾再帰による最適化 - Qiita",
+            "url": "http://qiita.com/pebblip/items/cf8d3230969b2f6b3132",
+            "content": "ES6の末尾呼び出し最適化の仕組みについて。\nそもそもなぜスタックオーバーフローが起きるのか、コールスタックとは何か、どのように最適化が行われるのか、再帰関数のパターンについてよくまと目られている。",
+            "tags": [
+                "ECMAScript",
+                "JavaScript"
+            ],
+            "date": "2015-10-05T03:16:16.771Z",
+            "relatedLinks": []
         }
     ]
 }
