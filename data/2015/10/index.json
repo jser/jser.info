@@ -138,6 +138,19 @@
                     "url": "https://github.com/nodejs/node/commit/05040664c2035b8abffb7bd7bb3243af35895130"
                 }
             ]
+        },
+        {
+            "title": "jeffbski/wait-on · GitHub",
+            "url": "https://github.com/jeffbski/wait-on",
+            "content": "色々な待ちパターンを行えるNode.js製のコマンドラインツール。 ファイルの存在確認、HTTP HEAD/GET、TCP、Socketのレスポンス待ちなどを行える",
+            "tags": [
+                "node.js",
+                "library",
+                "console",
+                "Tools"
+            ],
+            "date": "2015-10-06T01:18:12.838Z",
+            "relatedLinks": []
         }
     ]
 }
