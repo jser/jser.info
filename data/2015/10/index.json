@@ -121,6 +121,23 @@
             ],
             "date": "2015-10-05T06:49:42.775Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Node v4.1.2 (Stable) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v4.1.2/",
+            "content": "Node.js 4.1.2リリース。\nio.js 3.x以降にあるhttp serverのDoSに関するセキュリティ修正を含む。",
+            "tags": [
+                "node.js",
+                "ReleaseNote",
+                "セキュリティ"
+            ],
+            "date": "2015-10-06T01:06:57.836Z",
+            "relatedLinks": [
+                {
+                    "title": "http: fix out-of-order 'finish' bug in pipelining · nodejs/node@0504066",
+                    "url": "https://github.com/nodejs/node/commit/05040664c2035b8abffb7bd7bb3243af35895130"
+                }
+            ]
         }
     ]
 }
