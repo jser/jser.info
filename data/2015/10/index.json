@@ -175,6 +175,17 @@
             ],
             "date": "2015-10-07T12:59:23.996Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Immutable Data Structures and JavaScript",
+            "url": "http://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript",
+            "content": "JavaScriptにおけるimmutableについて。\nReduxなどを使う際にImmutableオブジェクトが欲しくなるが、JS自体にはその仕様はない。\nImmutable.jsやseamless-immutableなどのライブラリを使って実現するメリットとデメリットについて",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-10-07T13:11:27.842Z",
+            "relatedLinks": []
         }
     ]
 }
