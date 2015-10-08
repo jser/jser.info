@@ -197,6 +197,18 @@
             ],
             "date": "2015-10-07T15:21:29.073Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release v2.3.0 · jscs-dev/node-jscs",
+            "url": "https://github.com/jscs-dev/node-jscs/releases/tag/v2.3.0",
+            "content": "JSCS 2.3.0リリース。\n`disallowIdenticalDestructuringNames `、`disallowNestedTernaries`、`requireSpaceAfterComma`のルールを追加",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2015-10-08T09:04:13.200Z",
+            "relatedLinks": []
         }
     ]
 }
