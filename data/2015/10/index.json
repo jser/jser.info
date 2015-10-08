@@ -209,6 +209,22 @@
             ],
             "date": "2015-10-08T09:04:13.200Z",
             "relatedLinks": []
+        },
+        {
+            "title": "React v0.14 | React",
+            "url": "http://facebook.github.io/react/blog/2015/10/07/react-v0.14.html",
+            "content": "React 0.14の正式版リリース。\n`react`と`react-dom`へのパッケージの分割、`refs`の仕様変更、ステートレスコンポーネントの追加、react-toolsが非推奨となるなど",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "date": "2015-10-08T09:12:03.120Z",
+            "relatedLinks": [
+                {
+                    "title": "React.js v0.14 changes - blog.koba04.com",
+                    "url": "http://blog.koba04.com/post/2015/09/22/react-js-v014-changes/"
+                }
+            ]
         }
     ]
 }
