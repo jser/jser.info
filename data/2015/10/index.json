@@ -225,6 +225,30 @@
                     "url": "http://blog.koba04.com/post/2015/09/22/react-js-v014-changes/"
                 }
             ]
+        },
+        {
+            "title": "Accelerated Mobile Pages Project",
+            "url": "https://www.ampproject.org/",
+            "content": "AMP HTMLというHTMLのサブセットの定義を則る事で、モバイルでも高速なページの表示が行える事を目的とした規格やライブラリ",
+            "tags": [
+                "HTML",
+                "spec"
+            ],
+            "date": "2015-10-08T13:43:37.031Z",
+            "relatedLinks": [
+                {
+                    "title": "Official Google Blog: Introducing the Accelerated Mobile Pages Project, for a faster, open mobile web",
+                    "url": "https://googleblog.blogspot.jp/2015/10/introducing-accelerated-mobile-pages.html"
+                },
+                {
+                    "title": "Accelerated Mobile Pages – A new approach to web performance",
+                    "url": "https://www.ampproject.org/how-it-works/"
+                },
+                {
+                    "title": "AMP HTML (Accelerated Mobile Pages) demo - YouTube",
+                    "url": "https://www.youtube.com/watch?v=i2_lAEzmOPo"
+                }
+            ]
         }
     ]
 }
