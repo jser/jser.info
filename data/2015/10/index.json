@@ -315,6 +315,18 @@
                     "url": "https://github.com/nodejs/node/pull/2411"
                 }
             ]
+        },
+        {
+            "title": "Release 3.4.0 Release Candidate · knockout/knockout",
+            "url": "https://github.com/knockout/knockout/releases/tag/v3.4.0rc",
+            "content": "Knockout 3.4.0RCリリース。\n`ko.isPureComputed`、`ko.onError`の追加、Observableのパフォーマンス改善など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "Electron"
+            ],
+            "date": "2015-10-13T12:28:03.205Z",
+            "relatedLinks": []
         }
     ]
 }
