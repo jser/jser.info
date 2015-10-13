@@ -291,7 +291,7 @@
         {
             "title": "Release Fetch 0.10.0 · github/fetch",
             "url": "https://github.com/github/fetch/releases/tag/v0.10.0",
-            "content": "Fetch APIのpolyfillであるFetch 0.10.0リリース。\nRequst/Responseオブジェクトへのメソッドの追加",
+            "content": "Fetch APIのpolyfillであるFetch 0.10.0リリース。\n`Requst`/`Response`へのメソッドの追加",
             "tags": [
                 "JavaScript",
                 "library",
