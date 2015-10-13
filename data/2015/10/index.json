@@ -309,7 +309,12 @@
                 "ReleaseNote"
             ],
             "date": "2015-10-13T08:18:45.786Z",
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "add CLI option to syntax check script by bahamas10 · Pull Request #2411 · nodejs/node",
+                    "url": "https://github.com/nodejs/node/pull/2411"
+                }
+            ]
         }
     ]
 }
