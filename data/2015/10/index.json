@@ -389,6 +389,19 @@
             ],
             "date": "2015-10-15T08:59:08.493Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Not Angularな環境でProtractorを使ってES2015(ES6), ES7なE2Eテストコードを書いてみた - Qiita",
+            "url": "http://qiita.com/nana4gonta/items/fabf1ab30ef16050c1e8",
+            "content": "async/awaitを使ったProtractorのE2Eテスト。\n非同期処理となる部分をasync/awaitを使うことで直列に書けるようにする話",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "protractor",
+                "Selenium"
+            ],
+            "date": "2015-10-15T09:05:43.151Z",
+            "relatedLinks": []
         }
     ]
 }
