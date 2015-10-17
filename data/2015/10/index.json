@@ -493,6 +493,18 @@
             ],
             "date": "2015-10-16T12:52:10.367Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ESLint v1.7.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2015/10/eslint-v1.7.0-released/",
+            "content": "ESLint v1.7.0リリース。\neslintrcの`extends`にJavaScriptのファイルパスそのもを書いて設定を継承出来るようになった",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2015-10-17T04:35:40.325Z",
+            "relatedLinks": []
         }
     ]
 }
