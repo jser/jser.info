@@ -505,6 +505,18 @@
             ],
             "date": "2015-10-17T04:35:40.325Z",
             "relatedLinks": []
+        },
+        {
+            "title": "jsdom/Changelog.md at 7.0.0 · tmpvar/jsdom",
+            "url": "https://github.com/tmpvar/jsdom/blob/7.0.0/Changelog.md",
+            "content": "jsdom 7.0.0リリース。\nNode.js 4.0以降が必要になった。\nXMLHttpRequestの再実装、`HTMLTemplateElement.prototype.content`の追加など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-10-18T01:33:56.696Z",
+            "relatedLinks": []
         }
     ]
 }
