@@ -571,6 +571,18 @@
             ],
             "date": "2015-10-22T07:17:20.299Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Rich-Harris/magic-string",
+            "url": "https://github.com/Rich-Harris/magic-string",
+            "content": "SourceMapをサポートしてるコード変換ライブラリ。\n文字列の上書き、追加、削除などを文字列操作のように変更を行うことができる。",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "library"
+            ],
+            "date": "2015-10-22T23:51:26.178Z",
+            "relatedLinks": []
         }
     ]
 }
