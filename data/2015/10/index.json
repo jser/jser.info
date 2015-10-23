@@ -583,6 +583,24 @@
             ],
             "date": "2015-10-22T23:51:26.178Z",
             "relatedLinks": []
+        },
+        {
+            "title": "esprima/ChangeLog at 2.7.0 · jquery/esprima",
+            "url": "https://github.com/jquery/esprima/blob/2.7.0/ChangeLog",
+            "content": "esprima 2.7.0リリース。\n`esprima.tokenize`にdelegatorオプションの追加など",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-10-23T01:33:40.279Z",
+            "relatedLinks": [
+                {
+                    "title": "API: Token delegator · Issue #1332 · jquery/esprima",
+                    "url": "https://github.com/jquery/esprima/issues/1332"
+                }
+            ]
         }
     ]
 }
