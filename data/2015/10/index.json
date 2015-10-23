@@ -601,6 +601,17 @@
                     "url": "https://github.com/jquery/esprima/issues/1332"
                 }
             ]
+        },
+        {
+            "title": "EventEmitter in ES6",
+            "url": "http://www.datchley.name/es6-eventemitter/",
+            "content": "ES6でシンプルにEventEmitterやObserverを実装しながら、ES6の機能について学ぶ話",
+            "tags": [
+                "ECMAScript",
+                "JavaScript"
+            ],
+            "date": "2015-10-23T07:32:40.990Z",
+            "relatedLinks": []
         }
     ]
 }
