@@ -634,6 +634,18 @@
             ],
             "date": "2015-10-23T09:46:40.829Z",
             "relatedLinks": []
+        },
+        {
+            "title": "rollup.js",
+            "url": "http://rollupjs.org/",
+            "content": "ES6 modulesをBrowserifyなどのようにbundleするツール。\n使用していない関数は無視したり、余計なラップする関数なしに結合が出来る。\nデフォルトではES6のみだがプラグインでCommonJSなども対応する。",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "Tools"
+            ],
+            "date": "2015-10-24T11:11:48.149Z",
+            "relatedLinks": []
         }
     ]
 }
