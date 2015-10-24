@@ -658,6 +658,22 @@
             ],
             "date": "2015-10-24T14:29:10.715Z",
             "relatedLinks": []
+        },
+        {
+            "title": "The struggles of publishing a JavaScript library | Read the Tea Leaves",
+            "url": "http://nolanlawson.com/2015/10/19/the-struggles-of-publishing-a-javascript-library/",
+            "content": "bower、npm、jspmに対応したライブラリの公開方法と設定について。\nBrowserify、Webpack、rollupでのライブラリのビルドについてなど",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-10-24T14:42:26.032Z",
+            "relatedLinks": [
+                {
+                    "title": "nolanlawson/hello-javascript",
+                    "url": "https://github.com/nolanlawson/hello-javascript"
+                }
+            ]
         }
     ]
 }
