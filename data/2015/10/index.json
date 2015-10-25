@@ -674,6 +674,23 @@
                     "url": "https://github.com/nolanlawson/hello-javascript"
                 }
             ]
+        },
+        {
+            "title": ".eslintrc editor",
+            "url": "https://pirosikick.github.io/eslintrc-editor/",
+            "content": "ESLintの設定をGUIでポチポチと作成することが出来るツール",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "設定"
+            ],
+            "date": "2015-10-25T10:49:12.977Z",
+            "relatedLinks": [
+                {
+                    "title": "ESLintの設定ファイルをブラウザでポチポチして作るツールを作った - Qiita",
+                    "url": "http://qiita.com/pirosikick/items/64cb38752fa252911501"
+                }
+            ]
         }
     ]
 }
