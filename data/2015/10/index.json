@@ -765,7 +765,7 @@
         {
             "title": "node-browserify/changelog.markdown at master · substack/node-browserify",
             "url": "https://github.com/substack/node-browserify/blob/master/changelog.markdown#1200",
-            "content": "Browserify 12.0.0リリース。\nNode.js 4.xが対象となり、0.8はサポートから外れた。\nSourceMapで日本語などが化けないように、シンボリックリンクされたモジュールは変換の対象外へと変更など",
+            "content": "Browserify 12.0.0リリース。\nNode.js 4.xが対象となり、0.8はサポートから外れた。\nSource Mapで日本語などが化けないように、シンボリックリンクされたモジュールは変換の対象外へと変更など",
             "tags": [
                 "browser",
                 "ReleaseNote"
