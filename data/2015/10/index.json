@@ -724,6 +724,31 @@
             ],
             "date": "2015-10-25T11:15:05.382Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Vue.js 1.0.0 Released - vue.js",
+            "url": "http://vuejs.org/2015/10/26/1.0.0-release/",
+            "content": "Vue.js 1.0.0リリース。\nテンプレートの改善、非推奨なAPIを削除、初期表示の速度改善など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-10-27T03:58:20.053Z",
+            "relatedLinks": [
+                {
+                    "title": "Release 1.0.0 Evangelion · vuejs/vue",
+                    "url": "https://github.com/vuejs/vue/releases/tag/1.0.0"
+                },
+                {
+                    "title": "Vue.js 1.0.0 リリースしました - vue.js",
+                    "url": "http://jp.vuejs.org/2015/10/26/1.0.0-release/"
+                },
+                {
+                    "title": "Vue.js: a (re)introduction",
+                    "url": "http://blog.evanyou.me/2015/10/25/vuejs-re-introduction/"
+                }
+            ]
         }
     ]
 }
