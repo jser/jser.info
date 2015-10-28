@@ -783,6 +783,19 @@
             ],
             "date": "2015-10-27T12:59:06.119Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release 1.20.0 · jquery/qunit",
+            "url": "https://github.com/jquery/qunit/releases/tag/1.20.0",
+            "content": "QUnit 1.20.0リリース\n`assert.raises()`の追加、`Symbol`の比較をサポート、`QUnit.module`のネストに対応するなど\n",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-10-28T06:30:57.578Z",
+            "relatedLinks": []
         }
     ]
 }
