@@ -808,6 +808,19 @@
             ],
             "date": "2015-10-29T01:45:34.842Z",
             "relatedLinks": []
+        },
+        {
+            "title": "New in bluebird 3.0 | bluebird",
+            "url": "http://bluebirdjs.com/docs/new-in-bluebird-3.html",
+            "content": "Promiseライブラリであるbluebird 3.0リリース。\nCancellation APIのデザインを変更、 Promisificationの挙動を変更、`Promise.config`で警告を有効化できるようになるなど",
+            "tags": [
+                "JavaScript",
+                "Promises",
+                "library",
+                "ReleaseNote"
+            ],
+            "date": "2015-10-29T03:28:03.467Z",
+            "relatedLinks": []
         }
     ]
 }
