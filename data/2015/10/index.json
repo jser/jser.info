@@ -833,6 +833,20 @@
             ],
             "date": "2015-10-29T08:12:52.325Z",
             "relatedLinks": []
+        },
+        {
+            "title": "React+Flux can do in just 137 lines what jQuery can do in 10 | A geek with a hat",
+            "url": "http://swizec.com/blog/reactflux-can-do-in-just-137-lines-what-jquery-can-do-in-10/swizec/6740",
+            "content": "メール出すだけの機能を作るのにjQueryだと10行、React+Fluxだと137行となった。\n行数で見ると無駄に見えるが、\nFluxはパターンであるため他の人が見た時に理解がしやすかったり、新しい機能を追加しやすいなどの違いがあるという話。",
+            "tags": [
+                "JavaScript",
+                "設計",
+                "jQuery",
+                "React",
+                "Flux"
+            ],
+            "date": "2015-10-29T08:22:07.946Z",
+            "relatedLinks": []
         }
     ]
 }
