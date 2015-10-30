@@ -871,6 +871,22 @@
             ],
             "date": "2015-10-30T04:03:05.894Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Node v5.0.0 (Stable) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v5.0.0/",
+            "content": "Node.js 5.0.0リリース。\n`fs.readFile`がfile descriptorをサポート、npm 3.xがデフォルトへと変更、ALPNサポート、`util.inherits`がES6 classesからも継承できるようになるなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "date": "2015-10-30T07:03:11.543Z",
+            "relatedLinks": [
+                {
+                    "title": "ファイル記述子がfs.readFile()等でサポートへ - Weblog - Hail2u.net",
+                    "url": "http://hail2u.net/blog/coding/file-descriptor-support-in-fs-file-functions.html"
+                }
+            ]
         }
     ]
 }
