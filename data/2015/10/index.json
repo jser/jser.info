@@ -887,6 +887,17 @@
                     "url": "http://hail2u.net/blog/coding/file-descriptor-support-in-fs-file-functions.html"
                 }
             ]
+        },
+        {
+            "title": "6.0.0 Released · Babel",
+            "url": "https://babeljs.io/blog/2015/10/29/6.0.0",
+            "content": "Babel 6.0.0リリース。\nまだ関連プラグインが追いついていないため扱いに注意。\nBabelの内部的使っていたモジュールがそれぞれパッケージとして利用できるようになった。\nプラグインがオプトインとなり、同時にプラグインプリセットが用意された。\nまた変換の速度改善やプラグインのAPI変更が行われている。",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "date": "2015-10-30T07:35:57.138Z",
+            "relatedLinks": []
         }
     ]
 }
