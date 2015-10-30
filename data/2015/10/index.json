@@ -875,7 +875,7 @@
         {
             "title": "Node v5.0.0 (Stable) | Node.js",
             "url": "https://nodejs.org/en/blog/release/v5.0.0/",
-            "content": "Node.js 5.0.0リリース。\n`fs.readFile`がfile descriptorをサポート、npm 3.xがデフォルトへと変更、ALPNサポート、`util.inherits`がES6 classesからも継承できるようになるなど",
+            "content": "Node.js 5.0.0リリース。\n`fs.readFile`がfile descriptorをサポート、npm 3.xがデフォルトへと変更、ALPNサポート、`util.inherits`がES6 Classesからも継承できるようになるなど",
             "tags": [
                 "node.js",
                 "ReleaseNote"
