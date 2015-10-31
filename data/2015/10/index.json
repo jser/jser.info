@@ -851,7 +851,7 @@
         {
             "title": "ES7: Async await",
             "url": "http://tagtree.io/es7-async-await",
-            "content": "async/awaitについてのスクリーンキャスト",
+            "content": "async/awaitについてのスクリーンキャスト。\nPromiseでGitHub APIを叩くものを書いて、それをasync/awaitに書き換えながら紹介している",
             "tags": [
                 "ECMAScript",
                 "JavaScript",
