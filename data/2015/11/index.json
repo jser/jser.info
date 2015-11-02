@@ -22,6 +22,18 @@
             ],
             "date": "2015-11-01T14:31:16.294Z",
             "relatedLinks": []
+        },
+        {
+            "title": "samccone/drool",
+            "url": "https://github.com/samccone/drool",
+            "content": "ChromeDriver(via selenium)を使ってメモリリークが起きてないかを自動チェックするためのツール。",
+            "tags": [
+                "Chrome",
+                "webdriver",
+                "debug"
+            ],
+            "date": "2015-11-02T08:38:47.645Z",
+            "relatedLinks": []
         }
     ]
 }
