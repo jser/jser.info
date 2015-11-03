@@ -63,6 +63,16 @@
                     "url": "http://donejs.com/"
                 }
             ]
+        },
+        {
+            "title": "Easier Concurrent Programming in JavaScript with Async Functions",
+            "url": "http://amasad.me/2015/10/31/javascript-async-functions-for-easier-concurrent-programming/",
+            "content": "自動販売機的なプログラミングを題材に非同期処理があってもレースコンディションが起きないするにはどうするかという話\nステートマシンベースのもの、Promiseキューとasync/awaitを使ったものをそれぞれ見ていく",
+            "tags": [
+                "JavaScript"
+            ],
+            "date": "2015-11-03T10:14:42.835Z",
+            "relatedLinks": []
         }
     ]
 }
