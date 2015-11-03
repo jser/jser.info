@@ -34,6 +34,17 @@
             ],
             "date": "2015-11-02T08:38:47.645Z",
             "relatedLinks": []
+        },
+        {
+            "title": "codemix/fast.js",
+            "url": "https://github.com/codemix/fast.js",
+            "content": "ArrayやStringなどのネイティブメソッドと似たような処理を実装し直してるライブラリ。\n100%の互換性ではなくエッジケースへの対応などは落とすことで速度を稼いでいる",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-11-03T07:24:41.208Z",
+            "relatedLinks": []
         }
     ]
 }
