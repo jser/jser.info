@@ -73,6 +73,17 @@
             ],
             "date": "2015-11-03T10:14:42.835Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release ES2016 Draft 2015-11-03 · tc39/ecma262",
+            "url": "https://github.com/tc39/ecma262/releases/tag/es2016-draft-20151103",
+            "content": "ES2016 Draft 2015-11-03リリース。\nるabstract operationであるReturnIfAbruptのシンタックスシュガーである`?`の導入。\n仕様書のバグ修正や`__proto__`がstrict modeでも許可されるようになるなど",
+            "tags": [
+                "ECMAScript",
+                "ReleaseNote"
+            ],
+            "date": "2015-11-04T06:09:49.180Z",
+            "relatedLinks": []
         }
     ]
 }
