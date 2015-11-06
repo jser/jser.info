@@ -122,6 +122,17 @@
             ],
             "date": "2015-11-05T07:51:51.869Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release v3.4.0 · npm/npm",
+            "url": "https://github.com/npm/npm/releases/tag/v3.4.0",
+            "content": "npm 3.4.0で`npm install && npm test`を行う`npm install-test`というコマンドが追加された。\n`--dry-run`などと組み合わせて、依存モジュールのアップデートテストに活用出来る",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "date": "2015-11-06T02:29:53.626Z",
+            "relatedLinks": []
         }
     ]
 }
