@@ -9,13 +9,13 @@
         {
             "title": "Bug-org 730760 laying out and rendering shouldn't halt by",
             "url": "http://www.d-toybox.com/studio/weblog/show.php?mode=single;id=2012022800",
-            "content": "\"別のサーバへの接続を開始すると、レイアウトやレンダリングが一時的に中断する、というバグ\"の原因はbody付近でscriptタグで応答のないサーバのスクリプトを読み込もうとしようしているときに発生している。\n\nこれはブラウザ側で対処しにくいバグなので、サイト側が取るべき対処法についてまとめられている。",
+            "content": "\"別のサーバへの接続を開始すると、レイアウトやレンダリングが一時的に中断する、というバグ\"の原因はbody付近でscriptタグで応答のないサーバのスクリプトを読み込もうとしようしているときに発生している。\nこれはブラウザ側で対処しにくいバグなので、サイト側が取るべき対処法についてまとめられている。",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "『Amazon.com: Professional jQuery (9781118026687): Cesar Otero: Books』",
             "url": "http://www.amazon.com/o/ASIN/1118026683/book042-22/ref=nosim",
-            "content": "2012年4月24日発売\n\n元々は2011年9月20日発売予定だったけど、正式に決まったみたい\n\nhttp://htmlcssjavascript.com/javascript/professional-jquery/",
+            "content": "2012年4月24日発売\n元々は2011年9月20日発売予定だったけど、正式に決まったみたい\nhttp://htmlcssjavascript.com/javascript/professional-jquery/",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -39,13 +39,13 @@
         {
             "title": "『Web Dev .NET: TextMate-like ⌘T & ⇧⌘T in Chrome Dev Tools & Other New Features』",
             "url": "http://www.elijahmanor.com/2012/02/textmate-like-t-t-in-chrome-dev-tools.html",
-            "content": "Chrome(Canary) Developer Toolsについての紹介\n\n- Script Explorer\n\n- Go to File\n\n- Go to Symbol\n\n- Dock to right\n\n",
+            "content": "Chrome(Canary) Developer Toolsについての紹介\n- Script Explorer\n- Go to File\n- Go to Symbol\n- Dock to right",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "『MooTools - MooTools 1.4.5 Released』",
             "url": "http://mootools.net/blog/2012/02/26/mootools-1-4-5-released/",
-            "content": "MooTools 1.4.5リリース\n\nFx.CSSのバグを修正",
+            "content": "MooTools 1.4.5リリース\nFx.CSSのバグを修正",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -57,7 +57,7 @@
         {
             "title": "『Unit Testing with QUnit』",
             "url": "http://benalman.com/talks/unit-testing-qunit.html",
-            "content": "QUnitを使ったテストについてのスライド。\n\nassertionメソッドの解説や非同期テスト、Ajaxのテスト等についてよくまとまってる",
+            "content": "QUnitを使ったテストについてのスライド。\nassertionメソッドの解説や非同期テスト、Ajaxのテスト等についてよくまとまってる",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -75,7 +75,7 @@
         {
             "title": "『Amazon: Professional HTML5 Mobile Game Development [Paperback]: Pascal Rettig』",
             "url": "http://www.amazon.com/o/ASIN/1118301323/book042-22/ref=nosim",
-            "content": "2012年9月4日発売\n\niOS,Android、WP7を対象にしたmobile gameについての書籍。\n\n著者 http://cykod.com/",
+            "content": "2012年9月4日発売\niOS,Android、WP7を対象にしたmobile gameについての書籍。\n著者 http://cykod.com/",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -99,25 +99,25 @@
         {
             "title": "『jQuery UI 1.8.18 « jQuery UI Blog』",
             "url": "http://blog.jqueryui.com/2012/02/jquery-ui-1-8-18/",
-            "content": "jQuery UI 1.8.18リリース。\n\n",
+            "content": "jQuery UI 1.8.18リリース。",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "TASS - Ultimate lightweight stylesheet language",
             "url": "http://cho45.github.com/tasscss/",
-            "content": "CSSメタ言語\n\nSassライクだけど、JavaScriptで書かれている",
+            "content": "CSSメタ言語\nSassライクだけど、JavaScriptで書かれている",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "『Version 0.7.5 (unstable) « node blog』",
             "url": "http://blog.nodejs.org/2012/02/23/version-0-7-5-unstable/",
-            "content": "Node.js 0.7.5リリース。\n\n",
+            "content": "Node.js 0.7.5リリース。",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "『DailyJS: Getting Started with the Chai Assertion Library』",
             "url": "http://dailyjs.com/2012/02/23/chai/",
-            "content": "Chaiを使ったテストについて。\n\nChai Spyについても",
+            "content": "Chaiを使ったテストについて。\nChai Spyについても",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -129,31 +129,31 @@
         {
             "title": "Valid JavaScript variable names · Mathias Bynens",
             "url": "http://mathiasbynens.be/notes/javascript-identifiers",
-            "content": "JavaScriptの変数名について。\n\n変数名にユニコード文字も使えるがブラウザにいくつかバグある事や変数名に使える文字列をチェックするツールについて。",
+            "content": "JavaScriptの変数名について。\n変数名にユニコード文字も使えるがブラウザにいくつかバグある事や変数名に使える文字列をチェックするツールについて。",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "gruntで快適JS/CSSビルド生活 - Takazudo hamalog",
             "url": "http://hamalog.tumblr.com/post/18137176043/grunt-js-css",
-            "content": "CoffeeScriptやSassなどのコンパイル,\n\nLint、minifyなどのタスクをまとめるNodeツール\n\n類似ツールとしてBrewer.js",
+            "content": "CoffeeScriptやSassなどのコンパイル,\nLint、minifyなどのタスクをまとめるNodeツール\n類似ツールとしてBrewer.js",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "Brewer.js — your asset management friend.",
             "url": "http://brewerjs.org/",
-            "content": "SCSSやLESSやCoffeeScriptなどコンパイルが必要なものを変更を監視して処理したり、パッケージや圧縮などのビルドに関するところを管理できるNodeツール ",
+            "content": "SCSSやLESSやCoffeeScriptなどコンパイルが必要なものを変更を監視して処理したり、パッケージや圧縮などのビルドに関するところを管理できるNodeツール",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "『Testable JavaScript』",
             "url": "http://www.slideshare.net/tricknotes/testable-javascript",
-            "content": "JavaScriptのテストについてのスライド。\n\n分離された構造でテストしやすい設計をする",
+            "content": "JavaScriptのテストについてのスライド。\n分離された構造でテストしやすい設計をする",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "『File Formats - GitHub』",
             "url": "https://github.com/bebraw/jswiki/wiki/File-Formats",
-            "content": "ファイルタイプ別にそれぞれを扱うJavaScriptライブラリまとめ。\n\npng.jsやpdf.js、zip.jsなど。",
+            "content": "ファイルタイプ別にそれぞれを扱うJavaScriptライブラリまとめ。\npng.jsやpdf.js、zip.jsなど。",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -171,7 +171,7 @@
         {
             "title": "『DIARY SYSTEM Ver.4』",
             "url": "http://summer-lights.dyndns.ws/diarysys4/?id=1498",
-            "content": "node.js+QUnit+QUnit-TAP+ant+JenkinsでJavaScriptのCI\n\n",
+            "content": "node.js+QUnit+QUnit-TAP+ant+JenkinsでJavaScriptのCI",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -183,7 +183,7 @@
         {
             "title": "『IE 9以下に存在するセレクター数制限にはまった』",
             "url": "http://less.carbonfairy.org/post/18072493708",
-            "content": "IE9以下にあるセレクター数の4,095個制限について。\n\n\n\n",
+            "content": "IE9以下にあるセレクター数の4,095個制限について。",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -201,31 +201,31 @@
         {
             "title": "『書籍情報―BlueGriffonによるホームページ作成』",
             "url": "http://www.kohgakusha.co.jp/books/detail/978-4-7775-1665-0",
-            "content": "2012年2月25日発売\n\nBlueGriffon本。",
+            "content": "2012年2月25日発売\nBlueGriffon本。",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "Web Reflection: JavaScript Test Framewors: more than 30 + 1",
             "url": "http://webreflection.blogspot.com/2012/02/javascript-test-framewors-more-than-30.html",
-            "content": "wruというJavaScriptテストフレームワークについて。\n\nいろんな環境で動作し、APIもtest, assert, async, logというシンプルな感じ。\n\n",
+            "content": "wruというJavaScriptテストフレームワークについて。\nいろんな環境で動作し、APIもtest, assert, async, logというシンプルな感じ。",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "Essential JavaScript Design Patterns For Beginners",
             "url": "http://addyosmani.com/resources/essentialjsdesignpatterns/book/",
-            "content": "JavaScriptで学ぶデザインパターンの電子書籍。\n\nアップデートされてVolume1.5が公開",
+            "content": "JavaScriptで学ぶデザインパターンの電子書籍。\nアップデートされてVolume1.5が公開",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "rwldrn/idiomatic.js - GitHub",
             "url": "https://github.com/rwldrn/idiomatic.js",
-            "content": "JavaScriptのコーディング規約についての文章。\n\n型判定や比較についての詳しく書かれてる。命名規則についても書かれてる",
+            "content": "JavaScriptのコーディング規約についての文章。\n型判定や比較についての詳しく書かれてる。命名規則についても書かれてる",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "Hiro - small yet powerful testing framework for JavaScript",
             "url": "http://hirojs.com/",
-            "content": "小さなJavaScriptテストフレームワーク。\n\n",
+            "content": "小さなJavaScriptテストフレームワーク。",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -237,7 +237,7 @@
         {
             "title": "『「HTML5+WordBench勉強会 in 神戸」で「d3.js」について発表してきました。 | CreativeStyle』",
             "url": "http://kadoppe.com/archives/2012/02/html5-wordbench-kobe-d3-js.html",
-            "content": "\"d3jsではじめるデータビジュアライゼーション入門\"というスライド。\n\nd3.jsを使って棒グラフを書くことについての紹介",
+            "content": "\"d3jsではじめるデータビジュアライゼーション入門\"というスライド。\nd3.jsを使って棒グラフを書くことについての紹介",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -249,7 +249,7 @@
         {
             "title": "デブサミ2012で大規模JS開発について発表してきました - yo_waka's blog",
             "url": "http://waka.hatenablog.com/entry/2012/02/17/004542",
-            "content": "サイボウズのkintoneでのJavaScriptアプリについてのスライド。\n\n大規模なJavaScriptについての内容",
+            "content": "サイボウズのkintoneでのJavaScriptアプリについてのスライド。\n大規模なJavaScriptについての内容",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -261,13 +261,13 @@
         {
             "title": "『js1k.com - A lovely js competition』",
             "url": "http://js1k.com/2012-love/",
-            "content": "JS1Kの2012年大会\n\n1KBのJavaScriptでアプリケーションを作るコンテスト",
+            "content": "JS1Kの2012年大会\n1KBのJavaScriptでアプリケーションを作るコンテスト",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "Web Reflection: Berlin JS - RegExp Slides",
             "url": "http://webreflection.blogspot.com/2012/02/berlin-js-regexp-slides.html",
-            "content": "JavaScriptの正規表現についてよくまとまったスライド。\n\n基本的な正規表現の使い方やメソッド、プロパティ。testとexecの違い、Space(\\s\\S)の正規表現、特殊文字列。\n\nString.prototypeでの正規表現",
+            "content": "JavaScriptの正規表現についてよくまとまったスライド。\n基本的な正規表現の使い方やメソッド、プロパティ。testとexecの違い、Space(\\s\\S)の正規表現、特殊文字列。\nString.prototypeでの正規表現",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -303,13 +303,13 @@
         {
             "title": "『Web Dev .NET: Differences Between jQuery .bind() vs .live() vs .delegate() vs .on()』",
             "url": "http://www.elijahmanor.com/2012/02/differences-between-jquery-bind-vs-live.html",
-            "content": "jQueryにおけるbind(), live(), delegate(), on()の違い.\n\non()が使えるならon()を使うべき",
+            "content": "jQueryにおけるbind(), live(), delegate(), on()の違い.\non()が使えるならon()を使うべき",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "JavaScript whileループとPot.Deferred.forEverイテレータでCPU使用率を比較-Pot.js+PotLite.jsリリースノート | 圧縮電子精神音楽浮遊構造体",
             "url": "http://polygon-planet.blogspot.com/2012/02/javascript-whilepotdeferredforevercpu.html",
-            "content": "Pot.js 1.13 、 PotLite.js 1.30 リリース\n\n\"実行環境の CPU に負荷をかけることなく JavaScript が実行できる\"ことを目的としてる。",
+            "content": "Pot.js 1.13 、 PotLite.js 1.30 リリース\n\"実行環境の CPU に負荷をかけることなく JavaScript が実行できる\"ことを目的としてる。",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -333,7 +333,7 @@
         {
             "title": "Writing forward-compatible websites - MDN",
             "url": "https://developer.mozilla.org/ja/Web_Development/Writing_forward-compatible_websites",
-            "content": "\"新しいバージョンのブラウザが公開されても壊れることのない Web サイトを記述する方法\" についての翻訳ページ。\n\nHTMLやCSS、JavaScriptについて書かれている。",
+            "content": "\"新しいバージョンのブラウザが公開されても壊れることのない Web サイトを記述する方法\" についての翻訳ページ。\nHTMLやCSS、JavaScriptについて書かれている。",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -351,7 +351,7 @@
         {
             "title": "『O'Reilly Japan - HTML5 Canvasデスクトップリファレンス』",
             "url": "http://www.oreilly.co.jp/books/9784873115252/",
-            "content": "Canvas Pocket Reference の日本語版\n\n電子書籍のみで販売",
+            "content": "Canvas Pocket Reference の日本語版\n電子書籍のみで販売",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -375,7 +375,7 @@
         {
             "title": "『Amazon: CSS3デザインブック　仕事で絶対に使うプロのテクニック [単行本]: MdN編集部』",
             "url": "http://www.amazon.co.jp/o/ASIN/4844362534/book042-22/ref=nosim",
-            "content": "2012/3/21発売\n\nCSS3本",
+            "content": "2012/3/21発売\nCSS3本",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -393,7 +393,7 @@
         {
             "title": "『The Node Beginner Book(てきとー訳)』",
             "url": "https://docs.google.com/document/pub?id=1z-QM7BzN_Y5bC3RKSP10OXxKms65vrqnGJmNc8Yq4NE&pli=1",
-            "content": "http://nodebeginner.org/\n\nのNodeチュートリアル日本語訳。",
+            "content": "http://nodebeginner.org/\nのNodeチュートリアル日本語訳。",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -405,7 +405,7 @@
         {
             "title": "『Node v0.7.3 (unstable) « node blog』",
             "url": "http://blog.nodejs.org/2012/02/07/node-v0-7-3/",
-            "content": "Node.js 0.7.3リリース\n\nisolatesのサポートが取りやめになった",
+            "content": "Node.js 0.7.3リリース\nisolatesのサポートが取りやめになった",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -417,25 +417,25 @@
         {
             "title": "kevindente/expect-dom - GitHub",
             "url": "https://github.com/kevindente/expect-dom",
-            "content": "expect.js に対してDOMに関するアサーションを補助するライブラリ\n\n- https://github.com/LearnBoost/expect.js\n\njasmine-jquery が元ネタのような感じ。\n\n",
+            "content": "expect.js に対してDOMに関するアサーションを補助するライブラリ\n- https://github.com/LearnBoost/expect.js\njasmine-jquery が元ネタのような感じ。",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "Aurora 12 is out – improvements and updated Developer Tools ✩ Mozilla Hacks – the Web developer blog",
             "url": "http://hacks.mozilla.org/2012/02/aurora-12-is-out-improvements-and-updated-developer-tools/",
-            "content": "Aurora(Firefox) 12のアップデート内容。\n\nECMAScript Harmonyの一部実装、ArrayBuffer.slice、XHRのtimeoutにms指定ができるようになった。\n\n開発者ツールもいろいろ強化",
+            "content": "Aurora(Firefox) 12のアップデート内容。\nECMAScript Harmonyの一部実装、ArrayBuffer.slice、XHRのtimeoutにms指定ができるようになった。\n開発者ツールもいろいろ強化",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "JavaScript Documentation Sucks",
             "url": "http://harry.me/2012/01/22/javascript-documentation-sucks/",
-            "content": "JavaScriptのドキュメントについて\n\nRedditの反応もあわせて http://bit.ly/xqjV6W",
+            "content": "JavaScriptのドキュメントについて\nRedditの反応もあわせて http://bit.ly/xqjV6W",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "『Amazon: Beginning WebGL for HTML5 [Paperback]: Brian Danchilla』",
             "url": "http://www.amazon.com/o/ASIN/1430239964/book042-22/ref=nosim",
-            "content": "2012年7月4日は発売\n\nWebGL本",
+            "content": "2012年7月4日は発売\nWebGL本",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -447,13 +447,13 @@
         {
             "title": "flotr2",
             "url": "http://www.humblesoftware.com/flotr2/",
-            "content": "Canvasを使ったグラフ描画ライブラリ\n\n",
+            "content": "Canvasを使ったグラフ描画ライブラリ",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "『visionmedia/uikit - GitHub』",
             "url": "https://github.com/visionmedia/uikit/",
-            "content": "UIコンポーネントライブラリ\n\nBootstrapみたいに最初からスタイルがあるわけじゃなくて、スタイルを適応するための構造を構築する",
+            "content": "UIコンポーネントライブラリ\nBootstrapみたいに最初からスタイルがあるわけじゃなくて、スタイルを適応するための構造を構築する",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -465,13 +465,13 @@
         {
             "title": "uupaa looper 見っけたよー - latest log",
             "url": "http://uupaa.hatenablog.com/entry/2012/02/04/145400",
-            "content": "Object.keysを使った列挙のfor(-in)ループのパフォーマンスについて。\n\nhttps://twitter.com/#!/Constellation/statuses/165687957787918336",
+            "content": "Object.keysを使った列挙のfor(-in)ループのパフォーマンスについて。\nhttps://twitter.com/#!/Constellation/statuses/165687957787918336",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "『jairajs89/Touchy.js - GitHub』",
             "url": "https://github.com/jairajs89/Touchy.js",
-            "content": "タッチイベントライブラリ\n\nタッチstart,move,endの検出、マルチタッチの検出",
+            "content": "タッチイベントライブラリ\nタッチstart,move,endの検出、マルチタッチの検出",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -489,13 +489,13 @@
         {
             "title": "『Amazon: ホームページ辞典 第5版 HTML・CSS・JavaScript [単行本（ソフトカバー）]: 株式会社アンク』",
             "url": "http://www.amazon.co.jp/o/ASIN/4798125199/book042-22/ref=nosim",
-            "content": "2012/3/14発売\n\n辞典シリーズ",
+            "content": "2012/3/14発売\n辞典シリーズ",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "The CSS3 Test",
             "url": "http://css3test.com/",
-            "content": "CSS3の実装有無(動作は関係なし)を調べるツール\n\nhttp://lea.verou.me/2012/02/exactly-how-much-css3-does-your-browser-support/",
+            "content": "CSS3の実装有無(動作は関係なし)を調べるツール\nhttp://lea.verou.me/2012/02/exactly-how-much-css3-does-your-browser-support/",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
@@ -513,19 +513,19 @@
         {
             "title": "『Node v0.6.10 « node blog』",
             "url": "http://blog.nodejs.org/2012/02/02/node-v0-6-10/",
-            "content": "Node.js 0.6.10リリース\n\n\n\n",
+            "content": "Node.js 0.6.10リリース",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "『meltingice/psd.js - GitHub』",
             "url": "https://github.com/meltingice/psd.js",
-            "content": "psdファイルパーサー\n\nレイヤーやファイル毎にコンテンツを取り出せるようにするのが目的",
+            "content": "psdファイルパーサー\nレイヤーやファイル毎にコンテンツを取り出せるようにするのが目的",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {
             "title": "『The little book on CoffeeScript : 全訳公開 - minghaiの日記』",
             "url": "http://d.hatena.ne.jp/minghai/20120203/p1",
-            "content": "追加された7章まで全文翻訳したもの\n\nhttp://mnmly.github.com/library/coffeescript/index.html の翻訳の方は5章までだった。",
+            "content": "追加された7章まで全文翻訳したもの\nhttp://mnmly.github.com/library/coffeescript/index.html の翻訳の方は5章までだった。",
             "date": "2012-02-29T15:00:00.000Z"
         },
         {

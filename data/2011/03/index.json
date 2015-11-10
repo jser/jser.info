@@ -9,13 +9,13 @@
         {
             "title": "Software is hard | Script Execution Analysis in Firefox 4",
             "url": "http://www.softwareishard.com/blog/firebug/script-execution-analysis-in-firefox-4/",
-            "content": "Fireox3.6と4.0ではインラインスクリプトやScriptタグをつくって入れた外部スクリプトの挙動が少し変わってる。\n\nDOMContentLoadができるだけ早く起きるように工夫されて、無駄な実行待ちなどが減っている。addExternalScriptの実行順は取得順になっている",
+            "content": "Fireox3.6と4.0ではインラインスクリプトやScriptタグをつくって入れた外部スクリプトの挙動が少し変わってる。\nDOMContentLoadができるだけ早く起きるように工夫されて、無駄な実行待ちなどが減っている。addExternalScriptの実行順は取得順になっている",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
             "title": "Mootoolsについて « Mootips",
             "url": "http://mootips.org/topics/15/",
-            "content": "Mootoolsの概要\n\n機能紹介やプラグインについて",
+            "content": "Mootoolsの概要\n機能紹介やプラグインについて",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
@@ -27,13 +27,13 @@
         {
             "title": "Getfirebug Blog » Blog Archive » Firebug Lite 1.3.2",
             "url": "http://blog.getfirebug.com/2011/03/23/firebug-lite-1-3-2/",
-            "content": "Firebug Lite 1.3.2のリリース。\n\n互換性とブラウザとの結合性強化\n\n“Disable XHR Listener” というオプションがついた",
+            "content": "Firebug Lite 1.3.2のリリース。\n互換性とブラウザとの結合性強化\n“Disable XHR Listener” というオプションがついた",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
             "title": "Androidサイトは横幅何pxで作ればいいのか？ - さくっとモバイル",
             "url": "http://d.hatena.ne.jp/acidgraphix/20110126/1296018143",
-            "content": "Androidサイト基本320pxがいいという話\n\nAndroidのviewportについて。",
+            "content": "Androidサイト基本320pxがいいという話\nAndroidのviewportについて。",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
@@ -51,13 +51,13 @@
         {
             "title": "defunkt/dotjs - GitHub",
             "url": "https://github.com/defunkt/dotjs",
-            "content": "サイトのドメイン名と同じ名前のjsファイルをおいて、自動的に読み込んで適応するChrome拡張\n\nFirefox版 https://github.com/rlr/dotjs-addon\n\nFirefox/CSS版 https://github.com/xvzf/firefox.css",
+            "content": "サイトのドメイン名と同じ名前のjsファイルをおいて、自動的に読み込んで適応するChrome拡張\nFirefox版 https://github.com/rlr/dotjs-addon\nFirefox/CSS版 https://github.com/xvzf/firefox.css",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
             "title": "JavaScriptで/.*/()とは何か. - プログラムモグモグ",
             "url": "http://d.hatena.ne.jp/itchyny/20110322/1300720315",
-            "content": "/.*/.exec(RegExp.input)\n\nRegExpでFizzBuzz",
+            "content": "/.*/.exec(RegExp.input)\nRegExpでFizzBuzz",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
@@ -81,7 +81,7 @@
         {
             "title": "Web Dev .NET: JSConsole Remote Debugging and JSBin Live Preview",
             "url": "http://www.elijahmanor.com/2011/03/jsconsole-remote-debugging-and-jsbin.html",
-            "content": "JSConsoleとJSBin(Live Preview)を使ってiPhoneのmobile safariをリモートでバッグする方法を解説\n\nJSBinでjsbin.livePreview();を実行する事でライブプレビューパネルが開く",
+            "content": "JSConsoleとJSBin(Live Preview)を使ってiPhoneのmobile safariをリモートでバッグする方法を解説\nJSBinでjsbin.livePreview();を実行する事でライブプレビューパネルが開く",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
@@ -93,7 +93,7 @@
         {
             "title": "mockko/livereload - GitHub",
             "url": "https://github.com/mockko/livereload",
-            "content": "Firefox/Chrome/Safari向けのCSS/JSの自動リロード拡張+コマンドラインツール\n\n変更を検知してリロードする",
+            "content": "Firefox/Chrome/Safari向けのCSS/JSの自動リロード拡張+コマンドラインツール\n変更を検知してリロードする",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
@@ -105,19 +105,19 @@
         {
             "title": "CSS拡張メタ言語「SCSS(Sass)」と「LESS」の比較 - (DxD)∞",
             "url": "http://dxd8.com/archives/217/",
-            "content": "SassとLESSの比較まとめ。\n\n動作環境や仕様、機能や文法についてよくまとまっている",
+            "content": "SassとLESSの比較まとめ。\n動作環境や仕様、機能や文法についてよくまとまっている",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
             "title": "Amazon: Programming HTML5 Applications: Building Powerful Cross-Platform Environments in Javascript: Zachary Kessin",
             "url": "http://www.amazon.com/o/ASIN/1449399088/book042-22/ref=nosim",
-            "content": "2011年8月15日発売\n\nHTML5とJavaScriptを使ったアプリケーション開発。",
+            "content": "2011年8月15日発売\nHTML5とJavaScriptを使ったアプリケーション開発。",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
             "title": "Amazon: jQuery Mobile: Up and Running: Maximiliano Firtman",
             "url": "http://www.amazon.com/o/ASIN/1449397654/book042-22/ref=nosim",
-            "content": "2011年8月15日発売\n\njQuery Mobile本",
+            "content": "2011年8月15日発売\njQuery Mobile本",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
@@ -153,7 +153,7 @@
         {
             "title": "Welcome to jsFiddle’s documentation — jsFiddle v0.5a2 documentation",
             "url": "http://doc.jsfiddle.net/",
-            "content": "jsFiddleのAPIドキュメント。\n\nGitHubとの連携もできる",
+            "content": "jsFiddleのAPIドキュメント。\nGitHubとの連携もできる",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
@@ -171,7 +171,7 @@
         {
             "title": "A language for the Internet: Why JavaScript and Node.js is right for Internet Application",
             "url": "http://www.slideshare.net/sh1mmer/a-language-for-the-internet-why-javascript-and-nodejs-is-right-for-internet-application",
-            "content": "YahooのTomさん(オライリーからNode.js本出す人)のNode.jsについてのスライド。\n\nNode.jsの特徴について",
+            "content": "YahooのTomさん(オライリーからNode.js本出す人)のNode.jsについてのスライド。\nNode.jsの特徴について",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
@@ -201,13 +201,13 @@
         {
             "title": "JavaScript Enlightenment | by Cody Lindley | 1st Edition | ECMA-262, Edition 3",
             "url": "http://javascriptenlightenment.com/",
-            "content": "JavaScript library userをJavaScript developerへ変える電子書籍。\n\n著者はjQuery Enlightenmentの人",
+            "content": "JavaScript library userをJavaScript developerへ変える電子書籍。\n著者はjQuery Enlightenmentの人",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
             "title": "dynaTrace Ajax Edition 3.0 Beta supports Firefox and Internet Explorer Application Performance, Scalability and Architecture – The dynaTrace Blog",
             "url": "http://blog.dynatrace.com/2011/03/08/dynatrace-ajax-edition-3-0-beta-supports-firefox-and-internet-explorer/",
-            "content": "Webページのパフォーマンス分析ツール。\n\nFirefox対応の一般ベータが開始された",
+            "content": "Webページのパフォーマンス分析ツール。\nFirefox対応の一般ベータが開始された",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
@@ -219,7 +219,7 @@
         {
             "title": "Amazon: 実践 サーバサイド JavaScript: 井上 誠一郎",
             "url": "http://www.amazon.co.jp/o/ASIN/4774146293/book042-22/ref=nosim",
-            "content": "2011年4月20日発売\n\nアリエル・ネットワークCTOの井上 誠一郎さんだと思うけど、内容についてはまだ何も書いてないのでNode.jsかは不明",
+            "content": "2011年4月20日発売\nアリエル・ネットワークCTOの井上 誠一郎さんだと思うけど、内容についてはまだ何も書いてないのでNode.jsかは不明",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
@@ -231,7 +231,7 @@
         {
             "title": "strict mode - motivation and semantics - Constellation Scorpius",
             "url": "http://utatane-constellation.tumblr.com/post/3711268645",
-            "content": "strict modeの概念とは何か\n\nstatic解析につながる話",
+            "content": "strict modeの概念とは何か\nstatic解析につながる話",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
@@ -249,7 +249,7 @@
         {
             "title": "typeof演算子から学ぶJavaScriptのデータ型の概念と関係する考察のまとめ - 三等兵",
             "url": "http://d.hatena.ne.jp/sandai/20110308/p1",
-            "content": "JavaScript Gardenのtypeof演算子と\n\n[[Class]]との違いについての話。",
+            "content": "JavaScript Gardenのtypeof演算子と\n[[Class]]との違いについての話。",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
@@ -261,31 +261,31 @@
         {
             "title": "Sass でもう一度 CSS を楽しく! - terkel.jp",
             "url": "http://terkel.jp/archives/2011/03/sass-makes-css-fun-again/",
-            "content": "Sass入門方法のまとめ。\n\nUst動画が結構分かりやすいのでオススメ",
+            "content": "Sass入門方法のまとめ。\nUst動画が結構分かりやすいのでオススメ",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
             "title": "O'Reilly Japan - ハイパフォーマンスJavaScript",
             "url": "http://www.oreilly.co.jp/books/9784873114903/",
-            "content": "2011年03月19日 発売\n\nHTML、CSS、JavaScript＋Ajax、PHPなどWebアプリケーションのパフォーマンスについての書籍",
+            "content": "2011年03月19日 発売\nHTML、CSS、JavaScript＋Ajax、PHPなどWebアプリケーションのパフォーマンスについての書籍",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
             "title": "スクロールするまで画像を読み込まない（はずの）Lazy Loadについて :: 5509",
             "url": "http://5509.me/log/lazyload",
-            "content": "画像の遅延ロードするLazy Loadは新しいブラウザだと正しく動作しないため、HTTPリクエスト数が余計に増えたりするという話。\n\n",
+            "content": "画像の遅延ロードするLazy Loadは新しいブラウザだと正しく動作しないため、HTTPリクエスト数が余計に増えたりするという話。",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
             "title": "あーありがち - JavaScript Url DispatcherとかRouterについて調べた",
             "url": "http://aligach.net/diary/20110306.html",
-            "content": "URL dispatcherについて。\n\n実装ライブラリの紹介など",
+            "content": "URL dispatcherについて。\n実装ライブラリの紹介など",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
             "title": "『Javascriptによる正規表現まとめ - Happy Hacker WebEngineerのTechブログ』",
             "url": "http://d.hatena.ne.jp/yutakikuchi/20110305/1299318337",
-            "content": "JavaScriptでの正規表現のまとめ。\n\n例コードがぞれぞれの要素毎にある。",
+            "content": "JavaScriptでの正規表現のまとめ。\n例コードがぞれぞれの要素毎にある。",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {
@@ -321,7 +321,7 @@
         {
             "title": "Amazon: Foundation HTML5 Animation with JavaScript: Billy Lamberta, Keith Peters",
             "url": "http://www.amazon.com/o/ASIN/1430236655/book042-22/ref=nosim",
-            "content": "2011年8月24日発売\n\n著者はDoodle-jsの方とActionScript 3.0アニメーションで有名なKeith Peters氏",
+            "content": "2011年8月24日発売\n著者はDoodle-jsの方とActionScript 3.0アニメーションで有名なKeith Peters氏",
             "date": "2011-03-31T15:00:00.000Z"
         },
         {

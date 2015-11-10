@@ -3,13 +3,13 @@
         {
             "title": "dynaTrace Browser Diagnostics now supporting Firefox 15 & 16 about:performance",
             "url": "http://blog.dynatrace.com/2012/10/31/dynatrace-browser-diagnostics-now-supporting-firefox-15-16/",
-            "content": "dynaTrace  Firefox 15 & 16をサポート",
+            "content": "dynaTrace Firefox 15 & 16をサポート",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "Knockout 2.2.0 released - Steve Sanderson’s blog - As seen on YouTube™",
             "url": "http://blog.stevensanderson.com/2012/10/29/knockout-2-2-0-released/",
-            "content": "JavaScript MVVM ライブラリ\n\nKnockout 2.2.0リリース",
+            "content": "JavaScript MVVM ライブラリ\nKnockout 2.2.0リリース",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -39,7 +39,7 @@
         {
             "title": "Orion 1.0 Release | Orion News",
             "url": "http://planetorion.org/news/2012/10/orion-1-0-release/",
-            "content": "Orion 1.0 リリース.\n\nブラウザベースのJavaScript開発環境",
+            "content": "Orion 1.0 リリース.\nブラウザベースのJavaScript開発環境",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -51,7 +51,7 @@
         {
             "title": "Using the PageVisibility API - HTML5 Rocks",
             "url": "http://www.html5rocks.com/en/tutorials/pagevisibility/intro/",
-            "content": "PageVisibilityAPIについて。\n\n動画再生やNotification API、アクセス解析を例にした使い方",
+            "content": "PageVisibilityAPIについて。\n動画再生やNotification API、アクセス解析を例にした使い方",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -69,7 +69,7 @@
         {
             "title": "Single page apps in depth (new free book)",
             "url": "http://singlepageappbook.com/",
-            "content": "single page appについての無料ebook。\n\nウェブアプリのアーキテクチャー概要、メンテナンス、テストについて、モジュールとTDD、MVC、model dataとevent通知、Colllection、キャッシュ、テンプレート等",
+            "content": "single page appについての無料ebook。\nウェブアプリのアーキテクチャー概要、メンテナンス、テストについて、モジュールとTDD、MVC、model dataとevent通知、Colllection、キャッシュ、テンプレート等",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -105,7 +105,7 @@
         {
             "title": "CoffeeScript",
             "url": "http://coffeescript.org",
-            "content": "CoffeeScript 1.4.0リリース。\n\nCoffeeScript compiler の修正が中心",
+            "content": "CoffeeScript 1.4.0リリース。\nCoffeeScript compiler の修正が中心",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -117,19 +117,19 @@
         {
             "title": "Node v0.8.14 (Stable)",
             "url": "http://blog.nodejs.org/2012/10/25/node-v0.8.14/",
-            "content": "Node.js v0.8.14リリース。\n\n0.8.13のbugfix",
+            "content": "Node.js v0.8.14リリース。\n0.8.13のbugfix",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "d-i/Sassquatch",
             "url": "https://github.com/d-i/Sassquatch",
-            "content": "TDD for Sass\n\nSass上でassertionを行う",
+            "content": "TDD for Sass\nSass上でassertionを行う",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "Bringing JavaScript Code Analysis to The Next Level // Speaker Deck",
             "url": "https://speakerdeck.com/ariya/bringing-javascript-code-analysis-to-the-next-level",
-            "content": "AriyaさんのEsrpimaについてのスライド。\n\nEsprimaを使ったコード解析のデモやツール等の紹介。\n\nLintやCoverage、Execution Tracing、MinificationやObfuscationのコード生成について。\n\n",
+            "content": "AriyaさんのEsrpimaについてのスライド。\nEsprimaを使ったコード解析のデモやツール等の紹介。\nLintやCoverage、Execution Tracing、MinificationやObfuscationのコード生成について。",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -147,19 +147,19 @@
         {
             "title": "Aiming study#6pdf",
             "url": "http://www.slideshare.net/mizchi/aiming-study6pdf",
-            "content": "\"大規模JS その設計と実装と現実”\n\n大規模なWebアプリ開発におけるチーム開発や構造、パフォーマンスについてのスライド",
+            "content": "\"大規模JS その設計と実装と現実”\n大規模なWebアプリ開発におけるチーム開発や構造、パフォーマンスについてのスライド",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "borismus/srcset-polyfill",
             "url": "https://github.com/borismus/srcset-polyfill",
-            "content": "srcsetのpolyfillライブラリ\n\nhttp://myakura.hatenablog.com/entry/2012/05/16/022649",
+            "content": "srcsetのpolyfillライブラリ\nhttp://myakura.hatenablog.com/entry/2012/05/16/022649",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "uuCanvas.js のサブセットとして VMLCanvas.js を切り出しました - latest log",
             "url": "http://uupaa.hatenablog.com/entry/2012/10/23/085624",
-            "content": "VMLを使ってCanvasをレンダリングするVMLCanvas.jsリリース。\n\nexcanvasのように単独で利用できる",
+            "content": "VMLを使ってCanvasをレンダリングするVMLCanvas.jsリリース。\nexcanvasのように単独で利用できる",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -177,7 +177,7 @@
         {
             "title": "Plunker",
             "url": "http://plnkr.co/",
-            "content": "jsFiddle的なウェブサービス。\n\n任意のファイル名を付けられたり、リアルタイムで編集を共有したり、コメントなども付けられる",
+            "content": "jsFiddle的なウェブサービス。\n任意のファイル名を付けられたり、リアルタイムで編集を共有したり、コメントなども付けられる",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -189,7 +189,7 @@
         {
             "title": "見えてきた「ECMAScript 6」。JavaScriptの生みの親が書く「Harmony of Dreams Come True」 － Publickey",
             "url": "http://www.publickey1.jp/blog/12/javascriptecmascript_6harmony_of_dreams_come_true.html",
-            "content": "ES6の機能についてで実装されてるものなどに関しての紹介記事の訳\n\nhttp://www.infoq.com/presentations/State-JavaScript\n\n発表ではもう少し色々紹介されている",
+            "content": "ES6の機能についてで実装されてるものなどに関しての紹介記事の訳\nhttp://www.infoq.com/presentations/State-JavaScript\n発表ではもう少し色々紹介されている",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -201,7 +201,7 @@
         {
             "title": "依存するモジュールも解決できる Node/AMD (サーバ／クライアント) 共通化モジュールを書く :: kumatch's blogspot",
             "url": "http://kumatchs.blogspot.com/2012/10/nodeamd.html",
-            "content": "node/browser両方で使えるモジュール定義の方法について\n\nhttp://waka.hatenablog.com/entry/2011/11/27/215627",
+            "content": "node/browser両方で使えるモジュール定義の方法について\nhttp://waka.hatenablog.com/entry/2011/11/27/215627",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -213,19 +213,19 @@
         {
             "title": "Web Performance: When millisecond resolution just isn’t enough - IEBlog - Site Home - MSDN Blogs",
             "url": "http://blogs.msdn.com/b/ie/archive/2012/10/19/web-performance-when-millisecond-resolution-just-isn-t-enough.aspx",
-            "content": "Date.now()とPerformance.now()の違い。\n\niframe等複数のコンテキストがカラム計測ではPerformance.now()は相対的にも単純に計測できる",
+            "content": "Date.now()とPerformance.now()の違い。\niframe等複数のコンテキストがカラム計測ではPerformance.now()は相対的にも単純に計測できる",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "YUI 3.7.3 – Windows 8 Apps and IE 10 - YUI Blog",
             "url": "http://www.yuiblog.com/blog/2012/10/17/yui-3-7-3-windows-8-apps-and-ie-10/",
-            "content": "YUI 3.7.3 リリース。\n\nWInRT関係のモジュールを追加",
+            "content": "YUI 3.7.3 リリース。\nWInRT関係のモジュールを追加",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "Support for performance.timing in Firebug | Software is hard",
             "url": "http://www.softwareishard.com/blog/firebug/support-for-performance-timing-in-firebug/",
-            "content": "Firebugが Navigation Timing APIのタイムライン的なビジュアル表示をサポート。\n\nperformance.timing を評価するとでる",
+            "content": "Firebugが Navigation Timing APIのタイムライン的なビジュアル表示をサポート。\nperformance.timing を評価するとでる",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -237,7 +237,7 @@
         {
             "title": "DailyJS: Totally Testacular",
             "url": "http://dailyjs.com/2012/10/18/testacular/",
-            "content": "AngularJSがTest RunnerをJsTestDriverからTestacularJSに移行完了.\n\nTestacularJSの概要紹介",
+            "content": "AngularJSがTest RunnerをJsTestDriverからTestacularJSに移行完了.\nTestacularJSの概要紹介",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -249,19 +249,19 @@
         {
             "title": "HTML5: 有用な代替テキストを提供するためのテクニック",
             "url": "http://momdo.s35.xrea.com/web-html-test/spec/WD-html-alt-techniques-20120329.html",
-            "content": "W3Cのimg要素のalt属性についてのベストプラクティスについての文章翻訳.\n\naltの使い方の例等を紹介してる",
+            "content": "W3Cのimg要素のalt属性についてのベストプラクティスについての文章翻訳.\naltの使い方の例等を紹介してる",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "JavaScriptパフォーマンスベストプラクティス - 読み書きプログラミング ブログ",
             "url": "http://d.hatena.ne.jp/nextliteracy/20121017/1350438943",
-            "content": "Nokia Developer Wikiからの翻訳\n\n Efficient JavaScriptとかいろんなところから引っ張ってきた感じ",
+            "content": "Nokia Developer Wikiからの翻訳\nEfficient JavaScriptとかいろんなところから引っ張ってきた感じ",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "State of YUI Compressor - YUI Blog",
             "url": "http://www.yuiblog.com/blog/2012/10/16/state-of-yui-compressor/",
-            "content": "YUI CompressorからUglifyJS、CSSMinベースのツールへ移行\n\nhttps://github.com/yui/yuglify\n\nYUI CompressorはGithubで公開",
+            "content": "YUI CompressorからUglifyJS、CSSMinベースのツールへ移行\nhttps://github.com/yui/yuglify\nYUI CompressorはGithubで公開",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -291,13 +291,13 @@
         {
             "title": "Performance Tips for JavaScript in V8 - HTML5 Rocks",
             "url": "http://www.html5rocks.com/en/tutorials/speed/v8/",
-            "content": "V8でのコンパイラレベルでの最適化を意識したコードについて。\n\nhidden class、配列の確保、関数に渡す引数の型の遠いつ、d8を使ったtrace",
+            "content": "V8でのコンパイラレベルでの最適化を意識したコードについて。\nhidden class、配列の確保、関数に渡す引数の型の遠いつ、d8を使ったtrace",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "AngularJS - O'Reilly Media",
             "url": "http://shop.oreilly.com/product/0636920028055.do",
-            "content": "2013年3月発売\n\nAngularJSについての書籍",
+            "content": "2013年3月発売\nAngularJSについての書籍",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -315,13 +315,13 @@
         {
             "title": "Optimizing JavaScript variable access | Luke Wagner's Blog",
             "url": "https://blog.mozilla.org/luke/2012/10/02/optimizing-javascript-variable-access/",
-            "content": "JavaScriptのスコープと変数へのアクセスを最適化する事についての話。\n\n",
+            "content": "JavaScriptのスコープと変数へのアクセスを最適化する事についての話。",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "Designing Better JavaScript APIs | Smashing Coding",
             "url": "http://coding.smashingmagazine.com/2012/10/09/designing-javascript-apis-usability/",
-            "content": "jQueryのInterfaceを参考に、JavaScriptのAPIデザインを良くするにはどうするかという記事。\n\n引数の扱いやエラーハンドリング、非同期、デバッグしやすいAPI、ドキュメントなどについて",
+            "content": "jQueryのInterfaceを参考に、JavaScriptのAPIデザインを良くするにはどうするかという記事。\n引数の扱いやエラーハンドリング、非同期、デバッグしやすいAPI、ドキュメントなどについて",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -345,7 +345,7 @@
         {
             "title": "js STUDIO | jQuery 日本語リファレンス",
             "url": "http://js.studio-kingdom.com/jquery",
-            "content": "jQueryリファレンスサイト\n\nhttp://js.studio-kingdom.com/jquery/news/1",
+            "content": "jQueryリファレンスサイト\nhttp://js.studio-kingdom.com/jquery/news/1",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -363,13 +363,13 @@
         {
             "title": "alexscheelmeyer/node-phantom",
             "url": "https://github.com/alexscheelmeyer/node-phantom",
-            "content": "Node.jsとPhantomJSのブリッジするライブラリ。\n\n",
+            "content": "Node.jsとPhantomJSのブリッジするライブラリ。",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "Yeti 0.2.12 released",
             "url": "http://yeti.cx/blog/2012/10/yeti-0-2-12-released/",
-            "content": "Yeti 0.2.12リリース.\n\nJenkins(JUnit XML)サポート。\n\nnode-phantomを利用するように変更",
+            "content": "Yeti 0.2.12リリース.\nJenkins(JUnit XML)サポート。\nnode-phantomを利用するように変更",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -381,7 +381,7 @@
         {
             "title": "Amazon: ノンプログラマのための JavaScriptはじめの一歩 (WEB+DB PRESS plus) [単行本（ソフトカバー）]: 外村 和仁",
             "url": "http://www.amazon.co.jp/o/ASIN/4774153761/book042-22/ref=nosim",
-            "content": "2012年11月7日発売\n\nJavaScript初心者向けの書籍",
+            "content": "2012年11月7日発売\nJavaScript初心者向けの書籍",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -399,7 +399,7 @@
         {
             "title": "Amazon: The Web Game Developer's Cookbook: Using JavaScript and HTML5 to Develop Games [Paperback]: Evan Burchard",
             "url": "http://www.amazon.com/o/ASIN/0321898389/book042-22/ref=nosim",
-            "content": "2013年4月7日発売\n\n",
+            "content": "2013年4月7日発売",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -411,7 +411,7 @@
         {
             "title": "JavaScript Array Methods Reference | Impressive Webs",
             "url": "http://www.impressivewebs.com/javascript-array-methods-reference/",
-            "content": "JavaScriptのArrayについての解説。\n\nリテラルとコンストラクタの違い、length、判定、基本的なメソッドについて",
+            "content": "JavaScriptのArrayについての解説。\nリテラルとコンストラクタの違い、length、判定、基本的なメソッドについて",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -423,13 +423,13 @@
         {
             "title": "Firefox 16.0 リリースノート",
             "url": "http://www.mozilla.jp/firefox/16.0/releasenotes/",
-            "content": "Firefox 16.0リリース\n\nhttp://www.mozilla.jp/firefox/16.0/releasenotes/",
+            "content": "Firefox 16.0リリース\nhttp://www.mozilla.jp/firefox/16.0/releasenotes/",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "Amazon: 実践プログラミングWebGL HTML & JavaScriptによる3Dグラフィック開発 [大型本]: Andreas Anyuru, 吉川 邦夫",
             "url": "http://www.amazon.co.jp/o/ASIN/4798129534/book042-22/ref=nosim",
-            "content": "2012年10月31日発売\n\nProfessional WebGL Programmingの翻訳本",
+            "content": "2012年10月31日発売\nProfessional WebGL Programmingの翻訳本",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -441,13 +441,13 @@
         {
             "title": "jQuery UI 1.9.0 | jQuery UI Blog",
             "url": "http://blog.jqueryui.com/2012/10/jquery-ui-1-9-0/",
-            "content": "jQuery UI 1.9.0リリース.\n\nAPIドキュメントサイトも新しくなった",
+            "content": "jQuery UI 1.9.0リリース.\nAPIドキュメントサイトも新しくなった",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "Wait, DevTools could do THAT?",
             "url": "http://www.igvita.com/slides/2012/devtools-tips-and-tricks/",
-            "content": "WebInspectorについてのスライド。\n\nネットワークタイムライン、HAR形式、WebSocket Frames、DOMのレンダリング、ヒープスナップショットでのメモリリーク調査、CSSプロファイラ、audit pluginやカスタマイズ、リモートデバッグ、--enable-benchmarkingでのより深い調査",
+            "content": "WebInspectorについてのスライド。\nネットワークタイムライン、HAR形式、WebSocket Frames、DOMのレンダリング、ヒープスナップショットでのメモリリーク調査、CSSプロファイラ、audit pluginやカスタマイズ、リモートデバッグ、--enable-benchmarkingでのより深い調査",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -465,7 +465,7 @@
         {
             "title": "Welcome to TypeScript",
             "url": "http://www.typescriptlang.org/",
-            "content": "MicroSoftによるJavaScriptのスーパーセットな言語.\n\n",
+            "content": "MicroSoftによるJavaScriptのスーパーセットな言語.",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -489,13 +489,13 @@
         {
             "title": "NetBeans 73 NewAndNoteworthy - NetBeans Wiki",
             "url": "http://wiki.netbeans.org/NetBeans_73_NewAndNoteworthy",
-            "content": "NetBeans 7.3リリース\n\nJavaScriptデバッガー、Embedded Webkit ブラウザ、Chrome連携、JsTestDriverと連携したTest Runner等",
+            "content": "NetBeans 7.3リリース\nJavaScriptデバッガー、Embedded Webkit ブラウザ、Chrome連携、JsTestDriverと連携したTest Runner等",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "Amazon: かんたんJavaScript (プログラミングの教科書) [単行本（ソフトカバー）]: 株式会社アンク",
             "url": "http://www.amazon.co.jp/o/ASIN/4774153656/book042-22/ref=nosim",
-            "content": "2012年11月20日発売\n\n絵本シリーズとかのアンク社JavaScript本",
+            "content": "2012年11月20日発売\n絵本シリーズとかのアンク社JavaScript本",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -507,13 +507,13 @@
         {
             "title": "termi/ES5-DOM-SHIM",
             "url": "https://github.com/termi/ES5-DOM-SHIM",
-            "content": "IE6+向けにES5,6、DOM4のメソッド等のshimを提供するライブラリ\n\n",
+            "content": "IE6+向けにES5,6、DOM4のメソッド等のshimを提供するライブラリ",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "Amazon: サーバサイドJavaScript Node.js入門 [大型本]: 清水俊博, 大津繁樹, 鍵和田裕介, 小林秀和, 佐々木庸平, 篠崎祐輔, 高木敦也, 西山雄也",
             "url": "http://www.amazon.co.jp/o/ASIN/4048703676/book042-22/ref=nosim",
-            "content": "2012年10月26日発売\n\nNode.js本\n\nhttp://meso.hatenablog.com/entry/20101201/1291180243",
+            "content": "2012年10月26日発売\nNode.js本\nhttp://meso.hatenablog.com/entry/20101201/1291180243",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
@@ -531,31 +531,31 @@
         {
             "title": "Web Performance Best Practices",
             "url": "http://t32k.github.com/speed/",
-            "content": "﻿GoogleのWeb Performance Best Practicesの翻訳\n\nPage Speedとウェブサイトのパフォーマンスについての文章",
+            "content": "GoogleのWeb Performance Best Practicesの翻訳\nPage Speedとウェブサイトのパフォーマンスについての文章",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "Acorn: yet another JavaScript parser",
             "url": "http://marijnhaverbeke.nl/blog/acorn.html",
-            "content": "JavaScriptで書かれた JavaScript parser.\n\n小さくて早いものを目指してる。Esprimaとの比較",
+            "content": "JavaScriptで書かれた JavaScript parser.\n小さくて早いものを目指してる。Esprimaとの比較",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "Announcing jQuery Mobile 1.2.0 Final | jQuery Mobile",
             "url": "http://jquerymobile.com/blog/2012/10/02/announcing-jquery-mobile-1-2-0-final/",
-            "content": "jQuery Mobile 1.2.0リリース.\n\npopup UIの追加、vmouse eventsのstandalone化、jQuery1.8.xのサポート、location.hrefを利用したXSSのsecurity fix等",
+            "content": "jQuery Mobile 1.2.0リリース.\npopup UIの追加、vmouse eventsのstandalone化、jQuery1.8.xのサポート、location.hrefを利用したXSSのsecurity fix等",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "Amazon: すべての人に知っておいてほしい jQuery & jQuery Mobileの基本原則 [単行本]: 古籏一浩, いちがみトモロヲ, KLEE, Atelier*Spoon, 錦織幸知, 山本圭助, 前田瑞紀, 津留敏哉",
             "url": "http://www.amazon.co.jp/o/ASIN/4844362984/book042-22/ref=nosim",
-            "content": "2012/10/25発売\n\n共著系",
+            "content": "2012/10/25発売\n共著系",
             "date": "2012-10-31T15:00:00.000Z"
         },
         {
             "title": "Changelog · bestiejs/lodash Wiki",
             "url": "https://github.com/bestiejs/lodash/wiki/Changelog",
-            "content": "lodash v0.8.0リリース\n\n",
+            "content": "lodash v0.8.0リリース",
             "date": "2012-10-31T15:00:00.000Z"
         }
     ]

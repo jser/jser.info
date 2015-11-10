@@ -9,7 +9,7 @@
         {
             "title": "Being A Frontend Developer For A WeekEnd",
             "url": "http://williamdurand.fr/2012/12/24/being-a-frontend-developer-for-a-weekend/",
-            "content": "一つのWebアプリを作る中でどのようなツールなどを使ったかについての記事.\n\nBowerを使ったパッケージ管理、Gruntを使ったビルド、 grunt-targethtmlを使ってdebug/releaseでの条件分け、mochaを使ったテストとTravis-CIでのCI実行についてなど",
+            "content": "一つのWebアプリを作る中でどのようなツールなどを使ったかについての記事.\nBowerを使ったパッケージ管理、Gruntを使ったビルド、 grunt-targethtmlを使ってdebug/releaseでの条件分け、mochaを使ったテストとTravis-CIでのCI実行についてなど",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -33,25 +33,25 @@
         {
             "title": "Google JavaScript Style Guilde をリビジョン 2.64 にあわせて修正しました - フリーフォーム フリークアウト",
             "url": "http://d.hatena.ne.jp/cou929_la/20121229/1356746993",
-            "content": "Google JavaScript Style Guilde のアップデート.\n\nV8の最適化を考慮したプロパティの定義方法、deleteとnull代入の影響について、string joinの記述について等",
+            "content": "Google JavaScript Style Guilde のアップデート.\nV8の最適化を考慮したプロパティの定義方法、deleteとnull代入の影響について、string joinの記述について等",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "Unit Testing JavaScript and Backbone.JS // Speaker Deck",
             "url": "https://speakerdeck.com/dmosher/unit-testing-javascript-and-backbonejs",
-            "content": "fast test - mock,stub,spyを使ってAsyncなテストを書かない. ネイティブのDOM APIを直接テストしないで、wrapperしてテスト、 $.ajaxにspyOnしてcallされてるかのテスト、テンプレートのテストをfixturesを使ってテスト\n\nBackboneのevent、view function、routes、modelsのテスト方法について\n\njasmine-fixture、jasmine-stealth、jasmine-jquery、http://tryjasmine.com の紹介",
+            "content": "fast test - mock,stub,spyを使ってAsyncなテストを書かない. ネイティブのDOM APIを直接テストしないで、wrapperしてテスト、 $.ajaxにspyOnしてcallされてるかのテスト、テンプレートのテストをfixturesを使ってテスト\nBackboneのevent、view function、routes、modelsのテスト方法について\njasmine-fixture、jasmine-stealth、jasmine-jquery、http://tryjasmine.com の紹介",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "enchant.js v0.6.2 をリリースしました | enchant.js - A simple JavaScript framework for creating games and apps.",
             "url": "http://enchantjs.com/ja/2012/12/released-enchant-js-v0-6-2/",
-            "content": "enchant.js v0.6.2リリース.\n\nRequestAnimationFrameの導入",
+            "content": "enchant.js v0.6.2リリース.\nRequestAnimationFrameの導入",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "Try Jasmine in your browser, because downloading a zip file is too much work!",
             "url": "http://tryjasmine.com/",
-            "content": "Jasmineをオンラインで試せるエディタ。\n\nCoffeeScriptにも対応してる",
+            "content": "Jasmineをオンラインで試せるエディタ。\nCoffeeScriptにも対応してる",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -69,25 +69,25 @@
         {
             "title": "Amazon: JavaScript徹底攻略 (WEB+DB PRESS plus) [大型本]: WEB+DB PRESS編集部 編",
             "url": "http://www.amazon.co.jp/o/ASIN/477415489X/book042-22/ref=nosim",
-            "content": "2013年1月26日発売\n\nWEB+DB PRESSの過去のJavaScript記事をアップデートした感じの内容",
+            "content": "2013年1月26日発売\nWEB+DB PRESSの過去のJavaScript記事をアップデートした感じの内容",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "DailyJS: JavaScript Developer Survey 2012: Results",
             "url": "http://dailyjs.com/2012/12/24/javascript-survey-results/",
-            "content": "DailyJSのJavaScript開発者アンケート 2012の結果発表.\n\nテストライブラリ、AltJS、ホスティングサイト、Lintやminifier、デバッグツールなどについて",
+            "content": "DailyJSのJavaScript開発者アンケート 2012の結果発表.\nテストライブラリ、AltJS、ホスティングサイト、Lintやminifier、デバッグツールなどについて",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "Amazon: 12歳からはじめるHTML5とCSS3 [単行本（ソフトカバー）]: TENTO",
             "url": "http://www.amazon.co.jp/o/ASIN/4899773420/book042-22/ref=nosim",
-            "content": "2013年1月9日発売\n\nはじめてプログラミングに触れる小中学生向けの書籍\n\nhttp://tento.doorblog.jp/archives/6157313.html",
+            "content": "2013年1月9日発売\nはじめてプログラミングに触れる小中学生向けの書籍\nhttp://tento.doorblog.jp/archives/6157313.html",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "nash716/Debunk · GitHub",
             "url": "https://github.com/nash716/Debunk",
-            "content": "Fiddler ライクを目指す HTTP Debugging Proxy.\n\nnode-webkitを使ってクロスプラットフォーム対応、JavaScriptによるルール構築に対応 予定\n\n",
+            "content": "Fiddler ライクを目指す HTTP Debugging Proxy.\nnode-webkitを使ってクロスプラットフォーム対応、JavaScriptによるルール構築に対応 予定",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -99,7 +99,7 @@
         {
             "title": "PhantomJS 1.8 ",
             "url": "http://ariya.ofilabs.com/2012/12/phantomjs-1-8-blue-winter-rose.html",
-            "content": "PhantomJS 1.8リリース。\n\nGhost Driverを取り込んでWebDriver Wire Protocolに対応",
+            "content": "PhantomJS 1.8リリース。\nGhost Driverを取り込んでWebDriver Wire Protocolに対応",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -123,37 +123,37 @@
         {
             "title": "unconed/console-extras.js · GitHub",
             "url": "https://github.com/unconed/console-extras.js",
-            "content": "console APIの拡張ライブラリ.\n\ntimes/throttle/collate/summary",
+            "content": "console APIの拡張ライブラリ.\ntimes/throttle/collate/summary",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "Performance Calendar » Moving beyond window.onload()",
             "url": "http://calendar.perfplanet.com/2012/moving-beyond-window-onload/",
-            "content": "Webサイトの速度を計測するのに`window.onload`を指標にするのは不適切ではないかという話。\n\n他にどのような測定基準があるのか、パフォーマンス計測ツールはどうしてるかや今後どうして行くかの話",
+            "content": "Webサイトの速度を計測するのに`window.onload`を指標にするのは不適切ではないかという話。\n他にどのような測定基準があるのか、パフォーマンス計測ツールはどうしてるかや今後どうして行くかの話",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "JavaScript Physics Engines Comparison - Build New Games",
             "url": "http://buildnewgames.com/physics-engines-comparison",
-            "content": "JavaScriptの物理エンジンライブラリの比較.\n\nbox2dweb/Ammo.js/JigLibJS/Cannon.js",
+            "content": "JavaScriptの物理エンジンライブラリの比較.\nbox2dweb/Ammo.js/JigLibJS/Cannon.js",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "JavaScript Code Analysis with Esprima - Marakana",
             "url": "http://marakana.com/s/post/1353/javacript_code_analysis_esprima_video",
-            "content": "Esprimaを使ったコード解析についてのスライド\n\n動画: http://marakana.com/s/post/1353/javacript_code_analysis_esprima_video by Ariya Hidayat",
+            "content": "Esprimaを使ったコード解析についてのスライド\n動画: http://marakana.com/s/post/1353/javacript_code_analysis_esprima_video by Ariya Hidayat",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "CSSの変化をアニメーションさせるtransitionについてまとめたよ。（CSS おれおれ Advent Calendar 2012 – 22日目） | Ginpen.com",
             "url": "http://ginpen.com/2012/12/23/transition/",
-            "content": "CSSのTransitionsの使いかた.\n\ntransitionでアニメーションするプロパティについて",
+            "content": "CSSのTransitionsの使いかた.\ntransitionでアニメーションするプロパティについて",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "ビットマスクによるフラグ - piglovesyouの日記",
             "url": "http://d.hatena.ne.jp/piglovesyou/20120621/1340237658",
-            "content": "JavaScriptでビットマスクによるフラグ管理の例\n\nhttp://javascripter.hatenablog.com/entry/20081002/1222962329",
+            "content": "JavaScriptでビットマスクによるフラグ管理の例\nhttp://javascripter.hatenablog.com/entry/20081002/1222962329",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -165,19 +165,19 @@
         {
             "title": "angular/angularjs-batarang · GitHub",
             "url": "https://github.com/angular/angularjs-batarang",
-            "content": "AngularJSのDeveloper Tools拡張。\n\nModels、パフォーマンス、依存関係、ElementsタブにAngularJSプロパティの表示、$scope等",
+            "content": "AngularJSのDeveloper Tools拡張。\nModels、パフォーマンス、依存関係、ElementsタブにAngularJSプロパティの表示、$scope等",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "Conditional loading of resources with mediaqueries | Christian Heilmann",
             "url": "http://christianheilmann.com/2012/12/19/conditional-loading-of-resources-with-mediaqueries/",
-            "content": "mediaqueryでCSSファイルを分岐しても読み込まれてしまうので、data属性にurlを書いてlazy loadする仕組みについて。\n\n",
+            "content": "mediaqueryでCSSファイルを分岐しても読み込まれてしまうので、data属性にurlを書いてlazy loadする仕組みについて。",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "Scrolling Performance - HTML5 Rocks",
             "url": "http://www.html5rocks.com/en/tutorials/speed/scrolling/",
-            "content": "スクロールのパフォーマンスについて.\n\nDeveloper Toolsを使ってスクロール時にタイムラインのPaint/Image Resizeの処理の見方、offsetTopプロパティ等Reflows/repaintsを起こすものの影響やscrollイベント時のdebounceについて",
+            "content": "スクロールのパフォーマンスについて.\nDeveloper Toolsを使ってスクロール時にタイムラインのPaint/Image Resizeの処理の見方、offsetTopプロパティ等Reflows/repaintsを起こすものの影響やscrollイベント時のdebounceについて",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -195,7 +195,7 @@
         {
             "title": "日記 | mixiページ",
             "url": "http://page.mixi.jp/run_page_apps.pl?appParams=%7B%22q%22%3A%22view_diary%22%2C%22diary_id%22%3A%22626856%22%7D&module_id=1624755&page_id=287564",
-            "content": "\"bfcache について覚えて帰ってもらいます。\"\n\nBack-Forwad Cacheの動作、無効にしてキャッシュを回避する方法についての検証.\n\nCache-Control: no-store/no-cache とサンプルコード、FirebugでのBFCacheの確認方法",
+            "content": "\"bfcache について覚えて帰ってもらいます。\"\nBack-Forwad Cacheの動作、無効にしてキャッシュを回避する方法についての検証.\nCache-Control: no-store/no-cache とサンプルコード、FirebugでのBFCacheの確認方法",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -207,19 +207,19 @@
         {
             "title": "Shumpei Shiraishi's Weblog: ついにHTML5が勧告候補に！そしてそれが意味するもの",
             "url": "http://blog.shumpei.net/2012/12/html5-cr.html",
-            "content": "HTML5とCanvas 2D Contextの仕様が勧告候補になり、大きな変更がない段階になった.\n\nHTML5の勧告と次のバージョンについて",
+            "content": "HTML5とCanvas 2D Contextの仕様が勧告候補になり、大きな変更がない段階になった.\nHTML5の勧告と次のバージョンについて",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "JavaScriptで競技プログラミングを始めよう！ - ひよっこプログラマのプログラミング",
             "url": "http://d.hatena.ne.jp/otaks/20121216/1355670113",
-            "content": "JavaScriptで競技プログラミング。\n\nJavaScriptの基本的な文法やオブジェクトと数学関数の話. JavaScriptの型について",
+            "content": "JavaScriptで競技プログラミング。\nJavaScriptの基本的な文法やオブジェクトと数学関数の話. JavaScriptの型について",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "jQuery: The Write Less, Do More, JavaScript Library",
             "url": "http://jquery.com/upgrade-guide/1.9/",
-            "content": "jQuery1.9での変更点に関するまとめ\n\n$.parseHTMLやattrとprop等について、削除されたAPIやアンドキュメントなAPIについて書かれている",
+            "content": "jQuery1.9での変更点に関するまとめ\n$.parseHTMLやattrとprop等について、削除されたAPIやアンドキュメントなAPIについて書かれている",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -231,13 +231,13 @@
         {
             "title": "Introduction for Browser Side MVC",
             "url": "http://www.slideshare.net/tricknotes/introduction-for-browser-side-mvc",
-            "content": "Todoを例にしたMVCの役割についてのスライド。\n\nBackbone.jsを使ったアプローチについて",
+            "content": "Todoを例にしたMVCの役割についてのスライド。\nBackbone.jsを使ったアプローチについて",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "JavaScript Enlightenment - O'Reilly Media",
             "url": "http://shop.oreilly.com/product/0636920027713.do",
-            "content": "JavaScript Enlightenment のオライリー本\n\n元は有料電子書籍で今は無料で配布されてる\n\nhttp://javascriptenlightenment.com/",
+            "content": "JavaScript Enlightenment のオライリー本\n元は有料電子書籍で今は無料で配布されてる\nhttp://javascriptenlightenment.com/",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -249,7 +249,7 @@
         {
             "title": "私的なjQuery",
             "url": "http://myjquery.blog.fc2.com/",
-            "content": "jQueryのリファレンス的なブログ・サイト。\n\nバージョン毎の変更履歴についてもまとめてる",
+            "content": "jQueryのリファレンス的なブログ・サイト。\nバージョン毎の変更履歴についてもまとめてる",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -261,19 +261,19 @@
         {
             "title": "jsziptools 2.3.0 変更点 :右京web",
             "url": "http://hujimi.seesaa.net/article/307606956.html",
-            "content": "JavaScriptでzlib,gzip,zipのデータを圧縮・展開するjsziptools 2.3.0リリース.\n\nBlob対応でasyncになった、Deferredの追加\n\n",
+            "content": "JavaScriptでzlib,gzip,zipのデータを圧縮・展開するjsziptools 2.3.0リリース.\nBlob対応でasyncになった、Deferredの追加",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "Mozilla 勉強会＠東京 8thで話しました - snyk_s log edit.hateblo",
             "url": "http://saneyukis.hatenablog.com/entry/2012/12/09/180412",
-            "content": "Mozillaへのバク報告の手順、パッチの書き方、レビューのしてもらい方.\n\nbugzillaガイドライン",
+            "content": "Mozillaへのバク報告の手順、パッチの書き方、レビューのしてもらい方.\nbugzillaガイドライン",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "ブラウザのバグを見つけたときにやること - Please Sleep",
             "url": "http://please-sleep.cou929.nu/how-to-report-bugs-of-browser.html",
-            "content": "ブラウザのバグを見つけた場合の報告までの手引き.\n\n主要ブラウザの報告ガイドラインと報告先がまとまってる",
+            "content": "ブラウザのバグを見つけた場合の報告までの手引き.\n主要ブラウザの報告ガイドラインと報告先がまとまってる",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -285,7 +285,7 @@
         {
             "title": "Backbone.js コメント付きソースコード日本語訳 ::ハブろぐ",
             "url": "http://havelog.ayumusato.com/develop/others/e537-translate_backbone_annotated_source.html",
-            "content": "Backbone.jsのコードコメントの翻訳\n\n(doccoで見られるようになるといい気がする)",
+            "content": "Backbone.jsのコードコメントの翻訳\n(doccoで見られるようになるといい気がする)",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -297,13 +297,13 @@
         {
             "title": "homoiconic/2012/12/combinators_1.md at master · raganwald/homoiconic · GitHub",
             "url": "https://github.com/raganwald/homoiconic/blob/master/2012/12/combinators_1.md#combinator-recipes-for-working-with-objects-in-javascript-part-i",
-            "content": "underscore.jsを使ったcombinatorのレシピ.\n\n",
+            "content": "underscore.jsを使ったcombinatorのレシピ.",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "Presentations (+ Video) |  JS.everywhere(2012) + Wakanday",
             "url": "http://www.jseverywhere.org/presentations/",
-            "content": "JS.everywhere( ) 2012の動画が一部公開された\n\nhttp://www.youtube.com/playlist?list=PL2PF2oGPokReHxddTOGehBS_w8-prtOBE",
+            "content": "JS.everywhere( ) 2012の動画が一部公開された\nhttp://www.youtube.com/playlist?list=PL2PF2oGPokReHxddTOGehBS_w8-prtOBE",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -345,7 +345,7 @@
         {
             "title": "Are your mixins ECMAScript 5 compatible? | NCZOnline",
             "url": "http://www.nczonline.net/blog/2012/12/11/are-your-mixins-ecmascript-5-compatible/",
-            "content": "mixinをES5で書く場合について。\n\ndefinePropertyの第三引数でディスクリプタもコピーする\n\nObject.defineProperty(receiver, property, Object.getOwnPropertyDescriptor(supplier, property));",
+            "content": "mixinをES5で書く場合について。\ndefinePropertyの第三引数でディスクリプタもコピーする\nObject.defineProperty(receiver, property, Object.getOwnPropertyDescriptor(supplier, property));",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -357,19 +357,19 @@
         {
             "title": "csste.st",
             "url": "http://csste.st/slides/",
-            "content": "CSSのテストについてのスライド.\n\nCSSLint、CSSUnit、GhostStory、Mogotest、画像diffでのテスト、cssertなどについて紹介",
+            "content": "CSSのテストについてのスライド.\nCSSLint、CSSUnit、GhostStory、Mogotest、画像diffでのテスト、cssertなどについて紹介",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "One-com/assetgraph · GitHub",
             "url": "https://github.com/One-com/assetgraph",
-            "content": "aやlinkやscriptや@importなどを辿って関連ファイルからHTML,CSS,JSについてを集める仕組みや、それらに対してまとめて最適化や結合などを行えるツール.\n\nインラインで書かれているscriptやcssも認識して扱える",
+            "content": "aやlinkやscriptや@importなどを辿って関連ファイルからHTML,CSS,JSについてを集める仕組みや、それらに対してまとめて最適化や結合などを行えるツール.\nインラインで書かれているscriptやcssも認識して扱える",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "Huddle/PhantomCSS · GitHub",
             "url": "https://github.com/Huddle/PhantomCSS",
-            "content": "CSS regression testingツール.\n\nPhantomJSとCasperJSを使って js-imagediff によるレンダリング描画の画像を比較してregression testingを行うツール",
+            "content": "CSS regression testingツール.\nPhantomJSとCasperJSを使って js-imagediff によるレンダリング描画の画像を比較してregression testingを行うツール",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -381,13 +381,13 @@
         {
             "title": "thingsinjars/cssert · GitHub",
             "url": "https://github.com/thingsinjars/cssert",
-            "content": "CSS verification testingツール.\n\nブックマークレットでテストしたい要素のstyleを取ってきて、リファクタリングした結果それが壊れてないかを検証するツール.\n\nrunnerはPhantomJSで動かせる",
+            "content": "CSS verification testingツール.\nブックマークレットでテストしたい要素のstyleを取ってきて、リファクタリングした結果それが壊れてないかを検証するツール.\nrunnerはPhantomJSで動かせる",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "Asynchronous JS: Callbacks, Listeners, Control Flow Libs and Promises - Sebastian's Blog",
             "url": "http://sporto.github.com/blog/2012/12/09/callbacks-listeners-promises/",
-            "content": "非同期JavaScriptについて.\n\nコールバック、イベントリスナーon/trigger、Flow Control Library、Promise それぞれのメリット・デメリットをまとめてる",
+            "content": "非同期JavaScriptについて.\nコールバック、イベントリスナーon/trigger、Flow Control Library、Promise それぞれのメリット・デメリットをまとめてる",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -399,7 +399,7 @@
         {
             "title": "Backbone.js 1.0に向けての変更点 « NAVER Engineers' Blog",
             "url": "http://tech.naver.jp/blog/?p=2342",
-            "content": "Backbone.js 1.0で追加予定の機能紹介.\n\nDOMの削除に合わせて参照も取り除くdispose、Collection.add()のmergeオプション",
+            "content": "Backbone.js 1.0で追加予定の機能紹介.\nDOMの削除に合わせて参照も取り除くdispose、Collection.add()のmergeオプション",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -411,7 +411,7 @@
         {
             "title": "What They Didn’t Tell You About ES5′s Array Extras | Nettuts+",
             "url": "http://net.tutsplus.com/tutorials/javascript-ajax/what-they-didnt-tell-you-about-es5s-array-extras/",
-            "content": "ES5で追加されたArrayメソッドについて.\n\napplyと合わせたTips、[...].filter(RegExp.prototype.test, /^b/);のようなprototypeメソッド渡して使う応用的な方法についても",
+            "content": "ES5で追加されたArrayメソッドについて.\napplyと合わせたTips、[...].filter(RegExp.prototype.test, /^b/);のようなprototypeメソッド渡して使う応用的な方法についても",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -423,19 +423,19 @@
         {
             "title": "All You Need to Know About the HTML5 Data Attribute | Webdesigntuts+",
             "url": "http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/all-you-need-to-know-about-the-html5-data-attribute/",
-            "content": "data属性の扱い方について。\n\nどういう時に使うか、CSSから利用する方法、jQueryのdataメソッドについて",
+            "content": "data属性の扱い方について。\nどういう時に使うか、CSSから利用する方法、jQueryのdataメソッドについて",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "CoffeeScript on Node.js - O'Reilly Media",
             "url": "http://shop.oreilly.com/product/0636920023081.do",
-            "content": "2013年12月発売\n\nCoffeeScriptでNode.jsアプリを作りながら、Node.jsやCoffeeScriptやドキュメントやテストについて学んで行く書籍",
+            "content": "2013年12月発売\nCoffeeScriptでNode.jsアプリを作りながら、Node.jsやCoffeeScriptやドキュメントやテストについて学んで行く書籍",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "An Analysis of the Redesign of the CoffeeScript Compiler - YOW2012 // Speaker Deck",
             "url": "https://speakerdeck.com/michaelficarra/an-analysis-of-the-redesign-of-the-coffeescript-compiler-yow2012",
-            "content": "新しいCoffeeScriptコンパイラの設計デザインについて.\n\ninputからoutputまで流れ.\n\nSpidermonkey ASTをIR(中間表現)とすることで、それに関するツール(esprima等)との連携が得られるメリットが有る。\n\nhttp://constellation.github.com/slides/contents/20121118/modules.html",
+            "content": "新しいCoffeeScriptコンパイラの設計デザインについて.\ninputからoutputまで流れ.\nSpidermonkey ASTをIR(中間表現)とすることで、それに関するツール(esprima等)との連携が得られるメリットが有る。\nhttp://constellation.github.com/slides/contents/20121118/modules.html",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -471,13 +471,13 @@
         {
             "title": "JS開発におけるTDDと自動テストツール利用の勘所",
             "url": "http://www.slideshare.net/KojiNakamura/jstdd",
-            "content": "QUnit、Jasmineの基本的な使い方、DOMに依存したテスト、Testacularについてのスライド。\n\nテストの導入からCIまでの流れが一通りな感じ",
+            "content": "QUnit、Jasmineの基本的な使い方、DOMに依存したテスト、Testacularについてのスライド。\nテストの導入からCIまでの流れが一通りな感じ",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "JavaScript アプリケーションのメモリー・リークを理解する",
             "url": "http://www.ibm.com/developerworks/jp/web/library/wa-jsmemory/?cmp=dw&cpb=dwwdv&ct=dwgra&cr=twitter&ccy=jp&csr=120712",
-            "content": "ChromeのHeap Profilerをつかったメモリリークの調査方法について。\n\nクロージャー、console APIを使った事によるリーク、循環参照のリークと対処法",
+            "content": "ChromeのHeap Profilerをつかったメモリリークの調査方法について。\nクロージャー、console APIを使った事によるリーク、循環参照のリークと対処法",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -495,25 +495,25 @@
         {
             "title": "Firebug 1.11 New Features ✩ Mozilla Hacks – the Web developer blog",
             "url": "https://hacks.mozilla.org/2012/12/firebug-1-11-new-features/",
-            "content": "Firebug 1.11の新しい機能についてのまとめ。\n\nSPDY対応、performance-timing、CSS Selectorでの検索、postMessageログ、関数呼び出しのログ、$,$$の変更、自動補完",
+            "content": "Firebug 1.11の新しい機能についてのまとめ。\nSPDY対応、performance-timing、CSS Selectorでの検索、postMessageログ、関数呼び出しのログ、$,$$の変更、自動補完",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "Getfirebug Blog » Blog Archive » Firebug 1.11.0",
             "url": "https://blog.getfirebug.com/2012/12/07/firebug-1-11-0/",
-            "content": "Firebug 1.11.0リリース\n\n",
+            "content": "Firebug 1.11.0リリース",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "JS.next - O'Reilly Media",
             "url": "http://shop.oreilly.com/product/0636920026396.do",
-            "content": "2013年5月発売\n\nECMAScript 6についての書籍\n\n",
+            "content": "2013年5月発売\nECMAScript 6についての書籍",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "JSCover - JavaScript code coverage",
             "url": "http://tntim96.github.com/JSCover/",
-            "content": " JSCoverageの改良コードカバレッジツール。Javaで実装されてる",
+            "content": "JSCoverageの改良コードカバレッジツール。Javaで実装されてる",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -537,19 +537,19 @@
         {
             "title": "Learning to Love JavaScript",
             "url": "http://infrequently.org/11/io/js/",
-            "content": "JavaScriptとは何か。\n\nall mutable objects、closure、関数スコープ、prototypeについて。\n\nまたES.nextの内容も出しながら、それを今まではどのように書いてたかという感じ",
+            "content": "JavaScriptとは何か。\nall mutable objects、closure、関数スコープ、prototypeについて。\nまたES.nextの内容も出しながら、それを今まではどのように書いてたかという感じ",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "Underscore.js",
             "url": "http://underscorejs.org",
-            "content": "Underscore.js 1.4.3 リリース\n\n Adobe's JS engine フレンドリーに、throttleの改善等",
+            "content": "Underscore.js 1.4.3 リリース\nAdobe's JS engine フレンドリーに、throttleの改善等",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "Media features of the most common devices - pieroxy.net",
             "url": "http://pieroxy.net/blog/2012/10/18/media_features_of_the_most_common_devices.html",
-            "content": "モバイル/スマートフォン/タブレット端末の画面情報のまとめ。\n\n画面サイズ、解像度、アスペクト比\n\ndevice-pixel-ratioの値等",
+            "content": "モバイル/スマートフォン/タブレット端末の画面情報のまとめ。\n画面サイズ、解像度、アスペクト比\ndevice-pixel-ratioの値等",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -573,13 +573,13 @@
         {
             "title": "Amazon: JavaScript Programming: Pushing the Limits [Paperback]: Jon Raasch",
             "url": "http://www.amazon.com/o/ASIN/111852456X/book042-22/ref=nosim",
-            "content": "2013年11月4日発売\n\nクライアントサイド、backbone、テンプレート、MongoDB、Canvas、WebGL、デスクトプアプリなど幅広げ",
+            "content": "2013年11月4日発売\nクライアントサイド、backbone、テンプレート、MongoDB、Canvas、WebGL、デスクトプアプリなど幅広げ",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
             "title": "Amazon: JavaScript Step by Step (Step By Step (Microsoft)) [Paperback]: Steve Suehring",
             "url": "http://www.amazon.com/o/ASIN/0735665931/book042-22/ref=nosim",
-            "content": "2013年9月20日発売\n\nVisual Studioを使ったJavaScript開発についての書籍",
+            "content": "2013年9月20日発売\nVisual Studioを使ったJavaScript開発についての書籍",
             "date": "2012-12-31T15:00:00.000Z"
         },
         {
@@ -597,7 +597,7 @@
         {
             "title": "[mixi] Source Mapについて",
             "url": "http://page.mixi.jp/run_page_apps.pl?page_id=287564&module_id=1630003",
-            "content": "SourceMapについて。\n\nどのようにマッピングしているのか、仕様について。",
+            "content": "SourceMapについて。\nどのようにマッピングしているのか、仕様について。",
             "date": "2012-12-31T15:00:00.000Z"
         }
     ]

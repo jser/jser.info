@@ -15,13 +15,13 @@
         {
             "title": "millermedeiros/amd-utils - GitHub",
             "url": "https://github.com/millermedeiros/amd-utils",
-            "content": "AMDモジュールとして書かれたユーティリティ関数などを集めたもの。\n\nAMDモジュールのテスト方法も参考になる",
+            "content": "AMDモジュールとして書かれたユーティリティ関数などを集めたもの。\nAMDモジュールのテスト方法も参考になる",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
             "title": "JavaScript非同期ライブラリ PotLite.js 1.22 リリース。アスペクト指向っぽく書けるSignal実装 | 圧縮電子精神音楽浮遊構造体",
             "url": "http://polygon-planet.blogspot.com/2011/11/javascript-potlitejs-122-signal.html",
-            "content": "PotLite.js 1.22リリース\n\n登録したハンドラをイベントの前後等いろいろなタイミングで実行できるPot.Signalの追加",
+            "content": "PotLite.js 1.22リリース\n登録したハンドラをイベントの前後等いろいろなタイミングで実行できるPot.Signalの追加",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -33,7 +33,7 @@
         {
             "title": "Nightly の XMLHttpRequest で text/html がパース可能に！ - hogehoge @teramako",
             "url": "http://d.hatena.ne.jp/teramako/20111122/p1",
-            "content": "FirefoxのNightlyにXHRのresponsebodyをHTMLパースする機能が加わった。\n\nこの実装を元に仕様にも反映していく。\n\nhttp://www.w3.org/QA/2011/11/openweb-weekly-20.html\n\nresponseType=\"document\"\n\nhttp://dvcs.w3.org/hg/xhr/raw-file/tip/Overview.html#document-response-entity-body\n\n以前は以下のようにHTMLドキュメントを作ったりして利用していたのが省ける\n\nhttp://nanto.asablo.jp/blog/2009/10/29/4660197",
+            "content": "FirefoxのNightlyにXHRのresponsebodyをHTMLパースする機能が加わった。\nこの実装を元に仕様にも反映していく。\nhttp://www.w3.org/QA/2011/11/openweb-weekly-20.html\nresponseType=\"document\"\nhttp://dvcs.w3.org/hg/xhr/raw-file/tip/Overview.html#document-response-entity-body\n以前は以下のようにHTMLドキュメントを作ったりして利用していたのが省ける\nhttp://nanto.asablo.jp/blog/2009/10/29/4660197",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -51,7 +51,7 @@
         {
             "title": "『7 Common Javascript Mistakes or Confusions』",
             "url": "http://tobyho.com/2011/11/16/7-common-js-mistakes-or-confusions/",
-            "content": "JavaScriptでのミスや混乱しやすい所\n\nvarなしの変数宣言/callback関数の使い方/this/ループとイベントハンドラでのミス/重たい処理でUIスレッドが固まる/コンパイラのない生活/JavaScriptのOOPの理解をしていない",
+            "content": "JavaScriptでのミスや混乱しやすい所\nvarなしの変数宣言/callback関数の使い方/this/ループとイベントハンドラでのミス/重たい処理でUIスレッドが固まる/コンパイラのない生活/JavaScriptのOOPの理解をしていない",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -63,7 +63,7 @@
         {
             "title": "『Node v0.6.3 « node blog』",
             "url": "http://blog.nodejs.org/2011/11/25/node-v0-6-3/",
-            "content": "Node.js 0.6.3リリース。\n\nnpmが同梱されるようになった",
+            "content": "Node.js 0.6.3リリース。\nnpmが同梱されるようになった",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -75,7 +75,7 @@
         {
             "title": "『Baggz/Amanda - GitHub』",
             "url": "https://github.com/Baggz/Amanda",
-            "content": "JSONスキーマのバリデーションを行えるJavaScriptライブラリ\n\nNode,ブラウザ上で動作し、非同期でのバリエーションにも対応",
+            "content": "JSONスキーマのバリデーションを行えるJavaScriptライブラリ\nNode,ブラウザ上で動作し、非同期でのバリエーションにも対応",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -93,13 +93,13 @@
         {
             "title": "『Mocha - the fun, simple, flexible JavaScript test framework』",
             "url": "http://visionmedia.github.com/mocha/",
-            "content": "nodeとブラウザで動くテスティングフレームワーク。\n\nJasmineのようなBDDライクな書き方で、TAP出力にも対応",
+            "content": "nodeとブラウザで動くテスティングフレームワーク。\nJasmineのようなBDDライクな書き方で、TAP出力にも対応",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
             "title": "『JavaScripture - The word on JavaScript』",
             "url": "http://www.javascripture.com/",
-            "content": "JavaScriptのリファレンスサイト。\n\nそれぞれのメソッドなどがどういう動作をしているのかをその場で実行して確認できる",
+            "content": "JavaScriptのリファレンスサイト。\nそれぞれのメソッドなどがどういう動作をしているのかをその場で実行して確認できる",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -117,13 +117,13 @@
         {
             "title": "『jQuery: » jQuery 1.7.1 Released』",
             "url": "http://blog.jquery.com/2011/11/21/jquery-1-7-1-released/",
-            "content": "jQuery 1.7.1リリース。\n\nテストケース置き場に jsFiddle.net が推奨されてる",
+            "content": "jQuery 1.7.1リリース。\nテストケース置き場に jsFiddle.net が推奨されてる",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
             "title": "Fast Mobile UIs: You're an Edge Case",
             "url": "http://www.slideshare.net/wooga/fast-mobile-uis-youre-an-edge-case",
-            "content": "モバイル向けのWebアプリについてのテクニックやUIについて。\n\n",
+            "content": "モバイル向けのWebアプリについてのテクニックやUIについて。",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -135,7 +135,7 @@
         {
             "title": "『mythz/jquip - GitHub』",
             "url": "https://github.com/mythz/jquip",
-            "content": "ミニマムなjQueryを目指してるJavaScriptライブラリ。\n\n既存のjQueryにある機能もプラグイン化するなどして最小構成を小さくしている。\n\nender.jsと似た方向性",
+            "content": "ミニマムなjQueryを目指してるJavaScriptライブラリ。\n既存のjQueryにある機能もプラグイン化するなどして最小構成を小さくしている。\nender.jsと似た方向性",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -147,7 +147,7 @@
         {
             "title": "『Block Scope in ES6』",
             "url": "http://stuff.marcoos.com/slides/2011/meetjs-krakow/index-en.html#intro",
-            "content": "ES6の機能についてのスライド\n\nletやforループとブロックスコープについて",
+            "content": "ES6の機能についてのスライド\nletやforループとブロックスコープについて",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -201,7 +201,7 @@
         {
             "title": "サバクラ両方で動く JavaScript の大規模開発を行うために — Gist",
             "url": "https://gist.github.com/1362110",
-            "content": "Scaling Isomorphic Javascript Codeの翻訳\n\nMVCの種類やBackbone.jsなどのライブラリがどのようなパターンになっているかを解説した記事",
+            "content": "Scaling Isomorphic Javascript Codeの翻訳\nMVCの種類やBackbone.jsなどのライブラリがどのようなパターンになっているかを解説した記事",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -213,13 +213,13 @@
         {
             "title": "『Amazon: Adobe Edge: Your visual blueprint for designing rich HTML5 applications [Paperback]: Russ Hodge』",
             "url": "http://www.amazon.com/o/ASIN/1118245717/book042-22/ref=nosim",
-            "content": "2012年3月22日発売\n\nHTML,CSS,JSでアニメーションやインタラクションを作成するオーサリングツールのAdobe Edgeについての書籍",
+            "content": "2012年3月22日発売\nHTML,CSS,JSでアニメーションやインタラクションを作成するオーサリングツールのAdobe Edgeについての書籍",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
             "title": "『Amazon: Sams Teach Yourself jQuery Mobile in 24 Hours (Sams Teach Yourself -- Hours) [Paperback]: Phillip Dutson』",
             "url": "http://www.amazon.com/o/ASIN/0672335948/book042-22/ref=nosim",
-            "content": "2012-05-10発売\n\njQuery Mobile本",
+            "content": "2012-05-10発売\njQuery Mobile本",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -237,7 +237,7 @@
         {
             "title": "『Moment.js - A lightweight javascript date library』",
             "url": "http://momentjs.com/",
-            "content": "日付処理ライブラリ。\n\ni18N対応、フォーマット指定",
+            "content": "日付処理ライブラリ。\ni18N対応、フォーマット指定",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -255,19 +255,19 @@
         {
             "title": "『株式会社シャノン技術ブログ: Navigation TimingとCanvasを使ったページロード時間の可視化』",
             "url": "http://shanon-tech.blogspot.com/2011/11/navigation-timingcanvas.html",
-            "content": "Navigation Timing APIの解説。\n\n取得したページ遷移情報をCanvasで描画",
+            "content": "Navigation Timing APIの解説。\n取得したページ遷移情報をCanvasで描画",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
             "title": "『closure-stylesheets - Closure Stylesheets - Google Project Hosting』",
             "url": "http://code.google.com/p/closure-stylesheets/",
-            "content": "GoogleのCSSメタ言語\n\nSass, Less, Stylus",
+            "content": "GoogleのCSSメタ言語\nSass, Less, Stylus",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
             "title": "Opera Developer News - DOM Event constructors in Opera 11.60",
             "url": "http://my.opera.com/ODIN/blog/2011/11/08/dom-event-constructors-in-opera-11-60",
-            "content": "Opera 11.60でDOM Event constructorsをサポート。\n\ninitEventなど引数がたくさんあるものをコンストラクタにオブジェクトを渡して指定できるようにする\n\nhttp://javascript.g.hatena.ne.jp/edvakf/20110624/1308925355\n\nWebkitも実装済み\n\nhttp://bit.ly/vVBcPW",
+            "content": "Opera 11.60でDOM Event constructorsをサポート。\ninitEventなど引数がたくさんあるものをコンストラクタにオブジェクトを渡して指定できるようにする\nhttp://javascript.g.hatena.ne.jp/edvakf/20110624/1308925355\nWebkitも実装済み\nhttp://bit.ly/vVBcPW",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -285,7 +285,7 @@
         {
             "title": "『Save Now: JavaScript Path to Mastery - O'Reilly Media』",
             "url": "http://shop.oreilly.com/category/deals/hd-javascript-path.do",
-            "content": "JavaScript関係のオライリー電子書籍が50%オフ、紙本は40%オフになるクーポンコード。\n\n2012年1月19日まで有効",
+            "content": "JavaScript関係のオライリー電子書籍が50%オフ、紙本は40%オフになるクーポンコード。\n2012年1月19日まで有効",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -297,13 +297,13 @@
         {
             "title": "『CSS Power Tools』",
             "url": "http://www.slideshare.net/stubbornella/css-tools",
-            "content": "CSSツールなどについてスライド。\n\nCSS Lintやreset.cssなどについて",
+            "content": "CSSツールなどについてスライド。\nCSS Lintやreset.cssなどについて",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
             "title": "『Amazon: The CSS Anthology: 101 Essential Tips, Tricks and Hacks 4th Edition [Paperback]: Rachel Andrew』",
             "url": "http://www.amazon.com/o/ASIN/0987153021/book042-22/ref=nosim",
-            "content": "2012年3月31日は発売。\n\nSirtePointのCSS本",
+            "content": "2012年3月31日は発売。\nSirtePointのCSS本",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -321,25 +321,25 @@
         {
             "title": "『Amazon: テスト駆動JavaScript [大型本]: Christian Johansen, 長尾高弘』",
             "url": "http://www.amazon.co.jp/o/ASIN/4048707868/book042-22/ref=nosim",
-            "content": "2011年11月25日発売\n\nTest-Driven JavaScript Development\n\nhttp://tddjs.com/\n\nの翻訳本。\n\n",
+            "content": "2011年11月25日発売\nTest-Driven JavaScript Development\nhttp://tddjs.com/\nの翻訳本。",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
             "title": "『Amazon: Html5 Mastery: Semantics, Standards, and Styling [ペーパーバック]: Anselm Bradford, Paul Haine』",
             "url": "http://www.amazon.co.jp/o/ASIN/1430238615/book042-22/ref=nosim",
-            "content": "2011年10月24日発売\n\nHTML5やCSS3などについての書籍\n\n",
+            "content": "2011年10月24日発売\nHTML5やCSS3などについての書籍",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
             "title": "『CoffeeScript』",
             "url": "http://coffeescript.org/#changelog",
-            "content": "CoffeeScript 1.1.3リリース\n\nsuperが呼べるように、0b10のような2進数表記のサポートなど",
+            "content": "CoffeeScript 1.1.3リリース\nsuperが呼べるように、0b10のような2進数表記のサポートなど",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
             "title": "『hirokidaichi/brook @ GitHub』",
             "url": "http://hirokidaichi.github.com/brook/",
-            "content": "中／大規模開発のためのJavaScript Framework \"brook\"\n\n非同期なモジュールローダーとMVC、promise\n\nnamespace-jsと一緒に使用\n\nhttps://github.com/hirokidaichi/namespace-js",
+            "content": "中／大規模開発のためのJavaScript Framework \"brook\"\n非同期なモジュールローダーとMVC、promise\nnamespace-jsと一緒に使用\nhttps://github.com/hirokidaichi/namespace-js",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -381,7 +381,7 @@
         {
             "title": "『Sisyphus.js』",
             "url": "http://simsalabim.github.com/sisyphus/",
-            "content": "Gmailライクなクライアントサイドでのドラフト機能のライブラリ。\n\nlocal storageにテキストエリアの内容をを保存する",
+            "content": "Gmailライクなクライアントサイドでのドラフト機能のライブラリ。\nlocal storageにテキストエリアの内容をを保存する",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -399,7 +399,7 @@
         {
             "title": "『Underscore.js』",
             "url": "http://documentcloud.github.com/underscore/#changelog",
-            "content": "Underscore.js 1.2.1リリース。\n\nAMDのサポート、_.throttleがはいった",
+            "content": "Underscore.js 1.2.1リリース。\nAMDのサポート、_.throttleがはいった",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -429,13 +429,13 @@
         {
             "title": "Terse JavaScript 101 – part 2 – James Padolsey",
             "url": "http://james.padolsey.com/javascript/terse-javascript-101-part-2/",
-            "content": "101 JavaScriptのTipの二回目\n\nループ、キャスト、lookupチェーン",
+            "content": "101 JavaScriptのTipの二回目\nループ、キャスト、lookupチェーン",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
             "title": "『Writing Modular JavaScript With AMD, CommonJS & ES Harmony』",
             "url": "http://addyosmani.com/writing-modular-js/",
-            "content": "AMDでのモジュールの定義や利用方法などの解説\n\nそれぞれのライブラリ事にも利用方法が書かれている。\n\nまたAMD/CommonJSどちらも対応するモジュールの書き方についてやES ES Harmonyのimport/exportまで解説している",
+            "content": "AMDでのモジュールの定義や利用方法などの解説\nそれぞれのライブラリ事にも利用方法が書かれている。\nまたAMD/CommonJSどちらも対応するモジュールの書き方についてやES ES Harmonyのimport/exportまで解説している",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -447,13 +447,13 @@
         {
             "title": "『Lungo.js - Mobile Framework... and stuff.』",
             "url": "http://www.lungojs.com/",
-            "content": "HTML5 Mobile Framework.\n\nHTML5 APIの実装やiOSのネイティブライクなUIの実装、スワイプなどのイベント処理などを行うHTML,CSS,JavaScriptのフレームワーク",
+            "content": "HTML5 Mobile Framework.\nHTML5 APIの実装やiOSのネイティブライクなUIの実装、スワイプなどのイベント処理などを行うHTML,CSS,JavaScriptのフレームワーク",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
             "title": "Qt-Loft - [qtjs/JavaScript(v8)実行環境]",
             "url": "http://qt.loftz.net/",
-            "content": "JavaScript実行環境(WIndows/Linuxが現在対応)\n\nQtをJavaScript(V8)から利用可能\n\n\n\n",
+            "content": "JavaScript実行環境(WIndows/Linuxが現在対応)\nQtをJavaScript(V8)から利用可能",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -465,25 +465,25 @@
         {
             "title": "jQuery Version and Plugin Usage Report | BuiltWith Blog",
             "url": "http://blog.builtwith.com/2011/10/31/jquery-version-and-usage-report/",
-            "content": "jQueryに関する調査レポート。\n\nバージョン別利用率やプラグインの目的など",
+            "content": "jQueryに関する調査レポート。\nバージョン別利用率やプラグインの目的など",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
             "title": "『JSAPI.info – James Padolsey』",
             "url": "http://james.padolsey.com/javascript/jsapi-info/",
-            "content": "jQueryやUnderscoreJS,Mootoolsなど有名なライブラリのソースコードを見るためのツール。\n\nメソッドから該当部分のソースコードを表示できる",
+            "content": "jQueryやUnderscoreJS,Mootoolsなど有名なライブラリのソースコードを見るためのツール。\nメソッドから該当部分のソースコードを表示できる",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
             "title": "jQuery Mobile",
             "url": "http://www.slideshare.net/firt/jquery-mobile-9979288",
-            "content": "jQuery Mobileについてのスライド。\n\n発表者はjQuery Mobile: Up and Runningの著者",
+            "content": "jQuery Mobileについてのスライド。\n発表者はjQuery Mobile: Up and Runningの著者",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
             "title": "Red Dirt JS",
             "url": "http://www.slideshare.net/nathansmith/red-dirt-js",
-            "content": "JavaScript、CSS、HTML5、SVGなどの歴史的な話や、それらに対する\n\nHaml => HTML\n\nSass/Compass => CSS\n\nCoffeeScript => JS\n\nと言ったものついてのスライド\n\nとても面白い",
+            "content": "JavaScript、CSS、HTML5、SVGなどの歴史的な話や、それらに対する\nHaml => HTML\nSass/Compass => CSS\nCoffeeScript => JS\nと言ったものついてのスライド\nとても面白い",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -495,13 +495,13 @@
         {
             "title": "ReFlowの原因とマークアップの最適化 « NAVER Engineers' Blog",
             "url": "http://tech.naver.jp/blog/?p=379",
-            "content": "リフローに関する対策方法などを解説した記事。\n\nケース毎のシナリオで紹介している",
+            "content": "リフローに関する対策方法などを解説した記事。\nケース毎のシナリオで紹介している",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
             "title": "Tagneto: RequireJS 1.0.1 released",
             "url": "http://tagneto.blogspot.com/2011/11/requirejs-101-released.html",
-            "content": "RequireJs 1.0.1リリース。\n\njQuery 1.7にあわせてリリース",
+            "content": "RequireJs 1.0.1リリース。\njQuery 1.7にあわせてリリース",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -519,7 +519,7 @@
         {
             "title": "『jQuery: » jQuery 1.7 Released』",
             "url": "http://blog.jquery.com/2011/11/03/jquery-1-7-released/",
-            "content": "jQuery 1.7リリース。\n\nイベントAPI(on/off)の変更、AMDのサポート、$.DeferredにCallbacksの追加など",
+            "content": "jQuery 1.7リリース。\nイベントAPI(on/off)の変更、AMDのサポート、$.DeferredにCallbacksの追加など",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
@@ -531,13 +531,13 @@
         {
             "title": "iOS5のMobile Safariから使えるようになったHTML5・CSSを試してみました【前編】 - くらげだらけ（くだくらげのBLOG）",
             "url": "http://d.hatena.ne.jp/kudakurage/20111025/1319475131",
-            "content": "iOS5のmobile safariで対応したHTML5やCSSやAPIなどについての紹介。\n\n例も書かれていてよくまとまっている",
+            "content": "iOS5のmobile safariで対応したHTML5やCSSやAPIなどについての紹介。\n例も書かれていてよくまとまっている",
             "date": "2011-11-30T15:00:00.000Z"
         },
         {
             "title": "Firebug Guide for Web Designers",
             "url": "http://sixrevisions.com/tools/firebug-guide-web-designers/",
-            "content": "Firebugの使い方紹介。\n\nデザイナー向けなのでHTMLやCSSパネルが中心",
+            "content": "Firebugの使い方紹介。\nデザイナー向けなのでHTMLやCSSパネルが中心",
             "date": "2011-11-30T15:00:00.000Z"
         }
     ]

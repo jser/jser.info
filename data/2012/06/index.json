@@ -9,7 +9,7 @@
         {
             "title": "jQuery Blog » jQuery Core: Version 1.9 and Beyond",
             "url": "http://blog.jquery.com/2012/06/28/jquery-core-version-1-9-and-beyond/",
-            "content": "jQuery1.9移行のロードマップ。\n\nコア機能の分離、2.0でIE6-8のサポート終了",
+            "content": "jQuery1.9移行のロードマップ。\nコア機能の分離、2.0でIE6-8のサポート終了",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -27,7 +27,7 @@
         {
             "title": "Amazon: Developing Backbone.js Applications [Paperback]: Addy Osmani",
             "url": "http://www.amazon.com/o/ASIN/1449328253/book042-22/ref=nosim",
-            "content": "2012年12月22日発売\n\nBackbone.js本\n\nhttp://shop.oreilly.com/product/0636920025344.do",
+            "content": "2012年12月22日発売\nBackbone.js本\nhttp://shop.oreilly.com/product/0636920025344.do",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -51,19 +51,19 @@
         {
             "title": "sazaam/BetweenJS",
             "url": "https://github.com/sazaam/BetweenJS",
-            "content": "Tweening Engine for JS\n\nBetweenAS3のJavaScript版的なライブラリ\n\n",
+            "content": "Tweening Engine for JS\nBetweenAS3のJavaScript版的なライブラリ",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "svg要素の基本的な使い方まとめ",
             "url": "http://www.h2.dion.ne.jp/~defghi/svgMemo/svgMemo.htm",
-            "content": "SVGについてのチュートリアル。\n\nSVG自体についての解説やsvg tinyの仕様について、Raphaël、D3.js、sieといったライブラリの利用方法などかなりの量が書かれている",
+            "content": "SVGについてのチュートリアル。\nSVG自体についての解説やsvg tinyの仕様について、Raphaël、D3.js、sieといったライブラリの利用方法などかなりの量が書かれている",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "jQuery Blog » jQuery 1.8 Beta 1: See What’s Coming (and Going!)",
             "url": "http://blog.jquery.com/2012/06/22/jquery-1-8-beta-1-see-whats-coming-and-going/",
-            "content": "jQuery 1.8β1リリース.\n\nGruntを使ったカスタムビルド\n\nhttps://github.com/jquery/jquery#how-to-build-your-own-jquery\n\n$.cssのベンダープレフィックス対応、jQuery.Animation、Sizzleのパフォーマンス改善。\n\n$()で文字列からのタグ作成の代わりに$.parseHTMLを導入、1.9からは$()は意図しないHTMLタグの生成を防止するため<で始まらない場合はセレクタとして認識される。\n\n</で始まらない場合はセレクタとして認識される。\n",
+            "content": "jQuery 1.8β1リリース.\nGruntを使ったカスタムビルド\nhttps://github.com/jquery/jquery#how-to-build-your-own-jquery\n$.cssのベンダープレフィックス対応、jQuery.Animation、Sizzleのパフォーマンス改善。\n$()で文字列からのタグ作成の代わりに$.parseHTMLを導入、1.9からは$()は意図しないHTMLタグの生成を防止するため<で始まらない場合はセレクタとして認識される。",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -147,7 +147,7 @@
         {
             "title": "IE10 と Windows 8 における JavaScript のパフォーマンスの進歩 - IEBlog 日本語 - Site Home - MSDN Blogs",
             "url": "http://blogs.msdn.com/b/ie_ja/archive/2012/06/21/advances-in-javascript-performance-in-ie10-and-windows-8.aspx",
-            "content": "Advances in JavaScript Performance in IE10 and Windows 8の日本語訳。\n\nIE10のChakraエンジンについて。",
+            "content": "Advances in JavaScript Performance in IE10 and Windows 8の日本語訳。\nIE10のChakraエンジンについて。",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -159,19 +159,19 @@
         {
             "title": "Jam - The JavaScript package manager",
             "url": "http://groundcomputing.co.uk/code/jam",
-            "content": "フロントエンドのJavaScriptに関するパッケージマネージャーツール。\n\nAMDモジュールとしてパッケージを扱う事ができて、AMDローダーとしてRequireJSを利用する。\n\n",
+            "content": "フロントエンドのJavaScriptに関するパッケージマネージャーツール。\nAMDモジュールとしてパッケージを扱う事ができて、AMDローダーとしてRequireJSを利用する。",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "NPM vs JAM, RequireJS vs Browserify vs Ender : javascript",
             "url": "http://www.reddit.com/r/javascript/comments/vc9d9/npm_vs_jam_requirejs_vs_browserify_vs_ender/",
-            "content": "JamというAMDを利用したクライアントサイドのパッケージマネージャーがでてきた件に関連して、NPM 、JAM、 RequireJS、 Browserify 、Enderのそれぞれの説明。\n\nまたJamにコミットしてる人がそれらの目的がどう違うか、またRequireJSを使う事について書かれてる",
+            "content": "JamというAMDを利用したクライアントサイドのパッケージマネージャーがでてきた件に関連して、NPM 、JAM、 RequireJS、 Browserify 、Enderのそれぞれの説明。\nまたJamにコミットしてる人がそれらの目的がどう違うか、またRequireJSを使う事について書かれてる",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "Shadow – Labs Release 3 Now Available | Adobe Shadow Team Blog",
             "url": "http://blogs.adobe.com/shadow/2012/06/17/shadow-labs-release-3-now-available/",
-            "content": "Shadow Labs Release 3リリース\n\nスクリーンショット、キャッシュ管理、httpsのサポート",
+            "content": "Shadow Labs Release 3リリース\nスクリーンショット、キャッシュ管理、httpsのサポート",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -195,7 +195,7 @@
         {
             "title": "Opera Developer News - Hello Opera 12!",
             "url": "http://my.opera.com/ODIN/blog/hello-opera-12",
-            "content": "Opera 12リリース\n\nWebGL、CSS3 Animations、getUserMedia、CORS、D&D、XHR uploadのサポート",
+            "content": "Opera 12リリース\nWebGL、CSS3 Animations、getUserMedia、CORS、D&D、XHR uploadのサポート",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -207,7 +207,7 @@
         {
             "title": "Making JavaScript testing in the browser not suck with Sinon.js (Part 1) - Blog - Unboxed Consulting",
             "url": "https://www.unboxedconsulting.com/blog/making-javascript-testing-in-the-browser-not-suck-with-sinon-js-part-1",
-            "content": "Sinon.jsを使ったテストについて。\n\nfakeXHRとfakeTimer",
+            "content": "Sinon.jsを使ったテストについて。\nfakeXHRとfakeTimer",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -219,25 +219,25 @@
         {
             "title": "An Introduction to Content Security Policy - HTML5 Rocks",
             "url": "http://www.html5rocks.com/en/tutorials/security/content-security-policy/",
-            "content": "ブラウザのCSPについて。\n\nSource Whitelistsのsrc指定、inline code、eval系のsandbox、repotingの指定について",
+            "content": "ブラウザのCSPについて。\nSource Whitelistsのsrc指定、inline code、eval系のsandbox、repotingの指定について",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "Third-Party JavaScript Development The Future - Bocoup",
             "url": "http://weblog.bocoup.com/third-party-javascript-development-future/",
-            "content": "widgetなどのサードパーティJavaScriptについて利用できる技術について。\n\nstyle scoped, iframe sandbox, srcdoc, seamless などについての解説",
+            "content": "widgetなどのサードパーティJavaScriptについて利用できる技術について。\nstyle scoped, iframe sandbox, srcdoc, seamless などについての解説",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "JavaScript: sparse arrays vs. dense arrays",
             "url": "http://www.2ality.com/2012/06/dense-arrays.html",
-            "content": "粗密なArrayについて。\n\nSparse arraysとDense arraysではiterateでの動作が異なる",
+            "content": "粗密なArrayについて。\nSparse arraysとDense arraysではiterateでの動作が異なる",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "hall of api shame: boolean trap - don't code today what you can't debug tomorrow",
             "url": "http://ariya.ofilabs.com/2011/08/hall-of-api-shame-boolean-trap.html",
-            "content": "JavaScriptのメソッドで引数に真偽値を渡す設計の問題について。\n\nその真偽値が意味してる事がわかりにくい問題など。複数の真偽値になるほど悪化したり、二重否定などはより意味合いが取りにくい\n\n代わりにオブジェクトを引数に渡す設計にしたりするなど。\n\n",
+            "content": "JavaScriptのメソッドで引数に真偽値を渡す設計の問題について。\nその真偽値が意味してる事がわかりにくい問題など。複数の真偽値になるほど悪化したり、二重否定などはより意味合いが取りにくい\n代わりにオブジェクトを引数に渡す設計にしたりするなど。",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -255,19 +255,19 @@
         {
             "title": "idiomatic-css/translations/ja-JP at master · necolas/idiomatic-css",
             "url": "https://github.com/necolas/idiomatic-css/tree/master/translations/ja-JP",
-            "content": "\"一貫性のあるCSSらしいCSSを書くための原則\"\n\nCSS/Sassのコーディングルール",
+            "content": "\"一貫性のあるCSSらしいCSSを書くための原則\"\nCSS/Sassのコーディングルール",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "Javascript Frameworks And Data Binding",
             "url": "http://tunein.yap.tv/javascript/2012/06/11/javascript-frameworks-and-data-binding/",
-            "content": "MVCフレームワークのテンプレートとイベントとデータバインディングについての比較記事\n\nBackbone.js、CanJS、Ember、Batman、Knockout、AngularJS。\n\n",
+            "content": "MVCフレームワークのテンプレートとイベントとデータバインディングについての比較記事\nBackbone.js、CanJS、Ember、Batman、Knockout、AngularJS。",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "Amazon: ゲームプログラミングのためのHTML5 Canvas入門―JavaScriptの基本から本格的ゲームの作成まで [単行本（ソフトカバー）]: ロブ・ホークス, 長尾高弘",
             "url": "http://www.amazon.co.jp/o/ASIN/4822284921/book042-22/ref=nosim",
-            "content": "2012年6月21日発売\n\nFoundation HTML5 Canvasの翻訳本\n\nhttp://www.amazon.com/dp/1430232919/",
+            "content": "2012年6月21日発売\nFoundation HTML5 Canvasの翻訳本\nhttp://www.amazon.com/dp/1430232919/",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -291,31 +291,31 @@
         {
             "title": "Operadores Bitwise en Javascript | EtnasSoft",
             "url": "http://www.etnassoft.com/2012/06/06/operadores-bitwise-en-javascript/",
-            "content": "JavaScriptのビット演算について\n\nそれぞれのビット演算子の説明や動作の解説など結構細かく",
+            "content": "JavaScriptのビット演算について\nそれぞれのビット演算子の説明や動作の解説など結構細かく",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "Amazon: Webゲーム HTML5練習帳 [単行本]: 宍戸 輝光",
             "url": "http://www.amazon.co.jp/o/ASIN/4777516911/book042-22/ref=nosim",
-            "content": "2012年6月14日発売\n\nCanvasゲーム\n\nhttps://www.kohgakusha.co.jp/books/detail/978-4-7775-1691-9",
+            "content": "2012年6月14日発売\nCanvasゲーム\nhttps://www.kohgakusha.co.jp/books/detail/978-4-7775-1691-9",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "Appliness | Digital magazine for web application developers",
             "url": "http://www.appliness.com/",
-            "content": "Webアプリケーション開発についてのデジタルマガジン。\n\niOS/Androidアプリとしても配布してる",
+            "content": "Webアプリケーション開発についてのデジタルマガジン。\niOS/Androidアプリとしても配布してる",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "Community Open Day 2012でJavaScriptのツールっぽい話をしてきました。 - ういはるかぜの化学 - subtech",
             "url": "http://subtech.g.hatena.ne.jp/mayuki/20120610/1339336779",
-            "content": "JavaScript対応のIDEについて。\n\nVisual Studio2012のコード補完について。IE10のJavaScriptエンジンを応用して、補完時にコードを解釈して表示される。\n\n他のIDEとしてComodo Edit、DW、WebStormについて。\n\nローカルのウェブサーバと組みあわせて使えるWebMatrixの紹介。\n\nJavaScriptのデバッグとデバッガーについて、IEのF12開発者ツール等のブレークポイント、ネットワークタブとFiddlerについて。\n\n最後にテストとminifyツールについて",
+            "content": "JavaScript対応のIDEについて。\nVisual Studio2012のコード補完について。IE10のJavaScriptエンジンを応用して、補完時にコードを解釈して表示される。\n他のIDEとしてComodo Edit、DW、WebStormについて。\nローカルのウェブサーバと組みあわせて使えるWebMatrixの紹介。\nJavaScriptのデバッグとデバッガーについて、IEのF12開発者ツール等のブレークポイント、ネットワークタブとFiddlerについて。\n最後にテストとminifyツールについて",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "HTML5 Forms - O'Reilly Media",
             "url": "http://shop.oreilly.com/product/0636920018568.do",
-            "content": "2013年3月頃発売\n\nHTML5 フォームについての書籍",
+            "content": "2013年3月頃発売\nHTML5 フォームについての書籍",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -327,7 +327,7 @@
         {
             "title": "今日からはじめるJS UnitTest",
             "url": "http://0-9.sakura.ne.jp/pub/cod2012jp/start.html",
-            "content": "JavaScriptのテストを書く7つの理由\n\n使用するテストフレームワークについて\n\nモックの用語説明(spy,stub,mock,fake)",
+            "content": "JavaScriptのテストを書く7つの理由\n使用するテストフレームワークについて\nモックの用語説明(spy,stub,mock,fake)",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -339,31 +339,31 @@
         {
             "title": "Yeti",
             "url": "http://yeti.cx/index.html",
-            "content": "JsTDにようにキャプチャーサーバを立ててコマンドラインからYUI Testを実行できるテスティングフレームワーク。\n\nlocaltunnelを使って外部からアクセスできるようにしたり、コードカバレッジやドキュメント生成、プロファイラ機能等が入ってる",
+            "content": "JsTDにようにキャプチャーサーバを立ててコマンドラインからYUI Testを実行できるテスティングフレームワーク。\nlocaltunnelを使って外部からアクセスできるようにしたり、コードカバレッジやドキュメント生成、プロファイラ機能等が入ってる",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "Bunyip: client-side unit testing made easy | The CSS Ninja - All things CSS, JavaScript & HTML",
             "url": "http://www.thecssninja.com/javascript/bunyip",
-            "content": "JsTDやBuster.JSのようなローカルサーバを立ててテストを動かすクライアントサイトのユニットテストフレームワーク。\n\n特徴的なのはSSHトンネルを作って、BrowserStack APIを使ってローカルで実際にブラウザを動かさないでクロスブラウザテストを行えるような仕組みを持っている。\n\nまたテスト自体はYUI testやadpterを経由してQUnit、Jasmineなどを使用する。",
+            "content": "JsTDやBuster.JSのようなローカルサーバを立ててテストを動かすクライアントサイトのユニットテストフレームワーク。\n特徴的なのはSSHトンネルを作って、BrowserStack APIを使ってローカルで実際にブラウザを動かさないでクロスブラウザテストを行えるような仕組みを持っている。\nまたテスト自体はYUI testやadpterを経由してQUnit、Jasmineなどを使用する。",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "AMD-Utils",
             "url": "http://millermedeiros.github.com/amd-utils/",
-            "content": "AMD形式で書かれたユーティリティモジュールのライブラリ。\n\nArrayやfunction、MathやObject、Stringやtime、is*やbind等のlangモジュールが用意されてる。",
+            "content": "AMD形式で書かれたユーティリティモジュールのライブラリ。\nArrayやfunction、MathやObject、Stringやtime、is*やbind等のlangモジュールが用意されてる。",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "Sorting - We're Doing It Wrong | Rodney Rehm",
             "url": "http://blog.rodneyrehm.de/archives/14-Sorting-Were-Doing-It-Wrong.html",
-            "content": "JavaScriptのsortについて。\n\n各ブラウザでの結果の違いやlocaleCompareを使った文字列のソートについて。\n\nDOM要素のソートについて",
+            "content": "JavaScriptのsortについて。\n各ブラウザでの結果の違いやlocaleCompareを使った文字列のソートについて。\nDOM要素のソートについて",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "『Internet Explorer 10 移行セミナー』フォローアップ - monoe's blog - Site Home - MSDN Blogs",
             "url": "http://blogs.msdn.com/b/osamum/archive/2012/06/08/internet-explorer-10.aspx",
-            "content": "IEとFiddlerでの開発について。\n\nIEの互換性モードについてのリソース",
+            "content": "IEとFiddlerでの開発について。\nIEの互換性モードについてのリソース",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -375,25 +375,25 @@
         {
             "title": "スマートフォンに最適なウェブサイトガイドライン｜コラム アユダンテ株式会社",
             "url": "http://www.ayudante.jp/column/2012-06-08/17-46/",
-            "content": "GoogleのBuilding Smartphone-Optimized Websitesの翻訳\n\nレスポンシブウェブデザインとか",
+            "content": "GoogleのBuilding Smartphone-Optimized Websitesの翻訳\nレスポンシブウェブデザインとか",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "Understanding Hardware Acceleration on Mobile Browsers",
             "url": "http://www.slideshare.net/ariyahidayat/understanding-hardware-acceleration-on-mobile-browsers",
-            "content": "Mobileブラウザのハードウェアアクセラレーションについてのスライド。\n\nどういう仕組みなのか、Mac Safariを使ったデバッグ方法について",
+            "content": "Mobileブラウザのハードウェアアクセラレーションについてのスライド。\nどういう仕組みなのか、Mac Safariを使ったデバッグ方法について",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "スクリプトのURLを変えずに、キャッシュ中のスクリプトを更新する方法 | ふじこのプログラミング奮闘記",
             "url": "http://blog.neo.jp/dnblog/index.php?module=Blog&action=Entry&blog=pg&entry=3410&rand=4600c",
-            "content": "Self-updating scripts の和訳記事\n\nhttp://www.stevesouders.com/blog/2012/05/22/self-updating-scripts/\n\n",
+            "content": "Self-updating scripts の和訳記事\nhttp://www.stevesouders.com/blog/2012/05/22/self-updating-scripts/",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "Getfirebug Blog » Blog Archive » Firebug 1.10a11",
             "url": "http://blog.getfirebug.com/2012/06/08/firebug-1-10a11/",
-            "content": "Firebug 1.10a11リリース\n\nFirecookieを取り込んでCookiesパネルが追加された。\n\nRoadmap https://getfirebug.com/wiki/index.php/Firebug_Roadmap",
+            "content": "Firebug 1.10a11リリース\nFirecookieを取り込んでCookiesパネルが追加された。\nRoadmap https://getfirebug.com/wiki/index.php/Firebug_Roadmap",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -411,7 +411,7 @@
         {
             "title": "O'Reilly Japan - HTML5クックブック",
             "url": "http://www.oreilly.co.jp/books/9784873115474/",
-            "content": "2012年6月22日発売\n\nHTML5 Cookbookの翻訳本",
+            "content": "2012年6月22日発売\nHTML5 Cookbookの翻訳本",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -435,7 +435,7 @@
         {
             "title": "fivetanley/warn.js",
             "url": "https://github.com/fivetanley/warn.js",
-            "content": "JSHintの設定を作るNodeツール\n\n特定のライブラリを許可したり、インデントの設定等",
+            "content": "JSHintの設定を作るNodeツール\n特定のライブラリを許可したり、インデントの設定等",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -447,7 +447,7 @@
         {
             "title": "Amazon: Learning Node [Paperback]: Shelley Powers",
             "url": "http://www.amazon.com/o/ASIN/1449323073/book042-22/ref=nosim",
-            "content": "2012年9月22日発売\n\nNode.js本",
+            "content": "2012年9月22日発売\nNode.js本",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -459,19 +459,19 @@
         {
             "title": "The Web Development Workflow of 2013",
             "url": "http://dl.dropbox.com/u/39519/talks/fluent/index.html#/",
-            "content": "Paul IrishのWeb開発についてのスライド\n\nテストやツールなどについて",
+            "content": "Paul IrishのWeb開発についてのスライド\nテストやツールなどについて",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "Introduction to Web Components - DOM ECMAScripting",
             "url": "http://domes.lingua.heliohost.org/webapi/intro-webcomponents1.html",
-            "content": "Web Components草案の翻訳\n\n\"Web Components 入門\"",
+            "content": "Web Components草案の翻訳\n\"Web Components 入門\"",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "Shim status of ES6 — Gist",
             "url": "https://gist.github.com/1665192",
-            "content": "ES6のshimについてのまとめ\n\n互換性のための回避策が取れる機能と、追加されたシンタックスなどのできない機能について",
+            "content": "ES6のshimについてのまとめ\n互換性のための回避策が取れる機能と、追加されたシンタックスなどのできない機能について",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -483,7 +483,7 @@
         {
             "title": "macでJsTestDriverを使ってみた。導入編 | LOG",
             "url": "http://yokotakenji.me/log/?p=816",
-            "content": "JsTestDriverの導入方法について。\n\n参加(jsdokusho)メンバーの記事にも色々書かれてる",
+            "content": "JsTestDriverの導入方法について。\n参加(jsdokusho)メンバーの記事にも色々書かれてる",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -495,13 +495,13 @@
         {
             "title": "Maintainable JavaScript 2012",
             "url": "http://www.slideshare.net/nzakas/maintainable-javascript-2012",
-            "content": "JavaScriptのメンテナンス性について。\n\nコーディングルールや、HTML/CSSと疎結合にすることについてや、ビルドツール、圧縮、ドキュメント生成ツールなどについてのスライド",
+            "content": "JavaScriptのメンテナンス性について。\nコーディングルールや、HTML/CSSと疎結合にすることについてや、ビルドツール、圧縮、ドキュメント生成ツールなどについてのスライド",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
             "title": "JSX - a faster, safer, easier alternative to JavaScript",
             "url": "http://jsx.github.com/",
-            "content": "type-safeで静的なクラス構造を持った静的型言語。\n\n変換時にオーバーヘッドが少なくなるようにJavaScriptに変換して利用する独自言語",
+            "content": "type-safeで静的なクラス構造を持った静的型言語。\n変換時にオーバーヘッドが少なくなるようにJavaScriptに変換して利用する独自言語",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -525,7 +525,7 @@
         {
             "title": "JavaScript Parser Infrastructure for Code Quality Analysis",
             "url": "http://www.slideshare.net/ariyahidayat/javascript-parser-infrastructure-for-code-quality-analysis",
-            "content": "Ecprimaを使ったJavaScriptのパースについてのスライド\n\nそれを利用した整形や、コードカバレッジやJSHint等のツール、Orionのコード補完についての解説。\n\nまた、Esprimaでコードから生成したASTからコードにするEscodegenなどについて等",
+            "content": "Ecprimaを使ったJavaScriptのパースについてのスライド\nそれを利用した整形や、コードカバレッジやJSHint等のツール、Orionのコード補完についての解説。\nまた、Esprimaでコードから生成したASTからコードにするEscodegenなどについて等",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -549,7 +549,7 @@
         {
             "title": "サウンドプログラミング用のJavaScriptライブラリができた！！！！ - 音の鳴るブログ",
             "url": "http://mohayonao.hatenablog.com/entry/2012/06/02/221251",
-            "content": "サウンドプログラミングライブラリ\n\nhttp://mohayonao.hatenablog.com/entry/2012/05/19/074218",
+            "content": "サウンドプログラミングライブラリ\nhttp://mohayonao.hatenablog.com/entry/2012/05/19/074218",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
@@ -567,7 +567,7 @@
         {
             "title": "iframe 要素の seamless 属性を試してみた | WWW WATCH",
             "url": "http://hyper-text.org/archives/2012/05/iframe_seamless_attribute.shtml",
-            "content": "iframeのseamless 属性について\n\n親ドキュメントで指定したスタイルが iframe 内の要素にも継承される",
+            "content": "iframeのseamless 属性について\n親ドキュメントで指定したスタイルが iframe 内の要素にも継承される",
             "date": "2012-06-30T15:00:00.000Z"
         },
         {
