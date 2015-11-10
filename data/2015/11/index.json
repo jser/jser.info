@@ -282,6 +282,23 @@
             ],
             "date": "2015-11-09T13:00:55.225Z",
             "relatedLinks": []
+        },
+        {
+            "title": "KeitaMoromizato/js-study-front-test",
+            "url": "https://github.com/KeitaMoromizato/js-study-front-test",
+            "content": "Node.jsでのテストとKarmaなどを使ったブラウザテストの違いや仕組みについて。\n実際に試せるサンプルと共に紹介されているので分かりやすい。",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "tutorial"
+            ],
+            "date": "2015-11-10T03:45:16.764Z",
+            "relatedLinks": [
+                {
+                    "title": "社内JavaScript勉強会で作ったコンテンツまとめ - Qiita",
+                    "url": "http://qiita.com/KeitaMoromizato/items/82679e98add1345646c6"
+                }
+            ]
         }
     ]
 }
