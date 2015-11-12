@@ -316,7 +316,7 @@
         {
             "title": "babel/CHANGELOG.md at master · babel/babel",
             "url": "https://github.com/babel/babel/blob/master/CHANGELOG.md#614",
-            "content": "Babel 6.1.4リリース。\n`babel/regsiter`が`babel-register`というパッケージに分離、ブラウザ向けの`babel-browser`パッケージの追加、バグ修正など",
+            "content": "Babel 6.1.4リリース。\n`babel/register`が`babel-register`というパッケージに分離、ブラウザ向けの`babel-browser`パッケージの追加、バグ修正など",
             "tags": [
                 "babel",
                 "ReleaseNote"
