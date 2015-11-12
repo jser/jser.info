@@ -38,7 +38,7 @@ filesHasFixedDate.forEach(filePath => {
     var diffMinutes = lastDate * 24 * 60;
     var oneStepMinutes = Math.round(diffMinutes / items.length);
     json.list = items.map((item, index) => {
-        item.date = moment(momentOfFile.startOf('month')).add(index * oneStepMinutes, 'minutes').toDate();
+        item.date = moment(momentOfFile.startOf('month')).add(index * oneStepMinutes, 'minutes').toDate().toString();
         console.log(item.date);
         return item;
     });

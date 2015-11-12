@@ -299,6 +299,30 @@
                     "url": "http://qiita.com/KeitaMoromizato/items/82679e98add1345646c6"
                 }
             ]
+        },
+        {
+            "title": "Microsoft/nodejs-guidelines",
+            "url": "https://github.com/Microsoft/nodejs-guidelines",
+            "content": "Windows向けのNode.js入門的なガイドライン",
+            "tags": [
+                "MS",
+                "node.js",
+                "windows",
+                "tutorial"
+            ],
+            "date": "2015-11-10T11:59:11.248Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "babel/CHANGELOG.md at master · babel/babel",
+            "url": "https://github.com/babel/babel/blob/master/CHANGELOG.md#614",
+            "content": "Babel 6.1.4リリース。\n`babel/regsiter`が`babel-register`というパッケージに分離、ブラウザ向けの`babel-browser`パッケージの追加、バグ修正など",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "date": "2015-11-12T07:50:47.241Z",
+            "relatedLinks": []
         }
     ]
 }
