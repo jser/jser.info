@@ -323,6 +323,22 @@
             ],
             "date": "2015-11-12T07:50:47.241Z",
             "relatedLinks": []
+        },
+        {
+            "title": "mweststrate/mobservable",
+            "url": "https://github.com/mweststrate/mobservable",
+            "content": "配列やオブジェクトなどをラップして変更監視が出来るライブラリ。\ngetterとsetterを使い変更を監視するためプロパティの代入による変更を通知出来る",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "date": "2015-11-12T08:55:22.074Z",
+            "relatedLinks": [
+                {
+                    "title": "Object.observe is dead. Long live Mobservable.observe — Medium",
+                    "url": "https://medium.com/@mweststrate/object-observe-is-dead-long-live-mobservable-observe-ad96930140c5"
+                }
+            ]
         }
     ]
 }
