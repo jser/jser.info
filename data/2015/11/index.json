@@ -364,6 +364,22 @@
             ],
             "date": "2015-11-13T08:13:29.005Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Kinoma now shipping JavaScript 6th Edition (ES6) support | Kinoma Notes - Blog of Kinoma team",
+            "url": "http://blog.kinoma.com/2015/10/es6_support/",
+            "content": "KinomaのIoTデバイス向けのJavaScriptエンジンXS6がES6 Compat tableで96%の実装率を持っているという話",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2015-11-15T14:18:12.204Z",
+            "relatedLinks": [
+                {
+                    "title": "ECMAScript 6 compatibility table",
+                    "url": "http://kangax.github.io/compat-table/es6/"
+                }
+            ]
         }
     ]
 }
