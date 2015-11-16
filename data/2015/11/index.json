@@ -392,6 +392,22 @@
             ],
             "date": "2015-11-16T09:23:05.471Z",
             "relatedLinks": []
+        },
+        {
+            "title": "What’s in ECMAScript 2016 (ES7)?",
+            "url": "http://www.2ality.com/2015/11/tc39-process.html",
+            "content": "ECMAScriptに関する用語解説やES.nextにおける策定プロセスの解説。\nまた“ES7 features”のような紹介は間違っているかもしれないという話や現状の策定状況についてなど",
+            "tags": [
+                "ECMAScript",
+                "spec"
+            ],
+            "date": "2015-11-16T09:31:09.812Z",
+            "relatedLinks": [
+                {
+                    "title": "Introduction | ECMAScriptとは何か？",
+                    "url": "http://azu.github.io/slide-what-is-ecmascript/"
+                }
+            ]
         }
     ]
 }
