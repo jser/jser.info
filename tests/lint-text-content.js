@@ -1,7 +1,5 @@
 // LICENSE : MIT
 "use strict";
-var format = require("format-text");
-var style = require("style-format");
 var prettyError = require("textlint-formatter/lib/formatters/pretty-error").prettyError;
 var path = require("path");
 function hasError(result) {

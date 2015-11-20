@@ -67,7 +67,7 @@
         {
             "title": "Easier Concurrent Programming in JavaScript with Async Functions",
             "url": "http://amasad.me/2015/10/31/javascript-async-functions-for-easier-concurrent-programming/",
-            "content": "自動販売機的なプログラミングを題材に非同期処理があってもレースコンディションが起きないようにするにはどうするかという話\nステートマシンベースのもの、Promiseキューとasync/awaitを使ったものをそれぞれ見ていく話",
+            "content": "自動販売機的なプログラミングを題材に非同期処理があってもレースコンディションが起きないする話\nステートマシンベースのもの、Promiseキューとasync/awaitを使ったものをそれぞれ見ていく話",
             "tags": [
                 "JavaScript"
             ],
@@ -588,7 +588,7 @@
         {
             "title": "jest/CHANGELOG.md at 0.8.0 · facebook/jest",
             "url": "https://github.com/facebook/jest/blob/0.8.0/CHANGELOG.md",
-            "content": "JavaScriptテストフレームワークのjest 0.8.0リリース。\njasmine 2に対応",
+            "content": "JavaScriptテストフレームワークのJest 0.8.0リリース。\njasmine 2に対応",
             "tags": [
                 "JavaScript",
                 "testing",
