@@ -21,15 +21,18 @@
   "dependencies": {},
   "devDependencies": {
     "JSV": "~4.0.2",
-    "bluebird": "^2.6.2",
+    "bluebird": "^3.0.5",
     "cheerio": "^0.19.0",
     "format-text": "0.0.3",
-    "glob": "^5.0.15",
+    "glob": "^6.0.1",
     "jsonlint": "~1.6.0",
+    "markdown-to-ast": "^3.1.1",
     "moment": "^2.10.6",
     "q-io": "^1.11.6",
     "style-format": "0.0.0",
-    "textlint": "^3.0.0",
+    "textlint": "^5.0.2",
+    "textlint-formatter": "^1.4.1",
+    "textlint-rule-no-doubled-joshi": "^1.2.3",
     "textlint-rule-spellcheck-tech-word": "^4.0.1",
     "to-markdown": "^2.0.1"
   }
