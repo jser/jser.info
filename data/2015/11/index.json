@@ -710,6 +710,27 @@
             ],
             "date": "2015-11-22T14:29:32.848Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Grunt, Rebooted | Official jQuery Blog",
+            "url": "http://blog.jquery.com/2015/11/19/grunt-rebooted/",
+            "content": "GruntはjQuery Foundationに移管され、新たなメンテナーを求める形で再始動するとのこと",
+            "tags": [
+                "Grunt",
+                "jQuery",
+                "issue"
+            ],
+            "date": "2015-11-22T14:39:21.439Z",
+            "relatedLinks": [
+                {
+                    "title": "Grunt needs your help! · Issue #1403 · gruntjs/grunt",
+                    "url": "https://github.com/gruntjs/grunt/issues/1403"
+                },
+                {
+                    "title": "Grunt project tasks for jQuery Foundation transition · Issue #1404 · gruntjs/grunt",
+                    "url": "https://github.com/gruntjs/grunt/issues/1404"
+                }
+            ]
         }
     ]
 }
