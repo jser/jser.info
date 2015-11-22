@@ -700,6 +700,16 @@
             ],
             "date": "2015-11-22T13:49:16.158Z",
             "relatedLinks": []
+        },
+        {
+            "title": "ES.stage3: Object.entries() and Object.values()",
+            "url": "http://www.2ality.com/2015/11/stage3-object-entries.html",
+            "content": "Stage 3の`Object.entries()`と`Object.values()`について。\n`Object.keys()`に対応する関係なので配列を返す。\nIteratorはReflect APIの方を利用する",
+            "tags": [
+                "ECMAScript"
+            ],
+            "date": "2015-11-22T14:29:32.848Z",
+            "relatedLinks": []
         }
     ]
 }
