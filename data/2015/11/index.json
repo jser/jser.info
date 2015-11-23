@@ -764,6 +764,23 @@
                     "url": "https://github.com/plotly/plotly.js"
                 }
             ]
+        },
+        {
+            "title": "ally.js",
+            "url": "http://allyjs.io/",
+            "content": "DOM要素のフォーカスとタブ移動に関するブラウザ差異の吸収ライブラリ。\n`:focus-within` のpolyfill提供など",
+            "tags": [
+                "JavaScript",
+                "アクセシビリティ",
+                "library"
+            ],
+            "date": "2015-11-23T09:36:54.382Z",
+            "relatedLinks": [
+                {
+                    "title": "What does \"focusable\" mean? - ally.js",
+                    "url": "http://allyjs.io/what-is-focusable.html"
+                }
+            ]
         }
     ]
 }
