@@ -781,6 +781,19 @@
                     "url": "http://allyjs.io/what-is-focusable.html"
                 }
             ]
+        },
+        {
+            "title": "kdzwinel/betwixt",
+            "url": "https://github.com/kdzwinel/betwixt",
+            "content": "通信内容をキャプチャしてデバッグに利用できるローカルプロキシ。\nChrome開発者ツールのネットワークパネル風UIで通信内容を見ることが出来る。",
+            "tags": [
+                "HTTP",
+                "proxy",
+                "Chrome",
+                "node.js"
+            ],
+            "date": "2015-11-24T13:54:24.709Z",
+            "relatedLinks": []
         }
     ]
 }
