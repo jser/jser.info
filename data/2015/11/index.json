@@ -794,6 +794,26 @@
             ],
             "date": "2015-11-24T13:54:24.709Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Introducing Pokedex.org: a progressive webapp for Pokémon fans — Pocket JavaScript",
+            "url": "http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org",
+            "content": "Progressive Web Apps(アプリになっていくウェブ)を実現する色々。\nオフラインでも動作するようにしたり、\n60FPSスクロールを実現するためにVirtual DOMのdiff/patchをWeb WorkerでUIから重たい処理を省き、CSSアニメーションを活用するなど",
+            "tags": [
+                "JavaScript",
+                "performance"
+            ],
+            "date": "2015-11-25T13:37:18.244Z",
+            "relatedLinks": [
+                {
+                    "title": "Progressive Web Apps: Escaping Tabs Without Losing Our Soul – Infrequently Noted",
+                    "url": "https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/"
+                },
+                {
+                    "title": "Progressive Web Appsとは - fragmentary",
+                    "url": "http://myakura.hatenablog.com/entry/2015/11/18/053939"
+                }
+            ]
         }
     ]
 }
