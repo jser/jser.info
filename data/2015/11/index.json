@@ -862,6 +862,22 @@
             ],
             "date": "2015-11-26T02:37:55.500Z",
             "relatedLinks": []
+        },
+        {
+            "title": "V8 JavaScript Engine: V8 Release 4.8",
+            "url": "http://v8project.blogspot.jp/2015/11/v8-release-48.html",
+            "content": "V8 4.8リリース(Chrome 48で搭載)。\nwell-known symbolsの追加、 ArrayメソッドがArray-likeなオブジェクトを扱う際にES6の仕様へ準拠するように",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "date": "2015-11-26T03:00:21.701Z",
+            "relatedLinks": [
+                {
+                    "title": "Issue 3087 - v8 - ES6: Array.prototype.slice and friends should use ToLength instead of ToUint32 - V8 JavaScript Engine - Google Project Hosting",
+                    "url": "https://code.google.com/p/v8/issues/detail?id=3087"
+                }
+            ]
         }
     ]
 }
