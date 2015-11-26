@@ -889,6 +889,17 @@
             ],
             "date": "2015-11-26T08:00:31.050Z",
             "relatedLinks": []
+        },
+        {
+            "title": "RailsのAsset PipelineとPrecompileをNode.jsのみで処理できるgulp-sprocketsを作った - yo_waka's blog",
+            "url": "http://waka.github.io/2015/11/25/gulp_sprockets.html",
+            "content": "Sprocketsの独自ディレクティブもパースして、gulp上でビルド出来るようにするgulpプラグイン",
+            "tags": [
+                "gulp",
+                "rails"
+            ],
+            "date": "2015-11-26T08:04:12.133Z",
+            "relatedLinks": []
         }
     ]
 }
