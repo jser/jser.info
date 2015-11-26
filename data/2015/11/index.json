@@ -900,6 +900,22 @@
             ],
             "date": "2015-11-26T08:04:12.133Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Introducing EdgeHTML 13, our first platform update for Microsoft Edge | Microsoft Edge Dev Blog",
+            "url": "http://blogs.windows.com/msedgedev/2015/11/16/introducing-edgehtml-13-our-first-platform-update-for-microsoft-edge/",
+            "content": "EdgeHTML 13の変更点について。\nHTMLやCSS関連では、\nCSS `initial`と`unset`、`a[download]`、`input[type=time]`、`<picture>`、ORTC、`<template>`のサポート。\n\nJavaScript関連では、ES6 Classes、asm.jsをデフォルトサポート。\nフラグ付きでasync/await、Exponentiation operator、Destructuringのサポート。",
+            "tags": [
+                "MSEdge",
+                "ReleaseNote"
+            ],
+            "date": "2015-11-26T13:24:51.482Z",
+            "relatedLinks": [
+                {
+                    "title": "Release version 10586 : Microsoft Edge Dev",
+                    "url": "https://dev.windows.com/en-us/microsoft-edge/platform/changelog/desktop/10586/?compareWith=10240"
+                }
+            ]
         }
     ]
 }
