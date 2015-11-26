@@ -838,6 +838,18 @@
             ],
             "date": "2015-11-26T00:59:02.653Z",
             "relatedLinks": []
+        },
+        {
+            "title": "mweststrate/ts-npm-lint",
+            "url": "https://github.com/mweststrate/ts-npm-lint",
+            "content": "TypeScriptで書かれたモジュールを公開するときに`package.json`の内容などをチェック、修正するツール",
+            "tags": [
+                "TypeScript",
+                "npm",
+                "Tools"
+            ],
+            "date": "2015-11-26T02:32:54.641Z",
+            "relatedLinks": []
         }
     ]
 }
