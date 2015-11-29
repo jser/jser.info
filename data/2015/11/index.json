@@ -941,6 +941,17 @@
             ],
             "date": "2015-11-28T07:46:51.690Z",
             "relatedLinks": []
+        },
+        {
+            "title": "From Karma to Mocha, with a taste of jsdom — Podio Engineering Blog — Medium",
+            "url": "https://medium.com/podio-engineering-blog/from-karma-to-mocha-with-a-taste-of-jsdom-c9c703a06b21#.ifxxvh9d3",
+            "content": "KarmaからMocha+jsdomへテストを移行した話。\nIsolationの仕組み、全テストの実行時間、単独のテストケース実行、監視などそれぞの項目における比較が書かれている",
+            "tags": [
+                "JavaScript",
+                "testing"
+            ],
+            "date": "2015-11-29T14:31:59.202Z",
+            "relatedLinks": []
         }
     ]
 }
