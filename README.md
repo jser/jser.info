@@ -8,7 +8,7 @@ JSer.infoサイト自体は[jser/jser.github.io](https://github.com/jser/jser.gi
 
 JSer.infoに関連するリポジトリについての案内です。
 
-## 情報を見たい
+## 新し情報を見たい
 
 - [JSer.info](http://jser.info/)
 	- JSer.infoサイトそのもの
@@ -41,8 +41,7 @@ JSer.infoに関連するリポジトリについての案内です。
 ## 紹介して欲しい記事/サイト/ライブラリがある
 
 JSer.infoに載せて欲しい記事は[このリポジトリ](https://github.com/jser/jser.info)へPull Requestする。
-
-手順について、詳しくは[CONTRIBUTING.md](./CONTRIBUTING.md)を読む。
+手順についての詳細は[CONTRIBUTING.md](./CONTRIBUTING.md)を読む。
 
 - [JSer.info Pull Request Form](http://jser.info/contributing/ "JSer.info Pull Request Form")
 	- 掲載したい記事がある場合はこちらのフォームからPull Request
