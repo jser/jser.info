@@ -1,60 +1,73 @@
-[JSer.info][] [![Build Status](https://travis-ci.org/jser/jser.info.png)](https://travis-ci.org/jser/jser.info) [![Gitter chat](https://badges.gitter.im/jser/jser.info.png)](https://gitter.im/jser/jser.info)
-=========
+# [JSer.info][] [![Build Status](https://travis-ci.org/jser/jser.info.png)](https://travis-ci.org/jser/jser.info) [![Gitter chat](https://badges.gitter.im/jser/jser.info.png)](https://gitter.im/jser/jser.info)
 
-JSer.info で使用しているデータリポジトリ。
+JSer.infoに掲載する記事の元データを管理しているリポジトリです。
 
-JSer.infoに掲載する予定の記事候補や過去に掲載したデータが管理されています。
+JSer.infoサイト自体は[jser/jser.github.io](https://github.com/jser/jser.github.io "jser/jser.github.io")のGitHub Pagesとして動作しています。
 
-また、[JSer.info][] に関して意見や要望や知らせたい事などあったら [Create a new issue.](https://github.com/jser/jser.info/issues "Create a new issue.") から。
+## JSer.infoの案内
 
-[Gitter](https://gitter.im/ "Gitter")に[チャットルーム](https://gitter.im/jser/jser.info "jser/jser.info - Gitter")もあるのでそちらからでも問題無いです。
+JSer.infoに関連するリポジトリについての案内です。
 
-[![Gitter chat](https://badges.gitter.im/jser/jser.info.png)](https://gitter.im/jser/jser.info)
+## 情報を見たい
 
-## Usage
+- [JSer.info](http://jser.info/)
+	- JSer.infoサイトそのもの
+	- 週一回程度で更新
+- [Realtime JSer.info](http://realtime.jser.info/)
+	- JSer.infoのリアルタイム版
+	- 元データが追加された時点で更新
 
-### 記事を掲載して欲しい場合
+## コミュニケーションを取りたい
 
-[JSer.info Pull Request Form](http://jser.info/contributing/ "JSer.info Pull Request Form")を使い[このリポジトリ](https://github.com/jser/jser.info)に対してPull Requestして下さい。
+- [Issues · jser/jser.info](https://github.com/jser/jser.info/issues "Issues · jser/jser.info")
+	- JSer.infoに関連する意見や要望などを管理するIssue
+- [![Gitter chat](https://badges.gitter.im/jser/jser.info.png)](https://gitter.im/jser/jser.info)
+	- Gitterを利用したチャット
+	- Issueを立てるまでもない指摘や感想、疑問、オススメ記事などとりあえず迷ったらチャットへ
 
-- [JSer.infoに紹介してもらいたい記事のPull Requestが出来るようになりました - JSer.info](http://jser.info/post/75446735069/jser-info-pull-request/ "JSer.infoに紹介してもらいたい記事のPull Requestが出来るようになりました - JSer.info")
+## データや記事を修正したい
 
-### 掲載済みの記事を修正したい場合
-
-[JSer.info](http://jser.info/ "JSer.info")に掲載されている記事に対して修正を送りたい場合は、
-以下のリポジトリに対して直接pull requestして下さい。
-
+- [jser/jser.info](https://github.com/jser/jser.info "jser/jser.info")
+	- 元データを修正したい場合
+	- 記事として掲載後に元データを修正しても自動的に記事へ反映はされません
 - [jser/jser.github.io](https://github.com/jser/jser.github.io "jser/jser.github.io")
+	- [JSer.info][]の記事を修正したい場合
 
-記事上部の **Edit on GitHub** 又は 下部の **この記事へ修正リクエストをする** から該当記事の編集画面が開けます。
+## 紹介して欲しい記事/サイト/ライブラリがある
 
-![掲載済みの記事へのpull-request](http://take.ms/suw5I)
+JSer.infoに載せて欲しい記事は[このリポジトリ]へPull Requestする。
 
-## Viewer
+手順について、詳しくは[CONTRIBUTING.md](./CONTRIBUTING.md)を読む。
 
-- [JSer.infoのアーカイブ](http://jser.github.io/jser.info/ "JSer.infoのアーカイブ")
-- [Realtime JSer.info](http://realtime.jser.info/ "Realtime JSer.info")
+- [JSer.info Pull Request Form](http://jser.info/contributing/ "JSer.info Pull Request Form")
+	- 掲載したい記事がある場合はこちらのフォームからPull Request
+	- [jser/contributing-preview](https://github.com/jser/contributing-preview "jser/contributing-preview")
+	- どういう表示になるかのプレビュー補助ツール
 
-でアーカイブのデータを見られます。
+関連: [JSer.infoに紹介してもらいたい記事のPull Requestが出来るようになりました - JSer.info](http://jser.info/post/75446735069/jser-info-pull-request/ "JSer.infoに紹介してもらいたい記事のPull Requestが出来るようになりました - JSer.info")
 
-``Edit on Github`` から該当するindex.json(記事候補のデータ)を修正出来ます。
-(ここで修正されたファイルは直接記事と連動はしてないので注意、あくまで記事候補のデータです)
 
-[JSer.info]: http://jser.info/  "JSer.info"
+## データを分析したい
 
-## Analytics
+JSer.infoのデータを分析したいはJSON APIとライブラリが用意されています。
 
-[jser/stat-js](https://github.com/jser/stat-js "jser/stat-js")を使うことで、
-このリポジトリの記事データを分析ができます。
+- [jser/stat-js](https://github.com/jser/stat-js "jser/stat-js")
+	- JSer.infoの掲載データを利用出来る統計処理ライブラリ
+	- 特定の期間で紹介した記事一覧の取得、関連記事の検索など
+- [JSer.info トレンド](http://jser.info/trends/ "JSer.info トレンド")
+	- [jser/stat-js](https://github.com/jser/stat-js "jser/stat-js")を使ったキーワードトレンド情報のビューア
 
-週ごとのデータの切り出しやあるURLがどの記事で紹介されているかなどを分析するJavaScriptライブラリとして利用できます。
 
-## ロゴ
+## 素材が欲しい
 
-[jser/media](https://github.com/jser/media "jser/media")からロゴやアイコンなどの素材がダウンロードできます。
+- [jser/media](https://github.com/jser/media "jser/media")
+	- JSer.infoのロゴやアイコンなどの素材
 
-## License
+
+## ライセンス
 
 The source code under the MIT LICENSE.
 
-`article/` and `data/` under the CC-BY [![CC-BY](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+`data/` under the CC-BY [![CC-BY](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+[JSer.info]: http://jser.info/  "JSer.info"
