@@ -33,6 +33,11 @@ JSer.infoに関連するリポジトリについての案内です。
 - [jser/jser.github.io](https://github.com/jser/jser.github.io "jser/jser.github.io")
 	- [JSer.info][]の記事を修正したい場合
 
+記事上部の **Edit on GitHub** 又は 下部の **この記事へ修正リクエストをする** から該当記事の編集画面が開けます。
+
+![掲載済みの記事へのpull-request](http://take.ms/suw5I)
+
+
 ## 紹介して欲しい記事/サイト/ライブラリがある
 
 JSer.infoに載せて欲しい記事は[このリポジトリ]へPull Requestする。
