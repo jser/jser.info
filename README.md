@@ -47,7 +47,7 @@ JSer.infoに載せて欲しい記事は[このリポジトリ](https://github.co
 - [JSer.info Pull Request Form](http://jser.info/contributing/ "JSer.info Pull Request Form")
 	- 掲載したい記事がある場合はこちらのフォームからPull Request
 	- [jser/contributing-preview](https://github.com/jser/contributing-preview "jser/contributing-preview")
-	- どういう表示になるかのプレビュー補助ツール
+	- データの表示をプレビューする補助ツール
 
 関連: [JSer.infoに紹介してもらいたい記事のPull Requestが出来るようになりました - JSer.info](http://jser.info/post/75446735069/jser-info-pull-request/ "JSer.infoに紹介してもらいたい記事のPull Requestが出来るようになりました - JSer.info")
 
