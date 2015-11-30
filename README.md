@@ -8,7 +8,7 @@ JSer.infoサイト自体は[jser/jser.github.io](https://github.com/jser/jser.gi
 
 JSer.infoに関連するリポジトリについての案内です。
 
-## 新し情報を見たい
+## 新しい情報を見たい
 
 - [JSer.info](http://jser.info/)
 	- JSer.infoサイトそのもの
