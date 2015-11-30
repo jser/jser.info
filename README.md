@@ -41,8 +41,9 @@ JSer.infoに関連するリポジトリについての案内です。
 ## 紹介して欲しい記事/サイト/ライブラリがある
 
 JSer.infoに載せて欲しい記事は[このリポジトリ](https://github.com/jser/jser.info)へPull Requestする。
-手順についての詳細は[CONTRIBUTING.md](./CONTRIBUTING.md)を読む。
 
+- [CONTRIBUTING.md](./CONTRIBUTING.md)
+	- Pull Requestする方法などの手順がまとめられている
 - [JSer.info Pull Request Form](http://jser.info/contributing/ "JSer.info Pull Request Form")
 	- 掲載したい記事がある場合はこちらのフォームからPull Request
 	- [jser/contributing-preview](https://github.com/jser/contributing-preview "jser/contributing-preview")
