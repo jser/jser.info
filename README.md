@@ -23,7 +23,7 @@ JSer.infoに関連するリポジトリについての案内です。
 	- JSer.infoに関連する意見や要望などを管理するIssue
 - [![Gitter chat](https://badges.gitter.im/jser/jser.info.png)](https://gitter.im/jser/jser.info)
 	- Gitterを利用したチャット
-	- Issueを立てるまでもない指摘や感想、疑問、オススメ記事などとりあえず迷ったらチャットへ
+	- Issueを立てるまでもない指摘や感想、疑問、オススメ記事など迷ったらチャットへ
 
 ## データや記事を修正したい
 
