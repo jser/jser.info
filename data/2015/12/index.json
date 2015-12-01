@@ -1,0 +1,24 @@
+{
+    "list": [
+        {
+            "title": "Announcing TypeScript 1.7 - TypeScript - Site Home - MSDN Blogs",
+            "url": "http://blogs.msdn.com/b/typescript/archive/2015/11/30/announcing-typescript-1-7.aspx",
+            "content": "TypeScript 1.7リリース。\nasync/awaitの変換がデフォルト有効へ、Exponentiation operatorをサポート、`--target ES6`と`--module`が併用可能になるなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "date": "2015-12-01T01:04:28.643Z",
+            "relatedLinks": [
+                {
+                    "title": "Roadmap · Microsoft/TypeScript Wiki",
+                    "url": "https://github.com/Microsoft/TypeScript/wiki/Roadmap#17"
+                },
+                {
+                    "title": "What's new in TypeScript · Microsoft/TypeScript Wiki",
+                    "url": "https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript#typescript-17"
+                }
+            ]
+        }
+    ]
+}
