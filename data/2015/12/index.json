@@ -40,6 +40,18 @@
                     "url": "http://phiary.me/phinajs-release/"
                 }
             ]
+        },
+        {
+            "title": "OrKoN/jsperf",
+            "url": "https://github.com/OrKoN/jsperf",
+            "content": "jsperf.comのコードをNode.jsで実行できるツール",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "node.js"
+            ],
+            "date": "2015-12-01T06:13:59.646Z",
+            "relatedLinks": []
         }
     ]
 }
