@@ -64,6 +64,17 @@
             ],
             "date": "2015-12-01T11:38:31.630Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Chrome 47 WebRTC: media recording, secure origins & proxy handling | Web Updates - Google Developers",
+            "url": "https://developers.google.com/web/updates/2015/10/chrome-47-webrtc",
+            "content": "Chrome 47のWebRTC関連のアップデートについて。\nMediaStreamRecorderをフラグ付きで実装、`getUserMedia()`がHTTPSのみで利用になるなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "date": "2015-12-01T12:00:54.940Z",
+            "relatedLinks": []
         }
     ]
 }
