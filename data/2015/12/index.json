@@ -93,6 +93,17 @@
                     "url": "https://developer.chrome.com/devsummit"
                 }
             ]
+        },
+        {
+            "title": "WebTorrent - Streaming browser torrent client",
+            "url": "https://webtorrent.io/",
+            "content": "torrentのストリーミングをWebRTCで行うライブラリ",
+            "tags": [
+                "WebRTC",
+                "BitTorrent"
+            ],
+            "date": "2015-12-02T23:14:37.025Z",
+            "relatedLinks": []
         }
     ]
 }
