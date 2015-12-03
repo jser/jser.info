@@ -104,6 +104,27 @@
             ],
             "date": "2015-12-02T23:14:37.025Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release ES2016 Draft 2015-12-01 · tc39/ecma262",
+            "url": "https://github.com/tc39/ecma262/releases/tag/es2016-draft-20151201",
+            "content": "ES2016 Draft 2015-12-01リリース。\n`Promise.all/race`が`@@species`を参照しなくなった。\nPromiseのUnhandled Rejectionを検知するために必要な仕様がECMAScript側にも追加された",
+            "tags": [
+                "ECMAScript",
+                "spec",
+                "ReleaseNote"
+            ],
+            "date": "2015-12-03T09:12:13.425Z",
+            "relatedLinks": [
+                {
+                    "title": "domenic/unhandled-rejections-browser-spec",
+                    "url": "https://github.com/domenic/unhandled-rejections-browser-spec"
+                },
+                {
+                    "title": "Promise Error Handling",
+                    "url": "http://azu.github.io/slide/error-handling/promise-error-handling.html"
+                }
+            ]
         }
     ]
 }
