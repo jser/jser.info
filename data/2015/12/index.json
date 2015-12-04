@@ -193,6 +193,17 @@
             ],
             "date": "2015-12-04T03:29:31.872Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Chromium Blog: Chrome 48 Beta: Present to Cast, custom notification buttons, and network estimation",
+            "url": "http://blog.chromium.org/2015/12/chrome-48-beta-present-to-cast-devices_91.html",
+            "content": "Chrome 48 Betaリリース。\nPresentation API、WebRTCがVP9をサポート、`AudioNode#connect`をサポート、well-known symbolsとして`@@toPrimitive`のサポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "date": "2015-12-04T06:22:50.113Z",
+            "relatedLinks": []
         }
     ]
 }
