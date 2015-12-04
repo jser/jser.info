@@ -185,7 +185,7 @@
         {
             "title": "airbnb/reagent",
             "url": "https://github.com/airbnb/reagent",
-            "content": "React Componentをテストするための補助ライブラリ。\njsdomを使ったレンダリング再現した状態のテストも行える",
+            "content": "React Componentをテストするための補助ライブラリ。\njsdomを使いレンダリングを再現した状態のテストも行える",
             "tags": [
                 "JavaScript",
                 "React",
