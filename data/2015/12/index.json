@@ -250,6 +250,18 @@
             ],
             "date": "2015-12-05T12:54:12.965Z",
             "relatedLinks": []
+        },
+        {
+            "title": "eslint/typescript-eslint-parser",
+            "url": "https://github.com/eslint/typescript-eslint-parser",
+            "content": "TypeScript ASTをESTree ASTに変換するパーサ。\nESLintでTypeScriptのコードをLintする目的",
+            "tags": [
+                "TypeScript",
+                "JavaScript",
+                "AST"
+            ],
+            "date": "2015-12-05T15:26:16.463Z",
+            "relatedLinks": []
         }
     ]
 }
