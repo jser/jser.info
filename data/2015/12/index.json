@@ -340,6 +340,18 @@
             ],
             "date": "2015-12-06T08:16:51.924Z",
             "relatedLinks": []
+        },
+        {
+            "title": "mozilla/oghliner",
+            "url": "https://github.com/mozilla/oghliner",
+            "content": "GitHub Pagesをオフライン対応するためのテンプレートとデプロイツール。\nService Workerを使ってリソースをオフラインでも参照出来るようにしている。",
+            "tags": [
+                "ServiceWorker",
+                "Tools",
+                "github"
+            ],
+            "date": "2015-12-06T11:43:22.731Z",
+            "relatedLinks": []
         }
     ]
 }
