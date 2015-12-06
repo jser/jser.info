@@ -274,6 +274,19 @@
             ],
             "date": "2015-12-06T01:21:49.556Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Firefox Platform Status",
+            "url": "https://platatus.herokuapp.com/",
+            "content": "Firefoxの機能ごとの実装状況をまとめたステータスページ。\nデータはGitHubで管理されている",
+            "tags": [
+                "firefox",
+                "browser",
+                "WebPlatformAPI",
+                "まとめ"
+            ],
+            "date": "2015-12-06T01:53:23.595Z",
+            "relatedLinks": []
         }
     ]
 }
