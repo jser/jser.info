@@ -363,6 +363,18 @@
             ],
             "date": "2015-12-06T12:34:14.829Z",
             "relatedLinks": []
+        },
+        {
+            "title": "sebmck/lerna",
+            "url": "https://github.com/sebmck/lerna",
+            "content": "Babelのような一つのリポジトリに複数のパッケージがある(monorepo)を扱うためのツール。\nnpm installやnpm publishの補助をしてくれる",
+            "tags": [
+                "npm",
+                "JavaScript",
+                "Tools"
+            ],
+            "date": "2015-12-06T12:40:53.852Z",
+            "relatedLinks": []
         }
     ]
 }
