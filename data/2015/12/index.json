@@ -277,7 +277,7 @@
         },
         {
             "title": "Firefox Platform Status",
-            "url": "https://platatus.herokuapp.com/",
+            "url": "https://platform-status.mozilla.org/",
             "content": "Firefoxの機能ごとの実装状況をまとめたステータスページ。\nデータはGitHubで管理されている",
             "tags": [
                 "firefox",
