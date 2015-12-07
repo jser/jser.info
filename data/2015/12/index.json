@@ -404,7 +404,7 @@
         {
             "title": "notes/Do-not-underestimate-credentials-leaks.md at master · ChALkeR/notes",
             "url": "https://github.com/ChALkeR/notes/blob/master/Do-not-underestimate-credentials-leaks.md",
-            "content": "主にNode.js関連のプロジェクトでのトークンなど漏れが起きるパターンについて。\nもし漏らしていた場合に影響や変更方法について書かれている",
+            "content": "主にNode.js関連のプロジェクトでのトークンやパスワードなど漏れが起きるパターンについて。\nもし漏らしていた場合の影響や変更方法について書かれている",
             "tags": [
                 "node.js",
                 "セキュリティ"
