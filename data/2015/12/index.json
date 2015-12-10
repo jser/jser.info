@@ -433,6 +433,17 @@
             ],
             "date": "2015-12-10T04:44:01.688Z",
             "relatedLinks": []
+        },
+        {
+            "title": "webpack+babel-loader+power-assert+jsdomでフロントエンド開発環境を作る - yutaponのブログ",
+            "url": "http://yutapon.hatenablog.com/entry/webpack%2Bbabel-loader%2Bpower-assert%2Bjsdom-skeleton",
+            "content": "BabelによるビルドとMochaでのテスト校正についての記事。\nWebpackの設定、jsdomを使ったユニットテストについて",
+            "tags": [
+                "JavaScript",
+                "設定"
+            ],
+            "date": "2015-12-10T07:49:55.987Z",
+            "relatedLinks": []
         }
     ]
 }
