@@ -455,6 +455,27 @@
             ],
             "date": "2015-12-10T08:14:03.067Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release ES2016 Draft 2015-12-10 · tc39/ecma262",
+            "url": "https://github.com/tc39/ecma262/releases/tag/es2016-draft-20151210",
+            "content": "ES2016 Draft 2015-12-10リリース。\n`Array.prototype.includes`が追加された。\nES2016から採用された仕様策定プロセスに則った形のものとして、初めて追加された新しい機能となる。",
+            "tags": [
+                "ECMAScript",
+                "spec",
+                "ReleaseNote"
+            ],
+            "date": "2015-12-11T03:32:52.186Z",
+            "relatedLinks": [
+                {
+                    "title": "The TC39 Process",
+                    "url": "https://tc39.github.io/process-document/"
+                },
+                {
+                    "title": "ECMAScriptの仕様策定に関するカンニングペーパー | Web Scratch",
+                    "url": "http://efcl.info/2015/10/18/ecmascript-paper/"
+                }
+            ]
         }
     ]
 }
