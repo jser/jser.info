@@ -476,6 +476,22 @@
                     "url": "http://efcl.info/2015/10/18/ecmascript-paper/"
                 }
             ]
+        },
+        {
+            "title": "JavaScript Developer Survey Results",
+            "url": "https://ponyfoo.com/articles/javascript-developer-survey-results",
+            "content": "JavaScript開発者アンケート結果が公開された。毎年DialyJSがやっていたものと同様のもの。\nテストを書く人が半数を上回り、Reactが使われてるようになり、ES6を全く使ったことない人は20%以下となるなど",
+            "tags": [
+                "JavaScript",
+                "まとめ"
+            ],
+            "date": "2015-12-11T04:36:18.019Z",
+            "relatedLinks": [
+                {
+                    "title": "JavaScript Developer Survey 2014: Results",
+                    "url": "http://dailyjs.com/2014/12/16/1333-javascript-survey-results/"
+                }
+            ]
         }
     ]
 }
