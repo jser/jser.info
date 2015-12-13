@@ -555,6 +555,17 @@
             ],
             "date": "2015-12-13T11:28:43.220Z",
             "relatedLinks": []
+        },
+        {
+            "title": "peerigon/updtr",
+            "url": "https://github.com/peerigon/updtr",
+            "content": "`npm outdated` ベースで、それぞれのモジュールをupdateしてnpm testを行うことで、テストが通ったモジュールのみをアップデート出来るツール",
+            "tags": [
+                "npm",
+                "Tools"
+            ],
+            "date": "2015-12-13T11:54:47.705Z",
+            "relatedLinks": []
         }
     ]
 }
