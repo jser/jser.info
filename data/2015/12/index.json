@@ -616,6 +616,18 @@
                     "url": "http://www.webpagetest.org/"
                 }
             ]
+        },
+        {
+            "title": "Jam3/web-audio-player",
+            "url": "https://github.com/Jam3/web-audio-player",
+            "content": "後方互換性の問題やバージョン毎のバグが多いWeb Audio APIをラップしてクロスブラウザで再生をサポートするライブラリ",
+            "tags": [
+                "web",
+                "audio",
+                "library"
+            ],
+            "date": "2015-12-14T09:10:11.915Z",
+            "relatedLinks": []
         }
     ]
 }
