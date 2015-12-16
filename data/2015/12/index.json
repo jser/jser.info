@@ -661,7 +661,7 @@
         {
             "title": "Firefox 43.0 リリースノート",
             "url": "http://www.mozilla.jp/firefox/43.0/releasenotes/",
-            "content": "Firefox 43リリース。\nES2016の`Array.prototype.includes`がデフォルトで有効、Web StorageなどがサードパーティCookieの設定に従うように、Subresource integrityの対応など",
+            "content": "Firefox 43リリース。\nES2016の`Array.prototype.includes`がデフォルトで有効、Subresource integrityの対応など",
             "tags": [
                 "firefox",
                 "ReleaseNote"
@@ -681,7 +681,7 @@
         {
             "title": "More Responsive Tapping on iOS | WebKit",
             "url": "https://webkit.org/blog/5610/more-responsive-tapping-on-ios/",
-            "content": "iOSのWebKItでもタップが350ms遅延する問題が特定の条件ではなくなる。",
+            "content": "iOSのWebKItでもタップが350ms遅延する問題が解消される。\nviewportのwidthなど特定の条件では遅延なくなる。",
             "tags": [
                 "safari",
                 "webkit",
