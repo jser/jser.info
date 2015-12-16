@@ -677,6 +677,23 @@
                     "url": "https://www.fxsitecompat.com/ja/versions/43/"
                 }
             ]
+        },
+        {
+            "title": "More Responsive Tapping on iOS | WebKit",
+            "url": "https://webkit.org/blog/5610/more-responsive-tapping-on-ios/",
+            "content": "iOSのWebKItでもタップが350ms遅延する問題が特定の条件ではなくなる。",
+            "tags": [
+                "safari",
+                "webkit",
+                "ios"
+            ],
+            "date": "2015-12-16T15:43:28.539Z",
+            "relatedLinks": [
+                {
+                    "title": "300ms tap delay, gone away | Web Updates - Google Developers",
+                    "url": "https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away"
+                }
+            ]
         }
     ]
 }
