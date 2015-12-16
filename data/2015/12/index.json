@@ -657,6 +657,26 @@
             ],
             "date": "2015-12-16T02:08:04.040Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Firefox 43.0 リリースノート",
+            "url": "http://www.mozilla.jp/firefox/43.0/releasenotes/",
+            "content": "Firefox 43リリース。\nES2016の`Array.prototype.includes`がデフォルト有効、Web StorageなどがサードパーティCookieの設定に従うように、Subresource integrityの対応など",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "date": "2015-12-16T15:35:44.554Z",
+            "relatedLinks": [
+                {
+                    "title": "Firefox 43 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/ja/Firefox/Releases/43"
+                },
+                {
+                    "title": "Firefox 43 サイト互換性情報 | Firefox サイト互換性情報",
+                    "url": "https://www.fxsitecompat.com/ja/versions/43/"
+                }
+            ]
         }
     ]
 }
