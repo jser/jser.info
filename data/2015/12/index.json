@@ -661,7 +661,7 @@
         {
             "title": "Firefox 43.0 リリースノート",
             "url": "http://www.mozilla.jp/firefox/43.0/releasenotes/",
-            "content": "Firefox 43リリース。\nES2016の`Array.prototype.includes`がデフォルト有効、Web StorageなどがサードパーティCookieの設定に従うように、Subresource integrityの対応など",
+            "content": "Firefox 43リリース。\nES2016の`Array.prototype.includes`がデフォルトで有効、Web StorageなどがサードパーティCookieの設定に従うように、Subresource integrityの対応など",
             "tags": [
                 "firefox",
                 "ReleaseNote"
