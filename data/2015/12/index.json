@@ -628,6 +628,22 @@
             ],
             "date": "2015-12-14T09:10:11.915Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Angular 2 Beta",
+            "url": "http://angularjs.blogspot.jp/2015/12/angular-2-beta.html",
+            "content": "AngularJS 2βリリース。\nAngular 1からのアップグレードガイドも公開されている",
+            "tags": [
+                "AngularJS",
+                "ReleaseNote"
+            ],
+            "date": "2015-12-16T02:07:28.484Z",
+            "relatedLinks": [
+                {
+                    "title": "Upgrading from 1.x - ts",
+                    "url": "https://angular.io/docs/ts/latest/guide/upgrade.html"
+                }
+            ]
         }
     ]
 }
