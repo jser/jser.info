@@ -728,6 +728,17 @@
             ],
             "date": "2015-12-17T04:20:02.965Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Node v5.3.0 (Stable) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v5.3.0/",
+            "content": "Node v5.3.0リリース。\n`Buffer.prototype.includes()`の追加、REPLで外部モジュールを`require`できないバグを修正など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "date": "2015-12-17T15:29:32.104Z",
+            "relatedLinks": []
         }
     ]
 }
