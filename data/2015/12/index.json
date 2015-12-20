@@ -767,7 +767,7 @@
         {
             "title": "総行数57,000の巨大CSS群をLessに書き換えた軌跡 - mixi Engineers' Blog",
             "url": "http://alpha.mixi.co.jp/entry/2015/12/20/000000",
-            "content": "-webkit- prefixから標準への書き換えを行った話。\nCSS:fixmeで標準記法へ直し、Autoprefixerでプリフィックス対応し、Lessを使い構造的に管理しやすくしていく",
+            "content": "-webkit- prefixから標準への書き換えを行った話。\nCSS:fixmeで標準記法へ直し、Autoprefixerでプレフィックス対応し、Lessを使い構造的に管理しやすくしていく",
             "tags": [
                 "CSS",
                 "LESS",
