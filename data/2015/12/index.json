@@ -881,6 +881,17 @@
                     "url": "https://github.com/kuu/the-offline-cookbook-ja/blob/master/ja.md"
                 }
             ]
+        },
+        {
+            "title": "FluxのActionとStoreをちゃんと分ける話 - pixiv inside",
+            "url": "http://inside.pixiv.net/entry/2015/12/19/113746",
+            "content": "Actionでデータを構築し、StoreへDispatchする。\nまたDispatchするデータはEntityにすることで、役割を分けるという話",
+            "tags": [
+                "Flux",
+                "JavaScript"
+            ],
+            "date": "2015-12-22T11:57:28.627Z",
+            "relatedLinks": []
         }
     ]
 }
