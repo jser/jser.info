@@ -885,7 +885,7 @@
         {
             "title": "FluxのActionとStoreをちゃんと分ける話 - pixiv inside",
             "url": "http://inside.pixiv.net/entry/2015/12/19/113746",
-            "content": "Actionでデータを構築し、StoreへDispatchする。\nまたDispatchするデータはEntityにすることで、役割を分けるという話",
+            "content": "Actionでデータを構築し、StoreへDispatchする。\nまたDispatchするデータは`Entity`にすることで、役割を分けるという話",
             "tags": [
                 "Flux",
                 "JavaScript"
