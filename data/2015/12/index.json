@@ -862,6 +862,25 @@
             ],
             "date": "2015-12-22T11:25:35.676Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Beyond Offline ★ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2015/12/beyond-offline/",
+            "content": "ServiceWorkerをオフライン対応以外の用途で使う方法について。\nクックブック形式で色々なパターンを紹介している",
+            "tags": [
+                "ServiceWorker"
+            ],
+            "date": "2015-12-22T11:30:38.572Z",
+            "relatedLinks": [
+                {
+                    "title": "ServiceWorker Cookbook",
+                    "url": "https://serviceworke.rs/"
+                },
+                {
+                    "title": "the-offline-cookbook-ja/ja.md at master · kuu/the-offline-cookbook-ja",
+                    "url": "https://github.com/kuu/the-offline-cookbook-ja/blob/master/ja.md"
+                }
+            ]
         }
     ]
 }
