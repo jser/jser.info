@@ -804,6 +804,17 @@
             ],
             "date": "2015-12-22T02:15:42.115Z",
             "relatedLinks": []
+        },
+        {
+            "title": "An Intro To Using npm and ES6 Modules for Front End Development | Wes Bos",
+            "url": "http://wesbos.com/javascript-modules/",
+            "content": "ES6 modulesの使い方についてまとまっている。\nどのようにパスを解決したりするかはECMAScriptで定義されていないため、今のところbundlerの機能でしかないという点についても触れている。",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2015-12-22T02:53:21.031Z",
+            "relatedLinks": []
         }
     ]
 }
