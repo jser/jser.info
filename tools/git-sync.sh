@@ -1,4 +1,4 @@
-﻿#!/bin/sh
+﻿#!/bin/bash
 
 commitMessage=$1
 currentDir=$(cd $(dirname $0) && pwd)
