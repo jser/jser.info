@@ -892,6 +892,17 @@
             ],
             "date": "2015-12-22T11:57:28.627Z",
             "relatedLinks": []
+        },
+        {
+            "title": "Release 2.0.0 - 2015.12.24 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v2.0.0",
+            "content": "core-js 2.0.0リリース。\nTyped Arrayの実装追加、`System.global`、`Error.isError`、MathのProposal実装を追加。\nPromiseの仕様追従、`String#{padStart, padEnd}`へリネーム。\nNodeListなどをIterableとする再定義の追加するなど",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
