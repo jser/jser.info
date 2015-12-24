@@ -903,6 +903,15 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "title": "Example",
+            "url": "http://example.com/",
+            "content": "gulp 4.0で予定されている変更点について。\nタスク同士の依存関係の書き方の変更、`gulp.parallel`、`gulp.series`の追加や既存のAPIの改善など",
+            "tags": [
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
