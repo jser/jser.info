@@ -892,26 +892,6 @@
             ],
             "date": "2015-12-22T11:57:28.627Z",
             "relatedLinks": []
-        },
-        {
-            "title": "Release 2.0.0 - 2015.12.24 · zloirock/core-js",
-            "url": "https://github.com/zloirock/core-js/releases/tag/v2.0.0",
-            "content": "core-js 2.0.0リリース。\nTyped Arrayの実装追加、`System.global`、`Error.isError`、MathのProposal実装を追加。\nPromiseの仕様追従、`String#{padStart, padEnd}`へリネーム。\nNodeListなどをIterableとする再定義の追加するなど",
-            "tags": [
-                "JavaScript",
-                "library",
-                "ReleaseNote"
-            ],
-            "relatedLinks": []
-        },
-        {
-            "title": "Example",
-            "url": "http://example.com/",
-            "content": "gulp 4.0で予定されている変更点について。\nタスク同士の依存関係の書き方の変更、`gulp.parallel`、`gulp.series`の追加や既存のAPIの改善など",
-            "tags": [
-                "JavaScript"
-            ],
-            "relatedLinks": []
         }
     ]
 }
