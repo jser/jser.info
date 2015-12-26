@@ -904,6 +904,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "title": "ES6 Rest/Spread, Defaults and Destructuring",
+            "url": "http://www.datchley.name/es6-rest-spread-defaults-and-destructuring/",
+            "content": "spread oeprator、rest parameter、デフォルト引数について。\nデフォルト引数での評価、`Function#apply`ではなく`...`を使う方法、Destructuringの使い方についてなど",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "date": "2015-12-26T03:25:22.714Z",
+            "relatedLinks": [
+                {
+                    "title": "sebmarkbage/ecmascript-rest-spread",
+                    "url": "https://github.com/sebmarkbage/ecmascript-rest-spread"
+                }
+            ]
         }
     ]
 }
