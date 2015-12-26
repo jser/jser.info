@@ -933,6 +933,17 @@
                 "AngularJS"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2015-12-26T04:55:32.060Z",
+            "title": "\"Real\" Mixins with JavaScript Classes",
+            "url": "http://justinfagnani.com/2015/12/21/real-mixins-with-javascript-classes/",
+            "content": "ES6 Classesで多重継承やmixinは構文として用意されていないので、`class`を式として扱うことで解決する実装について。\n`class MyClass extends mix(MySuperClass).with(A, B) {}`",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
