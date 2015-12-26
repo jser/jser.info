@@ -920,6 +920,19 @@
                     "url": "https://github.com/sebmarkbage/ecmascript-rest-spread"
                 }
             ]
+        },
+        {
+            "date": "2015-12-26T03:44:49.965Z",
+            "title": "Mercateo/component-check",
+            "url": "https://github.com/Mercateo/component-check",
+            "content": "コンポーネント指向のフレームワークを使い、コンポーネントを表示するまでの手順をそれぞれ比較した記事。\nAngularJS1/2、Ember、Cycle.js、Reactにおいて4種類のコンポーネントを実装し比較している。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "React",
+                "AngularJS"
+            ],
+            "relatedLinks": []
         }
     ]
 }
