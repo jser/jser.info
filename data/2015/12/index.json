@@ -944,6 +944,18 @@
                 "ECMAScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "title": "vega/datalib",
+            "url": "https://github.com/vega/datalib",
+            "content": "JSON、CSV、CSV等からデータを読み込み、  データを加工できるライブラリ",
+            "tags": [
+                "JavaScript",
+                "library",
+                "統計"
+            ],
+            "date": "2015-12-27T03:24:07.560Z",
+            "relatedLinks": []
         }
     ]
 }
