@@ -1040,6 +1040,17 @@
                 "Tips"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2015-12-30T11:55:58.608Z",
+            "title": "Should I use React.createClass, ES6 Classes or stateless functional components? - James K Nelson",
+            "url": "http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components/",
+            "content": "React Componentを書く方法として`React.createClass`、ES6 Classes、Stateless Componentがある。\nそれらの使い分けについて書かれている。",
+            "tags": [
+                "React",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
