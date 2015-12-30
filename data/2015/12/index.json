@@ -1001,6 +1001,22 @@
             ],
             "date": "2015-12-30T05:07:11.383Z",
             "relatedLinks": []
+        },
+        {
+            "date": "2015-12-30T09:12:37.518Z",
+            "title": "Dissection of Flux architecture or how to write your own",
+            "url": "http://krasimirtsonev.com/blog/article/dissection-of-flux-architecture-or-how-to-write-your-own-react",
+            "content": "fluxinyという高階関数をベースとした小さなFlux実装を見ていきながらFluxについて学ぶ。",
+            "tags": [
+                "Flux",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "krasimir/fluxiny",
+                    "URL": "https://github.com/krasimir/fluxiny"
+                }
+            ]
         }
     ]
 }
