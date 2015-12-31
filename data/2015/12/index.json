@@ -1095,6 +1095,18 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2015-12-31T11:06:10.886Z",
+            "title": "Setting up ES6 by Axel Rauschmayer [Leanpub PDF/iPad/Kindle]",
+            "url": "https://leanpub.com/setting-up-es6",
+            "content": "Dr.AxelのBabelを使ったES6の導入についての電子書籍。\nloaderの仕組みがtranspilerやCommonJSに依存している中で、モジュール周りの挙動の誤解を解く内容が書かれてる",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "ebook"
+            ],
+            "relatedLinks": []
         }
     ]
 }
