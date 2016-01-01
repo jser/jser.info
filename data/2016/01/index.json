@@ -97,6 +97,17 @@
                     "url": "https://github.com/tayiorbeii/egghead.io_redux_course_notes"
                 }
             ]
+        },
+        {
+            "date": "2016-01-01T15:43:05.618Z",
+            "title": "Lucifier129/react-lite",
+            "url": "https://github.com/Lucifier129/react-lite",
+            "content": "ReactのCore APIに関しての互換実装ライブラリ。\nサーバサイドレンダリング、`React.PropTypes`、addonsなどを取り除いて、より小さなファイルサイズとすることを目的としている。",
+            "tags": [
+                "React",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
