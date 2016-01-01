@@ -245,6 +245,7 @@
           "url": "https://www.ampproject.org/how-it-works/"
         },
         {
+<<<<<<< Updated upstream
           "title": "AMP HTML (Accelerated Mobile Pages) demo - YouTube",
           "url": "https://www.youtube.com/watch?v=i2_lAEzmOPo"
         }
@@ -901,6 +902,29 @@
         {
           "title": "babel/CHANGELOG.md at master · babel/babel",
           "url": "https://github.com/babel/babel/blob/master/CHANGELOG.md#600"
+=======
+            "title": "ESLint v1.7.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2015/10/eslint-v1.7.0-released/",
+            "content": "ESLint v1.7.0リリース。\neslintrcの`extends`にJavaScriptのファイルパスそのもを書いて設定を継承出来るようになった",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "date": "2015-10-17T04:35:40.325Z",
+            "relatedLinks": []
+        },
+        {
+            "title": "TypeScript 1.6時代の.d.ts管理について意見を述べておく - Qiita",
+            "url": "http://qiita.com/vvakame/items/72d22e33632178f7db24",
+            "content": "npmパッケージとTypeScriptのd.tsの管理について。",
+            "tags": [
+                "TypeScript",
+                "まとめ"
+            ],
+            "date": "2015-10-19T09:32:52.066Z",
+            "relatedLinks": []
+>>>>>>> Stashed changes
         }
       ]
     },
