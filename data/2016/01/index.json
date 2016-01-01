@@ -80,6 +80,23 @@
                 "チートシート"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-01T05:56:12.241Z",
+            "title": "Getting Started with Redux - Course by @dan_abramov @eggheadio",
+            "url": "https://egghead.io/series/getting-started-with-redux",
+            "content": "Redux作者によるRedux入門のスクリーンキャスト",
+            "tags": [
+                "redux",
+                "JavaScript",
+                "React"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "tayiorbeii/egghead.io_redux_course_notes",
+                    "url": "https://github.com/tayiorbeii/egghead.io_redux_course_notes"
+                }
+            ]
         }
     ]
 }
