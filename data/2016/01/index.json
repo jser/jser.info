@@ -162,6 +162,26 @@
                     "url": "http://alpha.mixi.co.jp/entry/2015/12/20/000000"
                 }
             ]
+        },
+        {
+            "date": "2016-01-04T12:21:56.507Z",
+            "title": "Well, I'm Back: innerText: Cleaning A Dark Corner Of the Web",
+            "url": "http://robert.ocallahan.org/2016/01/innertext.html",
+            "content": "IEやWebKitにも存在する`innterText`は仕様と相互互換性がなかった。\nWebKitを前提するモバイルサイトで多く使われているため、Firefoxでも実装することとなった。\n同時に仕様とテストケースを書いたという話",
+            "tags": [
+                "firefox",
+                "DOM"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The poor, misunderstood innerText — Perfection Kills",
+                    "url": "http://perfectionkills.com/the-poor-misunderstood-innerText/"
+                },
+                {
+                    "title": "Webkit! RESOLVED FIXED - otsukare",
+                    "url": "http://www.otsukare.info/2016/01/04/webkit-resolved-fixed"
+                }
+            ]
         }
     ]
 }
