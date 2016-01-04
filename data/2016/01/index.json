@@ -142,6 +142,26 @@
                 "npm"
             ],
             "relatedLinks": []
+        },
+        {
+            "title": "Webkit! RESOLVED FIXED - otsukare",
+            "url": "http://www.otsukare.info/2016/01/04/webkit-resolved-fixed",
+            "content": "FirefoxがCSSのwebkit prefixを解釈するオプションがデフォルト有効となった。\n-webkit- prefixしか書かれてないサイトも表示できるようにするのが目的",
+            "tags": [
+                "firefox",
+                "webkit"
+            ],
+            "date": "2016-01-04T11:29:07.627Z",
+            "relatedLinks": [
+                {
+                    "title": "1213126 – Enable layout.css.prefixes.webkit by default",
+                    "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1213126"
+                },
+                {
+                    "title": "総行数57,000の巨大CSS群をLessに書き換えた軌跡 - mixi Engineers' Blog",
+                    "url": "http://alpha.mixi.co.jp/entry/2015/12/20/000000"
+                }
+            ]
         }
     ]
 }
