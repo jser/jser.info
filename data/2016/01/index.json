@@ -146,7 +146,7 @@
         {
             "title": "Webkit! RESOLVED FIXED - otsukare",
             "url": "http://www.otsukare.info/2016/01/04/webkit-resolved-fixed",
-            "content": "FirefoxがCSSのwebkit prefixを解釈するオプションがデフォルト有効となった。\n-webkit- prefixしか書かれてないサイトも表示できるようにするのが目的",
+            "content": "FirefoxでCSSの`-webkit-` prefixを解釈するオプションがデフォルトで有効となった。\n-webkit- prefixしか書かれてないサイトも表示できるようにするのが目的",
             "tags": [
                 "firefox",
                 "webkit"
