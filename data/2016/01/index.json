@@ -167,7 +167,7 @@
             "date": "2016-01-04T12:21:56.507Z",
             "title": "Well, I'm Back: innerText: Cleaning A Dark Corner Of the Web",
             "url": "http://robert.ocallahan.org/2016/01/innertext.html",
-            "content": "IEやWebKitにも存在する`innterText`は仕様と相互互換性がなかった。\nWebKitを前提するモバイルサイトで多く使われているため、Firefoxでも実装することとなった。\n同時に仕様とテストケースを書いたという話",
+            "content": "IEやWebKitにも存在する`innerText`は仕様と相互互換性がなかった。\nWebKitを前提とするモバイルサイトで多く使われているため、Firefoxでも実装することとなった。\n同時に仕様とテストケースを書いたという話",
             "tags": [
                 "firefox",
                 "DOM"
