@@ -204,6 +204,22 @@
             ],
             "date": "2016-01-05T04:45:39.685Z",
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-05T06:49:29.452Z",
+            "title": "JavaScript - AudioWorker を試してみる - Qiita",
+            "url": "http://qiita.com/mohayonao/items/ce357230946cfa2303c2",
+            "content": "Web Audio APIのAudioWorkerについて。",
+            "tags": [
+                "audo",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "mohayonao/audio-worker-shim",
+                    "url": "https://github.com/mohayonao/audio-worker-shim"
+                }
+            ]
         }
     ]
 }
