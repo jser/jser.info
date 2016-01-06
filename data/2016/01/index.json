@@ -243,6 +243,22 @@
             ],
             "date": "2016-01-06T06:31:21.688Z",
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-06T06:59:35.092Z",
+            "title": "unit-coverage/unit-coverage",
+            "url": "https://github.com/unit-coverage/unit-coverage",
+            "content": "コードカバレッジツール。\nコード同士の関係もカバレッジのレポートに含める事が出来る。\nJSCSなどで利用されている",
+            "tags": [
+                "JavaScript",
+                "testing"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Coverage report",
+                    "url": "http://jscs.info/jscs/coverage.html"
+                }
+            ]
         }
     ]
 }
