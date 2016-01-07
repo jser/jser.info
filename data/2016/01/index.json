@@ -318,6 +318,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-07T07:45:47.693Z",
+            "title": "exploring-async/exploring_async.md at master · thalesmello/exploring-async",
+            "url": "https://github.com/thalesmello/exploring-async/blob/master/exploring_async.md",
+            "content": "JavaScriptの非同期処理について要素ごとに書かれてる。\nコールバック、Promise、Generator、Async/Await、Rx、CSP",
+            "tags": [
+                "JavaScript",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
