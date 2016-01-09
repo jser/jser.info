@@ -385,6 +385,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-09T11:06:36.197Z",
+            "title": "Simple Guide to Finding a JavaScript Memory Leak in Node.js",
+            "url": "http://www.alexkras.com/simple-guide-to-finding-a-javascript-memory-leak-in-node-js/",
+            "content": "Node.jsのアプリでメモリリークが起きた場合にどこで起きてるのかを見つける方法について",
+            "tags": [
+                "node.js",
+                "debug"
+            ],
+            "relatedLinks": []
         }
     ]
 }
