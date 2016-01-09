@@ -362,6 +362,17 @@
             ],
             "date": "2016-01-07T23:29:08.482Z",
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-09T01:44:04.749Z",
+            "title": "jQuery 2.2 and 1.12 Released | Official jQuery Blog",
+            "url": "http://blog.jquery.com/2016/01/08/jquery-2-2-and-1-12-released/",
+            "content": "jQuery 2.2と1.12リリース。\nSVGのclass属性を操作可能に、`jQuery.post`/`jQuery.get`の追加、`jQuery.htmlPrefilter`の追加、`Symbol.iterator`を実装しjQueryオブジェクトがiterableとなるなど",
+            "tags": [
+                "jQuery",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
