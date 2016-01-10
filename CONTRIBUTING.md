@@ -6,23 +6,38 @@
 
 [JSer.info](http://jser.info/ "JSer.info") で紹介して欲しい記事やサイト等をPull Requestしたい場合は、
 [JSer.info Pull Request Form](http://jser.info/contributing/ "JSer.info Pull Request Form") を利用すると、
-追加するJSONフォーマットを自動的に生成できます。 (その月の `data/year/month/index.json` に対してJSONを追記していきます。)
-
+追加するJSONフォーマットを自動的に生成できます。 (その月の `data/<year>/<month>/index.json` に対してJSONを追記していきます。)
 
 Pull Requestを取り込むか(掲載するか)は個人的な判断にて決定するため、マージする保証はありませんが、
 自己推薦や宣伝記事であっても興味深い内容だと判断されればマージされます。
 
 ちゃんとした基準はありませんが、最低限意識する事として以下の通りです。
 
-* 嘘や誇張など誤解されやすい内容は避ける
-* 意味のある内容がある(長さは関係ない)
-* できるだけ客観的な説明文にする
+* 嘘や誇張など誤解されやすい表現は避ける
+* 意味のある内容にする(長さは関係ない)
+* 客観的な説明文にする
 
 説明文はPull Request後も変更できるのでとりあえずPull Requestを送ってみるといいです。
 
 * [JSer.infoについて | JSer.info](http://jser.info/about "JSer.infoについて | JSer.info")
-* [掲載のポリシー - JSer.info 1年を迎えて](http://azu.github.io/slide/offline_study/jser_info.html#slide6 "掲載のポリシー")
 * [jser/contributing](https://github.com/jser/contributing "jser/contributing")
+
+## 掲載のポリシー
+
+JSer.infoでは以下のポリシーをもって掲載しています。
+
+- 嘘、誇張、不正確は避ける
+    - それの表現を含める必要があるならそもそも紹介しない
+- 主張だけを見て判断しないで中身を見て確認する
+
+また、次の[CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)を採用しています。
+
+簡単にまとめると
+
+- コントリビューターには経緯を払います
+- プロジェクトに参加するすべての人に対してハラスメントないように取り組みます
+- 差別的、攻撃的表現などを使いません
+- [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)に従っていない行動に対しては削除、編集、拒否の権利と責任があります
 
 ### 紹介記事の書き方
 
@@ -61,7 +76,7 @@ __説明__ はどう書けばいいか悩むかもしれませんが、とりあ
 例えば、 _軽いライブラリ_ という表現だと コード量的に軽いのか、速度が早いという意味なのかわからないので、
 コード量的な意味なら _ファイルサイズが小さなライブラリ_ とする方がいいでしょう。
 
-説明は主張や宣伝文ではなく、紹介文です。
+説明は主張や宣伝文ではなく、客観的な紹介文です。
 
 ## スペルチェック
 
