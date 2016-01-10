@@ -20,15 +20,15 @@ Pull Requestを取り込むか(掲載するか)は個人的な判断にて決定
 説明文はPull Request後も変更できるのでとりあえずPull Requestを送ってみるといいです。
 
 * [JSer.infoについて | JSer.info](http://jser.info/about "JSer.infoについて | JSer.info")
+* [Support - JSer.info](http://jser.info/support/ "Support - JSer.info")
 * [jser/contributing](https://github.com/jser/contributing "jser/contributing")
 
 ## 掲載のポリシー
 
 JSer.infoでは以下のポリシーをもって掲載しています。
 
-- 嘘、誇張、不正確は避ける
-    - それの表現を含める必要があるならそもそも紹介しない
-- 主張だけを見て判断しないで中身を見て確認する
+- 嘘、誇張、不正確な内容は避ける
+- 主張だけ判断しないで中身を見て確認する
 
 また、次の[CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)を採用しています。
 
