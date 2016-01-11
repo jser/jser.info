@@ -99,7 +99,7 @@ npm install
 npm test
 ```
 
-でLintを書けることが出来ます。
+Lintを実行することができます。
 
 ## その他の修正や改善
 
@@ -107,4 +107,6 @@ npm test
 
 ## ライセンス
 
-Pull Requestされた内容は MITライセンス が適応されます。
+- Pull Requestされたコードに対しては MITライセンス が適応されます。
+- Pull Requestされた記事の紹介文に対しては CC-BYライセンス が適応されます。
+
