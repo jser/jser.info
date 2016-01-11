@@ -420,6 +420,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-11T14:43:31.952Z",
+            "title": "RxJSで副作用を扱うにはどうするか - Schedulerを交えて - snyk_s log",
+            "url": "http://saneyukis.hatenablog.com/entry/2016/01/04/055932",
+            "content": "RxJSでの副作用を扱うときに考えるべきこと。\n意図せず複数回呼ばれないようにHot Observableへ変換する、race conditionを避ける、副作用があった事を後続に通知することについて。",
+            "tags": [
+                "JavaScript",
+                "Rx"
+            ],
+            "relatedLinks": []
         }
     ]
 }
