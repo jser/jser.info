@@ -454,6 +454,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-12T14:29:13.310Z",
+            "title": "Node v5.4.0 (Stable) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v5.4.0/",
+            "content": "Node v5.4.0リリース。\nHTTP StatusCodeに`451`を追加、`process.env`や`process.hrtime()`のパフォーマンス改善など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "mnot’s blog: Why 451?",
+                    "url": "https://www.mnot.net/blog/2015/12/18/451"
+                }
+            ]
         }
     ]
 }
