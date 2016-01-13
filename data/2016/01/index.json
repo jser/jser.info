@@ -481,6 +481,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-13T10:58:32.919Z",
+            "title": "Release v1.0.0 · testem/testem",
+            "url": "https://github.com/testem/testem/releases/tag/v1.0.0",
+            "content": "Test Runnerであるtestem 1.0.0リリース。\nMochaなどそれぞれのテストライブラリのファイルはバンドルしないでCDNのものを利用するようになるなど",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
