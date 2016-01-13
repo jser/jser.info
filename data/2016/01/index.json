@@ -493,6 +493,27 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-13T11:06:25.485Z",
+            "title": "Release 4.0.0 · lodash/lodash",
+            "url": "https://github.com/lodash/lodash/releases/tag/4.0.0",
+            "content": "lodash 4.0.0リリース。\nIE8以下のサポート終了、underdashのCore APIを実装したバージョンの提供、ES6との互換性向上、絵文字などのサロゲートペアを扱えるようになるなど",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Changelog · lodash/lodash Wiki",
+                    "url": "https://github.com/lodash/lodash/wiki/Changelog#compatibility-warnings"
+                },
+                {
+                    "title": "underdash/underdash",
+                    "url": "https://github.com/underdash/underdash"
+                }
+            ]
         }
     ]
 }
