@@ -555,6 +555,22 @@
                 "mail"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-14T09:25:39.025Z",
+            "title": "ChakraCore GitHub repository is now open | Microsoft Edge Dev Blog",
+            "url": "https://blogs.windows.com/msedgedev/2016/01/13/chakracore-now-open/",
+            "content": "MSEdgeのJavaScriptエンジンであるChakraのCore部分がオープンソースとして公開された。",
+            "tags": [
+                "MS",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Microsoft/ChakraCore",
+                    "url": "https://github.com/Microsoft/Chakracore"
+                }
+            ]
         }
     ]
 }
