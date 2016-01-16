@@ -605,6 +605,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-16T01:25:53.189Z",
+            "title": "MooTools Blog: 1.6.0 is out!",
+            "url": "http://mootools.net/blog/2016/01/14/mootools-1-6-0-release",
+            "content": "MooTools 1.6.0リリース。\nPromises/A+互換の`Class.Thenable`を追加。\n次回のメジャーアップデートではIE11+のみのサポートとなる。\nまた`Array.from`はES6と名前が被っているためリネームされる",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
