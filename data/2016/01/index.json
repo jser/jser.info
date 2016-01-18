@@ -650,6 +650,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-18T00:23:30.775Z",
+            "title": "ariporad/pirates",
+            "url": "https://github.com/ariporad/pirates",
+            "content": "`require.extensions`のhookを扱うライブラリ。\n一つの拡張子に複数のhookを行う部分を管理する。",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "babel"
+            ],
+            "relatedLinks": []
         }
     ]
 }
