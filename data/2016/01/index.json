@@ -689,7 +689,6 @@
             "relatedLinks": []
         },
         {
-<<<<<<< Updated upstream
             "date": "2016-01-19T06:25:06.524Z",
             "title": "Enumify: better enums for JavaScript",
             "url": "http://www.2ality.com/2016/01/enumify.html",
@@ -714,7 +713,9 @@
             "tags": [
                 "React",
                 "CSS"
-=======
+            ]
+        },
+        {
             "date": "2016-01-19T13:08:17.858Z",
             "title": "cheeaun/javascript-error-logging",
             "url": "https://github.com/cheeaun/javascript-error-logging",
@@ -723,9 +724,19 @@
                 "JavaScript",
                 "webservice",
                 "debug"
->>>>>>> Stashed changes
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2016-01-19T13:12:42.601Z",
+            "title": "Progressive Web Apps | Web Fundamentals - Google Developers",
+            "url": "https://developers.google.com/web/progressive-web-apps",
+            "content": "Progressive Web AppについてのGoogleのまとめページ。\nProgressive Web Appとは何かについて書かれている。",
+            "tags": [
+                "web"
             ],
             "relatedLinks": []
         }
+
     ]
 }
