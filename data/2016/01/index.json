@@ -687,6 +687,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-19T06:25:06.524Z",
+            "title": "Enumify: better enums for JavaScript",
+            "url": "http://www.2ality.com/2016/01/enumify.html",
+            "content": "classを使ったEnumのライブラリ",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "rauschma/enumify",
+                    "url": "https://github.com/rauschma/enumify"
+                }
+            ]
         }
     ]
 }
