@@ -736,7 +736,20 @@
                 "web"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-19T15:21:59.019Z",
+            "title": "axios/CHANGELOG.md at v0.9.0 · mzabriskie/axios",
+            "url": "https://github.com/mzabriskie/axios/blob/v0.9.0/CHANGELOG.md",
+            "content": "axios 0.9.0リリース。\nXDomainRequestの対応改善、`adapter`プロパティの追加など",
+            "tags": [
+                "JavaScript",
+                "Promises",
+                "XHR",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
-
     ]
 }
