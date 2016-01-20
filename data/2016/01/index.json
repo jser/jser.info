@@ -817,6 +817,20 @@
                     "url": "http://esnextnews.com/"
                 }
             ]
+        },
+        {
+            "date": "2016-01-20T22:43:55.676Z",
+            "title": "Jam3/devtool: runs Node.js programs through Chromium DevTools",
+            "url": "https://github.com/Jam3/devtool",
+            "content": "Electron上でNode.jsを実行し開発者ツールでデバッグ出来るツール。\nコマンドラインでNode.jsのファイルを指定するだけで実行できる。",
+            "tags": [
+                "node.js",
+                "debug",
+                "Electron",
+                "console",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
