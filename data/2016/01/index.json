@@ -842,6 +842,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-21T07:26:22.648Z",
+            "title": "Node v5.5.0 (Stable) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v5.5.0/",
+            "content": "Node v5.5.0リリース。\nREPLでも`--require`が動作するように、`fs.createWriteStream`で`autoClose`オプションをサポートするなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
