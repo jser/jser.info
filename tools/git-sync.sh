@@ -7,6 +7,16 @@ parentDir=$(cd $(dirname $(cd $(dirname $0);pwd));pwd)
 cd "${parentDir}"
 
 
+if [ -z "`git config user.name`" ]; then
+    echo "fatal: user.name is not set"
+    exit 1
+fi
+if [ -z "`git config user.email`" ]; then
+    echo "fatal: user.email is not set"
+    exit 1
+fi
+
+
 isClean=$(git status --porcelain)
 if [ -z "${isClean}" ]; then
   # Working directory clean
