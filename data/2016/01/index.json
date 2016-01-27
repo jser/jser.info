@@ -23,6 +23,22 @@
                     "url": "https://www.fxsitecompat.com/ja/docs/2015/variables-defined-with-const-and-let-are-no-longer-properties-on-window-redeclaration-with-let-will-throw/"
                 }
             ]
+        },
+        {
+            "date": "2016-01-27T03:49:23.001Z",
+            "title": "V8 JavaScript Engine: V8 Release 4.9",
+            "url": "http://v8project.blogspot.com/2016/01/v8-release-49.html",
+            "content": "V8 4.9リリース。\nDestructuring、Proxy、Reflect、デフォルトパラメータなどES6の仕様追従。\n`Math.random()`のアルゴリズム改善など",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "メジャーブラウザのMath.random()のアルゴリズムがXorShift128+になった - JSer.info",
+                    "url": "http://jser.info/2016/01/27/math.random-xsfhit/"
+                }
+            ]
         }
     ]
 }
