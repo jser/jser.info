@@ -39,6 +39,18 @@
                     "url": "http://jser.info/2016/01/27/math.random-xsfhit/"
                 }
             ]
+        },
+        {
+            "date": "2016-01-28T05:43:13.131Z",
+            "title": "jsdom/Changelog.md at master · tmpvar/jsdom",
+            "url": "https://github.com/tmpvar/jsdom/blob/master/Changelog.md",
+            "content": "jsdom 8.0.0リリース。\nIDLからコードを生成することで仕様との互換性の向上、`Element#insertAdjacentHTML`と`Node#adoptNode`の実装など",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
