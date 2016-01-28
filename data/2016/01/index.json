@@ -51,6 +51,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-28T07:34:10.519Z",
+            "title": "Deprecate TSD · Issue #269 · DefinitelyTyped/tsd",
+            "url": "https://github.com/DefinitelyTyped/tsd/issues/269",
+            "content": "TypeScriptの型定義ファイルをサポートするツールであるtsdが非推奨となった。\n代わりにtypingsを利用することが推奨されている。",
+            "tags": [
+                "TypeScript",
+                "issue"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "typings/typings - TypeScript",
+                    "url": "https://github.com/typings/typings"
+                },
+                {
+                    "title": "vvakame/dtsm - TypeScript",
+                    "url": "https://github.com/vvakame/dtsm"
+                }
+            ]
         }
     ]
 }
