@@ -121,6 +121,19 @@
                     "url": "https://github.com/developit/preact-compat"
                 }
             ]
+        },
+        {
+            "date": "2016-01-29T08:34:37.104Z",
+            "title": "sindresorhus/got: Simplified HTTP/HTTPS requests",
+            "url": "https://github.com/sindresorhus/got",
+            "content": "Node.js向けのHTTPクライアントライブラリ。`request`と同じ立ち位置のライブラリ",
+            "tags": [
+                "node.js",
+                "HTTP",
+                "library",
+                "Promises"
+            ],
+            "relatedLinks": []
         }
     ]
 }
