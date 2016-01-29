@@ -99,6 +99,28 @@
                     "url": "https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript#typescript-18-upcoming"
                 }
             ]
+        },
+        {
+            "date": "2016-01-29T08:00:03.523Z",
+            "title": "developit/preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.",
+            "url": "https://github.com/developit/preact",
+            "content": "Reactのコアを再実装することを目的としたライブラリ。\nContextやPropTypesなどを削除している。\npreact-compatというReactの互換レイヤーを別モジュールとして持っている。",
+            "tags": [
+                "JavaScript",
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Differences to React · developit/preact Wiki",
+                    "url": "https://github.com/developit/preact/wiki/Differences-to-React"
+                },
+                {
+                    "title": "developit/preact-compat - JavaScript",
+                    "url": "https://github.com/developit/preact-compat"
+                }
+            ]
         }
     ]
 }
