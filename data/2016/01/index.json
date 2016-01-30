@@ -147,6 +147,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-30T06:53:04.819Z",
+            "title": "zeithq/micro: Micro — Async HTTP microservices",
+            "url": "https://github.com/zeithq/micro",
+            "content": "小さなHTTPサーバライブラリ。\nリクエストを受け取りレスポンスを返すというシンプルなもの。\nasync/awaitをデフォルトで使えるようになっている。",
+            "tags": [
+                "HTTP",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
