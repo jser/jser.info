@@ -192,6 +192,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-01-31T14:03:45.497Z",
+            "title": "Release v3.1.0 · rackt/redux",
+            "url": "https://github.com/rackt/redux/releases/tag/v3.1.0",
+            "content": "Redux 3.1.0リリース。\n`createStore()`が`applyMiddleware()`をオプションとして受け入れられるようになった。",
+            "tags": [
+                "redux",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
