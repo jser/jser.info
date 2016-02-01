@@ -16,6 +16,23 @@
                     "url": "https://github.com/decaffeinate/decaffeinate"
                 }
             ]
+        },
+        {
+            "date": "2016-02-01T00:36:00.305Z",
+            "title": "sinsoku/clairvoyance",
+            "url": "https://github.com/sinsoku/clairvoyance",
+            "content": "CSSのカバレッジ計測ツール。\nCSSファイルに書かれたスタイルがHTMLの中でどのくらい使われてるかを計測できるツール",
+            "tags": [
+                "CSS",
+                "testing",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "CSS のカバレッジを計測する Clairvoyance というツールを作りました - アジャイルSEの憂鬱",
+                    "url": "http://sinsoku.hatenablog.com/entry/2016/01/31/174155"
+                }
+            ]
         }
     ]
 }
