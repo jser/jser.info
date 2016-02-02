@@ -68,6 +68,16 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-02T10:55:30.143Z",
+            "title": "What's new in webpack 2",
+            "url": "https://gist.github.com/sokra/27b24881210b56bbaff7",
+            "content": "webpack 2での変更点について。\nES6 modulesをベースとした最適化、`System.import`を使った動的ロード向けのモジュール分離に対応するなど",
+            "tags": [
+                "webpack"
+            ],
+            "relatedLinks": []
         }
     ]
 }
