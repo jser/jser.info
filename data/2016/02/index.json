@@ -89,6 +89,18 @@
                 "proposal"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-03T08:03:59.972Z",
+            "title": "Dev.Opera — Opera 35 released",
+            "url": "https://dev.opera.com/blog/opera-35/",
+            "content": "Opera 35(based on Chromium 48)リリース。\n`document.fonts`がSetらいくなオブジェクトとなり`entries()`などが利用できるように、`TouchEvent`イベントコンストラクタの追加など",
+            "tags": [
+                "Opera",
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
