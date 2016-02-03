@@ -101,6 +101,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-03T08:18:14.739Z",
+            "title": "Chromium Blog: Chrome 49 Beta: CSS custom properties, background sync with service workers, and new ES2015 features",
+            "url": "http://blog.chromium.org/2016/02/chrome-49-beta-css-custom-properties.html",
+            "content": "Chrome 49 Betaリリース。\nCSS custom propetires(CSS Variable)、ES6の対応改善、` Object.observe()`が非推奨となるなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
