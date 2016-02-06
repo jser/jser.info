@@ -216,7 +216,7 @@
             "date": "2016-02-06T14:31:30.042Z",
             "title": "ES6 const is not about immutability · Mathias Bynens",
             "url": "https://mathiasbynens.be/notes/es6-const",
-            "content": "`const`は値を不変にするのではなく、値へのバインディングを不変するという意味。\nそのためオブジェクトのプロパティへの代入は可能のままだが、オブジェクトの不変については`Object.freeze()`が扱う。また`let`と`const`の使い分けについて",
+            "content": "`const`は値を不変(immutable)にするのではなく、値へのバインディングを不変にするという意味。\nそのためオブジェクトのプロパティへの代入は可能のままだが、オブジェクトの不変については`Object.freeze()`が扱う。また`let`と`const`の使い分けについて",
             "tags": [
                 "ECMAScript",
                 "JavaScript"
