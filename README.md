@@ -16,6 +16,9 @@ JSer.infoに関連するリポジトリについての案内です。
 - [Realtime JSer.info](http://realtime.jser.info/)
 	- JSer.infoのリアルタイム版
 	- 元データが追加された時点で更新
+- [ECMAScript Daily](http://ecmascript-daily.github.io/ "ECMAScript Daily")
+	- JSer.infoではあまり扱わないECMAScript仕様関連の情報サイト
+	- 仕様書レベルの変更や新しいProposalに興味がある人向け
 
 ## コミュニケーションを取りたい
 
