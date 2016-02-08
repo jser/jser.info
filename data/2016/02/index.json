@@ -235,6 +235,17 @@
                 "spec"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-08T09:15:10.170Z",
+            "title": "Release v6.5.0 · babel/babel",
+            "url": "https://github.com/babel/babel/releases/tag/v6.5.0",
+            "content": "Babel 6.5.0リリース。\nBabel 6から一度のコード変換で全てされいたが、それを複数にわけられる`passPerPreset`オプションの追加。\nV8のString実装への最適化を行いコード生成を高速化するなど",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
