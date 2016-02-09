@@ -280,6 +280,24 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-09T01:39:18.172Z",
+            "title": "Release 2.1.0 - 2016.02.09 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v2.1.0",
+            "content": "core-js 2.1.0リリース。\nES5 polyfillの分離。\n`Reflect.enumerate`の削除、Metadata Reflection APIの追加など",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "decorators/metadata.md at master · jonathandturner/decorators",
+                    "url": "https://github.com/jonathandturner/decorators/blob/master/specs/metadata.md"
+                }
+            ]
         }
     ]
 }
