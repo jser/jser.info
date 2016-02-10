@@ -298,6 +298,18 @@
                     "url": "https://github.com/jonathandturner/decorators/blob/master/specs/metadata.md"
                 }
             ]
+        },
+        {
+            "date": "2016-02-10T02:52:11.509Z",
+            "title": "February 2016 Security Release Summary | Node.js",
+            "url": "https://nodejs.org/en/blog/vulnerability/february-2016-security-releases/",
+            "content": "Node.jsのセキュリティアップデート。\n0.1x、4.x、5.xのアップデートがそれぞれ公開されている。",
+            "tags": [
+                "node.js",
+                "セキュリティ",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
