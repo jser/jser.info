@@ -326,6 +326,17 @@
                     "url": "https://www.webreflection.co.uk/blog/2016/02/08/jsglossary"
                 }
             ]
+        },
+        {
+            "date": "2016-02-12T02:09:13.830Z",
+            "title": "Grunt 1.0.0 rc1 released - Grunt: The JavaScript Task Runner",
+            "url": "http://gruntjs.com/blog/2016-02-11-grunt-1.0.0-rc1-released",
+            "content": "Grunt 1.0.0 RC1リリース。\nメジャーアップデートとなるため`peerDependencies`についての注意、`grant`モジュールにCLIが含まれるように、依存モジュールのアップデートなど",
+            "tags": [
+                "Grunt",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
