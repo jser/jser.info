@@ -386,6 +386,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-13T13:31:45.778Z",
+            "title": "web-perf/react-worker-dom: Experiments to see the advantages of using Web Workers to Render React Virtual DOM",
+            "url": "https://github.com/web-perf/react-worker-dom",
+            "content": "ReactをWebWorkerで動かす実装とデモ",
+            "tags": [
+                "webworker",
+                "React"
+            ],
+            "relatedLinks": []
         }
     ]
 }
