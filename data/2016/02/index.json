@@ -375,6 +375,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-13T11:49:14.692Z",
+            "title": "An update on strong mode - Google グループ",
+            "url": "https://groups.google.com/forum/#!msg/strengthen-js/ojj3TDxbHpQ/5ENNAiUzEgAJ",
+            "content": "V8のstrong modeの実装ステータスや結果について。\n性能が想定よりでなかった、ES6の仕様に性能のブロッカーがある。複雑になりすぎるなど。\nそのため次期V8ではstrong modeのサポートは削除予定",
+            "tags": [
+                "V8",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
