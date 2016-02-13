@@ -397,6 +397,22 @@
                 "React"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-13T13:35:15.673Z",
+            "title": "StrongLoop | A New Day for Express!",
+            "url": "https://strongloop.com/strongblog/a-new-day-for-express/",
+            "content": "expressがNode.js FoundationのTop-Level Projectとなり、strongloop(IBM)から  https://github.com/expressjs へ移管された。",
+            "tags": [
+                "node.js",
+                "community"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "TSC/Express.md at master · nodejs/TSC",
+                    "url": "https://github.com/nodejs/TSC/blob/master/Applications/Express.md"
+                }
+            ]
         }
     ]
 }
