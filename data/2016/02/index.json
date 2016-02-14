@@ -434,6 +434,18 @@
                     "url": "http://eslint.org/docs/user-guide/migrating-to-2.0.0"
                 }
             ]
+        },
+        {
+            "date": "2016-02-14T11:24:19.857Z",
+            "title": "marten-de-vries/kneden: Transpile ES7 async/await to vanilla ES6 Promise chains: a Babel plugin",
+            "url": "https://github.com/marten-de-vries/kneden",
+            "content": "async/awaitをPromiseを使ったreadableなコードへ変換する目的のBabelプラグイン",
+            "tags": [
+                "babel",
+                "plugin",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
