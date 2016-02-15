@@ -494,6 +494,17 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-15T23:02:53.237Z",
+            "title": "Release v2.10.0 · jscs-dev/node-jscs",
+            "url": "https://github.com/jscs-dev/node-jscs/releases/tag/v2.10.0",
+            "content": "JSCS 2.10.0リリース。\n`disallowSpacesInsideTemplateStringPlaceholders`、`requireImportsAlphabetized`の追加",
+            "tags": [
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
