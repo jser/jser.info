@@ -516,6 +516,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-16T13:18:09.754Z",
+            "title": "Release ES2016 Draft 2016-02-15 · tc39/ecma262",
+            "url": "https://github.com/tc39/ecma262/releases/tag/es2016-draft-20160215",
+            "content": "ES2016 Draft 2016-02-15リリース。\nexponentiation operatorの追加、`Object.prototype`はimmutableに、Unicode 8.0へアップデート、`[[Enumerate]]`と`Reflect.enumerate`の削除など",
+            "tags": [
+                "ECMAScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
