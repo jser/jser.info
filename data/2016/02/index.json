@@ -527,6 +527,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-17T00:52:37.282Z",
+            "title": "Aerotwist - The Hack is Back!",
+            "url": "https://aerotwist.com/blog/the-hack-is-back/",
+            "content": "`createImageBitmap`とWebWorkerを使うことで、画像のデコード処理を別スレッドで行う方法について",
+            "tags": [
+                "JavaScript",
+                "canvas"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Dummy",
+                    "url": "http://example.com/"
+                }
+            ]
         }
     ]
 }
