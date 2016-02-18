@@ -554,6 +554,17 @@
                 "Promises"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-18T08:57:03.397Z",
+            "title": "Why using `_.chain` is a mistake. — Making Internets — Medium",
+            "url": "https://medium.com/making-internets/why-using-chain-is-a-mistake-9bc1f80d51ba",
+            "content": "lodashの`_.chanin`は拡張が難しい、lodashに含めることでbundleサイズが大きいという問題がある。\n4.1から`lodash/fp`にfunctionalな関数が用意されており、同等の表現はより小さなbundleサイズで実現できるという話",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
