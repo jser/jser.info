@@ -565,6 +565,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-18T15:04:51.053Z",
+            "title": "JavaScript Safe Navigation",
+            "url": "https://gist.github.com/dakaraphi/6a87168db66fd8f032d2",
+            "content": "ProxyとSymbolを使って `?.` 的なプロパティチェインを繋げるように書く実装。\n`safe(o).isNull.next.next.$` のように書ける",
+            "tags": [
+                "JavaScript",
+                "proxy"
+            ],
+            "relatedLinks": []
         }
     ]
 }
