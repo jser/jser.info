@@ -591,7 +591,7 @@
             "date": "2016-02-20T05:25:34.944Z",
             "title": "ESLint v2.2.0 released - ESLint - Pluggable JavaScript linter",
             "url": "http://eslint.org/blog/2016/02/eslint-v2.2.0-released",
-            "content": "ESLint 2.2.0リリース\n`// eslint-disable-line`のサポート",
+            "content": "ESLint 2.2.0リリース\n`// eslint-disable-next-line`のサポート",
             "tags": [
                 "JavaScript",
                 "Tools",
