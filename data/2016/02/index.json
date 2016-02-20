@@ -576,6 +576,16 @@
                 "proxy"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-20T05:04:56.914Z",
+            "title": "New Versioning Scheme | React",
+            "url": "http://facebook.github.io/react/blog/2016/02/19/new-versioning-scheme.html",
+            "content": "Reactの次期バージョンは15.0.0としてリリース予定。\nSemver的なバージョニングに合わせるため。また、React ComponentにおけるReactの依存バージョンの書き方についても解説されてる",
+            "tags": [
+                "React"
+            ],
+            "relatedLinks": []
         }
     ]
 }
