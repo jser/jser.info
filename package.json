@@ -4,7 +4,8 @@
   "description": "JSer.info repogitory.",
   "main": "index.js",
   "scripts": {
-    "test": "node tests/validate-json.js && node tests/check-json-by-textlint.js"
+    "test": "node tests/validate-json.js && node tests/check-json-by-textlint.js",
+    "gitter": "node tools/gitter/check-updatable.js"
   },
   "repository": {
     "type": "git",
@@ -24,9 +25,11 @@
     "bluebird": "^3.0.5",
     "cheerio": "^0.19.0",
     "glob": "^6.0.1",
+    "jser-stat": "^2.1.0",
     "jsonlint": "~1.6.0",
     "markdown-to-ast": "^3.1.1",
     "moment": "^2.10.6",
+    "node-fetch": "^1.3.3",
     "q-io": "^1.11.6",
     "style-format": "0.0.0",
     "textlint": "^5.0.2",
