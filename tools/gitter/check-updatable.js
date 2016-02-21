@@ -46,8 +46,8 @@ const itemCountList = jSerWeeks.map(function (week) {
     console.log("中央値:" + medianValue);
     console.log("現在値:" + currentValue);
 
-    // ぴったりより少し前に予告したいので -1
-    const hitValue = medianValue - 1;
+    // ぴったりより少し前に予告したいので -3
+    const hitValue = medianValue - 3;
     if (hitValue === currentValue) {
         postToGitter("そろそろ記事更新できそうですよ /cc @azu").then(function () {
             console.log("Post to gitter!")
