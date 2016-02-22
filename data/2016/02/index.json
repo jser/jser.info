@@ -684,6 +684,19 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-22T22:33:04.120Z",
+            "title": "Draft.js | Rich Text Editor Framework for React",
+            "url": "https://facebook.github.io/draft-js/",
+            "content": "Facebook Notesやmessengerで使われてるReactのリッチエディタフレームワーク。\nimmutable-jsを利用している",
+            "tags": [
+                "React",
+                "editor",
+                "facebook",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
