@@ -642,6 +642,26 @@
                     "url": "https://github.com/trueadm/inferno/issues/21"
                 }
             ]
+        },
+        {
+            "date": "2016-02-22T11:06:11.767Z",
+            "title": "ziyasal/scientist.js: A JavaScript interpretation of the Ruby library Scientist, a library for carefully refactoring critical paths.",
+            "url": "https://github.com/ziyasal/scientist.js",
+            "content": "リファクタリングを補助するRubyライブラリであるscienceのJavaScript版",
+            "tags": [
+                "JavaScript",
+                "testing"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "trello/scientist: A Node.js library for carefully refactoring critical paths in production",
+                    "url": "https://github.com/trello/scientist"
+                },
+                {
+                    "title": "github/scientist: A Ruby library for carefully refactoring critical paths.",
+                    "url": "https://github.com/github/scientist"
+                }
+            ]
         }
     ]
 }
