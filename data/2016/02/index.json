@@ -624,6 +624,24 @@
                 "検索"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-22T02:53:37.083Z",
+            "title": "trueadm/inferno: An extremely fast, isomorphic JavaScript library for building modern user interfaces",
+            "url": "https://github.com/trueadm/inferno",
+            "content": "ReactライクなVirtual DOMライブラリ。\nテンプレートからVirtual DOM Elementを作る段階で、静的/動的なのかを調べている。\nこれにより実行時にはdiff/patchを行わないフラグメントを作ることでパフォーマンスの向上を狙っている。",
+            "tags": [
+                "JavaScript",
+                "VirtualDOM",
+                "React",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "What's the difference from virtual dom libraries? · Issue #21 · trueadm/inferno",
+                    "url": "https://github.com/trueadm/inferno/issues/21"
+                }
+            ]
         }
     ]
 }
