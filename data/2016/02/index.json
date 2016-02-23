@@ -741,6 +741,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-23T17:12:53.013Z",
+            "title": "dthree/cash: Cross-platform Linux commands in pure ES6",
+            "url": "https://github.com/dthree/cash",
+            "content": "JavaScriptで書かれたLinuxコマンド集。\nクロスプラットフォームで動く`mv`や`cp`といった単体のコマンドとしてもインストールできる",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "library",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
