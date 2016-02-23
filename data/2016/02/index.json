@@ -730,6 +730,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-23T09:03:47.854Z",
+            "title": "Announcing TypeScript 1.8 | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2016/02/22/announcing-typescript-1-8-2/",
+            "content": "TypeScript 1.8リリース。\nString Literal Typesのサポート、コントロールフローを解析しUnreachableなコードを検出するなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
