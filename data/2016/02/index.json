@@ -708,6 +708,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-23T02:23:38.170Z",
+            "title": "Delivering Octicons with SVG",
+            "url": "https://github.com/blog/2112-delivering-octicons-with-svg",
+            "content": "GitHubはアイコンフォントをやめて、SVGを使ったアイコンを利用するように切り替えた。\nSVGをアイコンとして埋め込む方法、パフォーマンス、欠点や落とし穴について",
+            "tags": [
+                "fonts",
+                "SVG"
+            ],
+            "relatedLinks": []
         }
     ]
 }
