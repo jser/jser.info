@@ -719,6 +719,17 @@
                 "SVG"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-23T06:01:16.959Z",
+            "title": "Node v5.7.0 (Stable) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v5.7.0/",
+            "content": "Node.js 5.7.0リリース。\n`Buffer#fill`が`encoding`引数をサポート、`spawn()`が`shell`オプションをサポートするなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
