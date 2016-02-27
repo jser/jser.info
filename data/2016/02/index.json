@@ -789,6 +789,18 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-27T05:06:42.558Z",
+            "title": "ConFoo: Measuring SPA Performance // Speaker Deck",
+            "url": "https://speakerdeck.com/bluesmoon/confoo-measuring-spa-performance",
+            "content": "SPAでパフォーマンスをどう計測するについてのスライド。\nXHRのhook、MutationObserver、FetchObserverについて",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "スライド"
+            ],
+            "relatedLinks": []
         }
     ]
 }
