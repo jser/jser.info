@@ -814,6 +814,17 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-27T05:59:03.297Z",
+            "title": "Examples of name clashes in JavaScript’s standard library",
+            "url": "http://www.2ality.com/2016/02/js-name-clashes.html",
+            "content": "新たに追加するメソッド名が衝突したBreak the webの例とSymbolについて。\n`Symbol.unscopables`が導入された経緯について",
+            "tags": [
+                "ECMAScript",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
