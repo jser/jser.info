@@ -825,6 +825,22 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-02-28T07:16:57.716Z",
+            "title": "Elmish: Functional Programming in Javascript — Medium",
+            "url": "https://medium.com/@chetcorcos/elmish-functional-programming-in-javascript-50995f1d4b9e",
+            "content": "Elm的なアーキテクチャをJavaScriptで実装しながら学んでみたという話",
+            "tags": [
+                "JavaScript",
+                "設計"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ccorcos/elmish: A Javascript UI library inspired by Elm",
+                    "url": "https://github.com/ccorcos/elmish"
+                }
+            ]
         }
     ]
 }
