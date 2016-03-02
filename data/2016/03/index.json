@@ -34,6 +34,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-02T02:40:28.889Z",
+            "title": "Release v6.6.0 · babel/babel",
+            "url": "https://github.com/babel/babel/releases/tag/v6.6.0",
+            "content": "Babel 6.6.0リリース。\ntransform-es3-member-expression-literalsが再度組み合わせて利用できるように、Babel 6で削除されたオプションに関するエラーをわかりやすく表示されるようになるなど",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
