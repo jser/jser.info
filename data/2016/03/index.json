@@ -113,6 +113,16 @@
                     "url": "http://qiita.com/kuy/items/bfe5975205c9237ebd26"
                 }
             ]
+        },
+        {
+            "date": "2016-03-03T06:56:07.306Z",
+            "title": "What's New in jQuery 3 - Telerik Developer Network",
+            "url": "http://developer.telerik.com/featured/whats-new-in-jquery-3/",
+            "content": "jQuery 3についての解説。\nfor...ofでの列挙、`$.get`/`$.post`のシグネチャ追加、requestAnimationFrameの対応、`data()`の動作変更、DeferredがPromise/A+互換に、SVGのサポートなど",
+            "tags": [
+                "jQuery"
+            ],
+            "relatedLinks": []
         }
     ]
 }
