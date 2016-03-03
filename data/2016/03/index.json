@@ -172,6 +172,16 @@
             ],
             "date": "2016-03-03T10:01:31.526Z",
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-03T12:51:16.085Z",
+            "title": "Preload: What Is It Good For? – Smashing Magazine",
+            "url": "https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/",
+            "content": "`<link rel=\"preload\">`でのpreloadについての詳しい解説。\nブラウザがちゃんと優先度を扱える、CSPと同居できる、`as`属性を使い適切な形でリソースを読み込めるなどの特徴について書かれている。",
+            "tags": [
+                "browser"
+            ],
+            "relatedLinks": []
         }
     ]
 }
