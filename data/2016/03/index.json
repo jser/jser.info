@@ -135,18 +135,19 @@
             ],
             "relatedLinks": []
         },
-      {
-        "date": "2016-03-03T09:36:13.085Z",
-        "title": "Step by Step Guide To Building React Redux Apps — Medium",
-        "url": "https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a",
-        "content": "React+Reduxをステップバイステップで学ぶチュートリアル",
-        "tags": [
-          "React",
-          "redux",
-          "tutorial"
-        ],
-        "relatedLinks": []
-      },{
+        {
+            "date": "2016-03-03T09:36:13.085Z",
+            "title": "Step by Step Guide To Building React Redux Apps — Medium",
+            "url": "https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a",
+            "content": "React+Reduxをステップバイステップで学ぶチュートリアル",
+            "tags": [
+                "React",
+                "redux",
+                "tutorial"
+            ],
+            "relatedLinks": []
+        },
+        {
             "date": "2016-03-02T14:58:29.752Z",
             "title": "mohayonao/web-audio-mock-api: mock API which implements the Web Audio API's interfaces only",
             "url": "https://github.com/mohayonao/web-audio-mock-api",
@@ -158,6 +159,18 @@
                 "testing",
                 "library"
             ],
+            "relatedLinks": []
+        },
+        {
+            "title": "Release 3rd Edition - Release Candidate · tc39/ecma402 · GitHub",
+            "url": "https://github.com/tc39/ecma402/releases/tag/3.0-rc-1",
+            "content": "ECMAScript Internationalization API 3rd Edition RCリリース。 i18n APIについて定義されてる仕様書",
+            "tags": [
+                "ECMAScript",
+                "spec",
+                "ReleaseNote"
+            ],
+            "date": "2016-03-03T10:01:31.526Z",
             "relatedLinks": []
         }
     ]
