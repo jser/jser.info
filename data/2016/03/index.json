@@ -182,6 +182,23 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-05T04:42:12.549Z",
+            "title": "tryolabs/fetch-it: An enhanced HTTP client based on fetch.",
+            "url": "https://github.com/tryolabs/fetch-it",
+            "content": "Fetch APIをベースにしたHTTPクライアントライブラリ。\nmiddlewareで処理を追加できる仕組みを持っている",
+            "tags": [
+                "HTTP",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "fetch-it: enhanced HTTP client based on fetch | Tryolabs | Blog",
+                    "url": "http://blog.tryolabs.com/2016/03/02/fetch-it-enhanced-http-client-based-on-fetch/"
+                }
+            ]
         }
     ]
 }
