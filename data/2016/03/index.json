@@ -199,6 +199,22 @@
                     "url": "http://blog.tryolabs.com/2016/03/02/fetch-it-enhanced-http-client-based-on-fetch/"
                 }
             ]
+        },
+        {
+            "date": "2016-03-05T08:56:49.499Z",
+            "title": "ECMA262のIteration protocolsで遅延評価するIteratorを作る - snyk_s log",
+            "url": "http://saneyukis.hatenablog.com/entry/2016/03/04/030337",
+            "content": "ECMAScriptの`Symbol.iterator`を使い遅延評価出来るコレクション処理を行うという話\n",
+            "tags": [
+                "ECMAScript",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "cognitect-labs/transducers-js: Transducers for JavaScript",
+                    "url": "https://github.com/cognitect-labs/transducers-js"
+                }
+            ]
         }
     ]
 }
