@@ -215,6 +215,18 @@
                     "url": "https://github.com/cognitect-labs/transducers-js"
                 }
             ]
+        },
+        {
+            "date": "2016-03-05T09:05:37.339Z",
+            "title": "cognitect-labs/transducers-js: Transducers for JavaScript",
+            "url": "https://github.com/cognitect-labs/transducers-js",
+            "content": "Transformer protocolを実装したコレクション処理を実装することで、一度の処理で同時に複数の変換を行うことが出来るようにする仕組みとライブラリ",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
