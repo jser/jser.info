@@ -243,6 +243,19 @@
                     "url": "https://github.com/cognitect-labs/transducers-js"
                 }
             ]
+        },
+        {
+            "date": "2016-03-05T09:10:11.773Z",
+            "title": "大型フロントエンド開発におけるTypeScriptとDDD // Speaker Deck",
+            "url": "https://speakerdeck.com/armorik83/da-xing-hurontoendokai-fa-niokerutypescripttoddd",
+            "content": "大規模なクライアントサイドを書く場合の構造やテスト、環境についてのスライド。\nTypeScriptでちゃんとしたドメインモデルを構築し、Viewのレイヤーとの分離を図る仕組みの作り方について",
+            "tags": [
+                "TypeScript",
+                "DDD",
+                "AngularJS",
+                "スライド"
+            ],
+            "relatedLinks": []
         }
     ]
 }
