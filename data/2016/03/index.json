@@ -315,6 +315,18 @@
                 "redux"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-05T10:29:34.047Z",
+            "title": "ESLint v2.3.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2016/03/eslint-v2.3.0-released",
+            "content": "ESLint v2.3.0リリース。\nルールのoff/wan/errorを0,1,2という数字ではなく文字列で指定出来るように、ES2016で追加される`**`の対応など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
