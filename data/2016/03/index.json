@@ -291,6 +291,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-05T09:55:06.130Z",
+            "title": "React.js Conf 2016 - Steve McGuire - Performance Without Compromise - YouTube",
+            "url": "https://www.youtube.com/watch?v=kDARP5QZ6nU&list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY&index=28",
+            "content": "Netflixのクライアントサイドのアーキテクチャについて。\nmixinじゃなくて高階関数でレイヤーを表現、宣言的にするためのルールとしての\"No refs\"。\nまたパフォーマンス面では、Transducersの話、静的なpropと動的なpropは分けることでの最適化についてなど。",
+            "tags": [
+                "JavaScript",
+                "動画 ",
+                "React"
+            ],
+            "relatedLinks": []
         }
     ]
 }
