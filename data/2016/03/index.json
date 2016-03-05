@@ -267,6 +267,18 @@
                 "VR"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-05T09:12:53.805Z",
+            "title": "matthewmueller/28kb-react-redux-routing: React + Redux + Routing Stack for just 28kb",
+            "url": "https://github.com/matthewmueller/28kb-react-redux-routing",
+            "content": "React + Redux + ルーティングというよくある構成を28kbで実現するというコンセプトリポジトリ。\nReactの代わりにPreact、Reduxの代わりにラップしたSocrates、ルーティングはenroute + Reduxミドルウェアを使っている",
+            "tags": [
+                "JavaScript",
+                "React",
+                "redux"
+            ],
+            "relatedLinks": []
         }
     ]
 }
