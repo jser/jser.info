@@ -327,6 +327,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-06T02:13:07.784Z",
+            "title": "なぜ絵文字を含む文字を1文字ずつに分けるのにArray.fromだけで十分なのか？ - Qiita",
+            "url": "http://qiita.com/alucky0707/items/697598e49ff56191c139",
+            "content": "`split(\"\")`だと絵文字などでサロゲートペアの問題が起きるため、ES6で追加された`Array.from`などを使うことで正しく扱えるという話",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
