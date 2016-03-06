@@ -363,6 +363,27 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-06T02:46:09.070Z",
+            "title": "High-performance Web Worker messages | Read the Tea Leaves",
+            "url": "http://nolanlawson.com/2016/02/29/high-performance-web-worker-messages/",
+            "content": "単純なデータ転送についてのWeb Workerのパフォーマンステスト。\n- `JSON.stringify()`/`JSON.parse()`の利用\n- 一部のみ適応\n- 生オブジェクトのまま\nをそれぞれ比較したもの",
+            "tags": [
+                "webworker",
+                "performance",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "How fast are web workers? ★ Mozilla Hacks – the Web developer blog",
+                    "url": "https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/"
+                },
+                {
+                    "title": "Fast legoization | Better world by better software",
+                    "url": "https://glebbahmutov.com/blog/fast-legoization/"
+                }
+            ]
         }
     ]
 }
