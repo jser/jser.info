@@ -468,6 +468,17 @@
                     "url": "http://terkel.github.io/why-im-excited-about-native-css-variables/"
                 }
             ]
+        },
+        {
+            "date": "2016-03-08T14:40:52.045Z",
+            "title": "React v15.0 Release Candidate | React",
+            "url": "https://facebook.github.io/react/blog/2016/03/07/react-v15-rc1.html",
+            "content": "React v15.0 RC1リリース。\n`data-reactid`がクライアントサイドのレンダリングではなくなる、`null`をコメントとしてレンダリングするようになる。\nまた非推奨となっていたメソッドが`react`と`react-dom`それぞれから削除された。\nまた、警告メッセージの改善などが行われている。",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
