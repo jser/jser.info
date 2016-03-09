@@ -479,6 +479,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-09T13:49:43.789Z",
+            "title": "Release v6.7.0 · babel/babel",
+            "url": "https://github.com/babel/babel/releases/tag/v6.7.0",
+            "content": "Babel v6.7.0リリース。\nasync/await周りのバグ修正、内部的な変更してAST上に存在したキャッシュをWeakMapベースで保存するように変更。",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
