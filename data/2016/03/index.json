@@ -544,7 +544,12 @@
                 "JavaScript",
                 "proposal"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "proposal-weakrefs/weakrefs.md at master · tc39/proposal-weakrefs",
+                    "url": "https://github.com/tc39/proposal-weakrefs/blob/master/specs/weakrefs.md"
+                }
+            ]
         }
     ]
 }
