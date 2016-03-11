@@ -533,6 +533,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-11T03:18:35.983Z",
+            "title": "JavaScript Proposal for weak references: WeakRef",
+            "url": "https://ponyfoo.com/articles/weakref",
+            "content": "`WeakRef` Proposalについての解説。\nWeakMapと同じようにWeakな扱いだが、WeakMapと違いGCで回収された時に呼ばれる`executor`を指定できる。(WeakMap/Setは回収されたタイミングを知ることができない)",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "proposal"
+            ],
+            "relatedLinks": []
         }
     ]
 }
