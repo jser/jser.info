@@ -521,6 +521,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-11T02:18:01.179Z",
+            "title": "Release v1.5.0 · testem/testem",
+            "url": "https://github.com/testem/testem/releases/tag/v1.5.0",
+            "content": "testem v1.5.0リリース。\n複数のTest Pageを指定するとparallel実行できるように、Mochaのテストにかかった時間を表示できるようになるなど",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
