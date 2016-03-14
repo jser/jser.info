@@ -596,6 +596,18 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-14T14:43:33.273Z",
+            "title": "Firefox 開発ツールを使った Service Workers と Push のデバッグ | Mozilla Developer Street (modest)",
+            "url": "https://dev.mozilla.jp/2016/03/debugging-service-workers-and-push-with-firefox-devtools/",
+            "content": "FirefoxでのService WorkerとPush Notificationsのデバッグについて。\n`about:debugging`というデバッグのダッシュボード画面についても書かれている",
+            "tags": [
+                "firefox",
+                "debug",
+                "ServiceWorker"
+            ],
+            "relatedLinks": []
         }
     ]
 }
