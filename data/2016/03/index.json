@@ -662,6 +662,22 @@
                     "url": "http://v8project.blogspot.jp/2016/03/experimental-support-for-webassembly.html"
                 }
             ]
+        },
+        {
+            "date": "2016-03-16T07:10:35.822Z",
+            "title": "V8 JavaScript Engine: V8 Release 5.0",
+            "url": "http://v8project.blogspot.com/2016/03/v8-release-50.html",
+            "content": "V8 5.0リリース。\nRegExp Unicode flagのサポート、RegExpのwell-known symbolsをサポート、`Object.keys()`やrest parameterの速度改善など",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Dummy",
+                    "url": "http://example.com/"
+                }
+            ]
         }
     ]
 }
