@@ -646,6 +646,22 @@
                     "url": "https://speakerdeck.com/k9ordon/webpack-ftw"
                 }
             ]
+        },
+        {
+            "date": "2016-03-16T07:05:52.969Z",
+            "title": "A WebAssembly Milestone: Experimental Support in Multiple Browsers ★ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2016/03/a-webassembly-milestone/",
+            "content": "WebAssemblyの仕様、ブラウザの実装のステータスについて。\n最初のbinary formatドラフト仕様がでており、FirefoxとChromeのNightlyで試験的なサポートがされている。",
+            "tags": [
+                "WebAssembly",
+                "status"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "V8 JavaScript Engine: Experimental support for WebAssembly in V8",
+                    "url": "http://v8project.blogspot.jp/2016/03/experimental-support-for-webassembly.html"
+                }
+            ]
         }
     ]
 }
