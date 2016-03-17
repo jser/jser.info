@@ -721,6 +721,17 @@
                 "動画 "
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-17T12:49:23.651Z",
+            "title": "Node v5.9.0 (Stable) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v5.9.0/",
+            "content": "Node.js 5.9.0リリース。\n`vm`モジュールのメモリ使用量の削減、`zlib`モジュールがconcatenated archivesをサポート",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
