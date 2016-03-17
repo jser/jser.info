@@ -697,6 +697,18 @@
                 "node.js"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-17T09:45:31.897Z",
+            "title": "eanplatter/enclave: A simpler way to compile React applications http://enclave.js.org",
+            "url": "https://github.com/eanplatter/enclave",
+            "content": "`npm install`して`npm start`するだけで、React+Babelな環境を動かせるブートストラップ的なツール",
+            "tags": [
+                "React",
+                "babel",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
