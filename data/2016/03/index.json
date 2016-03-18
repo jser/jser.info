@@ -732,6 +732,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-18T08:40:59.697Z",
+            "title": "Announcing Marko v3: From HTML to HTML-JS | Marko",
+            "url": "http://markojs.com/blog/announcing-marko-v3/",
+            "content": "テンプレートエンジンのMarko v3リリース。\nHTML-JS syntaxというJavaScriptのように書けるテンプレート表現のサポート、コンパイル時最適化の対応など",
+            "tags": [
+                "JavaScript",
+                "template",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
