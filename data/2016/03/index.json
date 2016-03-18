@@ -750,7 +750,7 @@
             "date": "2016-03-18T15:17:27.732Z",
             "title": "Chromium Blog: Chrome 50 Beta: Push notification improvements and declarative preload",
             "url": "http://blog.chromium.org/2016/03/chrome-50-beta-push-notification.html",
-            "content": "Chrome 50 Betaリリース。\n`<link rel='preload'>`、`HTMLCanvasElement.toBlob()`のサポート、iframeのsandbox属性の値が取れるように、`Document.defaultCharset`を削除など",
+            "content": "Chrome 50 Betaリリース。\n`<link rel='preload'>`、`HTMLCanvasElement.toBlob()`のサポート、iframeのsandbox属性値がサポートされているかを判定出来るように、`Document.defaultCharset`を削除など",
             "tags": [
                 "Chrome",
                 "ReleaseNote"
