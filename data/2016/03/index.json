@@ -800,6 +800,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-19T04:24:08.274Z",
+            "title": "Animating with React, Redux, and d3 | A geek with a hat",
+            "url": "http://swizec.com/blog/animating-with-react-redux-and-d3/swizec/6775",
+            "content": "ReactとD3.jsを組み合わせてアニメーションするComponentを作る話。\nContainer ComponentにStateが出てくるためReduxで管理している。\nパーティクルを表示するなかでどこにボトルネックがあるかについて",
+            "tags": [
+                "React",
+                "redux",
+                "d3.js",
+                "SVG"
+            ],
+            "relatedLinks": []
         }
     ]
 }
