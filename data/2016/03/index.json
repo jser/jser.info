@@ -813,6 +813,24 @@
                 "SVG"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-19T04:40:34.552Z",
+            "title": "protractor/CHANGELOG.md at 3.2.0 · angular/protractor",
+            "url": "https://github.com/angular/protractor/blob/3.2.0/CHANGELOG.md",
+            "content": "Protractor 3.2.0リリース。\nTypeScriptサポートのための変更追加、任意のバージョンのWebDriverを指定できるようになるなど",
+            "tags": [
+                "E2E",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Typescript support · Issue #1203 · angular/protractor",
+                    "url": "https://github.com/angular/protractor/issues/1203#issuecomment-168777170"
+                }
+            ]
         }
     ]
 }
