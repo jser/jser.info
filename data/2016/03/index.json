@@ -765,6 +765,17 @@
                     "url": "https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/"
                 }
             ]
+        },
+        {
+            "date": "2016-03-19T03:58:45.262Z",
+            "title": "Why I Write Plain JavaScript Modules",
+            "url": "https://ponyfoo.com/articles/why-i-write-plain-javascript-modules",
+            "content": "なぜDOMのライブラリをReact/AngularJSなど特定のフレームワーク向けではなく、PureなDOMライブラリとして書くのかについて",
+            "tags": [
+                "DOM",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
