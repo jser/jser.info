@@ -885,6 +885,18 @@
                 "google"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-22T10:02:23.993Z",
+            "title": "Reactを使ったプロダクトのパフォーマンスを改善した話 | GMOメディア エンジニアブログ",
+            "url": "http://tech.gmo-media.jp/post/141458071484/react-perf-tuning",
+            "content": "React Componentで作成したアプリにのボトルネックの調査方法や改善手法について。\nreact-addons-perfを使ってプロファイルを見ながらやっていく話",
+            "tags": [
+                "React",
+                "performance",
+                "debug"
+            ],
+            "relatedLinks": []
         }
     ]
 }
