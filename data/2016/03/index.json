@@ -897,6 +897,18 @@
                 "debug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-22T23:07:08.256Z",
+            "title": "GoogleChrome/proxy-polyfill: Proxy object polyfill",
+            "url": "https://github.com/GoogleChrome/proxy-polyfill",
+            "content": "ES6 Proxyのpolyfillライブラリ。\nget/set/apply/constructなど一部のtrapのみをサポートしている",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
