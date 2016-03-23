@@ -953,6 +953,18 @@
             ],
             "date": "2016-03-23T12:47:34.118Z",
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-23T12:52:02.717Z",
+            "title": "Developer Edition 47 – User agent emulation, popup debugging and more ★ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2016/03/developer-edition-47-user-agent-emulation-popup-debugging-and-more/",
+            "content": "Firefox 47の開発者ツールの新しい機能について。\nどういう流れでオブジェクトが保持されているのかを可視化、コンソールへ複数行入力出来るように、Storage Insperatorでcacheをサポートなど",
+            "tags": [
+                "firefox",
+                "JavaScript",
+                "debug"
+            ],
+            "relatedLinks": []
         }
     ]
 }
