@@ -931,6 +931,18 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-23T12:41:00.636Z",
+            "title": "Debugging with Node",
+            "url": "http://krasimirtsonev.com/blog/article/debugging-with-node",
+            "content": "Node.jsに元々入っている`node debug`コマンドの使い方について",
+            "tags": [
+                "node.js",
+                "debug",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
