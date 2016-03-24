@@ -1012,7 +1012,12 @@
                 "JavaScript",
                 "book"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "hootlex/the-majesty-of-vuejs: educational",
+                    "url": "https://github.com/hootlex/the-majesty-of-vuejs"
+                }
+            ]
         }
     ]
 }
