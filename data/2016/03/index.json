@@ -1018,6 +1018,19 @@
                     "url": "https://github.com/hootlex/the-majesty-of-vuejs"
                 }
             ]
+        },
+        {
+            "date": "2016-03-25T14:56:24.919Z",
+            "title": "JSDocをランタイムassertに変換するBabelプラグインを書いた | Web Scratch",
+            "url": "http://efcl.info/2016/03/25/jsdoc-to-assert/",
+            "content": "JSDocをassertに変換するBabelプラグインについて。\nJSDocの型をランタイムassertにすることで、定義されてる型と実際の値が一致しているかを検証できる",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "Tools",
+                "babel"
+            ],
+            "relatedLinks": []
         }
     ]
 }
