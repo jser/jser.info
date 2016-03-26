@@ -1177,6 +1177,18 @@
                     "url": "http://www.slideshare.net/kawada_hiroshi/performance-api"
                 }
             ]
+        },
+        {
+            "date": "2016-03-26T13:34:59.141Z",
+            "title": "tusharmath/funjector: Dependency injection for functional paradigm",
+            "url": "https://github.com/tusharmath/funjector",
+            "content": "関数に対するDIライブラリ。\n部分適応した関数を作り、それに対してinjectできる仕組みを提供する",
+            "tags": [
+                "JavaScript",
+                "library",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
