@@ -1149,6 +1149,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-26T12:41:08.179Z",
+            "title": "Gordux.js - The redux pattern in vanilla.js",
+            "url": "https://k94n.com/gordux-js-the-redux-pattern-in-vanilla-js",
+            "content": "Reduxのようなデータフローを素のJavaScriptで実装してみるという話。\nEventにはCustom Eventを使ってPub/Subを行っている",
+            "tags": [
+                "JavaScript",
+                "redux"
+            ],
+            "relatedLinks": []
         }
     ]
 }
