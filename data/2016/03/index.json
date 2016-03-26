@@ -1104,6 +1104,23 @@
                     "url": "http://ngjapan.org/"
                 }
             ]
+        },
+        {
+            "date": "2016-03-26T10:14:31.950Z",
+            "title": "ESLint v2.5.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2016/03/eslint-v2.5.0-released",
+            "content": "ESLint 2.5.0リリース。\n依存してるライブラリもESLintのパッケージに含めて配布できる`bundledDependencies`を利用するように、ルールの追加/修正など。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESLint v2.5.0 - Qiita",
+                    "url": "http://qiita.com/mysticatea/items/7018ca26abfa7701debc"
+                }
+            ]
         }
     ]
 }
