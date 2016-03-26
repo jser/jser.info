@@ -1137,6 +1137,18 @@
                     "url": "https://github.com/css-modules/css-modules"
                 }
             ]
+        },
+        {
+            "date": "2016-03-26T10:26:49.235Z",
+            "title": "Safari on iOS 9.3, Responsive Images, iPhone SE, shrink-to-fit and other new APIs | Breaking the Mobile Web",
+            "url": "http://www.mobilexweb.com/blog/safari-on-ios-9-3-picture-shrink-fit-iphone-se",
+            "content": "iOS 9.3のSafariについて。\n`<picture>`、Fast Tap、CSS Custom Properties、ダイアログの変更、`shrink-to-fit`、Remote Inspectorなど",
+            "tags": [
+                "ios",
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
