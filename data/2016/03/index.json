@@ -1160,6 +1160,23 @@
                 "redux"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-26T13:01:17.531Z",
+            "title": "A Primer for Web Performance Timing APIs",
+            "url": "https://w3c.github.io/perf-timing-primer/",
+            "content": "Web Performance Timing APIの概要をまとめたドキュメント",
+            "tags": [
+                "web ",
+                "performance",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ブラウザのPerformance APIの話",
+                    "url": "http://www.slideshare.net/kawada_hiroshi/performance-api"
+                }
+            ]
         }
     ]
 }
