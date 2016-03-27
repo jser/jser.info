@@ -1217,6 +1217,18 @@
                     "url": "https://speakerdeck.com/jfairbank/fluent-conf-rise-of-async-javascript"
                 }
             ]
+        },
+        {
+            "date": "2016-03-27T14:36:24.026Z",
+            "title": "WebpackBin",
+            "url": "http://www.webpackbin.com/",
+            "content": "http://requirebin.com/ のwebpack版。\nHTML/CSS/JavaScriptを書いて公開出来るサービス",
+            "tags": [
+                "JavaScript",
+                "webpack",
+                "webservice"
+            ],
+            "relatedLinks": []
         }
     ]
 }
