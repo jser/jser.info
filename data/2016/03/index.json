@@ -1201,6 +1201,22 @@
                 "まとめ"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-27T14:11:02.526Z",
+            "title": "Fluent Conf 2016: Jeremy Fairbank - The rise of async JavaScript - YouTube",
+            "url": "https://www.youtube.com/watch?v=QtgR94Q2pt4",
+            "content": "async/awaitがどのように動くのかをPromiseをベースとして解説してる。\nエラーハンドリングの動作やasync functionがどのように動くのかを見ていく話",
+            "tags": [
+                "JavaScript",
+                "動画 "
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Fluent Conf: Rise of Async JavaScript // Speaker Deck",
+                    "url": "https://speakerdeck.com/jfairbank/fluent-conf-rise-of-async-javascript"
+                }
+            ]
         }
     ]
 }
