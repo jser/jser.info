@@ -1,4 +1,4 @@
-# [JSer.info][] [![Build Status](https://travis-ci.org/jser/jser.info.png)](https://travis-ci.org/jser/jser.info) [![Gitter chat](https://badges.gitter.im/jser/jser.info.png)](https://gitter.im/jser/jser.info)
+# [JSer.info][] [![Build Status](https://travis-ci.org/jser/jser.info.svg?branch=master)](https://travis-ci.org/jser/jser.info)
 
 JSer.infoに掲載する記事の元データを管理しているリポジトリです。
 

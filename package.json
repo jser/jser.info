@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node tests/validate-json.js && node tests/check-json-by-textlint.js",
-    "gitter": "node tools/gitter/check-updatable.js"
+    "gitter": "update-jser-stat && node tools/gitter/check-updatable.js"
   },
   "repository": {
     "type": "git",
