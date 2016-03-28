@@ -98,6 +98,17 @@
             "relatedLinks": []
         },
         {
+            "date": "2016-03-02T22:52:01.958Z",
+            "title": "matthewmueller/socrates: Small (12kb), batteries-included redux stack to reduce boilerplate and enforce good practices.",
+            "url": "https://github.com/matthewmueller/socrates",
+            "content": "Reduxをラップしたライブラリ。\n非同期Actionの扱い、stateがfreeze済み、reducerはdiffオブジェクトを返すだけ、reducerの構造化など",
+            "tags": [
+                "redux",
+                "JavaScript"
+            ],
+            "relatedLinks": []
+        },
+        {
             "date": "2016-03-03T03:04:21.648Z",
             "title": "gaearon/react-makes-you-sad: Here’s a flowchart to make you happy again!",
             "url": "https://github.com/gaearon/react-makes-you-sad",
@@ -1193,7 +1204,7 @@
         {
             "date": "2016-03-27T11:31:34.728Z",
             "title": "Status of Static Typing in ECMAScript | ECMAScript Daily",
-            "url": "http://ecmascript-daily.github.io/pages/status-of-static-typing-in-ecmascript/",
+            "url": "https://ecmascript-daily.github.io/pages/status-of-static-typing-in-ecmascript/",
             "content": "ECMAScriptにおける型関連Proposalのステータスまとめ。",
             "tags": [
                 "ECMAScript",
