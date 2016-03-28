@@ -1250,6 +1250,22 @@
                 "CSS"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-28T15:51:59.343Z",
+            "title": "Release v1.0.0 · mozilla/sweet.js",
+            "url": "https://github.com/mozilla/sweet.js/releases/tag/v1.0.0",
+            "content": "JavaScriptにhygienic macrosを導入するsweet.js 1.0.0リリース。\n",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Redesign by disnet · Pull Request #485 · mozilla/sweet.js",
+                    "url": "https://github.com/mozilla/sweet.js/pull/485"
+                }
+            ]
         }
     ]
 }
