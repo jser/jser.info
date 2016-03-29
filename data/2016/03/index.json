@@ -1292,6 +1292,18 @@
                     "url": "http://example.com/"
                 }
             ]
+        },
+        {
+            "date": "2016-03-29T00:29:02.259Z",
+            "title": "pmdartus/snapline: Unleash your screenshots stored in Chrome Devtool timeline files",
+            "url": "https://github.com/pmdartus/snapline",
+            "content": "Chrome開発者ツールのタイムラインをGIFアニメーション画像に変換出来るツール",
+            "tags": [
+                "Chrome",
+                "debug",
+                "画像"
+            ],
+            "relatedLinks": []
         }
     ]
 }
