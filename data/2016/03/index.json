@@ -1316,6 +1316,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-03-29T08:46:08.196Z",
+            "title": "gajus/create-index: Creates ES6 ./index.js file in target directories that imports and exports all sibling files and directories.",
+            "url": "https://github.com/gajus/create-index",
+            "content": "ディレクトリを指定すると、そこにあるモジュールを`import`した`index.js`を作成してくれるツール",
+            "tags": [
+                "node.js",
+                "library",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
