@@ -173,7 +173,18 @@
             "relatedLinks": []
         },
         {
-<<<<<<< Updated upstream
+            "date": "2016-03-02T15:28:40.966Z",
+            "title": "Enzyme: JavaScript Testing utilities for React — Airbnb Engineering & Data Science — Medium",
+            "url": "https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f",
+            "content": "Enzymeを使ったReact Componentのテストについて",
+            "tags": [
+                "React",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": []
+        },
+        {
             "title": "Release 3rd Edition - Release Candidate · tc39/ecma402 · GitHub",
             "url": "https://github.com/tc39/ecma402/releases/tag/3.0-rc-1",
             "content": "ECMAScript Internationalization API 3rd Edition RCリリース。 i18n APIについて定義されてる仕様書",
@@ -1377,18 +1388,6 @@
                 "debug"
             ],
             "relatedLinks": []
-=======
-            "date": "2016-03-02T15:28:40.966Z",
-            "title": "Enzyme: JavaScript Testing utilities for React — Airbnb Engineering & Data Science — Medium",
-            "url": "https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f",
-            "content": "Enzymeを使ったReact Componentのテストについて",
-            "tags": [
-                "React",
-                "testing",
-                "library"
-            ],
-            "relatedLinks": []
->>>>>>> Stashed changes
         }
     ]
 }
