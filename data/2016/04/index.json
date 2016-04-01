@@ -34,6 +34,23 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-01T14:56:04.746Z",
+            "title": "The npm Blog — fixing a bearer token vulnerability",
+            "url": "http://blog.npmjs.org/post/142036323955/fixing-a-bearer-token-vulnerability",
+            "content": "npmにMITMできる脆弱性があったため2.xと3.xそれぞれセキュリティアップデートされている。\n`npm i -g`または`npm-windows-upgrade`を使うことで`npm`自体をアップデートできる",
+            "tags": [
+                "npm",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "felixrieseberg/npm-windows-upgrade: Upgrade npm on Windows",
+                    "url": "https://github.com/felixrieseberg/npm-windows-upgrade"
+                }
+            ]
         }
     ]
 }
