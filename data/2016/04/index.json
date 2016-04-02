@@ -95,6 +95,17 @@
                     "url": "https://www.linux.com/news/software/applications/893109-nodejs-buffer-api-changes"
                 }
             ]
+        },
+        {
+            "date": "2016-04-02T07:19:00.510Z",
+            "title": "aadsm/jschardet: Character encoding auto-detection in JavaScript (port of python's chardet)",
+            "url": "https://github.com/aadsm/jschardet",
+            "content": "JavaScriptで文字コード判定をするライブラリ",
+            "tags": [
+                "JavaScript",
+                "文字コード"
+            ],
+            "relatedLinks": []
         }
     ]
 }
