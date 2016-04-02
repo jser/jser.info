@@ -75,6 +75,26 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-02T06:45:10.819Z",
+            "title": "Node v5.10.0 (Stable) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v5.10.0/",
+            "content": "Node.js 5.10.0リリース。\nnpmのセキュリティアップデートしたバージョンが含まれている。\nまた、`Buffer(size)`のallocation問題に対して`Buffer.alloc`/`Buffer.allocUnsafe`/`Buffer.from`と`--zero-fill-buffers`コマンドライン引数の追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The npm Blog — fixing a bearer token vulnerability",
+                    "url": "http://blog.npmjs.org/post/142036323955/fixing-a-bearer-token-vulnerability"
+                },
+                {
+                    "title": "Node.js Buffer API Changes | Linux.com",
+                    "url": "https://www.linux.com/news/software/applications/893109-nodejs-buffer-api-changes"
+                }
+            ]
         }
     ]
 }
