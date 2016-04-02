@@ -63,6 +63,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-02T06:30:43.968Z",
+            "title": "rbuckton/prex: Async coordination primitives and extensions on top of ES6 Promises",
+            "url": "https://github.com/rbuckton/prex",
+            "content": "Promise周りの補助ライブラリ。\nCancellation、Semaphore、SchedulingのAPIを提供してる",
+            "tags": [
+                "JavaScript",
+                "Promises",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
