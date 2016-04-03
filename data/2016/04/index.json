@@ -136,6 +136,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-03T00:26:30.665Z",
+            "title": "LiquidLabsGmbH/retractor: Expose react internals for E2E testing",
+            "url": "https://github.com/LiquidLabsGmbH/retractor",
+            "content": "selenium-webderiverにReact Elementoを受け取れる`findElement`を拡張するライブラリ",
+            "tags": [
+                "webdriver",
+                "React"
+            ],
+            "relatedLinks": []
         }
     ]
 }
