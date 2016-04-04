@@ -179,6 +179,23 @@
                 "AngularJS"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-04T22:18:29.682Z",
+            "title": "Microsoft Edge Developer Resources",
+            "url": "https://dev.windows.com/en-us/microsoft-edge/platform/data/",
+            "content": "MSEdgeのウェブサイトでのCSSプロパティの使用率やブラウザのAPIサポート率などのデータ。",
+            "tags": [
+                "MSEdge",
+                "webservice",
+                "統計"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chrome Platform Status",
+                    "url": "https://www.chromestatus.com/features"
+                }
+            ]
         }
     ]
 }
