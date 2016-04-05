@@ -196,6 +196,17 @@
                     "url": "https://www.chromestatus.com/features"
                 }
             ]
+        },
+        {
+            "date": "2016-04-05T00:35:57.854Z",
+            "title": "Grunt 1.0.0 released - Grunt: The JavaScript Task Runner",
+            "url": "http://gruntjs.com/blog/2016-04-04-grunt-1.0.0-released",
+            "content": "Grunt 1.0.0リリース。\nGruntプラグインの`peerDependencies`には`\"grunt\": \">=0.4.0\"`を入れることを推奨してる。",
+            "tags": [
+                "Grunt",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
