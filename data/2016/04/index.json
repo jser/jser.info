@@ -253,6 +253,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-08T14:21:52.402Z",
+            "title": "React v15.0 | React",
+            "url": "https://facebook.github.io/react/blog/2016/04/07/react-v15.html",
+            "content": "React v15.0リリース。\nIE8のサポート終了、semverに準拠してアップデートするように変更。\n0.14で非推奨なメッセージがでてなければ、そのままアップデートして動作する。",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
