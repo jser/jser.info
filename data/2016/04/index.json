@@ -229,6 +229,18 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-08T02:23:43.229Z",
+            "title": "jsdom/Changelog.md at 8.3.0 · tmpvar/jsdom",
+            "url": "https://github.com/tmpvar/jsdom/blob/8.3.0/Changelog.md",
+            "content": "jsdom 8.3.0リリース。\nNode Canvasを使った外部リソースを使った`img`の処理を追加(optional)。\n`img.naturalWidth`などの実データに基づく値を取れるようになった。\nまた、Page Visibility APIの基本的な実装を追加",
+            "tags": [
+                "DOM",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
