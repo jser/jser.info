@@ -241,6 +241,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-08T13:52:45.979Z",
+            "title": "jdonaghue/es-search: Search ECMAScript structurally",
+            "url": "https://github.com/jdonaghue/es-search",
+            "content": "ASTベースでJavaScriptのコードから構造に一致する部分を検索するツール",
+            "tags": [
+                "AST",
+                "検索",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
