@@ -386,6 +386,23 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-11T09:33:08.914Z",
+            "title": "normalize.css/CHANGELOG.md at 4.0.0 · necolas/normalize.css",
+            "url": "https://github.com/necolas/normalize.css/blob/4.0.0/CHANGELOG.md",
+            "content": "normalize.css 4.0.0リリース。",
+            "tags": [
+                "CSS",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Normalize.scss v4 - Weblog - Hail2u.net",
+                    "url": "https://hail2u.net/blog/webdesign/modularized-normalize-scss-v4.0.0.html"
+                }
+            ]
         }
     ]
 }
