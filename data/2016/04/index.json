@@ -338,6 +338,19 @@
                 "E2E"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-11T07:00:56.341Z",
+            "title": "brigand/babel-plugin-flow-react-proptypes: A babel plugin to generate React PropTypes definitions from Flow type declarations.",
+            "url": "https://github.com/brigand/babel-plugin-flow-react-proptypes",
+            "content": "FlowTypeでReactのpropTypesを書くと、JavaScriptのpropTypesに変換してくれるBabelプラグイン",
+            "tags": [
+                "flowtype",
+                "babel",
+                "plugin",
+                "React"
+            ],
+            "relatedLinks": []
         }
     ]
 }
