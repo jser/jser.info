@@ -426,6 +426,19 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-11T09:56:34.323Z",
+            "title": "PlasmaPower/assert-request: Assert responses to HTTP requests in Node.JS",
+            "url": "https://github.com/PlasmaPower/assert-request",
+            "content": "Node.jsでrequestに対してresponseのassertを行うライブラリ",
+            "tags": [
+                "node.js",
+                "testing",
+                "JavaScript",
+                "libn"
+            ],
+            "relatedLinks": []
         }
     ]
 }
