@@ -507,6 +507,17 @@
                 "翻訳"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-14T13:03:59.898Z",
+            "title": "Release v0.23.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.23.0",
+            "content": "Flow v0.23.0リリース。\n`flow init`で`.flowconfig`を作る時のオプション追加やコメントを書けるようになるなど\n",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
