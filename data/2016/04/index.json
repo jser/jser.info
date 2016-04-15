@@ -579,6 +579,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-15T17:05:50.686Z",
+            "title": "Welcoming JSCS To ESLint - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2016/04/welcoming-jscs-to-eslint",
+            "content": "JSCS 3.0.0で新規開発は終了し、3ヶ月を目処にサポートも終了する。\nJSCSチームはESLintに入り、ESLintのAutofixを動かすためにも必要なCSTの開発を行う。\nESLint側はJSCSからの移行/互換のサポートを予定している。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ESLint"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Welcoming JSCS To ESLint - ESLint - Pluggable JavaScript linter",
+                    "url": "http://eslint.org/blog/2016/04/welcoming-jscs-to-eslint"
+                }
+            ]
         }
     ]
 }
