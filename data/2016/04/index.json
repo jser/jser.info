@@ -539,6 +539,17 @@
                 "React"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-15T08:53:28.074Z",
+            "title": "Rich Harris / buble · GitLab",
+            "url": "https://gitlab.com/Rich-Harris/buble",
+            "content": "BabelのようなES2015のコードをES5に変換するツール。\nBabelのような拡張性や仕様への準拠よりも、変換速度を重視した作りになっている",
+            "tags": [
+                "babel",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
