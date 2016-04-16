@@ -619,6 +619,18 @@
             ],
             "date": "2016-04-16T04:03:23.119Z",
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-16T04:06:38.478Z",
+            "title": "power-assert + babel as a development tool | Web Scratch",
+            "url": "http://efcl.info/2016/04/14/espower-babel-is-deprecated/",
+            "content": "power-assert+babel+mochaの構成について。\nデバッグビルド時は情報量の多いassert、プロダクションビルド時はassertを取り除き、JSDocからランタイムassertをしてチェックする話",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
