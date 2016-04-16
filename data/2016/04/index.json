@@ -596,6 +596,17 @@
                     "url": "http://eslint.org/blog/2016/04/welcoming-jscs-to-eslint"
                 }
             ]
+        },
+        {
+            "date": "2016-04-16T03:27:38.089Z",
+            "title": "Immutability is not enough",
+            "url": "https://codewords.recurse.com/issues/six/immutability-is-not-enough",
+            "content": "Immutable.jsを使ったStateの更新について。\n単純にStateをimmutableにして、単純に関数を逐次的に適応すると、前のStateを参照しない問題が起こりえる。\nまた“lost update”の問題について",
+            "tags": [
+                "JavaScript",
+                "設計"
+            ],
+            "relatedLinks": []
         }
     ]
 }
