@@ -607,6 +607,18 @@
                 "設計"
             ],
             "relatedLinks": []
+        },
+        {
+            "title": "Scalable Single-Page Application Architecture – Minko Gechev's blog",
+            "url": "http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/",
+            "content": "AngularJS2 + RxJSでCQRS+EventSourcing的なアプローチ。 DIでの依存解決、レイヤー間の隔離やasync serviceの動きが面白い。",
+            "tags": [
+                "AngularJS",
+                "JavaScript",
+                "設計"
+            ],
+            "date": "2016-04-16T04:03:23.119Z",
+            "relatedLinks": []
         }
     ]
 }
