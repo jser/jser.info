@@ -631,6 +631,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-16T05:14:29.114Z",
+            "title": "How to work with SVG icons",
+            "url": "http://fvsch.com/code/svg-icons/how-to/",
+            "content": "SVGアイコンについての実践的な解説。\nCSSスプライトのようにSVGスプライトを使う方法、インラインSVGと外部SVGを読み込み違いや対応ブラウザ/polyfillについてなど。\nまたCSSからSVGのスタイルを変更する方法やSafariの問題などかなり詳細にまとまっている",
+            "tags": [
+                "SVG",
+                "画像"
+            ],
+            "relatedLinks": []
         }
     ]
 }
