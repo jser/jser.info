@@ -654,6 +654,17 @@
                 "plugin"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-17T03:06:10.694Z",
+            "title": "Release Notes for Safari Technology Preview 2 | WebKit",
+            "url": "https://webkit.org/blog/6098/release-notes-for-safari-technology-preview-release-2/",
+            "content": "Safari Technology Preview 2リリース。\n`String#padStart`/`String#padEnd`/の追加、`for (var i = 20 in b){ }`がエラーとなるように。\nCSS media queryで`color-gamut`の対応、TP1で間違って公開されてたFetch APIをデフォルトでは無効に、Web Inspectorの改善など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
