@@ -729,6 +729,17 @@
                 "ESLint"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-20T03:41:56.090Z",
+            "title": "Release v3.5.0 · reactjs/redux",
+            "url": "https://github.com/reactjs/redux/releases/tag/v3.5.0",
+            "content": "Redux 3.5.0リリース\nES.nextのStage 1 Proposalであるes obvervableに対応。\n`Symbol.observable`を実装を追加",
+            "tags": [
+                "redux",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
