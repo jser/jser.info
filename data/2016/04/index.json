@@ -750,6 +750,17 @@
                 "CSS"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-21T12:51:42.142Z",
+            "title": "VictorBjelkholm/autochecker: Test your JavaScript modules simultaneously in 32 different versions of NodeJS",
+            "url": "https://github.com/VictorBjelkholm/autochecker",
+            "content": "Node.jsの複数のバージョンでテストするツール。 matrix test",
+            "tags": [
+                "node.js",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
