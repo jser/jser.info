@@ -761,6 +761,18 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-21T14:02:32.381Z",
+            "title": "DOM Listener: capture, passive, and once",
+            "url": "https://www.webreflection.co.uk/blog/2016/04/17/new-dom4-standards",
+            "content": "`node.addEventListener(type, handler, EventListenerOptions)` 第三引数に追加された`EventListenerOptions`について。\n`passive`と`capture`の解説",
+            "tags": [
+                "WHATWG",
+                "DOM",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
