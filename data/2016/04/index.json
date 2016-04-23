@@ -835,6 +835,23 @@
                 "issue"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-23T07:03:45.229Z",
+            "title": "staltz/xstream: An extremely intuitive, small, and fast functional reactive stream library for JavaScript",
+            "url": "https://github.com/staltz/xstream",
+            "content": "Hot onlyなRxJSライクなStreamライブラリ。\n",
+            "tags": [
+                "JavaScript",
+                "Rx",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "André Staltz - Why we built xstream",
+                    "url": "http://staltz.com/why-we-built-xstream.html"
+                }
+            ]
         }
     ]
 }
