@@ -869,6 +869,18 @@
                     "url": "https://github.com/rwaldron/tc39-notes/tree/master/es7/2016-03"
                 }
             ]
+        },
+        {
+            "date": "2016-04-25T10:00:13.059Z",
+            "title": "V8 JavaScript Engine: V8 Release 5.1",
+            "url": "http://v8project.blogspot.com/2016/04/v8-release-51.html",
+            "content": "V8 5.1リリース。\n`Symbol.species`、`Symbol.hasInstance`、 Function nameの仕様追従、パフォーマンス/メモリ使用量の改善など",
+            "tags": [
+                "V8",
+                "ECMAScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
