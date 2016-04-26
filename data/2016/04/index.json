@@ -959,6 +959,17 @@
                 "動画 "
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-26T22:53:22.962Z",
+            "title": "Node v6.0.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v6.0.0/",
+            "content": "Node.js 6.0.0(LTS)リリース。\nv8のアップデートを含むため、Native addonは`npm rebuid`での再ビルドが必要。\nBuffer APIが新しくなり、古いAPIは非推奨へ、`worker.suicide`は`worker.exitedAfterDisconnect`に変更、`querystring.parse()`が返すオブジェクトは`Object.prototype`を継承しないようになるなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
