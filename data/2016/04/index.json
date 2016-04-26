@@ -916,6 +916,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-26T04:57:53.945Z",
+            "title": "webpack/memory-fs: A simple in-memory filesystem. Holds data in a javascript object.",
+            "url": "https://github.com/webpack/memory-fs",
+            "content": "memory上で読み書きするfsモジュール",
+            "tags": [
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
