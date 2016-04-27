@@ -980,6 +980,22 @@
                 "CSS "
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-27T00:07:52.435Z",
+            "title": "Scroll-linked effects - Mozilla | MDN",
+            "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Performance/Scroll-linked_effects",
+            "content": "`onscroll`にhookして同期的に位置を変更する処理に対しては警告メッセージが出るようになった。\nその場合の対処法についてのドキュメント",
+            "tags": [
+                "JavaScript",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "スクロール連動位置合わせは非同期スクロールと相性が悪い場合があり、コンソールに警告が表示されます | Firefox サイト互換性情報",
+                    "url": "https://www.fxsitecompat.com/ja/docs/2016/scroll-linked-positioning-effects-may-not-work-well-with-async-scrolling-console-warns/"
+                }
+            ]
         }
     ]
 }
