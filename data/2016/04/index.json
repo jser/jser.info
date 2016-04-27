@@ -1001,6 +1001,22 @@
                     "url": "https://www.fxsitecompat.com/ja/docs/2016/scroll-linked-positioning-effects-may-not-work-well-with-async-scrolling-console-warns/"
                 }
             ]
+        },
+        {
+            "date": "2016-04-27T23:10:11.794Z",
+            "title": "Updating Our Prefixing Policy | WebKit",
+            "url": "https://webkit.org/blog/6131/updating-our-prefixing-policy/",
+            "content": "Safari/WebKitは新しい機能などは今後Vendor prefixではなく、フラグのON/OFFを追加していくようにするポリシーの変更について。\n`-webkit-` prefixがあまりに使われてしまい、後方互換性のためにprefixが標準仕様となってしまった歴史などもあるため\n",
+            "tags": [
+                "webkit",
+                "safari"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Feature Policy | WebKit",
+                    "url": "https://webkit.org/feature-policy/"
+                }
+            ]
         }
     ]
 }
