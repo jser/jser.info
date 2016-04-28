@@ -1028,6 +1028,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-28T02:30:09.174Z",
+            "title": "Announcing Vue.js 2.0 — The Vue Point — Medium",
+            "url": "https://medium.com/the-vue-point/announcing-vue-js-2-0-8af1bde7ab9",
+            "content": "Vue.js 2.0のパブリックプレビュー版リリース。\nSnabbdomベースのVirtua lDOM実装の追加など",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "paldepind/snabbdom: A virtual DOM library with focus on simplicity, modularity, powerful features and performance.",
+                    "url": "https://github.com/paldepind/snabbdom"
+                }
+            ]
         }
     ]
 }
