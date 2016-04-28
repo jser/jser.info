@@ -1017,6 +1017,17 @@
                     "url": "https://webkit.org/feature-policy/"
                 }
             ]
+        },
+        {
+            "date": "2016-04-28T00:55:18.733Z",
+            "title": "Release Notes for Safari Technology Preview 3 | WebKit",
+            "url": "https://webkit.org/blog/6143/release-notes-for-safari-technology-preview-3/",
+            "content": "Safari Technology Preview 3リリース。\n`Symbol.isConcatSpreadable`などのwell-known Symbol実装の追加、\n`:host()`擬似クラス、IndexedDBが`Blob`をサポート、`Crypto`、CSP周りの仕様準拠度の向上など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
