@@ -1077,6 +1077,18 @@
                 "node.js"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-29T13:19:12.510Z",
+            "title": "Galooshi/import-js: A tool to simplify importing JS modules",
+            "url": "https://github.com/Galooshi/import-js",
+            "content": "指定した関数名から、該当するモジュールのimport文を自動的に探索して追加できるツール。\n各種エディタ連携などもある",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "editor"
+            ],
+            "relatedLinks": []
         }
     ]
 }
