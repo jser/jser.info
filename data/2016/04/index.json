@@ -1089,6 +1089,24 @@
                 "editor"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-29T13:40:52.493Z",
+            "title": "flickr/yakbak: Record and playback HTTP responses",
+            "url": "https://github.com/flickr/yakbak",
+            "content": "ProxyとしてHTTPリクエストとレスポンスを記録し、リプレイしたレスポンスを返すことができるNode.jsライブラリ",
+            "tags": [
+                "node.js",
+                "HTTP",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing yakbak: Record and playback HTTP interactions in NodeJS | code.flickr.com",
+                    "url": "http://code.flickr.net/2016/04/25/introducing-yakbak-record-and-playback-http-interactions-in-nodejs/"
+                }
+            ]
         }
     ]
 }
