@@ -1107,6 +1107,18 @@
                     "url": "http://code.flickr.net/2016/04/25/introducing-yakbak-record-and-playback-http-interactions-in-nodejs/"
                 }
             ]
+        },
+        {
+            "date": "2016-04-30T04:24:53.334Z",
+            "title": "Release Fetch 1.0.0 · github/fetch",
+            "url": "https://github.com/github/fetch/releases/tag/v1.0.0",
+            "content": "Fetch APIのpolyfillであるGitHub Fetch 1.0.0リリース。\nIE9のサポートを終了、`timeout`イベントをハンドルするように、`URLSearchParams`のサポートなど",
+            "tags": [
+                "JavaScript",
+                "htto",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
