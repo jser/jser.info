@@ -1131,6 +1131,18 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-30T08:08:04.684Z",
+            "title": "ESLint v2.9.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2016/04/eslint-v2.9.0-released",
+            "content": "ESLint v2.9.0リリース。\nAutofix `--fix` オプションの改善。\n今までは一度のパスで適応できないものは諦めていたが、複数回のパスで修正を適応を試みるようになった。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
