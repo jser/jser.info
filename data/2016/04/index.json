@@ -1119,6 +1119,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-04-30T06:17:13.073Z",
+            "title": "V8 JavaScript Engine: ES6, ES7, and beyond",
+            "url": "http://v8project.blogspot.com/2016/04/es6-es7-and-beyond.html",
+            "content": "V8が既存のウェブとの互換性を持ちつつ次期ECMAScriptの仕様を実装しているかのプロセスについて。\nES6の実装が完了する前にドラフトバージョンを実装することで見つけられる後方互換性の問題がある話。\nまたECMAScriptという複雑な言語仕様のtest suiteであるtest262について。",
+            "tags": [
+                "ECMAScript",
+                "V8",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
