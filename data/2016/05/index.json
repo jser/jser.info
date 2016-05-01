@@ -27,6 +27,22 @@
                     "url": "https://docs.google.com/document/d/1jMuvRYWptZfP5zpvWmPJPRL-iowtgBVX45rSvew0VH4/edit"
                 }
             ]
+        },
+        {
+            "date": "2016-05-01T03:31:18.893Z",
+            "title": "How to Make Your React Apps 15x Faster – ReactJS News",
+            "url": "https://reactjsnews.com/how-to-make-your-react-apps-10x-faster",
+            "content": "Reactはデバッグ向けのコードが大量に入っているため、production(`NODE_ENV=production`)ビルドや機械的に最適化できるBabelプラグインを導入するだけでも速度が大分変わるという話\n",
+            "tags": [
+                "React",
+                "設定"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "thejameskyle/babel-react-optimize: A Babel preset and plugins for optimizing React code.",
+                    "url": "https://github.com/thejameskyle/babel-react-optimize"
+                }
+            ]
         }
     ]
 }
