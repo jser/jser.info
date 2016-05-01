@@ -43,6 +43,27 @@
                     "url": "https://github.com/thejameskyle/babel-react-optimize"
                 }
             ]
+        },
+        {
+            "date": "2016-05-01T04:08:44.699Z",
+            "title": "jeromeetienne/babel-plugin-jsdoced: babel plugin which use jsdoc to implement strong typing in javascript",
+            "url": "https://github.com/jeromeetienne/babel-plugin-jsdoced",
+            "content": "jsdoced.jsを使いJSDocからランタイムassertを追加するBabelプラグイン。\njsdoc-to-assertと似てるが、返り値のチェックやProxy APIを使ってプロパティの代入もチェックしている",
+            "tags": [
+                "babel",
+                "JSDoc",
+                "plugin"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "jsdoced.js - test your code with jsdoc",
+                    "url": "http://jsdocedjs.org/"
+                },
+                {
+                    "title": "JSDocをランタイムassertに変換するBabelプラグインを書いた | Web Scratch",
+                    "url": "http://efcl.info/2016/03/25/jsdoc-to-assert/"
+                }
+            ]
         }
     ]
 }
