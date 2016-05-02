@@ -64,6 +64,19 @@
                     "url": "http://efcl.info/2016/03/25/jsdoc-to-assert/"
                 }
             ]
+        },
+        {
+            "date": "2016-05-02T05:37:32.200Z",
+            "title": "npmで同じライブラリの複数バージョンをインストールして使う方法 | Web Scratch",
+            "url": "http://efcl.info/2016/05/02/npm-package-mixed-multiple-versions-demo/",
+            "content": "一つのプロジェクト内に同名ライブラリの複数バージョンをインストールして扱う方法について",
+            "tags": [
+                "npm",
+                "Tips",
+                "node.js",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
