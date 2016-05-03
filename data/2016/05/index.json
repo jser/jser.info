@@ -88,6 +88,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-03T01:30:25.493Z",
+            "title": "Release v6.8.0 · babel/babel",
+            "url": "https://github.com/babel/babel/releases/tag/v6.8.0",
+            "content": "Babel v6.8.0リリース。\nBabel自体がBabel 6でTranspileするようになり、runtimeが5に依存していた問題が修正された",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
