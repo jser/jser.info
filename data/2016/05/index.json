@@ -121,6 +121,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-04T15:42:22.660Z",
+            "title": "IntersectionObserver’s Coming into View | Web Updates - Google Developers",
+            "url": "https://developers.google.com/web/updates/2016/04/intersectionobserver",
+            "content": "Chrome 51で入るIntersectionObserverについての解説記事。\n要素がviewport内に表示されたら発火するイベントを設定できる。(発火するしきい値も指定できる)\nまた、rootに対する`ClientRect`の情報なども取得でき、lazyloadや無限リストなどの実装に利用できる",
+            "tags": [
+                "WebPlatformAPI",
+                "performance",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
