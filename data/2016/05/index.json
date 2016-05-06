@@ -168,6 +168,17 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-06T05:53:25.299Z",
+            "title": "Node v6.1.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v6.1.0/",
+            "content": "Node v6.1.0リリース。\n`deepEqual()/deepStrictEqual()`が循環参照してるオブジェクトを扱えるように、`process.cpuUsage()`の追加、`util.inspect()`にオプションを追加するなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
