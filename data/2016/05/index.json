@@ -156,6 +156,18 @@
                 "API"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-06T02:25:58.250Z",
+            "title": "twada/universal-deep-strict-equal: A port of Node v6's internal _deepEqual function in a universal style",
+            "url": "https://github.com/twada/universal-deep-strict-equal",
+            "content": "ブラウザでも動作する`deepStrictEqual`の実装ライブラリ",
+            "tags": [
+                "JavaScript",
+                "library",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
