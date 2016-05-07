@@ -179,6 +179,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-07T04:44:51.798Z",
+            "title": "Dev.Opera — What’s new in Chromium 50 and Opera 37",
+            "url": "https://dev.opera.com/blog/opera-37/",
+            "content": "Opera 37 (based on Chromium 50)リリース。\n`//u`、well-known symbols、preload link、`DomTokenList#supports`、非推奨or削除するメソッドの更新など",
+            "tags": [
+                "Opera",
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "DOMTokenList Validation Added in Chrome 50 | Web Updates - Google Developers",
+                    "url": "https://developers.google.com/web/updates/2016/03/domtokenlist-validation-added-in-chrome-50"
+                }
+            ]
         }
     ]
 }
