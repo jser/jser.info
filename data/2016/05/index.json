@@ -211,6 +211,19 @@
                     "url": "https://github.com/tc39/ecmascript_sharedmem"
                 }
             ]
+        },
+        {
+            "date": "2016-05-07T04:56:20.997Z",
+            "title": "jsdom/Changelog.md at 9.0.0 · tmpvar/jsdom",
+            "url": "https://github.com/tmpvar/jsdom/blob/9.0.0/Changelog.md",
+            "content": "jsdom 9.0.0リリース。\nmutation eventsの削除し今後MutationObserverを追加する予定。\n`DOMTokenList#replace`、`DOMTokenList#contains`、XHRの改善など",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "libre",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
