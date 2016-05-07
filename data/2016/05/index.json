@@ -196,6 +196,21 @@
                     "url": "https://developers.google.com/web/updates/2016/03/domtokenlist-validation-added-in-chrome-50"
                 }
             ]
+        },
+        {
+            "date": "2016-05-07T04:48:28.779Z",
+            "title": "A Taste of JavaScript’s New Parallel Primitives ★ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2016/05/a-taste-of-javascripts-new-parallel-primitives/",
+            "content": "SharedArrayBufferについて。\nWebWorkerでのメモリを共有した並列処理について",
+            "tags": [
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "tc39/ecmascript_sharedmem: Shared memory and atomics for ECMAscript",
+                    "url": "https://github.com/tc39/ecmascript_sharedmem"
+                }
+            ]
         }
     ]
 }
