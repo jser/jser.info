@@ -289,6 +289,28 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-08T17:00:58.542Z",
+            "title": "Introducing Global CSS Property Usage on Microsoft Edge Dev | Microsoft Edge Dev Blog",
+            "url": "https://blogs.windows.com/msedgedev/2016/04/11/css-usage-platform-data/",
+            "content": "MSEdgeとChromeでクロールしたCSSプロパティの使用率の統計情報が見れるGlobal CSS Property Usageについて",
+            "tags": [
+                "Chrome",
+                "MSEdge",
+                "browser",
+                "CSS"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "View usage statistics and common patterns for APIs on the web platform.",
+                    "url": "https://developer.microsoft.com/en-us/microsoft-edge/platform/usage/"
+                },
+                {
+                    "title": "MicrosoftEdge/css-usage: This script is used within our Bing and Interop crawlers to determine the properties used on a page and generalized values that could have been used.",
+                    "url": "https://github.com/MicrosoftEdge/css-usage"
+                }
+            ]
         }
     ]
 }
