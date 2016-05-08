@@ -278,6 +278,17 @@
                     "url": "https://github.com/w3c/webcomponents/pull/405"
                 }
             ]
+        },
+        {
+            "date": "2016-05-08T16:56:11.306Z",
+            "title": "edenspiekermann/iframify: Replace a node with an iframe version of itself",
+            "url": "https://github.com/edenspiekermann/iframify",
+            "content": "DOM要素をiframe内に同じものを作って入れ替えるライブラリ",
+            "tags": [
+                "DOM",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
