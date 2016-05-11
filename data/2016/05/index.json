@@ -366,6 +366,18 @@
                     "url": "http://ng2-info.github.io/2016/05/09/angular-2-rc-1/"
                 }
             ]
+        },
+        {
+            "date": "2016-05-11T03:02:21.742Z",
+            "title": "documentationjs/globals-docs: Documentation URIs for JavaScript globals.",
+            "url": "https://github.com/documentationjs/globals-docs",
+            "content": "JavaScriptの型やオブジェクトを渡すと、対応するMDNのドキュメントURLを返してくれるライブラリ",
+            "tags": [
+                "JavaScript",
+                "library",
+                "Mozilla"
+            ],
+            "relatedLinks": []
         }
     ]
 }
