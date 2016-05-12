@@ -399,6 +399,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-12T14:40:35.997Z",
+            "title": "Release Notes for Safari Technology Preview 4 | WebKit",
+            "url": "https://webkit.org/blog/6210/release-notes-for-safari-technology-preview-4/",
+            "content": "Safari Technology Preview 4リリース。\n`String.prototype.localeCompare`の実装、object literarlでも`super()`が呼べるように、`var log = console.log`が可能になるなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
