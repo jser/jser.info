@@ -442,6 +442,18 @@
                 "proposal"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-13T14:32:32.812Z",
+            "title": "About document.ready",
+            "url": "https://www.webreflection.co.uk/blog/2016/05/10/document.ready",
+            "content": "Promiseを返す`document.ready`をどう実装するかという話。\n`document.readyState`とｐ`DOMContentLoaded`について",
+            "tags": [
+                "DOM",
+                "JavaScript",
+                "Promises"
+            ],
+            "relatedLinks": []
         }
     ]
 }
