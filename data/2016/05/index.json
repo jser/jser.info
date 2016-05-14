@@ -466,6 +466,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-14T06:22:15.751Z",
+            "title": "redux-observable — Medium",
+            "url": "https://medium.com/@benlesh/redux-observable-ec0b00d2eb52",
+            "content": "Netflixで使ってる`redux-observable`について。\nなぜ`redux-`なのか? - ReduxはReact周りでよく知られているパターンであり、既に様々Reduxのツールが存在するからであるという話",
+            "tags": [
+                "JavaScript",
+                "redux",
+                "Rx"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "blesh/redux-observable: RxJS middleware for Redux",
+                    "url": "https://github.com/blesh/redux-observable"
+                }
+            ]
         }
     ]
 }
