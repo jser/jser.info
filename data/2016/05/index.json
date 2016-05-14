@@ -495,6 +495,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-14T10:50:54.568Z",
+            "title": "Streamlining the Sign-in Flow Using Credential Management API | Web Updates - Google Developers",
+            "url": "https://developers.google.com/web/updates/2016/04/credential-management-api",
+            "content": "Credential Management APIについて。\n自動サイトインを実装しながら使い方について学ぶチュートリアル",
+            "tags": [
+                "JavaScript",
+                "WebPlatformAPI",
+                "Chrome"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Credential Management API を使ったサインインフローの効率化 | Web Updates - Google Developers",
+                    "url": "https://developers.google.com/web/updates/2016/04/credential-management-api?hl=ja"
+                }
+            ]
         }
     ]
 }
