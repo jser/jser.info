@@ -575,6 +575,18 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-16T10:19:32.735Z",
+            "title": "Bublé – the blazing fast, batteries-included ES2015 compiler",
+            "url": "https://buble.surge.sh/guide/",
+            "content": "BabelのようにES2015のコードをES5に変換するツール。\n設定なしで動作し、サポートしたいブラウザバージョンを指定することで変換内容を選択できる。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "babel"
+            ],
+            "relatedLinks": []
         }
     ]
 }
