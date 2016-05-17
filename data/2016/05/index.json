@@ -642,7 +642,7 @@
             "date": "2016-05-17T23:36:26.511Z",
             "title": "Previewing ES6 Modules and more from ES2015, ES2016 and beyond | Microsoft Edge Dev Blog",
             "url": "https://blogs.windows.com/msedgedev/2016/05/17/es6-modules-and-beyond/",
-            "content": "MSEdge build 14342リリース。\nES6 modulesを扱える`<script type=\"module\">`をフラグ付きでサポート、ES2016の新しい機能である`**`、`Object.values`、`Object.entries`、`String#pad*`を全てサポートなど",
+            "content": "MSEdge build 14342リリース。\nES6 modulesを扱える`<script type=\"module\">`をフラグ付きでサポート、ES2016/2017の新しい機能である`**`、`Object.values`、`Object.entries`、`String#pad*`のサポートなど",
             "tags": [
                 "MSEdge",
                 "ReleaseNote"
