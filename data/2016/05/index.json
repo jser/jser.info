@@ -648,6 +648,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-18T01:21:52.445Z",
+            "title": "Release v6.9.0 · babel/babel",
+            "url": "https://github.com/babel/babel/releases/tag/v6.9.0",
+            "content": "Babel v6.9.0リリース。\ncore-jsのアップデート、`systemGlobal`オプションの追加など",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Releases · zloirock/core-js",
+                    "url": "https://github.com/zloirock/core-js/releases"
+                }
+            ]
         }
     ]
 }
