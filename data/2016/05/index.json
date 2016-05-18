@@ -664,6 +664,17 @@
                     "url": "https://github.com/zloirock/core-js/releases"
                 }
             ]
+        },
+        {
+            "date": "2016-05-18T11:31:33.409Z",
+            "title": "Node v6.2.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v6.2.0/",
+            "content": "Node v6.2.0リリース。\n`--no-deprecation`をランタイムに設定できる `process.noDeprecation = true;` が用意されるなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
