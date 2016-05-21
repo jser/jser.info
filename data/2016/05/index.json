@@ -719,6 +719,26 @@
                 "plugin"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-21T05:57:54.332Z",
+            "title": "Release v15.1.0 · facebook/react",
+            "url": "https://github.com/facebook/react/releases/tag/v15.1.0",
+            "content": "React v15.1.0リリース。\nChromeの`Object.assign`に順序バグがあるため対応するpolyfillをアップデート、react-addons-perfが書き直された。",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Add new ReactPerf by gaearon · Pull Request #6046 · facebook/react",
+                    "url": "https://github.com/facebook/react/pull/6046"
+                },
+                {
+                    "title": "Add feature test against buggy V8 versions by spicyj · Pull Request #32 · sindresorhus/object-assign",
+                    "url": "https://github.com/sindresorhus/object-assign/pull/32"
+                }
+            ]
         }
     ]
 }
