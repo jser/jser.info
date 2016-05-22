@@ -844,6 +844,17 @@
                 "WebComponents"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-22T12:47:02.577Z",
+            "title": "Six nifty ES6 tricks",
+            "url": "http://www.2ality.com/2016/05/six-nifty-es6-tricks.html",
+            "content": "ES6の少しテクニカルな使い方\nデフォルト引数を使った必須引数のチェック、for of + `Object.entries`、サロゲートペア、配列の入れ方、template literal、mixinなどについて",
+            "tags": [
+                "ECMAScript",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
