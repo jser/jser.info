@@ -832,6 +832,18 @@
                 "リファクタリング"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-22T11:01:27.394Z",
+            "title": "How to Make Accessible Web Components — a Brief Guide",
+            "url": "https://www.sitepoint.com/accessible-web-components/",
+            "content": "Custom Elementで作った要素をAccessibleに実装するチュートリアル。\nキーボード対応、WAI-ARIA、ハイコントラストモードでの確認など",
+            "tags": [
+                "accessibility",
+                "HTML",
+                "WebComponents"
+            ],
+            "relatedLinks": []
         }
     ]
 }
