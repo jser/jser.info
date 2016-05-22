@@ -871,6 +871,22 @@
                     "url": "https://events.google.com/io2016/"
                 }
             ]
+        },
+        {
+            "date": "2016-05-22T22:56:33.097Z",
+            "title": "Instant Loading: Building offline-first Progressive Web Apps - Google I/O 2016 - YouTube",
+            "url": "https://www.youtube.com/watch?v=cmGr0RszHc8",
+            "content": "ServiceWorkerを使ったオフラインファーストについての発表。\n電波状態が悪いケースを想定した動作、IndexedDBを使ったデータの保存など",
+            "tags": [
+                "ServiceWorker",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "pazguille/offline-first: Everything you need to know to create offline-first web apps.",
+                    "url": "https://github.com/pazguille/offline-first"
+                }
+            ]
         }
     ]
 }
