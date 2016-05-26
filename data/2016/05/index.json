@@ -914,6 +914,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-26T03:55:11.848Z",
+            "title": "Release Notes for Safari Technology Preview 5 | WebKit",
+            "url": "https://webkit.org/blog/6415/release-notes-for-safari-technology-preview-5/",
+            "content": "Safari Technology Preview 5リリース。\n`NodeList`がiterableに、`window.scroll`が`ScrollToOptions`をサポート、sourceMappingURLが相対パスを扱えない問題を修正など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
