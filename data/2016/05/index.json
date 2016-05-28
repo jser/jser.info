@@ -958,6 +958,22 @@
                     "url": "https://esdiscuss.org/topic/suggestion-object-hasownproperty"
                 }
             ]
+        },
+        {
+            "date": "2016-05-28T12:39:59.085Z",
+            "title": "Implementing a Stepping Debugger in JavaScript",
+            "url": "http://jlongster.com/Implementing-Stepping-Debugger-JavaScript",
+            "content": "JavaScriptをステップ実行できるエディタをどうやって実装するか。\nregeneratorとステートマシーン、コールスタックの実装、ブレークポイントの対応など",
+            "tags": [
+                "JavaScript",
+                "editor"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "jlongster/unwinder: An implementation of continuations in JavaScript",
+                    "url": "https://github.com/jlongster/unwinder"
+                }
+            ]
         }
     ]
 }
