@@ -938,6 +938,26 @@
                 "翻訳"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-28T11:56:43.774Z",
+            "title": "ESLint v2.11.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2016/05/eslint-v2.11.0-released",
+            "content": "ESLint v2.11.0リリース。\nJSCS互換のルールの追加、`obj.hasOwnProperty`の利用に関するルールの追加など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESLint v2.11.0 - Qiita",
+                    "url": "http://qiita.com/mysticatea/items/979bee6cd462f135f217"
+                },
+                {
+                    "title": "Dummy",
+                    "url": "http://example.com/"
+                }
+            ]
         }
     ]
 }
