@@ -1021,6 +1021,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-29T10:49:39.990Z",
+            "title": "IntersectionObserverを使ってlazyload-imageを書き直した - 1000ch.net",
+            "url": "https://1000ch.net/posts/2016/intersection-observer-lazyload.html",
+            "content": "`IntersectionObserver`を使った画像の遅延ロードの実装について。\nfallbackはただの`<img>`として動作する",
+            "tags": [
+                "JavaScript",
+                "WebComponents"
+            ],
+            "relatedLinks": []
         }
     ]
 }
