@@ -974,6 +974,18 @@
                     "url": "https://github.com/jlongster/unwinder"
                 }
             ]
+        },
+        {
+            "date": "2016-05-29T04:56:04.825Z",
+            "title": "npm-scripts でクロスプラットフォームに環境変数を参照するための npm を作成してみた – アカベコマイリ",
+            "url": "http://akabeko.me/blog/2016/05/cross-conf-env-1-0-release/",
+            "content": "`packge.json`の`config` fieldに環境変数を定義して、それをクロスプラットフォームで利用できるようにするツール",
+            "tags": [
+                "npm",
+                "node.js",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
