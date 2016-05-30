@@ -1139,6 +1139,22 @@
                 "翻訳"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-05-30T11:19:33.721Z",
+            "title": "RxJS の代わりに xstream を使う - Qiita",
+            "url": "http://qiita.com/masakielastic/items/f34f5b297abee0e80ddc",
+            "content": "RxライクなStreamライブラリであるxstreamについて",
+            "tags": [
+                "JavaScript",
+                "Rx"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "staltz/xstream: An extremely intuitive, small, and fast functional reactive stream library for JavaScript",
+                    "url": "https://github.com/staltz/xstream"
+                }
+            ]
         }
     ]
 }
