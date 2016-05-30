@@ -1155,6 +1155,17 @@
                     "url": "https://github.com/staltz/xstream"
                 }
             ]
+        },
+        {
+            "date": "2016-05-30T11:51:51.489Z",
+            "title": "Node.jsでのJavaScriptメモリリークを発見するための簡単ガイド | プログラミング | POSTD",
+            "url": "http://postd.cc/simple-guide-to-finding-a-javascript-memory-leak-in-node-js/",
+            "content": "Node.jsでメモリリークの計測方法とヒープダンプを見るコツについて",
+            "tags": [
+                "node.js",
+                "翻訳"
+            ],
+            "relatedLinks": []
         }
     ]
 }
