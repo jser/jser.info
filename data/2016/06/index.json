@@ -49,6 +49,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-04T06:11:44.432Z",
+            "title": "webpackのDLLバンドルを使ってビルドを速くする - Qiita",
+            "url": "http://qiita.com/pirosikick/items/c77db84dbed4c447a6fe",
+            "content": "webpackのビルド速度の改善について。\nvendarライブラリだけ別にビルドし読み込んで使うDLLバンドル、`cacheDirectory`、`externals`との違いについてなど",
+            "tags": [
+                "webpack",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
