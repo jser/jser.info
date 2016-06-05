@@ -121,6 +121,21 @@
                 "動画"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-05T14:47:03.566Z",
+            "title": "Infinite collections with ES6 generators - Advanced Web Machinery",
+            "url": "https://advancedweb.hu/2016/05/31/infinite-collections-with-es6-generators/",
+            "content": "Iteratorを使った無限リストについて",
+            "tags": [
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "sashee/gentoo: Tools for ES6 generators",
+                    "url": "https://github.com/sashee/gentoo"
+                }
+            ]
         }
     ]
 }
