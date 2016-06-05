@@ -83,6 +83,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-05T03:57:07.501Z",
+            "title": "V8 JavaScript Engine: Release 5.2",
+            "url": "http://v8project.blogspot.com/2016/06/release-52.html",
+            "content": "V8 5.2リリース。\n Exponentiation operator `**`のサポート、`Array.isArray`、`in` operator、`Function#bind`のパフォーマンス改善など",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
