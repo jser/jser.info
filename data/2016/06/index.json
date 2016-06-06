@@ -183,6 +183,21 @@
                 "WebComponents"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-06T10:02:41.302Z",
+            "title": "Chromeのヘッドレスブラウザがやってくる。というわけで試してみた。 - Qiita",
+            "url": "http://qiita.com/devneko/items/51f2e114a7e0b3389435",
+            "content": "Chromeのヘッドレスブラウザについて",
+            "tags": [
+                "Chrome"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Issues - chromium - An open-source project to help move the web forward. - Monorail",
+                    "url": "https://bugs.chromium.org/p/chromium/issues/list?q=label:Proj-Headless"
+                }
+            ]
         }
     ]
 }
