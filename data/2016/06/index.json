@@ -215,9 +215,9 @@
             "date": "2016-06-06T10:48:04.631Z",
             "title": "Frend — A collection of accessible, modern front-end components.",
             "url": "http://frend.co/",
-            "content": "AccessibleなReact Component集",
+            "content": "AccessibleなDOM UIを実現するためのJavaScriptライブラリ。CSSフレームワークのように特定のクラスを付けた要素にWAI-ARIAの属性を付加していく。",
             "tags": [
-                "React",
+                "DOM",
                 "library",
                 "accessibility",
                 "WAI-ARIA"
