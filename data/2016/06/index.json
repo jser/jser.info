@@ -228,6 +228,17 @@
                 "WAI-ARIA"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-07T00:22:15.823Z",
+            "title": "GoogleChrome/lighthouse: auditing and performance metrics for Progressive Web Apps",
+            "url": "https://github.com/GoogleChrome/lighthouse",
+            "content": "Service Workerを使ってのオフライン対応の有無、Speed IndexなどのロードパフォーマンスなどProgressive Web Appsに関する計測ツール",
+            "tags": [
+                "performance",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
