@@ -239,6 +239,22 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-07T00:23:57.862Z",
+            "title": "JavaScript Plugin Architectureというプラグイン設計について学ぶ無料の電子書籍を書いた | Web Scratch",
+            "url": "http://efcl.info/2016/06/06/JavaScript-Plugin-Architecture/",
+            "content": "JavaScriptのプラグイン設計のケーススタディ本。\njQuery、ESLint、Connect、gulp、Reduxなどのプラグインの仕組みを実装しながら学ぶ電子書籍",
+            "tags": [
+                "JavaScript",
+                "ebook"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "azu/JavaScript-Plugin-Architecture: JavaScriptプラグインアーキテクチャの本",
+                    "url": "https://github.com/azu/JavaScript-Plugin-Architecture"
+                }
+            ]
         }
     ]
 }
