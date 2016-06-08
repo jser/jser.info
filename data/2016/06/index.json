@@ -284,6 +284,22 @@
                 "debug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-08T12:58:27.255Z",
+            "title": "Firefox 47.0 リリースノート",
+            "url": "https://www.mozilla.jp/firefox/47.0/releasenotes/",
+            "content": "Firefox 47リリース。\nWidevine CDM(DMRなストリーミング)のサポート、Service Worker/Push APIのデバッグ機能の改善、 `about:debugging`の追加、ES2017の` Object.values()`と`Object.entries()`の実装など",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Mozilla To Test Widevine CDM in Firefox Nightly | Future Releases",
+                    "url": "https://blog.mozilla.org/futurereleases/2016/04/08/mozilla-to-test-widevine-cdm-in-firefox-nightly/"
+                }
+            ]
         }
     ]
 }
