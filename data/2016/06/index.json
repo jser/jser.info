@@ -308,6 +308,18 @@
                     "url": "https://www.fxsitecompat.com/ja/versions/47/"
                 }
             ]
+        },
+        {
+            "date": "2016-06-08T13:07:21.318Z",
+            "title": "bfred-it/object-fit-images: Polyfill object-fit and object-position on images on IE9, IE10, IE11, Edge, Safari, ...",
+            "url": "https://github.com/bfred-it/object-fit-images",
+            "content": "object-fitのpolyfill。\nHTMLImageElement#getAttribute/setAttributeの上書きやresizeイベントを監視して補正する",
+            "tags": [
+                "CSS",
+                "polyfill",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
