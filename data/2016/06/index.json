@@ -336,6 +336,18 @@
                     "url": "http://shop.oreilly.com/product/0636920031123.do"
                 }
             ]
+        },
+        {
+            "date": "2016-06-08T16:46:59.370Z",
+            "title": "Dev.Opera — What’s new in Chromium 51 and Opera 38",
+            "url": "https://dev.opera.com/blog/opera-38/",
+            "content": "Opera 38(based on Chromium 51)リリース。\nES6 `Symbol.hasInstance`、`Symbol.species`、関数式の`fn.name`対応、`querySelector`の返り値がiterableに、`KeyboardEvent#key`のサポートなど",
+            "tags": [
+                "Opera",
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
