@@ -348,6 +348,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-09T03:22:37.020Z",
+            "title": "airbnb/hypernova: A service for server-side rendering your JavaScript views",
+            "url": "https://github.com/airbnb/hypernova",
+            "content": "AirbnbのReactサーバサイドレンダリングモジュール。\nRailsとの統合する設定も公開されている",
+            "tags": [
+                "React",
+                "node.js",
+                "rails"
+            ],
+            "relatedLinks": []
         }
     ]
 }
