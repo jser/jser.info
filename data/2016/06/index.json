@@ -365,7 +365,7 @@
             "date": "2016-06-09T23:46:56.611Z",
             "title": "jQuery 3.0 Final Released! | Official jQuery Blog",
             "url": "http://blog.jquery.com/2016/06/09/jquery-3-0-final-released/",
-            "content": "jQuery 3.0リリース。\najaxとeffectを取り除いたslimビルドの公開。\n`jQuery.Deferred`がPromise A/+互換に、- 非推奨イベントの削除、再度`requestAnimationFrame`を利用するように変更など",
+            "content": "jQuery 3.0リリース。\najaxとeffectを取り除いたslimビルドの公開。\n`jQuery.Deferred`がPromise A/+互換に、非推奨イベントの削除、再度`requestAnimationFrame`を利用するように変更など",
             "tags": [
                 "jQuery",
                 "ReleaseNote"
