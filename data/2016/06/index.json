@@ -380,6 +380,26 @@
                     "url": "https://github.com/jquery/jquery-migrate#migrate-older-jquery-code-to-jquery-30"
                 }
             ]
+        },
+        {
+            "date": "2016-06-10T10:18:47.549Z",
+            "title": "Passive Event Listeners によるスクロールの改善 | blog.jxck.io",
+            "url": "https://blog.jxck.io/entries/2016-06-09/passive-event-listeners.html",
+            "content": "`addEventListener(type, handler, options)`の第三引数として追加されてた `passive`オプションについて。\n`passive: true` とした場合の効果、Feature detectの方法についてなど",
+            "tags": [
+                "JavaScript",
+                "performance"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "addEventListener()の第３引数の意味とかをちゃんと理解する為のメモ - 今日もスミマセン。",
+                    "url": "http://d.hatena.ne.jp/snaka72/20100925/1285404467"
+                },
+                {
+                    "title": "Add feature test for passive event listener support · Issue #1894 · Modernizr/Modernizr",
+                    "url": "https://github.com/Modernizr/Modernizr/issues/1894"
+                }
+            ]
         }
     ]
 }
