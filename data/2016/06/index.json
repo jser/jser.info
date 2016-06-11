@@ -439,6 +439,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-11T03:53:59.138Z",
+            "title": "ESLint v2.12.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2016/06/eslint-v2.12.0-released",
+            "content": "ESLint v2.12.0リリース。\nJSCS互換のルールの追加、全てのビルトインルールを読み込む`eslint:all`の追加、パフォーマンスの改善など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "🦄 Utilize glob ignore option for massive perf win 🦄 by samccone · Pull Request #6215 · eslint/eslint",
+                    "url": "https://github.com/eslint/eslint/pull/6215"
+                }
+            ]
         }
     ]
 }
