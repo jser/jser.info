@@ -494,6 +494,26 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-11T12:33:07.633Z",
+            "title": "Chromium Blog: Chrome 52 Beta: CSS containment, simpler performance measurement, streamable responses from service workers, and more options for web push",
+            "url": "http://blog.chromium.org/2016/06/chrome-52-beta-css-containment-simpler.html",
+            "content": "Chrome 52 Betaリリース。\nCSS `contain`プロパティ、`PerformanceObserver`のサポート。\nFetch APIがreferrer policyをサポート。\nmetaタグでの`X-Frame-Option`が無効となるなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "CSS Containment in Chrome 52 | Web Updates - Google Developers",
+                    "url": "https://developers.google.com/web/updates/2016/06/css-containment"
+                },
+                {
+                    "title": "Fetch Referrer Policy Sample",
+                    "url": "https://googlechrome.github.io/samples/fetch-api/fetch-referrer-policy.html"
+                }
+            ]
         }
     ]
 }
