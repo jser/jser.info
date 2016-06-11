@@ -455,6 +455,17 @@
                     "url": "https://github.com/eslint/eslint/pull/6215"
                 }
             ]
+        },
+        {
+            "date": "2016-06-11T04:29:40.947Z",
+            "title": "Release v6.10.0 · babel/babel",
+            "url": "https://github.com/babel/babel/releases/tag/v6.10.0",
+            "content": "Babel 6.10.0リリース。\n`--watch`時に、初回はビルドしない`--skip-initial-build`オプションの追加、バグ修正など",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
