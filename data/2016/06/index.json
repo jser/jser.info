@@ -482,6 +482,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-11T11:46:51.580Z",
+            "title": "Performance Observer - Efficient Access to Performance Data | Web Updates - Google Developers",
+            "url": "https://developers.google.com/web/updates/2016/06/performance-observer",
+            "content": "`PerformanceObserver`についての解説記事。\nTiming APIなどと似ているが、ブラウザがアイドル時に非同期でTiming情報を取る事ができる",
+            "tags": [
+                "JavaScript",
+                "API",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
