@@ -470,6 +470,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-11T11:32:50.998Z",
+            "title": "benjamn/reify: Enable ECMAScript 2015 modules in Node today. No caveats. Full stop.",
+            "url": "https://github.com/benjamn/reify",
+            "content": "ECMAScript moduleをNode.jsに変換/ランタイム変換するツール。",
+            "tags": [
+                "ECMAScript",
+                "node.js",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
