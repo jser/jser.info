@@ -518,6 +518,23 @@
                     "url": "https://triple-underscore.github.io/css-containment-ja.html"
                 }
             ]
+        },
+        {
+            "date": "2016-06-12T04:26:05.042Z",
+            "title": "Practical React with MobX - YouTube",
+            "url": "https://www.youtube.com/watch?v=XGwuM_u7UeQ",
+            "content": "MobXについてのスクリーンキャスト。\nMobXを使ってどのようにStateを管理するのか、どのようなサイクルで状態の変更を描画するのかについて",
+            "tags": [
+                "JavaScript",
+                "動画",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "mobxjs/mobx: Simple, scalable state management.",
+                    "url": "https://github.com/mobxjs/mobx"
+                }
+            ]
         }
     ]
 }
