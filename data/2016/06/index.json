@@ -562,6 +562,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-13T05:19:22.097Z",
+            "title": "web audio lesson",
+            "url": "http://mohayonao.github.io/web-audio-lesson/",
+            "content": "Web Audio APIの基礎から応用までの課題付きチュートリアル。\nコードをその場で実行できるようになっている。",
+            "tags": [
+                "web ",
+                "audio",
+                "tutorial",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "web-audio-lesson : Web Audio API初学者向けのテキストを書きました - 音の鳴るブログ",
+                    "url": "http://mohayonao.hatenablog.com/entry/2016/06/12/154735"
+                }
+            ]
         }
     ]
 }
