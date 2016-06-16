@@ -605,6 +605,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-16T00:33:37.218Z",
+            "title": "The Future of Declaration Files | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2016/06/15/the-future-of-declaration-files/",
+            "content": "npmからTypeScriptの型定義ファイルをインストールして使えるようになるという話。\n\n`npm install --save @types/lodash` のような形で他にツールを必要としない",
+            "tags": [
+                "npm",
+                "TypeScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "TypeScript Types Search",
+                    "url": "http://microsoft.github.io/TypeSearch/"
+                }
+            ]
         }
     ]
 }
