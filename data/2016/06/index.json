@@ -674,6 +674,26 @@
                     "url": "http://qunitjs.com/upgrade-guide-2.x/"
                 }
             ]
+        },
+        {
+            "date": "2016-06-18T04:43:07.512Z",
+            "title": "mgiuca/web-share: Web API proposal for sharing data from a web page",
+            "url": "https://github.com/mgiuca/web-share",
+            "content": "`navigator.share`のAPIについてのドキュメント。 \nAndroidのintents、iOSのUIActivityViewControllerのような共有するためのAPI。\nChromeで実装検討中",
+            "tags": [
+                "WebPlatformAPI",
+                "spec"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Web Share - Chrome Platform Status",
+                    "url": "https://www.chromestatus.com/feature/5668769141620736"
+                },
+                {
+                    "title": "Web Share API for sharing content to arbitrary destination - APIs - WICG",
+                    "url": "https://discourse.wicg.io/t/web-share-api-for-sharing-content-to-arbitrary-destination/1561/4"
+                }
+            ]
         }
     ]
 }
