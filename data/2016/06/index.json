@@ -656,6 +656,24 @@
                 "スライド"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-18T04:36:17.871Z",
+            "title": "Release 2.0.0 · jquery/qunit",
+            "url": "https://github.com/jquery/qunit/releases/tag/2.0.0",
+            "content": "QUnit 2.0.0リリース。\n非推奨のグローバル関数を削除、メソッドのリネームなど破壊的な変更が含まれれる\n\n- `module()`、`test()`はそれぞれ`QUnit.*`以下に移動\n- `start()`、`stop()`の代わりに`assert.async()`\n- `setup`/`teardown`は`beforeEach`/`afterEach`に\n- `QUnit.init`と`QUnit.reset`の削除",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "QUnit 2.x Upgrade Guide | QUnit",
+                    "url": "http://qunitjs.com/upgrade-guide-2.x/"
+                }
+            ]
         }
     ]
 }
