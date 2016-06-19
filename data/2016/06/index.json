@@ -777,6 +777,20 @@
                     "url": "https://github.com/angular-in-action/"
                 }
             ]
+        },
+        {
+            "date": "2016-06-19T16:30:25.627Z",
+            "title": "fed135/Kalm: Node socket wrapper and optimizer",
+            "url": "https://github.com/fed135/Kalm",
+            "content": "WebSocketやWebRTCなど双方向の通信を行うライブラリ。\nNagleアルゴリズムの実装など効率よくパケットを送れるような仕組みを持っている。\nAdapterで利用するプロトコルを変更できるようになっている",
+            "tags": [
+                "WebSocket",
+                "JavaScript",
+                "node.js",
+                "WebRTC",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
