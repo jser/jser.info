@@ -838,6 +838,19 @@
                 "スライド"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-20T13:44:33.762Z",
+            "title": "alexreardon/raf-stub: Accurate and predictable testing of requestAnimationFrame and cancelAnimationFrame",
+            "url": "https://github.com/alexreardon/raf-stub",
+            "content": "`requestAnimationFrame`のstubライブラリ。\nステップごとにframeを進めることができる",
+            "tags": [
+                "JavaScript",
+                "animation",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
