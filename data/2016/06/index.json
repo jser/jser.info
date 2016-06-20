@@ -815,6 +815,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-20T13:04:34.087Z",
+            "title": "af/envalid: Environment variable validation for Node.js",
+            "url": "https://github.com/af/envalid",
+            "content": "Node.jsの`process.env`の値をバリデーションするライブラリ",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
