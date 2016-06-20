@@ -851,6 +851,26 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-20T23:05:52.551Z",
+            "title": "ECMAScript® 2016 Language Specification",
+            "url": "http://www.ecma-international.org/ecma-262/7.0/",
+            "content": "ECMAScript 2016リリース。\n毎年リリース体制になってから初リリース",
+            "tags": [
+                "ECMAScript",
+                "spec"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Standard ECMA-262",
+                    "url": "http://www.ecma-international.org/publications/standards/Ecma-262.htm"
+                },
+                {
+                    "title": "tc39/ecma262: Status, process, and documents for ECMA262",
+                    "url": "https://github.com/tc39/ecma262"
+                }
+            ]
         }
     ]
 }
