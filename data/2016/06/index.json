@@ -875,6 +875,18 @@
                     "url": "http://jser.info/2016/02/01/es2016/"
                 }
             ]
+        },
+        {
+            "date": "2016-06-20T23:09:21.772Z",
+            "title": "ECMAScript® 2016 Internationalization API Specification",
+            "url": "http://www.ecma-international.org/ecma-402/3.0/",
+            "content": "ECMAScript 2016 Internationalization API仕様リリース。\nUnicode 8.0を必要とするようになり、`Intl.getCanonicalLocales()`の追加。\n",
+            "tags": [
+                "ECMAScript",
+                "i18n",
+                "spec"
+            ],
+            "relatedLinks": []
         }
     ]
 }
