@@ -922,6 +922,22 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-23T13:36:07.678Z",
+            "title": "Release Notes for Safari Technology Preview Release 7 | WebKit",
+            "url": "https://webkit.org/blog/6640/release-notes-for-safari-technology-preview-release-7/",
+            "content": "Safari Technology Preview 7リリース。\n`addEventListener`がEventListenerOptionsをサポート、`window.onerror`で`error`オブジェクトを受け取れるように。\nES Proposalの引数内での末尾カンマのサポート、`::placeholder`のprefixが外れるなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "jeffmo/es-trailing-function-commas",
+                    "url": "https://github.com/jeffmo/es-trailing-function-commas"
+                }
+            ]
         }
     ]
 }
