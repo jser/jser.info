@@ -978,6 +978,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-25T04:18:06.104Z",
+            "title": "RxJS(5.x)で行うテストファーストな機能開発 | MMMブログ",
+            "url": "http://blog.mmmcorp.co.jp/blog/2016/06/25/testing-rxjs-5/",
+            "content": "RxJS 5のObservableをマーブル記法というDSLで書いてテストする方法について",
+            "tags": [
+                "Rx",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
