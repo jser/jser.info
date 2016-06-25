@@ -1000,6 +1000,22 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-25T13:08:41.384Z",
+            "title": "Developer Edition 49: Network Request Stack Traces and more ★ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2016/06/developer-edition-49-network-request-stack-traces-and-more/",
+            "content": "Firefox 49の開発者ツールについて。\nネットワークパネルでどこから通信が発生したのかスタックトレースできるように、エラーメッセージからMDNで詳細を見られるように、アクセシビリティの改善など",
+            "tags": [
+                "firefox",
+                "debug"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "David Baron's weblog: Running animations on the compositor thread",
+                    "url": "http://dbaron.org/log/20150916-compositor-animations"
+                }
+            ]
         }
     ]
 }
