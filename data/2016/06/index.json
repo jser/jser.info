@@ -1039,6 +1039,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-26T16:06:55.881Z",
+            "title": "A 𝝺-calculus interpreter",
+            "url": "http://tadeuzagallo.com/blog/writing-a-lambda-calculus-interpreter-in-javascript/",
+            "content": "JavaScriptで小さなλ言語のパーサとインタプリタを実装するチュートリアル。",
+            "tags": [
+                "JavaScript",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
