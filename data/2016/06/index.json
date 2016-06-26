@@ -1005,7 +1005,7 @@
             "date": "2016-06-25T13:08:41.384Z",
             "title": "Developer Edition 49: Network Request Stack Traces and more ★ Mozilla Hacks – the Web developer blog",
             "url": "https://hacks.mozilla.org/2016/06/developer-edition-49-network-request-stack-traces-and-more/",
-            "content": "Firefox 49の開発者ツールについて。\nネットワークパネルでどこから通信が発生したのかスタックトレースできるように、エラーメッセージからMDNで詳細を見られるように、アクセシビリティの改善など",
+            "content": "Firefox 49の開発者ツールについて。\nネットワークパネルでどこから通信が発生したのかスタックトレースできるように、エラーメッセージの詳細をMDNで見られるように、アクセシビリティの改善など",
             "tags": [
                 "firefox",
                 "debug"
@@ -1021,7 +1021,7 @@
             "date": "2016-06-25T14:26:15.955Z",
             "title": "JavaScript error reference - JavaScript | MDN",
             "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors",
-            "content": "JavaScriptのよくあるエラーのリファレンス。\n何が問題で起きてるのか、実際に起きるサンプルコードがまとめられている",
+            "content": "JavaScriptのよくあるエラーメッセージのリファレンス。\n何が問題で起きてるのか、実際に起きるサンプルコードがまとめられている",
             "tags": [
                 "JavaScript",
                 "debug",
