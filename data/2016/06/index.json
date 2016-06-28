@@ -1137,6 +1137,16 @@
                     "url": "https://github.com/tc39/proposals"
                 }
             ]
+        },
+        {
+            "date": "2016-06-28T15:42:48.520Z",
+            "title": "Intersection Observer を用いた要素出現検出の最適化 | blog.jxck.io",
+            "url": "https://blog.jxck.io/entries/2016-06-25/intersection-observer.html",
+            "content": "Intersection Observerの使い方や従来の方法との違いについて。\nスクロール量や要素の表示に応じた処理",
+            "tags": [
+                "DOM"
+            ],
+            "relatedLinks": []
         }
     ]
 }
