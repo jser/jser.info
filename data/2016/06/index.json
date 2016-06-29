@@ -1158,6 +1158,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-29T16:55:45.740Z",
+            "title": "leebyron/iterall: Minimal zero-dependency utilities for using Iterables in all JavaScript environments.",
+            "url": "https://github.com/leebyron/iterall",
+            "content": "ArrayやArray-likeなどをiterableとして扱う`forEach`の処理を書くためのライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
