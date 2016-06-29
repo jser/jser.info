@@ -1147,6 +1147,17 @@
                 "DOM"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-06-29T01:08:51.090Z",
+            "title": "planttheidea/crio: Immutable objects and arrays in a natural way",
+            "url": "https://github.com/planttheidea/crio",
+            "content": "ArrayとObjectのImmutable版を提供するライブラリ。\nMutableとして操作したい場合は、ネイティブのもので操作してラップするか、`.mutable(array => {})`を利用できる。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
