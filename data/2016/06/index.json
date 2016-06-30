@@ -1160,6 +1160,7 @@
             "relatedLinks": []
         },
         {
+<<<<<<< Updated upstream
             "date": "2016-06-29T16:55:45.740Z",
             "title": "leebyron/iterall: Minimal zero-dependency utilities for using Iterables in all JavaScript environments.",
             "url": "https://github.com/leebyron/iterall",
@@ -1182,6 +1183,23 @@
                 "library"
             ],
             "relatedLinks": []
+=======
+            "date": "2016-06-30T05:28:09.258Z",
+            "title": "Release v4.0.0 · d3/d3",
+            "url": "https://github.com/d3/d3/releases/tag/v4.0.0",
+            "content": "D3.js 4.0.0リリース。\n`d3-scale`や`d3-time`のようにそれぞれの機能がモジュールに分割され、npmパッケージとして個別にインストールできる。\n合わせて機能追加や修正が行われている",
+            "tags": [
+                "JavaScript",
+                "SVG",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "d3/CHANGES.md at master · d3/d3",
+                    "url": "https://github.com/d3/d3/blob/master/CHANGES.md"
+                }
+            ]
+>>>>>>> Stashed changes
         }
     ]
 }
