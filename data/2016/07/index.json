@@ -50,6 +50,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-03T09:09:17.357Z",
+            "title": "Release v15.2.0 · facebook/react",
+            "url": "https://github.com/facebook/react/releases/tag/v15.2.0",
+            "content": "React 15.2.0リリース。\nエラーコードが追加されURLから詳細が見られるように、warningメッセージにコンポーネントスタック情報を追加、`React.PropTypes.symbol`の追加など",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
