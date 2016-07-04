@@ -113,6 +113,18 @@
                     "url": "https://github.com/paldepind/snabbdom/"
                 }
             ]
+        },
+        {
+            "date": "2016-07-04T08:41:27.521Z",
+            "title": "gcanti/babel-plugin-tcomb: Babel plugin for static and runtime type checking using Flow and tcomb",
+            "url": "https://github.com/gcanti/babel-plugin-tcomb",
+            "content": "FlowTypeの型をtcombを使いランタイムassertに変換するBabelプラグイン",
+            "tags": [
+                "flowtype",
+                "babel",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
