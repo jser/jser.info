@@ -61,6 +61,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-04T00:08:42.932Z",
+            "title": "How to Upgrade a Node Module The Right Way - Jama Software",
+            "url": "http://www.jamasoftware.com/blog/upgrade-node-module-right-way/",
+            "content": "依存モジュールの非互換性なアップデートをどうやってアップグレードしていくかについて。react-routerを例に紹介してる。\nwebpackのaliasを使ってFeature Flagを作り、フラグ切り替えで新旧の実装を並べて書いていく。\n",
+            "tags": [
+                "JavaScript",
+                "npm",
+                "webpack"
+            ],
+            "relatedLinks": []
         }
     ]
 }
