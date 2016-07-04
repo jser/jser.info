@@ -96,6 +96,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-04T08:37:32.947Z",
+            "title": "Release Cycle Diversity · cyclejs/core",
+            "url": "https://github.com/cyclejs/core/releases/tag/v7.0.0",
+            "content": "Cycle.js 7.0.0リリース。\nRxJS、most.js、xstreamを選んで使えるように、TypeScriptで書き直し、vDOMとしてsnabbdomを使うようになるなど",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "snabbdom",
+                    "url": "https://github.com/paldepind/snabbdom/"
+                }
+            ]
         }
     ]
 }
