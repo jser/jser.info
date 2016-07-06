@@ -177,6 +177,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-06T23:42:51.592Z",
+            "title": "Node v6.3.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v6.3.0/",
+            "content": "Node v6.3.0リリース。\n`buffer.swap64()`の追加、shared libraryとしてNode.jsを使えるようにビルドオプションの追加、`setImmediate()`のパフォーマンス改善など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
