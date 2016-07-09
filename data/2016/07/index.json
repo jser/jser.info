@@ -237,7 +237,12 @@
                 "jQuery",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Bugsnag Blog - A Warning About jQuery 3",
+                    "url": "http://blog.bugsnag.com/a-warning-about-jquery-3"
+                }
+            ]
         },
         {
             "date": "2016-07-08T05:02:26.604Z",
