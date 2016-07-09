@@ -293,6 +293,17 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-09T07:52:04.041Z",
+            "title": "boopathi/babel-minify: Some babel plugins and tools to minify ES6+ code",
+            "url": "https://github.com/boopathi/babel-minify",
+            "content": "Babelでminifyをするプラグインのpreset。\n使ってないコードの削除、インライン化、mangleなどを行う",
+            "tags": [
+                "babel",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
