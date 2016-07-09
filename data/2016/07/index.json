@@ -250,6 +250,26 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-09T04:01:19.846Z",
+            "title": "angular/CHANGELOG.md at 2.0.0-rc.4 · angular/angular",
+            "url": "https://github.com/angular/angular/blob/2.0.0-rc.4/CHANGELOG.md",
+            "content": "Angular 2 RC4リリース。\nテスト周りの構造が大きく変化し、JasmineではなくMochaでもテストを実行できるようになるなど",
+            "tags": [
+                "AngularJS",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Angular 2 RC.4の変更点 | Angular2 Info",
+                    "url": "http://ng2-info.github.io/2016/07/08/angular-2-rc-4/"
+                },
+                {
+                    "title": "Cannot use Mocha to write angular2 tests · Issue #5395 · angular/angular",
+                    "url": "https://github.com/angular/angular/issues/5395"
+                }
+            ]
         }
     ]
 }
