@@ -385,6 +385,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-11T23:01:27.879Z",
+            "title": "Announcing TypeScript 2.0 Beta | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2016/07/11/announcing-typescript-2-0-beta/",
+            "content": "TypeScript 2.0βリリース。\nNon-nullable Type、module定義に`*`などが使えるように。\n`never` typeの追加、tsconfigでglobサポート、built-inの型定義ファイルを`--lib`で指定できるように、`--skipLibCheck`の追加など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "What&#39;s new in TypeScript · Microsoft/TypeScript Wiki",
+                    "url": "https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript#typescript-20"
+                }
+            ]
         }
     ]
 }
