@@ -401,6 +401,24 @@
                     "url": "https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript#typescript-20"
                 }
             ]
+        },
+        {
+            "date": "2016-07-13T12:50:53.063Z",
+            "title": "protractor/CHANGELOG.md at 4.0.0 · angular/protractor",
+            "url": "https://github.com/angular/protractor/blob/4.0.0/CHANGELOG.md",
+            "content": "Protractor 4.0.0リリース。\n`webdriver-manager`が個別のnpmモジュールとしてインストール可能に、TypeScriptの型定義ファイルを追加など",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "webdriver-manager",
+                    "url": "https://www.npmjs.com/package/webdriver-manager"
+                }
+            ]
         }
     ]
 }
