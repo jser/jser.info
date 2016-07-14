@@ -430,6 +430,22 @@
                 "debug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-14T17:02:48.015Z",
+            "title": "async/CHANGELOG.md at v2.0.0 · caolan/async",
+            "url": "https://github.com/caolan/async/blob/v2.0.0/CHANGELOG.md",
+            "content": "async 2.0.0リリース。\nES2015版の`async-es`の提供、`race`などの機能追加。\n破壊的な変更として`waterfall`の挙動変更、`filter`や`reject`などのコールバック関数が受け取る引数を変更など",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Async v2.0.0 リリース - Qiita",
+                    "url": "http://qiita.com/suguru03/items/b73ab97482d5394b8f43"
+                }
+            ]
         }
     ]
 }
