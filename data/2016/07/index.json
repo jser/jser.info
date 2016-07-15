@@ -475,6 +475,19 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-15T05:15:02.060Z",
+            "title": "ianstormtaylor/slate: A completely customizable framework for building rich text editors in the browser.",
+            "url": "https://github.com/ianstormtaylor/slate",
+            "content": "リッチエディタを実装できるReact Component。\nロジックはプラグインとして実装できるためカスタマイズしやすい作り。",
+            "tags": [
+                "JavaScript",
+                "React",
+                "library",
+                "editor"
+            ],
+            "relatedLinks": []
         }
     ]
 }
