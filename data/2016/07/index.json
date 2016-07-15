@@ -488,6 +488,17 @@
                 "editor"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-15T06:43:54.314Z",
+            "title": "carteb/carte-blanche: An isolated development space with integrated fuzz testing for your components. See them individually, explore them in different states and quickly and confidently develop them.",
+            "url": "https://github.com/carteb/carte-blanche",
+            "content": "React Componentのチェックができるツール。\nランダム/任意のデータを入れて描画結果がどうなるかを確認できる。\nスタイルガイド的なツール",
+            "tags": [
+                "React",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
