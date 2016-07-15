@@ -450,6 +450,19 @@
                     "url": "http://qiita.com/suguru03/items/b73ab97482d5394b8f43"
                 }
             ]
+        },
+        {
+            "date": "2016-07-15T03:36:22.115Z",
+            "title": "Release Zepto.js 1.2.0 · madrobby/zepto",
+            "url": "https://github.com/madrobby/zepto/releases/tag/v1.2.0",
+            "content": "Zepto.js 1.2.0リリース。\n`__proto__`をコードベースから削除、`$.noop`や`$.isNumeric()`の追加ｎado",
+            "tags": [
+                "JavaScript",
+                "jQuery",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
