@@ -499,6 +499,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-16T05:39:23.690Z",
+            "title": "Node.js における Promise を使った例外処理 - from scratch",
+            "url": "http://yosuke-furukawa.hatenablog.com/entry/2016/07/12/103734",
+            "content": "Node.jsのuncaughtExceptionとPromiseを使った場合のunhandledRejectionについて。\nそれぞれの違いや動作について",
+            "tags": [
+                "node.js",
+                "Promises"
+            ],
+            "relatedLinks": []
         }
     ]
 }
