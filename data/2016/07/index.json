@@ -510,6 +510,22 @@
                 "Promises"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-17T02:25:18.230Z",
+            "title": "ESLint v3.1.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2016/07/eslint-v3.1.0-released",
+            "content": "ESLint 3.1.0リリース。\nルールがエラーの開始位置のみしかレポートできなかったのが、範囲指定してエラーレポートできるようになるなど",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESLint v3.1.0 - Qiita",
+                    "url": "http://qiita.com/mysticatea/items/723a467a4eb47e4913e2"
+                }
+            ]
         }
     ]
 }
