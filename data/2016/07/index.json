@@ -590,6 +590,18 @@
                     "url": "https://github.com/dequelabs/axe-core"
                 }
             ]
+        },
+        {
+            "date": "2016-07-18T13:34:06.054Z",
+            "title": "zingchart/zingtouch: A JavaScript touch gesture detection library for the modern web",
+            "url": "https://github.com/zingchart/zingtouch",
+            "content": "TouchとGestureの管理ライブラリ。\n`ZingTouch.Region(element)`で領域を作成し、その領域に対してイベントを設定できる",
+            "tags": [
+                "JavaScript",
+                "mobile",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
