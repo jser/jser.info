@@ -602,6 +602,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-18T15:12:40.129Z",
+            "title": "Redux Middleware Wars (Japanese) // Speaker Deck",
+            "url": "https://speakerdeck.com/shuhei/redux-middleware-wars-japanese",
+            "content": "Reduxで非同期処理を扱うMiddlewareについてのスライド。\nredux-thunk、redux-promise、redux-saga、redux-loop、redux-observableの比較",
+            "tags": [
+                "redux",
+                "スライド"
+            ],
+            "relatedLinks": []
         }
     ]
 }
