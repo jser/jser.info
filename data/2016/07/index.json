@@ -562,6 +562,16 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-18T12:15:33.335Z",
+            "title": "What’s inside jQuery 3.0 | jQuery 3.0 new features",
+            "url": "https://codebrahma.com/whats-new-jquery-3-0/",
+            "content": "jQuery 3の細かな変更について。\nstrict mode、for of、`requestAnimationFrame()`、エスケープの仕組み、jqXHR、`.show()`/`hide()`の改善、`.width()`/`.height()`が整数値ではなくなるなど",
+            "tags": [
+                "jQuery"
+            ],
+            "relatedLinks": []
         }
     ]
 }
