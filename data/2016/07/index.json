@@ -572,6 +572,24 @@
                 "jQuery"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-18T13:26:27.326Z",
+            "title": "Deque Launches aXe 2.0",
+            "url": "http://www.deque.com/blog/introducing-axe-2-0/",
+            "content": "ウェブサイトのAccessibilityテストエンジンであるaXe 2.0リリース",
+            "tags": [
+                "accessibility",
+                "testing",
+                "browser",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "dequelabs/axe-core: Accessibility engine for automated Web UI testing",
+                    "url": "https://github.com/dequelabs/axe-core"
+                }
+            ]
         }
     ]
 }
