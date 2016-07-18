@@ -550,6 +550,18 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-18T12:13:51.481Z",
+            "title": "ECMAScript Version Detector",
+            "url": "https://azu.github.io/ecmascript-version-detector/",
+            "content": "JavaScriptのコードを入力すると、そのコードの構文のECMAScript versionを出してくれるツールとライブラリ。\n書いてるコードがProposal段階なのかを判定できる",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
