@@ -633,6 +633,22 @@
                 "React"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-19T10:12:02.490Z",
+            "title": "V8 JavaScript Engine: V8 Release 5.3",
+            "url": "http://v8project.blogspot.com/2016/07/v8-release-53.html",
+            "content": "V8 5.3リリース。\nIgnition Interpreterの追加、Promiseのパフォーマンス改善、V8 APIの変更など",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Ignition: An Interpreter for V8 [BlinkOn] - Google スライド",
+                    "url": "https://docs.google.com/presentation/d/1OqjVqRhtwlKeKfvMdX6HaCIu9wpZsrzqpIVIwQSuiXQ/edit#slide=id.ge4ef702cb_2_20"
+                }
+            ]
         }
     ]
 }
