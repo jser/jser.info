@@ -623,6 +623,16 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-19T00:38:29.938Z",
+            "title": "Mixins Considered Harmful | React",
+            "url": "https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html",
+            "content": "ReactのMixinでやっていることは、higher-order componentsやutilを使うなど別の方法で解決できるという話",
+            "tags": [
+                "React"
+            ],
+            "relatedLinks": []
         }
     ]
 }
