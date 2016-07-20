@@ -635,6 +635,7 @@
             "relatedLinks": []
         },
         {
+<<<<<<< Updated upstream
             "date": "2016-07-19T10:12:02.490Z",
             "title": "V8 JavaScript Engine: V8 Release 5.3",
             "url": "http://v8project.blogspot.com/2016/07/v8-release-53.html",
@@ -659,6 +660,16 @@
                 "JavaScript",
                 "画像",
                 "library"
+=======
+            "date": "2016-07-20T06:33:56.254Z",
+            "title": "Tackling State — angular2",
+            "url": "http://victorsavkin.com/post/147646548801/managing-state-in-angular-2-applications",
+            "content": "AngularJS 2とRxJSでのstate管理について。\n\nImmutable State、ActionによってStateは変更される。\nApplicationはObservableを受け取りObservableを返す、ApplicationとViewは分離される。\nこれらのコンセプトをどのように実現するかについてかかれている。",
+            "tags": [
+                "redux",
+                "JavaScript",
+                "AngularJS"
+>>>>>>> Stashed changes
             ],
             "relatedLinks": []
         }
