@@ -635,8 +635,7 @@
             "relatedLinks": []
         },
         {
-<<<<<<< Updated upstream
-            "date": "2016-07-19T10:12:02.490Z",
+          "date": "2016-07-19T23:10:47.482Z",
             "title": "V8 JavaScript Engine: V8 Release 5.3",
             "url": "http://v8project.blogspot.com/2016/07/v8-release-53.html",
             "content": "V8 5.3リリース。\nIgnition Interpreterの追加、Promiseのパフォーマンス改善、V8 APIの変更など",
@@ -660,7 +659,9 @@
                 "JavaScript",
                 "画像",
                 "library"
-=======
+            ],
+            "relatedLinks": []
+        },{
             "date": "2016-07-20T06:33:56.254Z",
             "title": "Tackling State — angular2",
             "url": "http://victorsavkin.com/post/147646548801/managing-state-in-angular-2-applications",
@@ -669,7 +670,6 @@
                 "redux",
                 "JavaScript",
                 "AngularJS"
->>>>>>> Stashed changes
             ],
             "relatedLinks": []
         },
