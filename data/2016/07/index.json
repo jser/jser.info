@@ -703,6 +703,16 @@
                 "accessibility"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-21T13:34:23.284Z",
+            "title": "React.js in patterns",
+            "url": "http://krasimirtsonev.com/blog/article/react-js-in-design-patterns",
+            "content": "React Componentのパターン。\nコンポーネントの入れ子や`this.props.children`、propsのやり取り、コンポーネント間のstate管理、DIについてなど",
+            "tags": [
+                "React"
+            ],
+            "relatedLinks": []
         }
     ]
 }
