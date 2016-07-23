@@ -770,6 +770,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-23T17:48:50.820Z",
+            "title": "Create Apps with No Configuration | React",
+            "url": "https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html",
+            "content": "設定なしでReactアプリを書き始められるツール。\n`npm start`でサーバを立てて、`npm run build`でビルドできる。\n`npm run eject`でロックインから外れる事ができる。",
+            "tags": [
+                "React",
+                "Tools",
+                "console"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "facebookincubator/create-react-app: Create React apps with no build configuration.",
+                    "url": "https://github.com/facebookincubator/create-react-app"
+                }
+            ]
         }
     ]
 }
