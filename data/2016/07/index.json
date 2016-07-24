@@ -799,6 +799,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-24T14:40:23.423Z",
+            "title": "6 compelling use cases for ES6 proxies",
+            "url": "http://devbryce.com/use-cases-for-es6-proxies/",
+            "content": "Proxy APIのユースケースについて。\nバリデーション、private、ログ、変更禁止、`Proxy.revocable`について",
+            "tags": [
+                "proxy",
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
