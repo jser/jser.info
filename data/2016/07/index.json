@@ -871,6 +871,18 @@
                 "debug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-26T02:22:28.356Z",
+            "title": "Ember.js - Ember.js 2.7 and 2.8 Beta Released",
+            "url": "http://emberjs.com/blog/2016/07/25/ember-2-7-and-2-8-beta-released.html",
+            "content": "Ember.js 2.7と2.8 Betaリリース。\nEmber 2.8では`Ember.Engine`、`Array#includes`のpolyfill、`Ember.String.isHTMLSafe`などが追加される",
+            "tags": [
+                "JavaScript",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
