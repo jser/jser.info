@@ -918,6 +918,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-28T00:44:07.901Z",
+            "title": "rkendall/reffix: The Reference Fixer for analyzing and fixing broken path references in files.",
+            "url": "https://github.com/rkendall/reffix",
+            "content": "JavaScriptのrequireやimportのパス、HTMLのimgやscriptのパスのチェックと修正ができるツール",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
