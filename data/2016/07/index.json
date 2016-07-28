@@ -954,6 +954,18 @@
                 "スライド"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-28T13:58:47.949Z",
+            "title": "CSS: will-change指定時の挙動, パフォーマンスへの影響と考察 - Qiita",
+            "url": "http://qiita.com/damele0n/items/71352757d0e6fdf5b184",
+            "content": "CSSの`will-change`の効果の検証とブラウザの実装(ソースコード)について。\n指定した値毎の挙動についてなど",
+            "tags": [
+                "CSS",
+                "browser",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
