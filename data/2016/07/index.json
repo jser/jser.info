@@ -1042,6 +1042,24 @@
                     "url": "https://en.wikipedia.org/wiki/Systems_music"
                 }
             ]
+        },
+        {
+            "date": "2016-07-30T23:37:28.391Z",
+            "title": "CodeceptJS",
+            "url": "http://codecept.io/",
+            "content": "PHPのCodeceptionインスパイアなJavaScriptテストフレームワーク。\nシナリオテストのハイレベルAPIで、Protractorなど他のtest runnerの中でも動かせる。",
+            "tags": [
+                "php",
+                "JavaScript",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Codeception",
+                    "url": "http://codeception.com/"
+                }
+            ]
         }
     ]
 }
