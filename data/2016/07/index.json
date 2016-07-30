@@ -1000,6 +1000,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-30T08:26:14.165Z",
+            "title": "ESLint v3.2.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2016/07/eslint-v3.2.0-released",
+            "content": "ESLint v3.2.0リリース。\n`no-tab`ルールの追加など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESLint v3.2.0 - Qiita",
+                    "url": "http://qiita.com/mysticatea/items/706f4bb024d7ceb78f1d"
+                }
+            ]
         }
     ]
 }
