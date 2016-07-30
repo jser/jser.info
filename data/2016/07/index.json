@@ -989,6 +989,17 @@
                 "proposal"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-07-30T04:36:59.031Z",
+            "title": "Release v15.3.0 · facebook/react",
+            "url": "https://github.com/facebook/react/releases/tag/v15.3.0",
+            "content": "React 15.3.0リリース。\n`React.PureComponent`の追加、propTypesのバリデーション改善、テスト向けの`react-test-renderer`を公開など",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
