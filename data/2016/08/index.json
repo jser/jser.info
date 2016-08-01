@@ -15,6 +15,19 @@
                     "url": "https://github.com/WebReflection/sob"
                 }
             ]
+        },
+        {
+            "date": "2016-08-01T07:34:20.932Z",
+            "title": "mocha/CHANGELOG.md at master · mochajs/mocha",
+            "url": "https://github.com/mochajs/mocha/blob/master/CHANGELOG.md",
+            "content": "Mocha 3.0.0リリース。\n非同期テスト時に`done()`の実装とPromiseを返すとエラーになる、`--grep`で正規表現リテラル的な文字列が指定可能に、`describe.only`の動作を改善など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
