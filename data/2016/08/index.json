@@ -92,6 +92,23 @@
                     "url": "https://leanpub.com/understandinges6"
                 }
             ]
+        },
+        {
+            "date": "2016-08-02T22:59:10.128Z",
+            "title": "How to stub promises using Sinon.JS – Temple Coding",
+            "url": "https://templecoding.com/blog/2016/02/29/how-to-stub-promises-using-sinonjs/",
+            "content": "PromiseのstubをするSinon.jsの拡張ライブラリ",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "Promises"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "substantial/sinon-stub-promise: Synchronous Promise stubbing for Sinon.JS",
+                    "url": "https://github.com/substantial/sinon-stub-promise"
+                }
+            ]
         }
     ]
 }
