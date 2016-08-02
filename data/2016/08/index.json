@@ -75,6 +75,23 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-02T12:35:46.145Z",
+            "title": "Understanding ECMAScript 6 - O'Reilly Media",
+            "url": "http://shop.oreilly.com/product/9781593277574.do",
+            "content": "ES6について解説している書籍。\nUnderstanding ECMAScript 6 の書籍版",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "book"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Understanding… by Nicholas C. Zakas [Leanpub PDF/iPad/Kindle]",
+                    "url": "https://leanpub.com/understandinges6"
+                }
+            ]
         }
     ]
 }
