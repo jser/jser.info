@@ -24,9 +24,7 @@ if [ -z "${isClean}" ]; then
   git push
 else
   # Uncommitted changes
-  git stash
   git pull
-  git stash pop
   if [ -n "${commitMessage}" ]; then
     git add .
     git commit -m "${commitMessage}"
