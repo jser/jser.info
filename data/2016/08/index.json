@@ -121,6 +121,46 @@
                 "npm"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-03T03:52:27.885Z",
+            "title": "Firefox — Notes (48.0) — Mozilla",
+            "url": "https://www.mozilla.org/en-US/firefox/48.0/releasenotes/",
+            "content": "Firefox 48.0リリース。\nWebWorkerでWeb Crypto APIが動くように、CSS `calc()`の入れ子をサポート。\n`Element.animate()`がデフォルトで有効に、`insertAdjacentText()`の実装など",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 48 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/ja/Firefox/Releases/48"
+                },
+                {
+                    "title": "Firefox 48 サイト互換性情報 | Firefox サイト互換性情報",
+                    "url": "https://www.fxsitecompat.com/ja/versions/48/"
+                }
+            ]
+        },
+        {
+            "date": "2016-08-03T03:52:28.211Z",
+            "title": "Firefox — Notes (48.0) — Mozilla",
+            "url": "https://www.mozilla.org/en-US/firefox/48.0/releasenotes/",
+            "content": "Firefox 48.0リリース。\nWebWorkerでWeb Crypto APIが動くように、CSS `calc()`の入れ子をサポート。\n`Element.animate()`がデフォルトで有効に、`insertAdjacentText()`の実装など",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 48 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/ja/Firefox/Releases/48"
+                },
+                {
+                    "title": "Firefox 48 サイト互換性情報 | Firefox サイト互換性情報",
+                    "url": "https://www.fxsitecompat.com/ja/versions/48/"
+                }
+            ]
         }
     ]
 }
