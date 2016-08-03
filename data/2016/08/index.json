@@ -109,6 +109,18 @@
                     "url": "https://github.com/substantial/sinon-stub-promise"
                 }
             ]
+        },
+        {
+            "date": "2016-08-03T00:10:02.318Z",
+            "title": "package.json の browser field 実践編 - Qiita",
+            "url": "http://qiita.com/shinout/items/911e024368e2cb29fd3d",
+            "content": "package.jsonの\"browser\" fieldの解釈の違いについて。\nBrowserify、webpack、React Native Packagerの比較",
+            "tags": [
+                "browserify",
+                "webpack",
+                "npm"
+            ],
+            "relatedLinks": []
         }
     ]
 }
