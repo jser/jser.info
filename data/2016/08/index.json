@@ -206,6 +206,19 @@
                 "MSEdge"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-06T11:51:38.807Z",
+            "title": "jvilk/BrowserFS: BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.",
+            "url": "https://github.com/jvilk/BrowserFS",
+            "content": "ブラウザ上でfs的なファイルシステムのエミュレートを行うライブラリ。\nmemory、localStorage、Dropboxなど色々なバックエンドを持っている",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "library",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
