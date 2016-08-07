@@ -219,6 +219,17 @@
                 "node.js"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-07T13:03:05.729Z",
+            "title": "From Mixins to Object Composition",
+            "url": "http://raganwald.com/2016/07/20/prefer-composition-to-inheritance.html",
+            "content": "mixinではなく、objectのcompositionで機能拡張をする方法について",
+            "tags": [
+                "JavaScript",
+                "設計"
+            ],
+            "relatedLinks": []
         }
     ]
 }
