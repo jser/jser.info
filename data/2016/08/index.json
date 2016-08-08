@@ -241,6 +241,22 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-08T10:48:09.423Z",
+            "title": "Flow: Mapping an object — Medium",
+            "url": "https://medium.com/@thejameskyle/flow-mapping-an-object-373d64c44592",
+            "content": "map-objというライブラリを例に、FlowTypeでどのように型定義をしていくかというチュートリアル",
+            "tags": [
+                "flowtype",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "sindresorhus/map-obj: Map object keys and values into a new object",
+                    "url": "https://github.com/sindresorhus/map-obj"
+                }
+            ]
         }
     ]
 }
