@@ -257,6 +257,23 @@
                     "url": "https://github.com/sindresorhus/map-obj"
                 }
             ]
+        },
+        {
+            "date": "2016-08-08T10:55:18.483Z",
+            "title": "Is Houdini Ready Yet?",
+            "url": "https://ishoudinireadyyet.com/",
+            "content": "CSS Houdiniのそれぞれの仕様とブラウザの実装状況についてまとめられたサイト",
+            "tags": [
+                "CSS",
+                "browser",
+                "まとめ"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "w3c/css-houdini-drafts: Mirror of https://hg.css-houdini.org/drafts",
+                    "url": "https://github.com/w3c/css-houdini-drafts"
+                }
+            ]
         }
     ]
 }
