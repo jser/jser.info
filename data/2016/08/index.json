@@ -334,6 +334,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-11T16:17:13.288Z",
+            "title": "zalando/tailor: A streaming layout service for front-end microservices",
+            "url": "https://github.com/zalando/tailor",
+            "content": "layout service libray for front-end",
+            "tags": [
+                "node.js",
+                "HTML"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Better streaming layouts for front-end microservices with Tailor - O&#39;Reilly Media",
+                    "url": "https://www.oreilly.com/ideas/better-streaming-layouts-for-frontend-microservices-with-tailor"
+                }
+            ]
         }
     ]
 }
