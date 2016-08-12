@@ -429,6 +429,24 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-12T03:55:04.703Z",
+            "title": "Offline Google Analytics Made Easy | Web Updates - Google Developers",
+            "url": "https://developers.google.com/web/updates/2016/07/offline-google-analytics",
+            "content": "Service Workerを使ったGoogle Analyticsのオフライン対応について",
+            "tags": [
+                "JavaScript",
+                "google",
+                "アクセス解析",
+                "ServiceWorker"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "GoogleChrome/sw-helpers: Service Worker helper libraries",
+                    "url": "https://github.com/googlechrome/sw-helpers"
+                }
+            ]
         }
     ]
 }
