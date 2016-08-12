@@ -447,6 +447,17 @@
                     "url": "https://github.com/googlechrome/sw-helpers"
                 }
             ]
+        },
+        {
+            "date": "2016-08-12T04:03:21.112Z",
+            "title": "Developer Edition 50: Console, Memory Tool, Net Monitor and more ★ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2016/08/developer-edition-50-console-memory-tool-net-monitor-and-more/",
+            "content": "Firefox 50の開発者ツールについて。\nコンソールにSource Mapを適応した行数の表示、HTTPログのコールスタックに対応、メモリツールがデフォルトで有効に、WebAssemblyのシンタックスハイライトに対応など",
+            "tags": [
+                "firefox",
+                "debug"
+            ],
+            "relatedLinks": []
         }
     ]
 }
