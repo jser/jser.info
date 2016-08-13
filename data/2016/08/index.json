@@ -508,6 +508,23 @@
                     "url": "https://github.com/FrontendMasters/react-enlightenment"
                 }
             ]
+        },
+        {
+            "date": "2016-08-13T04:10:37.069Z",
+            "title": "The State of Vue — The Vue Point — Medium",
+            "url": "https://medium.com/the-vue-point/the-state-of-vue-1655e10a340a",
+            "content": "Vue.js 2.0.0 RC1リリース。\nAPIはフリーズされたため、正式リリースまでにAPIはもう変更しないとのこと",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v2.0.0-rc.1 · vuejs/vue",
+                    "url": "https://github.com/vuejs/vue/releases/tag/v2.0.0-rc.1"
+                }
+            ]
         }
     ]
 }
