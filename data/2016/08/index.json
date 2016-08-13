@@ -491,6 +491,23 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-13T04:04:07.322Z",
+            "title": "Introduction · React Enlightenment [DRAFT]",
+            "url": "http://www.reactenlightenment.com/",
+            "content": "Reactについての電子書籍\n開眼JavaScriptのシリーズ。",
+            "tags": [
+                "React",
+                "JavaScript",
+                "book"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "FrontendMasters/react-enlightenment: A thoughtful and complete introduction to React.",
+                    "url": "https://github.com/FrontendMasters/react-enlightenment"
+                }
+            ]
         }
     ]
 }
