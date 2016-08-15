@@ -594,6 +594,18 @@
                     "url": "https://github.com/philipwalton/flexbugs"
                 }
             ]
+        },
+        {
+            "date": "2016-08-15T01:01:29.016Z",
+            "title": "Caching Doesn't Improve Mobile Web Performance (Much) | USENIX",
+            "url": "https://www.usenix.org/node/196205",
+            "content": "モバイルではキャッシュによるページロード時間の改善効果が小さいというPaper。\n元々のロード時間がnetwork delay + computational delayである場合に、モバイルではCPUの性能によりcomputational delayの占める割合が多くなるため。",
+            "tags": [
+                "mobile",
+                "performance",
+                "論文"
+            ],
+            "relatedLinks": []
         }
     ]
 }
