@@ -606,6 +606,17 @@
                 "論文"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-16T01:54:01.090Z",
+            "title": "performance.markでパフォーマンス計測する | Web Scratch",
+            "url": "http://efcl.info/2016/08/15/performance.mark/",
+            "content": "`performance.mark`などのAPIを使ってある区間の処理時間を計測する方法や、パフォーマンスロガーの作り方などについて",
+            "tags": [
+                "JavaScript",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
