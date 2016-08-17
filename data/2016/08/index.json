@@ -628,6 +628,16 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-17T23:21:11.917Z",
+            "title": "siddharthkp/auto-install: Install dependencies as you code",
+            "url": "https://github.com/siddharthkp/auto-install",
+            "content": "コードの変更を監視して自動的に`npm install`してくれるツール",
+            "tags": [
+                "npm"
+            ],
+            "relatedLinks": []
         }
     ]
 }
