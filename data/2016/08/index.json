@@ -650,6 +650,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-18T11:43:22.719Z",
+            "title": "waud/waud: Web Audio Library",
+            "url": "https://github.com/waud/waud",
+            "content": "Web Audio APIを使った音を再生するライブラリ。\nAudio Spriteやbase64、iOSなどの再生にインタラクションが必要な物への対応など",
+            "tags": [
+                "web ",
+                "audio",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
