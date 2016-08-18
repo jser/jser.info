@@ -638,6 +638,18 @@
                 "npm"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-18T00:26:51.979Z",
+            "title": "Release Notes for Safari Technology Preview Release 11 | WebKit",
+            "url": "https://webkit.org/blog/6883/release-notes-for-safari-technology-preview-release-11/",
+            "content": "Safari Technology Preview Release 11リリース。\n`class extends null`の挙動をES2016準拠に、`DOMTokenList.replace()`のサポートなど",
+            "tags": [
+                "safari",
+                "webkit",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
