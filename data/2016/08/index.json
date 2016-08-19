@@ -673,6 +673,23 @@
                 "VR"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-19T16:00:38.671Z",
+            "title": "CSS for Software Engineers for CSS Developers // Speaker Deck",
+            "url": "https://speakerdeck.com/csswizardry/css-for-software-engineers-for-css-developers",
+            "content": "CSSにおけるSOLIDの原則のような開発指針についてのスライド。\nDRY、単一責任の原則、関心の分離、Immutability、Open/Closed、直交性など",
+            "tags": [
+                "CSS",
+                "設計",
+                "thought"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Harry Roberts | CSS for Software Engineers for CSS Developers | CSS Day 2016 on Vimeo",
+                    "url": "https://vimeo.com/177216958"
+                }
+            ]
         }
     ]
 }
