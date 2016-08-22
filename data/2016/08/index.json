@@ -814,6 +814,16 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-22T09:48:30.923Z",
+            "title": "Writing a JavaScript Framework - Execution timing, beyond setTimeout | @RisingStack",
+            "url": "http://blog.risingstack.com/writing-a-javascript-framework-execution-timing-beyond-settimeout/",
+            "content": "JavaScriptの非同期実行に関する記事。\nECMAScript、HTML、Node.jsそれぞれのjob queueの仕組みについて。\nそれらを使ってどのようにレンダリングのイベントループを実装するかについて",
+            "tags": [
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
