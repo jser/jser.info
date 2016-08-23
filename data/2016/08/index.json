@@ -840,6 +840,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-23T00:35:03.822Z",
+            "title": "The cost of small modules | Read the Tea Leaves",
+            "url": "https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/",
+            "content": "Browserifyやwebpack、rollupなどのモジュール数とロード時間の相関関係について。 browserifyはrequireをエミュレート、rollupなどはインライン化するなどの特徴が現れてる",
+            "tags": [
+                "JavaScript",
+                "browserify",
+                "webpack"
+            ],
+            "relatedLinks": []
         }
     ]
 }
