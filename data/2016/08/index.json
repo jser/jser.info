@@ -852,6 +852,17 @@
                 "webpack"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-23T23:07:50.386Z",
+            "title": "google/closure-compiler-js: Package for the JS version of closure-compiler for use via npm",
+            "url": "https://github.com/google/closure-compiler-js",
+            "content": "Closure Compilerの一部機能を使えるツール。JavaScriptへのコンパイル済みファイルを含んでいるので、Javaを必要としない。",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
