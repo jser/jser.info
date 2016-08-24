@@ -891,6 +891,22 @@
                 "デザインパターン"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-24T16:05:13.237Z",
+            "title": "From MVC to Flux - JS Monthly London - YouTube",
+            "url": "https://www.youtube.com/watch?v=p8tqhf5qKOI",
+            "content": "改めてFluxとはどういうコンセプトなのか、同様のコアコンセプトを持つReduxについての紹介",
+            "tags": [
+                "JavaScript",
+                "Flux"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "From MVC to Flux - Pusher Blog",
+                    "url": "https://blog.pusher.com/from-mvc-to-flux/"
+                }
+            ]
         }
     ]
 }
