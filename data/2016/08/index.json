@@ -929,6 +929,24 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-25T14:25:48.032Z",
+            "title": "Release v4.0.0 · pixijs/pixi.js",
+            "url": "https://github.com/pixijs/pixi.js/releases/tag/v4.0.0",
+            "content": "pixi.js 4.0.0リリース\nMulti texture rendereringのサポート、GPU GC管理、WebGLレンダーの改善、npmでパッケージの公開など",
+            "tags": [
+                "JavaScript",
+                "WebGL",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "PixiJS v4 Arrives - Goodboy™ — Goodboy™",
+                    "url": "http://www.goodboydigital.com/pixi-js-v4/"
+                }
+            ]
         }
     ]
 }
