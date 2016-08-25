@@ -907,6 +907,17 @@
                     "url": "https://blog.pusher.com/from-mvc-to-flux/"
                 }
             ]
+        },
+        {
+            "date": "2016-08-25T01:00:06.408Z",
+            "title": "Release v6.14.0 · babel/babel",
+            "url": "https://github.com/babel/babel/releases/tag/v6.14.0",
+            "content": "Babel 6.14.0リリース。\n`es2017` presetと、ES2015+を扱う`latest` presetが追加された。",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
