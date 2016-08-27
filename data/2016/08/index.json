@@ -984,6 +984,22 @@
                 "WebComponents"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-27T04:30:36.616Z",
+            "title": "The State Of JavaScript: Front-End Frameworks – Medium",
+            "url": "https://medium.com/@sachagreif/the-state-of-javascript-front-end-frameworks-1a2d8a61510",
+            "content": "JavaScriptのフレームワークについてアンケート結果。\n認知度はVue以外大体同じ。\n学びたいもの: React -> Vue -> Angular2\n満足度: React -> Vue -> Angular2",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The State Of JavaScript",
+                    "url": "http://stateofjs.com/"
+                }
+            ]
         }
     ]
 }
