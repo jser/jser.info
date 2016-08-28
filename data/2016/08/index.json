@@ -1000,6 +1000,18 @@
                     "url": "http://stateofjs.com/"
                 }
             ]
+        },
+        {
+            "date": "2016-08-28T02:58:41.534Z",
+            "title": "Enable Chrome Accessibility Experiment",
+            "url": "https://gist.github.com/marcysutton/0a42f815878c159517a55e6652e3b23a",
+            "content": "Chromeの試験的なAccessibility inspectorを有効にする方法。\n要素に対するWAI-ARIAの情報をElementsパネルで見ることができる",
+            "tags": [
+                "Chrome",
+                "accessibility",
+                "debug"
+            ],
+            "relatedLinks": []
         }
     ]
 }
