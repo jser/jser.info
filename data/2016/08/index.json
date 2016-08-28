@@ -1029,6 +1029,18 @@
                     "url": "https://www.youtube.com/watch?v=nI0cQ-2YR1I"
                 }
             ]
+        },
+        {
+            "date": "2016-08-28T10:46:46.882Z",
+            "title": "reactjs/react-docgen: A CLI and toolbox to extract information from React component files for documentation generation purposes.",
+            "url": "https://github.com/reactjs/react-docgen",
+            "content": "ReactのpropTypesなどをパースしてASTとして取得できるライブラリ/CLI",
+            "tags": [
+                "React",
+                "document",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
