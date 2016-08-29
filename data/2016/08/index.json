@@ -1077,6 +1077,17 @@
                 "API"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-29T13:07:13.717Z",
+            "title": "nolanlawson/slow-deps: 🐌 Measure which dependencies in a project are slowest to npm install",
+            "url": "https://github.com/nolanlawson/slow-deps",
+            "content": "npmの依存モジュールがそれぞれどれくらいのインストール時間やサイズなのかを計測出来るツール",
+            "tags": [
+                "npm",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
