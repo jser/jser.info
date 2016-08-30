@@ -1121,6 +1121,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-08-30T14:06:14.403Z",
+            "title": "Async Redux Actions With RxJS - React Rally 2016",
+            "url": "http://www.slideshare.net/benlesh1/async-redux-actions-with-rxjs-react-rally-2016",
+            "content": "_redux-observable_についてのスライド。\nReduxにおいて非同期処理を行う場合に、連続性やCancelなどを表現しやすいRxJSを使うという話",
+            "tags": [
+                "redux",
+                "Rx",
+                "スライド"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "redux-observable/redux-observable: RxJS middleware for action side effects in Redux using &#34;Epics&#34;",
+                    "url": "https://github.com/redux-observable/redux-observable"
+                }
+            ]
         }
     ]
 }
