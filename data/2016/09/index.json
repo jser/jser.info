@@ -31,6 +31,17 @@
                 "plugin"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-01T12:52:09.436Z",
+            "title": "sdkennedy/babel-preset-target: Babel preset that allows for target environments to be specified along with plugins and presets. If all environments have native support for a given plugin, it will be skipped.",
+            "url": "https://github.com/sdkennedy/babel-preset-target",
+            "content": "サポートするブラウザを指定することで、対応したBabel pluginでの変換をしてくれるbabel preset",
+            "tags": [
+                "babel",
+                "plugin"
+            ],
+            "relatedLinks": []
         }
     ]
 }
