@@ -20,6 +20,17 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-01T00:57:38.719Z",
+            "title": "Babili (babel-minify) · Babel",
+            "url": "https://babeljs.io/blog/2016/08/30/babili",
+            "content": "BabelのminifyプラグインであるBabili βリリース。\nUglifyと違って変換後のES5なコードではなく、ES2015+のコードに対して圧縮を行う。\nそのためFlowなどの型情報を使った圧縮なども可能になる。",
+            "tags": [
+                "babel",
+                "plugin"
+            ],
+            "relatedLinks": []
         }
     ]
 }
