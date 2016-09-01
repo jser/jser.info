@@ -42,6 +42,17 @@
                 "plugin"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-01T23:04:41.372Z",
+            "title": "Announcing TypeScript 2.0 RC | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2016/08/30/announcing-typescript-2-0-rc/",
+            "content": "TypeScript 2.0 RCリリース。\nTagged Unions、numberとstringのLiteral Typeを強化、tsconfig.jsonでglobを使えるようなるなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
