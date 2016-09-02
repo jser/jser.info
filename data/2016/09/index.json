@@ -53,6 +53,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-02T16:52:18.026Z",
+            "title": "Angular 2 RC6",
+            "url": "http://angularjs.blogspot.com/2016/09/angular-2-rc6_1.html",
+            "content": "Angular 2 RC6リリース\nRC5以下で非推奨となっていたAPIの削除、npmパッケージにES6 modules形式のソースを含むように、TypeScript 2.0に対応など",
+            "tags": [
+                "AngularJS",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Angular 2 RC.6がリリースされました · Angular2 Info",
+                    "url": "https://ng2-info.github.io/2016/09/angular-2-rc-6/"
+                },
+                {
+                    "title": "angular/CHANGELOG.md at master · angular/angular",
+                    "url": "https://github.com/angular/angular/blob/master/CHANGELOG.md#200-rc6-2016-08-31"
+                }
+            ]
         }
     ]
 }
