@@ -136,6 +136,18 @@
                 "WebComponents"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-04T01:22:26.087Z",
+            "title": "Service Worker Deep Dive - Google スライド",
+            "url": "https://docs.google.com/presentation/d/19x3yi7Jn-6In5igGYfEiK0tBfNI290BAclT0AiqDj4Q/pub#slide=id.p",
+            "content": "ここ1年ぐらいのService Worker周りの変化についてのスライド。\nPush Notification、Stream、Background、Foreign Fetch、Header-based Install、Origin Trialなど",
+            "tags": [
+                "ServiceWorker",
+                "Chrome",
+                "スライド"
+            ],
+            "relatedLinks": []
         }
     ]
 }
