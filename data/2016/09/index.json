@@ -160,6 +160,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-04T09:55:39.848Z",
+            "title": "camwiegert/in-view: Get notified when a DOM element enters or exits the viewport.",
+            "url": "https://github.com/camwiegert/in-view",
+            "content": "ある要素がviewportに含まれているかを判定して、入った時と出た時のハンドラを書けるライブラリ。\n将来的にIntersectionObserverへも対応予定",
+            "tags": [
+                "JavaScript",
+                "library",
+                "UI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
