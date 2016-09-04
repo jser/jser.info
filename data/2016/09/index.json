@@ -172,6 +172,18 @@
                 "UI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-04T10:46:40.964Z",
+            "title": "jsdom/Changelog.md at 9.5.0 · tmpvar/jsdom",
+            "url": "https://github.com/tmpvar/jsdom/blob/9.5.0/Changelog.md",
+            "content": "jsdom 9.5.0リリース。\n`document.scripts`、 `document.embeds`と `document.plugins`の追加。\n`document.getElementsByTagName`が`HTMLCollection`を返すようになるなど",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
