@@ -233,6 +233,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-06T14:48:52.326Z",
+            "title": "Microsoft/dts-gen: dts-gen creates starter TypeScript definition files for any module or library.",
+            "url": "https://github.com/Microsoft/dts-gen",
+            "content": "npmパッケージやコードからd.tsを自動生成してくれるツール",
+            "tags": [
+                "TypeScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
