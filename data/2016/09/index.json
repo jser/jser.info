@@ -276,6 +276,19 @@
                 "WAI-ARIA"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-08T11:33:53.864Z",
+            "title": "Release Release 4.0.0 · ternjs/acorn",
+            "url": "https://github.com/ternjs/acorn/releases/tag/4.0.0",
+            "content": "acorn 4.0.0リリース。\nデフォルトの`ecmaVersion`が`7`となり、async/awaitの構文をサポートなど",
+            "tags": [
+                "JavaScript",
+                "library",
+                "AST",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
