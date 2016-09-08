@@ -300,6 +300,17 @@
                 "debug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-08T14:47:08.913Z",
+            "title": "Untangling Deeply-Nested Promise Chains — Philip Walton",
+            "url": "https://philipwalton.com/articles/untangling-deeply-nested-promise-chains/",
+            "content": "Promiseでネストが深くなったものを、関数へ分割やasync/awaitを使いネストを浅くリファクタリングする話",
+            "tags": [
+                "Promises",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
