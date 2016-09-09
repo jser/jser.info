@@ -323,6 +323,19 @@
                 "検索"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-09T01:59:38.700Z",
+            "title": "ebidel/appmetrics.js: A small (1.1kb) library for measuring things in your web app and reporting the results to Google Analytics.",
+            "url": "https://github.com/ebidel/appmetrics.js",
+            "content": "User Timing APIを使って計測したデータをGoogle Analyticsにレポートできるライブラリ",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "アクセス解析",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
