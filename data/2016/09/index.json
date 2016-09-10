@@ -414,6 +414,18 @@
                     "url": "http://qiita.com/mysticatea/items/875c801362f337bc4ce9"
                 }
             ]
+        },
+        {
+            "date": "2016-09-10T16:31:01.014Z",
+            "title": "jgornick/asyncp: Port of the Async.js API to use Promises",
+            "url": "https://github.com/jgornick/asyncp",
+            "content": "async.jsのAPIをPromiseを使って実装したライブラリ",
+            "tags": [
+                "JavaScript",
+                "library",
+                "Promises"
+            ],
+            "relatedLinks": []
         }
     ]
 }
