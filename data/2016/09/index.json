@@ -469,6 +469,17 @@
                 "ServiceWorker"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-12T11:17:02.886Z",
+            "title": "Release v0.32.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.32.0",
+            "content": "Flow 0.32.0リリース\n`{|`と`|}`を使ったexact object typeの追加、`flow gen-flow-files`コマンドの追加など",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
