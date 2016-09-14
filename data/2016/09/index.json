@@ -509,6 +509,22 @@
                     "url": "https://blog.avocode.com/blog/handle-keyboard-shortcuts-in-the-browser-with-combokeys"
                 }
             ]
+        },
+        {
+            "date": "2016-09-14T13:41:47.949Z",
+            "title": "RC7 Now Available",
+            "url": "http://angularjs.blogspot.com/2016/09/rc7-now-available.html",
+            "content": "Angular 2 RC7リリース。\n`ComponentMetadata`を削除など",
+            "tags": [
+                "AngularJS",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "angular/CHANGELOG.md at master · angular/angular",
+                    "url": "https://github.com/angular/angular/blob/master/CHANGELOG.md#200-rc7-2016-09-13"
+                }
+            ]
         }
     ]
 }
