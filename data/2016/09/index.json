@@ -492,6 +492,23 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-14T13:27:04.637Z",
+            "title": "avocode/combokeys: Web browser keyboard shortcuts. CommonJS, NPM.",
+            "url": "https://github.com/avocode/combokeys",
+            "content": "Mousetrapをforkしたキーボードショートカットライブラリ。\nリファクタリングとdocumentへのlistenがデフォルトではないように変更されている",
+            "tags": [
+                "JavaScript",
+                "キーボード",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Handle keyboard shortcuts in the browser with Combokeys",
+                    "url": "https://blog.avocode.com/blog/handle-keyboard-shortcuts-in-the-browser-with-combokeys"
+                }
+            ]
         }
     ]
 }
