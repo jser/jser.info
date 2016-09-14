@@ -525,6 +525,17 @@
                     "url": "https://github.com/angular/angular/blob/master/CHANGELOG.md#200-rc7-2016-09-13"
                 }
             ]
+        },
+        {
+            "date": "2016-09-14T14:50:54.440Z",
+            "title": "DevTools Digest, September 2016: Perf Roundup | Web Updates - Google Developers",
+            "url": "https://developers.google.com/web/updates/2016/09/devtools-digest",
+            "content": "Chrome 54での開発者ツールについて。\nCPU Throttling、TimelineにNetwork viewの表示、スクロールパフォーマンスのProfile、SouceパネルにTimelineのデータ表示など",
+            "tags": [
+                "debug",
+                "Chrome"
+            ],
+            "relatedLinks": []
         }
     ]
 }
