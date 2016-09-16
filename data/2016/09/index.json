@@ -562,7 +562,12 @@
                 "firefox",
                 "debug"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "debugger.html のご紹介 | Mozilla Developer Street (modest)",
+                    "url": "https://dev.mozilla.jp/2016/09/introducing-debugger-html/"
+                }
+            ]
         }
     ]
 }
