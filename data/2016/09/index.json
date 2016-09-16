@@ -552,6 +552,17 @@
                     "url": "https://ng2-info.github.io/2016/09/angular-2-final/"
                 }
             ]
+        },
+        {
+            "date": "2016-09-16T05:20:45.287Z",
+            "title": "Introducing debugger.html ★ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2016/09/introducing-debugger-html/",
+            "content": "debugger.htmlというソースパネルライクな新しいデバッガーについて。\nFirefox、Chrome、Node.jsに対応し、Remote Debug Protocolでデータをやり取りする。\nFirefoxの開発者ツールに統合される予定",
+            "tags": [
+                "firefox",
+                "debug"
+            ],
+            "relatedLinks": []
         }
     ]
 }
