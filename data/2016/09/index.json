@@ -624,6 +624,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-17T10:29:37.287Z",
+            "title": "Node v6.6.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v6.6.0/",
+            "content": "Node v6.6.0リリース。\nEventEmitterのmemory leak警告、\nPromiseのUnhandled rejectionの警告が、`process.on('warning', (warning) => { })`でキャッチできるように",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
