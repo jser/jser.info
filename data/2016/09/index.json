@@ -613,6 +613,17 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-17T10:12:00.265Z",
+            "title": "kentcdodds/match-sorter: Simple, expected, and deterministic best-match sorting of an array in JavaScript",
+            "url": "https://github.com/kentcdodds/match-sorter",
+            "content": "オブジェクトの配列から検索するライブラリ。\n指定したキーのみを対象にしたり、検索方法などを指定できる",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
