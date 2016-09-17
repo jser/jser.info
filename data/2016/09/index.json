@@ -568,6 +568,18 @@
                     "url": "https://dev.mozilla.jp/2016/09/introducing-debugger-html/"
                 }
             ]
+        },
+        {
+            "date": "2016-09-17T05:55:24.630Z",
+            "title": "Release Notes for Safari Technology Preview Release 13 | WebKit",
+            "url": "https://webkit.org/blog/6937/release-notes-for-safari-technology-preview-release-13/",
+            "content": "Safari Technology Preview Release 13 リリース。\n`adoptedCallback`のサポート、`CSS.escape`の実装、クロスオリジンのチェック強化など",
+            "tags": [
+                "safari",
+                "webkit",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
