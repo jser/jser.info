@@ -580,6 +580,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-17T06:39:29.712Z",
+            "title": "The future of ES6 (Jafar Husain) - Full Stack Fest 2016 - YouTube",
+            "url": "https://www.youtube.com/watch?v=3pKNRgResq0",
+            "content": "現在策定中の仕様も含めて非同期処理について。\nPromise、Async/Await。\nPullなAPIとしてGenerator(同期)、AsyncGenerator(Stage 2)。\nPushなAPIとしてObservable(Stage 1)について",
+            "tags": [
+                "JavaScript",
+                "動画"
+            ],
+            "relatedLinks": []
         }
     ]
 }
