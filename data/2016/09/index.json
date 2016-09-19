@@ -674,6 +674,17 @@
                     "url": "https://www.pluralsight.com/courses/react-redux-react-router-es6"
                 }
             ]
+        },
+        {
+            "date": "2016-09-19T01:32:53.008Z",
+            "title": "Chromium Blog: Chrome 54 Beta: Custom Elements V1, BroadcastChannel, and media platform improvements",
+            "url": "http://blog.chromium.org/2016/09/chrome-54-beta-custom-elements-v1.html",
+            "content": "Chrome 54βリリース。\nCustom Element v1、BroadcastChannelのサポート。\nResource Timing API のtransferやencoded/decodedのサポート、`initTouchEvent`の削除など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
