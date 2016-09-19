@@ -712,6 +712,17 @@
                     "url": "http://stefankrause.net/js-frameworks-benchmark4/webdriver-ts/table.html"
                 }
             ]
+        },
+        {
+            "date": "2016-09-19T13:56:05.116Z",
+            "title": "Developer's guide to accessibility mechanics — Developer's guide to accessibility mechanics",
+            "url": "https://ljwatson.github.io/decks/2016/fromthefront/index.html#cover",
+            "content": "デフォルトの`<a>`はどういうサポートがあるからaccessibleであるかについてを独自のリンク実装で見ていく話。\nまたデフォルトではaccessibleでないツールチップ、タブパネルなどをどうじっそうするか。\n実際にスクリーンリーダーの音を聞きながら確認できる",
+            "tags": [
+                "accessibility",
+                "スライド"
+            ],
+            "relatedLinks": []
         }
     ]
 }
