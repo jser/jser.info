@@ -757,6 +757,30 @@
                 "検索"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-22T00:43:27.879Z",
+            "title": "Firefox 49.0 リリースノート",
+            "url": "https://www.mozilla.jp/firefox/49.0/releasenotes/",
+            "content": "Firefox 49リリース。\n既存コンテンツの互換性のために`-webkit-` prefixのプロパティをサポート、`<a>`要素の`referrerpolicy`属性のサポート、Web Speech APIの音声合成をサポートなど",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 49 for developers",
+                    "url": "https://developer.mozilla.org/ja/Firefox/Releases/49"
+                },
+                {
+                    "title": "Firefox 49 サイト互換性情報 | Firefox サイト互換性情報",
+                    "url": "https://www.fxsitecompat.com/ja/versions/49/"
+                },
+                {
+                    "title": "Firefox 49 fixes sites designed with WebKit in mind, and more ★ Mozilla Hacks – the Web developer blog",
+                    "url": "https://hacks.mozilla.org/2016/09/firefox-49-fixes-sites-designed-with-webkit-in-mind-and-more/"
+                }
+            ]
         }
     ]
 }
