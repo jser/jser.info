@@ -870,6 +870,22 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-24T06:06:28.027Z",
+            "title": "ESLint v3.6.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2016/09/eslint-v3.6.0-released",
+            "content": "ESLint 3.6.0リリース。\nasync/awaitの対応と既存ルールの修正、`--fix`対応ルールの追加など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESLint v3.6.0 - Qiita",
+                    "url": "http://qiita.com/mysticatea/items/9fd48f9ac3faac578c62"
+                }
+            ]
         }
     ]
 }
