@@ -835,6 +835,30 @@
                     "url": "https://github.com/kadirahq/react-storybook"
                 }
             ]
+        },
+        {
+            "date": "2016-09-24T04:30:51.656Z",
+            "title": "TypeScript 2.0 is now available! | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/",
+            "content": "TypeScript 2.0リリース。\nDefinitelyTypedの型定義ファイルをnpmモジュールとしてインストールできるように、non-nullable、read only modifierなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "| TypeScript 2.0 Awesomeness | Blog | SitePen",
+                    "url": "https://www.sitepen.com/blog/2016/09/01/typescript-2-0-awesomeness/"
+                },
+                {
+                    "title": "Breaking Changes · Microsoft/TypeScript Wiki",
+                    "url": "https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes#typescript-20"
+                },
+                {
+                    "title": "What's new in TypeScript · Microsoft/TypeScript Wiki",
+                    "url": "https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript#typescript-20"
+                }
+            ]
         }
     ]
 }
