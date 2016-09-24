@@ -815,6 +815,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-24T04:22:16.202Z",
+            "title": "Snapshot Testing in React Storybook",
+            "url": "https://voice.kadira.io/snapshot-testing-in-react-storybook-43b3b71cec4f",
+            "content": "React Storybookを使ったスナップショットテストについて",
+            "tags": [
+                "React",
+                "testing"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "kadirahq/storyshots: Snapshot testing for React Storybook",
+                    "url": "https://github.com/kadirahq/storyshots"
+                },
+                {
+                    "title": "kadirahq/react-storybook: UI Component Dev Environment for React",
+                    "url": "https://github.com/kadirahq/react-storybook"
+                }
+            ]
         }
     ]
 }
