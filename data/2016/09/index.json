@@ -919,6 +919,23 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-26T12:58:49.003Z",
+            "title": "Use Easy-Fix to Run Integration Tests Like Unit Tests – WalmartLabs – Medium",
+            "url": "https://medium.com/walmartlabs/use-easy-fix-to-run-integration-tests-like-unit-tests-834288ec446d",
+            "content": "vcr系のテストライブラリ。\n実行結果を記録/リプレイするライブラリ。\n他のVCR系とは異なり非同期処理を記録することで、HTTPのみ限定していないという話",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "walmartlabs/easy-fix: easy-fix: run integration tests like unit tests",
+                    "url": "https://github.com/walmartlabs/easy-fix"
+                }
+            ]
         }
     ]
 }
