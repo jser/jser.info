@@ -897,6 +897,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-26T09:19:07.801Z",
+            "title": "jumpinjackie/jsdoc-typescript-plugin: JSDoc plugin to generate TypeScript definition files (.d.ts) from JSDoc-annotated source",
+            "url": "https://github.com/jumpinjackie/jsdoc-typescript-plugin",
+            "content": "JSDocからTypeScriptの型定義ファイルを生成するJSDoc plugin",
+            "tags": [
+                "JSDoc",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
