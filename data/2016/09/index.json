@@ -1017,6 +1017,24 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-09-27T16:02:19.700Z",
+            "title": "複雑なJavaScriptアプリケーションを考えながら作る話",
+            "url": "http://azu.github.io/slide/2016/react-meetup/large-scale-javascript.html",
+            "content": "JavaScriptで複雑なアプリケーションを作る場合にどのように考えるかというスライド。\nドメインモデルをどのように考えて作っていくかについて。 Babel、React、Almin、PostCSSがベース。\n",
+            "tags": [
+                "JavaScript",
+                "スライド",
+                "CQRS",
+                "DDD"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "azu/large-scale-javascript: 複雑なJavaScriptアプリケーションを作るために考えること",
+                    "url": "https://github.com/azu/large-scale-javascript"
+                }
+            ]
         }
     ]
 }
