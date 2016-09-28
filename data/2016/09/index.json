@@ -1035,6 +1035,17 @@
                     "url": "https://github.com/azu/large-scale-javascript"
                 }
             ]
+        },
+        {
+            "date": "2016-09-28T20:27:46.537Z",
+            "title": "Loading Polyfills Only When Needed — Philip Walton",
+            "url": "https://philipwalton.com/articles/loading-polyfills-only-when-needed/",
+            "content": "polyfillをサポートしてない環境だけで動的に読み込みたいという話",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
