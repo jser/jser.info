@@ -11,6 +11,18 @@
                 "mail"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-01T00:03:16.021Z",
+            "title": "Fix and prevent known vulnerabilities in Node.js apps | Snyk",
+            "url": "https://snyk.io/",
+            "content": "Node.js appの既知の脆弱性などを通知、修正などを行うサービス。\nCIで自動的にチェックできる",
+            "tags": [
+                "node.js",
+                "security",
+                "webservice"
+            ],
+            "relatedLinks": []
         }
     ]
 }
