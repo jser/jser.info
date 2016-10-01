@@ -88,6 +88,27 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-01T15:17:13.099Z",
+            "title": "RE:DOM is now 1.0! – RE:DOM – Medium",
+            "url": "https://medium.com/re-dom/re-dom-is-now-1-0-58ec0328a59d",
+            "content": "RE:DOM 1.0リリース\n合わせてRE:DOM向けのfake domであるNO:DOMも公開されてる",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "pakastin/redom: Tiny, but super fast DOM library with 100 % test coverage!",
+                    "url": "https://github.com/pakastin/redom"
+                },
+                {
+                    "title": "pakastin/nodom: fake DOM for RE:DOM",
+                    "url": "https://github.com/pakastin/nodom"
+                }
+            ]
         }
     ]
 }
