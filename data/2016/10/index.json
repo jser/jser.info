@@ -56,6 +56,27 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-01T07:54:02.811Z",
+            "title": "Vue 2.0 is Here! – The Vue Point – Medium",
+            "url": "https://medium.com/the-vue-point/vue-2-0-is-here-ef1f26acf4b8",
+            "content": "Vue.js 2.0リリース。\n1.xからのマイグレーションヘルパーも公開されている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "vuejs/vue-migration-helper: CLI tool to aid in migration from Vue 1.x to 2.0",
+                    "url": "https://github.com/vuejs/vue-migration-helper"
+                },
+                {
+                    "title": "Migration from Vue 1.x - vue.js",
+                    "url": "http://vuejs.org/guide/migration.html"
+                }
+            ]
         }
     ]
 }
