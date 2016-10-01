@@ -23,6 +23,17 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-01T00:22:45.034Z",
+            "title": "mkwtys/bundle-size: Show bundle file size of npm packages",
+            "url": "https://github.com/mkwtys/bundle-size",
+            "content": "指定したパッケージのファイルサイズを出力できるCLI。\nenviromentを指定できるのでdevelopmentとproductionのファイルサイズをminify、gzip済みで比較できる",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
