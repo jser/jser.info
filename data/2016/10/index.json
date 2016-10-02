@@ -133,6 +133,22 @@
                 "node.js"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-02T05:22:09.841Z",
+            "title": "ESLint v3.7.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2016/09/eslint-v3.7.0-released",
+            "content": "ESLint v3.7.0リリース。\n`--fix`対応のルールの追加など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESLint v3.7.0 - Qiita",
+                    "url": "http://qiita.com/mysticatea/items/dd90aff81eeb92683c5d"
+                }
+            ]
         }
     ]
 }
