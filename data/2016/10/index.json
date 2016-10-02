@@ -176,6 +176,17 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-02T12:16:10.748Z",
+            "title": "requestAnimationFrame とタイマーの今更な比較とデモ ::ハブろぐ",
+            "url": "https://havelog.ayumusato.com/develop/javascript/e725-timer_vs_raf.html",
+            "content": "`requestAnimationFrame`と`setTimeout`の比較。\n`setTimeout`は細かい処理でも影響を受けやすいという話",
+            "tags": [
+                "JavaScript",
+                "browser"
+            ],
+            "relatedLinks": []
         }
     ]
 }
