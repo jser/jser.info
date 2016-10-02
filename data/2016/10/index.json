@@ -121,6 +121,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-02T05:13:32.095Z",
+            "title": "Node.js debugging with Chrome DevTools (in parallel with browser JavaScript)",
+            "url": "https://blog.hospodarets.com/nodejs-debugging-in-chrome-devtools",
+            "content": "Node.jsをChromeの開発者ツールでデバッグする方法について。\n設定を有効にする手順",
+            "tags": [
+                "Chrome",
+                "debug",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
