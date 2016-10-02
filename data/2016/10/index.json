@@ -159,18 +159,12 @@
                 "babel",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
-        },
-        {
-            "date": "2016-10-02T07:23:17.917Z",
-            "title": "ECMAScript proposal updates @ 2016-10 | ECMAScript Daily",
-            "url": "https://ecmascript-daily.github.io/2016/10/02/proposals-updates",
-            "content": "2016年10月時点での、ECMAScript Proposalのステータスまとめ。\n9月のミーティングで変更されたStageのまとめ",
-            "tags": [
-                "ECMAScript",
-                "proposal"
-            ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "ECMAScript proposal updates @ 2016-10 | ECMAScript Daily",
+                    "url": "https://ecmascript-daily.github.io/2016/10/02/proposals-updates"
+                }
+            ]
         }
     ]
 }
