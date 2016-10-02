@@ -149,6 +149,17 @@
                     "url": "http://qiita.com/mysticatea/items/dd90aff81eeb92683c5d"
                 }
             ]
+        },
+        {
+            "date": "2016-10-02T06:36:46.135Z",
+            "title": "Release v6.17.0 · babel/babel",
+            "url": "https://github.com/babel/babel/releases/tag/v6.17.0",
+            "content": "Babel v6.17.0リリース。\nProposalのStage変更を反映、async generatorとobject rest-spreadをstage3へ、optimize-js関連の変更など",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
