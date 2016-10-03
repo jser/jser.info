@@ -285,6 +285,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-03T14:01:07.315Z",
+            "title": "DeNADev/wahid: A CreateJS-compatible library for games",
+            "url": "https://github.com/DeNADev/wahid",
+            "content": "CreateJS互換の(モバイル)ゲーム向けライブラリ",
+            "tags": [
+                "JavaScript",
+                "game",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "CreateJS 互換ライブラリ wahid の開発 — Mobage Developers Blog",
+                    "url": "http://developers.mobage.jp/blog/createjs-wahid"
+                }
+            ]
         }
     ]
 }
