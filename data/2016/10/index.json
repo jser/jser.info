@@ -271,6 +271,20 @@
                     "url": "http://qiita.com/yukiB/items/31a9e9e600dfb1f34f76"
                 }
             ]
+        },
+        {
+            "date": "2016-10-03T13:58:22.044Z",
+            "title": "JavaScriptライブラリ/プロジェクトのファイルサイズの問題点を見つける方法 - Qiita",
+            "url": "http://qiita.com/azu/items/7b54d614dc816780034a",
+            "content": "Browserifyやwebpackなどでbundleしたファイルのサイズや依存モジュールのサイズなどを確認する方法について",
+            "tags": [
+                "browser",
+                "browserify",
+                "webpack",
+                "Tools",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
