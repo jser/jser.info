@@ -37,7 +37,7 @@
                 if (url) {
                     return "<a href='" + escapeHTML(url) + "'>" + escapeHTML(url) + "</a>"
                 } else if (name) {
-                    return "<a href='http://twitter.com/" + escapeHTML(name) + "'>@" + name + "</a>";
+                    return "<a href='https://twitter.com/" + escapeHTML(name) + "'>@" + name + "</a>";
                 } else if (hashtag) {
                     return "<a href='https://twitter.com/search/?q=" + encodeURIComponent(hashtag) + "'>" + escapeHTML(hashtag) + '</a>';
                 } else {
