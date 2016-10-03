@@ -255,6 +255,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-03T13:47:00.509Z",
+            "title": "event.offsetX,Yの罠...どこが原点の座標値なのかを理解する (currentTargetとtarget) - Qiita",
+            "url": "http://qiita.com/yukiB/items/cc533fbbf3bb8372a924",
+            "content": "targetとcurrentTargetの違い、offsetX/Y、screenX/Y、getBoundingClientRect()などについて",
+            "tags": [
+                "JavaScript",
+                "DOM"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "マウスイベントで取得されるカーソル座標パラメータの整理(offset, page, screen, client) - Qiita",
+                    "url": "http://qiita.com/yukiB/items/31a9e9e600dfb1f34f76"
+                }
+            ]
         }
     ]
 }
