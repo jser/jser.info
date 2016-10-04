@@ -302,6 +302,17 @@
                     "url": "http://developers.mobage.jp/blog/createjs-wahid"
                 }
             ]
+        },
+        {
+            "date": "2016-10-04T15:24:16.070Z",
+            "title": "What every JavaScript developer should know about Unicode",
+            "url": "https://rainsoft.io/what-every-javascript-developer-should-know-about-unicode/",
+            "content": "JavaScriptの文字列とUnicodeについて網羅的な解説。\nUnicodeにおける用語、Character、Code point、Plane、BMP、Code unit、サロゲートペア、Combing marks、エスケープシーケンス、文字列比較、Normalize、length、正規表現について",
+            "tags": [
+                "JavaScript",
+                "Unicode"
+            ],
+            "relatedLinks": []
         }
     ]
 }
