@@ -367,6 +367,18 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-07T12:32:15.680Z",
+            "title": "babel/babel-preset-env: WIP: Autoprefixer for Babel: target specific environments (browser, node, etc)",
+            "url": "https://github.com/babel/babel-preset-env",
+            "content": "targetでブラウザやNode.jsのバージョンを指定することで、それに対応した最小限の変換を行うbabel preset",
+            "tags": [
+                "babel",
+                "browser",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
