@@ -425,6 +425,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-09T00:45:59.430Z",
+            "title": "create-react-app-introduction // Speaker Deck",
+            "url": "https://speakerdeck.com/adwd/create-react-app-introduction",
+            "content": "ReactのStarterKit的な`create-react-app`についての紹介",
+            "tags": [
+                "React",
+                "Tools",
+                "スライド"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "facebookincubator/create-react-app: Create React apps with no build configuration.",
+                    "url": "https://github.com/facebookincubator/create-react-app"
+                }
+            ]
         }
     ]
 }
