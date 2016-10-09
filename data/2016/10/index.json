@@ -442,6 +442,19 @@
                     "url": "https://github.com/facebookincubator/create-react-app"
                 }
             ]
+        },
+        {
+            "date": "2016-10-09T00:57:04.137Z",
+            "title": "Office UI Fabric",
+            "url": "http://dev.office.com/fabric",
+            "content": "Office 365とかのUIコンポーネントを提供するライブラリ。\nVanilla JS、React、Angular、iOS版がある。",
+            "tags": [
+                "MS",
+                "UI",
+                "React",
+                "AngularJS"
+            ],
+            "relatedLinks": []
         }
     ]
 }
