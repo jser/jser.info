@@ -1,4 +1,4 @@
-# [JSer.info][] [![Build Status](https://travis-ci.org/jser/jser.info.svg?branch=master)](https://travis-ci.org/jser/jser.info)
+https://jser.info# [JSer.info][] [![Build Status](https://travis-ci.org/jser/jser.info.svg?branch=master)](https://travis-ci.org/jser/jser.info)
 
 JSer.infoに掲載する記事の元データを管理しているリポジトリです。
 
@@ -10,7 +10,7 @@ JSer.infoに関連するリポジトリについての案内です。
 
 ## 新しい情報を見たい
 
-- [JSer.info](http://jser.info/)
+- [JSer.info](https://jser.info/)
 	- JSer.infoサイトそのもの
 	- 週一回程度で更新
 - [Realtime JSer.info](http://realtime.jser.info/)
@@ -51,12 +51,12 @@ JSer.infoに関連するリポジトリについての案内です。
 
 - [CONTRIBUTING.md](./CONTRIBUTING.md)
 	- Pull Requestする方法などの手順がまとめられている
-- [JSer.info Pull Request Form](http://jser.info/contributing/ "JSer.info Pull Request Form")
+- [JSer.info Pull Request Form](https://jser.info/contributing/ "JSer.info Pull Request Form")
 	- 掲載したい記事がある場合はこちらのフォームからPull Request
 	- [jser/contributing-preview](https://github.com/jser/contributing-preview "jser/contributing-preview")
 	- データの表示をプレビューする補助ツール
 
-関連: [JSer.infoに紹介してもらいたい記事のPull Requestが出来るようになりました - JSer.info](http://jser.info/post/75446735069/jser-info-pull-request/ "JSer.infoに紹介してもらいたい記事のPull Requestが出来るようになりました - JSer.info")
+関連: [JSer.infoに紹介してもらいたい記事のPull Requestが出来るようになりました - JSer.info](https://jser.info/post/75446735069/jser-info-pull-request/ "JSer.infoに紹介してもらいたい記事のPull Requestが出来るようになりました - JSer.info")
 
 
 ## データを分析したい
@@ -66,7 +66,7 @@ JSer.infoのデータを分析したいはJSON APIとライブラリが用意さ
 - [jser/stat-js](https://github.com/jser/stat-js "jser/stat-js")
 	- JSer.infoの掲載データを利用出来る統計処理ライブラリ
 	- 特定の期間で紹介した記事一覧の取得、関連記事の検索など
-- [JSer.info トレンド](http://jser.info/trends/ "JSer.info トレンド")
+- [JSer.info トレンド](https://jser.info/trends/ "JSer.info トレンド")
 	- [jser/stat-js](https://github.com/jser/stat-js "jser/stat-js")を使ったキーワードトレンド情報のビューア
 
 
@@ -82,4 +82,4 @@ The source code under the MIT LICENSE.
 
 `data/` under the CC-BY [![CC-BY](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-[JSer.info]: http://jser.info/  "JSer.info"
+[JSer.info]: https://jser.info/  "JSer.info"
