@@ -467,6 +467,18 @@
                 "スライド"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-10T12:52:05.457Z",
+            "title": "npm-scripts で Web フロントエンド開発を管理する – アカベコマイリ",
+            "url": "http://akabeko.me/blog/2016/10/npm-scripts-web-front-end-development/",
+            "viaURL": "https://github.com/jser/ping/issues/16",
+            "content": "npm run-scriptについて詳しく書かれた記事。\ngulpなどのTask Runnerで行う典型的なユースケースをnpm run-scriptでやった場合にどうなるかや、クロスプラットフォームで動くツールについて書かれている。",
+            "tags": [
+                "npm",
+                "console"
+            ],
+            "relatedLinks": []
         }
     ]
 }
