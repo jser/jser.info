@@ -3,9 +3,9 @@
     ArticleGroup
         - Article
  */
-    var ArticleGroup = function (name, artcles) {
+    var ArticleGroup = function (name, articles) {
         this.name = ko.observable(name);
-        this.articles = ko.observableArray(artcles);
+        this.articles = ko.observableArray(articles);
     };
     var RelateLink = function (object) {
         this.tile = object
