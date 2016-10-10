@@ -13,7 +13,7 @@ $(function () {
         loadPosts: function () {
             var defer = $.Deferred();
             $.ajax({
-                url: "//posts.json",
+                url: "//jser.info/posts.json",
                 dataType: 'json',
                 success: defer.resolve,
                 error: defer.reject
