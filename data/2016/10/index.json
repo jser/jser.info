@@ -479,6 +479,23 @@
                 "console"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-12T13:20:52.004Z",
+            "title": "JSPerf - Community Driven JavaScript Performance Benchmarks",
+            "url": "http://jsperf.co/",
+            "viaURL": null,
+            "content": "JavaScriptのコードのパフォーマンス計測サイト。\njsperf.com と似てような感じのサイト。\nデータはGitHubに自動的にコミットされ、Jekyllを使った静的サイトとして配信されてる。",
+            "tags": [
+                "JavaScript",
+                "performance"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "hasharray/jsperf: JavaScript Performance Benchmarks",
+                    "url": "https://github.com/hasharray/jsperf"
+                }
+            ]
         }
     ]
 }
