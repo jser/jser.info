@@ -496,6 +496,18 @@
                     "url": "https://github.com/hasharray/jsperf"
                 }
             ]
+        },
+        {
+            "date": "2016-10-13T01:10:20.062Z",
+            "title": "Node v6.8.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v6.8.0/",
+            "viaURL": null,
+            "content": "Node v6.8.0リリース。\n`fs.existsSync`がdeprecatedではなくなった。`http.request`が`timeout`オプションを受け取れるようになるなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
