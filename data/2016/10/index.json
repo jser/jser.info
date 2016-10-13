@@ -508,6 +508,28 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-13T01:46:40.420Z",
+            "title": "naptha/tesseract.js: Pure Javascript OCR for 62 Languages 📖🎉🖥",
+            "url": "https://github.com/naptha/tesseract.js",
+            "viaURL": null,
+            "content": "tesseract OCRのJavaScript port。\nブラウザやNodeでOCRできるライブラリ",
+            "tags": [
+                "JavaScript",
+                "OCR",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Compile to EMScripten/asm.js · Issue #75 · tesseract-ocr/tesseract",
+                    "url": "https://github.com/tesseract-ocr/tesseract/issues/75"
+                },
+                {
+                    "title": "tesseract-ocr/tesseract: Tesseract Open Source OCR Engine (main repository)",
+                    "url": "https://github.com/tesseract-ocr/tesseract"
+                }
+            ]
         }
     ]
 }
