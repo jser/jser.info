@@ -560,6 +560,23 @@
                     "url": "https://havelog.ayumusato.com/develop/performance/e556-compositing_border_and_layer.html"
                 }
             ]
+        },
+        {
+            "date": "2016-10-15T02:37:44.607Z",
+            "title": "ESLint v3.8.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2016/10/eslint-v3.8.0-released",
+            "viaURL": null,
+            "content": "ESLint 3.8.0リリース。\n`executeOnFiles()`の結果の`source`プロパティにソースコードを含められるように、新しいルールの追加や修正など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESLint v3.8.0 - Qiita",
+                    "url": "http://qiita.com/mysticatea/items/6f037c15057c57982453"
+                }
+            ]
         }
     ]
 }
