@@ -577,6 +577,20 @@
                     "url": "http://qiita.com/mysticatea/items/6f037c15057c57982453"
                 }
             ]
+        },
+        {
+            "date": "2016-10-16T04:54:42.053Z",
+            "title": "jsdom/Changelog.md at 9.7.1 · tmpvar/jsdom",
+            "url": "https://github.com/tmpvar/jsdom/blob/9.7.1/Changelog.md",
+            "viaURL": null,
+            "content": "jsdom 9.7.0リリース。\nEventListenerOptionsのサポート、`document.hasFocus()`のサポートなど",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
