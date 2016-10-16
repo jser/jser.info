@@ -591,6 +591,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-16T14:27:28.917Z",
+            "title": "Release Notes for Safari Technology Preview 15 | WebKit",
+            "url": "https://webkit.org/blog/6987/release-notes-for-safari-technology-preview-15/",
+            "viaURL": null,
+            "content": "Safari Technology Preview Release 15リリース。\nEl Capitan向けの最後のリリース、Fetch APIの改善、`download`属性のサポート、`DOMTokenList.prototype.supports()`のサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
