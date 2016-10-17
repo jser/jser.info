@@ -716,6 +716,18 @@
                 "デザインパターン"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-17T15:55:35.572Z",
+            "title": "モダン日本語フォント指定 // Speaker Deck",
+            "url": "https://speakerdeck.com/tacamy/modanri-ben-yu-huontozhi-ding",
+            "viaURL": null,
+            "content": "CSSのfont-familyについてのスライド。\nOSやブラウザでfontの情報が異なるため、@font-faceを使い定義するという話",
+            "tags": [
+                "CSS",
+                "fonts"
+            ],
+            "relatedLinks": []
         }
     ]
 }
