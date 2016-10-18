@@ -741,6 +741,32 @@
                 "ebook"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-18T00:33:50.962Z",
+            "title": "Yarn",
+            "url": "https://yarnpkg.com/",
+            "viaURL": "https://github.com/jser/ping/issues/20",
+            "content": "npmクライアントツール。\n`package.json`の扱いは既存のnpmと互換を持つ。\nキャッシュや並列処理を行い高速なインストール、`yarn.lock`を使った依存バージョン固定を正確に行える。",
+            "tags": [
+                "npm",
+                "node.js",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Yarn: A new package manager for JavaScript | Engineering Blog | Facebook Code",
+                    "url": "https://code.facebook.com/posts/1840075619545360"
+                },
+                {
+                    "title": "The npm Blog — Hello, Yarn!",
+                    "url": "http://blog.npmjs.org/post/151660845210/hello-yarn"
+                },
+                {
+                    "title": "Migrating from npm | Yarn",
+                    "url": "https://yarnpkg.com/en/docs/migrating-from-npm"
+                }
+            ]
         }
     ]
 }
