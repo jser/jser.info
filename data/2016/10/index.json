@@ -778,6 +778,23 @@
                 "CSS"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-20T01:00:19.846Z",
+            "title": "Node v6.9.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v6.9.0/",
+            "viaURL": null,
+            "content": "Node.js v6.9.0 (LTS)リリース。\nNode.js v4.x (LTS)からのマイグレーションガイドも書かれている。\nv6.xは2018年4月までアクティブなLTSとなる。",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Node.js v6 Transitions to LTS – Medium",
+                    "url": "https://medium.com/@nodejs/node-js-v6-transitions-to-lts-be7f18c17159"
+                }
+            ]
         }
     ]
 }
