@@ -859,6 +859,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-21T16:40:51.656Z",
+            "title": "Release JSHint 2.9.4 · jshint/jshint",
+            "url": "https://github.com/jshint/jshint/releases/tag/2.9.4",
+            "viaURL": null,
+            "content": "JSHint 2.9.4リリース。\nTDZの対応、重複したエラー報告をしないようになるなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
