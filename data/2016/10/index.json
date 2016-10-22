@@ -884,6 +884,18 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-22T05:04:52.371Z",
+            "title": "Once Upon an Event Listener  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2016/10/addeventlistener-once",
+            "viaURL": null,
+            "content": "`HTMLElement#addEventListener`の`{once}`オプションについて。\n一度のみハンドリングするハンドラを指定できる",
+            "tags": [
+                "JavaScript",
+                "DOM"
+            ],
+            "relatedLinks": []
         }
     ]
 }
