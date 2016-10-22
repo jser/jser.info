@@ -949,6 +949,18 @@
             ],
             "date": "2016-10-22T06:22:26.710Z",
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-22T06:34:42.741Z",
+            "title": "Chromium Blog: Chrome 55 Beta: Input handling improvements and async/await functions",
+            "url": "https://blog.chromium.org/2016/10/chrome-55-beta-input-handling.html",
+            "viaURL": null,
+            "content": "Chrome 55 Betaリリース。\nPointer Events、async/await、CSS `hyphens`、Persistent Storageのサポートなど\ncorss originでかつ2G回線における`document.write`をブロックするようになるなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
