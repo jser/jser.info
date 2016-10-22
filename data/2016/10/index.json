@@ -921,6 +921,23 @@
                     "url": "https://twitter.com/dan_abramov/status/789573515750076417"
                 }
             ]
+        },
+        {
+            "date": "2016-10-22T06:12:40.093Z",
+            "title": "Migrating to Webpack 2",
+            "url": "http://javascriptplayground.com/blog/2016/10/moving-to-webpack-2/",
+            "viaURL": null,
+            "content": "webpack@1から@2へのマイグレーションについて",
+            "tags": [
+                "webpack",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "How to Upgrade from Webpack 1?",
+                    "url": "https://webpack.js.org/how-to/upgrade-from-webpack-1/"
+                }
+            ]
         }
     ]
 }
