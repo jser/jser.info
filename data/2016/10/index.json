@@ -961,6 +961,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-22T07:46:52.670Z",
+            "title": "Syntax: language agnostic parser generator – Medium",
+            "url": "https://medium.com/@DmitrySoshnikov/syntax-language-agnostic-parser-generator-bd24468d7cfc",
+            "viaURL": null,
+            "content": "言語を問わないagnosticなパーサ、ジェネレータツールキット",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "DmitrySoshnikov/syntax: Syntactic analysis toolkit for education, tracing the parsing process, and parsers generation.",
+                    "url": "https://github.com/DmitrySoshnikov/syntax"
+                }
+            ]
         }
     ]
 }
