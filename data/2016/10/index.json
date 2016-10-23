@@ -1010,6 +1010,28 @@
                     "url": "https://twitter.com/azu_re/status/789985478065790976"
                 }
             ]
+        },
+        {
+            "date": "2016-10-23T00:37:05.565Z",
+            "title": "jgraph/mxgraph: mxGraph is a fully client side JavaScript diagramming library",
+            "url": "https://github.com/jgraph/mxgraph",
+            "viaURL": null,
+            "content": "draw.ioで使われているSVGの作図ライブラリ。",
+            "tags": [
+                "JavaScript",
+                "SVG",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "JavaScript Diagram Editor",
+                    "url": "https://jgraph.github.io/mxgraph/javascript/"
+                },
+                {
+                    "title": "jgraph/draw.io: Source to www.draw.io",
+                    "url": "https://github.com/jgraph/draw.io"
+                }
+            ]
         }
     ]
 }
