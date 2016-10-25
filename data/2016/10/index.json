@@ -1098,6 +1098,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-25T13:46:51.169Z",
+            "title": "6.18.0 Released · Babel",
+            "url": "https://babeljs.io/blog/2016/10/24/6.18.0",
+            "viaURL": null,
+            "content": "Babel v6.18.0リリース。\n`import()`のinitialサポート、`helper-builder-react-jsx`に`useBuiltIns`オプションの追加など",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
