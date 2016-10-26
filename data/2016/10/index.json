@@ -1134,6 +1134,21 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-26T14:55:08.502Z",
+            "title": "Raynos/jsig: From scratch type-checker",
+            "url": "https://github.com/Raynos/jsig",
+            "viaURL": "https://github.com/jser/ping/issues/28",
+            "content": "JSDocのような型アノテーションコメントと型推論から静的な型チェックを行うツール。\nFlowTypeとは異なりES5に焦点をおいてる事と曖昧さを許容しない作り",
+            "tags": [
+                "JavaScript",
+                "document",
+                "flowtype",
+                "Tools",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
