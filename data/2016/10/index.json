@@ -1122,6 +1122,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-26T11:10:22.689Z",
+            "title": "V8 JavaScript Engine: V8 Release 5.5",
+            "url": "http://v8project.blogspot.com/2016/10/v8-release-55.html",
+            "viaURL": null,
+            "content": "V8 5.5リリース。\nasync/awaitのサポート、メモリ消費量の改善など",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
