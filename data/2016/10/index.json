@@ -1201,6 +1201,19 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-27T14:10:57.646Z",
+            "title": "Release Notes for Safari Technology Preview 16 | WebKit",
+            "url": "https://webkit.org/blog/7030/release-notes-for-safari-technology-preview-16/",
+            "viaURL": null,
+            "content": "Safari Technology Preview Release 16リリース。\nURLのパースがウェブ標準により準拠するように、Gamepad APIのサポート、`Intl.getCanonicalLocales`のサポート、ES2016のnon-simple parametersにおけるearly errorに対応など",
+            "tags": [
+                "safari",
+                "URL",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
