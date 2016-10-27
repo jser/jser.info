@@ -1149,6 +1149,20 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-27T01:13:26.231Z",
+            "title": "ZEIT – Next.js",
+            "url": "https://zeit.co/blog/next",
+            "viaURL": null,
+            "content": "Reactを使ったサーバサイドレンダリング向けのフレームワーク。\nCSS in JS、Head、ルーティングや開発ツールがセットになっている。",
+            "tags": [
+                "JavaScript",
+                "React",
+                "serverless",
+                "isomorphic"
+            ],
+            "relatedLinks": []
         }
     ]
 }
