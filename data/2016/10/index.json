@@ -1188,6 +1188,19 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-27T10:35:10.429Z",
+            "title": "taichi/ci-yarn-upgrade: Keep NPM dependencies up-to-date with CI, providing version-to-version diff for each library",
+            "url": "https://github.com/taichi/ci-yarn-upgrade",
+            "viaURL": null,
+            "content": "yarnを使ってpackage.jsonの依存モジュールを更新するPRを出す事ができるツール。\nまた更新するモジュールの一覧を取得する事もできる",
+            "tags": [
+                "JavaScript",
+                "npm",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
