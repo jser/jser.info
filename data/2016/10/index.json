@@ -1294,6 +1294,18 @@
                 "debug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-10-30T12:59:28.760Z",
+            "title": "Different ways to debug JavaScript code – Medium",
+            "url": "https://medium.com/@sandeep.scet/different-ways-to-debug-javascript-code-579e7f58cf10",
+            "viaURL": null,
+            "content": "JavaScriptのデバッグ手法について。\nalert、console、breakpoint、`debugger;`、`debug`、`monitor`などのAPIや方法について",
+            "tags": [
+                "JavaScript",
+                "debug"
+            ],
+            "relatedLinks": []
         }
     ]
 }
