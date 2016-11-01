@@ -67,6 +67,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-01T14:35:23.690Z",
+            "title": "Release v0.34.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.34.0",
+            "viaURL": null,
+            "content": "FlowType v0.34.0リリース。\n`empty` typeの追加、AsyncIterationの対応など",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
