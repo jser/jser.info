@@ -23,6 +23,23 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-01T00:42:43.015Z",
+            "title": "V8 JavaScript Engine: WebAssembly Browser Preview",
+            "url": "http://v8project.blogspot.com/2016/10/webassembly-browser-preview.html",
+            "viaURL": null,
+            "content": "Chromeがフラグ付きでWebAssernblyを実験的にサポート。フィードバックを募集している。",
+            "tags": [
+                "WebAssembly",
+                "V8"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "WebAssembly",
+                    "url": "http://webassembly.org/roadmap/"
+                }
+            ]
         }
     ]
 }
