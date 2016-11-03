@@ -178,6 +178,18 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-03T11:52:17.847Z",
+            "title": "tfennelly/browserify-tree: Generate a Browserify bundle dependency tree for bundled modules",
+            "url": "https://github.com/tfennelly/browserify-tree",
+            "viaURL": null,
+            "content": "Browserifyでbundleしたファイルの依存ツリーを見ることができるツール",
+            "tags": [
+                "browser",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
