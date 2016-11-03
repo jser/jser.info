@@ -202,6 +202,19 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-03T23:40:19.076Z",
+            "title": "Welcome sitespeed.io 4.0",
+            "url": "https://www.sitespeed.io/sitespeed.io-4.0-is-released/",
+            "viaURL": null,
+            "content": "Sitespeed.io 4.0リリース。\nDockerでgrafanaのダッシュボードを含んだセットアップが用意された、Pre/Postスクリプトでログインに対応、プラグイン、HTTP/2、HARファイルの生成、モバイル対応など",
+            "tags": [
+                "browser",
+                "performance",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
