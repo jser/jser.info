@@ -114,6 +114,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-03T02:54:21.735Z",
+            "title": "Pointing the Way Forward  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2016/10/pointer-events",
+            "viaURL": null,
+            "content": "Pointer eventsについて。\nイベントのモデルを一つにまとめて、`pointerType`でイベントの種類ごとに方法、`pointercancel`や`touch-action`について",
+            "tags": [
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
