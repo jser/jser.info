@@ -190,6 +190,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-03T13:30:25.589Z",
+            "title": "Getting Started with Webpack 2",
+            "url": "https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783",
+            "viaURL": null,
+            "content": "webpack 2を使ったビルドの設定について。\nmultiple entry、loader、bundleの分割などについて",
+            "tags": [
+                "webpack",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
