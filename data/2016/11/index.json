@@ -256,6 +256,23 @@
                     "url": "http://book.impress.co.jp/books/1116101049"
                 }
             ]
+        },
+        {
+            "date": "2016-11-07T14:50:50.895Z",
+            "title": "Cooperative Scheduling with requestIdleCallback ★ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2016/11/cooperative-scheduling-with-requestidlecallback/",
+            "viaURL": null,
+            "content": "Firefox 52で実装される`requestIdleCallback`についての解説。\n`timeRemaining()`、`timeout`オプションやキャンセルした場合についてなど。",
+            "tags": [
+                "JavaScript",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Cooperative Scheduling of Background Tasks（日本語訳）",
+                    "url": "https://triple-underscore.github.io/requestidlecallback-ja.html"
+                }
+            ]
         }
     ]
 }
