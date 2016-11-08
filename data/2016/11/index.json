@@ -306,6 +306,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-08T00:41:11.797Z",
+            "title": "Grimoire.js",
+            "url": "https://grimoire.gl/",
+            "viaURL": "https://github.com/jser/ping/issues/30",
+            "content": "GOMLというHTMLライクなXMLシンタックスで記述して、WebGLを使った3D表現を行うライブラリ。\n`<scene>`や`<camera>`といったノードを組み合わせることで表現する。",
+            "tags": [
+                "JavaScript",
+                "WebGL",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
