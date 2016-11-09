@@ -336,6 +336,18 @@
                     "url": "https://github.com/nodejs/node/pull/9279"
                 }
             ]
+        },
+        {
+            "date": "2016-11-09T08:04:19.603Z",
+            "title": "TypeScript 2.1 RC: Better Inference, Async Functions, and More | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2016/11/08/typescript-2-1-rc-better-inference-async-functions-and-more/",
+            "viaURL": null,
+            "content": "TypeScript 2.1 RCリリース。\n`any`型の改善、async/awaitがES3/ES5出力でも動くようになるなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
