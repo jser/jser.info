@@ -377,6 +377,20 @@
                     "url": "https://github.com/auth0-blog/ng2-dinos"
                 }
             ]
+        },
+        {
+            "date": "2016-11-10T15:22:26.317Z",
+            "title": "TestCafe v0.10.0 Released | TestCafe",
+            "url": "http://devexpress.github.io/testcafe/blog/testcafe-v0-10-0-released.html",
+            "viaURL": null,
+            "content": "TestCafe v0.10.0リリース。\nSnapshot APIを扱いやすく、automatic waitの仕組みを改善、`speed`オプションでテストの実行速度をコントールできるようになるなど",
+            "tags": [
+                "JavaScript",
+                "E2E",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
