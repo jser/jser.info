@@ -360,6 +360,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-10T14:55:25.003Z",
+            "title": "Migrating an Angular 1 App to Angular 2 - Part 1",
+            "url": "https://auth0.com/blog/migrating-an-angular-1-app-to-angular-2-part-1/",
+            "viaURL": null,
+            "content": "AngularJS 1.xのアプリwo\nAngularJS 2へマイグレーションするチュートリアル",
+            "tags": [
+                "AngularJS",
+                "tutorial"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "auth0-blog/ng2-dinos: A sample Angular 2 application",
+                    "url": "https://github.com/auth0-blog/ng2-dinos"
+                }
+            ]
         }
     ]
 }
