@@ -342,7 +342,7 @@
             "title": "TypeScript 2.1 RC: Better Inference, Async Functions, and More | TypeScript",
             "url": "https://blogs.msdn.microsoft.com/typescript/2016/11/08/typescript-2-1-rc-better-inference-async-functions-and-more/",
             "viaURL": null,
-            "content": "TypeScript 2.1 RCリリース。\n`any`型の改善、async/awaitがES3/ES5出力でも動くようになるなど",
+            "content": "TypeScript 2.1 RCリリース。\n`any`型の改善、tsconfig.jsonの`extends`対応、async/awaitがES3/ES5へ出力できるようになるなど",
             "tags": [
                 "TypeScript",
                 "ReleaseNote"
