@@ -391,6 +391,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-11T00:31:08.329Z",
+            "title": "dop251/goja: ECMAScript 5.1(+) implementation written in Go",
+            "url": "https://github.com/dop251/goja",
+            "viaURL": null,
+            "content": "ECMAScriptのGo言語実装。\nES5.1相当の実装をしてる",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "golang"
+            ],
+            "relatedLinks": []
         }
     ]
 }
