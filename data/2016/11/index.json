@@ -555,6 +555,23 @@
                 "ECMAScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-14T15:12:50.624Z",
+            "title": "doiuse...?",
+            "url": "http://www.doiuse.com/",
+            "viaURL": null,
+            "content": "CSSをペーストして指定したブラウザ(autoprefixerのフォーマット)で利用できるかをチェックできるツール",
+            "tags": [
+                "CSS",
+                "tool"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "anandthakker/doiuse: Lint CSS for browser support against caniuse database.",
+                    "url": "https://github.com/anandthakker/doiuse"
+                }
+            ]
         }
     ]
 }
