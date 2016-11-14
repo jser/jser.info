@@ -489,6 +489,18 @@
                     "url": "https://developer.chrome.com/devsummit/"
                 }
             ]
+        },
+        {
+            "date": "2016-11-14T12:00:07.532Z",
+            "title": "Improving Perceived Performance with Multiple Background Images – CSS Wizardry – CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts",
+            "url": "http://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images/",
+            "viaURL": null,
+            "content": "背景画像が表示されるまで、`linear-gradient`を使った模様を代替表示する",
+            "tags": [
+                "CSS",
+                "画像"
+            ],
+            "relatedLinks": []
         }
     ]
 }
