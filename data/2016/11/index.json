@@ -543,6 +543,18 @@
                     "url": "https://github.com/RisingStack/nx-observe"
                 }
             ]
+        },
+        {
+            "date": "2016-11-14T14:01:14.950Z",
+            "title": "Pitfall: not all objects can be proxied transparently",
+            "url": "http://www.2ality.com/2016/11/proxying-builtins.html",
+            "viaURL": null,
+            "content": "ES2015のProxyでhandlerオブジェクトが空である場合に透過的な動作を期待するがそうではないという話",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
