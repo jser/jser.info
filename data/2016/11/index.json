@@ -526,6 +526,23 @@
                 "API"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-14T13:54:52.018Z",
+            "title": "Writing a JavaScript Framework - Data Binding with ES6 Proxies | @RisingStack",
+            "url": "http://blog.risingstack.com/writing-a-javascript-framework-data-binding-es6-proxy/",
+            "viaURL": null,
+            "content": "ProxyやReflect APIを使い、値の変更を監視するObservableライブラリ。\nES5のgetter/setterを使ったアプリーチとの比較",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "RisingStack/nx-observe: Next gen data observation/binding with ES6 Proxies",
+                    "url": "https://github.com/RisingStack/nx-observe"
+                }
+            ]
         }
     ]
 }
