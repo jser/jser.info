@@ -572,6 +572,19 @@
                     "url": "https://github.com/anandthakker/doiuse"
                 }
             ]
+        },
+        {
+            "date": "2016-11-14T23:09:36.284Z",
+            "title": "DJWassink/Promise-parallel-throttle: It's like Promise.all(), but throttled!",
+            "url": "https://github.com/DJWassink/Promise-parallel-throttle",
+            "viaURL": null,
+            "content": "一度に実行する数を指定できる`Promise.all`的なライブラリ",
+            "tags": [
+                "JavaScript",
+                "Promises",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
