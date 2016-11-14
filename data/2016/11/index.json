@@ -513,6 +513,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-14T13:49:40.605Z",
+            "title": "2016年、Web Audio API はどう変わったのか? | g200kg Music & Software",
+            "url": "http://www.g200kg.com/archives/2016/11/2016web-audio-a.html",
+            "viaURL": null,
+            "content": "Web Audio APIの変更点について。\nAudioWorkerがAudioWorkletにリネーム、ConstantSourceNodeの追加、コンストラクタのサポートなど",
+            "tags": [
+                "web ",
+                "audio",
+                "API"
+            ],
+            "relatedLinks": []
         }
     ]
 }
