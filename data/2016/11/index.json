@@ -495,7 +495,7 @@
             "title": "Improving Perceived Performance with Multiple Background Images – CSS Wizardry – CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts",
             "url": "http://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images/",
             "viaURL": null,
-            "content": "背景画像が表示されるまで、`linear-gradient`を使った模様を代替表示する",
+            "content": "`background-image`に指定した画像が表示されるまで、`linear-gradient`を使った模様を代替表示するFallbackについて\n",
             "tags": [
                 "CSS",
                 "画像"
