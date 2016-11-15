@@ -585,6 +585,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-15T01:19:14.185Z",
+            "title": "Migrating to Jest – Medium",
+            "url": "https://medium.com/@kentcdodds/migrating-to-jest-881f75366e7e",
+            "viaURL": null,
+            "content": "AVAとMochaでのテストをJestにマイグレーションする方法とツール(codemods)について。\nUI testsの時間が短縮されてる。",
+            "tags": [
+                "JavaScript",
+                "React",
+                "testing"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "skovhus/jest-codemods: Codemods for migrating to Jest https://github.com/facebook/jest",
+                    "url": "https://github.com/skovhus/jest-codemods"
+                }
+            ]
         }
     ]
 }
