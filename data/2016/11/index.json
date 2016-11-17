@@ -640,6 +640,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-17T13:35:35.766Z",
+            "title": "6.19.0 Released · Babel",
+            "url": "https://babeljs.io/blog/2016/11/16/6.19.0",
+            "viaURL": null,
+            "content": "Babel v6.19.0リリース。\nbabel-plugin-transform-object-rest-spreadが単独のPluginとして動くように。\nstage-2 presetに`babel-plugin-syntax-dynamic-import`を追加など",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Object rest spread transform · Babel",
+                    "url": "http://babeljs.io/docs/plugins/transform-object-rest-spread/"
+                }
+            ]
         }
     ]
 }
