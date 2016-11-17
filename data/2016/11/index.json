@@ -657,6 +657,27 @@
                     "url": "http://babeljs.io/docs/plugins/transform-object-rest-spread/"
                 }
             ]
+        },
+        {
+            "date": "2016-11-17T15:17:46.140Z",
+            "title": "Firefox 50.0 リリースノート",
+            "url": "https://www.mozilla.jp/firefox/50.0/releasenotes/",
+            "viaURL": null,
+            "content": "Firefox 50リリース。\nWebM EMEのサポート、`Symbol.hasInstance`の実装、コンソールがSource Mapを解釈するように。\n`addEventListener`が`once`オプション、`X-Content-Type-Options`ヘッダーのサポート、など",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 50 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/ja/Firefox/Releases/50"
+                },
+                {
+                    "title": "Firefox 50 サイト互換性情報 | Firefox サイト互換性情報",
+                    "url": "https://www.fxsitecompat.com/ja/versions/50/"
+                }
+            ]
         }
     ]
 }
