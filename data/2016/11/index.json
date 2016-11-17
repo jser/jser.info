@@ -616,6 +616,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-17T10:58:45.935Z",
+            "title": "React v15.4.0 - React Blog",
+            "url": "https://facebook.github.io/react/blog/2016/11/16/react-v15.4.0.html",
+            "viaURL": null,
+            "content": "React v15.4.0リリース。\n内部的に存在していた `react/lib/*` のPrivate APIを削除、`?react_perf`を付けることでUser Timingベースのプロファイリングを取れるようになるなど",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
