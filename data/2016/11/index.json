@@ -699,6 +699,19 @@
                     "url": "https://vsavkin.com/migrating-angular-1-applications-to-angular-2-in-5-simple-steps-40621800a25b"
                 }
             ]
+        },
+        {
+            "date": "2016-11-17T22:59:58.814Z",
+            "title": "Release fetch 2.0.0 · github/fetch",
+            "url": "https://github.com/github/fetch/releases/tag/v2.0.0",
+            "viaURL": null,
+            "content": "Fetch APIのpolyfillライブラリである`fetch` 2.0.0リリース。\n`Header.get()`の挙動変更、`Headers.getAll()`の削除など",
+            "tags": [
+                "JavaScript",
+                "github",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
