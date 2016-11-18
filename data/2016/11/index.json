@@ -712,6 +712,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-18T15:10:26.066Z",
+            "title": "paulirish/pwmetrics: Progressive web metrics at your fingertipz",
+            "url": "https://github.com/paulirish/pwmetrics",
+            "viaURL": null,
+            "content": "lighthouseを使ったパフォーマンスメトリクスの可視化ツール",
+            "tags": [
+                "performance",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "GoogleChrome/lighthouse: auditing and performance metrics for Progressive Web Apps",
+                    "url": "https://github.com/GoogleChrome/lighthouse/"
+                }
+            ]
         }
     ]
 }
