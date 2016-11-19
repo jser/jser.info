@@ -729,6 +729,17 @@
                     "url": "https://github.com/GoogleChrome/lighthouse/"
                 }
             ]
+        },
+        {
+            "date": "2016-11-19T15:54:22.911Z",
+            "title": "Introducing Custom Elements | WebKit",
+            "url": "https://webkit.org/blog/7027/introducing-custom-elements/",
+            "viaURL": null,
+            "content": "Custom Elementについて。\nHTMLElementのサブクラスでの定義、ライフサイクルのコールバックイベントは同期的に呼ばれる点について。\nまた、非同期でCustom Elementが`deinfe`されたことを`whenDefined`で検知する方法について",
+            "tags": [
+                "WebComponents"
+            ],
+            "relatedLinks": []
         }
     ]
 }
