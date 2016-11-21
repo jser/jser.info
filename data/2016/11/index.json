@@ -764,6 +764,25 @@
                 "スライド"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-21T11:30:23.828Z",
+            "title": "How to win in Web Framework Benchmarks – Medium",
+            "url": "https://medium.com/@localvoid/how-to-win-in-web-framework-benchmarks-8bc31af76ce7",
+            "viaURL": null,
+            "content": "kiviというReactのようなUIライブラリを作っていくにあたりベンチマークを見てどのような最適化をしていくかという話。\n色々なDOMライブラリのベンチマークを試し、どのような点を改善すれば結果がよくなったかという話",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "VirtualDOM",
+                "benchmark"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "localvoid/kivi: Javascript (TypeScript) library for building web user interfaces",
+                    "url": "https://github.com/localvoid/kivi"
+                }
+            ]
         }
     ]
 }
