@@ -795,6 +795,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-21T13:16:43.349Z",
+            "title": "Release 0.17.0 · avajs/ava",
+            "url": "https://github.com/avajs/ava/releases/tag/v0.17.0",
+            "viaURL": null,
+            "content": "AVA 0.17.0リリース。\n`process.cws()`を`package.json`と同じディレクトリに変更、Node.js v4>=のみのサポート、`--require` CLIオプションの削除、`karma-ava`のサポートなど",
+            "tags": [
+                "node.js",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "avajs/ava-codemods: Codemods for AVA",
+                    "url": "https://github.com/avajs/ava-codemods#migrating-to-ava"
+                }
+            ]
         }
     ]
 }
