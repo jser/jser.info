@@ -824,6 +824,24 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-21T15:15:24.049Z",
+            "title": "React with Reduxによる大規模商用サービスの開発 / nodefest2016 // Speaker Deck",
+            "url": "https://speakerdeck.com/yoshidan/nodefest2016",
+            "viaURL": null,
+            "content": "React + Reduxにおける注意点について。\n画面遷移とJavaScriptファイルの分割、サーバサイドレンダリングの手法とコストについて",
+            "tags": [
+                "React",
+                "redux",
+                "スライド"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "React + Reduxで作ったIsomorphic(Universal) JSなサービス開発の裏側 - Tech Blog - Recruit Lifestyle Engineer",
+                    "url": "http://engineer.recruit-lifestyle.co.jp/techblog/2016-11-16-isomorphic-javascript/"
+                }
+            ]
         }
     ]
 }
