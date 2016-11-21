@@ -842,6 +842,24 @@
                     "url": "http://engineer.recruit-lifestyle.co.jp/techblog/2016-11-16-isomorphic-javascript/"
                 }
             ]
+        },
+        {
+            "date": "2016-11-21T15:17:51.670Z",
+            "title": "Victory",
+            "url": "https://formidable.com/open-source/victory/",
+            "viaURL": null,
+            "content": "React Componentとしてグラフを書く事ができるライブラリ。",
+            "tags": [
+                "React",
+                "グラフ",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Flexible Charting in React with Victory (and Introducing FormidableCharts) | Formidable",
+                    "url": "https://formidable.com/blog/2016/11/09/flexible-charting-in-react-with-victory/"
+                }
+            ]
         }
     ]
 }
