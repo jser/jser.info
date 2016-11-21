@@ -783,6 +783,18 @@
                     "url": "https://github.com/localvoid/kivi"
                 }
             ]
+        },
+        {
+            "date": "2016-11-21T11:39:21.819Z",
+            "title": "These Weeks in Firefox: Issue 5 | Firefox Nightly News",
+            "url": "https://blog.nightly.mozilla.org/2016/11/16/these-weeks-in-firefox-issue-5/",
+            "viaURL": null,
+            "content": "Firefox Nightly 52における変更点のハイライト。\nasync/awaitの対応、ネットワークのスロットリングツールの追加、`<input type=\"time\">`のUI改善など",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
