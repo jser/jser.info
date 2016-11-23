@@ -889,6 +889,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-23T01:18:16.871Z",
+            "title": "Node v7.2.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v7.2.0/",
+            "viaURL": null,
+            "content": "Node v7.2.0リリース。\nWindows向けのセキュリティリリース、`process.memoryUsage().external`の追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
