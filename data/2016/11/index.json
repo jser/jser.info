@@ -932,6 +932,25 @@
                     "url": "https://gist.github.com/yyx990803/faebe22e8763f5b17572b35ed96f52fe"
                 }
             ]
+        },
+        {
+            "date": "2016-11-24T00:41:42.164Z",
+            "title": "katatema.js - ✘╹◡╹✘",
+            "url": "http://r7kamura.hatenablog.com/entry/2016/11/24/030101",
+            "viaURL": null,
+            "content": "Next.jsみたいな形でディレクトリにReactのコンポーネントを置くとHTMLにそれぞれ変換できるツール",
+            "tags": [
+                "React",
+                "webpack",
+                "Tools",
+                "HTML"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "r7kamura/katatema: A handy static site generator using React.js",
+                    "url": "https://github.com/r7kamura/katatema"
+                }
+            ]
         }
     ]
 }
