@@ -963,6 +963,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-26T10:11:00.264Z",
+            "title": "React at Product Hunt // Speaker Deck",
+            "url": "https://speakerdeck.com/rstankov/react-at-product-hunt",
+            "viaURL": null,
+            "content": "ProductHuntのJavaScript変遷についてのスライド。\njQuery -> Backbone -> React + Redux。\nDuxyを使ったRest APIの操作についてなど",
+            "tags": [
+                "JavaScript",
+                "スライド"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "producthunt/duxy: RESTful resources",
+                    "url": "https://github.com/producthunt/duxy"
+                }
+            ]
         }
     ]
 }
