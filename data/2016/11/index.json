@@ -1003,6 +1003,18 @@
                 "npm"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-27T12:18:55.416Z",
+            "title": "DasSur.ma – How to read web specs Part IIa – Or: ECMAScript Symbols",
+            "url": "https://dassur.ma/things/reading-specs-2/",
+            "viaURL": null,
+            "content": "ECMAScriptの仕様をどうやって読んでいくかについて。\n`@@iterator`とは何か?というところから`Symbol`の仕様を見ていく話",
+            "tags": [
+                "ECMAScript",
+                "spec"
+            ],
+            "relatedLinks": []
         }
     ]
 }
