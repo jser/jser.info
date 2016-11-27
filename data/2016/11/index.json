@@ -1015,6 +1015,24 @@
                 "spec"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-27T12:26:25.971Z",
+            "title": "Release notes · Riot.js",
+            "url": "http://riotjs.com/release-notes/#november-22-2016",
+            "viaURL": "https://github.com/jser/ping/issues/32",
+            "content": "Riot.js 3.0リリース",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Riot 3.0.0 roadmap · Issue #1694 · riot/riot",
+                    "url": "https://github.com/riot/riot/issues/1694"
+                }
+            ]
         }
     ]
 }
