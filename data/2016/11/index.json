@@ -1093,6 +1093,22 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-11-28T13:23:54.214Z",
+            "title": "TypeScript 2.0: Built-In Type Declarations | Marius Schulz",
+            "url": "https://blog.mariusschulz.com/2016/11/25/typescript-2-0-built-in-type-declarations",
+            "viaURL": null,
+            "content": "TypeScript 2.0のBuilt-In Typeについて。\n`--lib`オプションで含めるビルトインのlibを指定できる",
+            "tags": [
+                "TypeScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Compiler Options · TypeScript",
+                    "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html"
+                }
+            ]
         }
     ]
 }
