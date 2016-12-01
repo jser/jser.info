@@ -24,6 +24,25 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-01T14:26:44.744Z",
+            "title": "Svelte • The magical disappearing UI framework",
+            "url": "https://svelte.technology/",
+            "viaURL": null,
+            "content": "Vueなどに似た書き方をするコンパイル前提のUIフレームワーク。\n変換後はただのDOM APIを使ったJavaScriptになり、ランタイムとしてのライブラリ読み込みが不要となる。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "DOM",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Frameworks without the framework: why didn&#39;t we think of this sooner? • Svelte",
+                    "url": "https://svelte.technology/blog/frameworks-without-the-framework/"
+                }
+            ]
         }
     ]
 }
