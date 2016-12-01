@@ -43,6 +43,18 @@
                     "url": "https://svelte.technology/blog/frameworks-without-the-framework/"
                 }
             ]
+        },
+        {
+            "date": "2016-12-01T23:40:01.101Z",
+            "title": "JavaScript Developers: Watch Your Language! - Web Standards - Bocoup",
+            "url": "https://bocoup.com/weblog/javascript-developers-watch-your-language",
+            "viaURL": null,
+            "content": "ECMAScript ProposalのStageの解説。\nStage段階のものは、Babelなどで簡単に扱えるけど危険性も含んでいるから、TC39での議論は注視する必要があるという話。\nStage段階のものはexprimentalであることを理解して使おうという話",
+            "tags": [
+                "ECMAScript",
+                "proposal"
+            ],
+            "relatedLinks": []
         }
     ]
 }
