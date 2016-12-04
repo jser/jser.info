@@ -92,6 +92,18 @@
                 "redux"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-04T14:56:00.141Z",
+            "title": "レガシーシステム上のJavaScriptをモダンビルドにしていくwebpack利用実例 - Qiita",
+            "url": "http://qiita.com/inuscript/items/97333a239c97094c39a6",
+            "viaURL": null,
+            "content": "モジュールではないコードや古いライブラリをどのように現代のツールに載せていくかについて。\nモジュール化やwebpackを使ったビルドプロセスなどの手法について",
+            "tags": [
+                "JavaScript",
+                "webpack"
+            ],
+            "relatedLinks": []
         }
     ]
 }
