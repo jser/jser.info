@@ -155,6 +155,18 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-05T15:08:23.257Z",
+            "title": "V8 JavaScript Engine: V8 Release 5.6",
+            "url": "http://v8project.blogspot.com/2016/12/v8-release-56.html",
+            "viaURL": null,
+            "content": "V8 5.6リリース。\nES2015のパフォーマンス改善、`String#padStart`と`String#padEnd`の実装など",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
