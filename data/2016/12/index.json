@@ -141,6 +141,20 @@
                 "spec"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-05T13:01:34.411Z",
+            "title": "一から始めるJavaScriptユニットテスト - Hatena Developer Blog",
+            "url": "http://developer.hatenastaff.com/entry/2016/12/05/102351",
+            "viaURL": null,
+            "content": "MochaをNode.jsで動くユニットテストから、Karmaを使いブラウザで動かすDOMのテストするまでをPull Request毎に解説してる。",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "testing",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
