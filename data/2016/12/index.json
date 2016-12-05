@@ -220,6 +220,31 @@
                     "url": "http://emberjs.com/blog/2016/07/29/announcing-the-glimmer-2-alpha.html"
                 }
             ]
+        },
+        {
+            "date": "2016-12-05T15:54:04.274Z",
+            "title": "Chrome Releases: Stable Channel Update for Desktop",
+            "url": "https://googlechromereleases.blogspot.com/2016/12/stable-channel-update-for-desktop.html",
+            "viaURL": "https://github.com/jser/ping/issues/33",
+            "content": "Chrome 55リリース。\nPointer Event、async/await、Presistent Storageなど。\nHTML5 by Default(Flashのデフォルトブロック)はChrome 56に延期した。",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chrome 55: Async and Await, Pointer Events, Persistent Storage and more - YouTube",
+                    "url": "https://www.youtube.com/watch?v=OC7tgJP1D4s"
+                },
+                {
+                    "title": "Chromium Blog: Chrome 55 Beta: Input handling improvements and async/await functions",
+                    "url": "https://blog.chromium.org/2016/10/chrome-55-beta-input-handling.html"
+                },
+                {
+                    "title": "(Update) Intent to Implement - HTML5 by Default - Google グループ",
+                    "url": "https://groups.google.com/a/chromium.org/forum/#!msg/chromium-dev/ad7Posd6cdI/5EEOduWiCwAJ"
+                }
+            ]
         }
     ]
 }
