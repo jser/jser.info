@@ -167,6 +167,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-05T15:12:25.180Z",
+            "title": "gajus/babel-plugin-log-deprecated: Adds a console.warn statement to the functions annotated with @deprecated tag.",
+            "url": "https://github.com/gajus/babel-plugin-log-deprecated",
+            "viaURL": null,
+            "content": "JSDocの`@depreacted`タグを`console.warn`に変換するBabel plugin",
+            "tags": [
+                "babel",
+                "JSDoc"
+            ],
+            "relatedLinks": []
         }
     ]
 }
