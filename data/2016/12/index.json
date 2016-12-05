@@ -202,6 +202,24 @@
                 "SVG"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-05T15:35:14.799Z",
+            "title": "Ember.js - Ember 2.10 and 2.11 Beta Released",
+            "url": "http://emberjs.com/blog/2016/11/30/ember-2-10-released.html",
+            "viaURL": null,
+            "content": "Ember 2.10リリース。\nGlimmer 2を含んだ初のリリース。\n既存の仕組みと後方互換性を持っているため、そのままアップグレードが可能となっている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Ember.js - Announcing The Glimmer 2 Alpha",
+                    "url": "http://emberjs.com/blog/2016/07/29/announcing-the-glimmer-2-alpha.html"
+                }
+            ]
         }
     ]
 }
