@@ -281,7 +281,12 @@
                 "JavaScript",
                 "security"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "notes/Lets-fix-Buffer-API.md at master · ChALkeR/notes",
+                    "url": "https://github.com/ChALkeR/notes/blob/master/Lets-fix-Buffer-API.md"
+                }
+            ]
         }
     ]
 }
