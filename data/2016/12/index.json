@@ -300,6 +300,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-07T13:03:14.887Z",
+            "title": "On Webpack and Source Map integration | Code.Art.Web",
+            "url": "http://lorefnon.me/2016/12/03/on-webpack-and-source-map-integration.html",
+            "viaURL": null,
+            "content": "webpackの`devtool`で指定できるSource Mapオプションについて",
+            "tags": [
+                "webpack"
+            ],
+            "relatedLinks": []
         }
     ]
 }
