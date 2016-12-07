@@ -269,6 +269,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-07T10:46:16.809Z",
+            "title": "今年のうちに対応したい、Node.jsのBufferに潜む危険性 - Yahoo! JAPAN Tech Blog",
+            "url": "https://techblog.yahoo.co.jp/advent-calendar-2016/node_new_buffer/",
+            "viaURL": null,
+            "content": "Node.jsの`new Buffer`のセキュリティ的な問題点についての解説。\n非推奨となった`new Buffer`の代わりとなる`Buffer.from`/`Buffer.alloc`/`Buffer.allocUnsafe`について",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
