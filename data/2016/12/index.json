@@ -336,6 +336,18 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-08T00:48:51.444Z",
+            "title": "Promise の all と race だけで書ける待ち合わせ、書けない待ち合わせ - Qiita",
+            "url": "http://qiita.com/Kuniwak/items/9ea447598b7652db78b9",
+            "viaURL": null,
+            "content": "`Promise.all`と`Promise.race`を使った待ちわせのパターンについて",
+            "tags": [
+                "JavaScript",
+                "Promises"
+            ],
+            "relatedLinks": []
         }
     ]
 }
