@@ -408,6 +408,18 @@
                 "babel"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-08T15:27:44.818Z",
+            "title": "Microsoft Edge build 14986 changelog - Microsoft Edge Development",
+            "url": "https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/desktop/14986/",
+            "viaURL": null,
+            "content": "MSEdge build 14986リリース。\nCSS Custom Property、IntersectionObserverのサポート。\nFetchをフラグ付きでサポート、async/awaitをデフォルトで有効に",
+            "tags": [
+                "MSEdge",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
