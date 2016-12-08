@@ -373,6 +373,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-08T12:16:46.535Z",
+            "title": "Release Notes for Safari Technology Preview 19 | WebKit",
+            "url": "https://webkit.org/blog/7093/release-notes-for-safari-technology-preview-19/",
+            "viaURL": null,
+            "content": "Safari Technology Preview Release 19リリース。\nTouch Barのサポート、Pointer Lock APIの有効化、WebDriver時は`navigator.webdriver`が触れるようになるなど",
+            "tags": [
+                "webkit",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
