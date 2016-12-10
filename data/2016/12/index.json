@@ -448,6 +448,19 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-10T06:38:43.371Z",
+            "title": "How to Snapshot Test Everything in Your Redux App With Jest – Medium",
+            "url": "https://medium.com/@jondot/how-to-snapshot-test-everything-in-your-redux-app-with-jest-fde305ebedea",
+            "viaURL": null,
+            "content": "Jestを使ったReactコンポーネントのsnapshotテスト、enzymeを使ったインタラクションテスト、Reduxのreducerのテスト手法について",
+            "tags": [
+                "React",
+                "redux",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
