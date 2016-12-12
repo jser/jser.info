@@ -528,6 +528,30 @@
                     "url": "https://www.cybertrust.ne.jp/sureserver/productinfo/sha1ms.html"
                 }
             ]
+        },
+        {
+            "date": "2016-12-12T14:42:47.268Z",
+            "title": "Angular: Angular 1.6.0 released",
+            "url": "http://angularjs.blogspot.com/2016/12/angular-160-released.html",
+            "content": "AngularJS 1.6.0リリース。\njqLiteをjQuery 3の挙動に合わせるように、expression sandboxを削除。\nまた、JSONPリクエストはホワイトリストがデフォルトになるなど多數のBreaking Changeが含まれている",
+            "tags": [
+                "AngularJS",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "angular.js/CHANGELOG.md at master · angular/angular.js",
+                    "url": "https://github.com/angular/angular.js/blob/master/CHANGELOG.md#160-rainbow-tsunami-2016-12-08"
+                },
+                {
+                    "title": "AngularJS: Developer Guide: Migrating from Previous Versions",
+                    "url": "https://docs.angularjs.org/guide/migration#migrating-from-1-5-to-1-6"
+                },
+                {
+                    "title": "Angular: Angular 1.6 - Expression Sandbox Removal",
+                    "url": "http://angularjs.blogspot.jp/2016/09/angular-16-expression-sandbox-removal.html"
+                }
+            ]
         }
     ]
 }
