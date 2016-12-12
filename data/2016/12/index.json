@@ -550,12 +550,20 @@
                 {
                     "title": "Angular: Angular 1.6 - Expression Sandbox Removal",
                     "url": "http://angularjs.blogspot.jp/2016/09/angular-16-expression-sandbox-removal.html"
-                },
-                {
-                    "title": "Angular 1.6 is here, this is what you need to know",
-                    "url": "https://toddmotto.com/angular-1-6-is-here"
                 }
             ]
+        },
+        {
+            "date": "2016-12-12T22:53:13.138Z",
+            "title": "Performance Calendar » Prefer DEFER Over ASYNC",
+            "url": "http://calendar.perfplanet.com/2016/prefer-defer-over-async/",
+            "content": "deferとasync属性について。 どちらもHTMLパースのブロックはしないが、レンダリングのブロックは発生する。 \ndeferは常にdomInteractiveが起きてから実行するため一定、しかしasyncはダウンロード速度によってはメインと被ることもある。\nメインコンテンツに関係ないレンダリングを行うスクリプトはdefer属性を試すことで、メインのレンダリングが邪魔されずに進むかを確認した方が良いという話。",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
