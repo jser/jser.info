@@ -610,6 +610,17 @@
                 "React"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-14T15:19:41.127Z",
+            "title": "Release v0.37.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.37.0",
+            "content": "Flow v0.37.0 リリース。\nbuilt-in libの定義を更新、`declare module`内で`import type`と`import typeof`を使えるようになるなど",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
