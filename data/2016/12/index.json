@@ -621,6 +621,16 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-15T01:54:48.872Z",
+            "title": "Writing Declaration Files for @types | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2016/12/14/writing-dts-files-for-types/",
+            "content": "TypeSriptのDefinitelyTyped向けに型定義ファイルを書く方法について\n手で書く方法とdts-genを使う方法について",
+            "tags": [
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
