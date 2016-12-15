@@ -631,6 +631,21 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-15T09:12:49.238Z",
+            "title": "webpack 2.2: The Release Candidate – webpack – Medium",
+            "url": "https://medium.com/webpack/webpack-2-2-the-release-candidate-2e614d05d75f",
+            "content": "webpack 2.2.0 RCリリース。\n2.x系のRCリリースとなってる",
+            "tags": [
+                "webpack"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v2.2.0-rc.0 · webpack/webpack",
+                    "url": "https://github.com/webpack/webpack/releases/tag/v2.2.0-rc.0"
+                }
+            ]
         }
     ]
 }
