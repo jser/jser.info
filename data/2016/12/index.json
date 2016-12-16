@@ -646,6 +646,18 @@
                     "url": "https://github.com/webpack/webpack/releases/tag/v2.2.0-rc.0"
                 }
             ]
+        },
+        {
+            "date": "2016-12-16T01:36:24.955Z",
+            "title": "Release v5.0.0 · reactjs/react-redux",
+            "url": "https://github.com/reactjs/react-redux/releases/tag/v5.0.0",
+            "content": "React-Redux v5.0.0リリース。\n後方互換性はあるけどメジャーアップデート、`connect()`のオプションを追加、`connectAdvanced()`を追加など",
+            "tags": [
+                "React",
+                "redux",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
