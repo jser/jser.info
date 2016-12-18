@@ -679,6 +679,22 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-18T08:55:15.271Z",
+            "title": "simple-statistics/simple-statistics: simple statistics for node & browser javascript",
+            "url": "https://github.com/simple-statistics/simple-statistics",
+            "content": "統計的な関数のコレクションライブラリ。\nPythonのsimplestatisticsのport。",
+            "tags": [
+                "JavaScript",
+                "統計"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "sheriferson/simplestatistics: Simple statistical functions implemented in readable Python.",
+                    "url": "https://github.com/sheriferson/simplestatistics"
+                }
+            ]
         }
     ]
 }
