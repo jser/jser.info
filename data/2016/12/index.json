@@ -729,6 +729,22 @@
                 "GUI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-19T15:09:06.818Z",
+            "title": "date-fns/date-fns: ⏳ Modern JavaScript date utility library ⌛️",
+            "url": "https://github.com/date-fns/date-fns",
+            "content": "Date周りの操作を提供するライブラリ。\nlodashのように利用する関数だけを取り出して使えるようにするのが目的となってる",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Add a brief comparison with Moment.js? · Issue #275 · date-fns/date-fns",
+                    "url": "https://github.com/date-fns/date-fns/issues/275#issuecomment-264934189"
+                }
+            ]
         }
     ]
 }
