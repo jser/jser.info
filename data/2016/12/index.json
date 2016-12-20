@@ -768,6 +768,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-20T01:12:25.993Z",
+            "title": "The Inner Workings Of Virtual DOM – Medium",
+            "url": "https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf",
+            "content": "(Preactの)Virtual DOMがどのような処理を経てレンダリングされているのかを追った記事。\nVirtual DOMの最適化処理についてなど",
+            "tags": [
+                "VirtualDOM",
+                "React"
+            ],
+            "relatedLinks": []
         }
     ]
 }
