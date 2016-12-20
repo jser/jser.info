@@ -755,6 +755,19 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-20T01:05:10.497Z",
+            "title": "jsdom/Changelog.md at 9.9.0 · tmpvar/jsdom",
+            "url": "https://github.com/tmpvar/jsdom/blob/9.9.0/Changelog.md",
+            "content": "jsdom 9.9.0リリース。\n`document.createCDATASection`、`node.wholeText`のサポート、バグ修正など",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
