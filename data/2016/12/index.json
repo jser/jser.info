@@ -781,24 +781,13 @@
             "relatedLinks": []
         },
         {
-            "date": "2016-12-21T08:45:13.724Z",
-            "title": "Angular2によるモダンWeb開発 TypeScriptを使った基本プログラミング | 末次 章 |本 | 通販 | Amazon",
-            "url": "https://www.amazon.co.jp/dp/4822296539",
-            "content": "2017年1月18日発売\nAngular2についての書籍",
-            "tags": [
-                "AngularJS",
-                "book"
-            ],
-            "relatedLinks": []
-        },
-        {
-            "date": "2016-12-21T09:01:28.806Z",
-            "title": "Why JavaScript has two zeros: -0 and +0 | CodeKraft",
-            "url": "https://abdulapopoola.com/2016/12/19/why-javascript-has-two-zeros-0-and-0/",
-            "content": "`+0`と`-0`について。\nIEEE 754の仕様とJavaScriptの仕様、`Object.is`での判定についてなど",
+            "date": "2016-12-21T13:59:55.012Z",
+            "title": "amilajack/eslint-plugin-compat: Browser and ES spec compatibility assertion with ESLint",
+            "url": "https://github.com/amilajack/eslint-plugin-compat",
+            "content": "AutoPrefixerのように想定ブラウザを記述し、そのブラウザで動かないAPIを使ってないかをチェックするESLintルール。\ncaniuseやcompat tableのデータを使う",
             "tags": [
                 "JavaScript",
-                "ECMAScript"
+                "ESLint"
             ],
             "relatedLinks": []
         }
