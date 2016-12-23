@@ -19,7 +19,8 @@
   "bugs": {
     "url": "https://github.com/jser/jser.info/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+  },
   "devDependencies": {
     "JSV": "~4.0.2",
     "bluebird": "^3.0.5",

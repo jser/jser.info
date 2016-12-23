@@ -34,3 +34,5 @@ node_modules
 .sass_cache
 
 *競合*
+# generated
+/tools/converter/items.json
