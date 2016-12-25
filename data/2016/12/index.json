@@ -849,6 +849,17 @@
                     "url": "https://github.com/yeoman/generator/releases/tag/v1.0.0"
                 }
             ]
+        },
+        {
+            "date": "2016-12-25T15:03:39.937Z",
+            "title": "Stream API入門 - Qiita",
+            "url": "http://qiita.com/Mizunashi_Mana/items/872354cd7bf25090932f",
+            "content": "Node.jsのStream APIについて。\n非同期処理のコールバック、Promise、async/await、generatorを踏まえてのStreamについての解説。\nWrite/Read/Duplex、Stream処理が得意とすること、`objectMode`についてなど幅広く解説されてる",
+            "tags": [
+                "node.js",
+                "stream"
+            ],
+            "relatedLinks": []
         }
     ]
 }
