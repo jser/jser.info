@@ -933,6 +933,27 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-26T12:15:14.380Z",
+            "title": "Release 3rd Mutation · canjs/canjs",
+            "url": "https://github.com/canjs/canjs/releases/tag/v3.0.0",
+            "content": "CanJS 3.0リリース\nコードは`can-*`からなるモジュールに分割され、`.attr()`の代わりに`DefineMap`の導入など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "JavaScriptフレームワーク「CanJS 3.0」リリース | OSDN Magazine",
+                    "url": "https://mag.osdn.jp/16/12/22/160000"
+                },
+                {
+                    "title": "donejs - donejs",
+                    "url": "http://donejs.com/"
+                }
+            ]
         }
     ]
 }
