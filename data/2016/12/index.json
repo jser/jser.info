@@ -976,6 +976,22 @@
                 "test"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-26T13:54:15.230Z",
+            "title": "ServiceWorker内にExpressサーバーを立てる - Qiita",
+            "url": "http://qiita.com/narirou/items/738a0fe6656d0f905e28",
+            "content": "express-serviceがどのようにして実際のNode.jsで動くExpressのコードをServideWorkerの中でも擬似的に動かしているのかについての解説",
+            "tags": [
+                "ServiceWorker",
+                "node.js"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "express-service",
+                    "url": "https://www.npmjs.com/package/express-service"
+                }
+            ]
         }
     ]
 }
