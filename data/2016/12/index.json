@@ -877,6 +877,18 @@
                     "url": "http://calendar.perfplanet.com/2016/introducing-speedtracker/"
                 }
             ]
+        },
+        {
+            "date": "2016-12-26T10:58:43.611Z",
+            "title": "Firebug lives on in Firefox DevTools ★ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2016/12/firebug-lives-on-in-firefox-devtools/",
+            "content": "Firebugは開発終了したが、多くの機能はFirefoxの開発者ツールに引き継がれている/引き継ぐ予定があるという話。\n\nまたFirebugはマルチプロセス対応を念頭に開発されたものではなかったため、Firebugを拡張するよりも、Firefoxの開発者ツールを拡張していく方が良いという決定がされた。",
+            "tags": [
+                "Firebug",
+                "firefox",
+                "debug"
+            ],
+            "relatedLinks": []
         }
     ]
 }
