@@ -954,6 +954,17 @@
                     "url": "http://donejs.com/"
                 }
             ]
+        },
+        {
+            "date": "2016-12-26T12:57:26.241Z",
+            "title": "JavaScriptのUIライブラリはどうあるべきかという話とOnsen UIのアーキテクチャ - id:anatooのブログ",
+            "url": "http://blog.anatoo.jp/entry/2016/12/09/201511",
+            "content": "特定のUIフレームワークに依存されないUIフレームワークの基盤をどのように作るかという話。\nCSS Components層、Web Components層、フレームワークバインディング層のレイヤー分けについて",
+            "tags": [
+                "JavaScript",
+                "UI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
