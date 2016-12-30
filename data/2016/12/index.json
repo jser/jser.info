@@ -1085,6 +1085,22 @@
                     "url": "https://www.youtube.com/watch?v=VKydmxRm6w8"
                 }
             ]
+        },
+        {
+            "date": "2016-12-30T12:35:01.314Z",
+            "title": "FlowtypeでFluxアーキテクチャに型付けをするという発表をした - Please Drive Faster",
+            "url": "http://joe-re.hatenablog.com/entry/2016/12/29/204917",
+            "content": "FlowTypeを使ってFluxアーキテクチャのパターンに型を付ける話",
+            "tags": [
+                "flowtype",
+                "Flux"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "flowtypeによりFluxにおいて型安全を手に入れる - Qiita",
+                    "url": "http://qiita.com/joe-re/items/d6fd262a8c6017f41e22"
+                }
+            ]
         }
     ]
 }
