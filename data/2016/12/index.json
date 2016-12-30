@@ -1067,6 +1067,24 @@
                 "ECMAScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2016-12-30T10:25:06.698Z",
+            "title": "StealJS 1.0 Release",
+            "url": "https://www.bitovi.com/blog/stealjs-1.0-release",
+            "content": "開発時は動的なモジュールローダで、本番時はsteal-toolsでのproduction buildでbundleできるStealJS 1.0リリース",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Easy ES6 with StealJS - YouTube",
+                    "url": "https://www.youtube.com/watch?v=VKydmxRm6w8"
+                }
+            ]
         }
     ]
 }
