@@ -1101,6 +1101,18 @@
                     "url": "http://qiita.com/joe-re/items/d6fd262a8c6017f41e22"
                 }
             ]
+        },
+        {
+            "date": "2016-12-31T00:43:21.149Z",
+            "title": "nolanlawson/marky: High-resolution JavaScript timer based on performance.mark() and measure()",
+            "url": "https://github.com/nolanlawson/marky",
+            "content": "User Timing API(`performance.mark`と`performance.measure`)ベースの処理時間計測ライブラリ",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "libn"
+            ],
+            "relatedLinks": []
         }
     ]
 }
