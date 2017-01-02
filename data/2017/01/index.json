@@ -10,6 +10,17 @@
                 "React"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-02T13:43:56.450Z",
+            "title": "maniart/diffyjs: A dependency-free motion detection library for the browser",
+            "url": "https://github.com/maniart/diffyjs",
+            "content": "`MediaDevices.getUserMedia()`を使って取得した画像から、フレームごとの動きのdiffを取得できるライブラリ。\nmotion detectionライブラリ",
+            "tags": [
+                "JavaScript",
+                "画像"
+            ],
+            "relatedLinks": []
         }
     ]
 }
