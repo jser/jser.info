@@ -43,6 +43,22 @@
                 "security"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-03T11:44:53.720Z",
+            "title": "Fuse-Box bundler / API Reference",
+            "url": "http://fuse-box.org/",
+            "content": "webpack/Browserifyのようなbundler、JSPM/SystemJSのようなloaderを機能を持つツール。\n変換結果の依存関係とキャッシュをすることで高速な変換ができる。\nプラグインで対応する変換を拡張できる",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "FuseBox — bundle your project within a fraction of a second",
+                    "url": "https://medium.com/@ivanorlov/fusebox-bundle-your-project-within-a-fraction-of-a-second-f2360ba95727"
+                }
+            ]
         }
     ]
 }
