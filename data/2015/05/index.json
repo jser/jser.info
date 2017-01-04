@@ -69,7 +69,7 @@
             "tags": [
                 "JavaScript",
                 "サーバー",
-                "スライド"
+                "slide"
             ],
             "date": "2015-05-01T09:44:41.424Z",
             "relatedLinks": [
@@ -236,7 +236,7 @@
                 "JavaScript",
                 "audio",
                 "動画",
-                "スライド"
+                "slide"
             ],
             "date": "2015-05-07T08:58:47.781Z",
             "relatedLinks": []
@@ -281,7 +281,7 @@
             "content": "npmの最近の変更点についてのスライド",
             "tags": [
                 "npm",
-                "スライド"
+                "slide"
             ],
             "date": "2015-05-10T05:44:23.938Z",
             "relatedLinks": []
@@ -565,7 +565,7 @@
                 "performance",
                 "CSS",
                 "JavaScript",
-                "スライド"
+                "slide"
             ],
             "date": "2015-05-17T07:54:42.656Z",
             "relatedLinks": []
@@ -685,7 +685,7 @@
             "tags": [
                 "JavaScript",
                 "performance",
-                "スライド"
+                "slide"
             ],
             "date": "2015-05-17T13:27:05.265Z",
             "relatedLinks": [
@@ -1061,7 +1061,16 @@
                 "library"
             ],
             "date": "2015-05-31T08:27:32.650Z",
-            "relatedLinks": [{ "title" : "Polymer 1.0の挙動変更の影響 - Qiita", "url" : "http://qiita.com/shibukawa/items/45324051af06e08a11cc"},{ "title" : "Polymer 0.5 → 1.0 変更点ナナメ読みメモ ::ハブろぐ", "url" : "http://havelog.ayumusato.com/develop/webcomponents/e672-polymer_050to100_changelog.html"}]
+            "relatedLinks": [
+                {
+                    "title": "Polymer 1.0の挙動変更の影響 - Qiita",
+                    "url": "http://qiita.com/shibukawa/items/45324051af06e08a11cc"
+                },
+                {
+                    "title": "Polymer 0.5 → 1.0 変更点ナナメ読みメモ ::ハブろぐ",
+                    "url": "http://havelog.ayumusato.com/develop/webcomponents/e672-polymer_050to100_changelog.html"
+                }
+            ]
         },
         {
             "title": "ESLint 0.22.0 released - ESLint - Pluggable JavaScript linter",

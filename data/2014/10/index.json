@@ -106,7 +106,7 @@
             "content": "TypeScriptの特徴について紹介しているスライド",
             "tags": [
                 "TypeScript",
-                "スライド"
+                "slide"
             ],
             "date": "2014-10-04T01:57:03.241Z",
             "relatedLinks": [
@@ -122,7 +122,7 @@
             "content": "TypeScriptの特徴について紹介しているスライド",
             "tags": [
                 "TypeScript",
-                "スライド"
+                "slide"
             ],
             "date": "2014-10-04T01:57:07.393Z",
             "relatedLinks": [
@@ -212,7 +212,7 @@
                 "React",
                 "JavaScript",
                 "library",
-                "スライド"
+                "slide"
             ],
             "date": "2014-10-04T17:02:13.329Z",
             "relatedLinks": []
@@ -257,7 +257,7 @@
             "content": "XSSの動く仕組み、そのXSSを防止するためのエスケープや必要な事の多さとその一つとしてのCSPについてのスライド。\nCSPのルールについての紹介",
             "tags": [
                 "CSP",
-                "スライド"
+                "slide"
             ],
             "date": "2014-10-05T04:46:22.321Z",
             "relatedLinks": []
@@ -282,7 +282,7 @@
                 "JavaScript",
                 "MVC",
                 "library",
-                "スライド"
+                "slide"
             ],
             "date": "2014-10-05T05:28:23.706Z",
             "relatedLinks": [
@@ -300,7 +300,7 @@
                 "JavaScript",
                 "i18n",
                 "library",
-                "スライド",
+                "slide",
                 "AngularJS"
             ],
             "date": "2014-10-05T06:05:58.021Z",
@@ -339,7 +339,7 @@
             "content": "ECMAScriptのタイムライン、ES6の機能紹介のスライド",
             "tags": [
                 "ECMAScript",
-                "スライド"
+                "slide"
             ],
             "date": "2014-10-06T12:22:16.915Z",
             "relatedLinks": []
@@ -512,7 +512,7 @@
             "content": "WebRTCの接続確立から通信するまで流れとWebRTCのAPIについてのスライド。\nNAT、ICE(STUN,TURN)、DTLS,\nSRTP、SCTP、WebSocket APIとの類似性などについて",
             "tags": [
                 "WebRTC",
-                "スライド"
+                "slide"
             ],
             "date": "2014-10-09T02:06:15.630Z",
             "relatedLinks": [
@@ -1251,7 +1251,7 @@
             "tags": [
                 "browser",
                 "performance",
-                "スライド"
+                "slide"
             ],
             "date": "2014-10-25T06:44:10.143Z",
             "relatedLinks": [
@@ -1279,7 +1279,7 @@
             "content": "SCRIPTYのスライドまとめ。\nCSS/BEM、Backbone/Marionette、Angular/Three.js、Polymer、Yahoo!ニュースのブラウザサポート、grunt、ライブコーディング、アクセシビリティなど",
             "tags": [
                 "JavaScript",
-                "スライド",
+                "slide",
                 "まとめ",
                 "イベント"
             ],
@@ -1320,7 +1320,7 @@
             "tags": [
                 "DOM",
                 "XSS",
-                "スライド"
+                "slide"
             ],
             "date": "2014-10-26T02:16:37.467Z",
             "relatedLinks": [
@@ -1403,7 +1403,7 @@
             "content": "ng-europeのスライドまとめ",
             "tags": [
                 "AngularJS",
-                "スライド",
+                "slide",
                 "まとめ"
             ],
             "date": "2014-10-26T07:23:27.094Z",
@@ -1421,7 +1421,7 @@
             "tags": [
                 "ECMAScript",
                 "JavaScript",
-                "スライド"
+                "slide"
             ],
             "date": "2014-10-26T08:57:19.239Z",
             "relatedLinks": []
@@ -1454,7 +1454,7 @@
             "content": "AtScriptについてのスライド。\nAtScriptは新しい言語ではなくES6にTypesとAnnotationsとIntrospectionを追加したもの。\nAtScriptのロードマップについても書かれている。",
             "tags": [
                 "AngularJS",
-                "スライド"
+                "slide"
             ],
             "date": "2014-10-26T09:48:10.649Z",
             "relatedLinks": []
@@ -1506,7 +1506,7 @@
                 "CSS",
                 "SVG",
                 "animation",
-                "スライド"
+                "slide"
             ],
             "date": "2014-10-28T07:14:04.347Z",
             "relatedLinks": []
@@ -1517,7 +1517,7 @@
             "content": "CSP Level2の機能についての紹介スライド。\nPath matching、Nonce source、Source hash、frame-ancestors、referrer、sandbox等についてよくまとまっている",
             "tags": [
                 "CSP",
-                "スライド",
+                "slide",
                 "セキュリティ"
             ],
             "date": "2014-10-28T07:29:07.104Z",
@@ -1617,7 +1617,7 @@
             "tags": [
                 "VirualDOM",
                 "JavaScript",
-                "スライド",
+                "slide",
                 "MVC"
             ],
             "date": "2014-10-29T05:29:40.461Z",
@@ -1686,7 +1686,7 @@
             "content": "Object.observeについてのスライド。\nObject.observeはオブジェクトの変更を監視できるが、Imuutabilityとは逆の事になってしまう。\nImmutableなしくみを提供するmori等のライブラリや同様にDOMでもStatelessなDOMを提供するReactやVirtual DOMがある。\nただ、全体としてのUI状態を管理するImmutableオブジェクトは必要。\n\nImmutableなオブジェクトでやるとUndoの実装が簡単になる話。\n\n現在のシンプルなバインディングはMutableデータをStateful DOMへ結びつける。\n未来のレンダリングはImmutableデータをStateless DOMにする?",
             "tags": [
                 "JavaScript",
-                "スライド"
+                "slide"
             ],
             "date": "2014-10-31T14:36:57.236Z",
             "relatedLinks": [

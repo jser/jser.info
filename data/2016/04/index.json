@@ -1053,7 +1053,7 @@
             "content": "[Almin.js](https://github.com/almin/almin \"Almin.js\")の設計の概念的な話やパターンについて",
             "tags": [
                 "JavaScript",
-                "スライド"
+                "slide"
             ],
             "relatedLinks": []
         },
@@ -1142,7 +1142,12 @@
                 "Tools",
                 "ReleaseNote"
             ],
-            "relatedLinks": [{ "title" : "ESLint v2.9.0 - Qiita", "url" : "http://qiita.com/mysticatea/items/1d377b67465664009ad5"}]
+            "relatedLinks": [
+                {
+                    "title": "ESLint v2.9.0 - Qiita",
+                    "url": "http://qiita.com/mysticatea/items/1d377b67465664009ad5"
+                }
+            ]
         }
     ]
 }

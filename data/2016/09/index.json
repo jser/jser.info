@@ -105,7 +105,7 @@
             "content": "Reactのコンポーネントの作り方やテスト、React周りで最近でてきたツールについてのスライド",
             "tags": [
                 "React",
-                "スライド"
+                "slide"
             ],
             "relatedLinks": []
         },
@@ -147,7 +147,7 @@
             "tags": [
                 "ServiceWorker",
                 "Chrome",
-                "スライド"
+                "slide"
             ],
             "relatedLinks": []
         },
@@ -206,7 +206,7 @@
             "tags": [
                 "web ",
                 "browser",
-                "スライド"
+                "slide"
             ],
             "relatedLinks": []
         },
@@ -219,7 +219,7 @@
                 "HTML",
                 "WAI-ARIA",
                 "accessibility",
-                "スライド"
+                "slide"
             ],
             "relatedLinks": []
         },
@@ -445,7 +445,7 @@
             "content": "D3.js v4についてのスライド。\nモジュール分割、Canvasへの書き出し、分割されたモジュール毎の解説",
             "tags": [
                 "d3.js",
-                "スライド"
+                "slide"
             ],
             "relatedLinks": []
         },
@@ -655,7 +655,7 @@
             "content": "CSS Custom Propertiesについてのスライド。\nFallback、i18n、CSS Custom Propertiesとcalc、JavaScriptからの利用、@supportsについてなど",
             "tags": [
                 "CSS",
-                "スライド"
+                "slide"
             ],
             "relatedLinks": []
         },
@@ -720,7 +720,7 @@
             "content": "デフォルトの`<a>`はどういうサポートがあるからaccessibleであるかについてを独自のリンク実装で見ていく話。\nまたデフォルトではaccessibleでないツールチップ、タブパネルなどをどうじっそうするか。\n実際にスクリーンリーダーの音を聞きながら確認できる",
             "tags": [
                 "accessibility",
-                "スライド"
+                "slide"
             ],
             "relatedLinks": []
         },
@@ -1025,7 +1025,7 @@
             "content": "JavaScriptで複雑なアプリケーションを作る場合にどのように考えるかというスライド。\nドメインモデルをどのように考えて作っていくかについて。 Babel、React、Almin、PostCSSがベース。\n",
             "tags": [
                 "JavaScript",
-                "スライド",
+                "slide",
                 "CQRS",
                 "DDD"
             ],
