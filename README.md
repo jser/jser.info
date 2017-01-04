@@ -68,7 +68,9 @@ JSer.infoのデータを分析したいはJSON APIとライブラリが用意さ
 	- 特定の期間で紹介した記事一覧の取得、関連記事の検索など
 - [JSer.info トレンド](https://jser.info/trends/ "JSer.info トレンド")
 	- [jser/stat-js](https://github.com/jser/stat-js "jser/stat-js")を使ったキーワードトレンド情報のビューア
-
+- [JSer.info Data Dashboard](https://jser.info/data-dashboard/ "JSer.info Data Dashboard")
+	- JSer.infoの掲載データを様々な形式でまとめたページ
+	- データをCSVとして取得できる
 
 ## 素材が欲しい
 
