@@ -276,7 +276,7 @@
                 "TypeScript",
                 "DDD",
                 "AngularJS",
-                "スライド"
+                "slide"
             ],
             "relatedLinks": []
         },
@@ -371,7 +371,7 @@
                 "React",
                 "CSS",
                 "DOM",
-                "スライド"
+                "slide"
             ],
             "relatedLinks": []
         },
@@ -450,7 +450,7 @@
             "content": "gulpのプラクティスについて。\nタスクの分割、設定の外部ファイル化、v4を見据えたタスクの書き方、v4の変更点について",
             "tags": [
                 "gulp",
-                "スライド"
+                "slide"
             ],
             "relatedLinks": []
         },
@@ -1152,7 +1152,7 @@
             "content": "CSS Modulesについてのスライド\n",
             "tags": [
                 "CSS",
-                "スライド"
+                "slide"
             ],
             "relatedLinks": [
                 {
@@ -1273,7 +1273,10 @@
                 "Tools"
             ],
             "relatedLinks": [
-                { "title" : "Announcing Sweet.js 1.0 — Medium", "url" : "https://medium.com/@disnet/announcing-sweet-js-1-0-e7f4f3e15594"},
+                {
+                    "title": "Announcing Sweet.js 1.0 — Medium",
+                    "url": "https://medium.com/@disnet/announcing-sweet-js-1-0-e7f4f3e15594"
+                },
                 {
                     "title": "Redesign by disnet · Pull Request #485 · mozilla/sweet.js",
                     "url": "https://github.com/mozilla/sweet.js/pull/485"

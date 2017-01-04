@@ -757,7 +757,7 @@
                 "DOM",
                 "facebook",
                 "library",
-                "スライド"
+                "slide"
             ],
             "date": "2014-01-20T14:11:05.181Z",
             "relatedLinks": [
@@ -918,7 +918,7 @@
             "content": "Backbone.jsをベースにしたMarionette.jsについて。\nViewの階層構造、Events、テンプレートなど",
             "tags": [
                 "backbone.js",
-                "スライド",
+                "slide",
                 "JavaScript"
             ],
             "date": "2014-01-25T13:23:28.125Z",
@@ -940,7 +940,7 @@
             "tags": [
                 "backbone.js",
                 "JavaScript",
-                "スライド"
+                "slide"
             ],
             "date": "2014-01-25T13:58:37.356Z",
             "relatedLinks": [
@@ -969,7 +969,7 @@
             "tags": [
                 "web",
                 "animation",
-                "スライド"
+                "slide"
             ],
             "date": "2014-01-26T06:36:26.446Z",
             "relatedLinks": [
@@ -997,7 +997,7 @@
             "tags": [
                 "AngularJS",
                 "browserify",
-                "スライド",
+                "slide",
                 "動画"
             ],
             "date": "2014-01-27T06:08:09.332Z",
@@ -1119,7 +1119,10 @@
                     "title": "CoffeeScript upcoming changes.",
                     "url": "https://gist.github.com/aseemk/8637896/"
                 },
-                { "title" : "release 1.6.4 · Issue #3141 · jashkenas/coffee-script", "url" : "https://github.com/jashkenas/coffee-script/issues/3141"}
+                {
+                    "title": "release 1.6.4 · Issue #3141 · jashkenas/coffee-script",
+                    "url": "https://github.com/jashkenas/coffee-script/issues/3141"
+                }
             ]
         },
         {

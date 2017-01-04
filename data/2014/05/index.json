@@ -28,7 +28,7 @@
             "tags": [
                 "JavaScript",
                 "デザインパターン",
-                "スライド"
+                "slide"
             ],
             "date": "2014-05-01T14:31:42.664Z",
             "relatedLinks": []
@@ -57,7 +57,7 @@
             "tags": [
                 "CSS",
                 "HTML",
-                "スライド"
+                "slide"
             ],
             "date": "2014-05-01T15:04:18.538Z",
             "relatedLinks": [
@@ -207,7 +207,7 @@
             "content": "FutureJSのスライドが公開されてる",
             "tags": [
                 "JavaScript",
-                "スライド",
+                "slide",
                 "イベント"
             ],
             "date": "2014-05-06T08:33:18.864Z",
@@ -382,7 +382,7 @@
             "tags": [
                 "node.js",
                 "library",
-                "スライド"
+                "slide"
             ],
             "date": "2014-05-11T11:03:58.372Z",
             "relatedLinks": [
@@ -460,7 +460,7 @@
                 "JavaScript",
                 "testing",
                 "動画",
-                "スライド"
+                "slide"
             ],
             "date": "2014-05-12T09:32:44.976Z",
             "relatedLinks": []
@@ -588,7 +588,7 @@
             "tags": [
                 "JavaScript",
                 "Chrome",
-                "スライド"
+                "slide"
             ],
             "date": "2014-05-14T15:33:38.939Z",
             "relatedLinks": []
@@ -744,7 +744,7 @@
             "tags": [
                 "JavaScript",
                 "OOP",
-                "スライド"
+                "slide"
             ],
             "date": "2014-05-19T13:54:40.095Z",
             "relatedLinks": []
@@ -1210,7 +1210,10 @@
                     "title": "Automattic/engine.io",
                     "url": "https://github.com/automattic/engine.io"
                 },
-                { "title" : "Socket.IO 1.0の紹介 (翻訳) - from scratch", "url" : "http://yosuke-furukawa.hatenablog.com/entry/2014/05/30/093103"}
+                {
+                    "title": "Socket.IO 1.0の紹介 (翻訳) - from scratch",
+                    "url": "http://yosuke-furukawa.hatenablog.com/entry/2014/05/30/093103"
+                }
             ]
         },
         {

@@ -71,7 +71,7 @@
             "content": "http://2014.jsconf.us/ のスライドまとめ",
             "tags": [
                 "JavaScript",
-                "スライド",
+                "slide",
                 "まとめ"
             ],
             "date": "2014-06-02T07:46:59.371Z",
@@ -83,7 +83,7 @@
             "content": "sweet.jsのマクロを使ったEmojiScriptについてのスライド。\nsweet.jsを使ったHygieneなマクロ、パターンマッチ等についても紹介してる",
             "tags": [
                 "JavaScript",
-                "スライド"
+                "slide"
             ],
             "date": "2014-06-02T08:00:27.996Z",
             "relatedLinks": [
@@ -101,7 +101,7 @@
                 "JavaScript",
                 "debug",
                 "browser",
-                "スライド"
+                "slide"
             ],
             "date": "2014-06-02T08:24:24.444Z",
             "relatedLinks": [
@@ -122,7 +122,7 @@
             "tags": [
                 "JavaScript",
                 "library",
-                "スライド"
+                "slide"
             ],
             "date": "2014-06-02T08:35:32.008Z",
             "relatedLinks": []
@@ -133,7 +133,7 @@
             "content": "チュートリアル等で見かけるページ内でJavaScriptを実行出来るiframeのSandboxをどのように作るかについてのスライド。\n入力されたコードを実行するだけではなく、Lintやテストを行う話",
             "tags": [
                 "JavaScript",
-                "スライド",
+                "slide",
                 "library"
             ],
             "date": "2014-06-02T08:49:50.963Z",
@@ -155,7 +155,7 @@
             "tags": [
                 "文字コード",
                 "JavaScript",
-                "スライド",
+                "slide",
                 "SQL"
             ],
             "date": "2014-06-02T08:59:49.864Z",
@@ -168,7 +168,7 @@
             "tags": [
                 "JavaScript",
                 "Tools",
-                "スライド"
+                "slide"
             ],
             "date": "2014-06-02T12:58:54.158Z",
             "relatedLinks": [
@@ -238,7 +238,7 @@
             "tags": [
                 "JavaScript",
                 "AngularJS",
-                "スライド",
+                "slide",
                 "IE"
             ],
             "date": "2014-06-03T14:42:29.547Z",
@@ -667,7 +667,7 @@
             "content": "WebGLでのレイマーチングについてのスライド。\nレイトレーシング、レイマーチングがどういうものなのかについても書かれてる。\nレイマーチングでの中心的な要素となるdistance functionについて",
             "tags": [
                 "WebGL",
-                "スライド"
+                "slide"
             ],
             "date": "2014-06-15T14:21:59.649Z",
             "relatedLinks": []
@@ -678,7 +678,7 @@
             "content": "WebGLとは何か、シェーダーの実装の流れについてのスライド。",
             "tags": [
                 "WebGL",
-                "スライド"
+                "slide"
             ],
             "date": "2014-06-15T14:24:10.622Z",
             "relatedLinks": []
@@ -765,7 +765,7 @@
                 "browserify",
                 "DOM",
                 "HTTP",
-                "スライド"
+                "slide"
             ],
             "date": "2014-06-16T13:39:02.517Z",
             "relatedLinks": []
@@ -806,7 +806,7 @@
             "content": "TypeScript勉強会のスライドまとめ\nhttp://vshtc.doorkeeper.jp/events/11407",
             "tags": [
                 "TypeScript",
-                "スライド",
+                "slide",
                 "まとめ"
             ],
             "date": "2014-06-17T01:02:18.494Z",
@@ -831,7 +831,7 @@
             "content": "既存のJavaScriptコードがある中で、どのようにルールを設けてチェックして、自動化していくかについてのスライド",
             "tags": [
                 "JavaScript",
-                "スライド"
+                "slide"
             ],
             "date": "2014-06-17T09:16:38.954Z",
             "relatedLinks": []
@@ -843,7 +843,7 @@
             "tags": [
                 "JavaScript",
                 "testing",
-                "スライド"
+                "slide"
             ],
             "date": "2014-06-17T09:19:18.425Z",
             "relatedLinks": []
@@ -1028,7 +1028,7 @@
             "content": "node-webkitやatom-shellのようにNodeJSをベースとしたデスクトップアプリについて",
             "tags": [
                 "node-webkit",
-                "スライド",
+                "slide",
                 "動画"
             ],
             "date": "2014-06-22T13:09:00.773Z",
@@ -1103,7 +1103,7 @@
             "content": "socket.io 1.0/engine.ioについてまとまってるスライド。\nWebSocketへのアップグレードの仕組み、ハンドシェイクから接続の間に処理を入れるミドルウェア、バイナリサポート、Adapter、サーバ間共有、プロトコルの変化等",
             "tags": [
                 "WebSocket",
-                "スライド"
+                "slide"
             ],
             "date": "2014-06-23T12:33:24.140Z",
             "relatedLinks": []
@@ -1322,7 +1322,7 @@
                 "JavaScript",
                 "debug",
                 "Tools",
-                "スライド"
+                "slide"
             ],
             "date": "2014-06-29T13:04:49.704Z",
             "relatedLinks": []
@@ -1333,7 +1333,7 @@
             "content": "JavaScriptという言語の基礎についてのスライド。\nプリミティブとそうでないものの違い\n、リテラル、引数に渡した時に参照なのかコピーなのか、クロージャー、即時実行等について",
             "tags": [
                 "JavaScript",
-                "スライド"
+                "slide"
             ],
             "date": "2014-06-29T22:53:13.068Z",
             "relatedLinks": []
