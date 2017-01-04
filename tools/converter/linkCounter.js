@@ -1,6 +1,8 @@
 /**
  * Created by azu on 2014/02/21.
  * LICENSE : MIT
+ * URL集計
+ * リリースノートの集計
  */
 "use strict";
 var path = require("path");
