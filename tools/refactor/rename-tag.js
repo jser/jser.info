@@ -5,6 +5,10 @@ const getAllItemFilePath = require("./get-all-item-file-path");
 const argv = require('minimist')(process.argv.slice(2));
 const from = argv.from;
 const to = argv.to;
+/**
+ * タグをリネームするツール
+ * Usage: node ./ --from "スライド" --to "slide"
+ */
 if (!(from && to)) {
     console.log("Usage: ./ --from before --to after");
     process.exit(1);
