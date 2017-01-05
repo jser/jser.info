@@ -126,6 +126,19 @@
                 "PostCSS"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-05T10:32:13.489Z",
+            "title": "Flow Runtime",
+            "url": "https://codemix.github.io/flow-runtime/",
+            "content": "Flow互換の型チェックを実装したランタイムとBabelプラグイン。\nFlowで書いたコードをランタイムチェックすることができる",
+            "tags": [
+                "flowtype",
+                "JavaScript",
+                "library",
+                "babel"
+            ],
+            "relatedLinks": []
         }
     ]
 }
