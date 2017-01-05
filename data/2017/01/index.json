@@ -80,6 +80,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-05T03:33:42.670Z",
+            "title": "talyssonoc/structure: A simple schema/attributes library built on top of modern JavaScript",
+            "url": "https://github.com/talyssonoc/structure",
+            "content": "ES2015 classesのモデルに対してスキーマを定義できるライブラリ。\nスキーマを元にバリデーションやシリアライズを行える",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
