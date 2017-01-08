@@ -167,6 +167,19 @@
                     "url": "http://www.marlin-arms.com/support/ljs3/"
                 }
             ]
+        },
+        {
+            "date": "2017-01-08T11:40:03.413Z",
+            "title": "danculley/real-dom: A ~1K non-virtual DOM non-framework framework for simple apps",
+            "url": "https://github.com/danculley/real-dom",
+            "content": "JSXで書くこともでき、ReduxライクなStateマシンを扱えるDOMコンポーネントライブラリ。\n50行ほどのコードで実装されていてとても小さい。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "React",
+                "jsx"
+            ],
+            "relatedLinks": []
         }
     ]
 }
