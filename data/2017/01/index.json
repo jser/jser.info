@@ -172,12 +172,25 @@
             "date": "2017-01-08T11:40:03.413Z",
             "title": "danculley/real-dom: A ~1K non-virtual DOM non-framework framework for simple apps",
             "url": "https://github.com/danculley/real-dom",
-            "content": "JSXで書くこともでき、ReduxライクなStateマシンを扱えるDOMコンポーネントライブラリ。\n50行ほどのコードで実装されている。",
+            "content": "JSXで書くこともでき、ReduxライクなStateマシンを扱えるDOMコンポーネントライブラリ。\n50行ほどのコードで実装されていてとても小さい。",
             "tags": [
                 "JavaScript",
                 "library",
                 "React",
                 "jsx"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-01-08T12:14:53.176Z",
+            "title": "Introducing Inferno 1.0 – inferno_js – Medium",
+            "url": "https://medium.com/inferno-js/introducing-inferno-1-0-f3da5c4e773b",
+            "content": "Inferno 1.0リリース。\nInfernoがなぜ作られたのか、今後のロードマップについて",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library",
+                "ReleaseNote"
             ],
             "relatedLinks": []
         }
