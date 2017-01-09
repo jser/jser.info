@@ -193,6 +193,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-09T16:22:40.859Z",
+            "title": "xvg",
+            "url": "https://xvg.now.sh/",
+            "content": "SVG pathをアウトライン化、アンカーを表示することでSVGをデバッグすることができるChrome拡張",
+            "tags": [
+                "SVG",
+                "Chrome",
+                "debug"
+            ],
+            "relatedLinks": []
         }
     ]
 }
