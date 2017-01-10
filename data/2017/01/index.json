@@ -227,7 +227,12 @@
                 "ReleaseNote",
                 "webkit"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Comparison with QtWebKit 5.6 · annulen/webkit Wiki",
+                    "url": "https://github.com/annulen/webkit/wiki/Comparison-with-QtWebKit-5.6"
+                }
+            ]
         }
     ]
 }
