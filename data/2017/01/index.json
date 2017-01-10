@@ -255,6 +255,17 @@
                 "proposal"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-10T12:25:06.692Z",
+            "title": "ES6 arrow functions in depth",
+            "url": "https://codesi.nz/es6-arrow-functions-in-depth/",
+            "content": "Arrow Functionについて細かいところも含めて、解説してる記事。\nよくある`this`の動き、暗黙的な`return`について\nまた、`new`できない点、`new.target`や`arguements`を扱えない点についてなど",
+            "tags": [
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
