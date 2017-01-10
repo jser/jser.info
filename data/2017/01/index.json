@@ -304,7 +304,16 @@
                 "npm",
                 "yarn"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "npm 4 is splitting the “prepublish” script into “prepublishOnly” and “prepare”",
+                    "url": "https://iamakulov.com/notes/all/npm-4-prepublish/"
+                },
+                {
+                    "title": "npm/CHANGELOG.md at latest · npm/npm",
+                    "url": "https://github.com/npm/npm/blob/latest/CHANGELOG.md#v411-2016-12-16"
+                }
+            ]
         }
     ]
 }
