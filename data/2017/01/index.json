@@ -233,6 +233,17 @@
                     "url": "https://github.com/annulen/webkit/wiki/Comparison-with-QtWebKit-5.6"
                 }
             ]
+        },
+        {
+            "date": "2017-01-10T12:09:48.399Z",
+            "title": "Microsoft Edge build 15002 changelog - Microsoft Edge Development",
+            "url": "https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/desktop/15002/",
+            "content": "Windows 10 build 15002リリース。\nMSEdgeでFlashがClick to playに、Web Paymentsの試験的サポート、CSP 2.0、WebVR APIのサポートなど\nまた別オリジンにおけるsetTimeout/requestAnimationFrameの呼び出し頻度を抑制するなど",
+            "tags": [
+                "MSEdge",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
