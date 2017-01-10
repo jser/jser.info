@@ -244,6 +244,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-10T12:13:41.144Z",
+            "title": "ES proposal: import()",
+            "url": "http://www.2ality.com/2017/01/import-operator.html",
+            "content": "現在Stage 3のProposalである、`import()`について。\ndynamic module importsに関する仕様",
+            "tags": [
+                "ECMAScript",
+                "proposal"
+            ],
+            "relatedLinks": []
         }
     ]
 }
