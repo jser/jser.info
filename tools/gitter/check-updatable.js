@@ -18,15 +18,15 @@ const unpublishedItems = stat.findItemsBetween(endDate, now);
  * 平均を求める
  */
 function average(data) {
-    var sum = 0;
-    for (var i = 0; i < data.length; i++) {
+    let sum = 0;
+    for (let i = 0; i < data.length; i++) {
         sum = sum + data[i];
     }
     return (sum / data.length);
 }
-const median = function (arr) {
-    var half = (arr.length / 2) | 0;
-    var temp = arr.sort();
+const median = function(arr) {
+    const half = (arr.length / 2) | 0;
+    const temp = arr.sort();
 
     if (temp.length % 2) {
         return temp[half];
@@ -34,24 +34,34 @@ const median = function (arr) {
 
     return (temp[half - 1] + temp[half]) / 2;
 };
-const itemCountList = jSerWeeks.map(function (week) {
+const itemCountList = jSerWeeks.map(function(week) {
     return week.items.length;
 });
 
-(function () {
+(function() {
     const averageValue = average(itemCountList);
     const medianValue = median(itemCountList);
     const currentValue = unpublishedItems.length;
-    console.log("平均値:" + averageValue);
-    console.log("中央値:" + medianValue);
-    console.log("現在値:" + currentValue);
+    const resultReport = `
+平均値:  ${averageValue}
+中央値:  ${medianValue}
+現在値:  ${currentValue}
+`;
+    console.log(resultReport);
 
     // ぴったりより少し前に予告したいので -3
     const hitValue = medianValue - 3;
-    if (hitValue === currentValue) {
-        postToGitter("そろそろ記事更新できそうですよ /cc @azu").then(function () {
+    // 中間報告
+    if ((hitValue / 2) === currentValue) {
+        postToGitter("中間報告です！" + resultReport).then(function() {
             console.log("Post to gitter!")
-        }).catch(function (error) {
+        }).catch(function(error) {
+            console.error(error);
+        });
+    } else if (hitValue === currentValue) {
+        postToGitter("そろそろ記事更新できそうですよ /cc @azu").then(function() {
+            console.log("Post to gitter!")
+        }).catch(function(error) {
             console.error(error);
         });
     }
