@@ -328,6 +328,22 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-11T00:31:18.459Z",
+            "title": "jlongster/prettier: Prettier is an opinionated JavaScript formatter.",
+            "url": "https://github.com/jlongster/prettier",
+            "content": "折り返し桁数ベースのJavaScript整形ツール",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "A Prettier JavaScript Formatter",
+                    "url": "http://jlongster.com/A-Prettier-Formatter"
+                }
+            ]
         }
     ]
 }
