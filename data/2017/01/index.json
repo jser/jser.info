@@ -371,6 +371,24 @@
                     "url": "https://github.com/webpack/webpack/issues/3917"
                 }
             ]
+        },
+        {
+            "date": "2017-01-12T08:44:17.584Z",
+            "title": "tsayen/dom-to-image: Generates an image from a DOM node using HTML5 canvas",
+            "url": "https://github.com/tsayen/dom-to-image",
+            "content": "SVGの`<foreignObject>`を使いHTMLを描画したものをCanvas経由で画像として取得するライブラリ\n",
+            "tags": [
+                "HTML",
+                "canvas",
+                "SVG",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "DOM オブジェクトを Canvas に描画する - HTML | MDN",
+                    "url": "https://developer.mozilla.org/ja/docs/Web/HTML/Canvas/Drawing_DOM_objects_into_a_canvas"
+                }
+            ]
         }
     ]
 }
