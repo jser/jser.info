@@ -376,7 +376,7 @@
             "date": "2017-01-12T08:44:17.584Z",
             "title": "tsayen/dom-to-image: Generates an image from a DOM node using HTML5 canvas",
             "url": "https://github.com/tsayen/dom-to-image",
-            "content": "SVGの`<foreignObject>`を使いHTMLを描画したものをCanvas経由で画像として取得するライブラリ\n",
+            "content": "DOM nodeを画像にするライブラリ。\nSVGの`<foreignObject>`を使いHTMLを描画したものをCanvas経由で画像として取得する。\n",
             "tags": [
                 "HTML",
                 "canvas",
