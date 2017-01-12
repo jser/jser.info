@@ -355,6 +355,22 @@
                 "翻訳"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-12T06:37:45.608Z",
+            "title": "Release v2.2.0-rc.4 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v2.2.0-rc.4",
+            "content": "webpack 2.2.0 RC4リリース。\nES2015+ Modulesの中で、CommonJS Modulesを利用できないようにする変更。\n予定では次のリリースがStableとなる。",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "2.2.0-rc.4&#39;s es6 modules&#39; &#34;module&#34; usage detection seems to be broken · Issue #3917 · webpack/webpack",
+                    "url": "https://github.com/webpack/webpack/issues/3917"
+                }
+            ]
         }
     ]
 }
