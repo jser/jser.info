@@ -416,6 +416,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-13T00:35:38.439Z",
+            "title": "Polyfills are part of the web - TAG finding",
+            "url": "https://w3ctag.github.io/polyfills/",
+            "content": "polyfillのウェブにおける役割について書かれたガイドライン。\npolyfillはどのようなものなのか、事例、潜在的な問題、ネイティブの実装に問題がある場合にどうするか、READMEやコンソールでのpolyfillについての明記についてなど",
+            "tags": [
+                "polyfill",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
