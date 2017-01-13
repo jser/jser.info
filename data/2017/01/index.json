@@ -376,7 +376,7 @@
             "date": "2017-01-12T08:44:17.584Z",
             "title": "tsayen/dom-to-image: Generates an image from a DOM node using HTML5 canvas",
             "url": "https://github.com/tsayen/dom-to-image",
-            "content": "DOM nodeを画像にするライブラリ。\nSVGの`<foreignObject>`を使いHTMLを描画したものをCanvas経由で画像として取得する。\n",
+            "content": "SVGの`<foreignObject>`を使いHTMLを描画したものをCanvas経由で画像として取得するライブラリ\n",
             "tags": [
                 "HTML",
                 "canvas",
@@ -391,43 +391,25 @@
             ]
         },
         {
-            "date": "2017-01-12T13:11:09.023Z",
-            "title": "Essential… by Victor Savkin et al. [Leanpub PDF/iPad/Kindle]",
-            "url": "https://leanpub.com/essential_angular",
-            "content": "Angularについての電子書籍。\n同じタイトルの連載も行われている。",
+            "date": "2017-01-13T02:17:59.533Z",
+            "title": "Release Notes for Safari Technology Preview 21 | WebKit",
+            "url": "https://webkit.org/blog/7265/release-notes-for-safari-technology-preview-21/",
+            "content": "Safari Technology Preview Release 21リリース。\nConcurrent GCの有効化、`<script type=\"module\">`の有効化、`global`のサポートされたがbreak the webのためbackoutなど",
             "tags": [
-                "AngularJS",
-                "book"
+                "ReleaseNote",
+                "webkit",
+                "safari"
             ],
             "relatedLinks": [
                 {
-                    "title": "Essential Angular: Compilation",
-                    "url": "https://blog.nrwl.io/essential-angular-2-compilation-cfbebf9bb6e4"
+                    "title": "チェンジセット 210570 – WebKit",
+                    "url": "https://trac.webkit.org/changeset/210570"
+                },
+                {
+                    "title": "global breaks flickr.com · Issue #20 · tc39/proposal-global",
+                    "url": "https://github.com/tc39/proposal-global/issues/20"
                 }
             ]
-        },
-        {
-            "date": "2017-01-12T23:16:08.186Z",
-            "title": "logtown/logtown: Simple Logging Facade for JavaScript",
-            "url": "https://github.com/logtown/logtown",
-            "content": "拡張が前提のロガーライブラリ",
-            "tags": [
-                "JavaScript",
-                "library"
-            ],
-            "relatedLinks": []
-        },
-        {
-            "date": "2017-01-13T00:35:38.439Z",
-            "title": "Polyfills are part of the web - TAG finding",
-            "url": "https://w3ctag.github.io/polyfills/",
-            "content": "polyfillのウェブにおける役割について書かれたガイドライン。\npolyfillはどのようなものなのか、事例、潜在的な問題、ネイティブの実装に問題がある場合にどうするか、READMEやコンソールでのpolyfillについての明記についてなど",
-            "tags": [
-                "polyfill",
-                "JavaScript",
-                "library"
-            ],
-            "relatedLinks": []
         }
     ]
 }
