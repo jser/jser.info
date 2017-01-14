@@ -420,6 +420,22 @@
                 "WebComponents"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-14T02:46:28.629Z",
+            "title": "katat/vbot: JSON based visual regression testing tool, particularly useful for SPA or complicated web app",
+            "url": "https://github.com/katat/vbot",
+            "content": "JSONベースのリグレッションテストツール。\nJSONでシナリオを作成して、スクリーンショットの画像比較ができる",
+            "tags": [
+                "browser",
+                "testing"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "vbot - JSON based visual regression tester - Kata Tech Life",
+                    "url": "http://katat.github.io/2017/01/09/vbot/"
+                }
+            ]
         }
     ]
 }
