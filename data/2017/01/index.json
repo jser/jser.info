@@ -436,6 +436,17 @@
                     "url": "http://katat.github.io/2017/01/09/vbot/"
                 }
             ]
+        },
+        {
+            "date": "2017-01-14T10:56:15.938Z",
+            "title": "protractor/CHANGELOG.md at 5.0.0 · angular/protractor",
+            "url": "https://github.com/angular/protractor/blob/5.0.0/CHANGELOG.md",
+            "content": "Protractor 5.0.0リリース。\n`selenium-webdriver` 3.0.xへのアップデートに伴う破壊的変更、未知のフラグはエラーを投げるようになるなど",
+            "tags": [
+                "test",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
