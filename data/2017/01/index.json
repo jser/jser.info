@@ -458,6 +458,27 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-14T23:33:42.107Z",
+            "title": "mobx/CHANGELOG.md at 3.0.0 · mobxjs/mobx",
+            "url": "https://github.com/mobxjs/mobx/blob/3.0.0/CHANGELOG.md",
+            "content": "MobX 3リリース。\n`observable`が各type毎にファクトリメソッドを追加、受け取ったオブジェクトをcloneするように、エラーハンドリングの改善など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "MobX 3.0.0 の変更点について - console.lealog();",
+                    "url": "http://lealog.hateblo.jp/entry/2017/01/11/140607"
+                },
+                {
+                    "title": "MobX 3 released: Unpeeling the onion – Medium",
+                    "url": "https://medium.com/@mweststrate/mobx-3-released-unpeeling-the-onion-ca877382f443"
+                }
+            ]
         }
     ]
 }
