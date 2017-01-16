@@ -490,6 +490,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-16T04:47:57.283Z",
+            "title": "Side Effects in JS Promise chains – Medium",
+            "url": "https://medium.com/@gabrielcatalin/side-effects-in-js-promise-chains-7db50b6302f3",
+            "content": "Promise chainに副作用がある処理を含める際に処理が途切れてしまう問題について。\n`passThrough()`のような高階関数を用意し副作用を扱うことで、明示しつつバグを減らす方法について",
+            "tags": [
+                "JavaScript",
+                "Promises"
+            ],
+            "relatedLinks": []
         }
     ]
 }
