@@ -534,6 +534,16 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-16T12:39:04.233Z",
+            "title": "TypedArray or DataView: Understanding byte order ★ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2017/01/typedarray-or-dataview-understanding-byte-order/",
+            "content": "`ArrayBuffer`、`TypedArray`、`DataView`についての解説。\n`ArrayBuffer`がバイナリのデータ構造であり、*view*として`TypedArray`と`DataView`があるという話",
+            "tags": [
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
