@@ -549,12 +549,32 @@
             "date": "2017-01-16T12:51:12.117Z",
             "title": "arqex/freezer: A tree data structure that emits events on updates, even if the modification is triggered by one of the leaves, making it easier to think in a reactive way.",
             "url": "https://github.com/arqex/freezer",
-            "content": "Immutable.jsのようなImmutableなデータ構造を扱うライブラリ。\n変更を通知するイベント持ち、Immutable.jsよりもファイルサイズが小さい。",
+            "content": "Immutable.jsのようなImmutableなデータ構造を扱うライブラリ。\n変更を通知するイベントやImmutable.jsよりもファイルサイズが小さい。",
             "tags": [
                 "JavaScript",
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-16T13:03:47.448Z",
+            "title": "angus-c/just: A library of dependency-free utilities that do just do one thing.",
+            "url": "https://github.com/angus-c/just",
+            "content": "依存がない小さなユーティリティライブラリ集。\nそれぞれの機能を個別のモジュールとしてインストールして利用できる。\nそれぞれの`just-*`モジュール間でも依存関係がない作りとなっている。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Why I wrote Just. – Medium",
+                    "url": "https://medium.com/@angustweets/just-a12d54221f65"
+                },
+                {
+                    "title": "Just vs lodash · Issue #4 · angus-c/just",
+                    "url": "https://github.com/angus-c/just/issues/4"
+                }
+            ]
         }
     ]
 }
