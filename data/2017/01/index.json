@@ -588,6 +588,18 @@
                 "Extension"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-16T13:10:41.411Z",
+            "title": "yamafaktory/shrimpit: Shrimpit is a small CLI analysis tool for checking unused JavaScript, JSX & Vue templates ES6 exports in your project.",
+            "url": "https://github.com/yamafaktory/shrimpit",
+            "content": "各モジュールのimport/exportを一覧し、未使用なモジュールを表示出来るCLI",
+            "tags": [
+                "JavaScript",
+                "library",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
