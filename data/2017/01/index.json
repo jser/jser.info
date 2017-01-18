@@ -610,6 +610,16 @@
                 "AngularJS"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-18T14:34:53.971Z",
+            "title": "Introduction to WebAssembly — Rasmus Andersson",
+            "url": "https://rsms.me/wasm-intro",
+            "content": "WebAssemblyの中身を見ていく話。\nセマンティクス、type section、メモリアドレス、JavaScriptのAPIについて",
+            "tags": [
+                "WebAssembly"
+            ],
+            "relatedLinks": []
         }
     ]
 }
