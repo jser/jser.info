@@ -408,10 +408,6 @@
                 {
                     "title": "global breaks flickr.com · Issue #20 · tc39/proposal-global",
                     "url": "https://github.com/tc39/proposal-global/issues/20"
-                },
-                {
-                    "title": "Native ECMAScript modules - the first overview",
-                    "url": "https://blog.hospodarets.com/native-ecmascript-modules-the-first-overview"
                 }
             ]
         },
@@ -602,6 +598,16 @@
                 "JavaScript",
                 "library",
                 "Tools"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-01-18T00:59:18.648Z",
+            "title": "Dragons when upgrading from Angular 2.1.x to 2.4.x – Medium",
+            "url": "https://medium.com/@abookone/dragons-when-upgrading-from-angular-2-1-x-to-2-4-x-530de5a763cb",
+            "content": "Angular 2.1から2.4へのアップデートにおけるハマりどころについて",
+            "tags": [
+                "AngularJS"
             ],
             "relatedLinks": []
         }
