@@ -679,6 +679,26 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-20T16:26:13.699Z",
+            "title": "Releases · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases",
+            "content": "webpack 2.2.0正式版リリース。\n",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migrating from v1 to v2",
+                    "url": "https://webpack.js.org/guides/migrating/"
+                },
+                {
+                    "title": "🎉 webpack 2.2: The Final Release 🎉 – webpack – Medium",
+                    "url": "https://medium.com/webpack/webpack-2-2-the-final-release-76c3d43bf144#.ibgliase6"
+                }
+            ]
         }
     ]
 }
