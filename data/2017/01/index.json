@@ -699,6 +699,17 @@
                     "url": "https://medium.com/webpack/webpack-2-2-the-final-release-76c3d43bf144#.ibgliase6"
                 }
             ]
+        },
+        {
+            "date": "2017-01-21T04:00:08.226Z",
+            "title": "アメブロ2016 ~ Isomorphic JavaScriptの詳しい話 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/3513/",
+            "content": "クライアントサイドとサーバサイドのどちらでも動くIsomorphicなJavaScriptを書くために気をつける点について。\nReactコンポーネント、Fetch、スタイルシート、環境変数、ルーティング、表示領域の扱い，パフォーマンス計測についてなど",
+            "tags": [
+                "JavaScript",
+                "isomorphic"
+            ],
+            "relatedLinks": []
         }
     ]
 }
