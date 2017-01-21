@@ -710,6 +710,16 @@
                 "isomorphic"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-21T04:11:06.478Z",
+            "title": "TypeScript 2.1: Mapped Types | Marius Schulz",
+            "url": "https://blog.mariusschulz.com/2017/01/20/typescript-2-1-mapped-types",
+            "content": "TypeScript 2.1で入ったMapped Typesについて。\n`Object.freeze`などを例にMapped Typesの使い方を解説している",
+            "tags": [
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
