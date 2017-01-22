@@ -777,6 +777,31 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-22T23:21:17.134Z",
+            "title": "alibaba/rax: A universal React-compatible render engine.",
+            "url": "https://github.com/alibaba/rax",
+            "content": "ReactライクなAPIを持つUniversalなViewライブラリ。\nブラウザだけではなく、アプリ(Weex)やサーバでも動作させることが目的。",
+            "tags": [
+                "React",
+                "library",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "rax/difference-with-react.md at master · alibaba/rax",
+                    "url": "https://github.com/alibaba/rax/blob/master/docs/difference-with-react.md"
+                },
+                {
+                    "title": "Weex",
+                    "url": "https://weex-project.io/"
+                },
+                {
+                    "title": "(question) Inferno/Preact comparison · Issue #81 · alibaba/rax",
+                    "url": "https://github.com/alibaba/rax/issues/81"
+                }
+            ]
         }
     ]
 }
