@@ -731,6 +731,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-22T11:51:13.236Z",
+            "title": "Making transpiled ES modules more spec-compliant",
+            "url": "http://www.2ality.com/2017/01/babel-esm-spec-mode.html",
+            "content": "ES Modulesを仕様と現在のTranspilerの挙動について。\nECMAScriptとNode.jsのモジュールのInteroperabilityについて",
+            "tags": [
+                "ECMAScript",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
