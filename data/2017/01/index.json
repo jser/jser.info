@@ -802,6 +802,32 @@
                     "url": "https://github.com/alibaba/rax/issues/81"
                 }
             ]
+        },
+        {
+            "date": "2017-01-23T01:17:25.873Z",
+            "title": "Server-side Rendering Shootout with Marko, Preact, Rax, React and Vue",
+            "url": "https://hackernoon.com/server-side-rendering-shootout-with-marko-preact-rax-react-and-vue-25e1ae17800f",
+            "viaURL": "https://github.com/jser/ping/issues/47",
+            "content": "UIライブラリ/テンプレートエンジンであるMarkoのサーバサイドレンダリングの高速化手法について。\nMarko v4ではブラウザとサーバで出力方式を変えている。\nクライアントサイドではVirtual DOMを使い、サーバサイドでは文字列結合をベースとした出力を使い分けている。",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "template"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Marko v4 Multiple Compilation Targets",
+                    "url": "https://gist.github.com/mlrawlings/8b67bee58df45709e232f689b873e1d1"
+                },
+                {
+                    "title": "feat: add marko by mlrawlings · Pull Request #11 · taobaofed/server-side-rendering-comparison",
+                    "url": "https://github.com/taobaofed/server-side-rendering-comparison/pull/11"
+                },
+                {
+                    "title": "marko/ROADMAP.md at master · marko-js/marko",
+                    "url": "https://github.com/marko-js/marko/blob/master/ROADMAP.md"
+                }
+            ]
         }
     ]
 }
