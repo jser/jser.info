@@ -828,6 +828,19 @@
                     "url": "https://github.com/marko-js/marko/blob/master/ROADMAP.md"
                 }
             ]
+        },
+        {
+            "date": "2017-01-23T16:34:42.721Z",
+            "title": "Modern JavaScript概観、そしてElectronへ",
+            "url": "http://blog.satotaichi.info/modern-javascript_201701/",
+            "content": "JavaScriptの環境設定をめぐる試行について。\nTypeScriptやFlowなどの型システム、Babelのエコシステム、Lint、テストフレームワーク、UIフレームワーク、CSS、アーキテクチャ、ビルドなど。\n幅広いツール/ライブラリの中で、どのような考えで何を選んだかについて書かれている。",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "Electron",
+                "babel"
+            ],
+            "relatedLinks": []
         }
     ]
 }
