@@ -862,6 +862,17 @@
                 "React"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-25T01:11:11.853Z",
+            "title": "Optimizing the Performance of Your React Application",
+            "url": "https://auth0.com/blog/optimizing-react/",
+            "content": "`react-addons-perf`を使いReactコンポーネントのパフォーマンス計測を行う話。\nまた`React.PureComponent`を使い`shouldComponentUpdate`の判定がきちんと行われるようにしてパフォーマンス改善するという話。",
+            "tags": [
+                "React",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
