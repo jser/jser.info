@@ -841,6 +841,17 @@
                 "babel"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-25T00:36:04.109Z",
+            "title": "Safari 10.1",
+            "url": "https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_10_1.html",
+            "content": "Safari 10.1リリース。\nFetch API、IndexedDB 2.0、Custom Elements、Pointer Lock/Gamepad API、ES2016,2017のサポートなど。\nまた`<a>`要素の`download`属性,\nCSS Gridなどのサポート\n\n",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
