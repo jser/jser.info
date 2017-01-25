@@ -893,6 +893,18 @@
                     "url": "https://www.fxsitecompat.com/en-CA/versions/51/"
                 }
             ]
+        },
+        {
+            "date": "2017-01-25T06:31:56.586Z",
+            "title": "knq/chromedp: Package chromedp is a faster, simpler way to drive browsers (Chrome, Edge, Safari, Android, etc) without external dependencies (ie, Selenium, PhantomJS, etc).",
+            "url": "https://github.com/knq/chromedp",
+            "content": "ChromeDebugging Protocolを使ったブラウザ操作ツール",
+            "tags": [
+                "Chrome",
+                "debug",
+                "golang"
+            ],
+            "relatedLinks": []
         }
     ]
 }
