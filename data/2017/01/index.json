@@ -905,6 +905,22 @@
                 "golang"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-25T09:22:04.540Z",
+            "title": "node-browserify/changelog.markdown at master · substack/node-browserify",
+            "url": "https://github.com/substack/node-browserify/blob/master/changelog.markdown",
+            "content": "Browserify 14.0.0リリース。\nbufferのpolyfillがアップグレードされ、IE10以下のサポートが終了。\nbufferパッケージがTypedArrayを利用しているため。",
+            "tags": [
+                "browserify",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Update &#39;buffer&#39; to v5.x by feross · Pull Request #1678 · substack/node-browserify",
+                    "url": "https://github.com/substack/node-browserify/pull/1678"
+                }
+            ]
         }
     ]
 }
