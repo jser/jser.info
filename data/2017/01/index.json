@@ -852,6 +852,16 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-25T01:07:10.222Z",
+            "title": "Watch Out for Undefined State",
+            "url": "https://daveceddia.com/watch-out-for-undefined-state/",
+            "content": "Reactコンポーネントでコンポーネント内のstateに依存しているものを、propsへ移動するリファクタリングの例。\nコンポーネントのデフォルトstateはundefinedであるという話\n",
+            "tags": [
+                "React"
+            ],
+            "relatedLinks": []
         }
     ]
 }
