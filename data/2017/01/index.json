@@ -923,12 +923,24 @@
             ]
         },
         {
-            "date": "2017-01-26T03:22:15.059Z",
-            "title": "New In Chrome 56  |  Web  |  Google Developers",
-            "url": "https://developers.google.com/web/updates/2017/01/nic56",
-            "content": "Chrome 56リリース。\nWeb Bluetooth API、`position: sticky`、HTML5 by Default、WebGL 2.0のサポートなど",
+            "date": "2017-01-26T01:27:54.971Z",
+            "title": "Manning | Isomorphic Development with JavaScript",
+            "url": "https://www.manning.com/books/isomorphic-development-with-javascript",
+            "content": "Isomorphic JavaScriptについての書籍。\nブラウザとNode.jsで共有しながら、ウェブアプリケーションを作る話。\nReact + Redux、Angular 2やEmberを題材にしている。",
             "tags": [
-                "Chrome",
+                "JavaScript",
+                "isomorphic",
+                "book"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-01-26T14:47:59.341Z",
+            "title": "Release Notes for Safari Technology Preview 22 | WebKit",
+            "url": "https://webkit.org/blog/7354/release-notes-for-safari-technology-preview-22/",
+            "content": "Safari Technology Preview Release 22リリース。\n`scroll-snap-type:proximity`のサポート、`innerText`の仕様追従、`URLSearchParams`がiterableとなるなど",
+            "tags": [
+                "safari",
                 "ReleaseNote"
             ],
             "relatedLinks": []
