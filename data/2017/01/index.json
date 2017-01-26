@@ -921,6 +921,18 @@
                     "url": "https://github.com/substack/node-browserify/pull/1678"
                 }
             ]
+        },
+        {
+            "date": "2017-01-26T01:27:54.971Z",
+            "title": "Manning | Isomorphic Development with JavaScript",
+            "url": "https://www.manning.com/books/isomorphic-development-with-javascript",
+            "content": "Isomorphic JavaScriptについての書籍。\nブラウザとNode.jsで共有しながら、ウェブアプリケーションを作る話。\nReact + Redux、Angular 2やEmberを題材にしている。",
+            "tags": [
+                "JavaScript",
+                "isomorphic",
+                "book"
+            ],
+            "relatedLinks": []
         }
     ]
 }
