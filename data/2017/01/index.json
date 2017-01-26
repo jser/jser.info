@@ -923,14 +923,13 @@
             ]
         },
         {
-            "date": "2017-01-26T01:27:54.971Z",
-            "title": "Manning | Isomorphic Development with JavaScript",
-            "url": "https://www.manning.com/books/isomorphic-development-with-javascript",
-            "content": "Isomorphic JavaScriptについての書籍。\nブラウザとNode.jsで共有しながら、ウェブアプリケーションを作る話。\nReact + Redux、Angular 2やEmberを題材にしている。",
+            "date": "2017-01-26T03:22:15.059Z",
+            "title": "New In Chrome 56  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2017/01/nic56",
+            "content": "Chrome 56リリース。\nWeb Bluetooth API、`position: sticky`、HTML5 by Default、WebGL 2.0のサポートなど",
             "tags": [
-                "JavaScript",
-                "isomorphic",
-                "book"
+                "Chrome",
+                "ReleaseNote"
             ],
             "relatedLinks": []
         }
