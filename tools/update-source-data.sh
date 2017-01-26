@@ -10,7 +10,7 @@ node ${currentDir}/converter/all_in_one_JSON.js
 
 lastCommit=$(git log --oneline | head -n 1)
 # source-dataのall.min.jsonをアップデートする
-git clone https://github.com/jser/source-data.git "${tmpDir}/source-data"
+git clone --depth 1 https://github.com/jser/source-data.git "${tmpDir}/source-data"
 mv ${currentDir}/converter/items.json "${tmpDir}/source-data"
 
 cd "${tmpDir}/source-data"

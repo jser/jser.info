@@ -57,7 +57,9 @@ module.exports = function createMarkdown({
     ].filter(group => {
         return group.articles.length > 0;
     });
-    const header = json2yaml.stringify({
+    return template({
+        Groups: groups,
+        weekNumber: weekNumber,
         layout: "post",
         title,
         author,
@@ -65,9 +67,4 @@ module.exports = function createMarkdown({
         category,
         tags
     });
-    const headerYaml = header + "\n---\n";
-    return headerYaml + template({
-            Groups: groups,
-            weekNumber: weekNumber
-        });
 };

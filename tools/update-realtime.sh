@@ -10,7 +10,7 @@ node ${currentDir}/converter/all_in_one_JSON.js
 
 lastCommit=$(git log --oneline | head -n 1)
 #
-git clone https://github.com/jser/realtime.jser.info.git "${tmpDir}/realtime.jser.info"
+git clone --depth 1 https://github.com/jser/realtime.jser.info.git "${tmpDir}/realtime.jser.info"
 mv ${currentDir}/converter/items.json "${tmpDir}/realtime.jser.info/_data/"
 
 cd "${tmpDir}/realtime.jser.info"
