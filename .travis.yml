@@ -9,6 +9,7 @@ after_success:
 - git config --global user.email 'azuciao@gmail.com'
 - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "gh-pages" && ./tools/update-source-data.sh
 - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "gh-pages" && ./tools/update-realtime.sh
+- test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "gh-pages" && ./tools/update-next-draft.sh
 - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "gh-pages" && npm run gitter
 env:
   global:

@@ -8,7 +8,6 @@ const postToGitter = require("./post-to-gitter");
 const JSerStat = require("jser-stat").JSerStat;
 const stat = new JSerStat();
 const jSerWeeks = stat.getJSerWeeks();
-
 const latestWeek = jSerWeeks[jSerWeeks.length - 1];
 const now = new Date();
 const endDate = latestWeek.endDate;
@@ -59,7 +58,10 @@ const itemCountList = jSerWeeks.map(function(week) {
             console.error(error);
         });
     } else if (hitValue === currentValue) {
-        postToGitter("そろそろ記事更新できそうですよ /cc @azu").then(function() {
+        const nextWeekNumber = stat.getTotalWeekCount() + 1;
+        postToGitter(`そろそろ記事更新できそうですよ /cc @azu
+PR用意しておきました！ https://github.com/jser/jser.github.io/pull/jser-week-${nextWeekNumber}
+`).then(function() {
             console.log("Post to gitter!")
         }).catch(function(error) {
             console.error(error);
