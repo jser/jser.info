@@ -960,6 +960,17 @@
                     "url": "https://wicg.github.io/shape-detection-api/"
                 }
             ]
+        },
+        {
+            "date": "2017-01-28T05:53:30.473Z",
+            "title": "Refactoring 30000 lines of JS with types - Reaktor.com",
+            "url": "https://www.reaktor.com/blog/refactoring-30000-lines-js-types/",
+            "content": "3万行のJavaScriptをリファクタリングしたアプローチについて。\n逐次的な型付のアプローチについて。\nFlowのweek modeとコメントでの型付けを使った方法と問題点。\nTypeScriptを使った名前空間オブジェクトへのアプローチとメリット/デメリット。\n最終的にTypeScriptを使ったがそのときに遭遇した問題について",
+            "tags": [
+                "JavaScript",
+                "リファクタリング"
+            ],
+            "relatedLinks": []
         }
     ]
 }
