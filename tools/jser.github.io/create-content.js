@@ -7,7 +7,9 @@ const JSerClassifier = require("jser-classifier-item-category").JSerClassifier;
 const CategoryKey = require("jser-classifier-item-category").CategoryKey;
 const Category = require("jser-classifier-item-category").Category;
 const buildTemplate = require("./build-template");
-const stat = new JSerStat();
+// all_in_one_JSON.jsを先に実行しないといけない
+const currentItems = require("../converter/items.json");
+const stat = new JSerStat(currentItems);
 const classifier = new JSerClassifier({
     items: stat.items,
     itemCategories
