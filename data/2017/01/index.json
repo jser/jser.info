@@ -944,6 +944,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-28T05:02:41.503Z",
+            "title": "Detecting text in an image on the web in real-time - Tales of a Developer Advocate by Paul Kinlan",
+            "url": "https://paul.kinlan.me/detecting-text-in-an-image/",
+            "content": "画像認識、顔認識、バーコード認識、画像からテキスト認識するブラウザAPIについて",
+            "tags": [
+                "Chrome",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Accelerated Shape Detection in Images",
+                    "url": "https://wicg.github.io/shape-detection-api/"
+                }
+            ]
         }
     ]
 }
