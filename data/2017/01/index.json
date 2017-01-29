@@ -1022,6 +1022,18 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-29T15:45:58.178Z",
+            "title": "Understanding the Critical Rendering Path",
+            "url": "https://bitsofco.de/understanding-the-critical-rendering-path/",
+            "content": "クリティカルレンダリングパスとは何かという解説。\nブラウザがどのようなフローでレンダリングまでを行うか。\nまた、開発者ツールを使ってレンダリングフローで起きているイベントを見ていく話。",
+            "tags": [
+                "browser",
+                "CSS",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
