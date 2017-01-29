@@ -8,13 +8,12 @@ const CategoryKey = require("jser-classifier-item-category").CategoryKey;
 const Category = require("jser-classifier-item-category").Category;
 const buildTemplate = require("./build-template");
 // all_in_one_JSON.jsを先に実行しないといけない
-const currentItems = require("../converter/items.json");
-const stat = new JSerStat(currentItems);
-const classifier = new JSerClassifier({
-    items: stat.items,
-    itemCategories
-});
-const getUnPublishItems = () => {
+const getAllJSON = require("../../converter/lib/get-all-json");
+/**
+ * @param {JSerStat} stat
+ * @returns {JSerItem[]}
+ */
+const getUnPublishItems = (stat) => {
     const totalWeekCount = stat.getTotalWeekCount();
     /**
      * @type {JSerWeek}
@@ -22,8 +21,12 @@ const getUnPublishItems = () => {
     const lastWeek = stat.getJSerWeek(totalWeekCount);
     return stat.findItemsBetween(lastWeek.post.date, new Date());
 };
-const groupByCategory = (items) => {
-
+/**
+ * @param {JSerClassifier} classifier
+ * @param {JSerItem[]} items
+ * @returns {{}}
+ */
+const groupByCategory = (classifier, items) => {
     const groups = {
         [CategoryKey.Headline]: {
             name: Category.Headline,
@@ -58,19 +61,26 @@ const groupByCategory = (items) => {
 };
 
 module.exports = function createContent() {
-    const nextWeekNumber = stat.getTotalWeekCount() + 1;
-    const unPublishItems = getUnPublishItems();
-    const groups = groupByCategory(unPublishItems);
-    const today = moment(new Date()).format("YYYY-MM-DD");
-    const tags = ["JavaScript"];
-    return buildTemplate({
-        title: `${today}のJS: `,
-        author: "azu",
-        category: "JSer",
-        date: moment.utc().toDate(),
-        tags,
-        weekNumber: nextWeekNumber,
-        groupsByHeader: groups
+    return getAllJSON().then(currentItems => {
+        const stat = new JSerStat(currentItems);
+        const classifier = new JSerClassifier({
+            items: stat.items,
+            itemCategories
+        });
+        const nextWeekNumber = stat.getTotalWeekCount() + 1;
+        const unPublishItems = getUnPublishItems(stat);
+        const groups = groupByCategory(classifier, unPublishItems);
+        const today = moment(new Date()).format("YYYY-MM-DD");
+        const tags = ["JavaScript"];
+        return buildTemplate({
+            title: `${today}のJS: `,
+            author: "azu",
+            category: "JSer",
+            date: moment.utc().toDate(),
+            tags,
+            weekNumber: nextWeekNumber,
+            groupsByHeader: groups
+        });
     });
 };
 

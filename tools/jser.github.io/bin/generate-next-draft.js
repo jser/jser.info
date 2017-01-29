@@ -3,7 +3,7 @@
 const fs = require("fs");
 const path = require("path");
 const argv = require('minimist')(process.argv.slice(2));
-const createContent = require("./create-content");
+const createContent = require("../lib/create-content");
 const output = argv.output;
 /**
  * タグをリネームするツール
@@ -14,7 +14,8 @@ if (!output) {
     process.exit(1);
 }
 
-const content = createContent();
-const outputFilePath = path.resolve(process.cwd(), output);
-fs.writeFileSync(outputFilePath, content, "utf-8");
-console.log(`Create: ${outputFilePath}`);
+createContent().then(content => {
+    const outputFilePath = path.resolve(process.cwd(), output);
+    fs.writeFileSync(outputFilePath, content, "utf-8");
+    console.log(`Create: ${outputFilePath}`);
+});

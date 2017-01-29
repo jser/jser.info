@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # https://github.com/jser/realtime.jser.info を更新する
 declare currentDir=$(cd $(dirname $0);pwd)
-declare nextWeekNumber=$(node "${currentDir}/jser.github.io/get-next-week-number.js")
+declare nextWeekNumber=$(node "${currentDir}/jser.github.io/bin/get-next-week-number.js")
 declare branchName="jser-week-${nextWeekNumber}"
 declare currentYear=`date +'%Y'`
 declare currentDate=`date +%Y-%m-%d`
@@ -17,9 +17,9 @@ git pull origin "${branchName}" 2>/dev/null
 # e.g) _i18n/ja/_posts/2017
 mkdir -p "${tmpDir}/jser.github.io/_i18n/ja/_posts/${currentYear}"
 # rm prev draft
-node "${currentDir}/jser.github.io/rm-draft.js" \
+node "${currentDir}/jser.github.io/bin/rm-draft.js" \
     --baseDir "${tmpDir}/jser.github.io/_i18n/ja/_posts/${currentYear}" --weekNumber "${nextWeekNumber}"
-node "${currentDir}/jser.github.io/generate-next-draft.js" \
+node "${currentDir}/jser.github.io/bin/generate-next-draft.js" \
     --output "${tmpDir}/jser.github.io/_i18n/ja/_posts/${currentYear}/${currentDate}-${nextWeekNumber}draft.md"
 
 if git diff --exit-code --quiet; then
