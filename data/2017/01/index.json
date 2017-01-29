@@ -971,6 +971,27 @@
                 "リファクタリング"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-29T11:07:17.728Z",
+            "title": "Making touch scrolling fast by default  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2017/01/scrolling-intervention",
+            "content": "Chrome 56からtouch eventをlistenすると\n`{passive: true}`がデフォルトとなる。\nデフォルトでは`touchstart`の中で`event.preventDefault()`を呼ぶと無視され警告がコンソールに表示される。",
+            "tags": [
+                "Chrome",
+                "JavaScript",
+                "event"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Event.defaultPrevented - Web APIs | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Event/defaultPrevented"
+                },
+                {
+                    "title": "Chrome Platform Status",
+                    "url": "https://www.chromestatus.com/features/5093566007214080"
+                }
+            ]
         }
     ]
 }
