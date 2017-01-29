@@ -19,15 +19,14 @@
   "bugs": {
     "url": "https://github.com/jser/jser.info/issues"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "JSV": "~4.0.2",
     "bluebird": "^3.0.5",
     "cheerio": "^0.20.0",
     "glob": "^7.0.5",
     "handlebars": "^4.0.6",
-    "jser-classifier-item-category": "^1.1.2",
+    "jser-classifier-item-category": "^1.2.0",
     "jser-stat": "^2.1.0",
     "json2yaml": "^1.1.0",
     "jsonlint": "~1.6.0",
