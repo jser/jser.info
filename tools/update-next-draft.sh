@@ -27,7 +27,7 @@ if git diff --exit-code --quiet; then
    exit 0
 fi
 # Git Commit
-git add "${tmpDir}/jser.github.io/_i18n/ja/_posts/${currentYear}/"
+git add -A "${tmpDir}/jser.github.io/_i18n/ja/_posts/${currentYear}/"
 git commit -m "Update ${nextWeekNumber} draft"
 # Git Push
 echo "git push draft"
