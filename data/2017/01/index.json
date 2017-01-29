@@ -1010,6 +1010,18 @@
                     "url": "http://blog.videojs.com/the-end-of-html-first/"
                 }
             ]
+        },
+        {
+            "date": "2017-01-29T13:21:59.914Z",
+            "title": "Testing React Applications with Jest",
+            "url": "https://auth0.com/blog/testing-react-applications-with-jest/",
+            "content": "Jestを使ったReactのテストについての解説。\nインストールからテストの書き方、モックなどについて書かれている。",
+            "tags": [
+                "React",
+                "testing",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
