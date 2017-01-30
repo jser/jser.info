@@ -1069,6 +1069,23 @@
                 "図"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-30T14:26:46.121Z",
+            "title": "Implement a JavaScript reactive programming library — part 1 – Medium",
+            "url": "https://medium.com/@bohou/implement-a-javascript-reactive-programming-library-part-1-f564ac6ad789",
+            "viaURL": "https://github.com/jser/ping/issues/45",
+            "content": "ReactiveなJavaScriptライブラリを実装する連載記事。\n",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "bhou/bouton.js: A framework to build your asynchronous reactive library.",
+                    "url": "https://github.com/bhou/bouton.js"
+                }
+            ]
         }
     ]
 }
