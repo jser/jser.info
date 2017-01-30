@@ -67,7 +67,8 @@ module.exports = function createContent() {
             items: stat.items,
             itemCategories
         });
-        const nextWeekNumber = stat.getTotalWeekCount() + 1;
+        // TODO: 歴史的な経緯で + 2?
+        const nextWeekNumber = stat.getTotalWeekCount() + 1 + 1;
         const unPublishItems = getUnPublishItems(stat);
         const groups = groupByCategory(classifier, unPublishItems);
         const today = moment(new Date()).format("YYYY-MM-DD");

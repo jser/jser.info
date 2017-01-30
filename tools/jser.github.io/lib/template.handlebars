@@ -24,8 +24,10 @@ JSer.info #{{weekNumber}}
 <p class="jser-tags jser-tag-icon">{{{format_tags tags}}}</p>
 {{/if}}
 {{{auto_format_md content}}}
+
 {{#relatedLinks}}
-- [{{escape_md title}}]({{url}} "{{escape_md title}}"){{#if @last}}
+- [{{escape_md title}}]({{url}} "{{escape_md title}}")
+{{#if @last}}
 {{/if}}{{/relatedLinks}}
 {{#if @last}}----{{/if}}{{/articles}}
 {{/Groups}}
