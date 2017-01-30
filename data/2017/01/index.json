@@ -923,127 +923,24 @@
             ]
         },
         {
-            "date": "2017-01-26T01:27:54.971Z",
-            "title": "Manning | Isomorphic Development with JavaScript",
-            "url": "https://www.manning.com/books/isomorphic-development-with-javascript",
-            "content": "Isomorphic JavaScriptについての書籍。\nブラウザとNode.jsで共有しながら、ウェブアプリケーションを作る話。\nReact + Redux、Angular 2やEmberを題材にしている。",
+            "date": "2017-01-26T03:22:15.059Z",
+            "title": "New In Chrome 56  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2017/01/nic56",
+            "content": "Chrome 56リリース。\nWeb Bluetooth API、`position: sticky`、HTML5 by Default、WebGL 2.0のサポートなど",
             "tags": [
-                "JavaScript",
-                "isomorphic",
-                "book"
-            ],
-            "relatedLinks": []
-        },
-        {
-            "date": "2017-01-26T14:47:59.341Z",
-            "title": "Release Notes for Safari Technology Preview 22 | WebKit",
-            "url": "https://webkit.org/blog/7354/release-notes-for-safari-technology-preview-22/",
-            "content": "Safari Technology Preview Release 22リリース。\n`scroll-snap-type:proximity`のサポート、`innerText`の仕様追従、`URLSearchParams`がiterableとなるなど",
-            "tags": [
-                "safari",
+                "Chrome",
                 "ReleaseNote"
             ],
             "relatedLinks": []
         },
         {
-            "date": "2017-01-28T05:02:41.503Z",
-            "title": "Detecting text in an image on the web in real-time - Tales of a Developer Advocate by Paul Kinlan",
-            "url": "https://paul.kinlan.me/detecting-text-in-an-image/",
-            "content": "画像認識、顔認識、バーコード認識、画像からテキスト認識するブラウザAPIについて",
-            "tags": [
-                "Chrome",
-                "WebPlatformAPI"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "Accelerated Shape Detection in Images",
-                    "url": "https://wicg.github.io/shape-detection-api/"
-                }
-            ]
-        },
-        {
-            "date": "2017-01-28T05:53:30.473Z",
-            "title": "Refactoring 30000 lines of JS with types - Reaktor.com",
-            "url": "https://www.reaktor.com/blog/refactoring-30000-lines-js-types/",
-            "content": "3万行のJavaScriptをリファクタリングしたアプローチについて。\n逐次的な型付のアプローチについて。\nFlowのweek modeとコメントでの型付けを使った方法と問題点。\nTypeScriptを使った名前空間オブジェクトへのアプローチとメリット/デメリット。\n最終的にTypeScriptを使ったがそのときに遭遇した問題について",
-            "tags": [
-                "JavaScript",
-                "リファクタリング"
-            ],
-            "relatedLinks": []
-        },
-        {
-            "date": "2017-01-29T11:07:17.728Z",
-            "title": "Making touch scrolling fast by default  |  Web  |  Google Developers",
-            "url": "https://developers.google.com/web/updates/2017/01/scrolling-intervention",
-            "content": "Chrome 56からtouch eventをlistenすると\n`{passive: true}`がデフォルトとなる。\nデフォルトでは`touchstart`の中で`event.preventDefault()`を呼ぶと無視され警告がコンソールに表示される。",
-            "tags": [
-                "Chrome",
-                "JavaScript",
-                "event"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "Event.defaultPrevented - Web APIs | MDN",
-                    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Event/defaultPrevented"
-                },
-                {
-                    "title": "Chrome Platform Status",
-                    "url": "https://www.chromestatus.com/features/5093566007214080"
-                }
-            ]
-        },
-        {
-            "date": "2017-01-29T13:09:26.131Z",
-            "title": "Video.js 6.0.0-RC.0: The first Release Candidate | Video.js Blog",
-            "url": "http://blog.videojs.com/Video-js-6-0-0-RC-0-The-first-RC/",
-            "content": "video.js v6.0 RCリリース。\nFlashをCoreから取り除き、Reactインスパイアなプラグインアーキテクチャの追加、accessiblityの改善など",
-            "tags": [
-                "JavaScript",
-                "video",
-                "library",
-                "ReleaseNote"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "The End of &#34;HTML-First&#34; | Video.js Blog",
-                    "url": "http://blog.videojs.com/the-end-of-html-first/"
-                }
-            ]
-        },
-        {
-            "date": "2017-01-29T13:21:59.914Z",
-            "title": "Testing React Applications with Jest",
-            "url": "https://auth0.com/blog/testing-react-applications-with-jest/",
-            "content": "Jestを使ったReactのテストについての解説。\nインストールからテストの書き方、モックなどについて書かれている。",
-            "tags": [
-                "React",
-                "testing",
-                "tutorial"
-            ],
-            "relatedLinks": []
-        },
-        {
-            "date": "2017-01-29T15:45:58.178Z",
-            "title": "Understanding the Critical Rendering Path",
-            "url": "https://bitsofco.de/understanding-the-critical-rendering-path/",
-            "content": "クリティカルレンダリングパスとは何かという解説。\nブラウザがどのようなフローでレンダリングまでを行うか。\nまた、開発者ツールを使ってレンダリングフローで起きているイベントを見ていく話。",
-            "tags": [
-                "browser",
-                "CSS",
-                "JavaScript"
-            ],
-            "relatedLinks": []
-        },
-        {
-            "date": "2017-01-30T01:33:53.779Z",
-            "title": "ES proposal: Shared memory and atomics",
-            "url": "http://www.2ality.com/2017/01/shared-array-buffer.html",
-            "content": "ES2017に入ることが決まったShared memory and stomicsについての解説。\nShared Array BuffersでWorker(agent)とデータを共有することができる。",
+            "date": "2017-01-30T05:55:09.265Z",
+            "title": "ECMAScript proposal updates @ 2017-01 | ECMAScript Daily",
+            "url": "https://ecmascript-daily.github.io/ecmascript/2017/01/30/ecmascript-proposals-status",
+            "content": "2017年1月時点でのECMAScriptのProposalのStageまとめ。\n2017年1月のミーティングで5つのProposalが追加され、Shared memory and atomicsはES2017に入った。",
             "tags": [
                 "ECMAScript",
-                "proposal",
-                "spec"
+                "proposal"
             ],
             "relatedLinks": []
         }
