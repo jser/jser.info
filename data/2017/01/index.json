@@ -1057,6 +1057,18 @@
                 "proposal"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-30T14:22:29.005Z",
+            "title": "The Promise of a Burger Party - Mariko Kosaka",
+            "url": "http://kosamari.com/notes/the-promise-of-a-burger-party",
+            "content": "Promiseをバーガーショップを例にして解説している記事。\n図解をしながらPromiseのresolveとrejectの動きについて書かれている",
+            "tags": [
+                "JavaScript",
+                "Promises",
+                "図"
+            ],
+            "relatedLinks": []
         }
     ]
 }
