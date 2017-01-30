@@ -1034,6 +1034,18 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-01-30T01:33:53.779Z",
+            "title": "ES proposal: Shared memory and atomics",
+            "url": "http://www.2ality.com/2017/01/shared-array-buffer.html",
+            "content": "ES2017に入ることが決まったShared memory and stomicsについての解説。\nShared Array BuffersでWorker(agent)とデータを共有することができる。",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "spec"
+            ],
+            "relatedLinks": []
         }
     ]
 }
