@@ -50,17 +50,18 @@ const itemCountList = jSerWeeks.map(function(week) {
 
     // ぴったりより少し前に予告したいので -3
     const hitValue = medianValue - 3;
+    const nextWeekNumber = stat.getTotalWeekCount() + 1;
+    const PR_URL = `https://github.com/jser/jser.github.io/pull/jser-week-${nextWeekNumber}`;
     // 中間報告
     if ((hitValue / 2) === currentValue) {
-        postToGitter("中間報告です！" + resultReport).then(function() {
+        postToGitter("中間報告です！" + resultReport + `\n${PR_URL}`).then(function() {
             console.log("Post to gitter!")
         }).catch(function(error) {
             console.error(error);
         });
     } else if (hitValue === currentValue) {
-        const nextWeekNumber = stat.getTotalWeekCount() + 1;
         postToGitter(`そろそろ記事更新できそうですよ /cc @azu
-PR用意しておきました！ https://github.com/jser/jser.github.io/pull/jser-week-${nextWeekNumber}
+PR用意しておきました！ ${PR_URL}
 `).then(function() {
             console.log("Post to gitter!")
         }).catch(function(error) {
