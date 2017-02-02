@@ -34,6 +34,24 @@
                 "google"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-02T14:25:46.496Z",
+            "title": "Web Platform Tests Dashboard",
+            "url": "https://wptdashboard.appspot.com/",
+            "content": "https://github.com/w3c/web-platform-tests をブラウザ別で実行した結果がまとめられているページ",
+            "tags": [
+                "browser",
+                "testing",
+                "DOM",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Web Platform Tests in Blink and Beyond - Google スライド",
+                    "url": "https://docs.google.com/presentation/d/1s2Dick89wvJsuNJb4ia3pPt84NtMv8rZr0E_GFXJLrk/edit#slide=id.p"
+                }
+            ]
         }
     ]
 }
