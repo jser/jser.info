@@ -22,10 +22,6 @@ node "${currentDir}/jser.github.io/bin/rm-draft.js" \
 node "${currentDir}/jser.github.io/bin/generate-next-draft.js" \
     --output "${tmpDir}/jser.github.io/_i18n/ja/_posts/${currentYear}/${currentDate}-${nextWeekNumber}draft.md"
 
-if git diff --exit-code --quiet; then
-   echo "No Change"
-   exit 0
-fi
 # Git Commit
 git add -A "${tmpDir}/jser.github.io/_i18n/ja/_posts/${currentYear}/"
 git commit -m "Update ${nextWeekNumber} draft"
