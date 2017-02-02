@@ -10,6 +10,17 @@
                 "Chrome"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-02T13:49:41.435Z",
+            "title": "A Beginners Guide to Webpack 2 and Module Bundling",
+            "url": "https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/",
+            "content": "webpackの基本的な使い方についての解説。\nmoduleの扱い方、loader、plugin、コード分割、dev server、Hot reloadingについて\n",
+            "tags": [
+                "webpack",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
