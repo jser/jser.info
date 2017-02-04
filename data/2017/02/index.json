@@ -166,6 +166,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-04T03:36:58.242Z",
+            "title": "Announcing TypeScript 2.2 RC | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2017/02/02/announcing-typescript-2-2-rc/",
+            "content": "TypeScript 2.2 RCリリース。\nプリミティブ型以外を表現する`object` typeの追加、class expressionを使ったmixinの表現をサポート、JSXのreact-nativeのサポートなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
