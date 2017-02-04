@@ -136,7 +136,7 @@
             "date": "2017-02-03T09:38:53.058Z",
             "title": "oliver-moran/jimp: An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.",
             "url": "https://github.com/oliver-moran/jimp",
-            "content": "依存がない画像処理ライブラリ",
+            "content": "依存がない画像処理ライブラリ。\n画像のリサイズや加工などができる。\n",
             "tags": [
                 "JavaScript",
                 "library"
@@ -176,7 +176,12 @@
                 "TypeScript",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Roadmap · Microsoft/TypeScript Wiki",
+                    "url": "https://github.com/Microsoft/TypeScript/wiki/Roadmap#22-february-2017"
+                }
+            ]
         }
     ]
 }
