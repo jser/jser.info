@@ -154,6 +154,18 @@
                 "console"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-04T03:05:36.465Z",
+            "title": "JSMpeg – Decode it like it's 1999",
+            "url": "http://jsmpeg.com/",
+            "content": "MPEG1/MP2をJavaScriptでデコードするライブラリ。\nWebSocketsを使った動画のストリーム配信をする目的で作られている。",
+            "tags": [
+                "JavaScript",
+                "video",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
