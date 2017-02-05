@@ -1,15 +1,13 @@
 {
     "list": [
         {
-            "date": "2017-02-05T05:28:18.240Z",
-            "title": "How to set up E2E browser testing for your GitHub project",
-            "url": "https://hackernoon.com/how-to-set-up-e2e-browser-testing-for-your-github-project-89c24e15a84",
-            "content": "TestCafeを使ってのE2Eテストの設定方法について。 PageObjectパターン、Travis CIやSauce Labsとの連携について",
+            "date": "2017-02-01T01:02:16.585Z",
+            "title": "API Deprecations and Removals in Chrome 57  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2017/02/chrome-57-deprecations",
+            "viaURL": "https://github.com/jser/ping/issues/45",
+            "content": "Chrome 57での非推奨/削除されるAPIについて。\nVendor-prefix付きの`cancelAnimationFrame`、`IndexedDB`、`AudioContext`の削除。\n`BluetoothDevice.uuids`、`<keygen>`、`OfflineAudioContext`の削除など",
             "tags": [
-                "E2E",
-                "testing",
-                "tutorial",
-                "article"
+                "Chrome"
             ],
             "relatedLinks": []
         },
