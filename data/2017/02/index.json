@@ -245,6 +245,18 @@
                     "url": "https://leanpub.com/exploring-es2016-es2017"
                 }
             ]
+        },
+        {
+            "date": "2017-02-05T08:52:35.685Z",
+            "title": "ide/mux: Creates a promise that waits for the promises in nested data structures and resolves to data structures of the same form. It recursively traverses the input data structure and multiplexes its promises.",
+            "url": "https://github.com/ide/mux",
+            "content": "Array、Map、Setなどが持つプロパティのPromiseを解決し、その結果を同じ構造で返せるライブラリ",
+            "tags": [
+                "JavaScript",
+                "library",
+                "Promises"
+            ],
+            "relatedLinks": []
         }
     ]
 }
