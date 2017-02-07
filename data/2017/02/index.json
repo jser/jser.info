@@ -313,6 +313,18 @@
                     "url": "https://github.com/mgol/check-dependencies"
                 }
             ]
+        },
+        {
+            "date": "2017-02-07T08:14:56.727Z",
+            "title": "V8 JavaScript Engine: V8 Release 5.7",
+            "url": "http://v8project.blogspot.com/2017/02/v8-release-57.html",
+            "content": "V8 5.7リリース。\nasync/awaitやES2015のパフォーマンス改善、`String#padStart`、`Intl.DateTimeFormat#formatToParts`のサポート。\nwasmがデフォルトで有効化など",
+            "tags": [
+                "V8",
+                "ReleaseNote",
+                "WebAssembly"
+            ],
+            "relatedLinks": []
         }
     ]
 }
