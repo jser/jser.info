@@ -384,6 +384,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-09T15:28:34.989Z",
+            "title": "Progressive Transpilation at Netflix and the road to running native ES2015 in production // Speaker Deck",
+            "url": "https://speakerdeck.com/betaorbust/progressive-transpilation-at-netflix-and-the-road-to-running-native-es2015-in-production",
+            "content": "Netflixのブラウザ別にTranspileしたJavaScriptを配信するためにやっていることについて。\nモダンなブラウザはES2015に対応しているため、変換やpolyfillなどの分として20-40％程度payloadが小さくできる。\n一方、圧縮ツールやES2015対応してるかの判定方法などの問題について",
+            "tags": [
+                "JavaScript",
+                "slide",
+                "ECMAScript",
+                "browser"
+            ],
+            "relatedLinks": []
         }
     ]
 }
