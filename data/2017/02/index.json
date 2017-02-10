@@ -397,6 +397,22 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-10T06:19:16.918Z",
+            "title": "Snapshot testing the hard way | Better world by better software",
+            "url": "https://glebbahmutov.com/blog/snapshot-testing/",
+            "content": "JestにはSnapshotテストがあるが、テストフレームワークに依存しないでSnapshotテストを行う方法について",
+            "tags": [
+                "JavaScript",
+                "testing"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "bahmutov/snap-shot: Jest-like snapshot feature for the rest of us, works magically by finding the right caller function",
+                    "url": "https://github.com/bahmutov/snap-shot"
+                }
+            ]
         }
     ]
 }
