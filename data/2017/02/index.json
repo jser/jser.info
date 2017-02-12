@@ -448,6 +448,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-12T12:56:36.821Z",
+            "title": "私的TypeScriptとの関わり方ガイドライン - 角待ちは対空",
+            "url": "http://blog.yux3.net/entry/2017/02/05/000805",
+            "content": "普段JavaScriptを使って書いてる人向けのTypeScriptの考え方について。\n典型的なエラーの意味や、コンパイラオプション、`_` prefixや`this`へ型付けなど特殊な部分について。\nまた、TypeScript特有のキーワードや参考となるドキュメントについて",
+            "tags": [
+                "TypeScript",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
