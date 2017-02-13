@@ -487,6 +487,19 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-13T11:03:48.198Z",
+            "title": "davidmfoley/node-trucker: Hauls your node.js source files around",
+            "url": "https://github.com/davidmfoley/node-trucker",
+            "content": "JavaScriptファイル間の依存関係を扱ったファイル移動ツール。\nファイルの移動を行ったときに、そのファイルを参照しているファイルにかかれているimportパスも書き換えることができる。",
+            "tags": [
+                "JavaScript",
+                "CoffeeScript",
+                "Tools",
+                "リファクタリング"
+            ],
+            "relatedLinks": []
         }
     ]
 }
