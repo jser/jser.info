@@ -502,14 +502,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2017-02-13T13:21:18.401Z",
+            "date": "2017-02-13T13:28:12.079Z",
             "title": "イベント駆動型サービス実行基盤としての Service Worker - Qiita",
             "url": "http://qiita.com/nhiroki/items/65efc9e41ec1d928afcd",
             "content": "Better AppCacheから始まったService Workerが、ページに依存しない生存期間へ変化していき、fetch以外のイベントもハンドリングできる基盤となっていった変遷について。",
             "tags": [
                 "JavaScript",
                 "ServiceWorker",
-                "歴史"
+                "歴史",
+                "thought"
             ],
             "relatedLinks": []
         }
