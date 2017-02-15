@@ -526,6 +526,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-15T01:00:22.651Z",
+            "title": "node の security checkをするなら nsp が便利 - from scratch",
+            "url": "http://yosuke-furukawa.hatenablog.com/entry/2017/02/14/113910",
+            "content": "プロジェクトに依存しているモジュールに脆弱性がないかをチェックするツール\nNode Security Platformに公開されている脆弱性を元にチェックする",
+            "tags": [
+                "node.js",
+                "security",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
