@@ -538,6 +538,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-15T13:32:02.807Z",
+            "title": "Release v0.39.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.39.0",
+            "content": "Flow v0.39.0リリース。\n`--no-suppressions`のサポート、typeをJSON printできる`$Flow$DebugPrint` typeの追加など",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
