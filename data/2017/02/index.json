@@ -549,6 +549,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-16T01:45:10.638Z",
+            "title": "Native ECMAScript modules: dynamic import()",
+            "url": "https://blog.hospodarets.com/native-ecmascript-modules-dynamic-import",
+            "content": "dynamic `import()` Proposalについての解説。\n`import()`はPromiseベースのAPIである点について、`import()`のfeature detectとpolyfill、Babelやwebpack 2での利用方法など",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "browser"
+            ],
+            "relatedLinks": []
         }
     ]
 }
