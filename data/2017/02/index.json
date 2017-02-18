@@ -652,6 +652,17 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-18T10:00:49.600Z",
+            "title": "Context in ReactJS Applications",
+            "url": "http://javascriptplayground.com/blog/2017/02/context-in-reactjs-applications/",
+            "content": "React Contextがどのように動いているかの解説。Contextのメリットとデメリットについて。\nContextの値の流れ、テストの難しさ、ライブラリでの利用について",
+            "tags": [
+                "React",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
