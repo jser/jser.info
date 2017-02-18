@@ -623,6 +623,23 @@
                     "url": "https://github.com/jpchase/OriginTrials/blob/gh-pages/developer-guide.md"
                 }
             ]
+        },
+        {
+            "date": "2017-02-18T04:17:44.458Z",
+            "title": "V8 JavaScript Engine: High-performance ES2015 and beyond",
+            "url": "https://v8project.blogspot.com/2017/02/high-performance-es2015-and-beyond.html",
+            "content": "V8のES2015+のパフォーマンス改善の取り組みについて。\nBabelで変換されたコードサイズの問題やES5で同等の事を行う時の速度の違いについてなど\n",
+            "tags": [
+                "V8",
+                "JavaScript",
+                "ECMAScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "High-Speed ES2015 - Google スライド",
+                    "url": "https://docs.google.com/presentation/d/1wiiZeRQp8-sXDB9xXBUAGbaQaWJC84M5RNxRyQuTmhk/present#slide=id.p"
+                }
+            ]
         }
     ]
 }
