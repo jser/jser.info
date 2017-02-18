@@ -18,9 +18,9 @@ cd "${tmpDir}/source-data"
 git add items.json
 git commit -m "${lastCommit}"
 if [ -z "${GH_TOKEN}" ]; then
-    git push --force --quiet "https://github.com/jser/source-data.git" gh-pages:gh-pages > /dev/null
+    git push --force --quiet "https://github.com/jser/source-data.git" gh-pages:gh-pages > /dev/null 2>&1
 else
-    git push --force --quiet "https://${GH_TOKEN}@github.com/jser/source-data.git" gh-pages:gh-pages > /dev/null
+    git push --force --quiet "https://${GH_TOKEN}@github.com/jser/source-data.git" gh-pages:gh-pages > /dev/null 2>&1
 fi
 # pop
 cd -

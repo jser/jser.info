@@ -13,7 +13,7 @@ git clone --depth 1 https://github.com/jser/jser.github.io.git "${tmpDir}/jser.g
 cd "${tmpDir}/jser.github.io/"
 
 git checkout -B "${branchName}"
-git pull origin "${branchName}" --no-edit 2>/dev/null
+git pull origin develop --no-edit 2>/dev/null
 # e.g) _i18n/ja/_posts/2017
 mkdir -p "${tmpDir}/jser.github.io/_i18n/ja/_posts/${currentYear}"
 # rm prev draft

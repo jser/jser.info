@@ -21,9 +21,9 @@ npm run build:posts
 git add .
 git commit -m "${lastCommit}"
 if [ -z "${GH_TOKEN}" ]; then
-    git push --quiet "https://github.com/jser/realtime.jser.info.git" gh-pages:gh-pages > /dev/null
+    git push --quiet "https://github.com/jser/realtime.jser.info.git" gh-pages:gh-pages > /dev/null 2>&1
 else
-    git push --quiet "https://${GH_TOKEN}@github.com/jser/realtime.jser.info.git" gh-pages:gh-pages > /dev/null
+    git push --quiet "https://${GH_TOKEN}@github.com/jser/realtime.jser.info.git" gh-pages:gh-pages > /dev/null 2>&1
 fi
 # pop
 cd -
