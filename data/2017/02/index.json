@@ -607,6 +607,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-18T04:12:08.318Z",
+            "title": "Speed up Service Worker with Navigation Preloads  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2017/02/navigation-preload",
+            "content": "Chrome 57からOrigin-Trialで試験的に使える ServiceWorkerのnavigation preloadについて。\n今まではServiceWorkerが起動してからリクエストが開始されていたため、起動時間がボトルネックとなるケースがあった。\nServiceWorkerをパラレルに扱うことができ、preloadされているリクエストを取得できるAPIについて\n",
+            "tags": [
+                "ServiceWorker",
+                "Chrome"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "OriginTrials/developer-guide.md at gh-pages · jpchase/OriginTrials",
+                    "url": "https://github.com/jpchase/OriginTrials/blob/gh-pages/developer-guide.md"
+                }
+            ]
         }
     ]
 }
