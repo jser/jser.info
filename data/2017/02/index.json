@@ -709,7 +709,7 @@
             "date": "2017-02-19T10:57:59.626Z",
             "title": "i18nの書き方 from JavaScript - Qiita",
             "url": "http://qiita.com/mrasu/items/92971c09b6190fdfd45e",
-            "content": "i18nのライブラリが行う処理や各国の言語による違いにはどのようなものがあるかについて。\nいくつかのi18nライブラリを例に多言語化のやり方について解説されている記事",
+            "content": "i18nのライブラリがどのような事をしているのかや、言語による違いにはどのようなものがあるかについて。\nいくつかのi18nライブラリを例に多言語化のやり方について解説されている記事",
             "tags": [
                 "i18n",
                 "JavaScript",
@@ -726,6 +726,17 @@
             "tags": [
                 "HTML",
                 "リファレンス"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-02-19T15:24:59.340Z",
+            "title": "Optimising the front end for the browser",
+            "url": "https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572",
+            "content": "ブラウザのレンダリングフローについての記事。\nHTMLの取得、ネットワーク、DOM、CSSOM、JavaScriptの処理。\nまたこれらの処理の最適化やそのメリットについて",
+            "tags": [
+                "browser",
+                "performance"
             ],
             "relatedLinks": []
         }
