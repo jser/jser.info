@@ -675,6 +675,23 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-19T01:51:28.365Z",
+            "title": "Polyfill のあり方と Web の進化と協調するためのガイドライン | blog.jxck.io",
+            "url": "https://blog.jxck.io/entries/2017-02-17/polyfill-implementation-guideline.html",
+            "content": "polyfillの役割と、早すぎたpolyfillの実装は仕様変更を難しくするSpeculative Polyfillの問題について。\n間違ったpolyfillの実装、別名での回避事例、\npolyfillを実装するタイミングなどついて書かれてたW3C TAGのドキュメントについて。",
+            "tags": [
+                "polyfill",
+                "JavaScript",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Polyfills and the evolution of the Web",
+                    "url": "https://w3ctag.github.io/polyfills/"
+                }
+            ]
         }
     ]
 }
