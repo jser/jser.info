@@ -750,6 +750,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-20T15:36:30.980Z",
+            "title": "lighterio/exam: Node.js test framework",
+            "url": "https://github.com/lighterio/exam",
+            "content": "MochaやJasmineのような`describe`や`it`とベンチマーク向けの`bench`、assertionとして`is`、モックを行う`mock`など持つJavaScriptのテストフレームワーク。\nマルチプロセスでテストを実行できるオプションを持っている",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
