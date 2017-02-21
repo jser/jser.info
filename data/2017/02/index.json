@@ -774,6 +774,18 @@
                 "flowtype"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-21T15:06:10.294Z",
+            "title": "🃏 Jest 19: Immersive Watch Mode & Test Platform Improvements · Jest",
+            "url": "https://facebook.github.io/jest/blog/2017/02/21/jest-19-immersive-watch-mode-test-platform-improvements.html",
+            "content": "Jest 19プレリリース。\nWatchモードの改善、Snapshotテストで`test`prefixが不要に。\n`expect.stringContaining()`と` expect.toMatchObject()`のサポート。\n`eslint-plugin-jest`は公式プラグイン、設定をチェックできる`jest-validate`の公開",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
