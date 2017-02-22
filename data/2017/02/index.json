@@ -786,6 +786,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-22T11:02:02.777Z",
+            "title": "Release v1.5.0 · karma-runner/karma",
+            "url": "https://github.com/karma-runner/karma/releases/tag/v1.5.0",
+            "content": "Karma v1.5.0リリース。\nテストをクライアントと同じ`window`で実行する`runInParent`オプションとクライアントページのHTMLを指定できる`customClientContextFile`オプションの追加など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
