@@ -866,6 +866,23 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-22T23:52:30.499Z",
+            "title": "Progress as of February 2017: 2.0.0-alpha1! · Issue #71 · coffeescript6/discuss",
+            "url": "https://github.com/coffeescript6/discuss/issues/71",
+            "content": "CoffeeScript 2.0.0-alpha1リリース。\nES2015+に準拠した変更を取り入れていっているバージョンであるため、既存のものとは非互換な部分がある。\n`class`や`=>`がES2015と同等に、\nsplatsはspreadへコンパイルされるように、Tagged Template literal、async/await、`for...of`のサポートなど",
+            "tags": [
+                "CoffeeScript",
+                "ReleaseNote",
+                "issue"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "CoffeeScript",
+                    "url": "https://rawgit.com/jashkenas/coffeescript/2/docs/v2/index.html#breaking-changes"
+                }
+            ]
         }
     ]
 }
