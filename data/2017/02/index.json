@@ -818,6 +818,18 @@
                     "url": "https://github.com/nodejs/node/blob/v7.6.0/doc/changelogs/CHANGELOG_V7.md#7.6.0"
                 }
             ]
+        },
+        {
+            "date": "2017-02-22T13:31:28.185Z",
+            "title": "developit/unfetch: Bare minimum fetch polyfill in 500 bytes.",
+            "url": "https://github.com/developit/unfetch",
+            "content": "幾つかの制限を持った小さなfetchのライブラリ。",
+            "tags": [
+                "JavaScript",
+                "Fetch",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
