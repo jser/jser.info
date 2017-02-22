@@ -798,6 +798,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-22T12:51:51.576Z",
+            "title": "Node v7.6.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v7.6.0/",
+            "content": "Node v7.6.0リリース。\nV8 5.5にアップデートされasync/awaitのサポート、`url.format`がWHATWG URLをサポートするようになるなど\n",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "V8 JavaScript Engine: V8 Release 5.5",
+                    "url": "https://v8project.blogspot.jp/2016/10/v8-release-55.html"
+                },
+                {
+                    "title": "node/CHANGELOG_V7.md at v7.6.0 · nodejs/node",
+                    "url": "https://github.com/nodejs/node/blob/v7.6.0/doc/changelogs/CHANGELOG_V7.md#7.6.0"
+                }
+            ]
         }
     ]
 }
