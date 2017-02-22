@@ -854,6 +854,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-22T23:29:20.740Z",
+            "title": "babel-preset-env: a preset that configures Babel for you",
+            "url": "http://www.2ality.com/2017/02/babel-preset-env.html",
+            "content": "browserlistの構文でサポートブラウザやNode.jsのバージョンなどのターゲットを指定して、その設定を元にBabelの変換やpolyfillを展開してくれるbabel-preset-envについて",
+            "tags": [
+                "JavaScript",
+                "babel",
+                "browser"
+            ],
+            "relatedLinks": []
         }
     ]
 }
