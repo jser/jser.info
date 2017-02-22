@@ -841,6 +841,19 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-22T14:19:57.656Z",
+            "title": "Security and Frontend Performance - O'Reilly Media",
+            "url": "http://www.oreilly.com/webops-perf/free/security-and-frontend-performance.csp",
+            "content": "60ページほどのウェブサイトにおけるパフォーマンスとセキュリティについての無料の書籍。\nHSTS、CSP/script要素/iframe、リファラポリシー、link要素、難読化、ServiceWorker、メトリクスなど",
+            "tags": [
+                "browser",
+                "security",
+                "performance",
+                "book"
+            ],
+            "relatedLinks": []
         }
     ]
 }
