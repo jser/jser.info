@@ -883,6 +883,22 @@
                     "url": "https://rawgit.com/jashkenas/coffeescript/2/docs/v2/index.html#breaking-changes"
                 }
             ]
+        },
+        {
+            "date": "2017-02-23T00:40:17.153Z",
+            "title": "React Storybook: Develop Beautiful User Interfaces with Ease",
+            "url": "https://www.sitepoint.com/react-storybook-develop-beautiful-user-interfaces-with-ease/",
+            "content": "Reactコンポートの開発補助ツールであるReact StryoBookについて。\n`getstorybook`を使ってのセットアップや使い方、、Storyの書き方、カスタマイズ方法、デバッグ、自動テストについて\n",
+            "tags": [
+                "React",
+                "testing"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "mthuret/storybook-addon-specifications: Write tests next to your stories and display their results inside storybook interface",
+                    "url": "https://github.com/mthuret/storybook-addon-specifications"
+                }
+            ]
         }
     ]
 }
