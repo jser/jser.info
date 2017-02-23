@@ -942,6 +942,18 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-23T13:47:24.650Z",
+            "title": "ECMAScript 2016+ in Firefox | JavaScript",
+            "url": "https://blog.mozilla.org/javascript/2017/02/22/ecmascript-2016plus-in-firefox/",
+            "content": "Firefox Nightly 54 でES2016+ Compat tableが100％実装されたとのこと。\nES2016の`**`や`Array#include`などの追加やGenerator Constructorの仕様変更の追従、ES2017の実装について",
+            "tags": [
+                "firefox",
+                "ECMAScript",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
