@@ -899,6 +899,26 @@
                     "url": "https://github.com/mthuret/storybook-addon-specifications"
                 }
             ]
+        },
+        {
+            "date": "2017-02-23T00:58:35.934Z",
+            "title": "Announcing TypeScript 2.2 | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2017/02/22/announcing-typescript-2-2/",
+            "content": "TypeScript 2.2リリース。\nlanguaget serviceの改善、`object` typeの追加、string index、mixin class、`new.target`のサポートなど\n",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Roadmap · Microsoft/TypeScript Wiki",
+                    "url": "https://github.com/Microsoft/TypeScript/wiki/Roadmap#22-february-2017"
+                },
+                {
+                    "title": "Breaking Changes · Microsoft/TypeScript Wiki",
+                    "url": "https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes#typescript-22"
+                }
+            ]
         }
     ]
 }
