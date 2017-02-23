@@ -919,6 +919,17 @@
                     "url": "https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes#typescript-22"
                 }
             ]
+        },
+        {
+            "date": "2017-02-23T10:07:30.157Z",
+            "title": "Release Notes for Safari Technology Preview 24 | WebKit",
+            "url": "https://webkit.org/blog/7423/release-notes-for-safari-technology-preview-24/",
+            "content": "Safari Technology Preview Release 24リリース。\n`PerformanceObserver`、`<link preload>`の試験的サポート、`URL`オブジェクトに`toJSON()`の実装、dynamic `import()`のサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
