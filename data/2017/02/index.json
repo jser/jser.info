@@ -930,6 +930,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-23T13:22:34.435Z",
+            "title": "JavaScript Errors and Stack Traces in Depth",
+            "url": "http://lucasfcosta.com/2017/02/17/JavaScript-Errors-and-Stack-Traces.html",
+            "content": "JavaScriptのスタックトレースをどうやって操作するかという話。\nChaiにおける`Error.captureStackTrace`を使ったスタックトレース操作を例にしている。\nスタックトレースはどのようにできているか、`Error.captureStackTrace`の使い方について",
+            "tags": [
+                "JavaScript",
+                "article",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
