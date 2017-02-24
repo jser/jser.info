@@ -15,7 +15,7 @@ if [ $? -ne 0 ]; then
     git clone --depth 1 https://github.com/jser/jser.github.io.git "${tmpDir}/jser.github.io"
 fi
 cd "${tmpDir}/jser.github.io/"
-git checkout "${branchName}"
+git checkout -B "${branchName}"
 
 # e.g) _i18n/ja/_posts/2017
 mkdir -p "${tmpDir}/jser.github.io/_i18n/ja/_posts/${currentYear}"
