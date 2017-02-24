@@ -965,6 +965,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-24T17:06:34.233Z",
+            "title": "Release v6.16.0 · babel/babylon",
+            "url": "https://github.com/babel/babylon/releases/tag/v6.16.0",
+            "content": "babylon 6.16.0リリース。\nESTree互換モードを提供するプラグインの追加、Flowでpritimitive typeを上書する問題を修正するなど",
+            "tags": [
+                "JavaScript",
+                "babel",
+                "AST",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
