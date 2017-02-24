@@ -954,6 +954,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-24T16:50:00.127Z",
+            "title": "Release v4.4.0 · npm/npm",
+            "url": "https://github.com/npm/npm/releases/tag/v4.4.0",
+            "content": "npm 4.4.0公開。\n起動時に最新のnpmがあるかを通知するように、`npm run-script`のエラーメッセージが短くなるようになるなど",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
