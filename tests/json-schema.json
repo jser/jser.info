@@ -1,65 +1,61 @@
 {
-    "type": "object",
-    "$schema": "http://json-schema.org/draft-03/schema",
-    "id": "http://jsonschema.net",
-    "required": false,
-    "properties": {
-        "list": {
+  "type": "object",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "http://jsonschema.net",
+  "properties": {
+    "list": {
+      "type": "array",
+      "id": "http://jsonschema.net/list",
+      "items": {
+        "type": "object",
+        "required": [
+          "content",
+          "date",
+          "tags",
+          "url",
+          "title"
+        ],
+        "id": "http://jsonschema.net/list/0",
+        "properties": {
+          "content": {
+            "type": "string",
+            "description": "記事の本文です",
+            "id": "http://jsonschema.net/list/0/content"
+          },
+          "date": {
+            "type": "string",
+            "description": "記事が登録されたDateです",
+            "id": "http://jsonschema.net/list/0/date"
+          },
+          "tags": {
             "type": "array",
-            "id": "http://jsonschema.net/list",
-            "required": false,
+            "description": "記事に付けられたタグの配列",
+            "id": "http://jsonschema.net/list/0/tags",
             "items": {
-                "type": "object",
-                "id": "http://jsonschema.net/list/0",
-                "required": false,
-                "properties": {
-                    "content": {
-                        "type": "string",
-                        "description": "記事の本文です",
-                        "id": "http://jsonschema.net/list/0/content",
-                        "required": true
-                    },
-                    "date": {
-                        "type": "string",
-                        "description": "記事が登録されたDateです",
-                        "id": "http://jsonschema.net/list/0/date",
-                        "required": false
-                    },
-                    "tags": {
-                        "type": "array",
-                        "description": "記事に付けられたタグの配列",
-                        "id": "http://jsonschema.net/list/0/tags",
-                        "required": false,
-                        "items": {
-                            "type": "string",
-                            "id": "http://jsonschema.net/list/0/tags/0",
-                            "required": false
-                        }
-                    },
-                    "title": {
-                        "type": "string",
-                        "description": "記事のタイトルです",
-                        "id": "http://jsonschema.net/list/0/title",
-                        "required": true
-                    },
-                    "url": {
-                        "title": "url",
-                        "type": "string",
-                        "description": "記事のURLです",
-                        "format": "uri",
-                        "id": "http://jsonschema.net/list/0/url",
-                        "required": true
-                    },
-                    "relatedLinks": {
-                        "type": "array",
-                        "items": {
-                            "type": "object",
-                            "required": true
-                        },
-                        "required": false
-                    }
-                }
+              "type": "string",
+              "id": "http://jsonschema.net/list/0/tags/0"
             }
+          },
+          "title": {
+            "type": "string",
+            "description": "記事のタイトルです",
+            "id": "http://jsonschema.net/list/0/title"
+          },
+          "url": {
+            "title": "url",
+            "type": "string",
+            "description": "記事のURLです",
+            "format": "uri",
+            "id": "http://jsonschema.net/list/0/url"
+          },
+          "relatedLinks": {
+            "type": "array",
+            "items": {
+              "type": "object"
+            }
+          }
         }
+      }
     }
+  }
 }
