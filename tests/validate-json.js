@@ -1,43 +1,40 @@
 /**
  * Created by azu on 2013/11/09.
  */
-var parser = require("jsonlint").parser;
-var JSV = require("JSV").JSV;
 var fs = require("fs");
 var path = require("path");
-
-function lintJSON(source) {
-    var parsed;
-    var schemaPath = __dirname + "/json-schema.json";
-
-    function schemaError(str, err) {
-        return str +
-            "\n\n" + err.message +
-            "\nuri: " + err.uri +
-            "\nschemaUri: " + err.schemaUri +
-            "\nattribute: " + err.attribute +
-            "\ndetails: " + JSON.stringify(err.details);
+var Ajv = require('ajv');
+var glob = require("glob");
+var pointer = require('json-pointer');
+var ajv = new Ajv({
+    jsonPointers: true
+});
+var schemaPath = __dirname + "/json-schema.json";
+var schema = JSON.parse(fs.readFileSync(schemaPath, "utf8"));
+var validate = ajv.compile(schema);
+/**
+ * @param {object} source
+ * @param {string} jsonFilePath
+ * @returns {boolean}
+ */
+function lintJSON(source, jsonFilePath) {
+    const valid = validate(source, schema);
+    if (valid) {
+        return true;
     }
-
-    try {
-        parsed = parser.parse(source);
-        var env = JSV.createEnvironment("json-schema-draft-03");
-        var schema = JSON.parse(fs.readFileSync(schemaPath, "utf8"));
-        var report = env.validate(parsed, schema);
-        if (report.errors.length > 0) {
-            throw report.errors.reduce(schemaError, 'Validation Errors:');
-        }
-        return JSON.stringify(parsed, null, 4);
-    } catch (e) {
-        console.error(e);
-        process.exit(1);
-    }
+    validate.errors.forEach(error => {
+        console.error(`${error.message} @ ${jsonFilePath}`);
+        const data = pointer.get(source, error.dataPath.replace("[object Object]", ""));
+        console.error(JSON.stringify(data, null, 4));
+        console.error(JSON.stringify(error, null, 4));
+    });
+    return false;
 }
 // lintするjsonを取得する
 function getJSONFiles(rootDir, mainCallback) {
-    var walk = function (dir) {
+    var walk = function(dir) {
         walk.results = walk.results || [];
-        fs.readdirSync(dir).forEach(function (item) {
+        fs.readdirSync(dir).forEach(function(item) {
             var stat = fs.statSync(path.join(dir, item));
             if (stat.isFile()) {
                 walk.results.push(path.resolve(dir, item));
@@ -56,7 +53,7 @@ function getJSONFiles(rootDir, mainCallback) {
                 return next(null, next);
             }
             var results = walk(dirs.pop());
-            var filteredFile = results.filter(function (file) {
+            var filteredFile = results.filter(function(file) {
                 var basename = path.extname(file);
                 return basename === ".json";
             });
@@ -64,20 +61,20 @@ function getJSONFiles(rootDir, mainCallback) {
             walkDir(dirs, next);
         }
 
-        walkDir(targetDirs, function (error) {
+        walkDir(targetDirs, function(error) {
             callback(error, jsonFiles);
         });
     }
 
     function getTargetDirFromRoot(error, callback) {
-        fs.readdir(rootDir, function (err, files) {
+        fs.readdir(rootDir, function(err, files) {
             if (err) {
                 throw err;
             }
-            var filteredDir = files.filter(function (file) {
+            var filteredDir = files.filter(function(file) {
                 var fileName = path.basename(file);
                 return /\d{4}/.test(fileName);
-            }).map(function (dir) {
+            }).map(function(dir) {
                 return path.resolve(rootDir, dir);
             });
             getJSONFileInDir(null, filteredDir, callback);
@@ -87,13 +84,15 @@ function getJSONFiles(rootDir, mainCallback) {
     getTargetDirFromRoot(null, mainCallback);
 }
 (function main() {
-    var rootDir = __dirname + "/../data/";
-    getJSONFiles(rootDir, function (error, jsonFiles) {
-        if (error) {
-            console.log("error", error);
-        }
-        jsonFiles.forEach(function (json) {
-            lintJSON(fs.readFileSync(json, "utf-8"));
-        });
+    const currentYear = new Date().getFullYear();
+    const rootDir = path.join(__dirname, `../data/${currentYear}`);
+    const jsonFiles = glob.sync(rootDir + "/**/*.json");
+    const passed = jsonFiles.every(function(jsonFilePath) {
+        return lintJSON(JSON.parse(fs.readFileSync(jsonFilePath, "utf-8")), jsonFilePath);
     });
+    if (passed) {
+        process.exit(0);
+    } else {
+        process.exit(1);
+    }
 })();
