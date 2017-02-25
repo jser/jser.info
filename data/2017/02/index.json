@@ -1012,6 +1012,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-25T11:58:53.318Z",
+            "title": "debitoor/dot-prop-immutable: Immutable version of dot-prop with some extensions",
+            "url": "https://github.com/debitoor/dot-prop-immutable",
+            "content": "immutableなget/set/delete操作を行うシンプルなライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
