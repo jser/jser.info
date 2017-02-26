@@ -1064,12 +1064,13 @@
             ]
         },
         {
-            "date": "2017-02-26T09:06:47.700Z",
+            "date": "2017-02-26T09:07:01.216Z",
             "title": "Vendor and code splitting in webpack 2 – Medium",
             "url": "https://medium.com/@adamrackis/vendor-and-code-splitting-in-webpack-2-6376358f1923",
             "content": "webpack 2でのコード分割について。\n`import()`での動的ロードと分割、BundleAnalyzerPluginでの分析、CommonsChunkでの分割",
             "tags": [
-                "webpack"
+                "webpack",
+                "article"
             ],
             "relatedLinks": []
         }
