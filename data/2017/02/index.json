@@ -1034,6 +1034,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-26T01:17:14.825Z",
+            "title": "angular/CHANGELOG.md at 4.0.0-rc.1 · angular/angular",
+            "url": "https://github.com/angular/angular/blob/4.0.0-rc.1/CHANGELOG.md",
+            "content": "Angular 4.0.0 RC1リリース。\nAOTコンパイルしたViewのコード量を削減、コードベースがTypeScript 2.1ベースでStrictNullChecksが有効化された。\nあわせてAngularをサーバサイドでも動かせるUniversalも更新されるなど",
+            "tags": [
+                "AngularJS",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
