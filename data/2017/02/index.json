@@ -1073,6 +1073,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-26T09:10:06.121Z",
+            "title": "逆引き！フロントエンドのイマドキパフォーマンス改善 - 青空コメントアウト",
+            "url": "http://www.aocomme.com/entry/2017/01/18/185753",
+            "content": "最近ブラウザに増えたレンダリング負荷を考慮したAPIや先読みについて。\n`will-change`、CSS Containment、`requestIdleCallback`、Passive EventListener、`<link rel=preload>`についての紹介",
+            "tags": [
+                "browser",
+                "performance",
+                "article",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
