@@ -1045,6 +1045,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-02-26T05:55:55.220Z",
+            "title": "Release v2.2.0 · vuejs/vue",
+            "url": "https://github.com/vuejs/vue/releases/tag/v2.2.0",
+            "content": "Vue.js v2.2.0リリース。\nテンプレートで閉じタグがない場合にエラーを投げるように、PropsやComputedプロパティはインスタンスではなくprototypeへ定義されるように。\nサーバサイドレンダリング向けに`template`オプションの追加、`errorHandler`や`renderError`でエラーがキャッチできるように。\nReact Context的な値を差し込める`provive`と`inject`のDI機構の追加など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Dummy",
+                    "url": "http://example.com/"
+                }
+            ]
         }
     ]
 }
