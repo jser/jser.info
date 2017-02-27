@@ -26,7 +26,7 @@ node "${currentDir}/jser.github.io/bin/generate-next-draft.js" \
     --output "${tmpDir}/jser.github.io/_i18n/ja/_posts/${currentYear}/${currentDate}-${nextWeekNumber}draft.md"
 
 # Git Commit
-git ls-files -cmo --exclude-standard "${tmpDir}/jser.github.io/_i18n/ja/_posts/${currentYear}/*draft.md" | xargs git add
+git ls-files -cmo "${tmpDir}/jser.github.io/_i18n/ja/_posts/${currentYear}/*draft.md" | xargs git add
 git commit -m "Update ${nextWeekNumber} draft"
 # Git Push
 echo "git push draft"
