@@ -1052,7 +1052,12 @@
                 "AngularJS",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "angular/RELEASE_SCHEDULE.md at master · angular/angular",
+                    "url": "https://github.com/angular/angular/blob/master/docs/RELEASE_SCHEDULE.md"
+                }
+            ]
         },
         {
             "date": "2017-02-26T05:55:55.220Z",
