@@ -38,6 +38,18 @@
                     "url": "https://github.com/WebAssembly/spec/pull/433"
                 }
             ]
+        },
+        {
+            "date": "2017-03-02T09:08:31.693Z",
+            "title": "karmaを使ったSPA向けE2Eテスト技法 // Speaker Deck",
+            "url": "https://speakerdeck.com/kyo_ago/karmawoshi-tutaspaxiang-kee2etesutoji-fa",
+            "content": "Karmaを使ったIntegration Testsについて。\nKarmaでProxyを使い、指定したサイト上でテストコードを動かすようにテストを書く方法について",
+            "tags": [
+                "testing",
+                "JavaScript",
+                "E2E"
+            ],
+            "relatedLinks": []
         }
     ]
 }
