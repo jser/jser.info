@@ -11,6 +11,17 @@
                 "plugin"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-02T05:51:43.905Z",
+            "title": "dumbmatter/fakeIndexedDB: A pure JS in-memory implementation of the IndexedDB API",
+            "url": "https://github.com/dumbmatter/fakeIndexedDB",
+            "content": "In-memoryなIndexedDBの実装ライブラリ。\nテストなどでmockとして利用できる",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
