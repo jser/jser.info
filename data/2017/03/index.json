@@ -90,13 +90,24 @@
             ],
             "relatedLinks": []
         },
-        {
-            "date": "2017-03-06T08:59:08.608Z",
-            "title": "Feature watch: ECMAScript 2018",
-            "url": "http://www.2ality.com/2017/02/ecmascript-2018.html",
-            "content": "ECMAScript 2018の候補となるProposalについて。\n今現在Stage 3以上のもの",
+      {
+        "date": "2017-03-06T08:59:08.608Z",
+        "title": "Feature watch: ECMAScript 2018",
+        "url": "http://www.2ality.com/2017/02/ecmascript-2018.html",
+        "content": "ECMAScript 2018の候補となるProposalについて。\n今現在Stage 3以上のもの",
+        "tags": [
+          "ECMAScript"
+        ]
+      },
+      {
+            "date": "2017-03-03T00:52:32.685Z",
+            "title": "ゼロから始めるJavaScript入門 ： DESIGNMAP",
+            "url": "http://designmap.info/category/lecture/javascript-introduction/",
+            "content": "ES2015ベースにしたJavaScript入門チュートリアル",
             "tags": [
-                "ECMAScript"
+                "ECMAScript",
+                "tutorial",
+                "JavaScript"
             ],
             "relatedLinks": []
         }
