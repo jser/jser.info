@@ -66,6 +66,18 @@
                     "url": "https://csswizardry.com/2017/02/base64-encoding-and-performance-part-2/"
                 }
             ]
+        },
+        {
+            "date": "2017-03-06T02:16:27.325Z",
+            "title": "developit/vhtml: Render JSX/Hyperscript to HTML strings, without VDOM 🌈",
+            "url": "https://github.com/developit/vhtml",
+            "content": "JSX/HyperscriptをHTML文字列に変換するライブラリ。",
+            "tags": [
+                "JavaScript",
+                "React",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
