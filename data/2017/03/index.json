@@ -1,127 +1,127 @@
 {
-    "list": [
+  "list": [
+    {
+      "date": "2017-03-02T05:47:10.292Z",
+      "title": "marcuswestin/store.js: Cross-browser storage for all use cases • Used across the web • See below for v2.0 news!",
+      "url": "https://github.com/marcuswestin/store.js",
+      "content": "プラグインで拡張可能なstorage管理ライブラリ。",
+      "tags": [
+        "JavaScript",
+        "library",
+        "plugin"
+      ],
+      "relatedLinks": []
+    },
+    {
+      "date": "2017-03-02T05:51:43.905Z",
+      "title": "dumbmatter/fakeIndexedDB: A pure JS in-memory implementation of the IndexedDB API",
+      "url": "https://github.com/dumbmatter/fakeIndexedDB",
+      "content": "In-memoryなIndexedDBの実装ライブラリ。\nテストなどでmockとして利用できる",
+      "tags": [
+        "JavaScript",
+        "library"
+      ],
+      "relatedLinks": []
+    },
+    {
+      "date": "2017-03-02T05:59:20.179Z",
+      "title": "WebAssembly consensus and end of Browser Preview from Luke Wagner on 2017-02-28 (public-webassembly@w3.org from February 2017)",
+      "url": "https://lists.w3.org/Archives/Public/public-webassembly/2017Feb/0002.html",
+      "content": "WebAssemblyの仕様が`0x1`となった。\nブラウザプレビュー期間が終わり、StableにWebAssemblyを載せることに合意が取れた。",
+      "tags": [
+        "WebAssembly",
+        "ReleaseNote"
+      ],
+      "relatedLinks": [
         {
-            "date": "2017-03-02T05:47:10.292Z",
-            "title": "marcuswestin/store.js: Cross-browser storage for all use cases • Used across the web • See below for v2.0 news!",
-            "url": "https://github.com/marcuswestin/store.js",
-            "content": "プラグインで拡張可能なstorage管理ライブラリ。",
-            "tags": [
-                "JavaScript",
-                "library",
-                "plugin"
-            ],
-            "relatedLinks": []
-        },
-        {
-            "date": "2017-03-02T05:51:43.905Z",
-            "title": "dumbmatter/fakeIndexedDB: A pure JS in-memory implementation of the IndexedDB API",
-            "url": "https://github.com/dumbmatter/fakeIndexedDB",
-            "content": "In-memoryなIndexedDBの実装ライブラリ。\nテストなどでmockとして利用できる",
-            "tags": [
-                "JavaScript",
-                "library"
-            ],
-            "relatedLinks": []
-        },
-        {
-            "date": "2017-03-02T05:59:20.179Z",
-            "title": "WebAssembly consensus and end of Browser Preview from Luke Wagner on 2017-02-28 (public-webassembly@w3.org from February 2017)",
-            "url": "https://lists.w3.org/Archives/Public/public-webassembly/2017Feb/0002.html",
-            "content": "WebAssemblyの仕様が`0x1`となった。\nブラウザプレビュー期間が終わり、StableにWebAssemblyを載せることに合意が取れた。",
-            "tags": [
-                "WebAssembly",
-                "ReleaseNote"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "Update version to 1 by binji · Pull Request #433 · WebAssembly/spec",
-                    "url": "https://github.com/WebAssembly/spec/pull/433"
-                }
-            ]
-        },
-        {
-            "date": "2017-03-02T09:08:31.693Z",
-            "title": "karmaを使ったSPA向けE2Eテスト技法 // Speaker Deck",
-            "url": "https://speakerdeck.com/kyo_ago/karmawoshi-tutaspaxiang-kee2etesutoji-fa",
-            "content": "Karmaを使ったIntegration Testsについて。\nKarmaでProxyを使い、指定したサイト上でテストコードを動かすようにテストを書く方法について",
-            "tags": [
-                "testing",
-                "JavaScript",
-                "E2E"
-            ],
-            "relatedLinks": []
-        },
-        {
-            "date": "2017-03-06T02:14:53.563Z",
-            "title": "Base64 Encoding & Performance, Part 1: What’s Up with Base64? – CSS Wizardry – CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts",
-            "url": "https://csswizardry.com/2017/02/base64-encoding-and-performance/",
-            "content": "CSSにbase64の画像を埋め込む事とパフォーマンスについての記事。\nファイルサイズやgzipの圧縮効率を考えるとbase64の画像は非効率になりがちという話。\nまた後編では`rel=preload`と合わせた画像の読み込みについて書かれている。",
-            "tags": [
-                "CSS",
-                "performance"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "Base64 Encoding &amp; Performance, Part 2: Gathering Data – CSS Wizardry – CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts",
-                    "url": "https://csswizardry.com/2017/02/base64-encoding-and-performance-part-2/"
-                }
-            ]
-        },
-        {
-            "date": "2017-03-06T02:16:27.325Z",
-            "title": "developit/vhtml: Render JSX/Hyperscript to HTML strings, without VDOM 🌈",
-            "url": "https://github.com/developit/vhtml",
-            "content": "JSX/HyperscriptをHTML文字列に変換するライブラリ。",
-            "tags": [
-                "JavaScript",
-                "React",
-                "library"
-            ],
-            "relatedLinks": []
-        },
-        {
-            "date": "2017-03-06T02:25:20.257Z",
-            "title": "知っておきたいブラウザについての基礎入門 // Speaker Deck",
-            "url": "https://speakerdeck.com/pastak/zhi-tuteokitaiburauzanituitefalseji-chu-ru-men",
-            "content": "WebBrowserの基本的なコンポーネントやレンダリングまでのフローについてのスライド。",
-            "tags": [
-                "browser",
-                "slide"
-            ],
-            "relatedLinks": []
-        },
-      {
-        "date": "2017-03-06T08:59:08.608Z",
-        "title": "Feature watch: ECMAScript 2018",
-        "url": "http://www.2ality.com/2017/02/ecmascript-2018.html",
-        "content": "ECMAScript 2018の候補となるProposalについて。\n今現在Stage 3以上のもの",
-        "tags": [
-          "ECMAScript"
-        ]
-      },
-      {
-            "date": "2017-03-03T00:52:32.685Z",
-            "title": "ゼロから始めるJavaScript入門 ： DESIGNMAP",
-            "url": "http://designmap.info/category/lecture/javascript-introduction/",
-            "content": "ES2015ベースにしたJavaScript入門チュートリアル",
-            "tags": [
-                "ECMAScript",
-                "tutorial",
-                "JavaScript"
-            ],
-            "relatedLinks": []
-        },
-        {
-            "date": "2017-03-04T08:46:27.281Z",
-            "title": "Artillery - a modern load testing toolkit",
-            "url": "https://artillery.io/",
-            "content": "HTTPやWebSocketのロードテストを行うことができるツール。\nシナリオを元にしたテストもできる。",
-            "tags": [
-                "testing",
-                "performance",
-                "HTTP"
-            ],
-            "relatedLinks": []
+          "title": "Update version to 1 by binji · Pull Request #433 · WebAssembly/spec",
+          "url": "https://github.com/WebAssembly/spec/pull/433"
         }
-    ]
+      ]
+    },
+    {
+      "date": "2017-03-02T09:08:31.693Z",
+      "title": "karmaを使ったSPA向けE2Eテスト技法 // Speaker Deck",
+      "url": "https://speakerdeck.com/kyo_ago/karmawoshi-tutaspaxiang-kee2etesutoji-fa",
+      "content": "Karmaを使ったIntegration Testsについて。\nKarmaでProxyを使い、指定したサイト上でテストコードを動かすようにテストを書く方法について",
+      "tags": [
+        "testing",
+        "JavaScript",
+        "E2E"
+      ],
+      "relatedLinks": []
+    },
+    {
+      "date": "2017-03-03T00:52:32.685Z",
+      "title": "ゼロから始めるJavaScript入門 ： DESIGNMAP",
+      "url": "http://designmap.info/category/lecture/javascript-introduction/",
+      "content": "ES2015ベースにしたJavaScript入門チュートリアル",
+      "tags": [
+        "ECMAScript",
+        "tutorial",
+        "JavaScript"
+      ],
+      "relatedLinks": []
+    },
+    {
+      "date": "2017-03-04T08:46:27.281Z",
+      "title": "Artillery - a modern load testing toolkit",
+      "url": "https://artillery.io/",
+      "content": "HTTPやWebSocketのロードテストを行うことができるツール。\nシナリオを元にしたテストもできる。",
+      "tags": [
+        "testing",
+        "performance",
+        "HTTP"
+      ],
+      "relatedLinks": []
+    },
+    {
+      "date": "2017-03-06T02:14:53.563Z",
+      "title": "Base64 Encoding & Performance, Part 1: What’s Up with Base64? – CSS Wizardry – CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts",
+      "url": "https://csswizardry.com/2017/02/base64-encoding-and-performance/",
+      "content": "CSSにbase64の画像を埋め込む事とパフォーマンスについての記事。\nファイルサイズやgzipの圧縮効率を考えるとbase64の画像は非効率になりがちという話。\nまた後編では`rel=preload`と合わせた画像の読み込みについて書かれている。",
+      "tags": [
+        "CSS",
+        "performance"
+      ],
+      "relatedLinks": [
+        {
+          "title": "Base64 Encoding &amp; Performance, Part 2: Gathering Data – CSS Wizardry – CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts",
+          "url": "https://csswizardry.com/2017/02/base64-encoding-and-performance-part-2/"
+        }
+      ]
+    },
+    {
+      "date": "2017-03-06T02:16:27.325Z",
+      "title": "developit/vhtml: Render JSX/Hyperscript to HTML strings, without VDOM 🌈",
+      "url": "https://github.com/developit/vhtml",
+      "content": "JSX/HyperscriptをHTML文字列に変換するライブラリ。",
+      "tags": [
+        "JavaScript",
+        "React",
+        "library"
+      ],
+      "relatedLinks": []
+    },
+    {
+      "date": "2017-03-06T02:25:20.257Z",
+      "title": "知っておきたいブラウザについての基礎入門 // Speaker Deck",
+      "url": "https://speakerdeck.com/pastak/zhi-tuteokitaiburauzanituitefalseji-chu-ru-men",
+      "content": "WebBrowserの基本的なコンポーネントやレンダリングまでのフローについてのスライド。",
+      "tags": [
+        "browser",
+        "slide"
+      ],
+      "relatedLinks": []
+    },
+    {
+      "date": "2017-03-06T08:59:08.608Z",
+      "title": "Feature watch: ECMAScript 2018",
+      "url": "http://www.2ality.com/2017/02/ecmascript-2018.html",
+      "content": "ECMAScript 2018の候補となるProposalについて。\n今現在Stage 3以上のもの",
+      "tags": [
+        "ECMAScript"
+      ]
+    }
+  ]
 }
