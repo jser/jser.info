@@ -263,7 +263,7 @@
             "date": "2017-03-06T23:43:15.657Z",
             "title": "zertosh/v8-compile-cache: Require hook for automatic V8 compile cache persistence",
             "url": "https://github.com/zertosh/v8-compile-cache",
-            "content": "Node v5.7.0から導入されたV8のcode cacheを保持するrequire hook。\nyarnやnuclideなどの起動速度改善に使われてる",
+            "content": "Node v5.7.0から導入されたV8のcode cacheを保持するrequire hookを提供するライブラリ。\nyarnやnuclideなどの起動速度改善に使われてる",
             "tags": [
                 "V8",
                 "node.js",
