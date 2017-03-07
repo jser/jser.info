@@ -269,6 +269,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-07T00:58:53.420Z",
+            "title": "snyk/vulndb: Snyk's public vulnerability database",
+            "url": "https://github.com/snyk/vulndb",
+            "content": "Snykによるnpmやrubygemの脆弱性についてを集めたデータベース。",
+            "tags": [
+                "security",
+                "npm",
+                "webservice"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "VulnDB | Snyk",
+                    "url": "https://snyk.io/vuln"
+                }
+            ]
         }
     ]
 }
