@@ -504,6 +504,17 @@
                     "url": "https://github.com/almin/almin/releases/tag/0.10.0"
                 }
             ]
+        },
+        {
+            "date": "2017-03-09T07:07:47.074Z",
+            "title": "brave/muon: Build browsers and browser like applications with HTML, CSS, and JavaScript",
+            "url": "https://github.com/brave/muon",
+            "content": "BraveのElectron fork。\nChromiumのソースを直接使うように、Chrome extensionsのサポート、renderer processからNode.jsを完全に除去するのが目的",
+            "tags": [
+                "Electron",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
