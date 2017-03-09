@@ -485,6 +485,25 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-09T03:18:57.240Z",
+            "title": "Inroducing Almin 0.10.0: TypeScript, FlowType, Logger | Web Scratch",
+            "url": "http://efcl.info/2017/03/08/almim0.10/",
+            "content": "FluxライブラリのAlmin 0.10.0リリース。\nコードベースをTypeScript化、FlowTypeのサポート改善、開発用のロガーの改善など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote",
+                "TypeScript",
+                "flowtype"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 0.10.0 · almin/almin",
+                    "url": "https://github.com/almin/almin/releases/tag/0.10.0"
+                }
+            ]
         }
     ]
 }
