@@ -373,6 +373,19 @@
                     "url": "https://github.com/mobxjs/mobx"
                 }
             ]
+        },
+        {
+            "date": "2017-03-11T16:38:27.981Z",
+            "title": "Native ECMAScript modules: nomodule attribute for the migration",
+            "url": "https://blog.hospodarets.com/native-ecmascript-modules-nomodule",
+            "content": "scriptタグの`nomodule`属性について\nモジュールをサポートしてない環境でのみ実行されるscript要素で、fallbackを行う方法について",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "module",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
