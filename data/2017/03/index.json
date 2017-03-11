@@ -310,6 +310,30 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-11T12:57:10.982Z",
+            "title": "Firefox 52.0 リリースノート",
+            "url": "https://www.mozilla.jp/firefox/52.0/releasenotes/",
+            "content": "Firefox 52.0リリース。\nwasmのデフォルト有効化、CSS Gridのサポート、`rel=\"noopener\"`のサポート、async/await、Unicode code pointを識別子として利用できるようになるなど",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 52 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/ja/Firefox/Releases/52"
+                },
+                {
+                    "title": "Firefox 52 サイト互換性情報 | Firefox サイト互換性情報",
+                    "url": "https://www.fxsitecompat.com/ja/versions/52/"
+                },
+                {
+                    "title": "Firefox 52 が正式リリース、WebAssembly、CSS Grid Layout の実装、レスポンシブデザインモードの拡充など盛りだくさん | WWW WATCH",
+                    "url": "https://hyper-text.org/archives/2017/03/firefox_52_release.shtml"
+                }
+            ]
         }
     ]
 }
