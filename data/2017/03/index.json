@@ -332,10 +332,6 @@
                 {
                     "title": "Firefox 52 が正式リリース、WebAssembly、CSS Grid Layout の実装、レスポンシブデザインモードの拡充など盛りだくさん | WWW WATCH",
                     "url": "https://hyper-text.org/archives/2017/03/firefox_52_release.shtml"
-                },
-                {
-                    "title": "Firefox 52: Introducing Web Assembly, CSS Grid and the Grid Inspector ★ Mozilla Hacks – the Web developer blog",
-                    "url": "https://hacks.mozilla.org/2017/03/firefox-52-introducing-web-assembly-css-grid-and-the-grid-inspector/"
                 }
             ]
         },
@@ -361,6 +357,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-11T16:31:09.194Z",
+            "title": "MobXを使ったアーキテクチャについて - console.lealog();",
+            "url": "http://lealog.hateblo.jp/entry/2017/03/08/114017",
+            "content": "State管理ライブラリであるMobXについて。\n",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "mobxjs/mobx: Simple, scalable state management.",
+                    "url": "https://github.com/mobxjs/mobx"
+                }
+            ]
         }
     ]
 }
