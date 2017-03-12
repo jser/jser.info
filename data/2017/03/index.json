@@ -473,6 +473,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-12T06:08:03.110Z",
+            "title": "WAI-ARIAの考え方と使い方を整理しよう",
+            "url": "https://www.slideshare.net/nozomisawada969/waiaria-72900338",
+            "content": "WAI-ARIAについてのスライド。\n`aria-*`属性、role属性の使い分けや意味合いについて。\nランドマーク、文書構造、ウィジェット、ライブ領域、tabindex属性などについて",
+            "tags": [
+                "WAI-ARIA",
+                "accessibility",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
