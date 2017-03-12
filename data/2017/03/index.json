@@ -461,20 +461,18 @@
                 "library",
                 "ReleaseNote"
             ],
-            "relatedLinks": [
-                {
-                    "title": "QUnit.todo() | QUnit API Documentation",
-                    "url": "http://api.qunitjs.com/QUnit.todo/"
-                },
-                {
-                    "title": "step() | QUnit API Documentation",
-                    "url": "http://api.qunitjs.com/step/"
-                },
-                {
-                    "title": "verifySteps() | QUnit API Documentation",
-                    "url": "http://api.qunitjs.com/verifySteps/"
-                }
-            ]
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-03-12T03:00:59.471Z",
+            "title": "Electronではじめるアプリ開発　～JavaScript/HTML/CSSでデスクトップアプリを作ろう：書籍案内｜技術評論社",
+            "url": "http://gihyo.jp/book/2017/978-4-7741-8819-5",
+            "content": "2017年3月28日発売\nElectronについての書籍",
+            "tags": [
+                "Electron",
+                "book"
+            ],
+            "relatedLinks": []
         }
     ]
 }
