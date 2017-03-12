@@ -461,7 +461,20 @@
                 "library",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "QUnit.todo() | QUnit API Documentation",
+                    "url": "http://api.qunitjs.com/QUnit.todo/"
+                },
+                {
+                    "title": "step() | QUnit API Documentation",
+                    "url": "http://api.qunitjs.com/step/"
+                },
+                {
+                    "title": "verifySteps() | QUnit API Documentation",
+                    "url": "http://api.qunitjs.com/verifySteps/"
+                }
+            ]
         }
     ]
 }
