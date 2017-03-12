@@ -449,6 +449,19 @@
                     "url": "http://nerds.airbnb.com/experiment-reporting-framework/"
                 }
             ]
+        },
+        {
+            "date": "2017-03-12T02:14:27.929Z",
+            "title": "qunit/History.md at 2.2.0 · qunitjs/qunit",
+            "url": "https://github.com/qunitjs/qunit/blob/2.2.0/History.md",
+            "content": "QUnit 2.2.0リリース。\n1つ以上のテストがFailのときはPassし、Todoのみが残った時はFaillする`QUnit.todo`の追加、通った順序を記録し検証する`assert.step()`と`assert.verifySteps`を追加など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
