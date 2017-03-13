@@ -538,6 +538,52 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-12T23:53:25.612Z",
+            "title": "Release Inferno 1.4.0 · infernojs/inferno",
+            "url": "https://github.com/infernojs/inferno/releases/tag/1.4.0",
+            "content": "Inferno v1.4.0リリース。\nSVGのサポートを修正、optimize-jsの対応など\n",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-03-13T12:31:26.099Z",
+            "title": "Welcome 2.0 Release Candidate! - Polymer Project",
+            "url": "https://www.polymer-project.org/blog/2017-03-08-2-0-rc",
+            "content": "Polymer 2.0.0 RCリリース。\nCustom Elements v1、Shadow DOM v1の仕様に追従した変更が含まれてる。\nES2015 classesの対応、ライフサイクルの変更、`is`属性サポートの廃止、データ変更検知の仕組みの変更など",
+            "tags": [
+                "JavaScript",
+                "WebComponents",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "About Polymer 2.0 - Polymer Project",
+                    "url": "https://www.polymer-project.org/2.0/docs/about_20"
+                },
+                {
+                    "title": "Polymer 2.0 upgrade guide - Polymer Project",
+                    "url": "https://www.polymer-project.org/2.0/docs/upgrade"
+                }
+            ]
+        },
+        {
+            "date": "2017-03-13T13:01:56.121Z",
+            "title": "Sazerac",
+            "url": "http://sazeracjs.com/",
+            "content": "データにフォーカスしたassertion/テストライブラリ。\nJasmine、Jest、Mochaと一緒に動作する。\nデータごとのテストケースを作るような_パラメタライズドテスト_を行える。",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
