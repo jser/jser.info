@@ -584,6 +584,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-13T14:56:37.062Z",
+            "title": "薄いフレームワーク指向の Web クライアントサイドプログラミング - Hatena Developer Blog",
+            "url": "http://developer.hatenastaff.com/entry/2017/03/10/190229",
+            "content": "MVPアーキテクチャパターンを使ったフレームワークを使わないアプリケーション設計について。\nView/Presenter/Modelに役割を分担したクラスを扱う方法について",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "設計",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
