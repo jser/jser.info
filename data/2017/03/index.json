@@ -609,6 +609,16 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-15T10:35:56.854Z",
+            "title": "ES6 Proxy をつかって堅牢なオブジェクトをつくるTips",
+            "url": "https://aloerina01.github.io/javascript/2017/03/14/1.html",
+            "content": "ES2015 Proxyを使ったImmutableやSingletonなどを例にした、オブジェクトの拡張方法について。\nProxyのtrapやReflect APIについて",
+            "tags": [
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
