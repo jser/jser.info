@@ -637,6 +637,22 @@
                     "url": "https://github.com/sinonjs/sinon/blob/v2.0.0/Changelog.txt"
                 }
             ]
+        },
+        {
+            "date": "2017-03-15T13:09:05.682Z",
+            "title": "thejameskyle/react-loadable: A higher order component for loading components with promises.",
+            "url": "https://github.com/thejameskyle/react-loadable",
+            "content": "初期表示までにのローディングを扱う高階関数のReactコンポーネント。 Promiseが解決されるまでのローディングやエラー表示を行う",
+            "tags": [
+                "React",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing React Loadable – Medium",
+                    "url": "https://medium.com/@thejameskyle/react-loadable-2674c59de178"
+                }
+            ]
         }
     ]
 }
