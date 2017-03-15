@@ -598,6 +598,17 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-15T02:21:09.464Z",
+            "title": "Testing Service Workers – Dev Channel – Medium",
+            "url": "https://medium.com/dev-channel/testing-service-workers-318d7b016b19",
+            "content": "ServiceWorkerのスクリプトに対するユニットテストについて。\nTests in SW、イベントのエミュレート、Push Eventのテストについてなど",
+            "tags": [
+                "ServiceWorker",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
