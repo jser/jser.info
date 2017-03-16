@@ -705,6 +705,17 @@
                 "Chrome"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-16T15:35:05.038Z",
+            "title": "smelukov/webpack-runtime-analyzer: Webpack 1.x/2.x plugin for analyzing internal processes, state and structure of bundles.",
+            "url": "https://github.com/smelukov/webpack-runtime-analyzer",
+            "content": "webpackでビルドしたファイルのstateや構造をビジュアライズするwebpack plugin。\nモジュール、依存関係グラフ、ファイルサイズなど",
+            "tags": [
+                "webpack",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
