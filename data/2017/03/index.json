@@ -697,10 +697,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2017-03-16T12:44:34.531Z",
+            "date": "2017-03-16T12:55:53.190Z",
             "title": "Background Tabs in Chrome 57  |  Web  |  Google Developers",
             "url": "https://developers.google.com/web/updates/2017/03/background_tabs",
-            "content": "Chromeのバックグラウンドタブにおける制限について。\ntimerやrequestAnimationFrame、WebSocketsなどに制限がかかる。\nバックグラウンドにいるかはPage visibility APIで判定できる。\nテスト時などは`--disable-background-timer-throttling`のフラグで無効化できる。",
+            "content": "Chromeのバックグラウンドタブにおける制限について。 \nChrome 57からは、timerやrequestAnimationFrameに加えて、budget-basedの制限が加わる。\nバックグラウンドにいるかはPage visibility APIで判定できる。 テスト時などは`--disable-background-timer-throttling`のフラグで無効化できる。",
             "tags": [
                 "Chrome"
             ],
