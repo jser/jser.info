@@ -780,6 +780,20 @@
                     "url": "http://qiita.com/Jey/items/dae2074427547e63569b"
                 }
             ]
+        },
+        {
+            "date": "2017-03-17T11:09:36.860Z",
+            "title": "AlminでFluxアーキテクチャをやってみる | Web Scratch",
+            "url": "http://efcl.info/2017/03/17/almin-introduction/",
+            "content": "Alminを使ってカウンターアプリを書きながら、どのようにFlux的な一方通行のデータフローを行うかについての記事。\n開発用のロガーやブラウザ拡張との連携について",
+            "tags": [
+                "JavaScript",
+                "redux",
+                "Flux",
+                "library",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
