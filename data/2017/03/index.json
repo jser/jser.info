@@ -744,6 +744,17 @@
                     "url": "http://conf.reactjs.org/"
                 }
             ]
+        },
+        {
+            "date": "2017-03-17T00:48:18.656Z",
+            "title": "jQuery 3.2.0 Is Out! | Official jQuery Blog",
+            "url": "https://blog.jquery.com/2017/03/16/jquery-3-2-0-is-out/",
+            "content": "jQuery 3.2.0リリース。\n`$.css`がCSS Custom Propertyをサポート、transformされた要素の`.width()`、`.height()`の値がおかしい問題を修正、`<template>`要素をサポートなど",
+            "tags": [
+                "jQuery",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
