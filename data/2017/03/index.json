@@ -794,6 +794,17 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-18T08:26:39.416Z",
+            "title": "FranckFreiburger/module-invalidate: Invalidate node.js modules loaded through require()",
+            "url": "https://github.com/FranckFreiburger/module-invalidate",
+            "content": "Node.jsの`require`で読み込んだキャッシュを無効化したり、モジュール側で無効化することを宣言できるモジュール",
+            "tags": [
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
