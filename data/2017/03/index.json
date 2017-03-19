@@ -845,16 +845,16 @@
             ]
         },
         {
-            "date": "2017-03-19T09:16:18.224Z",
+            "date": "2017-03-19T11:34:30.490Z",
             "title": "React+Redux+Express+MongoDBでものすごくシンプルなCRUDアプリをつくる - Qiita",
             "url": "http://qiita.com/m_yama6/items/573247b12ff0bc4e5d3c",
-            "content": "`create-react-app`を使いReact+Reduxのセットアップを行うフロントを書き、Express+MongoDB+mongooseでバックエンドを書いていくチュートリアル記事。\nフロントエンドとバックエンドの接続部分も丁寧にかかれている。",
+            "content": "`create-react-app`を使いReact+Reduxのセットアップを行いフロントを書き、Express+MongoDB+mongooseでバックエンドを書いていくチュートリアル記事。 フロントエンドとバックエンドの接続部分も丁寧にかかれている。",
             "tags": [
                 "React",
-                "redux",
+                "article",
                 "node.js",
-                "tutorial",
-                "article"
+                "redux",
+                "tutorial"
             ],
             "relatedLinks": []
         },
