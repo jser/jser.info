@@ -910,6 +910,17 @@
                     "url": "http://blog.testdouble.com/posts/2016-03-13-testdouble-vs-sinon.html"
                 }
             ]
+        },
+        {
+            "date": "2017-03-19T11:10:02.109Z",
+            "title": "Progressive Web App Libraries in Production – Dev Channel – Medium",
+            "url": "https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34",
+            "content": "ServiceWorkerを使ったキャッシュ周りなどを導入するツールであるsw-precache、 sw-toolbox、offline-analyticsの紹介記事",
+            "tags": [
+                "ProgressiveWebApp",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
