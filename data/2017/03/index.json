@@ -843,6 +843,20 @@
                     "url": "http://www.sbcr.jp/products/4797388640.html"
                 }
             ]
+        },
+        {
+            "date": "2017-03-19T09:16:18.224Z",
+            "title": "React+Redux+Express+MongoDBでものすごくシンプルなCRUDアプリをつくる - Qiita",
+            "url": "http://qiita.com/m_yama6/items/573247b12ff0bc4e5d3c",
+            "content": "`create-react-app`を使いReact+Reduxのセットアップを行うフロントを書き、Express+MongoDB+mongooseでバックエンドを書いていくチュートリアル記事。\nフロントエンドとバックエンドの接続部分も丁寧にかかれている。",
+            "tags": [
+                "React",
+                "redux",
+                "node.js",
+                "tutorial",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
