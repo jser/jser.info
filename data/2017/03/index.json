@@ -959,6 +959,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-20T11:35:42.684Z",
+            "title": "Release 5.25.0 - Announce - discuss.CodeMirror",
+            "url": "http://discuss.codemirror.net/t/release-5-25-0/1175",
+            "content": "CodeMirror 5.25.0リリース。\n最初のコミットから10周年のリリース。\n`contentEditable`周りの修正、`lint` addonがPromiseをサポートするなど",
+            "tags": [
+                "JavaScript",
+                "editor",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
