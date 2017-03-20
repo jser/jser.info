@@ -976,6 +976,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-20T12:40:42.373Z",
+            "title": "mnot’s blog: The State of Browser Caching, Revisited",
+            "url": "https://www.mnot.net/blog/2017/03/16/browser-caching",
+            "content": "各ブラウザのHTTPリクエスト/レスポンスとキャッシュの実装についての調査。\nStatus Code別のキャッシュ、`Cache-Control` header、`Vary` headerについて",
+            "tags": [
+                "browser",
+                "HTTP",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
