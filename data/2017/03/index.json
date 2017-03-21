@@ -988,6 +988,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-21T09:27:36.425Z",
+            "title": "Learn Redux by coding a Mini-Redux – Jakob Lind",
+            "url": "http://blog.jakoblind.no/2017/03/13/learn-redux-by-coding-a-mini-redux/",
+            "content": "小さなReduxを作ってReduxについて学ぶ記事。\n",
+            "tags": [
+                "JavaScript",
+                "redux",
+                "tutorial",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Redux · JavaScript Plugin Architecture",
+                    "url": "https://azu.gitbooks.io/javascript-plugin-architecture/content/ja/Redux/"
+                }
+            ]
         }
     ]
 }
