@@ -1034,6 +1034,17 @@
                     "url": "https://scalacenter.github.io/scalafix/"
                 }
             ]
+        },
+        {
+            "date": "2017-03-22T14:30:53.194Z",
+            "title": "Chromium Blog: Chrome 58 Beta: IndexedDB 2.0, an improvement to iframe navigation, and immersive full screen for PWAs",
+            "url": "https://blog.chromium.org/2017/03/chrome-58-beta-indexeddb-20_21.html",
+            "content": "Chrome 58 Betaリリース。\nIndexedDB 2.0、iframe sandboxで`allow-top-navigation-by-user-activation`をサポート、`display: flow-root`のサポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
