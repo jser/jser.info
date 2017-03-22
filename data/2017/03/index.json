@@ -1006,6 +1006,17 @@
                     "url": "https://azu.gitbooks.io/javascript-plugin-architecture/content/ja/Redux/"
                 }
             ]
+        },
+        {
+            "date": "2017-03-22T00:28:00.955Z",
+            "title": "pubkey/rxdb: Client-Side Database for Browsers, NodeJS, electron, cordova, react-native and every other javascript-runtime",
+            "url": "https://github.com/pubkey/rxdb",
+            "content": "ブラウザ、Node.js、Electron、cordova、react-nativeで動作するクライアントサイドデータベースライブラリ。\nJSON Schemaベースで、mongo likeなクエリを利用でき、rxjsと連携することができる。\n",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
