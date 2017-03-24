@@ -1078,6 +1078,18 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-24T01:30:10.290Z",
+            "title": "ES6 Features - 10 Use Cases for Proxy",
+            "url": "http://dealwithjs.io/es6-features-10-use-cases-for-proxy/",
+            "content": "ES Proxyのユースケース紹介。\nデフォルト値、private、enum、observer、cache、`in`演算子、シングルトン、バリデーションとrevocable proxy、Python likeなSubscriptionなど。\nまたProxyをした際のパフォーマンスについて\n",
+            "tags": [
+                "JavaScript",
+                "proxy",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
