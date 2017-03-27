@@ -1187,6 +1187,26 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-27T09:16:29.761Z",
+            "title": "Angular: Angular 4.0.0 Now Available",
+            "url": "http://angularjs.blogspot.com/2017/03/angular-400-now-available.html",
+            "content": "Angular 4リリース。\nバージョンを合わせるためにv3を飛ばしてv4へ。\nAOTコンパイルによるViewのコード量の削減、TypeScript 2.1/2.2対応、テンプレートのSource Map対応など。\nAngular CLIも合わせて1.0.0を公開。\n",
+            "tags": [
+                "AngularJS",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "angular/CHANGELOG.md at 4.0.0 · angular/angular",
+                    "url": "https://github.com/angular/angular/blob/4.0.0/CHANGELOG.md"
+                },
+                {
+                    "title": "stories 1.0 update · angular/angular-cli Wiki",
+                    "url": "https://github.com/angular/angular-cli/wiki/stories-1.0-update"
+                }
+            ]
         }
     ]
 }
