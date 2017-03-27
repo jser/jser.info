@@ -21,6 +21,10 @@ Handlebars.registerHelper('escape_md', function (text) {
     const markdown_literal = /[\\`\*_\{\}\[\]]/g;
     return text.replace(markdown_literal, "\\$&");
 });
+Handlebars.registerHelper('escape_attr', function (text) {
+    const markdown_literal = /["\\`\*_\{\}\[\]]/g;
+    return text.replace(markdown_literal, "\\$&");
+});
 Handlebars.registerHelper('ttp', function (text) {
     return text.replace(/https?:\/\//i, "")
         .replace(/_/g, "\\_");
