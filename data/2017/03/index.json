@@ -1231,6 +1231,18 @@
                     "url": "https://github.com/zeit/next.js/wiki/Migrating-from-next-css"
                 }
             ]
+        },
+        {
+            "date": "2017-03-28T12:52:03.845Z",
+            "title": "normalize.css/CHANGELOG.md at master · necolas/normalize.css",
+            "url": "https://github.com/necolas/normalize.css/blob/master/CHANGELOG.md",
+            "content": "normalize.css 6.0.0リリース。\nHTML要素やform要素への`font-family`、`line-height`などのopinionated rulesを削除",
+            "tags": [
+                "CSS",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
