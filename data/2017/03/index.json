@@ -1208,6 +1208,29 @@
                     "url": "https://github.com/angular/angular-cli/wiki/stories-1.0-update"
                 }
             ]
+        },
+        {
+            "date": "2017-03-28T00:52:34.007Z",
+            "title": "ZEIT – Next.js 2.0",
+            "url": "https://zeit.co/blog/next2",
+            "content": "Reactを使ったフレームワークであるNext.js 2.0リリース。\n動的なルーティングができるように、`next/css`は非推奨となり代わりに`styled-jsx`を導入、`<Link>`の`prefetch`サポート、サンプルの追加、`babel`の設定などを行えるようになるなど",
+            "tags": [
+                "JavaScript",
+                "React",
+                "library",
+                "サーバー",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "zeit/styled-jsx: Full CSS support for JSX without compromises",
+                    "url": "https://github.com/zeit/styled-jsx"
+                },
+                {
+                    "title": "Migrating from next css · zeit/next.js Wiki",
+                    "url": "https://github.com/zeit/next.js/wiki/Migrating-from-next-css"
+                }
+            ]
         }
     ]
 }
