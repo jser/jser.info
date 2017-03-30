@@ -1299,6 +1299,17 @@
                     "url": "https://github.com/qunitjs/qunit/issues/1024"
                 }
             ]
+        },
+        {
+            "date": "2017-03-30T13:16:37.037Z",
+            "title": "New Web Features in Safari 10.1 | WebKit",
+            "url": "https://webkit.org/blog/7477/new-web-features-in-safari-10-1/",
+            "content": "Safari 10.0リリース。\nFetch API、CSS Grid、ES2016+、IndexedDB 2.0、Custom Elements、Gamepad、Pointer Lock、Input Events、`download`属性、HTML Media Captureなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
