@@ -1322,6 +1322,17 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-31T12:54:58.020Z",
+            "title": "Node v7.8.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v7.8.0/",
+            "content": "Node.js 7.8.0リリース。\nnpm 4.2.0へアップデート、async functionの修正のバックポートなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
