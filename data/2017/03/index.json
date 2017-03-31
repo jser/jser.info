@@ -1333,6 +1333,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-03-31T13:34:09.717Z",
+            "title": "TestCafe v0.14.0 Released | TestCafe",
+            "url": "http://devexpress.github.io/testcafe/blog/testcafe-v0-14-0-released.html",
+            "content": "TestCafe v0.14.0リリース。\n`Role`でログイン情報を決めることができるように、BrowserStackサポート、`t.debug()`で`debugger;`的なデバッグができるように、`file://`に対してもテストできるように、`Selector`にカスタムメソッドを定義できるようになるなど",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "E2E",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
