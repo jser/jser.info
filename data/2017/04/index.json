@@ -11,6 +11,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-01T06:17:09.314Z",
+            "title": "君はyarn.lockをコミットしているか？",
+            "url": "https://www.slideshare.net/teppeis/do-you-commit-yarnlock",
+            "content": "ライブラリでyarn.lockをコミットすることによるdevDepsの固定のメリットについて。\ndevDepsの方がBreaking Changeは起きやすいため固定することによるメリットがあるという話",
+            "tags": [
+                "yarn",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
