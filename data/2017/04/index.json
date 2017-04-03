@@ -101,6 +101,18 @@
                     "url": "https://www.browserstack.com/test-on-microsoft-edge-browser#live-cloud"
                 }
             ]
+        },
+        {
+            "date": "2017-04-03T23:35:05.332Z",
+            "title": "Regular Expressions in a post-ES6 world",
+            "url": "https://ponyfoo.com/articles/regular-expressions-post-es6",
+            "content": "ES2015以降の正規表現の追加された仕様とProposalの仕様について",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "proposal"
+            ],
+            "relatedLinks": []
         }
     ]
 }
