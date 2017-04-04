@@ -137,6 +137,23 @@
                 "proposal"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-04T15:05:00.715Z",
+            "title": "Video.js 6.0 Release! | Video.js Blog",
+            "url": "http://blog.videojs.com/Video-js-6-0-Release/",
+            "content": "Video.js 6.0リリース。\nFlashがコアから取り除かれた。\nmiddleware周りの変更、DOMメソッドを`videojs.dom`へ移動の予定など",
+            "tags": [
+                "JavaScript",
+                "video",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Video.js 6 Migration Guide · videojs/video.js Wiki",
+                    "url": "https://github.com/videojs/video.js/wiki/Video.js-6-Migration-Guide"
+                }
+            ]
         }
     ]
 }
