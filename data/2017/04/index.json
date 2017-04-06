@@ -166,6 +166,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-06T12:44:22.286Z",
+            "title": "How we built Twitter Lite | Twitter Blogs",
+            "url": "https://blog.twitter.com/2017/how-we-built-twitter-lite",
+            "content": "Twitter Liteの技術スタックについて。\nReact, Redux, Normalizr, Globalize, Babel, Webpack, Jest, WebdriverIOなどを使っている。\nパフォーマンスのためにPRPLパターンを使い、`requestAnimationFrame`や`requestIdleCallback`を使ってのレンダリングの調整などについて",
+            "tags": [
+                "twitter",
+                "mobile",
+                "React"
+            ],
+            "relatedLinks": []
         }
     ]
 }
