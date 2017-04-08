@@ -267,6 +267,18 @@
                     "url": "http://eslint.org/docs/4.0.0/user-guide/migrating-to-4.0.0"
                 }
             ]
+        },
+        {
+            "date": "2017-04-08T14:20:27.729Z",
+            "title": "MathJax CDN shutting down on April 30, 2017",
+            "url": "http://www.mathjax.org/cdn-shutting-down/",
+            "content": "MathJax CDNがシャットダウンされるため、ローカルにコピーするかcloudflareのものを利用するようにする必要がある",
+            "tags": [
+                "JavaScript",
+                "library",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
