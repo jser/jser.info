@@ -219,6 +219,26 @@
                     "url": "https://github.com/lerna/lerna/milestone/1"
                 }
             ]
+        },
+        {
+            "date": "2017-04-08T10:38:31.292Z",
+            "title": "The Quest For Immer Mutable State Management",
+            "url": "https://immer-mutable-state.surge.sh/",
+            "content": "MobXでのSnapshot + mutable state treeについてのスライド。\nPull/Push-basedなcomputed property、Mutable StateでActionリプレイするために、どのような方法を取るのかについて",
+            "tags": [
+                "JavaScript",
+                "slide"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Michel Weststrate: MobX: The Quest For Immer Mutable State Management - YouTube",
+                    "url": "https://www.youtube.com/watch?v=ta8QKmNRXZM"
+                },
+                {
+                    "title": "mobxjs/serializr: Serialize and deserialize complex object graphs to JSON",
+                    "url": "https://github.com/mobxjs/serializr"
+                }
+            ]
         }
     ]
 }
