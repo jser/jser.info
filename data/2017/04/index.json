@@ -311,6 +311,31 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-09T05:53:31.189Z",
+            "title": "ng-conf 2017 - YouTube",
+            "url": "https://www.youtube.com/watch?v=Nj9_p4qvm5U",
+            "content": "ng-conf 2017の動画まとめ\n",
+            "tags": [
+                "AngularJS",
+                "イベント",
+                "video"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ng-conf 2017 Summary - Day 1",
+                    "url": "https://auth0.com/blog/ngconf2017-summary-day1/"
+                },
+                {
+                    "title": "ng-conf 2017 1日目 Keynoteメモ | &lt;output type=&#34;laco&#34;&gt;",
+                    "url": "https://blog.lacolaco.net/post/ng-conf-2017-day-1-note/"
+                },
+                {
+                    "title": "Long Term Support for Angular Announced at ng-conf 2017",
+                    "url": "https://www.infoq.com/news/2017/04/ng-conf-2017-keynote"
+                }
+            ]
         }
     ]
 }
