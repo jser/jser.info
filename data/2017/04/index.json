@@ -298,6 +298,19 @@
                     "url": "https://github.com/microsoft/reactxp"
                 }
             ]
+        },
+        {
+            "date": "2017-04-09T04:34:15.532Z",
+            "title": "Release v1.6.0 · karma-runner/karma",
+            "url": "https://github.com/karma-runner/karma/releases/tag/v1.6.0",
+            "content": "Karma v1.6.0リリース。\n`browser_info`イベントの追加、`proxyRes`と`proxyReq`イベントをhookできるようになるなど",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
