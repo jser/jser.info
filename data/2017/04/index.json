@@ -348,6 +348,22 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-09T07:28:23.993Z",
+            "title": "React v15.5.0 - React Blog",
+            "url": "https://facebook.github.io/react/blog/2017/04/07/react-v15.5.0.html",
+            "content": "React 15.5.0リリース。\n同梱されていた`React.PropTypes`と`React.createClass`が非推奨となり、それぞれ別パッケージに別れた。\n`react-codemod`を使うことでマイグレーションできる。\n",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "React 15.5へのアップデート手順(prop-typesとReact.createClass) - Qiita",
+                    "url": "http://qiita.com/azu/items/9d1985bf0140576894aa"
+                }
+            ]
         }
     ]
 }
