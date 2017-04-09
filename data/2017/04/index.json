@@ -366,10 +366,10 @@
             ]
         },
         {
-            "date": "2017-04-09T07:45:26.657Z",
+            "date": "2017-04-09T07:45:53.977Z",
             "title": "Release Notes for Safari Technology Preview 27 | WebKit",
             "url": "https://webkit.org/blog/7497/release-notes-for-safari-technology-preview-27/",
-            "content": "Safari Technology Preview Release 27リリース。\nObject spread/rest propertyの実装、`window.open`に｀｀を実装、Web Inspectorの改善、Web Cryptography APIでSPKI/PKCS8に対応など",
+            "content": "Safari Technology Preview Release 27リリース。\nObject spread/rest propertyの実装、`window.open`に`noopener`を実装、Web Inspectorの改善、Web Cryptography APIでSPKI/PKCS8に対応など",
             "tags": [
                 "safari",
                 "ReleaseNote",
