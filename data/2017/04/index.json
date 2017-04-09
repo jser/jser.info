@@ -364,6 +364,23 @@
                     "url": "http://qiita.com/azu/items/9d1985bf0140576894aa"
                 }
             ]
+        },
+        {
+            "date": "2017-04-09T07:45:26.657Z",
+            "title": "Release Notes for Safari Technology Preview 27 | WebKit",
+            "url": "https://webkit.org/blog/7497/release-notes-for-safari-technology-preview-27/",
+            "content": "Safari Technology Preview Release 27リリース。\nObject spread/rest propertyの実装、`window.open`に｀｀を実装、Web Inspectorの改善、Web Cryptography APIでSPKI/PKCS8に対応など",
+            "tags": [
+                "safari",
+                "ReleaseNote",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ES proposal: Rest/Spread Properties",
+                    "url": "http://2ality.com/2016/10/rest-spread-properties.html"
+                }
+            ]
         }
     ]
 }
