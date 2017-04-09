@@ -279,6 +279,25 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-09T04:09:19.809Z",
+            "title": "Introducing ReactXP - ReactXP Blog",
+            "url": "https://microsoft.github.io/reactxp/blog/2017/04/06/introducing-reactxp.html",
+            "content": "React/React NativeベースのクロスプラットフォームなUIフレームワーク。\nクロスプラットフォームで共通したコンポーネントを利用できるようにするのが目的でMSのSkypeチームが作成している。",
+            "tags": [
+                "React",
+                "ReleaseNote",
+                "windows",
+                "ios",
+                "Android"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Microsoft/reactxp: Library for cross-platform app development.",
+                    "url": "https://github.com/microsoft/reactxp"
+                }
+            ]
         }
     ]
 }
