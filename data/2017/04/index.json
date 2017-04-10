@@ -450,6 +450,23 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-10T12:41:46.533Z",
+            "title": "Release 8.0.0 · developit/preact",
+            "url": "https://github.com/developit/preact/releases/tag/8.0.0",
+            "content": "Preact 8.0.0(8.1.0)リリース\nPure Functional Componentsの書き直し、`linkState`、`className`のオブジェクトオプションはそれぞれ外部モジュールへと機能を移譲など",
+            "tags": [
+                "React",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Important changes coming in Preact 8",
+                    "url": "https://gist.github.com/developit/89e0e6decb8fb5eb00def024b6fb7bd7"
+                }
+            ]
         }
     ]
 }
