@@ -484,6 +484,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-11T03:47:22.669Z",
+            "title": "Announcing TypeScript 2.3 RC | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2017/04/10/announcing-typescript-2-3-rc/",
+            "content": "TypeScript 2.3RCリリース。\n`noImplicitAny`, `strictNullChecks`,`noImplicitThis`などをまとめた`strict`オプションの追加.\n\nGenerator/IteratorをES3/ES5互換のコードへ変換できるように、Async Generator/Iteratorの対応、 Generic defaultsの対応など\n",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
