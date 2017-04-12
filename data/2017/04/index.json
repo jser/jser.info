@@ -579,6 +579,19 @@
                     "url": "https://github.com/DevExpress/testcafe-react-selectors"
                 }
             ]
+        },
+        {
+            "date": "2017-04-12T12:19:20.816Z",
+            "title": "Twitter Lite and High Performance React Progressive Web Apps at Scale",
+            "url": "https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3",
+            "content": "webpackのCommonsChunkPluginを使った分割、jankのない無限スクロールの実装。\nReactにおいては`shouldComponentUpdate`での最適化、`componentWillMount`から`componentDidMount`への処理の移動。\n`dangerouslySetInnerHTML`を避ける、遅延描画など。\nReduxにおいては、テキスト入力毎のStoreの更新を避ける、Batch Actionでの最適化など。\nSWでのロードキャッシュについてなど実践的な最適化手法について書かれている。",
+            "tags": [
+                "webpack",
+                "React",
+                "performance",
+                "redux"
+            ],
+            "relatedLinks": []
         }
     ]
 }
