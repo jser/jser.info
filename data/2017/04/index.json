@@ -605,6 +605,19 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-14T00:52:03.464Z",
+            "title": "Releasing Prettier 1.0",
+            "url": "http://jlongster.com/prettier-1.0",
+            "content": "JavaScriptやFlowに対応した整形ツールのPrettier 1.0リリース。\nPrettierはできるだけオプションを持たないopinionatedな整形ツールだが、相反する人が多いセミコロンやタブ/スペースなどについてはオプションが用意されている。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote",
+                "opinion"
+            ],
+            "relatedLinks": []
         }
     ]
 }
