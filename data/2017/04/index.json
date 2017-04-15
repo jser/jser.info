@@ -633,6 +633,21 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-15T02:31:43.996Z",
+            "title": "React v15.5(6) and v16 - blog.koba04.com",
+            "url": "http://blog.koba04.com/post/2017/04/14/react-dot-js-v155-and-v16/",
+            "content": "React 15.5と16での変更点について。\nv15.5で非推奨となった機能やパッケージ、\nv16でv15の互換モードで導入されるFiberについて",
+            "tags": [
+                "React"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "koba04/react-fiber-resources: resources for ReactFiber",
+                    "url": "https://github.com/koba04/react-fiber-resources"
+                }
+            ]
         }
     ]
 }
