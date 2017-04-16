@@ -702,6 +702,24 @@
                     "url": "https://github.com/webpack/webpack/pull/4573"
                 }
             ]
+        },
+        {
+            "date": "2017-04-16T13:46:48.471Z",
+            "title": "DmitrySoshnikov/regexp-tree: Regular expressions processor in JavaScript",
+            "url": "https://github.com/dmitrysoshnikov/regexp-tree",
+            "content": "正規表現をパースしてASTにしたり、traversaや変換、正規表現の最適化などを行うことができるライブラリ。",
+            "tags": [
+                "正規表現",
+                "AST",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "RegExp Tree: a regular expressions processor – Dmitry Soshnikov – Medium",
+                    "url": "https://medium.com/@DmitrySoshnikov/regexp-tree-a-regular-expressions-parser-with-a-simple-ast-format-bcd4d5580df6"
+                }
+            ]
         }
     ]
 }
