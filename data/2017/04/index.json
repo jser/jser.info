@@ -686,6 +686,22 @@
                     "url": "https://medium.com/@marcelschulze/using-react-native-with-redux-and-redux-saga-a-new-proposal-ba71f151546f"
                 }
             ]
+        },
+        {
+            "date": "2017-04-16T10:41:14.602Z",
+            "title": "Release v2.4.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v2.4.0",
+            "content": "webpack v2.4.0リリース。\n`import()`にコメントでchunk nameを指定できるように、`require.ensure`にエラーコールバックを指定できるようになるなど",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Feature: Add named chunk for `import()` by specified comment format. by mc-zone · Pull Request #4573 · webpack/webpack",
+                    "url": "https://github.com/webpack/webpack/pull/4573"
+                }
+            ]
         }
     ]
 }
