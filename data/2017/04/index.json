@@ -669,6 +669,23 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-16T10:32:09.223Z",
+            "title": "React + FLUX + Redux + Redux Saga のお話",
+            "url": "https://www.slideshare.net/yossy222/react-flux-redux-redux-saga",
+            "content": "redux-sagaについてのスライド。\nFlux、Redux、redux-sagaのフローについて。\nまたredux-sagaを導入した際に、Actionが必ずsagaを通るようにする設計について",
+            "tags": [
+                "redux",
+                "JavaScript",
+                "Flux"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Using React (-Native) with Redux and Redux-Saga. A new proposal?",
+                    "url": "https://medium.com/@marcelschulze/using-react-native-with-redux-and-redux-saga-a-new-proposal-ba71f151546f"
+                }
+            ]
         }
     ]
 }
