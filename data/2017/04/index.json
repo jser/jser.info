@@ -659,6 +659,16 @@
                 "debug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-16T10:07:15.321Z",
+            "title": "Intercepting new Image().src requests / Stoyan's phpied.com",
+            "url": "http://www.phpied.com/intercepting-new-image-src-requests/",
+            "content": "ES Proxyを使って`Image`のFake版を作成する話。\n",
+            "tags": [
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
