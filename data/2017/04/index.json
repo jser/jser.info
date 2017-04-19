@@ -770,6 +770,18 @@
                 "ブックマークレット"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-19T03:58:34.635Z",
+            "title": "chadhietala/babel-plugin-debug-macros",
+            "url": "https://github.com/chadhietala/babel-plugin-debug-macros/",
+            "content": "Babelを使ったHygenic Macroのプラグイン。\nassertやdeprecate、warning、feature flagなどのマクロかしたもの",
+            "tags": [
+                "JavaScript",
+                "babel",
+                "plugin"
+            ],
+            "relatedLinks": []
         }
     ]
 }
