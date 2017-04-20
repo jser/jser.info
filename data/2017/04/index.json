@@ -793,6 +793,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-20T01:19:32.246Z",
+            "title": "A Vue.js introduction for people who know just enough jQuery to get by",
+            "url": "https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77",
+            "content": "Vue.jsを使ってTwitterの投稿画面のようなダイアログ表示を作成するチュートリアル。\n機能毎に実装を進めていて、データバインディングやメソッドの呼び出し、アニメーションなどについて解説してる。",
+            "tags": [
+                "Vue",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
