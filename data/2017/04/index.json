@@ -815,6 +815,17 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-20T23:23:59.553Z",
+            "title": "Release Notes for Safari Technology Preview 28 | WebKit",
+            "url": "https://webkit.org/blog/7516/release-notes-for-safari-technology-preview-28/",
+            "content": "Safari Technology Preview Release 28リリース。\nバックグラウンドタブの処理を抑制、クロスオリジン iframeの`requestAnimationFrame`を30fpsに制限するなど。\nWebCryptoでAES-CTRをサポート",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
