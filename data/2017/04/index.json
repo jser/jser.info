@@ -804,6 +804,17 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-20T13:09:21.957Z",
+            "title": "FRESH! Web パフォーマンス改善 〜クライアントサイド編〜 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/6057/",
+            "content": "パフォーマンス改善についての解説記事。\nService Workerを使ったキャッシュ、Intersection Observerを使ったlazy load、SVGスプライトをやめて個別にSVGを読み込むなど。\n",
+            "tags": [
+                "browser",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
