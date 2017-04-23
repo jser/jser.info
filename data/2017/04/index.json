@@ -889,6 +889,22 @@
                     "url": "https://www.fxsitecompat.com/ja/versions/53/"
                 }
             ]
+        },
+        {
+            "date": "2017-04-23T14:51:25.104Z",
+            "title": "New in Chrome 58  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2017/04/nic58",
+            "content": "Chrome 58リリース。\nIndexedDB 2.0、`display: flow-root`のサポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chromium Blog: Chrome 58 Beta: IndexedDB 2.0, an improvement to iframe navigation, and immersive full screen for PWAs",
+                    "url": "https://blog.chromium.org/2017/03/chrome-58-beta-indexeddb-20_21.html"
+                }
+            ]
         }
     ]
 }
