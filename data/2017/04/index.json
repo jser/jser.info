@@ -989,10 +989,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2017-04-24T17:18:47.883Z",
+            "date": "2017-04-24T17:19:53.607Z",
             "title": "Introducing a faster BBC News front page | Wildly Inaccurate",
             "url": "https://wildlyinaccurate.com/introducing-a-faster-bbc-news-front-page",
-            "content": "BBC Newsのパフォーマンス改善について。\nSpeedCurveを使って計測を行い、Reactをサーバサイドレンダリングのみに利用してる。\nまだ改善の1段階で、Reactをブラウザ側で動かしたときにモバイルだと重たい問題などが課題となってる(そのためサーバサイドレンダリングのみになっている)",
+            "content": "BBC Newsのパフォーマンス改善について。\nSpeedCurveを使って計測を行い、画像遅延ロード、Reactをサーバサイドレンダリングのみに利用してる。\nまだ改善の1段階で、Reactをブラウザ側で動かしたときにモバイルだと重たい問題などが課題となってる(そのためサーバサイドレンダリングのみになっている)",
             "tags": [
                 "browser",
                 "performance",
