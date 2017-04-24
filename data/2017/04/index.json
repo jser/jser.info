@@ -947,6 +947,23 @@
                     "url": "http://momdo.hatenablog.jp/entry/20170420/1492684716"
                 }
             ]
+        },
+        {
+            "date": "2017-04-24T06:44:58.201Z",
+            "title": "Visual Testing — the pragmatic way to test UIs – Chroma",
+            "url": "https://blog.hichroma.com/visual-testing-the-pragmatic-way-to-test-uis-18c8da617ecf",
+            "content": "コンポーネントのビジュアルテストについて。\nスナップショットテスト、ReactStoryBookなどを使ったUI component explorersのアプローチなどについて",
+            "tags": [
+                "UI",
+                "testing",
+                "React"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "UI component explorers — your new favorite tool – Chroma",
+                    "url": "https://blog.hichroma.com/the-crucial-tool-for-modern-frontend-engineers-fb849b06187a"
+                }
+            ]
         }
     ]
 }
