@@ -1048,6 +1048,25 @@
                     "url": "https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?pli=1"
                 }
             ]
+        },
+        {
+            "date": "2017-04-25T01:54:04.710Z",
+            "title": "jsdom/Changelog.md at 10.0.0 · tmpvar/jsdom",
+            "url": "https://github.com/tmpvar/jsdom/blob/10.0.0/Changelog.md",
+            "content": "jsdom 10.0.0リリース。\nNode.js <=5のサポートを終了、基本的な使い方を変更(`new JSDOM(html)`など)、`Script`の追加。\n`omitJsdomErrors`を`omitJSDOMErrors`へリネーム、`dir`の対応改善、`window.postMessage()`のoriginチェックを修正など",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "DOM",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "New API draft by domenic · Pull Request #1741 · tmpvar/jsdom",
+                    "url": "https://github.com/tmpvar/jsdom/pull/1741"
+                }
+            ]
         }
     ]
 }
