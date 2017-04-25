@@ -1068,6 +1068,18 @@
                     "url": "https://github.com/tmpvar/jsdom/pull/1741"
                 }
             ]
+        },
+        {
+            "date": "2017-04-25T03:34:14.022Z",
+            "title": "Headless SlimerJS with Firefox – Coding",
+            "url": "https://adriftwith.me/coding/2017/04/21/headless-slimerjs-with-firefox/",
+            "content": "Firefox Nightlyでheadlessサポートが行われたため、SlimerJSでヘッドレスなテストをおこなえるようになったという話",
+            "tags": [
+                "firefox",
+                "E2E",
+                "webdriver"
+            ],
+            "relatedLinks": []
         }
     ]
 }
