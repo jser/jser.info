@@ -1027,6 +1027,27 @@
                     "url": "http://postd.cc/react-fiber-architecture/"
                 }
             ]
+        },
+        {
+            "date": "2017-04-25T01:41:51.734Z",
+            "title": "abouthiroppy/node8",
+            "url": "https://abouthiroppy.github.io/slides/node8/",
+            "content": "5月30日にリリース予定のNode.js 8.0.0についてのスライド。\nNode.js 8.0.0ではV8の新しいコンパイラパイプラインが入る予定。\nまたNode.js 7.x ~ 8.0.0で入る予定の変更点について。",
+            "tags": [
+                "node.js",
+                "V8",
+                "slide"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "V8 JavaScript Engine: Help us test the future of V8!",
+                    "url": "https://v8project.blogspot.jp/2017/02/help-us-test-future-of-v8.html"
+                },
+                {
+                    "title": "Ignition Design Doc - Google ドキュメント",
+                    "url": "https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?pli=1"
+                }
+            ]
         }
     ]
 }
