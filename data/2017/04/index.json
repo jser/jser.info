@@ -1080,6 +1080,20 @@
                 "webdriver"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-27T00:42:24.614Z",
+            "title": "TestCafe v0.15.0 Released | TestCafe",
+            "url": "http://devexpress.github.io/testcafe/blog/testcafe-v0-15-0-released.html",
+            "content": "TestCafe 0.15.0リリース。\n`Selector()#withText`の仕様を変更、ReactとVue向けのSelector拡張のサポート、セットアップ済みのDocker imageの提供。\n`--proxy`と`--debug-mode`の追加、`Role`に`preserveUrl`オプションの追加など",
+            "tags": [
+                "testing",
+                "E2E",
+                "JavaScript",
+                "React",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
