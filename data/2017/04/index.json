@@ -1197,6 +1197,22 @@
             "url": "https://speakerdeck.com/ktsn/da-gui-mo-jing-de-saitofalsetamefalsebirudoturu"
           }
         ]
-      }
+      },
+        {
+            "date": "2017-04-28T08:56:26.213Z",
+            "title": "Announcing TypeScript 2.3 | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2017/04/27/announcing-typescript-2-3/",
+            "content": "TypeScript 2.3リリース。\n`--checkJs`で`// @ts-check`と書かれたJavaScriptのJSDocをtype checkできるように。\nDefault type argumentsのサポート、`--downlevelIteration`の追加、`tsc  --init`で生成される`tsconfig.json`の整理など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "JSDoc support in JavaScript · Microsoft/TypeScript Wiki",
+                    "url": "https://github.com/Microsoft/TypeScript/wiki/JSDoc-support-in-JavaScript"
+                }
+            ]
+        }
     ]
 }
