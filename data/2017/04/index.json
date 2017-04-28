@@ -1105,6 +1105,32 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-28T12:20:04.629Z",
+            "title": "Internationalize your keyboard controls ★ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2017/03/internationalize-your-keyboard-controls/",
+            "content": "キーボードイベントについて。\n`keyCode`/`charCode`/`which`を置き換える`key`と`code`プロパティについて。\nまた、その他のKeyboardEvent周りのTipsについて。",
+            "tags": [
+                "JavaScript",
+                "キーボード",
+                "browser",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "KeyboardEvent.key mapping of each browser - Google スプレッドシート",
+                    "url": "https://docs.google.com/spreadsheets/d/1YB4M5Y5BWSn-7FX7pXFNbLtDDGzQ0noUTIo-YSqyRzc/edit#gid=0"
+                },
+                {
+                    "title": "cvan/keyboardevent-key-polyfill: polyfill for `KeyboardEvent.prototype.key`",
+                    "url": "https://github.com/cvan/keyboardevent-key-polyfill"
+                },
+                {
+                    "title": "UI Events",
+                    "url": "https://w3c.github.io/uievents/#code-examples"
+                }
+            ]
         }
     ]
 }
