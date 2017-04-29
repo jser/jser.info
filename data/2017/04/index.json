@@ -977,6 +977,7 @@
             "relatedLinks": []
         },
         {
+<<<<<<< HEAD
             "date": "2017-04-24T15:54:28.075Z",
             "title": "State Architecture Patterns in React: A Review – Skyler Nelson – Medium",
             "url": "https://medium.com/@skylernelson_64801/state-architecture-patterns-in-react-a-review-df02c1e193c6",
@@ -1131,6 +1132,18 @@
                     "url": "https://w3c.github.io/uievents/#code-examples"
                 }
             ]
+=======
+            "date": "2017-04-27T02:45:53.210Z",
+            "title": "Introduction · react-sketchapp",
+            "url": "http://airbnb.io/react-sketchapp/",
+            "content": "React ComponentをSketchへレンダリングするrenderer",
+            "tags": [
+                "React",
+                "Sketch",
+                "library"
+            ],
+            "relatedLinks": []
+>>>>>>> Introduction · react-sketchapp
         }
     ]
 }
