@@ -11,6 +11,24 @@
                 "React"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-04-30T14:12:51.384Z",
+            "title": "ktsn/houl: Gulp compatible build tool for huge static sites",
+            "url": "https://github.com/ktsn/houl",
+            "content": "gulp pluginを利用できるビルド/dev serverツール",
+            "tags": [
+                "Tools",
+                "node.js",
+                "gulp",
+                "debug"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "大規模静的サイトのためのビルドツール // Speaker Deck",
+                    "url": "https://speakerdeck.com/ktsn/da-gui-mo-jing-de-saitofalsetamefalsebirudoturu"
+                }
+            ]
         }
     ]
 }
