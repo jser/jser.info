@@ -42,6 +42,17 @@
                     "url": "http://rwjblue.com/2017/04/21/ember-cli-targets/"
                 }
             ]
+        },
+        {
+            "date": "2017-05-02T10:08:32.279Z",
+            "title": "Netflix/unleash: Professionally publish your JavaScript modules in one keystroke",
+            "url": "https://github.com/Netflix/unleash",
+            "content": "npm publishバージョン管理ツール。\nsemverでのバージョン付け、テストの実行、CHANGELOGの生成、publish時のpreview、gh-pagesへのドキュメントのデプロイなどpublish周りの処理をまとめたツール",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
