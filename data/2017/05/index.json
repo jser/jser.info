@@ -78,6 +78,19 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-02T15:18:52.195Z",
+            "title": "Performance best practices for Firefox front-end engineers - Mozilla | MDN",
+            "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Performance_best_practices_for_Firefox_fe_engineers",
+            "content": "Firefoxのフロントエンド向けに書かれたパフォーマンスガイド。\nrequestIdleCallback、reflow、repaint、パフォーマンス計測などについて",
+            "tags": [
+                "firefox",
+                "debug",
+                "performance",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
