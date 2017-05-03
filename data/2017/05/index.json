@@ -91,6 +91,22 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-03T01:50:56.367Z",
+            "title": "Chromium Blog: Chrome 59 Beta: Headless Chromium, native notifications on macOS, and service worker navigation preload",
+            "url": "https://blog.chromium.org/2017/05/chrome-59-beta-headless-chromium-native.html",
+            "content": "Chrome 59 Betaリリース。\nHeadless Chrome、SWのnavigation preloadsのサポート、`MediaError.message`のサポート、Image Capture APIの試験的サポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "mediacapture-image/implementation-status.md at gh-pages · w3c/mediacapture-image",
+                    "url": "https://github.com/w3c/mediacapture-image/blob/gh-pages/implementation-status.md"
+                }
+            ]
         }
     ]
 }
