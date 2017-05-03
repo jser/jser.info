@@ -107,6 +107,18 @@
                     "url": "https://github.com/w3c/mediacapture-image/blob/gh-pages/implementation-status.md"
                 }
             ]
+        },
+        {
+            "date": "2017-05-03T01:56:25.336Z",
+            "title": "ECMAScript modules in browsers - JakeArchibald.com",
+            "url": "https://jakearchibald.com/2017/es-modules-in-browsers/",
+            "content": "ES modulesのブラウザサポートとNode.jsのモジュールと異なる点などについて。\nまた、モジュールが未サポート環境へのfallbackとしての`nonmodule`、デフォルトが`defer`である点や実行順、CORSやMIME typeなどについて",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "module"
+            ],
+            "relatedLinks": []
         }
     ]
 }
