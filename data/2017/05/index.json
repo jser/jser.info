@@ -131,6 +131,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-04T04:27:50.678Z",
+            "title": "Release Notes for Safari Technology Preview 29 | WebKit",
+            "url": "https://webkit.org/blog/7532/release-notes-for-safari-technology-preview-29/",
+            "content": "Safari Technology Preview Release 29リリース。\n`Intl.DateTimeFormat.prototype.formatToParts`の実装、Web InspectorのBreak Pointの改善、読み込める画像リソースのホワイトリスト化(psdファイルは不可)など",
+            "tags": [
+                "safari",
+                "ReleaseNote",
+                "i18n"
+            ],
+            "relatedLinks": []
         }
     ]
 }
