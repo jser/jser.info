@@ -143,6 +143,18 @@
                 "i18n"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-04T14:43:08.885Z",
+            "title": "Prepack · Partial evaluator for JavaScript",
+            "url": "https://prepack.io/",
+            "content": "JavaScriptのAOTコンパイラ。\nBabylonでパースしたASTを元に実行できるinterpreterを持ち、その結果を用いてコードの最適化を行う目的のツール。",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
