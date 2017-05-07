@@ -193,6 +193,18 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-07T10:33:30.089Z",
+            "title": "Parsing JavaScript - better lazy than eager? - Google スライド",
+            "url": "https://docs.google.com/presentation/d/1b-ALt6W01nIxutFVFmXMOyd_6ou_6qqP6S0Prmb1iDs/present#slide=id.p",
+            "content": "JavaScriptのパースについてのスライド。\nパースとは何か、V8はどうやってパースしてるのか。\nまたウェブページのJavaScriptパースは全体の15-20％を占めるため、パース速度を改善するために開発者はどうするべきかについて。\n開発者ツールや`chrome://tracing`でのパース時間の読み方について",
+            "tags": [
+                "JavaScript",
+                "V8",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
