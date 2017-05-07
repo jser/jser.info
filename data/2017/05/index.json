@@ -234,6 +234,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-07T16:44:54.201Z",
+            "title": "01alchemist/TurboScript: Super charged JavaScript / TypeScript for parallel programming which compiles to asm.js and WebAssembly",
+            "url": "https://github.com/01alchemist/TurboScript",
+            "content": "asm.js、wasmへの変換を目的にしたプログラミング言語。\nTypeScriptに似たSyntaxで型情報を扱う。",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "asm.js",
+                "WebAssembly"
+            ],
+            "relatedLinks": []
         }
     ]
 }
