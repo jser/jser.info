@@ -205,6 +205,22 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-07T13:11:28.157Z",
+            "title": "pmq20/node-compiler: Compiling your Node.js application into a single executable with dynamic require and all fs.* API support.",
+            "url": "https://github.com/pmq20/node-compiler",
+            "content": "Node.jsのアプリを1つの実行バイナリにするツール。",
+            "tags": [
+                "node.js",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Node.js Compiler: compiling your Node.js application into a single executable // Speaker Deck",
+                    "url": "https://speakerdeck.com/pmq20/node-dot-js-compiler-compiling-your-node-dot-js-application-into-a-single-executable"
+                }
+            ]
         }
     ]
 }
