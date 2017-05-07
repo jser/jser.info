@@ -179,6 +179,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-07T00:19:15.113Z",
+            "title": "Asynchronous JavaScript with async/await - Course by @mariusschulz @eggheadio",
+            "url": "https://egghead.io/courses/asynchronous-javascript-with-async-await",
+            "content": "async/awaitについてのスクリーンキャスト。\n基本的な使い方、Sequntially/Concurrently、エラーハンドリング/Proposalのasync iteratorについて",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "Promises",
+                "video",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
