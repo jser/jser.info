@@ -261,6 +261,18 @@
                 "Extension"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-08T09:21:32.624Z",
+            "title": "ESBench",
+            "url": "https://esbench.com/",
+            "content": "Babelで変換した結果を元にbenchmark.jsでマイクロベンチを取るサービス",
+            "tags": [
+                "babel",
+                "benchmark",
+                "webservice"
+            ],
+            "relatedLinks": []
         }
     ]
 }
