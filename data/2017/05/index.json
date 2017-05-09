@@ -298,6 +298,18 @@
                     "url": "https://gist.github.com/azu/80d9b2e5f6ee42b2e78b73610c9c6967"
                 }
             ]
+        },
+        {
+            "date": "2017-05-09T02:24:34.037Z",
+            "title": "Jest 20: 💖 Delightful Testing & 🏃🏽 Multi-Project-Runner · Jest",
+            "url": "https://facebook.github.io/jest/blog/2017/05/06/jest-20-delightful-testing-multi-project-runner.html",
+            "content": "Jest 20リリース。\nプロジェクトをまたいでテストを実行できるように、`expect`でPromiseのサポートを改善、`expect.assertions(n)`の追加、Jasmineをforkした使うように、CIではSnapshotを自動的に保存しないようになるなど",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
