@@ -310,6 +310,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-09T06:26:00.599Z",
+            "title": "Announcing the new webpack CLI – webpack – Medium",
+            "url": "https://medium.com/webpack/announcing-the-new-webpack-cli-75ce1d9b8663",
+            "content": "webpack-cliがリリースされた。\n`init`と`migrate`サブコマンドがあり、v1からv2へのマイグレーションやscaffolding toolとして利用できる",
+            "tags": [
+                "webpack",
+                "console",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "webpack/webpack-cli: webpack CLI",
+                    "url": "https://github.com/webpack/webpack-cli"
+                }
+            ]
         }
     ]
 }
