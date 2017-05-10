@@ -511,6 +511,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-10T23:23:42.900Z",
+            "title": "Release v0.46.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.46.0",
+            "content": "Flow v0.46.0リリース。\nstrict arity checkの試験的実装など\n`experimental.strict_call_arity=true`",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Flow: A Static Type Checker for JavaScript",
+                    "url": "https://flow.org/blog/2017/05/07/Strict-Function-Call-Arity/"
+                }
+            ]
         }
     ]
 }
