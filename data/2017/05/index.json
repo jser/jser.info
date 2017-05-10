@@ -450,6 +450,19 @@
                     "url": "https://rachelandrew.co.uk/archives/2017/04/11/refer-to-the-spec/"
                 }
             ]
+        },
+        {
+            "date": "2017-05-10T15:28:58.793Z",
+            "title": "ES6 Modules in Chrome Canary (M60+) – Dev Channel – Medium",
+            "url": "https://medium.com/dev-channel/es6-modules-in-chrome-canary-m60-ba588dfb8ab7",
+            "content": "ES modulesについて。 nonmodule属性とrollupを使って、未対応のブラウザと対応ブラウザでの配布方法の分岐について",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "ECMAScript",
+                "module"
+            ],
+            "relatedLinks": []
         }
     ]
 }
