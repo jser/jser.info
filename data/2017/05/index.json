@@ -393,6 +393,23 @@
                     "url": "https://github.com/socketio/engine.io/pull/459"
                 }
             ]
+        },
+        {
+            "date": "2017-05-10T08:54:54.170Z",
+            "title": "Release Almin 0.12 · almin/almin",
+            "url": "https://github.com/almin/almin/releases/tag/almin%400.12.3",
+            "content": "Almin 0.12リリース。\nデフォルトの`StoreGroup`を変更しType Safeとなるように、`Store#receivePayload`のライフサイクルの追加など。\nマイグレーションツールで0.11から移行できる。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "almin/migration-tools: Migration scripts for Almin.",
+                    "url": "https://github.com/almin/migration-tools"
+                }
+            ]
         }
     ]
 }
