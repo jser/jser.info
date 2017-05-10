@@ -410,6 +410,17 @@
                     "url": "https://github.com/almin/migration-tools"
                 }
             ]
+        },
+        {
+            "date": "2017-05-10T11:08:21.922Z",
+            "title": "util.promisify が追加された - from scratch",
+            "url": "http://yosuke-furukawa.hatenablog.com/entry/2017/05/10/101752",
+            "content": "Node.jsの`util.promisify`について。\nコールバック関数を受け取るNode.jsのコアメソッドをPromiseを返すように変換するUtilメソッド。\n",
+            "tags": [
+                "node.js",
+                "Promises"
+            ],
+            "relatedLinks": []
         }
     ]
 }
