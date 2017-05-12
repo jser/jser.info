@@ -561,6 +561,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-12T15:48:15.063Z",
+            "title": "Profiling Paint Perf 🔎 🎨 - YouTube",
+            "url": "https://www.youtube.com/watch?v=Wfxm56ttAmE",
+            "content": "`element.left`によってスタイルを変更した時に、1Frame内に余計なレンダリングの処理が発生しているのを改善していくスクリーンキャスト。\nCSS Triggersを参照し、`transform`にすること改善できることを見ていき修正する流れについて",
+            "tags": [
+                "performance",
+                "video",
+                "browser"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "CSS Triggers",
+                    "url": "https://csstriggers.com/"
+                }
+            ]
         }
     ]
 }
