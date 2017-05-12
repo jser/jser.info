@@ -538,6 +538,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-12T02:28:49.160Z",
+            "title": "Release 6.0 “Marquis Orias” · postcss/postcss",
+            "url": "https://github.com/postcss/postcss/releases/tag/6.0.0",
+            "content": "PostCSS 6.0リリース。\nNode.js 0.12のサポート終了、`@apply`のサポート、APIの修正と改善、パーサの書き直しでメモリ消費量の改善など",
+            "tags": [
+                "PostCSS",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
