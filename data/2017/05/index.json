@@ -589,6 +589,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-14T07:28:29.992Z",
+            "title": "WebReflection/introspected: Introspection for serializable arrays and JSON friendly objects.",
+            "url": "https://github.com/WebReflection/introspected",
+            "content": "Proxyや`Symbol.toPrimitive`を使って、オブジェクトに変更検知、Null Propagation的な機能を持たせるラッパーライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
