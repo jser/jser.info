@@ -673,6 +673,17 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-18T02:59:04.069Z",
+            "title": "Release Notes for Safari Technology Preview 30 | WebKit",
+            "url": "https://webkit.org/blog/7614/release-notes-for-safari-technology-preview-30/",
+            "content": "Safari Technology Preview Release 30リリース。\nSubresource Integrity(SRI)、`X-Content-Type-Options:nosniff`に対応、PromiseのUnhandled rejectionのイベントをサポート。\n`document.cookie`のアクセスを厳密化、WAI-ARIA周りの修正など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
