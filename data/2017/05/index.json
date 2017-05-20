@@ -784,6 +784,19 @@
                     "url": "http://efcl.info/2014/10/11/hackernews-api/"
                 }
             ]
+        },
+        {
+            "date": "2017-05-20T09:11:39.138Z",
+            "title": "ZEIT – Next 3.0 Preview",
+            "url": "https://zeit.co/blog/next3-preview",
+            "content": "Next 3.0 プレビューリリース。\n`next export`で静的なHTMLとして出力できるように、コンポーネントのdynamic importをサポートなど",
+            "tags": [
+                "JavaScript",
+                "React",
+                "サーバー",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
