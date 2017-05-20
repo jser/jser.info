@@ -767,6 +767,23 @@
                 "イベント"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-20T09:05:43.848Z",
+            "title": "HN PWA - Hacker News readers as Progressive Web Apps",
+            "url": "https://hnpwa.com/",
+            "content": "Hacker Newsを色々なViewフレームワークで実装したまとめ。\n",
+            "tags": [
+                "JavaScript",
+                "ProgressiveWebApp",
+                "example"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Hacker News APIがTodoMVC的な場所になってる | Web Scratch",
+                    "url": "http://efcl.info/2014/10/11/hackernews-api/"
+                }
+            ]
         }
     ]
 }
