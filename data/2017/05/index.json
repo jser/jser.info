@@ -820,6 +820,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-20T14:30:52.238Z",
+            "title": "Release 7.0 “Coelestem adspicit lucem” · postcss/autoprefixer",
+            "url": "https://github.com/postcss/autoprefixer/releases/tag/7.0.0",
+            "content": "Autoprefixer 7.0リリース。\nPostCSS 6.0、Browserslist 2.0、caniuse-liteを利用するように。\nNode.js 0.12のサポート終了、Grid Layoutのサポートをデフォルトではオフに、コードベースがCoffeeScriptからBabelへ移行など",
+            "tags": [
+                "CSS",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Autoprefixer 7.0 and Browserslist 2.0 — Martian Chronicles, Evil Martians’ team blog",
+                    "url": "https://evilmartians.com/chronicles/autoprefixer-7-browserslist-2-released"
+                }
+            ]
         }
     ]
 }
