@@ -808,6 +808,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-20T11:36:29.033Z",
+            "title": "Developer Edition 54: New inspector and debugger features, MDN help in the netmonitor, and more ★ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2017/03/developer-edition-54-new-inspector-and-debugger-features/",
+            "content": "Firefox 54の開発者ツールの変更点紹介。\nCSS Inspectの改善、Debuggerパネルで整形版が別タブで開けたり、ツールチップで変数の表示、Network PanelでMore Infoからヘルプへの移動、JSON Viewなど",
+            "tags": [
+                "firefox",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
