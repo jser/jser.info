@@ -880,6 +880,24 @@
                     "url": "https://github.com/bower/bower/issues/2298#issuecomment-302792690"
                 }
             ]
+        },
+        {
+            "date": "2017-05-21T10:09:47.442Z",
+            "title": "Web Performance: Leveraging the Metrics that Most Affect User Experience (Google I/O '17) - YouTube",
+            "url": "https://www.youtube.com/watch?v=6Ljq-Jn-EgU&index=71&list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy",
+            "viaURL": "https://github.com/jser/ping/issues/65",
+            "content": "パフォーマンスとメトリクスについての発表動画。\nロード完了ではなくインタラクティブになった時間(TTI)を計測、Hero Elements。UXとメトリクス\nLong Tasks(50ms)をPerformanceObserverで検出、操作の遅延の計測、改善のパターンについて",
+            "tags": [
+                "browser",
+                "performance",
+                "video"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "GoogleChrome/tti-polyfill: TTI polyfill",
+                    "url": "https://github.com/GoogleChrome/tti-polyfill"
+                }
+            ]
         }
     ]
 }
