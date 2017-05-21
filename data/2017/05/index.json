@@ -852,6 +852,17 @@
                     "url": "http://qiita.com/mysticatea/items/3d01452d76ea6c943793"
                 }
             ]
+        },
+        {
+            "date": "2017-05-21T00:06:46.026Z",
+            "title": "JavaScript のもう一つの「関数名」 —— name プロパティ - Qiita",
+            "url": "http://qiita.com/8x9/items/34272b59b5aa68e33256",
+            "content": "JavaScriptのFunctionの`name`プロパティについて。\nES2015から無名関数やArrow Functionなど関数自体が名前を持ってなくても、変数宣言側の名前が`name`プロパティで参照できることや、`writable`属性の仕様についてなど\n",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
