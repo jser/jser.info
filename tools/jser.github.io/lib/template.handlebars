@@ -19,7 +19,7 @@ JSer.info #{{weekNumber}}
 {{#articles}}----
 
 ## {{{escape_md title}}}
-[{{ttp url}}]({{url}} "{{{escape_attr title}}}")
+[{{ttp url}}]({{{url}}} "{{{escape_attr title}}}")
 {{#if tags}}
 <p class="jser-tags jser-tag-icon">{{{format_tags tags}}}</p>
 {{/if}}
@@ -27,7 +27,7 @@ JSer.info #{{weekNumber}}
 {{{auto_format_md content}}}
 
 {{#relatedLinks}}
-- [{{{escape_md title}}}]({{url}} "{{escape_attr title}}")
+- [{{{escape_md title}}}]({{{url}}} "{{escape_attr title}}")
 {{#if @last}}
 {{/if}}{{/relatedLinks}}
 {{#if @last}}----{{/if}}{{/articles}}
