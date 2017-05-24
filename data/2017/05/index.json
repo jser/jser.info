@@ -971,6 +971,24 @@
                     "url": "https://www.youtube.com/playlist?list=PLCC436JpVnK25dtw5NX7yNhzBa2lPwN05"
                 }
             ]
+        },
+        {
+            "date": "2017-05-24T23:52:28.490Z",
+            "title": "What I Learned Benchmarking React - Dominic Gannaway aka @trueadm at @ReactEurope 2017 - YouTube",
+            "url": "https://www.youtube.com/watch?v=djOc1EK07Tk",
+            "content": "JavaScriptライブラリのベンチマーク結果を改善する方法について。\nRollupを使ってflat bundleすることでサイズとロード時間の削減、使わないモジュールの削除、ベンチマークツールについて。\nlighthouseを使ったモジュールのベンチ📑について",
+            "tags": [
+                "JavaScript",
+                "library",
+                "performance",
+                "video"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "react/benchmark.js at f0df495f9a97c0f24a3c20761244dab7da99bd77 · facebook/react",
+                    "url": "https://github.com/facebook/react/blob/f0df495f9a97c0f24a3c20761244dab7da99bd77/scripts/bench/benchmark.js"
+                }
+            ]
         }
     ]
 }
