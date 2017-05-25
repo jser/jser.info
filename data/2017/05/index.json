@@ -1023,6 +1023,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-25T14:06:45.961Z",
+            "title": "Altering the DOM with JavaScript | Zell Liew",
+            "url": "https://zellwk.com/blog/js-in-dom/",
+            "content": "DOM APIの基本的な使い方のついての記事。\n`querySelector`での要素選択、`addEventListener`でのイベント登録、`classList`でのクラス処理、要素の追加/更新などについて",
+            "tags": [
+                "DOM",
+                "JavaScript",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
