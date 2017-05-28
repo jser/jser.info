@@ -1093,6 +1093,22 @@
                     "url": "https://github.com/facebook/react/pull/9710"
                 }
             ]
+        },
+        {
+            "date": "2017-05-28T14:43:04.089Z",
+            "title": "ECMAScript 2017: what’s new for JavaScript? // Speaker Deck",
+            "url": "https://speakerdeck.com/rauschma/ecmascript-2017-whats-new-for-javascript",
+            "content": "ECMAScriptのProposalのプロセスとES2017についてのスライド。\nES2017で追加されるAsync Function、Shared Array Buffer、Object/Stringの追加メソッド、関数の引数における末尾カンマの許容について。\nまた現在Proposal段階の仕様の紹介",
+            "tags": [
+                "ECMAScript",
+                "slide"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "tc39/proposals: Tracking ECMAScript Proposals",
+                    "url": "https://github.com/tc39/proposals"
+                }
+            ]
         }
     ]
 }
