@@ -1134,6 +1134,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-28T15:18:45.053Z",
+            "title": "What does my npm module cost?",
+            "url": "https://cost-of-modules.herokuapp.com/",
+            "content": "npmパッケージのサイズ/gzip、ダウンロードにかかる時間や依存などを表示してくれるサービス",
+            "tags": [
+                "webservice",
+                "npm",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
