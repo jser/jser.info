@@ -1109,6 +1109,19 @@
                     "url": "https://github.com/tc39/proposals"
                 }
             ]
+        },
+        {
+            "date": "2017-05-28T15:12:43.184Z",
+            "title": "ngryman/speedracer: Collect performance metrics for your library/application.",
+            "url": "https://github.com/ngryman/speedracer",
+            "content": "Chrome DevTools protocolを使いCLIでページの表示にかかる時間やなどのパフォーマンステストを行えるツール",
+            "tags": [
+                "browser",
+                "Chrome",
+                "performance",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
