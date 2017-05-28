@@ -1067,6 +1067,32 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-28T14:10:29.488Z",
+            "title": "How Streaming Can Supercharge React - Sasha Aickin aka @xander76 at ReactEurope 2017 - YouTube",
+            "url": "https://www.youtube.com/watch?v=UhdGiVy3_Nk",
+            "content": "Reactとサーバサイドレンダリングについての発表動画。\nSSRには表示を早くするメリットがあるがTTIは長くなる問題がある。\nこれを解決するために、一定のブロックでコンポーネントをプログレッシブにレンダリングすることでTTIを改善する案について。\nまた、Reactに`ReactDOMServerStream`が追加されたことについて。",
+            "tags": [
+                "React",
+                "サーバー",
+                "video",
+                "performance"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "deepanjanroy/tti-polyfill: Polyfill for Time to Interactive",
+                    "url": "https://github.com/deepanjanroy/tti-polyfill"
+                },
+                {
+                    "title": "HTTP2 を前提とした HTML+CSS コンポーネントのレンダリングパス最適化について | blog.jxck.io",
+                    "url": "https://blog.jxck.io/entries/2016-02-15/loading-css-over-http2.html"
+                },
+                {
+                    "title": "Add package builds for new server renderer and enable tests by sebmarkbage · Pull Request #9710 · facebook/react",
+                    "url": "https://github.com/facebook/react/pull/9710"
+                }
+            ]
         }
     ]
 }
