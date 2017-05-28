@@ -1056,6 +1056,17 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-28T13:37:20.464Z",
+            "title": "Keynote - Andrew Clark aka @acdlite at @ReactEurope 2017 - YouTube",
+            "url": "https://www.youtube.com/watch?v=QW5TE4vrklU",
+            "content": "Reactの今後のロードマップについての発表。\nReact v16ではFragmentsサポート、Portal、Fiber(opt-in)、エラーハンドリングの強化が行われる。\nそれ以降は可視領域の優先度スケジューラ、Code Spilittingの改善など",
+            "tags": [
+                "React",
+                "video"
+            ],
+            "relatedLinks": []
         }
     ]
 }
