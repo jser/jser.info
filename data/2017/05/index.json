@@ -1177,14 +1177,16 @@
             "relatedLinks": []
         },
         {
-            "date": "2017-05-29T15:29:45.620Z",
+            "date": "2017-05-29T15:30:04.535Z",
             "title": "CSS and the First Meaningful Paint - Sessions by Pusher",
             "url": "https://pusher.com/sessions/meetup/london-css/css-and-the-first-meaningful-paint",
             "content": "CSSとFirst meaningful paintについての発表動画。\nInline CSSのメリット/デメリット、RTTとレイテンシー、クリティカルパスなリソースについて。\nリソースのpreload、Server Pushについて",
             "tags": [
                 "CSS",
                 "performance",
-                "video"
+                "video",
+                "browser",
+                "HTTP2"
             ],
             "relatedLinks": []
         }
