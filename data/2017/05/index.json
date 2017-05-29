@@ -1146,6 +1146,23 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-29T13:18:48.608Z",
+            "title": "What's New In DevTools (Chrome 60)  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2017/05/devtools-release-notes",
+            "content": "Chrome 60の開発者ツールについて。\nAuditがLighthouseを使ったものに変更。\nthird party badgesの表示、ブレークポイントでContinue to hereの追加、コードカバレッジ表示の改善、Asyncスタックトレースがデフォルト化など",
+            "tags": [
+                "Chrome",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "GoogleChrome/lighthouse: Auditing, performance metrics, and best practices for Progressive Web Apps",
+                    "url": "https://github.com/GoogleChrome/lighthouse"
+                }
+            ]
         }
     ]
 }
