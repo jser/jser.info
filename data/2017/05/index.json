@@ -1202,6 +1202,18 @@
                 "console"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-05-30T00:01:14.248Z",
+            "title": "Event Bubbling in JavaScript? Event Propagation Explained",
+            "url": "https://www.sitepoint.com/event-bubbling-javascript/",
+            "content": "DOMのイベントバブリングとキャプチャフェーズについての解説。\n`target`、`currentTarget`、`eventPhasee`を使ってイベントの動きを可視化してる",
+            "tags": [
+                "DOM",
+                "event",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
