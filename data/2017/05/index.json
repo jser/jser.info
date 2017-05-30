@@ -1037,15 +1037,20 @@
             "relatedLinks": []
         },
         {
-            "date": "2017-05-26T07:00:27.726Z",
+            "date": "2017-05-30T00:09:41.279Z",
             "title": "Release v5.0.0 · npm/npm",
             "url": "https://github.com/npm/npm/releases/tag/v5.0.0",
-            "content": "npm v5.0.0プレリリース。\nローカルパスのnpm installはsymlinkとなるように、`--save`がデフォルト化、Gitで依存してるモジュールも`prepare`が呼ばれるように、`package-lock.json`の導入、インストール速度の改善、`--offline`、`sha512`のサポートなど",
+            "content": "npm v5.0.0プレリリース。 ローカルパスのnpm installはsymlinkとなるように、`--save`がデフォルト化、Gitで依存してるモジュールも`prepare`が呼ばれるように、`package-lock.json`の導入、インストール速度の改善、`--offline`、`sha512`のサポートなど",
             "tags": [
-                "npm",
-                "ReleaseNote"
+                "ReleaseNote",
+                "npm"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "npm v5 がリリースされた - from scratch",
+                    "url": "http://yosuke-furukawa.hatenablog.com/entry/2017/05/30/090602"
+                }
+            ]
         },
         {
             "date": "2017-05-27T11:45:19.550Z",
