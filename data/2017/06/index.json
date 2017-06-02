@@ -86,6 +86,17 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-02T09:19:08.864Z",
+            "title": "MIL WebDNN",
+            "url": "https://mil-tokyo.github.io/webdnn/",
+            "content": "WebGPU、WebAssermbly、JavaScriptのFallbackを持ったディープニューラルネットワーク(DNN)の実行環境の実装。\nブラウザ上で高速に処理することが目的。",
+            "tags": [
+                "WebAssembly",
+                "機械学習"
+            ],
+            "relatedLinks": []
         }
     ]
 }
