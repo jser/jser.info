@@ -1,129 +1,22 @@
 {
     "list": [
         {
-            "date": "2017-06-01T02:36:02.941Z",
-            "title": "基礎からわかる Elm | 鳥居 陽介 |本 | 通販 | Amazon",
-            "url": "https://www.amazon.co.jp/%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E3%82%8F%E3%81%8B%E3%82%8B-Elm-%E9%B3%A5%E5%B1%85-%E9%99%BD%E4%BB%8B/dp/4863542224",
-            "content": "2017年7月14日発売\nElmについての書籍",
+            "date": "2017-06-04T11:10:05.267Z",
+            "title": "N-API: Next generation Node.js APIs for native modules",
+            "url": "https://medium.com/@nodejs/n-api-next-generation-node-js-apis-for-native-modules-169af5235b06",
+            "content": "Node.js 8.0.0で導入されたN-APIについて。\nいままでネイティブモジュールを書く際にNANなどもあったが、それはV8に依存していたためAPI/ABI stabilityに問題があった。\nN-APIではABI-stableな中間レイヤーを入れる。またこれによりNode-ChakraCoreなど異なるVMでも安定利用できるようにするという話。",
             "tags": [
-                "program",
-                "book"
-            ],
-            "relatedLinks": []
-        },
-        {
-            "date": "2017-06-01T07:29:32.098Z",
-            "title": "WebAssembly and Friends Roadmap",
-            "url": "https://wasmdash.appspot.com/",
-            "content": "Chromeのwasm関係のロードマップ",
-            "tags": [
-                "Chrome",
-                "WebAssembly"
-            ],
-            "relatedLinks": []
-        },
-        {
-            "date": "2017-06-01T08:02:38.540Z",
-            "title": "Introduction to State Management in Angular v2+ – OlricDigital – Medium",
-            "url": "https://medium.com/olricdigital/introduction-to-state-management-in-angular-v2-ef6f5144bade",
-            "content": "Angularでのステート管理について。\n`@ngrx/store`を使ったステート管理の解説",
-            "tags": [
-                "AngularJS"
-            ],
-            "relatedLinks": []
-        },
-        {
-            "date": "2017-06-01T08:06:38.414Z",
-            "title": "RailsエンジニアがReactを始めてSSRとReduxとTypeScriptを導入するまで | bitjourney Kibela",
-            "url": "https://bitjourney.kibe.la/shared/entries/5c77844d-9856-4f1c-b689-44b1ee3d450a",
-            "content": "Railsの環境にReact+Reduxとサーバサイドレンダリングを導入するまでの話。\n後からTypeScriptを導入した流れについて。",
-            "tags": [
-                "React",
-                "TypeScript",
-                "rails",
-                "slide"
-            ],
-            "relatedLinks": []
-        },
-        {
-            "date": "2017-06-01T08:12:17.075Z",
-            "title": "npm/CHANGELOG.md at v5.0.1 · npm/npm",
-            "url": "https://github.com/npm/npm/blob/v5.0.1/CHANGELOG.md",
-            "content": "npm 5.0.1リリース。\n5.0.0のバグ修正が中心。余計なassertionを削除してインストール速度の改善など",
-            "tags": [
-                "npm",
-                "ReleaseNote"
-            ],
-            "relatedLinks": []
-        },
-        {
-            "date": "2017-06-01T08:25:53.414Z",
-            "title": "Release Notes for Safari Technology Preview 31 | WebKit",
-            "url": "https://webkit.org/blog/7622/release-notes-for-safari-technology-preview-31/",
-            "content": "Safari Technology Preview Release 31リリース。\n`preload`で`as`や`type`属性のサポート、Access-Control-Allow-Originのエラーメッセージを改善など\n",
-            "tags": [
-                "safari",
-                "ReleaseNote"
+                "node.js",
+                "C++",
+                "V8",
+                "ChakraCore"
             ],
             "relatedLinks": [
                 {
-                    "title": "162819 – Improve error message for Access-Control-Allow-Origin violation due to misconfigured server",
-                    "url": "https://bugs.webkit.org/show_bug.cgi?id=162819"
-                },
-                {
-                    "title": "321517 - Developer tools misleading error description on CORS XHR with multiple Access-Control-Allow-Origin response headers - chromium - Monorail",
-                    "url": "https://bugs.chromium.org/p/chromium/issues/detail?id=321517"
+                    "title": "nodejs/nan: Native Abstractions for Node.js",
+                    "url": "https://github.com/nodejs/nan"
                 }
             ]
-        },
-        {
-            "date": "2017-06-02T05:41:56.881Z",
-            "title": "HTTP/2 push is tougher than I thought - JakeArchibald.com",
-            "url": "https://jakearchibald.com/2017/h2-push-tougher-than-i-thought/",
-            "content": "HTTP/2 Server Pushに関するブラウザごとの挙動についてのまとめ",
-            "tags": [
-                "HTTP2",
-                "browser"
-            ],
-            "relatedLinks": []
-        },
-        {
-<<<<<<< Updated upstream
-            "date": "2017-06-02T09:19:38.927Z",
-            "title": "MIL WebDNN",
-            "url": "https://mil-tokyo.github.io/webdnn/",
-            "content": "WebGPU、WebAssermbly、JavaScriptのFallbackを持ったディープニューラルネットワーク(DNN)の実行環境の実装。\nブラウザ上で高速に処理することが目的。",
-            "tags": [
-                "WebAssembly",
-                "機械学習"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "MIL WebDNN(日本語)",
-                    "url": "https://mil-tokyo.github.io/webdnn/ja/"
-                }
-            ]
-        },
-        {
-            "date": "2017-06-02T09:25:05.890Z",
-            "title": "Whats new for streams in Node 8 – Calvin Metcalf – Medium",
-            "url": "https://medium.com/@CWMma/whats-new-for-streams-in-node-8-736d431083df",
-            "content": "Node.js 8.0.0でStreamに追加された`destroy`について",
-            "tags": [
-                "node.js"
-=======
-            "date": "2017-06-03T07:23:39.344Z",
-            "title": "Redux vs MobX: Which Is Best for Your Project? — SitePoint",
-            "url": "https://www.sitepoint.com/redux-vs-mobx-which-is-best/",
-            "content": "ReduxとMobXの比較。\nそれぞれの特徴や書き方の違いなどについて雑感が書かれている",
-            "tags": [
-                "JavaScript",
-                "redux",
-                "library",
-                "opinion"
->>>>>>> Stashed changes
-            ],
-            "relatedLinks": []
         }
     ]
 }
