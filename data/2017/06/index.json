@@ -149,6 +149,18 @@
                 "npm"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-05T06:50:11.543Z",
+            "title": "Into the Great Unknown — Migrating from Mocha to Jest",
+            "url": "https://ebaytech.berlin/into-the-great-unknown-migrating-from-mocha-to-jest-3baced083c7e",
+            "content": "MochaからJestへテストを移行した話。\ncodemodを使ったマイグレーション、js以外を読み込んでいた時のhook処理、ESLintの設定など。\nまた複雑なテストやchaiの拡張を使っている場合に自動で移行できないケースについて",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }

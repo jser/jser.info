@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e
+set -x
 commitMessage=$1
 currentDir=$(cd $(dirname $0) && pwd)
 parentDir=$(cd $(dirname $(cd $(dirname $0);pwd));pwd)
@@ -16,12 +16,10 @@ if [ -z "`git config user.email`" ]; then
     exit 1
 fi
 
-
-isClean=$(git status --porcelain)
-if [ -z "${isClean}" ]; then
-  # Working directory clean
-  git pull
-  git push
+git diff --exit-code --quiet
+if [ $? -ne 0 ]; then
+  echo "Not clean working dir"
+  exit 1
 else
   # Uncommitted changes
   git pull
@@ -32,7 +30,8 @@ else
   fi
 fi
 
-if [[ -z $(git status --porcelain) ]];then
+git diff --exit-code --quiet
+if [ $? -eq 0 ];then
   type /usr/local/bin/terminal-notifier >/dev/null 2>&1 && /usr/local/bin/terminal-notifier -message "Sync!!" -title "JSer.info"
 else
   type /usr/local/bin/terminal-notifier >/dev/null 2>&1 && /usr/local/bin/terminal-notifier -message "Error!!" -title "JSer.info"
