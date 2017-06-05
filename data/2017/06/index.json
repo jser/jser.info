@@ -180,6 +180,23 @@
                     "url": "https://github.com/storybooks/storybook/releases"
                 }
             ]
+        },
+        {
+            "date": "2017-06-05T08:30:58.745Z",
+            "title": "Announcing Meteor 1.5 – Meteor Blog",
+            "url": "https://blog.meteor.com/announcing-meteor-1-5-b82be66571bb",
+            "content": "Meteor 1.5リリース。\nCode splitting、Dynamic import、bundle解析ツールの追加など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ree"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "meteor/History.md at master · meteor/meteor",
+                    "url": "https://github.com/meteor/meteor/blob/master/History.md#v15-2017-05-30"
+                }
+            ]
         }
     ]
 }
