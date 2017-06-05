@@ -161,6 +161,25 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-05T08:12:33.094Z",
+            "title": "Announcing Storybook 3.0 – Storybook – Medium",
+            "url": "https://medium.com/storybookjs/announcing-storybook-3-0-329748b8f4cd",
+            "content": "Reactのコンポーネント開発環境ツールであるStorybook 3.0リリース。\n開発の主体がKadiraからコミュニティへ、webpack 2の対応、スナップショットテストを行う`storyshots`のサポートなど",
+            "tags": [
+                "React",
+                "library",
+                "document",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Releases · storybooks/storybook",
+                    "url": "https://github.com/storybooks/storybook/releases"
+                }
+            ]
         }
     ]
 }

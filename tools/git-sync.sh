@@ -18,20 +18,17 @@ fi
 
 git diff --exit-code --quiet
 if [ $? -ne 0 ]; then
-  echo "Not clean working dir"
-  exit 1
-else
   # Uncommitted changes
   git pull
   if [ -n "${commitMessage}" ]; then
     git add .
     git commit -m "${commitMessage}"
-    git push
   fi
 fi
 
 git diff --exit-code --quiet
 if [ $? -eq 0 ];then
+  git push
   type /usr/local/bin/terminal-notifier >/dev/null 2>&1 && /usr/local/bin/terminal-notifier -message "Sync!!" -title "JSer.info"
 else
   type /usr/local/bin/terminal-notifier >/dev/null 2>&1 && /usr/local/bin/terminal-notifier -message "Error!!" -title "JSer.info"
