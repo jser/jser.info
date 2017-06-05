@@ -199,7 +199,6 @@
             ]
         },
         {
-<<<<<<< HEAD
             "date": "2017-06-05T08:43:46.819Z",
             "title": "Get Programming with JavaScript Next: New features of ECMAScript 2015, 2016, and beyond: J. D. Isaacks: 9781617294204: Amazon.com: Books",
             "url": "https://www.amazon.com/Get-Programming-JavaScript-Next-ECMAScript/dp/1617294209",
@@ -209,7 +208,7 @@
                 "book"
             ],
             "relatedLinks": []
-=======
+        },{
             "date": "2017-06-05T09:59:03.348Z",
             "title": "Node.js 8: `util.promisify()`",
             "url": "http://2ality.com/2017/05/util-promisify.html",
@@ -224,7 +223,6 @@
                     "url": "http://yosuke-furukawa.hatenablog.com/entry/2017/05/10/101752"
                 }
             ]
->>>>>>> Node.js 8:
         }
     ]
 }
