@@ -1,5 +1,5 @@
 #!/bin/bash
-
+set -e
 commitMessage=$1
 currentDir=$(cd $(dirname $0) && pwd)
 parentDir=$(cd $(dirname $(cd $(dirname $0);pwd));pwd)
