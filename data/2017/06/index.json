@@ -112,6 +112,19 @@
                 "node.js"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-05T04:08:57.444Z",
+            "title": "N-API: Next generation Node.js APIs for native modules",
+            "url": "https://medium.com/@nodejs/n-api-next-generation-node-js-apis-for-native-modules-169af5235b06",
+            "content": "Node.js 8.0.0で導入されたN-APIについて。 いままでネイティブモジュールを書く際にNANなどもあったが、それはV8に依存していたためAPI/ABI stabilityに問題があった。 N-APIではABI-stableな中間レイヤーを入れる。これによりNode-ChacraCoreなどでも互換APIが整備されている",
+            "tags": [
+                "C++",
+                "ChakraCore",
+                "V8",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
