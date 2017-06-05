@@ -16,6 +16,7 @@ if [ -z "`git config user.email`" ]; then
     exit 1
 fi
 
+# git has uncommit content
 git diff --exit-code --quiet
 if [ $? -ne 0 ]; then
   # Uncommitted changes
