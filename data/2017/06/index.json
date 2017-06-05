@@ -208,7 +208,8 @@
                 "book"
             ],
             "relatedLinks": []
-        },{
+        },
+        {
             "date": "2017-06-05T09:59:03.348Z",
             "title": "Node.js 8: `util.promisify()`",
             "url": "http://2ality.com/2017/05/util-promisify.html",
@@ -223,6 +224,18 @@
                     "url": "http://yosuke-furukawa.hatenablog.com/entry/2017/05/10/101752"
                 }
             ]
+        },
+        {
+            "date": "2017-06-05T10:28:40.266Z",
+            "title": "kt3k/kocha: Modern, simpler Mocha clone, no globals, lint friendly",
+            "url": "https://github.com/kt3k/kocha",
+            "content": "Mochaと互換APIを持つテストフレームワーク。\nMochaではグローバルに定義されている`describe`などがモジュールから`require`して利用できる。",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
