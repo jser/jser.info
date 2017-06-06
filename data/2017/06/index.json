@@ -252,6 +252,17 @@
                     "url": "https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/"
                 }
             ]
+        },
+        {
+            "date": "2017-06-06T00:56:38.376Z",
+            "title": "Safari 11.0",
+            "url": "https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Safari_11_0/Safari_11_0.html",
+            "content": "Safari 11.0 (プレ)リリース。\nWebRTC、WebAssermbly、Media Capture API、WebCrypto APIのアルゴリズム追加、Resource timing APIのサポート。\nCSSではVariable fonts、CSS strokeのサポート。\nホームスクリーンアプリでWebKitの機能をサポート、追跡Cookieの削除/隔離など\n",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
