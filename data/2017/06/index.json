@@ -263,6 +263,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-06T03:37:28.047Z",
+            "title": "Release 1.4.0: TypeScript and CSS support · prettier/prettier",
+            "url": "https://github.com/prettier/prettier/releases/tag/1.4.0",
+            "content": "prettier 1.4.0リリース。\nTypeScript(`.ts`と`.tsx`)、CSS、Less、SCSSをサポート。\nエディタ向けに`cursorOffset`を追加、整形周りの細かい修正など",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "CSS",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
