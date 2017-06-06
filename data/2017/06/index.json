@@ -236,6 +236,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-06T00:48:59.962Z",
+            "title": "Release v3.0.0-rc.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v3.0.0-rc.0",
+            "content": "webpack 3.0.0 RC0リリース。\nRollupのようなScope Hoisting(inlining)を行うプラグインの追加、、`output.libraryExport`のサポート、`node: false`でnode関係はまとめて無効化できるようになるなど",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The cost of small modules | Read the Tea Leaves",
+                    "url": "https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/"
+                }
+            ]
         }
     ]
 }
