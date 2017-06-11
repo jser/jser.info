@@ -369,6 +369,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-11T15:34:59.428Z",
+            "title": "Javascript unit testing tools",
+            "url": "http://mo.github.io/2017/06/05/javascript-unit-testing.html",
+            "content": "JavaScriptのテストツールの比較。\nそれぞれのツールの簡単な比較とアクティビティについて。\n利用者はMocha > Karma > Jasmineだが、Jestがアクティブに開発されてる様子がでている",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "opinion"
+            ],
+            "relatedLinks": []
         }
     ]
 }
