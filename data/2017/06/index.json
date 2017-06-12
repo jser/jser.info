@@ -450,6 +450,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-12T12:58:59.982Z",
+            "title": "Upgrading from Node 6 to Node 8: a real-world performance comparison",
+            "url": "https://hackernoon.com/upgrading-from-node-6-to-node-8-a-real-world-performance-comparison-3dfe1fbc92a3",
+            "content": "Node.js v6とv8のパフォーマンスを比較した記事。\nReactの`renderToString`、Jestの実行時間、webpackのビルド時間、npmのインストール時間などで比較している",
+            "tags": [
+                "node.js",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
