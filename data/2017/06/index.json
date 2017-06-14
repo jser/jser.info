@@ -485,6 +485,17 @@
                     "url": "https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript"
                 }
             ]
+        },
+        {
+            "date": "2017-06-14T14:52:09.142Z",
+            "title": "Node v8.1.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v8.1.0/",
+            "content": "Node.js 8.1.0リリース。\nnpm 5.0.3へアップデート、`--inspect=0`でランダムポートができるように。",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
