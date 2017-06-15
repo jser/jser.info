@@ -532,6 +532,26 @@
                     "url": "https://www.fxsitecompat.com/ja/docs/2017/urls-with-no-host-name-are-now-treated-as-invalid/"
                 }
             ]
+        },
+        {
+            "date": "2017-06-15T06:27:33.834Z",
+            "title": "Chromium Blog: Chrome 60 Beta: Paint Timing API, CSS font-display, and Credential Management API improvements",
+            "url": "https://blog.chromium.org/2017/06/chrome-60-beta-paint-timing-api-css.html",
+            "content": "Chrome 60βリリース。\nPaint Timing API、CSS font-display、Object rest/spread propertiesのサポート。\nまた、Payment Request APIをデスクトップ版もサポートするなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Leveraging the Performance Metrics that Most Affect User Experience  |  Web  |  Google Developers",
+                    "url": "https://developers.google.com/web/updates/2017/06/user-centric-performance-metrics#first_paint_and_fist_contentful_paint"
+                },
+                {
+                    "title": "WICG/paint-timing: A proposal for a Time To First Paint specification.",
+                    "url": "https://github.com/wicg/paint-timing"
+                }
+            ]
         }
     ]
 }
