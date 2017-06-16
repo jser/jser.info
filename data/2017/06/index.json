@@ -564,6 +564,19 @@
                 "ebook"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-16T06:02:25.121Z",
+            "title": "Release 4.0.0 / 2017-05-26 · chaijs/chai",
+            "url": "https://github.com/chaijs/chai/releases/tag/4.0.0",
+            "content": "Chai 4.0.0リリース。\nNode.js 0.12のサポート終了、`Map`、`Set`の対応、`deep`の挙動を変更、ES6 Proxyを使ったundefined safeなチェインの実装など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
