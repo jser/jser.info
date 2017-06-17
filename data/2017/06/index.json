@@ -601,6 +601,17 @@
                 "redux"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-17T04:29:16.347Z",
+            "title": "TypeScript 2.3: Type-Checking JavaScript Files with --checkJs | Marius Schulz",
+            "url": "https://blog.mariusschulz.com/2017/06/16/typescript-2-3-type-checking-javascript-files-with-checkjs",
+            "content": "TypeScriptの`--checkJs`でのJavaScriptからTypeScriptへのマイグレーション手法について。\nホワイトリスト、ブラックリストそれぞれのアプローチ方法について",
+            "tags": [
+                "TypeScript",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
