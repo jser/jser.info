@@ -588,6 +588,28 @@
                 "debug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-17T03:08:43.205Z",
+            "title": "Release v3.7.0 · reactjs/redux",
+            "url": "https://github.com/reactjs/redux/releases/tag/v3.7.0",
+            "content": "Redux 3.7.0リリース。\nRollupでbundleしたUMDバンドルを配布するように。\nモジュール同士\n余計な関数コールが減るためファイルサイズなどが改善される。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote",
+                "redux"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Webpack and Rollup: the same but different – webpack – Medium",
+                    "url": "https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c"
+                },
+                {
+                    "title": "JavaScript Start-up Performance – reloading – Medium",
+                    "url": "https://medium.com/reloading/javascript-start-up-performance-69200f43b201"
+                }
+            ]
         }
     ]
 }
