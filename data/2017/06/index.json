@@ -663,6 +663,25 @@
                     "url": "http://ngjapan.org/"
                 }
             ]
+        },
+        {
+            "date": "2017-06-19T12:24:38.597Z",
+            "title": "Choo, architecture & performance – Yoshua Wuyts – Medium",
+            "url": "https://medium.com/@yoshuawuyts/choo-architecture-performance-f6f0c44e8a6a",
+            "content": "ウェブフロントを作成する小さなフレームワークであるChooのアーキテクチャについての解説。\nChooを構成する小さなライブラリやなぜそれを選択しているかやパフォーマンスについての記事",
+            "tags": [
+                "JavaScript",
+                "library",
+                "opinion",
+                "architecture",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "yoshuawuyts/choo: - sturdy 4kb frontend framework",
+                    "url": "https://github.com/yoshuawuyts/choo"
+                }
+            ]
         }
     ]
 }
