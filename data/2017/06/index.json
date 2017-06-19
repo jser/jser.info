@@ -682,6 +682,22 @@
                     "url": "https://github.com/yoshuawuyts/choo"
                 }
             ]
+        },
+        {
+            "date": "2017-06-19T21:53:04.135Z",
+            "title": "Release v3.0.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v3.0.0",
+            "content": "webpack 3.0.0リリース。\nScope Hoisting (`webpack.optimize.ModuleConcatenationPlugin`)の追加、`node: false`でnode関係の機能をまとめて無効化できるように、Source Map周りの変更など\n",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "🍾🚀 webpack 3: Official Release!! 🚀🍾 – webpack – Medium",
+                    "url": "https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b"
+                }
+            ]
         }
     ]
 }
