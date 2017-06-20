@@ -735,6 +735,18 @@
                 "AngularJS"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-20T06:44:23.841Z",
+            "title": "High Performance JS in V8 - Google スライド",
+            "url": "https://docs.google.com/presentation/d/1KCcA-WAyhGs0SEOrfU21fjaTWTxvNxYLwmNlGIbuZFw/edit#slide=id.p",
+            "content": "V8のES2015+のパフォーマンスについてのスライド。\nCrankshaftはES2015を最適化しないため遅かった。またtry-catchなどがあると最適化できなかった。\n新しいpipelineのIgnition + Turbofanではその部分が改善されているという話。",
+            "tags": [
+                "V8",
+                "performance",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
