@@ -757,6 +757,18 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-22T23:58:43.921Z",
+            "title": "sonar, a linting tool for the web",
+            "url": "https://sonarwhal.com/",
+            "content": "ウェブサイト(URL)に対するESLintのようなLintツール。\nカスタムルールを自分で定義することができ、axeやSSL Server Testなど既存のツールを簡単に統合して利用できるようにする目的。",
+            "tags": [
+                "JavaScript",
+                "ESLint",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
