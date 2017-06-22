@@ -747,6 +747,16 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-22T01:00:24.303Z",
+            "title": "JS scope: static, dynamic, and runtime-augmented – Dmitry Soshnikov – Medium",
+            "url": "https://medium.com/@DmitrySoshnikov/js-scope-static-dynamic-and-runtime-augmented-5abfee6223fe",
+            "content": "JavaScriptのスコープについて。\n作ったときに参照が解決できるStatic scope、呼び出し元によって参照が決まるDynamic scope、`witH`や`eval`によるRuntime-augmented scopeについて\n",
+            "tags": [
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
