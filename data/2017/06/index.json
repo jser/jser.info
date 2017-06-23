@@ -769,6 +769,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-23T09:31:15.767Z",
+            "title": "await-to-js - NMOTW",
+            "url": "http://nmotw.in//github/await-to-js/",
+            "content": "awaitと組み合わせて使うことで、go言語のように`[error, value]`の値を返すようにするライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
