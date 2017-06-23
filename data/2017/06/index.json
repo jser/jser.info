@@ -241,7 +241,7 @@
             "date": "2017-06-06T00:48:59.962Z",
             "title": "Release v3.0.0-rc.0 · webpack/webpack",
             "url": "https://github.com/webpack/webpack/releases/tag/v3.0.0-rc.0",
-            "content": "webpack 3.0.0 RC0リリース。\nRollupのようなScope Hoisting(inlining)を行うプラグインの追加、、`output.libraryExport`のサポート、`node: false`でnode関係はまとめて無効化できるようになるなど",
+            "content": "webpack 3.0.0 RC0リリース。\nRollupのようなScope Hoisting(inlining)を行うプラグインの追加、`output.libraryExport`のサポート、`node: false`でnode関係はまとめて無効化できるようになるなど",
             "tags": [
                 "webpack",
                 "ReleaseNote"
@@ -688,14 +688,14 @@
             "date": "2017-06-19T21:53:04.135Z",
             "title": "Release v3.0.0 · webpack/webpack",
             "url": "https://github.com/webpack/webpack/releases/tag/v3.0.0",
-            "content": "webpack 3.0.0リリース。\nScope Hoisting (`webpack.optimize.ModuleConcatenationPlugin`)の追加、`node: false`でnode関係の機能をまとめて無効化できるように、Source Map周りの変更など\n",
+            "content": "webpack 3.0.0リリース。\nScope Hoisting (`webpack.optimize.ModuleConcatenationPlugin`)の追加、`node: false`でnode関係の機能をまとめて無効化できるように、Source Map周りの変更など",
             "tags": [
                 "webpack",
                 "ReleaseNote"
             ],
             "relatedLinks": [
                 {
-                    "title": "🍾🚀 webpack 3: Official Release!! 🚀🍾 – webpack – Medium",
+                    "title": "webpack 3: Official Release!! - webpack – Medium",
                     "url": "https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b"
                 }
             ]
