@@ -814,6 +814,18 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-25T12:29:55.015Z",
+            "title": "Redux Architecture Guidelines | joeellis.la",
+            "url": "http://joeellis.la/redux-architecture/",
+            "content": "ケースバイケースではあるけど、Reduxを使ったアーキテクチャのガイドライン。\nstateのネストを避けるためにnormalizeする、stateにはsourceとなるデータを入れる、ReactのstateよりReduxのState。\nStandard Action、Container componentについてなど",
+            "tags": [
+                "redux",
+                "opinion",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
