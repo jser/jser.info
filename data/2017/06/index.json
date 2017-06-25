@@ -826,6 +826,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-25T12:36:35.624Z",
+            "title": "medikoo/date-from-timezone: Construct dates with timezone context",
+            "url": "https://github.com/medikoo/date-from-timezone",
+            "content": "`Intl.DateTimeFormat`を使うことで、JavaScriptでタイムゾーン情報を付与して`new Date`を行うライブラリ",
+            "tags": [
+                "JavaScript",
+                "i18n",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Add timezone data to Date",
+                    "url": "https://esdiscuss.org/topic/add-timezone-data-to-date#content-6"
+                }
+            ]
         }
     ]
 }
