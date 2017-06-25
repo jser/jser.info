@@ -874,6 +874,19 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-25T13:35:38.584Z",
+            "title": "Aligned Input Events  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2017/06/aligning-input-events",
+            "content": "Pointer Eventsの`getCoalescedEvents`について。\n入力デバイスは60-120Hzに対して、モニタが60Hzである場合にポインタのイベントをすべて処理するのは無駄となる。\nその無駄を回避するためにイベントをまとめてくれる`getCoalescedEvents()`について",
+            "tags": [
+                "JavaScript",
+                "event",
+                "article",
+                "Android"
+            ],
+            "relatedLinks": []
         }
     ]
 }
