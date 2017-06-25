@@ -780,6 +780,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-25T11:10:48.267Z",
+            "title": "ESLint v4.1.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2017/06/eslint-v4.1.0-released",
+            "content": "ESLint 4.1.0リリース。\nglobベースの`overrides`設定の追加、無視ファイルを`package.json`に定義できるように",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
