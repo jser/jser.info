@@ -21,8 +21,10 @@ getAllItemFilePath().forEach(filePath => {
             return;
         }
         const indexOfFrom = item.tags.indexOf(from);
-        item.tags[indexOfFrom] = to;
-        console.log(`Process ${filePath}:${item.title}`);
+        if (indexOfFrom !== -1) {
+            item.tags[indexOfFrom] = to;
+            console.log(`Process ${filePath}:${item.title}`);
+        }
     });
     fs.writeFileSync(filePath, JSON.stringify(article, null, 4), "utf-8");
 });

@@ -173,7 +173,7 @@
             "url": "http://medium.com/@dickeyxxx/best-practices-for-building-angular-js-apps-266c1a4a6917",
             "content": "Angular.JSにはmodule機能があるため、BrowserifyやRequire.JSのようなビルドを使わなくてもconcatするだけでも問題ないという話。\nconcatでもsourcemapは対応できて、何よりシンプル。",
             "tags": [
-                "AngularJS",
+                "Angular",
                 "browserify"
             ],
             "date": "2014-08-08T06:52:59.206Z",
@@ -309,7 +309,7 @@
             "url": "http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135",
             "content": "AngularJSパフォーマンス改善Tips.\n`{{ ::title }}` 一度きりのバインディング、$scope.$apply() と $scope.$digest()の違い、ng-repeat、ディレクティブ内でのDOM操作について",
             "tags": [
-                "AngularJS",
+                "Angular",
                 "performance"
             ],
             "date": "2014-08-11T09:11:38.766Z",
@@ -738,7 +738,7 @@
             "tags": [
                 "JavaScript",
                 "library",
-                "AngularJS"
+                "Angular"
             ],
             "date": "2014-08-23T02:36:10.514Z",
             "relatedLinks": []

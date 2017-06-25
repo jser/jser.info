@@ -60,7 +60,7 @@
             "url": "http://angularjs.blogspot.com/2016/09/angular-2-rc6_1.html",
             "content": "Angular 2 RC6リリース\nRC5以下で非推奨となっていたAPIの削除、npmパッケージにES6 modules形式のソースを含むように、TypeScript 2.0に対応など",
             "tags": [
-                "AngularJS",
+                "Angular",
                 "ReleaseNote"
             ],
             "relatedLinks": [
@@ -516,7 +516,7 @@
             "url": "http://angularjs.blogspot.com/2016/09/rc7-now-available.html",
             "content": "Angular 2 RC7リリース。\n`ComponentMetadata`を削除など",
             "tags": [
-                "AngularJS",
+                "Angular",
                 "ReleaseNote"
             ],
             "relatedLinks": [
@@ -543,7 +543,7 @@
             "url": "http://angularjs.blogspot.com/2016/09/angular2-final.html",
             "content": "AngularJS 2リリース\n",
             "tags": [
-                "AngularJS",
+                "Angular",
                 "ReleaseNote"
             ],
             "relatedLinks": [
@@ -788,7 +788,7 @@
             "url": "http://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/",
             "content": "AnguarJS 2のAhead-of-Time (AOT)について",
             "tags": [
-                "AngularJS"
+                "Angular"
             ],
             "relatedLinks": []
         },
@@ -943,7 +943,7 @@
             "url": "https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with-jasmine",
             "content": "AngularJS 2のコンポーネントをjasmineでテストする話",
             "tags": [
-                "AngularJS",
+                "Angular",
                 "testing"
             ],
             "relatedLinks": []

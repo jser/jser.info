@@ -87,7 +87,7 @@
             "tags": [
                 "JavaScript",
                 "google",
-                "AngularJS"
+                "Angular"
             ],
             "date": "2015-02-04T14:30:23.057Z",
             "relatedLinks": []
@@ -662,7 +662,7 @@
             "url": "http://victorsavkin.com/post/110170125256/change-detection-in-angular-2",
             "content": "Angular 2の変更検知の仕組みについての解説。\n基本的にはComponentツリーを上から走査して変更を検知するが、Reactの`shouldComponentUpdate()`のように子への探索を減らす仕組みが導入されている",
             "tags": [
-                "AngularJS",
+                "Angular",
                 "アルゴリズム"
             ],
             "date": "2015-02-11T12:29:14.703Z",
@@ -1495,7 +1495,7 @@
             "url": "http://angularjs.blogspot.com/2015/02/new-angularjs-releases-140-beta5-and.html",
             "content": "AngularJS 1.4.0-betaと1.3.14 リリース。\nCommonJS supportの改善",
             "tags": [
-                "AngularJS",
+                "Angular",
                 "ReleaseNote"
             ],
             "date": "2015-02-25T15:55:18.788Z",
@@ -1530,7 +1530,7 @@
             "url": "http://www.michaelbromley.co.uk/blog/350/exploring-es6-classes-in-angularjs-1-x",
             "content": "Angular 1.xでES6 classを使って記述する方法についての記事",
             "tags": [
-                "AngularJS"
+                "Angular"
             ],
             "date": "2015-02-27T01:38:53.753Z",
             "relatedLinks": []

@@ -253,7 +253,7 @@
             "viaURL": null,
             "content": "Angular2におけるアンチパターンについて。",
             "tags": [
-                "AngularJS"
+                "Angular"
             ],
             "relatedLinks": []
         },
@@ -398,7 +398,7 @@
             "viaURL": null,
             "content": "Angular 2.3.0リリース。\nIDEなどと連携する向けにAngular Language Serviceをリリース、zone.jsのスタックトレースが分かりやすくなるように改善されるなど",
             "tags": [
-                "AngularJS",
+                "Angular",
                 "ReleaseNote"
             ],
             "relatedLinks": []
@@ -535,7 +535,7 @@
             "url": "http://angularjs.blogspot.com/2016/12/angular-160-released.html",
             "content": "AngularJS 1.6.0リリース。\njqLiteをjQuery 3の挙動に合わせるように、expression sandboxを削除。\nまた、JSONPリクエストはホワイトリストがデフォルトになるなど多數のBreaking Changeが含まれている",
             "tags": [
-                "AngularJS",
+                "Angular",
                 "ReleaseNote"
             ],
             "relatedLinks": [
@@ -665,7 +665,7 @@
             "url": "http://angularjs.blogspot.com/2016/12/ok-let-me-explain-its-going-to-be.html",
             "content": "AngularJSの次のメジャーバージョンは4を予定している話。\n既に`@angular/router`がv3であるため、合わせるためにv4へあげる。\n2017年3月にリリースする予定",
             "tags": [
-                "AngularJS"
+                "Angular"
             ],
             "relatedLinks": []
         },
