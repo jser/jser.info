@@ -912,6 +912,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-25T14:10:36.570Z",
+            "title": "faceyspacey/redux-first-router: 🎖 seamless redux-first routing -- just dispatch actions",
+            "url": "https://github.com/faceyspacey/redux-first-router",
+            "content": "Redux向けのルーターライブラリ。\nURLパターンにマッチしたActionを発行することをベースにしてルーティングできるようにしている",
+            "tags": [
+                "redux",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Pre Release: Redux-First Router — A Step Beyond Redux-Little-Router",
+                    "url": "https://medium.com/faceyspacey/pre-release-redux-first-router-a-step-beyond-redux-little-router-cd2716576aea"
+                }
+            ]
         }
     ]
 }
