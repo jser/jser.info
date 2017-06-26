@@ -782,15 +782,20 @@
             "relatedLinks": []
         },
         {
-            "date": "2017-06-25T11:10:48.267Z",
+            "date": "2017-06-26T08:49:52.254Z",
             "title": "ESLint v4.1.0 released - ESLint - Pluggable JavaScript linter",
             "url": "http://eslint.org/blog/2017/06/eslint-v4.1.0-released",
-            "content": "ESLint 4.1.0リリース。\nglobベースの`overrides`設定の追加、無視ファイルを`package.json`に定義できるように",
+            "content": "ESLint 4.1.0リリース。 globベースの`overrides`設定の追加、無視ファイルを`package.json`に定義できるように",
             "tags": [
                 "ESLint",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "ESLint v4.1.0 - Qiita",
+                    "url": "http://qiita.com/mysticatea/items/e758c9a9a7dfb8b9cdb1#_reference-1ee40a3aed6ec611caba"
+                }
+            ]
         },
         {
             "date": "2017-06-25T12:01:11.743Z",
