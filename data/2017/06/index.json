@@ -957,6 +957,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-27T09:47:00.907Z",
+            "title": "Leveraging the Performance Metrics that Most Affect User Experience  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2017/06/user-centric-performance-metrics",
+            "content": "ユーザー体験への影響を見るパフォーマンスのメトリクスについて。\nロード時間だけでは体験を計測できないため。\nそのため、First Paint/First Meaningful Paing/Time to Interactive/Longtasksを指標にそれぞれ何を意味するかや計測方法について",
+            "tags": [
+                "Chrome",
+                "performance",
+                "browser",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
