@@ -1049,6 +1049,19 @@
                 "debug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-06-30T05:27:51.070Z",
+            "title": "roman01la/js-memory-usage: Data Structures Memory Usage in JavaScript",
+            "url": "https://github.com/roman01la/js-memory-usage",
+            "content": "JavaScriptのデータ構造別/ライブラリごとのメモリ消費量をまとめたもの。List/Array/Map/SetをJavaScript/ImmutableJS/ClojureScript/GopherJS/Reasonなど色々な実装ごと比較",
+            "tags": [
+                "JavaScript",
+                "library",
+                "まとめ",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
