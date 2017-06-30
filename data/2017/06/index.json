@@ -1020,6 +1020,24 @@
                     "url": "http://ecma-international.org/publications/standards/Ecma-262.htm"
                 }
             ]
+        },
+        {
+            "date": "2017-06-30T01:15:55.799Z",
+            "title": "Building m.uber: Engineering a High-Performance Web App for the Global Market - Uber Engineering Blog",
+            "url": "https://eng.uber.com/m-uber/",
+            "content": "Uberのモバイル向けの最適化について。\nReactを使っているが、mobileではPreactに置き換えて利用している。\nまた、サーバサイドレンダリングや、初期bundleサイズを小さくするためのcode split、依存が小さなJustの利用、SWやIndexedDBを使ったキャッシュなどについて。\n問題を見つけるためのエラーハンドリングについて。",
+            "tags": [
+                "browser",
+                "mobile",
+                "JavaScript",
+                "performance"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "angus-c/just: A library of dependency-free utilities that do just do one thing.",
+                    "url": "https://github.com/angus-c/just"
+                }
+            ]
         }
     ]
 }
