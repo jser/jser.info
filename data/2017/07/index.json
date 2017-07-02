@@ -110,6 +110,19 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-02T11:30:28.637Z",
+            "title": "egoist/dom-dom: JSX to actual DOM.",
+            "url": "https://github.com/egoist/dom-dom",
+            "content": "JSXを`document` APIを使ってDOMオブジェクトにするライブラリ",
+            "tags": [
+                "JavaScript",
+                "jsx",
+                "DOM",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
