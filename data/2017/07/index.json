@@ -151,6 +151,35 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-02T22:57:38.350Z",
+            "title": "HTML Standard",
+            "url": "https://html.spec.whatwg.org/dev/",
+            "content": "WHATWG HTML仕様のDeveloper's Edition。\nブラウザベンダー向けの情報は削除し、ウェブ開発者向けの情報に絞ったHTML仕様。",
+            "tags": [
+                "HTML",
+                "WHATWG",
+                "spec"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "HTML Standard 日本語訳",
+                    "url": "https://momdo.github.io/html/dev/"
+                },
+                {
+                    "title": "Review on utilization of `w-nodev` annotation · Issue #1488 · whatwg/html",
+                    "url": "https://github.com/whatwg/html/issues/1488#issuecomment-310450737"
+                },
+                {
+                    "title": "WHATWG HTML Standard Developer Editionの話 - 水底の血",
+                    "url": "http://momdo.hatenablog.jp/entry/20170702/1498999477"
+                },
+                {
+                    "title": "HTML5 for Web Developers | HTML5 Doctor",
+                    "url": "http://html5doctor.com/html5-for-web-developers/"
+                }
+            ]
         }
     ]
 }
