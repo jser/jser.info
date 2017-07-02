@@ -123,6 +123,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-02T12:25:43.429Z",
+            "title": "yahoo/mendel: Build toolchain for experimentation on isomorphic web applications with tree-inheritance and multivariate support.",
+            "url": "https://github.com/yahoo/mendel",
+            "content": "コードのフラグではなくルールファイルベースでプロジェクト構造を管理できるツール。\n試験的な機能を取り入れたA/Bテストを管理しやすくするためのフレームワーク。\nフラグ管理は技術的負債となりやすく、持続可能性をYahooで調査した結果作成されたデザイン。",
+            "tags": [
+                "設計",
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "mendel/Design.md at master · yahoo/mendel",
+                    "url": "https://github.com/yahoo/mendel/blob/master/docs/Design.md"
+                }
+            ]
         }
     ]
 }
