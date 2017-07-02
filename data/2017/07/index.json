@@ -1,0 +1,91 @@
+{
+    "list": [
+        {
+            "date": "2017-07-02T05:02:05.465Z",
+            "title": "pinterest/esprint: Fast eslint runner",
+            "url": "https://github.com/pinterest/esprint",
+            "content": "ESLintをparallelで実行できるツール",
+            "tags": [
+                "ESLint",
+                "Tools"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-07-02T07:07:12.930Z",
+            "title": "GraphQL Network Communication Framework",
+            "url": "http://graphql-io.com/",
+            "content": "クライアント <-> サーバのコミュニケーションを行うGraphQLフレームワーク。\nApollo/WebSocketベース",
+            "tags": [
+                "GraphQL",
+                "library",
+                "JavaScript"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-07-02T07:18:02.031Z",
+            "title": "NYTimes/kyt: Starting a new JS app? Build, test and run advanced apps with kyt 🔥",
+            "url": "https://github.com/nytimes/kyt",
+            "content": "JavaScriptアプリのツールキット。\nBabel/webpack/Jest/Stylelint/ESlint/protoなどのセットアップをまとめて行うツール",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-07-02T09:36:58.900Z",
+            "title": "anvilresearch/webcrypto: W3C Web Cryptography API for Node.js",
+            "url": "https://github.com/anvilresearch/webcrypto",
+            "content": "Node.jsでWeb Cryptography APIに対応するpolyfill(ponyfill)ライブラリ",
+            "tags": [
+                "node.js",
+                "security",
+                "library"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-07-02T10:04:01.538Z",
+            "title": "coast-team/netflux: JavaScript client and server side transport API based on WebRTC & WebSocket",
+            "url": "https://github.com/coast-team/netflux",
+            "content": "WebRTC、WebSocketを使ったP2Pライブラリ。\nブラウザ、Node.jsでデータのやり取りを行える",
+            "tags": [
+                "WebRTC",
+                "WebSocket",
+                "node.js",
+                "browser"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-07-02T10:06:48.968Z",
+            "title": "OnetapInc/chromy: Chromy is a library for operating headless chrome. 🍺🍺🍺",
+            "url": "https://github.com/OnetapInc/chromy",
+            "content": "Headless ChromeをNightmare.jsのように操作するAPIを提供するライブラリ。\nChrome DevTools Protocolを使って処理をやり取りしている。",
+            "tags": [
+                "Chrome",
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-07-02T10:23:49.465Z",
+            "title": "Release Notes for Safari Technology Preview 34 | WebKit",
+            "url": "https://webkit.org/blog/7760/release-notes-for-safari-technology-preview-34/",
+            "content": "Safari Technology Preview Release 34リリース。\n`RTCRtpTransceiver#addTransceiver`をサポートしトラック単位での片方向通信を使えるように、W3C Secure Contextsの実装、SRIを試験的にサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Safari TP 34では新しい片方向WebRTCの手順が使えるようになったので、試してみた - Qiita",
+                    "url": "http://qiita.com/tomoyukilabs/items/59267f25c9dbd43d5ecb"
+                }
+            ]
+        }
+    ]
+}
