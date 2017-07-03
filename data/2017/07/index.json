@@ -180,6 +180,18 @@
                     "url": "http://html5doctor.com/html5-for-web-developers/"
                 }
             ]
+        },
+        {
+            "date": "2017-07-03T05:11:51.324Z",
+            "title": "babel/proposals: (WIP) Tracking the status of Babel's implementation of TC39 proposals",
+            "url": "https://github.com/babel/proposals",
+            "content": "ECMAScript proposalとBabelの実装の対応をまとめたもの",
+            "tags": [
+                "ECMAScript",
+                "babel",
+                "plugin"
+            ],
+            "relatedLinks": []
         }
     ]
 }
