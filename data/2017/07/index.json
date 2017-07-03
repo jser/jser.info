@@ -192,6 +192,18 @@
                 "plugin"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-03T11:49:23.398Z",
+            "title": "sverweij/dependency-cruiser: Validate and visualize dependencies. With your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.",
+            "url": "https://github.com/sverweij/dependency-cruiser",
+            "content": "JavaScriptコード間の依存関係グラフを元に、指定したパスから指定したパスへの参照を禁止するルールなどを設定することができる。\nまた循環参照や存在しないモジュールの参照などもチェックできる",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
