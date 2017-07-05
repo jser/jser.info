@@ -204,6 +204,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-05T02:17:00.313Z",
+            "title": "Release v1.6.0 · babel/babel-preset-env",
+            "url": "https://github.com/babel/babel-preset-env/releases/tag/v1.6.0",
+            "content": "babel-preset-env v1.6.0リリース。\nNode.js 8に対応したcompat-tableへ更、`targets`の`chromeandroid`に対応など",
+            "tags": [
+                "babel",
+                "plugin",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
