@@ -244,6 +244,17 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-06T02:38:41.565Z",
+            "title": "Release v5.1.0 · npm/npm",
+            "url": "https://github.com/npm/npm/releases/tag/v5.1.0",
+            "content": "npm v5.1.0リリース。\n`package-lock.json`に`requires`フィールドを追加、`preferGlobal`オプションを非推奨にし警告は出さないように、`npm build`を間違えて呼び出した場合に警告するように、バグ修正など",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
