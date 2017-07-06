@@ -255,6 +255,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-06T10:31:34.428Z",
+            "title": "kentcdodds/babel-plugin-preval: Pre-evaluate code at build-time",
+            "url": "https://github.com/kentcdodds/babel-plugin-preval",
+            "content": "Babelでコンパイル時に評価して評価結果を埋め込むことができるプラグイン\n",
+            "tags": [
+                "babel",
+                "plugin"
+            ],
+            "relatedLinks": []
         }
     ]
 }
