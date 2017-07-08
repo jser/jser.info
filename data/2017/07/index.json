@@ -277,6 +277,18 @@
                 "webpack"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-08T03:31:59.608Z",
+            "title": "Release v2.0.0 · lerna/lerna",
+            "url": "https://github.com/lerna/lerna/releases/tag/v2.0.0",
+            "content": "monorepo管理ツールのlerna v2.0.0リリース。\n`yarn workspace`のサポート、`--canary`オプションの改善など。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
