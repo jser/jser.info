@@ -318,6 +318,17 @@
                     "url": "https://conf.vuejs.org/"
                 }
             ]
+        },
+        {
+            "date": "2017-07-09T06:35:22.237Z",
+            "title": "ESLint v4.2.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "http://eslint.org/blog/2017/07/eslint-v4.2.0-released",
+            "content": "ESLint v4.2.0リリース。\n`linter.verifyAndFix`が関数を受け付けるように、`getter-return`ルールの追加など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
