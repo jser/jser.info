@@ -367,6 +367,18 @@
                 "組織"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-10T02:01:25.695Z",
+            "title": "Experimenting with the background fetch API | Phil Nash",
+            "url": "https://philna.sh/blog/2017/07/04/experimenting-with-the-background-fetch-api/",
+            "content": "ServiceWorkerのbackground-fetching APIについて。\nバックグラウンドでダウンロードやファイルのアップロードを行うことを目的としたAPI",
+            "tags": [
+                "ServiceWorker",
+                "JavaScript",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
