@@ -340,6 +340,22 @@
                 "stream"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-10T01:50:48.622Z",
+            "title": "A Closer Look Into WebRTC | WebKit",
+            "url": "https://webkit.org/blog/7763/a-closer-look-into-webrtc/",
+            "content": "Safari 11でサポートされる予定のWebRTCについての解説。\n開発者向けの設定、後方互換性とadapter.js、audio-videoの送信例、Media Captureについてなど",
+            "tags": [
+                "safari",
+                "WebRTC"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "webrtc/adapter: Shim to insulate apps from spec changes and prefix differences. Latest adapter.js release:",
+                    "url": "https://github.com/webrtc/adapter"
+                }
+            ]
         }
     ]
 }
