@@ -379,6 +379,19 @@
                 "WebPlatformAPI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-10T02:22:30.964Z",
+            "title": "siddharthkp/bundlesize: Keep your bundle size in check",
+            "url": "https://github.com/siddharthkp/bundlesize",
+            "content": "CIからGitHubのステータスにbundleしたファイルサイズを通知、一定サイズを超えたらエラーとすることができるツール/GitHub App",
+            "tags": [
+                "webservice",
+                "CI",
+                "node.js",
+                "github"
+            ],
+            "relatedLinks": []
         }
     ]
 }
