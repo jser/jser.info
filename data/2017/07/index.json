@@ -445,6 +445,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-11T01:21:16.172Z",
+            "title": "Upcoming Regular Expression Features  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2017/07/upcoming-regexp-features",
+            "content": "現在Stage 3である正規表現の拡張Proposalの紹介記事。\nNamed Captures、`/./s` dotAll、Unicode Property Escapes、Lookbehind Assertionsについて",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "V8",
+                "正規表現"
+            ],
+            "relatedLinks": []
         }
     ]
 }
