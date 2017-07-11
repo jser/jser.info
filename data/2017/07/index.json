@@ -458,6 +458,18 @@
                 "正規表現"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-11T12:46:06.635Z",
+            "title": "JavaScript Test-Runners Benchmark – DailyJS – Medium",
+            "url": "https://medium.com/dailyjs/javascript-test-runners-benchmark-3a78d4117b4",
+            "content": "JavaScriptのテストフレームワークのベンチマーク比較。\n同期的なテスト、非同期的なテストでそれぞれjasmine、mocha、AVA、Jestなど著名なテストフレームワークの実行速度を比較したもの",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "benchmark"
+            ],
+            "relatedLinks": []
         }
     ]
 }
