@@ -19,7 +19,9 @@
   "bugs": {
     "url": "https://github.com/jser/jser.info/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "jser-classifier-item-category": "^1.6.1"
+  },
   "devDependencies": {
     "JSV": "~4.0.2",
     "ajv": "^4.11.3",
@@ -28,7 +30,6 @@
     "git-json-merge": "^0.4.4",
     "glob": "^7.0.5",
     "handlebars": "^4.0.6",
-    "jser-classifier-item-category": "^1.2.0",
     "jser-stat": "^3.1.0",
     "json-pointer": "^0.6.0",
     "json2yaml": "^1.1.0",
