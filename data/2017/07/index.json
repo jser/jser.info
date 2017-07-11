@@ -434,6 +434,17 @@
                     "url": "https://www.npmjs.com/package/node-bin"
                 }
             ]
+        },
+        {
+            "date": "2017-07-11T01:14:54.187Z",
+            "title": "Release JSDoc 3.5.0 · jsdoc3/jsdoc",
+            "url": "https://github.com/jsdoc3/jsdoc/releases/tag/3.5.0",
+            "content": "JSDoc 3.5.0 リリース。\nsemverではないので破壊的変更も含まれる。\nJSDocのパースにBabylonを利用するようになり、JSXなどもサポート。\nNode.js 4.2.0未満のサポート終了など",
+            "tags": [
+                "JSDoc",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
