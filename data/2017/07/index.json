@@ -413,6 +413,27 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-11T01:09:00.432Z",
+            "title": "Release v5.2.0 (2017-07-05) · npm/npm",
+            "url": "https://github.com/npm/npm/releases/tag/v5.2.0",
+            "content": "npm 5.2.0リリース\n`npx`コマンドが同梱されるようになった。`npx`はnpm registryやgistに登録されているCLIツールのパッケージをコマンド一つでダウンロードから実行までを行えるツール。\nまた`-p`オプションで特定バージョンのNode.jsでnpm scriptsなども実行できる。\n\n```\nnpx -p node-bin@6 npm test\n```",
+            "tags": [
+                "npm",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing npx: an npm package runner – Kat Marchán – Medium",
+                    "url": "https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b"
+                },
+                {
+                    "title": "node-bin",
+                    "url": "https://www.npmjs.com/package/node-bin"
+                }
+            ]
         }
     ]
 }
