@@ -494,6 +494,18 @@
                 "security"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-12T01:45:37.119Z",
+            "title": "azu/immutable-array-prototype: A collection of Immutable Array prototype methods(Per method packages).",
+            "url": "https://github.com/azu/immutable-array-prototype",
+            "content": "`Array#push`などの破壊的なメソッドの非破壊的なバージョンを集めたライブラリ。\nメソッド毎に個別のパッケージとしてインストールすることもできる。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "npm"
+            ],
+            "relatedLinks": []
         }
     ]
 }
