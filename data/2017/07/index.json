@@ -535,6 +535,18 @@
                     "url": "https://github.com/indutny/common-shake"
                 }
             ]
+        },
+        {
+            "date": "2017-07-14T02:35:58.385Z",
+            "title": "What's New In DevTools (Chrome 61)  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2017/07/devtools-release-notes",
+            "content": "Chrome 61の開発者ツールの変更点について。\nモバイルデバイスシミュレートにThrottlingの設定を追加、Storageの利用率の表示、Flamechartのマウスホイールの動作を設定可能に、ES Modulesのデバッグ対応など",
+            "tags": [
+                "Chrome",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
