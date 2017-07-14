@@ -561,6 +561,18 @@
                 "3D"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-14T04:34:19.312Z",
+            "title": "samccone/bundle-buddy: A tool to identify bundle duplication across splits.",
+            "url": "https://github.com/samccone/bundle-buddy",
+            "content": "webpackなどでCode Splittingした際に、各bundleファイル間で重複して含まれているモジュールを見つけることができるツール",
+            "tags": [
+                "webpack",
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
