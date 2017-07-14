@@ -518,6 +518,23 @@
                 "php"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-14T02:08:44.645Z",
+            "title": "indutny/webpack-common-shake: CommonJS Tree Shaker plugin for WebPack",
+            "url": "https://github.com/indutny/webpack-common-shake",
+            "content": "CommonJSのモジュールに対するTree Shakingを行うwebpackプラグイン",
+            "tags": [
+                "webpack",
+                "node.js",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "indutny/common-shake: CommonJS Tree Shaker API",
+                    "url": "https://github.com/indutny/common-shake"
+                }
+            ]
         }
     ]
 }
