@@ -585,6 +585,22 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-15T12:54:24.476Z",
+            "title": "Release v2.4.0 Kill la Kill · vuejs/vue",
+            "url": "https://github.com/vuejs/vue/releases/tag/v2.4.0",
+            "content": "Vue 2.4.0リリース。\nSSRでasync componentのサポート、コンポーネントオプションに`inheritAttrs`、インスタンスのプロパティに`$attrs`、`$listeners`を追加。\n`comments`オプションでテンプレート中のHTMLコメントを維持できるようになるなど",
+            "tags": [
+                "Vue",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Vue.js 2.4.0",
+                    "url": "http://vuejsdevelopers.com/2017/07/17/vue-js-2-4-important-features/?jsdojo_id=ech_v24"
+                }
+            ]
         }
     ]
 }
