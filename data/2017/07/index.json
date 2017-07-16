@@ -601,6 +601,24 @@
                     "url": "http://vuejsdevelopers.com/2017/07/17/vue-js-2-4-important-features/?jsdojo_id=ech_v24"
                 }
             ]
+        },
+        {
+            "date": "2017-07-16T08:19:17.520Z",
+            "title": "Let's Dev: A Package Manager | Yarn Blog",
+            "url": "https://yarnpkg.com/blog/2017/07/11/lets-dev-a-package-manager/",
+            "content": "Yarnのようなパッケージ管理ツールを作りながらそのデザインを見ていくチュートリアル。\nどのようにパッケージをダウンロードし、依存関係を解決し、リンクをしているかについて。\n依存関係をどのように最適化するかについて",
+            "tags": [
+                "yarn",
+                "JavaScript",
+                "tutorial",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "yarnpkg/lets-dev-demo",
+                    "url": "https://github.com/yarnpkg/lets-dev-demo"
+                }
+            ]
         }
     ]
 }
