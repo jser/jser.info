@@ -637,7 +637,7 @@
             ]
         },
         {
-            "date": "2017-07-16T08:53:16.625Z",
+            "date": "2017-07-16T08:53:37.470Z",
             "title": "Release 0.21.0 · avajs/ava",
             "url": "https://github.com/avajs/ava/releases/tag/v0.21.0",
             "content": "AVA 0.21.0リリース。\n`Buffer`を使っていてため、Node.js 4.5未満で動かない問題を修正、flowの型周りを修正",
@@ -645,7 +645,7 @@
                 "JavaScript",
                 "testing",
                 "library",
-                "rela"
+                "ReleaseNote"
             ],
             "relatedLinks": []
         }
