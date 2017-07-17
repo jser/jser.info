@@ -664,6 +664,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-17T11:46:13.588Z",
+            "title": "Release 8.0.0 · stylelint/stylelint",
+            "url": "https://github.com/stylelint/stylelint/releases/tag/8.0.0",
+            "content": "stylelint 8.0.0リリース。\nSemver policyの追加、新しいconfigとして`stylelint-config-recommended`を追加、ルールの削除やdeprecatedなど",
+            "tags": [
+                "CSS",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Semantic Versioning Policy",
+                    "url": "https://github.com/stylelint/stylelint/blob/8.0.0/README.md#semantic-versioning-policy"
+                }
+            ]
         }
     ]
 }
