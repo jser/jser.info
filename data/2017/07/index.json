@@ -705,6 +705,17 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-18T00:59:17.502Z",
+            "title": "Redux isn't slow, you're just doing it wrong - An optimization guide | React Rocket",
+            "url": "http://reactrocket.com/post/react-redux-optimization/",
+            "content": "Reduxを使ったアプリケーションのパフォーマンス・チューニングについての記事。`connect`オプションの利用、コンポートに必要最小限のデータを渡す、Reselectなどを使ってデータをフラットにすることについてなど\n",
+            "tags": [
+                "redux",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
