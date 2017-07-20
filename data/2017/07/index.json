@@ -774,6 +774,17 @@
                     "url": "https://www.safaribooksonline.com/library/view/refactoring-javascript/9781491964910/"
                 }
             ]
+        },
+        {
+            "date": "2017-07-20T09:18:20.891Z",
+            "title": "Node v8.2.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v8.2.0/",
+            "content": "Node v8.2.0リリース。\n`async_hooks`のPromise対応改善、`npm`が5.3.0へアップデート(npxが同梱される)など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
