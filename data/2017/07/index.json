@@ -785,6 +785,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-20T23:50:34.780Z",
+            "title": "Roadmap · Microsoft/ChakraCore Wiki",
+            "url": "https://github.com/Microsoft/ChakraCore/wiki/Roadmap#v160",
+            "content": "ChakraCore 1.6.0リリース。\nWebAssembly/SharedArrayBuffer/Dynamic module importがデフォルトで有効に。\nSIMDサポートを削除など",
+            "tags": [
+                "ChakraCore",
+                "ReleaseNote",
+                "WebAssembly"
+            ],
+            "relatedLinks": []
         }
     ]
 }
