@@ -808,6 +808,18 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-21T15:36:34.220Z",
+            "title": "Release Quantum Time · fuse-box/fuse-box",
+            "url": "https://github.com/fuse-box/fuse-box/releases/tag/v2.2.1",
+            "content": "FuseBox 2.2.1リリース。\n`fuse.js`を変更した際にキャッシュを削除するように、`writeBundles`オプションでin-memoryビルドができるようになるなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
