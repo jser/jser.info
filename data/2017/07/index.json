@@ -936,6 +936,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-24T14:51:05.573Z",
+            "title": "がんばらないTypeScriptのはじめ方 - 角待ちは対空",
+            "url": "http://blog.yux3.net/entry/2017/07/18/110000",
+            "content": "TypeSriptを緩く使う/JavaScriptからTypeScriptへの移行について。\nゆるく使う場合でも`noImplicitAny`と`strictNullChecks`を有効化することで防げるエラーがあることについて",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
