@@ -851,6 +851,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-24T01:32:49.873Z",
+            "title": "create-react-app/README.md at master · facebookincubator/create-react-app",
+            "url": "https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md",
+            "content": "`create-react-app`のユーザーガイド。\n典型的なウェブアプリケーションのクライアントにおける開発についてよくまとまっている。\nパッケージ管理方法、VCS、テスト、環境変数、エディタ、静的サーバ、デプロイ、SSR、パフォーマンス改善、分析など",
+            "tags": [
+                "React",
+                "document"
+            ],
+            "relatedLinks": []
         }
     ]
 }
