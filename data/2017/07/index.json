@@ -913,6 +913,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-24T08:41:41.787Z",
+            "title": "Extracting Logic from React Components",
+            "url": "https://javascriptplayground.com/blog/2017/07/react-extracting-logic/",
+            "content": "Reactコンポーネントに内蔵されてしまったロジックをコンポーネントから分離するリファクタリングについて",
+            "tags": [
+                "React",
+                "リファクタリング",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
