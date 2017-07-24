@@ -966,6 +966,23 @@
                     "url": "http://efcl.info/2017/07/24/almin-0.13/"
                 }
             ]
+        },
+        {
+            "date": "2017-07-24T15:02:17.780Z",
+            "title": "tsuyoshiwada/react-drip-form: HoC based React forms state manager, Support for validation and normalization.",
+            "url": "https://github.com/tsuyoshiwada/react-drip-form",
+            "content": "High Order ComponentベースのReact Form/バリデーションライブラリ。\n",
+            "tags": [
+                "React",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "もうReactのフォームで消耗したくないので、HoCベースのフォームライブラリを作った - wadackel.me",
+                    "url": "https://blog.wadackel.me/2017/react-drip-form/"
+                }
+            ]
         }
     ]
 }
