@@ -995,6 +995,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-25T00:14:00.343Z",
+            "title": "Rekit 2.0: new way of React development – Nate Wang – Medium",
+            "url": "https://medium.com/@nate_wang/rekit-2-0-next-generation-react-development-ce8bbba51e94",
+            "content": "React/Redux/React Routerをベースにしたウェブアプリ開発環境のRekit 2.0について。\nRekit PortalというComponent/Router/Actionの関係を可視化できるダッシュボードを持っている\n",
+            "tags": [
+                "React",
+                "redux",
+                "Tools",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "supnate/rekit-portal: Web UI for managing a Rekit project.",
+                    "url": "https://github.com/supnate/rekit-portal"
+                }
+            ]
         }
     ]
 }
