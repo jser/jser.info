@@ -1069,6 +1069,17 @@
                 "アンケート"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-28T07:41:53.217Z",
+            "title": "Update on Web Cryptography | WebKit",
+            "url": "https://webkit.org/blog/7790/update-on-web-cryptography/",
+            "content": "WebCrypto APIについて。\nネイティブ実装とライブラリの比較、基本的な使い方、非同期処理、利用できるアルゴリズム、prefix付きの`WebKitSubtleCrypto`から`SubtleCrypto`への移行について",
+            "tags": [
+                "JavaScript",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
