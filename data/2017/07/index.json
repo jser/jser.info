@@ -1119,6 +1119,23 @@
                     "url": "https://leanpub.com/thejsway"
                 }
             ]
+        },
+        {
+            "date": "2017-07-29T02:01:47.404Z",
+            "title": "Media Updates in Chrome 61  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2017/07/chrome-61-media-updates",
+            "content": "Chrome 61のMedia要素周りの変更点について。\nMSEを使った動画はバックグラウンド時にVideo Trackが無効化されるように、デバイスがrotateした場合に一定の条件で自動的に動画がフルスクリーンとなるように",
+            "tags": [
+                "Chrome",
+                "video",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "モバイル Web における動画再生  |  Web  |  Google Developers",
+                    "url": "https://developers.google.com/web/fundamentals/media/mobile-web-video-playback#fullscreen"
+                }
+            ]
         }
     ]
 }
