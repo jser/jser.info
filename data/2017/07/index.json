@@ -1102,6 +1102,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-29T01:39:52.339Z",
+            "title": "bpesquet/thejsway: The JavaScript Way book",
+            "url": "https://github.com/bpesquet/thejsway",
+            "content": "JavaScriptについて学べる入門本。\nJavaScript/ES2015+の基本的な文法の解説、DOM/DOM APIの解説、Node.jsなどを使って実際のウェブアプリを作るという内容",
+            "tags": [
+                "JavaScript",
+                "book",
+                "DOM"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The JavaScript Way by Baptiste Pesquet [Leanpub PDF/iPad/Kindle]",
+                    "url": "https://leanpub.com/thejsway"
+                }
+            ]
         }
     ]
 }
