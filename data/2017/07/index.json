@@ -1160,6 +1160,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-30T10:37:37.313Z",
+            "title": "PWAの実装をしてみた - 技術探し",
+            "url": "http://abouthiroppy.hatenablog.jp/entry/2017/07/28/101318",
+            "content": "React + React Router + webpackでPWAのApp Shellパターンの実装をする話。\nルーティングでCode Splitting、Service Workerでのキャッシュについて",
+            "tags": [
+                "ProgressiveWebApp",
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
