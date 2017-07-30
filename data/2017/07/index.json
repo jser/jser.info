@@ -1184,6 +1184,17 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-30T11:29:34.939Z",
+            "title": "[es6]research on ES6 `Proxy`",
+            "url": "https://gist.github.com/bellbind/8f33d81458dd454b430d4cd949076b30",
+            "content": "ES Proxyについての解説。\ntargetとtraoの不整合はTypeErrorを投げる。Proxy周りの仕様の読み方やtrapの種類や役割について。\n`Proxy.revocable`やユースケースについて",
+            "tags": [
+                "ECMAScript",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
