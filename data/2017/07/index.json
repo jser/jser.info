@@ -1038,16 +1038,21 @@
             "relatedLinks": []
         },
         {
-            "date": "2017-07-27T01:16:01.107Z",
+            "date": "2017-07-31T02:45:01.703Z",
             "title": "React 16 beta · Issue #10294 · facebook/react",
             "url": "https://github.com/facebook/react/issues/10294",
-            "content": "React 16βリリース。\n`Map`/`Set`に依存してるのでpolyfillが必要、Fiberを試験的にサポート。Stream SSRのサポート、Error bou\nndariesで子コンポーネントのエラーをキャッチできるように、bundleを提供するようになり`react/lib/*`は参照できなくなるなど",
+            "content": "React 16βリリース。 \n`Map`/`Set`に依存してるのでpolyfillが必要、Fiberを試験的にサポート。\nStream SSRのサポート、`componentDidCatch`で子コンポーネントのエラーをキャッチできるように、bundleを提供するようになり`react/lib/*`は参照できなくなるなど",
             "tags": [
                 "React",
                 "ReleaseNote",
                 "issue"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "React 16 β版 – 公式ドキュメント日本語訳 | maesblog",
+                    "url": "https://mae.chab.in/archives/59852"
+                }
+            ]
         },
         {
             "date": "2017-07-27T03:40:51.843Z",
