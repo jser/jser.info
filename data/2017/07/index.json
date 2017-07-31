@@ -1206,6 +1206,31 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-31T01:28:52.296Z",
+            "title": "esdoc/CHANGELOG.md at master · esdoc/esdoc",
+            "url": "https://github.com/esdoc/esdoc/blob/master/CHANGELOG.md#101-2017-07-30",
+            "content": "JavaScript向けのドキュメント生成ツールのESDoc 1.0.1リリース。\nコア部分もプラグイン化され、`esdoc-standard-plugin`にまとめられた。",
+            "tags": [
+                "JavaScript",
+                "document",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESDocという(多分)モダンなドキュメンテーションツールの紹介 - maru source",
+                    "url": "http://blog.h13i32maru.jp/entry/2017/07/31/081614"
+                },
+                {
+                    "title": "ESDoc - A Good Documentation Generator for JavaScript | esdoc-site",
+                    "url": "https://esdoc.org/manual/migration.html"
+                },
+                {
+                    "title": "esdoc/esdoc-plugins",
+                    "url": "https://github.com/esdoc/esdoc-plugins"
+                }
+            ]
         }
     ]
 }
