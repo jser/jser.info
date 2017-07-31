@@ -1250,6 +1250,24 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-07-31T11:44:49.728Z",
+            "title": "component test // Speaker Deck",
+            "url": "https://speakerdeck.com/bokuweb/component-test",
+            "content": "ビジュアルリグレッションツールのreg-suitについてのスライド。\nスナップショットとして保存した画像同士を比較しリグレッションを検知する。\nプラグインでスナップショットの保存先や通知先を変更できる。",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "UI",
+                "slide"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "reg-suit",
+                    "url": "https://reg-viz.github.io/reg-suit/"
+                }
+            ]
         }
     ]
 }
