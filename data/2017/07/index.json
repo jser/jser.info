@@ -1055,12 +1055,13 @@
             ]
         },
         {
-            "date": "2017-07-27T03:40:51.843Z",
+            "date": "2017-07-31T10:46:37.306Z",
             "title": "Error Handling in React 16 - React Blog",
             "url": "https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html",
-            "content": "React 16で入るError Boundariesについて。\n子コンポーネントで起きたエラーを親がキャッチできる`componentDidCatch`のライフサイクルメソッドが追加された",
+            "content": "React 16で入るError Boundariesについて。 子コンポーネントで起きたエラーを親がキャッチできる`componentDidCatch`のライフサイクルメソッドが追加された",
             "tags": [
-                "React"
+                "React",
+                "article"
             ],
             "relatedLinks": []
         },
