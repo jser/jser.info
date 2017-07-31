@@ -1231,6 +1231,18 @@
                     "url": "https://github.com/esdoc/esdoc-plugins"
                 }
             ]
+        },
+        {
+            "date": "2017-07-31T02:39:36.164Z",
+            "title": "Writing a Node.js module in TypeScript",
+            "url": "https://www.twilio.com/blog/2017/06/writing-a-node-module-in-typescript.html",
+            "content": "TypeScriptで書いたモジュールをnpmに公開するチュートリアル。\n",
+            "tags": [
+                "TypeScript",
+                "npm",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
