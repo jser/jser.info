@@ -260,6 +260,23 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-07T14:53:39.915Z",
+            "title": "Linting in Flow – Flow – Medium",
+            "url": "https://medium.com/flow-type/linting-in-flow-7709d7a7e969",
+            "viaURL": "https://github.com/jser/ping/issues/70",
+            "content": "Flow 0.52.0で追加されたFlow linterについての解説。\nESLintのように`.flowconfig`やコメントでチェック項目毎に有効/無効/エラーレベルの制御できる。",
+            "tags": [
+                "flowtype",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "flow/Changelog.md at v0.52.0 · facebook/flow",
+                    "url": "https://github.com/facebook/flow/blob/v0.52.0/Changelog.md"
+                }
+            ]
         }
     ]
 }
