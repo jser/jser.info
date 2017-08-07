@@ -262,11 +262,11 @@
             "relatedLinks": []
         },
         {
-            "date": "2017-08-07T14:53:39.915Z",
+            "date": "2017-08-07T14:57:02.996Z",
             "title": "Linting in Flow – Flow – Medium",
             "url": "https://medium.com/flow-type/linting-in-flow-7709d7a7e969",
             "viaURL": "https://github.com/jser/ping/issues/70",
-            "content": "Flow 0.52.0で追加されたFlow linterについての解説。\nESLintのように`.flowconfig`やコメントでチェック項目毎に有効/無効/エラーレベルの制御できる。",
+            "content": "Flow 0.52.0で追加されたFlow linterについての解説。\nESLintのように`.flowconfig`やコメントでルール毎に有効/無効/エラーレベルの制御できる。",
             "tags": [
                 "flowtype",
                 "article"
