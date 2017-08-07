@@ -1,0 +1,172 @@
+{
+    "list": [
+        {
+            "date": "2017-07-31T23:25:26.364Z",
+            "title": "Release v3.2.0 · storybooks/storybook",
+            "url": "https://github.com/storybooks/storybook/releases/tag/v3.2.0",
+            "content": "Storybook 3.2.0リリース。\nVueのサポート、メニューの階層表示をサポート、`onDeviceUI`のオプションをサポートなど",
+            "tags": [
+                "JavaScript",
+                "UI",
+                "debug",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing: Storybook for Vue 🎉 – Storybook – Medium",
+                    "url": "https://medium.com/storybookjs/introducing-storybook-for-vue-940f222541c5"
+                }
+            ]
+        },
+        {
+            "date": "2017-08-01T22:44:19.696Z",
+            "title": "deepsweet/hocs: A collection of Higher-Order Components for React",
+            "url": "https://github.com/deepsweet/hocs",
+            "content": "React用のHigh Order Componentを集めたライブラリ。\nPropsの除外、LifeCycleのhook、debounce、throttleなど",
+            "tags": [
+                "React",
+                "library"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-08-02T01:30:17.269Z",
+            "title": "Node.js 8 the Right Way - O'Reilly Media",
+            "url": "http://shop.oreilly.com/product/9781680501957.do",
+            "content": "2017年10月発売\nNode.js v8についての書籍",
+            "tags": [
+                "node.js",
+                "book"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-08-03T06:04:30.215Z",
+            "title": "JavaScriptフレームワーク選定の議論 - Qiita",
+            "url": "http://qiita.com/azu/items/2921f62127b8d3a1aa03",
+            "content": "JavaScriptのフレームワーク選定やTypeScript/Flowといった言語の選択について。 それぞれのカテゴリにどのような選択肢があり、どのように選択していくのかについて",
+            "tags": [
+                "JavaScript",
+                "library",
+                "opinion"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-08-02T14:43:08.647Z",
+            "title": "The Critical Request | CSS-Tricks",
+            "url": "https://css-tricks.com/the-critical-request/",
+            "content": "クリティカルリクエストについて。\n開発者ツールでリクエストのPriorityを見る方法、またPriorityはどのように付けられているか。\nFirst meaningful paintを妨害するリクエストの見つけ方、Priorityを`rel=preload`を使っての管理について",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "performance"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-08-03T08:22:07.760Z",
+            "title": "TestCafe v0.17.0 Released | TestCafe",
+            "url": "http://devexpress.github.io/testcafe/blog/testcafe-v0-17-0-released.html",
+            "content": "TestCafe v0.17.0リリース\n`testcafe-browser-provider-electron`の追加、`-c`オプションでConcurrentなテストを実行できるように、Automatic waitの仕組みを改善など",
+            "tags": [
+                "JavaScript",
+                "ReleaseNote",
+                "browser",
+                "testing"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-08-03T14:25:26.341Z",
+            "title": "Release v3.0.0 · sinonjs/sinon",
+            "url": "https://github.com/sinonjs/sinon/releases/tag/v3.0.0",
+            "content": "Sinon.js 3.0.0リリース。\nDeprecatedとなっていたメソッドを削除、Fake XHR/Fake Serverはniseモジュールへ移動された。\n`format.setFormatter`の追加など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migrating to v3.0 - Sinon.JS",
+                    "url": "http://sinonjs.org/releases/v3.0.0/migrating-to-3.0/"
+                },
+                {
+                    "title": "sinonjs/nise: Fake XHR and fake server",
+                    "url": "https://github.com/sinonjs/nise"
+                }
+            ]
+        },
+        {
+            "date": "2017-08-04T01:00:50.098Z",
+            "title": "V8 JavaScript Engine: V8 Release 6.1",
+            "url": "https://v8project.blogspot.com/2017/08/v8-release-61.html",
+            "content": "V8 6.1リリース。\n`Map`/`Set`/`Object#isPrototypeOf()`/`Reflect.construct`のパフォーマンス改善。\nasm.jsのコードを検証してからwasmへコンパイルするようになるなど",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Deprecations and Removals in Chrome 61  |  Web  |  Google Developers",
+                    "url": "https://developers.google.com/web/updates/2017/08/chrome-61-deprecations"
+                }
+            ]
+        },
+        {
+            "date": "2017-08-04T01:34:36.299Z",
+            "title": "Workspaces in Yarn | Yarn Blog",
+            "url": "https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/",
+            "content": "lernaのようなmonorepo管理の仕組みであるyarn workspaceについての紹介。\nオプションで有効化できる実験的な機能。リポジトリ内の複数のパッケージを管理して、それぞれのパッケージが依存するモジュールはsymlinkで解決できる。",
+            "tags": [
+                "yarn",
+                "npm"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-08-04T10:55:50.398Z",
+            "title": "インクルーシブHTML+CSS & JavaScript 多様なユーザーニーズに応えるフロントエンドデザインパターン | Heydon Pickering, 太田良典, 伊原力也, 株式会社Bスプラウト |本 | 通販 | Amazon",
+            "url": "https://www.amazon.co.jp/dp/4862463878",
+            "content": "2017年9月29日発売\nInclusive Design Patternsについての翻訳本",
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "accessibility",
+                "book"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Meet “Inclusive Front-End Design Patterns”, A New Smashing Book – Smashing Magazine",
+                    "url": "https://www.smashingmagazine.com/inclusive-design-patterns/"
+                }
+            ]
+        },
+        {
+            "date": "2017-08-05T03:17:41.560Z",
+            "title": "Glamorous v4 is here 💄 🎉 🎊 – Kent C. Dodds – Medium",
+            "url": "https://medium.com/@kentcdodds/glamorous-v4-is-here-c678fe02a39a",
+            "content": "CSS in JSなライブラリのglamorous v4リリース。\n`theme`引数の削除、`useDisplayNameInClassName`の削除。\n`withProps`、`propsAreCssOverrides`、`shouldClassNameUpdate`のサポートなど",
+            "tags": [
+                "CSS",
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v4.0.0 · paypal/glamorous",
+                    "url": "https://github.com/paypal/glamorous/releases/tag/v4.0.0"
+                },
+                {
+                    "title": "glamorous/README.md at master · paypal/glamorous",
+                    "url": "https://github.com/paypal/glamorous/blob/master/other/codemods/README.md"
+                }
+            ]
+        }
+    ]
+}
