@@ -179,6 +179,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-07T12:28:44.263Z",
+            "title": "StackBlitz",
+            "url": "https://stackblitz.com/",
+            "content": "VSCodeを使ったオンラインIDE、コードシェアサービス。\nHot reloading、npmモジュールの管理、書いたコードの公開などができる",
+            "tags": [
+                "webservice",
+                "editor"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "StackBlitz — Online VS Code IDE for Angular &amp; React ⚡",
+                    "url": "https://medium.com/@ericsimons/stackblitz-online-vs-code-ide-for-angular-react-7d09348497f4"
+                }
+            ]
         }
     ]
 }
