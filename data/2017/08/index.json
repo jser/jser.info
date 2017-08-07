@@ -248,21 +248,18 @@
             ]
         },
         {
-            "date": "2017-08-07T14:46:04.163Z",
+            "date": "2017-08-07T14:46:28.511Z",
             "title": "babel-preset-env@2.0 を試した \b-トランスパイル環境をスケールさせていく\b- | mediba Creator × Engineer Blog",
             "url": "http://ceblog.mediba.jp/post/163780014387/babel-preset-env-v2",
             "viaURL": "https://github.com/jser/ping/issues/70",
-            "content": "現在αリリースされているbabel-preset-env 2.0αについて。\n静的解析した結果のpolyfillだけを読み込む`\"useBuiltIns\": \"usage\"`の解説と挙動について。\n",
+            "content": "現在αリリースされているbabel-preset-env 2.0αについて。 静的解析した結果のpolyfillだけを読み込む`\"useBuiltIns\": \"usage\"`の解説と挙動について。",
             "tags": [
                 "babel",
-                "plugin"
+                "plugin",
+                "article",
+                "JavaScript"
             ],
-            "relatedLinks": [
-                {
-                    "title": "Discussion: useBuiltIns (usage only, not &#34;entry&#34; point method) · Issue #284 · babel/babel-preset-env",
-                    "url": "https://github.com/babel/babel-preset-env/issues/284"
-                }
-            ]
+            "relatedLinks": []
         }
     ]
 }
