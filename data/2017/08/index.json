@@ -167,6 +167,18 @@
                     "url": "https://github.com/paypal/glamorous/blob/master/other/codemods/README.md"
                 }
             ]
+        },
+        {
+            "date": "2017-08-07T12:08:52.405Z",
+            "title": "Release 2.5.0 - 2017.08.05 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v2.5.0",
+            "content": "core-js 2.5.0リリース。\n`Promise#finally`、`Promise.try`、`Array#flatten`、`Array#flatMap`の追加。\nCollectionの`of`/`from`静的メソッドの追加、`Math`のProposalの追加、DOM collectionのiterable対応の更新、ProposalのStage対応など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
