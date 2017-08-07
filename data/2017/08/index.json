@@ -228,6 +228,24 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-07T14:11:20.840Z",
+            "title": "複雑なJavaScriptアプリケーションに立ち向かうためのアーキテクチャ // Speaker Deck",
+            "url": "https://speakerdeck.com/shinpeim/fu-za-najavascriptapurikesiyonnili-tixiang-kautamefalseakitekutiya",
+            "viaURL": "https://github.com/jser/ping/issues/70",
+            "content": "見通しが悪いものを分割統治する話。\nプレゼンテーションとドメインの分離(MV*)、モデルをレイヤー分けについて。\nレイヤードアーキテクチャのコンセプトとしてのクリーンアーキテクチャやCQRSについて。\nまた具体的な実装についてなど",
+            "tags": [
+                "JavaScript",
+                "slide",
+                "設計"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "複雑なJavaScriptアプリケーションを考えながら作る話",
+                    "url": "http://azu.github.io/slide/2016/react-meetup/large-scale-javascript.html"
+                }
+            ]
         }
     ]
 }
