@@ -295,6 +295,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-08T11:53:50.735Z",
+            "title": "Release v3.1.0 · sinonjs/sinon",
+            "url": "https://github.com/sinonjs/sinon/releases/tag/v3.1.0",
+            "viaURL": "https://github.com/jser/ping/issues/70",
+            "content": "Sinon.js 3.1.0リリース\nsandboxにファクトリメソッドの追加、\n`sandbox.stub`のリグレッションの修正など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
