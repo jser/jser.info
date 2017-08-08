@@ -325,6 +325,18 @@
                     "url": "https://webpack.js.org/api/module-methods/"
                 }
             ]
+        },
+        {
+            "date": "2017-08-08T22:36:15.542Z",
+            "title": "Microsoft/napajs: Napa.js: Multi-threaded JavaScript runtime",
+            "url": "https://github.com/Microsoft/napajs",
+            "viaURL": "https://github.com/jser/ping/issues/70",
+            "content": "Node.jsで動くマルチスレッドライブラリ。元々BingでCPU-boundを扱うために作られたもの。\nスレッド(Worker)をまとめたZoneがあり、Zoneに対して値を渡してそれぞれのスレッドで処理が行える",
+            "tags": [
+                "JavaScript",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
