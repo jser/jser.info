@@ -308,6 +308,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-08T22:23:50.553Z",
+            "title": "Release v3.5.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v3.5.0",
+            "viaURL": "https://github.com/jser/ping/issues/70",
+            "content": "webpack v3.5.0リリース。\nDynamic Importに`webpackMode`のオプションを追加、`require.context`にcontext modeの第4引数を追加など",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Module API - Methods",
+                    "url": "https://webpack.js.org/api/module-methods/"
+                }
+            ]
         }
     ]
 }
