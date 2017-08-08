@@ -327,11 +327,11 @@
             ]
         },
         {
-            "date": "2017-08-08T22:36:15.542Z",
+            "date": "2017-08-08T22:44:46.078Z",
             "title": "Microsoft/napajs: Napa.js: Multi-threaded JavaScript runtime",
             "url": "https://github.com/Microsoft/napajs",
             "viaURL": "https://github.com/jser/ping/issues/70",
-            "content": "Node.jsで動くマルチスレッドライブラリ。元々BingでCPU-boundを扱うために作られたもの。\nスレッド(Worker)をまとめたZoneがあり、Zoneに対して値を渡してそれぞれのスレッドで処理が行える",
+            "content": "Node.jsで動くマルチスレッドライブラリ。元々BingでCPU-boundな処理を扱うために作られたもの。\nスレッド(Worker)をまとめたZoneがあり、Zoneに対して値を渡してそれぞれのスレッドで処理が行える",
             "tags": [
                 "JavaScript",
                 "node.js"
