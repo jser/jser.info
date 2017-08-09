@@ -350,6 +350,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-09T23:53:02.440Z",
+            "title": "Release Notes for Safari Technology Preview Release 37 | WebKit",
+            "url": "https://webkit.org/blog/7862/release-notes-for-safari-technology-preview-release-37/",
+            "viaURL": "https://github.com/jser/ping/issues/70",
+            "content": "Safari Technology Preview Release 37リリース。\n`navigator.sendBeacon`、`document.elementsFromPoint`のサポート。\n`Promise#finally`、optional `catch` bindingのサポートなど",
+            "tags": [
+                "safari"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "tc39/proposal-optional-catch-binding: proposal for ECMAScript to allow omission of the catch binding",
+                    "url": "https://github.com/tc39/proposal-optional-catch-binding"
+                }
+            ]
         }
     ]
 }
