@@ -384,6 +384,21 @@
                     "url": "https://medium.com/the-node-js-collection/get-ready-a-new-v8-is-coming-node-js-performance-is-changing-46a63d6da4de"
                 }
             ]
+        },
+        {
+            "date": "2017-08-11T04:34:34.165Z",
+            "title": "darcyclarke/rawkit: 🦊 Immediately Open Chrome DevTools when debugging Node.js apps",
+            "url": "https://github.com/darcyclarke/rawkit",
+            "viaURL": "https://github.com/jser/ping/issues/70",
+            "content": "Chromeの立ち上げと`node --inspect`のデバッガーへの接続を自動的に行うことができるツール",
+            "tags": [
+                "node.js",
+                "Chrome",
+                "Extension",
+                "console",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
