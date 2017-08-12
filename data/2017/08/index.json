@@ -413,6 +413,18 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-12T14:54:03.281Z",
+            "title": "Javascript Performance by mikesherov",
+            "url": "http://slides.com/mikesherov/javascript-performance",
+            "content": "パフォーマンス最適化についてのスライド。\n`O(n^2)`なアルゴリズムを避ける、キャッシュとメモ化、GCを避ける。\n不必要なImmutableを避ける、必要ないことはしない、パフォーマンス計測の仕方などについて。\nnpmやwebpackなど実際のプロジェクトの例などについて",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
