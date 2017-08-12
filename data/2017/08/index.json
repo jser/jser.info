@@ -399,6 +399,20 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-12T14:37:11.954Z",
+            "title": "JSON to TypeScript interfaces and runtime type-checkers – quicktype",
+            "url": "https://ts.quicktype.io/",
+            "viaURL": "https://github.com/jser/ping/issues/70",
+            "content": "JSONからTypeScript/JSON Schema/Go/C#/Elmなどの型定義/interfaceを生成することができるツール",
+            "tags": [
+                "JavaScript",
+                "JSON",
+                "TypeScript",
+                "webservice"
+            ],
+            "relatedLinks": []
         }
     ]
 }
