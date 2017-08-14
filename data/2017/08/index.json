@@ -471,6 +471,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-14T11:23:38.787Z",
+            "title": "Passing data between Promise callbacks",
+            "url": "http://2ality.com/2017/08/promise-callback-data-flow.html",
+            "content": "Promiseチェイン間における値のやり取りのパターンについて",
+            "tags": [
+                "Promises",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
