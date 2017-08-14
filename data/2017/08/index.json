@@ -482,6 +482,30 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-14T11:59:12.390Z",
+            "title": "Firefox 55 for developers - Mozilla | MDN",
+            "url": "https://developer.mozilla.org/ja/docs/Mozilla/Firefox/Releases/55",
+            "content": "Firefox 55リリース。\nObject spread/rest operator、SharedArrayBufferに対応。\nWebVR、requestIdleCallback、Intersection Observer API対応。\nまたSelection APIの仕様追従、Geo APIなどがSecure Contextのみで利用可能になるなど",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 55.0 リリースノート",
+                    "url": "https://www.mozilla.jp/firefox/55.0/releasenotes/"
+                },
+                {
+                    "title": "Firefox 55: first desktop browser to support WebVR ★ Mozilla Hacks – the Web developer blog",
+                    "url": "https://hacks.mozilla.org/2017/08/firefox-55-supports-webvr/"
+                },
+                {
+                    "title": "Dummy",
+                    "url": "http://example.com/"
+                }
+            ]
         }
     ]
 }
