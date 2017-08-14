@@ -459,6 +459,18 @@
                     "url": "https://github.com/nodejs/node-eps/blob/master/002-es-modules.md"
                 }
             ]
+        },
+        {
+            "date": "2017-08-14T11:09:29.153Z",
+            "title": "ream/ream: 🚀 Framework for building universal Vue.js app",
+            "url": "https://github.com/ream/ream",
+            "content": "Next.jsやNuxt.jsとは違いディレクトリ構造などの暗黙的な規約ではなく、明示的な設定/コードによりUniversalなVueアプリを作る目的のフレームワーク",
+            "tags": [
+                "Vue",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
