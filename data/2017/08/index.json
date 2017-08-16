@@ -599,6 +599,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-16T11:07:22.710Z",
+            "title": "Chromium Blog: Chrome 61 Beta: JavaScript modules, Payment Request API on desktop, Web Share API, and WebUSB",
+            "url": "https://blog.chromium.org/2017/08/chrome-61-beta-javascript-modules.html",
+            "content": "Chrom 61βリリース。\n`<script type=module>`のサポート、Payment Request API、Web Share API、WebUSB APIのサポート。\nExpect-CT HTTP headerのサポート、HTTPリクエストURLに`>`や`\\n`が含まれている場合にブロックするように",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Expect-CT Extension for HTTP",
+                    "url": "http://httpwg.org/http-extensions/expect-ct.html"
+                },
+                {
+                    "title": "Prevent requests to HTTP(S) URLs containing raw `\n` and `&lt;`. · Issue #546 · whatwg/fetch",
+                    "url": "https://github.com/whatwg/fetch/issues/546"
+                }
+            ]
         }
     ]
 }
