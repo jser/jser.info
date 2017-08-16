@@ -575,6 +575,17 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-16T00:50:38.586Z",
+            "title": "Node v8.4.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v8.4.0/",
+            "content": "Node v8.4.0リリース。\nフラグ付きで`http2`をサポート、`util.format`がオブジェクトを扱う`%o`と`%O`をサポートなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
