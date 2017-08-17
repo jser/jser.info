@@ -332,9 +332,9 @@ charenc@~0.0.1:
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/charenc/-/charenc-0.0.2.tgz#c0a1d2f3a7092e03774bfa83f14c0fc5790a8667"
 
-check-invalid-control-characters@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/check-invalid-control-characters/-/check-invalid-control-characters-1.0.3.tgz#c01234ce86e7146b0b44b4e134bfe3835a7aa14f"
+check-invalid-control-characters@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/check-invalid-control-characters/-/check-invalid-control-characters-1.1.0.tgz#359b0549d7fccb00fa5f9e5b08cf1449c7dec015"
   dependencies:
     globby "^6.1.0"
     meow "^3.7.0"
