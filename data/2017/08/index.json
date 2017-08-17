@@ -642,6 +642,23 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-17T23:17:30.456Z",
+            "title": "flow/Changelog.md at v0.53.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/blob/v0.53.0/Changelog.md",
+            "content": "Flow 0.53.0リリース。\nReactのモデルに対する型の改善。互換性のない変更も含まれるため`flow-upgrade`コマンドでマイグレーションできるようになっている",
+            "tags": [
+                "flowtype",
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "flow-upgrade | Yarn",
+                    "url": "https://yarnpkg.com/en/package/flow-upgrade"
+                }
+            ]
         }
     ]
 }
