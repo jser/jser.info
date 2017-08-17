@@ -4,7 +4,8 @@
   "description": "JSer.info repogitory.",
   "main": "index.js",
   "scripts": {
-    "test": "node tests/validate-json.js && node tests/check-json-by-textlint.js",
+    "test": "node tests/validate-json.js && node tests/check-json-by-textlint.js && npm run test:invalid",
+    "test:invalid": "check-invalid-control-characters 'data/**/*.json'",
     "gitter": "update-jser-stat && node tools/gitter/check-updatable.js"
   },
   "repository": {
@@ -26,6 +27,7 @@
     "JSV": "~4.0.2",
     "ajv": "^4.11.3",
     "bluebird": "^3.0.5",
+    "check-invalid-control-characters": "^1.0.3",
     "cheerio": "^0.22.0",
     "git-json-merge": "^0.4.4",
     "glob": "^7.0.5",
