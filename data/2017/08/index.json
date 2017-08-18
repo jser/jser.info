@@ -659,6 +659,20 @@
                     "url": "https://yarnpkg.com/en/package/flow-upgrade"
                 }
             ]
+        },
+        {
+            "date": "2017-08-18T01:40:20.042Z",
+            "title": "plouc/nivo: Make dataviz fun again",
+            "url": "https://github.com/plouc/nivo",
+            "content": "D3.jsとReactを使ったデータビジュアライズライブラリ。\nSVGの出力の対応やサーバサイドレンダリングをしてSVGを取得するHTTP APIなども用意されている。",
+            "tags": [
+                "JavaScript",
+                "d3.js",
+                "React",
+                "グラフ",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
