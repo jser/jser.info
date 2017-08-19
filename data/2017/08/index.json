@@ -661,16 +661,16 @@
             ]
         },
         {
-            "date": "2017-08-18T01:40:20.042Z",
+            "date": "2017-08-19T02:04:55.978Z",
             "title": "plouc/nivo: Make dataviz fun again",
             "url": "https://github.com/plouc/nivo",
-            "content": "D3.jsとReactを使ったデータビジュアライズライブラリ。\nSVGの出力の対応やサーバサイドレンダリングをしてSVGを取得するHTTP APIなども用意されている。",
+            "content": "D3.jsとReactを使ったデータビジュアライズコンポーネント。 SVGの出力の対応やサーバサイドレンダリングをしてSVGを取得するHTTP APIなども用意されている。",
             "tags": [
                 "JavaScript",
-                "d3.js",
                 "React",
-                "グラフ",
-                "library"
+                "d3.js",
+                "library",
+                "グラフ"
             ],
             "relatedLinks": []
         },
