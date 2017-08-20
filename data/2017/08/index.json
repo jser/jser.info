@@ -713,6 +713,24 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-20T07:47:22.389Z",
+            "title": "Rethinking drag and drop – Alex Reardon – Medium",
+            "url": "https://medium.com/@alexandereardon/rethinking-drag-and-drop-d9f5770b4e6b",
+            "content": "React向けの縦横リストのD&Dライブラリであるreact-beautiful-dndについて。\nどのようにアクセシビリティやパフォーマンスに気をつけて実装しているかについて書かれている",
+            "tags": [
+                "React",
+                "JavaScript",
+                "library",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "atlassian/react-beautiful-dnd: Beautiful, accessible drag and drop for lists with React.js",
+                    "url": "https://github.com/atlassian/react-beautiful-dnd"
+                }
+            ]
         }
     ]
 }
