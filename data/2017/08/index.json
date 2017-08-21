@@ -786,6 +786,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-21T23:38:48.908Z",
+            "title": "Release DOMPurify 1.0.0 · cure53/DOMPurify",
+            "url": "https://github.com/cure53/DOMPurify/releases/tag/1.0.0",
+            "content": "XSSサニタイズライブラリのDMOPurify 1.0.0リリース。\nコードベースをES2015にし、rollupしたものを配布するように。バグ修正など",
+            "tags": [
+                "DOM",
+                "ReleaseNote",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
