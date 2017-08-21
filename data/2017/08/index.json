@@ -744,6 +744,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-21T02:07:04.628Z",
+            "title": "The State of CSS in Angular – Angular Blog",
+            "url": "https://blog.angular.io/the-state-of-css-in-angular-4a52d4bd2700",
+            "content": "AngularのCSSについて。\nコンポーネントのカプセルCSS、Shadow DOMを使ったnativeのカプセル化、非推奨となった`/deep/`や`:ng-deep`について",
+            "tags": [
+                "CSS",
+                "Angular",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The New Angular ::ng-deep and the Shadow-Piercing Combinators Drop",
+                    "url": "https://hackernoon.com/the-new-angular-ng-deep-and-the-shadow-piercing-combinators-deep-and-drop-4b088dbe459"
+                }
+            ]
         }
     ]
 }
