@@ -798,6 +798,18 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-22T01:59:15.960Z",
+            "title": "HTTP/2 Server Push with Node.js | @RisingStack",
+            "url": "http://blog.risingstack.com/node-js-http-2-push/",
+            "content": "`--expose-http2`フラグで有効化できるNode.jsのHTTP/2でサーバプッシュを行う方法についてのサンプル",
+            "tags": [
+                "node.js",
+                "HTTP2",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
