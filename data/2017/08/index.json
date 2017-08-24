@@ -850,6 +850,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-24T03:27:51.536Z",
+            "title": "Release Inferno 3.8.0 · infernojs/inferno",
+            "url": "https://github.com/infernojs/inferno/releases/tag/v3.8.0",
+            "content": "Inferno 3.8.0リリース。\n`inferno-router`が非同期データ取得をサポート、`dangerouslySetInnerHtml`のバグ修正など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
