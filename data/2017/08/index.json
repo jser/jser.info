@@ -921,6 +921,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-28T08:02:05.705Z",
+            "title": "bumped/bumped: Makes easy release software",
+            "url": "https://github.com/bumped/bumped",
+            "content": "npm publishまわりの補助ツール。\nsemverに対するサブコマンドの対応、publishライフサイクルに対するパイプライン処理を書ける、プラグインでの拡張など",
+            "tags": [
+                "npm",
+                "node.js",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
