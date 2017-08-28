@@ -897,6 +897,19 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-28T03:44:09.964Z",
+            "title": "phenomnomnominal/ineeda: ineeda - auto-mocking for JavaScript with Proxies!",
+            "url": "https://github.com/phenomnomnominal/ineeda",
+            "content": "ES Proxyを使ったモックライブラリ。\n処理のintercept、処理の追加、TypeScriptとの型定義。",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
