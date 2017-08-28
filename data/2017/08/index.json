@@ -955,6 +955,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-28T13:05:16.456Z",
+            "title": "Release v0.4.0 · sonarwhal/sonar",
+            "url": "https://github.com/sonarwhal/sonar/releases/tag/0.4.0",
+            "content": "sonar v0.4.0リリース。\n`Strict-Transport-Security`/`Set-Cookie`ヘッダーをチェックするルール、`viewport`の値をチェックするルールの追加など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "web "
+            ],
+            "relatedLinks": []
         }
     ]
 }
