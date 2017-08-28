@@ -872,6 +872,18 @@
                 "WebComponents"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-28T03:35:01.712Z",
+            "title": "tsuyoshiwada/storybook-chrome-screenshot: A Storybook addon, Save the screenshot image of your stories via puppeteer.",
+            "url": "https://github.com/tsuyoshiwada/storybook-chrome-screenshot",
+            "content": "StorybookのスクリーンショットをHeadless Chromeでキャプチャするツール",
+            "tags": [
+                "Chrome",
+                "testing",
+                "スクリーンショット"
+            ],
+            "relatedLinks": []
         }
     ]
 }
