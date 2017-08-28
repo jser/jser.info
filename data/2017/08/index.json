@@ -862,6 +862,16 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-28T03:05:33.262Z",
+            "title": "Custom Elements Everywhere",
+            "url": "https://custom-elements-everywhere.com/",
+            "content": "AngularやReact、Vueなど各種Viewを含むフレームワークがCustom Elementsとどの程度協調処理できているかをまとめたテストスイート",
+            "tags": [
+                "WebComponents"
+            ],
+            "relatedLinks": []
         }
     ]
 }
