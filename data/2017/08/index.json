@@ -991,6 +991,18 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-28T22:59:52.207Z",
+            "title": "Release 1.6.0: Config File, JSX · prettier/prettier",
+            "url": "https://github.com/prettier/prettier/releases/tag/1.6.0",
+            "content": "prettier 1.6.0リリース。\n`.prettierrc`、`.prettierignore`の設定ファイルをサポート。\nJSXのサポート改善、TypeScript 2.5RCのサポート、CLIの引数でignoreパターンをサポートなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
