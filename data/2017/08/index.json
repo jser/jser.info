@@ -1028,6 +1028,17 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-08-31T05:16:14.384Z",
+            "title": "What's New In DevTools (Chrome 62)  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2017/08/devtools-release-notes",
+            "content": "Chrome 62の開発者ツールの更新点について。\nTop-level `await`がコンソールで利用可能に、特定のnodeのスクリーンショットを取れるように、CSS Gridのハイライト、コンソールフィルタの改善。\nまたHARをインポートできるようになり、キャッシュデータの閲覧ができるように",
+            "tags": [
+                "Chrome",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
