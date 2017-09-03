@@ -1,0 +1,55 @@
+{
+    "list": [
+        {
+            "date": "2017-09-01T03:12:38.450Z",
+            "title": "react-tools/react-move: React Move 🌀 Beautiful, data-driven animations for React",
+            "url": "https://github.com/react-tools/react-move",
+            "content": "Reactでデータドリブンなアニメーションを行うライブラリ",
+            "tags": [
+                "React",
+                "animation",
+                "library"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-09-01T08:50:00.392Z",
+            "title": "Announcing TypeScript 2.5 | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2017/08/31/announcing-typescript-2-5/",
+            "content": "TypeScript 2.5リリース。\nOptinal-catch-bindingのサポート、エディタ連携の改善、重複/aliasなパッケージの扱いを改善、`--preserveSymlinks`のサポートなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Typescript 2.5 リリース - abcdefGets",
+                    "url": "http://abcdef.gets.b6n.ch/entry/2017/09/01/143601"
+                }
+            ]
+        },
+        {
+            "date": "2017-09-02T06:32:10.130Z",
+            "title": "New Javascript Books",
+            "url": "https://newjavascriptbooks.com/",
+            "content": "JavaScriptについての新書をまとめてるサイト",
+            "tags": [
+                "JavaScript",
+                "book"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-09-02T06:42:05.248Z",
+            "title": "Ember.js - Ember 2.15 and 2.16 Beta Released",
+            "url": "https://emberjs.com/blog/2017/09/01/ember-2-15-released.html",
+            "content": "Ember 2.15リリース。\n`Ember.Router`のスーパーセットである`router` serviceの公開など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
