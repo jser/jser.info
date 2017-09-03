@@ -50,6 +50,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-03T23:15:20.353Z",
+            "title": "Concurrent JavaScript: It can work! | WebKit",
+            "url": "https://webkit.org/blog/7846/concurrent-javascript-it-can-work/",
+            "content": "`SharedArrayBuffer`が追加されるため、JavaScriptでThreadをサポートした場合にどうなるのかという思考実験についての記事。\n現在のJavaScript VMはシングルスレッドであることを利用しているので、マルチスレッドの場合のVMのパフォーマンスなどについて。",
+            "tags": [
+                "JavaScript",
+                "webkit"
+            ],
+            "relatedLinks": []
         }
     ]
 }
