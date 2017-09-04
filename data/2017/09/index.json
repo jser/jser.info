@@ -135,6 +135,24 @@
                     "url": "https://github.com/ckeditor/ckeditor5-design/issues/172"
                 }
             ]
+        },
+        {
+            "date": "2017-09-04T06:43:44.724Z",
+            "title": "Rendering on Google Search  |  Search  |  Google Developers",
+            "url": "https://developers.google.com/search/docs/guides/rendering",
+            "content": "Google Search Botのレンダリングサブシステムで利用してるChromeのバージョンやサポートしてない(無効化されている)機能について書かれてる。\n2017年9月4日現在はChrome 41をベースにしている",
+            "tags": [
+                "Chrome",
+                "google",
+                "SEO",
+                "browser"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "来日したGoogleゲイリーに何でも聞いてみた――プロジェクトOWL、検索アナリティクス、PWA etc. #inhouseseo | 海外SEO情報ブログ",
+                    "url": "https://www.suzukikenichi.com/blog/ama-with-gary/amp/"
+                }
+            ]
         }
     ]
 }
