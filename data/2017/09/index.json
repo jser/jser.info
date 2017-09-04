@@ -91,6 +91,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-04T05:41:45.278Z",
+            "title": "Measuring performance gains — AngularJS to React (with Redux or Mobx)",
+            "url": "https://medium.com/@guptagaruda/measuring-performance-gains-angularjs-to-react-with-redux-or-mobx-fb221517455",
+            "content": "3つのベンチマークアプリを元にAngular 1.xとReact/Redux/Mobxを比較した記事。\n現在も多くのエンタープライズアプリがAngular 1.xで動いているため、Reactに移ることでどのようなメリットがあるのかを計測する目的",
+            "tags": [
+                "React",
+                "Angular"
+            ],
+            "relatedLinks": []
         }
     ]
 }
