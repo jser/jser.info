@@ -153,6 +153,19 @@
                     "url": "https://www.suzukikenichi.com/blog/ama-with-gary/amp/"
                 }
             ]
+        },
+        {
+            "date": "2017-09-04T07:36:43.954Z",
+            "title": "React + RxJSで始める状態管理 - VOYAGE GROUP techlog",
+            "url": "http://techlog.voyagegroup.com/entry/2017/08/31/102915",
+            "content": "Write層とRead層を分けることでのメリットとデメリットについて。 \n複雑さに対する責務の分離と依存局所化について",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "almin",
+                "設計"
+            ],
+            "relatedLinks": []
         }
     ]
 }
