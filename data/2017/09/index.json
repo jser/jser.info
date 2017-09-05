@@ -63,19 +63,19 @@
             "relatedLinks": []
         },
         {
-            "date": "2017-09-03T23:16:29.400Z",
+            "date": "2017-09-05T00:03:22.521Z",
             "title": "Kea vs setState, Redux, Mobx, Dva, JumpState, Apollo, etc.",
             "url": "https://medium.com/@mariusandra/kea-vs-setstate-redux-mobx-dva-jumpstate-apollo-etc-4aa26ea11d02",
-            "content": "React向けのステート管理ライブラリのKeaについての記事。\n",
+            "content": "React向けのステート管理ライブラリのKeaについての記事。",
             "tags": [
                 "JavaScript",
-                "redux",
-                "React"
+                "React",
+                "redux"
             ],
             "relatedLinks": [
                 {
-                    "title": "Dummy",
-                    "url": "http://example.com/"
+                    "title": "Kea",
+                    "url": "https://kea.js.org/"
                 }
             ]
         },
