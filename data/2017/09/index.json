@@ -171,7 +171,7 @@
             "date": "2017-09-04T07:55:49.102Z",
             "title": "lukechilds/keyv: Simple key-value store with support for multiple backends",
             "url": "https://github.com/lukechilds/keyv",
-            "content": "redis、mysqlなどさまざまなバックエンドに対応してるシンプルなKVSライブラリ。\nMap的なAPIを実装したadpterを使うことでバックエンドを変更できる",
+            "content": "Redis、MySQLなどさまざまなバックエンドに対応してるシンプルなKVSライブラリ。\nMap的なAPIを実装したadpterを使うことでバックエンドを変更できる",
             "tags": [
                 "node.js",
                 "library"
