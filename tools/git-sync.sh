@@ -16,13 +16,14 @@ if [ -z "`git config user.email`" ]; then
     exit 1
 fi
 
+# Add files to stage for diffing
+git add .
 # git has uncommit content
 git diff --exit-code --quiet
 if [ $? -ne 0 ]; then
   # Uncommitted changes
   git pull
   if [ -n "${commitMessage}" ]; then
-    git add .
     git commit -m "${commitMessage}"
   fi
 fi
