@@ -1,6 +1,8 @@
 {
   "rules": {
-    "spellcheck-tech-word": true,
+    "proofdict": {
+      "autoUpdate": true
+    },
     "no-doubled-joshi": true
   }
 }
