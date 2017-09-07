@@ -217,6 +217,64 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-06T02:52:40.935Z",
+            "title": "Node v6.11.3 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v6.11.3/",
+            "content": "Node v6.11.3(LTS)リリース\nhash floodingの脆弱性の為無効になっていたV8のSnapshotsが再度有効化された。",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "V8 JavaScript Engine: About that hash flooding vulnerability in Node.js…",
+                    "url": "https://v8project.blogspot.jp/2017/08/about-that-hash-flooding-vulnerability.html"
+                }
+            ]
+        },
+        {
+            "date": "2017-09-06T05:52:12.970Z",
+            "title": "AngularDart 4",
+            "url": "http://news.dartlang.org/2017/09/angulardart-4.html",
+            "content": "AngularDart 4リリース",
+            "tags": [
+                "Angular",
+                "dart"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-09-06T05:57:56.856Z",
+            "title": "New in Chrome 61  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2017/09/nic61",
+            "content": "Chrome 61リリース。\n`<script type=module>`、`navigator.share`、WebUSB APIのサポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chrome Platform Status",
+                    "url": "https://www.chromestatus.com/features#browsers.chrome.desktop%3D61"
+                },
+                {
+                    "title": "Chromium Blog: Chrome 61 Beta: JavaScript modules, Payment Request API on desktop, Web Share API, and WebUSB",
+                    "url": "https://blog.chromium.org/2017/08/chrome-61-beta-javascript-modules.html"
+                }
+            ]
+        },
+        {
+            "date": "2017-09-07T03:37:06.800Z",
+            "title": "Release Notes for Safari Technology Preview 39 | WebKit",
+            "url": "https://webkit.org/blog/7913/release-notes-for-safari-technology-preview-39/",
+            "content": "Safari Technology Preview Release 39リリース。\nBeacon APIの改善、`FetchRequest.body`のサポート、Stage 3のRegExp `dotAll`のサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
