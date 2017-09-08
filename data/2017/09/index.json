@@ -275,6 +275,91 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-07T12:54:20.915Z",
+            "title": "AssemblyScript/assemblyscript: A subset of TypeScript that compiles to WebAssembly.",
+            "url": "https://github.com/AssemblyScript/assemblyscript",
+            "content": "TypeScriptのサブセットとして定義された言語。\nWebAssemblyへコンパイルすることができる。",
+            "tags": [
+                "TypeScript",
+                "WebAssembly"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-09-07T13:00:58.934Z",
+            "title": "React 16 RC · Issue #10294 · facebook/react",
+            "url": "https://github.com/facebook/react/issues/10294",
+            "content": "React 16 RCリリース。 `Map`/`Set`に依存してるのでpolyfillが必要、コアの書き直し(Fiber)。Stream SSRのサポート、`componentDidCatch`で子コンポーネントのエラーをキャッチできるように、bundleとして提供するようになるなど。",
+            "tags": [
+                "React",
+                "ReleaseNote",
+                "issue"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-09-07T14:27:33.682Z",
+            "title": "Polymer Summit 2017 - YouTube",
+            "url": "https://www.youtube.com/watch?v=tNulrEbTQf8",
+            "content": "Polymer Summit 2017の動画一覧",
+            "tags": [
+                "JavaScript",
+                "イベント",
+                "video"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Polymer Summit 2017",
+                    "url": "https://summit.polymer-project.org/"
+                }
+            ]
+        },
+        {
+            "date": "2017-09-07T14:40:31.322Z",
+            "title": "Google Developer Days Europe 2017 - YouTube",
+            "url": "http://www.youtube.com/playlist?list=PLOU2XLYxmsIJz-cYWfjQP8SV7n8C-PTVm",
+            "content": "Google Developer Days Europeの動画一覧",
+            "tags": [
+                "google",
+                "ProgressiveWebApp",
+                "イベント",
+                "video"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-09-07T14:51:53.994Z",
+            "title": "pinterest/service-workers: A collection of utilities for creating/testing/experimenting with service workers.",
+            "url": "https://github.com/pinterest/service-workers",
+            "content": "pinterestのService Workerツールチェイン。\nService Workerでキャッシュするファイルの管理、webpackプラグイン、テストなど",
+            "tags": [
+                "ServiceWorker",
+                "Tools",
+                "library"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2017-09-08T01:25:26.642Z",
+            "title": "Announcing Yarn 1.0 | Engineering Blog | Facebook Code",
+            "url": "https://code.facebook.com/posts/274518539716230",
+            "content": "Yarn 1.0リリース。\nYarn Workspaceがデフォルトで有効化、`yarn.lock`のパーサをモジュールに分離、`--cwd`のサポート、`yarn.lock`のコンフリクトを自動的に解消できるように。\n暗黙的な`file:`依存に警告を出すように、`yarn clean`が`yarn autoclean`へリネームなど",
+            "tags": [
+                "yarn",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v1.0.0 ! 🎉 · yarnpkg/yarn",
+                    "url": "https://github.com/yarnpkg/yarn/releases/tag/v1.0.0"
+                },
+                {
+                    "title": "@yarnpkg/lockfile",
+                    "url": "https://www.npmjs.com/package/@yarnpkg/lockfile"
+                }
+            ]
         }
     ]
 }
