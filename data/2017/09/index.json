@@ -382,6 +382,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-10T02:30:21.611Z",
+            "title": "Transform | All important transforms at one place.",
+            "url": "https://transform.now.sh/",
+            "content": "JSONからReact PropTypesやHTMLからJSX、GraphQLからTypeScriptなど色々な変換を行うツール。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "webservice"
+            ],
+            "relatedLinks": []
         }
     ]
 }
