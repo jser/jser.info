@@ -28,8 +28,8 @@ if [ -n "$(git status --porcelain --ignore-submodules -unormal)" ]; then
 fi
 
 if [ -n "$(git status --porcelain --ignore-submodules -unormal)" ]; then
+  type /usr/local/bin/terminal-notifier >/dev/null 2>&1 && /usr/local/bin/terminal-notifier -message "Error!!" -title "JSer.info"
+else
   git push
   type /usr/local/bin/terminal-notifier >/dev/null 2>&1 && /usr/local/bin/terminal-notifier -message "Sync!!" -title "JSer.info"
-else
-  type /usr/local/bin/terminal-notifier >/dev/null 2>&1 && /usr/local/bin/terminal-notifier -message "Error!!" -title "JSer.info"
 fi
