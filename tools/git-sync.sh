@@ -22,6 +22,7 @@ git add .
 if [ -n "$(git status --porcelain --ignore-submodules -unormal)" ]; then 
   # Uncommitted changes
   git pull
+  git add .
   if [ -n "${commitMessage}" ]; then
     git commit -m "${commitMessage}"
   fi
