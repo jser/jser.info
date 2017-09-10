@@ -394,6 +394,18 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-10T03:42:43.463Z",
+            "title": "fastify/fastify: Fast and low overhead web framework, for Node.js",
+            "url": "https://github.com/fastify/fastify",
+            "content": "Node.jsのウェブフレームワーク。 オーバーヘッドが小さなルーティング、Schemaベースなシリアライズ、express/connect互換のmiddlewareなどを持っている",
+            "tags": [
+                "library",
+                "node.js",
+                "サーバー"
+            ],
+            "relatedLinks": []
         }
     ]
 }
