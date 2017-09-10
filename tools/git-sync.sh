@@ -19,8 +19,7 @@ fi
 # Add files to stage for diffing
 git add .
 # git has uncommit content
-git diff --exit-code --quiet --staged
-if [ $? -ne 0 ]; then
+if [ -n "$(git status --porcelain --ignore-submodules -unormal)" ]; then 
   # Uncommitted changes
   git pull
   if [ -n "${commitMessage}" ]; then
@@ -28,8 +27,7 @@ if [ $? -ne 0 ]; then
   fi
 fi
 
-git diff --exit-code --quiet --staged
-if [ $? -eq 0 ];then
+if [ -n "$(git status --porcelain --ignore-submodules -unormal)" ]; then
   git push
   type /usr/local/bin/terminal-notifier >/dev/null 2>&1 && /usr/local/bin/terminal-notifier -message "Sync!!" -title "JSer.info"
 else
