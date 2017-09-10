@@ -406,6 +406,19 @@
                 "サーバー"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-10T11:27:30.327Z",
+            "title": "antonmedv/jsize: Find out minified and gzipped npm package size",
+            "url": "https://github.com/antonmedv/jsize",
+            "content": "npmモジュールのサイズ(gzip)を見ることができるツール。\n複数のモジュールを`+`で組み合わせると重複したモジュールも考慮した合計サイズを取得できる。",
+            "tags": [
+                "JavaScript",
+                "npm",
+                "node.js",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
