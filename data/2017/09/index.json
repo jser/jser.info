@@ -474,6 +474,17 @@
                 "まとめ"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-11T11:17:41.104Z",
+            "title": "allegro/node-worker-nodes: A node.js library to run cpu-intensive tasks in a separate processes and not block the event loop.",
+            "url": "https://github.com/allegro/node-worker-nodes",
+            "content": "Node.jsで複数のプロセスに分割してcpu-intensiveな処理を扱うライブラリ",
+            "tags": [
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
