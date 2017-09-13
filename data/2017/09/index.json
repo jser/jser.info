@@ -509,6 +509,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-13T02:43:28.809Z",
+            "title": "Zero-config code transformation with babel-macros · Babel",
+            "url": "https://babeljs.io/blog/2017/09/11/zero-config-with-babel-macros",
+            "content": "babel-macrosを使ったコンパイル時のマクロ処理について。\nコンパイル時にfsで取得したSVGをインライン化などに利用できる。",
+            "tags": [
+                "babel",
+                "article",
+                "plugin"
+            ],
+            "relatedLinks": []
         }
     ]
 }
