@@ -498,6 +498,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-13T01:06:26.068Z",
+            "title": "Node v8.5.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v8.5.0/",
+            "content": "Node.js v8.5.0リリース。\nV8 Snapshotを再有効化、`console.group`の実装、`fs.copyFile`の追加、`--experimental-modules`フラグでES modulesをサポート、Performance Timing APIのサポートなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
