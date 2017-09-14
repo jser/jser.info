@@ -554,6 +554,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-14T12:48:05.363Z",
+            "title": "Service Worker Lifecycle by Suguru Inatomi",
+            "url": "http://slides.com/laco/2017-09-14_sw-lifecycle#/",
+            "content": "Service Workerのライフサイクルについてのスライド。\nService Workerの登録から削除までのライフサイクルやWorkerの状態について。\nデモアプリで実際に実行して確認することができる。",
+            "tags": [
+                "ServiceWorker",
+                "slide"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Service Worker のライフサイクル  |  Web  |  Google Developers",
+                    "url": "https://developers.google.com/web/fundamentals/instant-and-offline/service-worker/lifecycle"
+                },
+                {
+                    "title": "SwLifecycleSandbox",
+                    "url": "https://sw-lifecycle-sandbox.firebaseapp.com/"
+                }
+            ]
         }
     ]
 }
