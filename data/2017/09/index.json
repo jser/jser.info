@@ -532,6 +532,17 @@
                 "flowtype"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-14T00:55:24.676Z",
+            "title": "V8 JavaScript Engine: V8 Release 6.2",
+            "url": "https://v8project.blogspot.com/2017/09/v8-release-62.html",
+            "content": "V8 v6.2リリース。\n`Object#toString()`、ES Proxyのパフォーマンス改善、RegExpの`dotAll`モードのサポート、FullCodeGen関連のコードを削除など",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
