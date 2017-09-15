@@ -586,6 +586,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-15T03:39:16.979Z",
+            "title": "Deploying ES2015+ Code in Production Today — Philip Walton",
+            "url": "https://philipwalton.com/articles/deploying-es2015-code-in-production-today/",
+            "content": "moduleをサポートしてるブラウザ向けとそれ以外でビルドしたファイルを分けて配信する方法について。\nwebpack/babelの設定、ファイルサイズやパース時間の違いなど",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "browser",
+                "webpack"
+            ],
+            "relatedLinks": []
         }
     ]
 }
