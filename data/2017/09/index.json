@@ -574,6 +574,18 @@
                     "url": "https://sw-lifecycle-sandbox.firebaseapp.com/"
                 }
             ]
+        },
+        {
+            "date": "2017-09-15T02:10:33.113Z",
+            "title": "Release 1.7.0: JSX tweaks, Pragma, TypeScript and CSS fixes · prettier/prettier",
+            "url": "https://github.com/prettier/prettier/releases/tag/1.7.0",
+            "content": "Prettier 1.7.0リリース。\nJSXのフォーマット変更、CSSの大文字小文字の統一、`@prettier`のpragmaをサポートなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
