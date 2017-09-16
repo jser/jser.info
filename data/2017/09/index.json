@@ -624,6 +624,18 @@
                 "Android"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-16T04:28:31.593Z",
+            "title": "ai/size-limit: Prevent JS libraries bloat. If you accidentally add a massive dependency, Size Limit will throw an error.",
+            "url": "https://github.com/ai/size-limit",
+            "content": "パッケージのサイズが一定以上になると例外を投げるCLIツール",
+            "tags": [
+                "JavaScript",
+                "library",
+                "npm"
+            ],
+            "relatedLinks": []
         }
     ]
 }
