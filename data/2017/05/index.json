@@ -793,7 +793,7 @@
             "tags": [
                 "JavaScript",
                 "React",
-                "サーバー",
+                "server",
                 "ReleaseNote"
             ],
             "relatedLinks": []
@@ -1080,7 +1080,7 @@
             "content": "Reactとサーバサイドレンダリングについての発表動画。\nSSRには表示を早くするメリットがあるがTTIは長くなる問題がある。\nこれを解決するために、一定のブロックでコンポーネントをプログレッシブにレンダリングすることでTTIを改善する案について。\nまた、Reactに`ReactDOMServerStream`が追加されたことについて。",
             "tags": [
                 "React",
-                "サーバー",
+                "server",
                 "video",
                 "performance"
             ],
