@@ -715,6 +715,31 @@
                     "url": "https://babeljs.io/blog/2017/03/01/upgrade-to-babel-7-for-tool-authors"
                 }
             ]
+        },
+        {
+            "date": "2017-09-18T14:42:19.526Z",
+            "title": "Autoplay Policy Changes  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2017/09/autoplay-policy-changes",
+            "content": "Chromeデスクトップの自動再生ポリシーの変更について。\nSafari 11と同様に音がある動画はユーザーインタラクションや幾つかの条件を満たした場合のみ自動再生が可能になる。\nMedia Engagement Indexやiframeの」`gesture=\"media\"`属性についてなど",
+            "tags": [
+                "Chrome",
+                "video",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Auto-Play Policy Changes for macOS | WebKit",
+                    "url": "https://webkit.org/blog/7734/auto-play-policy-changes-for-macos/"
+                },
+                {
+                    "title": "Chromium Blog: Unified autoplay",
+                    "url": "https://blog.chromium.org/2017/09/unified-autoplay.html"
+                },
+                {
+                    "title": "Autoplay - The Chromium Projects",
+                    "url": "https://sites.google.com/a/chromium.org/dev/audio-video/autoplay"
+                }
+            ]
         }
     ]
 }
