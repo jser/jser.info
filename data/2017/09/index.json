@@ -658,6 +658,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-18T04:46:37.805Z",
+            "title": "egoist/package-size: Get the bundle size of an npm package.",
+            "url": "https://github.com/egoist/package-size",
+            "content": "npmパッケージのbundleサイズを取得できるツール。\nbundleしたファイルサイズ、minified(webpack)、gzipのサイズを一覧できる",
+            "tags": [
+                "npm",
+                "library",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
