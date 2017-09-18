@@ -694,6 +694,27 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-18T12:43:54.230Z",
+            "title": "Planning for 7.0 · Babel",
+            "url": "https://babeljs.io/blog/2017/09/12/planning-for-7.0",
+            "content": "現在βがでているBabel 7.0の予定について。主な変更点やプロジェクトのゴールについて。",
+            "tags": [
+                "babel",
+                "article",
+                "opinion"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Upgrade to Babel 7 (WIP) · Babel",
+                    "url": "https://babeljs.io/blog/2017/03/01/upgrade-to-babel-7"
+                },
+                {
+                    "title": "Upgrade to Babel 7 for Tool Authors (WIP) · Babel",
+                    "url": "https://babeljs.io/blog/2017/03/01/upgrade-to-babel-7-for-tool-authors"
+                }
+            ]
         }
     ]
 }
