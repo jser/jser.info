@@ -752,6 +752,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-19T01:19:58.538Z",
+            "title": "Announcing CoffeeScript 2",
+            "url": "http://coffeescript.org/announcing-coffeescript-2/",
+            "content": "CoffeeScript 2リリース。 \nES2015+に準拠した変更が含まれる。`class`や`=>`がES2015と同等に、 偉業コメントが出力されるようになり、Async function、JSX、ES module、for...ofの対応など",
+            "tags": [
+                "CoffeeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
