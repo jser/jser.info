@@ -763,6 +763,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-19T01:30:43.542Z",
+            "title": "Building the DOM faster: speculative parsing, async, defer and preload ★ Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/",
+            "content": "JavaScriptやCSSなどのリソースのロードについて。\n`async`属性、`defer`属性、`rel=preload`でのロードの違いについての解説。\nリソースのロードとレンダリングのブロッキングについてを図解している。",
+            "tags": [
+                "DOM",
+                "browser",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
