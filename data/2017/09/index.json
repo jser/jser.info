@@ -775,6 +775,25 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-19T01:36:48.239Z",
+            "title": "Finally the Promise.prototype.finally() is available",
+            "url": "https://hospodarets.com/promise.prototype.finally",
+            "viaURL": "https://github.com/jser/ping/issues/76",
+            "content": "現在Stage 3のPromise#finallyについての解説。\nPromise#finallyのユースケースについてデモを交えての解説している。またasync/awaitとtry/catch/finallyの組み合わせとの類似点について。",
+            "tags": [
+                "Promises",
+                "JavaScript",
+                "ECMAScript",
+                "proposal"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "tc39/proposal-promise-finally: ECMAScript Proposal, specs, and reference implementation for Promise.prototype.finally",
+                    "url": "https://github.com/tc39/proposal-promise-finally"
+                }
+            ]
         }
     ]
 }
