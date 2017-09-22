@@ -832,6 +832,17 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-22T03:08:31.722Z",
+            "title": "Chromium Blog: Chrome 62 Beta: Network Quality Estimator API, OpenType variable fonts, and media capture from DOM elements",
+            "url": "https://blog.chromium.org/2017/09/chrome-62-beta-network-quality.html",
+            "content": "Chrome 62βリリース。\nNetwork Quality Estimator API、OpenType Variable Fontsのサポート。\nCSS color parserが`#RRGGBBAA`のような形式もサポート、MSEがFLACをサポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
