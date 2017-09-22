@@ -843,6 +843,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-22T03:53:21.619Z",
+            "title": "Safari 11.0",
+            "url": "https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Safari_11_0/Safari_11_0.html",
+            "content": "Safari 11.0リリース。 WebRTC、WebAssermbly、Media Capture API、WebCrypto APIのアルゴリズム追加、Resource timing APIのサポート。 CSSではVariable fonts、CSS strokeのサポート。 ホームスクリーンアプリでWebKitの機能をサポート、追跡クッキーの防止など",
+            "tags": [
+                "ReleaseNote",
+                "safari"
+            ],
+            "relatedLinks": []
         }
     ]
 }
