@@ -871,6 +871,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-22T23:13:30.307Z",
+            "title": "Relicensing React, Jest, Flow, and Immutable.js | Engineering Blog | Facebook Code",
+            "url": "https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/",
+            "content": "React、Jest、Flow、Immutable.jsはBSD + PatentライセンスからMITライセンスへ変更される。\n技術的要因以外で停滞するのは好ましくないため、エコシステムの基盤となるライブラリ/ツールのライセンス変更を決定した。",
+            "tags": [
+                "React",
+                "license",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
