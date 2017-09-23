@@ -922,6 +922,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-23T23:17:52.772Z",
+            "title": "Debugging in 2017 with Node.js - YouTube",
+            "url": "https://www.youtube.com/watch?v=Xb_0awoShR8",
+            "content": "Node.jsなアプリをChromeの開発者ツールでデバッグする方法についての発表。\n`process._debugProcess(pid)`での既存プロセスのデバッグ、開発者ツールをコードから扱う方法、`chrome://tracing`との連携などについて",
+            "tags": [
+                "node.js",
+                "Chrome",
+                "debug",
+                "video"
+            ],
+            "relatedLinks": []
         }
     ]
 }
