@@ -969,6 +969,22 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-24T15:20:28.434Z",
+            "title": "Upcoming TypeScript Changes in Vue 2.5 – The Vue Point – Medium",
+            "url": "https://medium.com/the-vue-point/upcoming-typescript-changes-in-vue-2-5-e9bd7e2ecf08",
+            "content": "Vue 2.5でTypeScriptの型定義周りが改善されることについて。\nまた、Vueのlanuguage-serverも併せて更新されているため、JavaScriptを使った場合もエディタでの補完などが改善される。",
+            "tags": [
+                "TypeScript",
+                "Vue"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "vetur/server at master · vuejs/vetur",
+                    "url": "https://github.com/vuejs/vetur/tree/master/server"
+                }
+            ]
         }
     ]
 }
