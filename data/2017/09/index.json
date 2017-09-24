@@ -935,6 +935,17 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-24T03:59:09.405Z",
+            "title": "uber/luma.gl: A JavaScript WebGL Framework for Data Visualization",
+            "url": "https://github.com/uber/luma.gl",
+            "content": "WebGLを使ったデータビジュアライゼーションフレームワーク。\nWebGL2にも対応していて、過度な抽象化を避けたAPIを提供する目的",
+            "tags": [
+                "WebGL",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
