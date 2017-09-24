@@ -985,6 +985,25 @@
                     "url": "https://github.com/vuejs/vetur/tree/master/server"
                 }
             ]
+        },
+        {
+            "date": "2017-09-24T15:30:33.428Z",
+            "title": "To type or not to type: quantifying detectable bugs in JavaScript | the morning paper",
+            "url": "https://blog.acolyer.org/2017/09/19/to-type-or-not-to-type-quantifying-detectable-bugs-in-javascript/",
+            "content": "JavaScriptに型注釈を加えることでどの程度バグを検出できるかという論文の紹介記事。\nGitHubで実際の修正コミットを元に、TSとFlowで型付けし、修正されたバグが検出できるかをテストした。\n型注釈をつけることで大体15%のバグは発見できた。",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "flowtype",
+                "論文",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Type or Not to Type:Quantifying Detectable Bugs in JavaScript",
+                    "url": "http://ttendency.cs.ucl.ac.uk/projects/type_study/documents/type_study.pdf"
+                }
+            ]
         }
     ]
 }
