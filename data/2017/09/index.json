@@ -1004,6 +1004,17 @@
                     "url": "http://ttendency.cs.ucl.ac.uk/projects/type_study/documents/type_study.pdf"
                 }
             ]
+        },
+        {
+            "date": "2017-09-25T03:22:32.325Z",
+            "title": "Lifecycle Simulators",
+            "url": "https://reactarmory.com/guides/lifecycle-simulators",
+            "content": "Reactコンポーネントのライフサイクルをシミュレートできるツール。\n初期化、Stateの更新、Propsの更新をそれぞれ試すことができる",
+            "tags": [
+                "React",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
