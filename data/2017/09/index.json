@@ -1066,6 +1066,19 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-26T05:50:54.221Z",
+            "title": "cherow/cherow: A fast, Typescript-based Javascript parser",
+            "url": "https://github.com/cherow/cherow",
+            "content": "TypeScriptで書かれたJavaScriptパーサ。\nESTree互換のASTを生成し、ES.nextなProposal仕様もサポートしている。",
+            "tags": [
+                "TypeScript",
+                "JavaScript",
+                "ECMAScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
