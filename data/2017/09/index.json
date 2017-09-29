@@ -1138,6 +1138,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-29T02:16:47.084Z",
+            "title": "JavaScript ♥ C++: Modern Ways to Use C++ in JavaScript Projects",
+            "url": "https://medium.com/@zandaqo/javascript-c-modern-ways-to-use-c-in-javascript-projects-a19003c5a9ff",
+            "content": "C++で書かれたコードをNode.jsで扱う方法について。\nN-APIを使ったネイティブモジュールとWebAssemblyを使った方法について。",
+            "tags": [
+                "node.js",
+                "WebAssembly"
+            ],
+            "relatedLinks": []
         }
     ]
 }
