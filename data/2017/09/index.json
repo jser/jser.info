@@ -1149,6 +1149,17 @@
                 "WebAssembly"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-29T13:48:10.976Z",
+            "title": "Release v0.56.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.56.0",
+            "content": "Flow 0.56.0リリース。\n`$Rest` typeの追加、`Object.create(null)`のような`null`プロトタイプのサポート、`__proto__`のサポートなど",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
