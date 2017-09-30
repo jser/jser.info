@@ -1160,6 +1160,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-30T09:59:17.652Z",
+            "title": "Abortable fetch  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2017/09/abortable-fetch",
+            "content": "Fetch APIなどでリクエストのキャンセルを行う`AbortController`と`AbortSignal`について。\n`fetch(url, { signal })`のようにFetch APIに渡す使い方やAPIの歴史的経緯についてなど",
+            "tags": [
+                "Fetch",
+                "API",
+                "Promises",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
