@@ -1196,6 +1196,18 @@
                 "UI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-09-30T12:31:40.614Z",
+            "title": "Path validation vulnerability, September 2017 | Node.js",
+            "url": "https://nodejs.org/en/blog/vulnerability/september-2017-path-validation/",
+            "content": "Node.js 8.5.0にはpathの`..`の扱いに脆弱性があるため8.6.0で修正されたリリースがされている。",
+            "tags": [
+                "node.js",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
