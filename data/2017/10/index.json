@@ -77,6 +77,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-01T14:19:23.091Z",
+            "title": "How to write reliable browser tests using Selenium and Node.js",
+            "url": "https://medium.freecodecamp.org/how-to-write-reliable-browser-tests-using-selenium-and-node-js-c3fdafdca2a9",
+            "content": "Seleniumを扱う時なぜ`sleep`を避けるべきかについて。\nNode.jsのselenium-webdriverを例に紹介してる。",
+            "tags": [
+                "node.js",
+                "Selenium",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
