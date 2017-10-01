@@ -89,6 +89,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-01T14:29:17.078Z",
+            "title": "How to drop Bower support? · Bower blog",
+            "url": "https://bower.io/blog/2017/how-to-drop-bower-support/",
+            "content": "ライブラリの開発者はどのようにBowerサポートを終了するべきかについて。\nリポジトリからbower.jsonなど関連ファイルを削除し、majorアップデートを行い、`bower unregister`はしないことについて",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
