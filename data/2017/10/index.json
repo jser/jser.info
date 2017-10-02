@@ -100,6 +100,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-02T05:00:43.727Z",
+            "title": "webpack-dev-server/middleware security issues – webpack – Medium",
+            "url": "https://medium.com/webpack/webpack-dev-server-middleware-security-issues-1489d950874a",
+            "content": "webpack-dev-serverにいくつか脆弱性があるため1.xと2.xそれぞれsecurity fixのリリースが行われた。",
+            "tags": [
+                "webpack",
+                "server",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
