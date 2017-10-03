@@ -127,10 +127,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2017-10-03T06:55:31.098Z",
+            "date": "2017-10-03T07:12:35.787Z",
             "title": "bahmutov/dont-break: Checks if the current version of your package would break dependent projects",
             "url": "https://github.com/bahmutov/dont-break",
-            "content": "自分のライブラリがアップデートすることで、そのライブラリユーザーの壊れないかをチェックできるツール。\n壊れないかをチェックするライブラリを`.dont-break.json`に記述してテストできる。",
+            "content": "自分のライブラリがアップデートすることで、そのライブラリユーザーのパッケージが壊れないかをチェックできるツール。 壊れないかをチェックするライブラリを`.dont-break.json`に記述してテストできる。",
             "tags": [
                 "JavaScript",
                 "library",
