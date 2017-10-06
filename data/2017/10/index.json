@@ -241,6 +241,18 @@
                     "url": "http://www.apress.com/us/book/9781484232514"
                 }
             ]
+        },
+        {
+            "date": "2017-10-06T03:19:59.824Z",
+            "title": "Release Notes for Safari Technology Preview 41 | WebKit",
+            "url": "https://webkit.org/blog/7989/release-notes-for-safari-technology-preview-41/",
+            "content": "Safari Technology Preview Release 41リリース。\nCSSの`calc()`内で`min()`と`max()`をサポート、`env()`を`constant()`のaliasとして追加、`DataTransfer.prototype.items`をデフォルトで有効化など",
+            "tags": [
+                "safari",
+                "webkit",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
