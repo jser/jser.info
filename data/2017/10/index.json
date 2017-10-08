@@ -274,6 +274,23 @@
                     "url": "http://www.janeasystems.com/blog/announcing-node-js-mobile-apps-true-node-js-runtime-android-ios/"
                 }
             ]
+        },
+        {
+            "date": "2017-10-08T12:44:54.986Z",
+            "title": "falcor/CHANGELOG.md at master · Netflix/falcor",
+            "url": "https://github.com/Netflix/falcor/blob/master/CHANGELOG.md#100",
+            "content": "NetflixのデータFetchライブラリであるFalcor 1.0.0リリース。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Falcor: One Model Everywhere",
+                    "url": "http://netflix.github.io/falcor/"
+                }
+            ]
         }
     ]
 }
