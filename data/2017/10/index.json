@@ -346,6 +346,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-09T13:43:27.039Z",
+            "title": "mdn/browser-compat-data: This repository contains compatibility data for Web technologies",
+            "url": "https://github.com/mdn/browser-compat-data",
+            "content": "MDNで使われるブラウザの実装状況/Compatability dataをまとめたリポジトリ。\nWeb API/CSS/HTML/HTTP/JavaScript/WebExtensionsについてのデータがまとまっている",
+            "tags": [
+                "Mozilla",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
