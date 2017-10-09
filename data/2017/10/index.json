@@ -319,6 +319,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-09T11:34:10.280Z",
+            "title": "raymondsze/create-react-scripts: Easily extend the react-scripts to your own version of react-scripts",
+            "url": "https://github.com/raymondsze/create-react-scripts",
+            "content": "create-react-scriptsの設定を拡張できるようにしたツール",
+            "tags": [
+                "React",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Create-React-Scripts — create your own react-scripts without fork",
+                    "url": "https://medium.com/@szer0601/create-react-scripts-create-your-own-react-scripts-without-fork-e73d384c7369"
+                }
+            ]
         }
     ]
 }
