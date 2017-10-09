@@ -308,6 +308,17 @@
                     "url": "http://www.apress.com/gb/book/9781484231791#aboutAuthors"
                 }
             ]
+        },
+        {
+            "date": "2017-10-09T11:20:28.542Z",
+            "title": "TypeScript at Lyft – Lyft Engineering",
+            "url": "https://eng.lyft.com/typescript-at-lyft-64f0702346ea",
+            "content": "LyftにおいてJavaScriptで書かれたものをTypeScriptにマイグレーションするまでの話。\nFlowとTypeScriptどちらもJavaScriptとは異なる言語という認識での比較やJavaScriptで書かれたReactコンポーネントのマイグレーションなどについて",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
