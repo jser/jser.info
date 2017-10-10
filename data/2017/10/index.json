@@ -397,6 +397,17 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document/scrollingElement"
                 }
             ]
+        },
+        {
+            "date": "2017-10-10T04:05:07.308Z",
+            "title": "Await and Async Explained with Diagrams and Examples – Nikolay Grozev",
+            "url": "http://nikgrozev.com/2017/10/01/async-await/",
+            "content": "Async/Awaitの動きについてをダイアグラムとサンプルコードで解説した記事。\nエラーハンドリング、concurrencyかparallelかについて",
+            "tags": [
+                "JavaScript",
+                "Promises"
+            ],
+            "relatedLinks": []
         }
     ]
 }
