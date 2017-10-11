@@ -441,6 +441,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-11T08:23:14.241Z",
+            "title": "Ember.js - Glimmer.js Progress Report",
+            "url": "https://emberjs.com/blog/2017/10/10/glimmer-progress-report.html",
+            "content": "Glimmer.jsについてのステータスについて。\nタグが`<Button />`のようにCapitalスタイルとなるように、要素のプロパティと属性を`@`で区別できるように、Portalのサポート。\nテンプレートをバイナリにするBinary Templatesのサポート予定やSSRについて",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Glimmer&#39;s Optimizing Compiler | Chad Hietala | Pulse | LinkedIn",
+                    "url": "https://www.linkedin.com/pulse/glimmers-optimizing-compiler-chad-hietala/"
+                }
+            ]
         }
     ]
 }
