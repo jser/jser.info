@@ -491,6 +491,18 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-12T12:45:30.967Z",
+            "title": "TestCafe v0.18.0 Released - Angular Selectors, Using Multiple Reporters, etc | TestCafe",
+            "url": "http://devexpress.github.io/testcafe/blog/testcafe-v0-18-0-released.html",
+            "content": "TestCafe v0.18.0リリース。\nAngular Selectorのサポート、出力に複数のreporterを指定できるように、FirefoxとChromeでクリーンなプロファイルを使うように、`t.getBrowserConsoleMessages`でコンソールに出力された内容を取得できるようになるなど",
+            "tags": [
+                "testing",
+                "E2E",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
