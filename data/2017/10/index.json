@@ -469,6 +469,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-12T09:08:04.100Z",
+            "title": "GoogleChrome/confluence: Service and API for Web API Confluence: Metrics for web platform health",
+            "url": "https://github.com/GoogleChrome/confluence",
+            "content": "各ブラウザの特有のAPIの数や削除したAPIの数、Shipに失敗したAPIの数、ベロシティなどを可視化してくれるサイト",
+            "tags": [
+                "browser",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
