@@ -536,6 +536,26 @@
                     "url": "https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript#typescript-26"
                 }
             ]
+        },
+        {
+            "date": "2017-10-13T06:04:38.333Z",
+            "title": "Release v2.5.0 Level E · vuejs/vue",
+            "url": "https://github.com/vuejs/vue/releases/tag/v2.5.0",
+            "content": "Vue 2.5.0リリース。\n`errorCaptured` hookでのエラーハンドリングができるように、TypeScriptの型を改善(破壊的変更)、`v-on`に`.exact` modifierを追加など",
+            "tags": [
+                "Vue",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Vue 2.5 release details",
+                    "url": "https://gist.github.com/yyx990803/9bdff05e5468a60ced06c29c39114c6b"
+                },
+                {
+                    "title": "Upcoming TypeScript Changes in Vue 2.5 – The Vue Point – Medium",
+                    "url": "https://medium.com/the-vue-point/upcoming-typescript-changes-in-vue-2-5-e9bd7e2ecf08"
+                }
+            ]
         }
     ]
 }
