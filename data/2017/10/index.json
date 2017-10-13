@@ -503,6 +503,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-13T02:28:04.352Z",
+            "title": "Cypress.io | JavaScript End to End Testing | Cypress is now public beta",
+            "url": "https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/",
+            "content": "E2EテストフレームワークのCypressがオープンソースとして公開された。",
+            "tags": [
+                "testing",
+                "browser",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "cypress-io/cypress: Cypress is a test runner that helps you write automated tests in the browser.",
+                    "url": "https://github.com/cypress-io/cypress"
+                }
+            ]
         }
     ]
 }
