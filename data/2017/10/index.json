@@ -590,6 +590,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-15T15:02:15.727Z",
+            "title": "What's New In DevTools (Chrome 63)  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2017/10/devtools-release-notes",
+            "content": "Chrome 63の開発者ツールについて。\nAuditsパネルにSynkDBを使った脆弱性情報の表示、Workspaces 2.0、remote debuggingが複数のクライアントの同時接続に対応など",
+            "tags": [
+                "Chrome",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 2.5.0 · GoogleChrome/lighthouse",
+                    "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v2.5.0"
+                }
+            ]
         }
     ]
 }
