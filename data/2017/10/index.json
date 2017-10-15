@@ -578,6 +578,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-15T11:02:14.483Z",
+            "title": "Dependency Inversion with Redux-Thunk & Typescript – Dave L. – Medium",
+            "url": "https://medium.com/@david.losert_73564/dependency-inversion-with-redux-thunk-typescript-e09cebabdc1f",
+            "content": "redux-thunkの`thunk.withExtraArgument(deps)`を使って依存関係逆転の原則(DIP)を適応する方法について",
+            "tags": [
+                "redux",
+                "testing",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
