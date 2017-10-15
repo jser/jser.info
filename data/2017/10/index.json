@@ -567,6 +567,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-15T10:16:40.706Z",
+            "title": "ESLint v4.9.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2017/10/eslint-v4.9.0-released",
+            "content": "ESLint 4.9.0リリース。\n`--fix`でdry-run実行を行う`--fix-dry-run`オプションの追加など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
