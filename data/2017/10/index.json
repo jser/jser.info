@@ -632,6 +632,19 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-16T13:22:20.122Z",
+            "title": "ProseMirror 1.0",
+            "url": "http://marijnhaverbeke.nl/blog/prosemirror-1.html",
+            "content": "ProseMirror 1.0リリース。\nProseMirrorはよりよいWYSIWYG-styleのエディタを実装できるコアライブラリで、ProseMirror自体は特定のドキュメント形式には依存していないことが特徴。\n1.xからは安定版とRFCプロセスによる開発を行うという話",
+            "tags": [
+                "JavaScript",
+                "editor",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
