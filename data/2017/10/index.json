@@ -656,6 +656,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-16T14:47:23.670Z",
+            "title": "Node.js - a tale of two bugs",
+            "url": "https://dev.to/mikeralphson/nodejs---a-tale-of-two-bugs-18c",
+            "content": "Node.jsで7.x以降にパフォーマンスリグレッションを見つけ、どのようにデバッグし問題を特定したかについて。\n原因としてはV8の`Error.captureStackTrace`のリグレッションであり、Node.js 8.7.0で修正される予定。",
+            "tags": [
+                "node.js",
+                "issue",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
