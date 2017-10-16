@@ -645,6 +645,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-16T14:31:19.042Z",
+            "title": "SpireTeam/whitelister: Simple, basic filtering and validation tool for Node.js.",
+            "url": "https://github.com/SpireTeam/whitelister",
+            "content": "依存がないフィルタリング/バリデーションライブラリ。\nデフォルトでは結果をPromiseで返し、`sync`メソッドで同期的に処理できる。\nルールに違反した場合はカスタムエラーを投げるようになっている",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
