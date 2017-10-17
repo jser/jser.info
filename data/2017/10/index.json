@@ -680,6 +680,26 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-17T00:53:07.824Z",
+            "title": "Release v3.7.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v3.7.0",
+            "content": "webpack v3.7.0リリース。\n`CommonChunkPlugin`プラグインに`deepChildren`オプションを追加を追加、ES modulesのchunk graphのリファクタリングでパフォーマンスの改善など",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Added deepChildren support from ArcEglos&#39; pull request by ljcrapo · Pull Request #5764 · webpack/webpack",
+                    "url": "https://github.com/webpack/webpack/pull/5764"
+                },
+                {
+                    "title": "webpack/examples/common-chunk-grandchildren at master · webpack/webpack",
+                    "url": "https://github.com/webpack/webpack/tree/master/examples/common-chunk-grandchildren"
+                }
+            ]
         }
     ]
 }
