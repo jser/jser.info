@@ -700,6 +700,17 @@
                     "url": "https://github.com/webpack/webpack/tree/master/examples/common-chunk-grandchildren"
                 }
             ]
+        },
+        {
+            "date": "2017-10-18T01:29:07.154Z",
+            "title": "What’s New in Microsoft Edge in the Windows 10 Fall Creators Update - Microsoft Edge Dev BlogMicrosoft Edge Dev Blog",
+            "url": "https://blogs.windows.com/msedgedev/2017/10/17/edgehtml-16-fall-creators-update/",
+            "content": "MSEdge 16の変更点について。\nCSS Grid Layout、objefct-fit、Payment Request APIのサポート。\nService Workerの試験的サポート、WebVR対応の改善など",
+            "tags": [
+                "MSEdge",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
