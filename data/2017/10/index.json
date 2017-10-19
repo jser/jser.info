@@ -711,6 +711,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-19T01:44:48.629Z",
+            "title": "Release Notes for Safari Technology Preview 42 | WebKit",
+            "url": "https://webkit.org/blog/8001/release-notes-for-safari-technology-preview-42/",
+            "content": "Safari Technology Preview 42リリース。\nPayment Requestの機能実装、`font-display`の実装、`constant()`が`env()`にリネーム、`link rel=preconnect`、`import.meta`のサポート、Web InspectorにCanvasタブを追加など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
