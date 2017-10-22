@@ -789,6 +789,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-22T12:31:59.371Z",
+            "title": "kbrsh/wade: Blazing fast, 1kb search for Javascript",
+            "url": "https://github.com/kbrsh/wade",
+            "content": "深さ優先探索で文字列検索を行うライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Inside Wade | Kabir Shah",
+                    "url": "https://blog.kabir.ml/posts/inside-wade.html"
+                }
+            ]
         }
     ]
 }
