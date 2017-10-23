@@ -912,6 +912,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-23T23:01:01.908Z",
+            "title": "Chrome User Experience Report  |  Tools for Web Developers  |  Google Developers",
+            "url": "https://developers.google.com/web/tools/chrome-user-experience-report/",
+            "content": "Chromeの使用統計データを元にしたoriginごとのRUMを集めたBigQueryのデータセット。\norigin、通信タイプ、デバイスの種類、first_paintのヒストグラムを扱うデータセット。",
+            "tags": [
+                "Chrome",
+                "統計"
+            ],
+            "relatedLinks": []
         }
     ]
 }
