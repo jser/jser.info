@@ -853,6 +853,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-23T12:31:26.041Z",
+            "title": "Introducing PayPal’s open-source cross-domain javascript suite",
+            "url": "https://medium.com/@bluepnume/introducing-paypals-open-source-cross-domain-javascript-suite-95f991b2731d",
+            "content": "Paypalが使ってるクロスドメイン関係のライブラリまとめ。\n`postMessage`を使ったやり取り、コンポーネント、Util、同期的なPromiseであるZalgoとsetTimeoutのブロックについて、CORSとiframeについてなど",
+            "tags": [
+                "JavaScript",
+                "library",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
