@@ -865,6 +865,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-23T12:43:34.958Z",
+            "title": "Micro Frontends - extending the microservice idea to frontend development",
+            "url": "https://micro-frontends.org/",
+            "content": "Micro Frontendsについて。\nマイクロサービスアーキテクチャ的な考えをフロントエンドの中にも適応していく話。\n機能でのチーム分割、独立したコンポーネントとWeb Components、ナビゲーションなど各トピックごとについて実現方法についてを書いていくとのこと",
+            "tags": [
+                "JavaScript",
+                "architecture",
+                "組織"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Micro frontends | Technology Radar | ThoughtWorks",
+                    "url": "https://www.thoughtworks.com/radar/techniques/micro-frontends"
+                }
+            ]
         }
     ]
 }
