@@ -829,6 +829,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-23T10:54:54.444Z",
+            "title": "The 100% correct way to structure a React app (or why there’s no such thing)",
+            "url": "https://hackernoon.com/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed",
+            "content": "Reactアプリケーションのディレクトリ構造について。\nindex.js or コンポーネント名.js、階層構造、exportするものについてなど",
+            "tags": [
+                "opinion",
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
