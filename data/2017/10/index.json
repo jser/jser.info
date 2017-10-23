@@ -882,6 +882,24 @@
                     "url": "https://www.thoughtworks.com/radar/techniques/micro-frontends"
                 }
             ]
+        },
+        {
+            "date": "2017-10-23T15:51:53.129Z",
+            "title": "CKEditor 5: A new era for rich text editing | CKEditor.com",
+            "url": "https://ckeditor.com/blog/CKEditor-5-A-new-era-for-rich-text-editing/",
+            "content": "CKEditor 5リリース。\n今までのアーキテクチャを一新し、編集するテキストをデータモデルとしてもつことでContentEditable特有の出力を回避できるように。\nまたエディタ共通の問題についてを扱うEditor Recommendationsサイトの公開など",
+            "tags": [
+                "JavaScript",
+                "editor",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Home | editor-recommendations",
+                    "url": "http://ckeditor.github.io/editor-recommendations/"
+                }
+            ]
         }
     ]
 }
