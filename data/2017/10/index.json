@@ -884,22 +884,17 @@
             ]
         },
         {
-            "date": "2017-10-23T15:51:53.129Z",
+            "date": "2017-10-24T02:15:07.082Z",
             "title": "CKEditor 5: A new era for rich text editing | CKEditor.com",
             "url": "https://ckeditor.com/blog/CKEditor-5-A-new-era-for-rich-text-editing/",
-            "content": "CKEditor 5リリース。\n今までのアーキテクチャを一新し、編集するテキストをデータモデルとしてもつことでContentEditable特有の出力を回避できるように。\nまたエディタ共通の問題についてを扱うEditor Recommendationsサイトの公開など",
+            "content": "CKEditor 5での変更点について。 今までのアーキテクチャを一新し、編集するテキストをデータモデルとしてもつことでContentEditable特有の出力を回避できるように。 またエディタ共通の問題についてを扱うEditor Recommendationsサイトの公開",
             "tags": [
                 "JavaScript",
+                "ReleaseNote",
                 "editor",
-                "library",
-                "ReleaseNote"
+                "library"
             ],
-            "relatedLinks": [
-                {
-                    "title": "Home | editor-recommendations",
-                    "url": "http://ckeditor.github.io/editor-recommendations/"
-                }
-            ]
+            "relatedLinks": []
         },
         {
             "date": "2017-10-23T15:58:21.767Z",
