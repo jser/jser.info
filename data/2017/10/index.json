@@ -970,6 +970,22 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Tools/Migrating_from_Firebug"
                 }
             ]
+        },
+        {
+            "date": "2017-10-25T16:04:00.091Z",
+            "title": "Node v8.8.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v8.8.0/",
+            "content": "Node.js 8.8.0リリース。\nhttpsがデフォルトで有効化、モジュールのhookを処理を扱えるコマンドライン引数として`--loader`の追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "module: resolve and instantiate loader pipeline hooks by guybedford · Pull Request #15445 · nodejs/node",
+                    "url": "https://github.com/nodejs/node/pull/15445"
+                }
+            ]
         }
     ]
 }
