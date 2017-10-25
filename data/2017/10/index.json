@@ -975,7 +975,7 @@
             "date": "2017-10-25T16:04:00.091Z",
             "title": "Node v8.8.0 (Current) | Node.js",
             "url": "https://nodejs.org/en/blog/release/v8.8.0/",
-            "content": "Node.js 8.8.0リリース。\nhttpsがデフォルトで有効化、モジュールのhookを処理を扱えるコマンドライン引数として`--loader`の追加など",
+            "content": "Node.js 8.8.0リリース。\nhttp2モジュールがデフォルトで有効化、モジュールのhookを処理を扱えるコマンドライン引数として`--loader`の追加など",
             "tags": [
                 "node.js",
                 "ReleaseNote"
