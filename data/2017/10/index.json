@@ -1045,6 +1045,19 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-26T23:21:13.890Z",
+            "title": "MicrosoftのNapa.jsでJavaScriptをマルチスレッド化する | PLAID engineer blog",
+            "url": "http://tech.plaid.co.jp/js_multi_threading/",
+            "content": "マルチプロセスのWorkerを扱うことができるnapajaについて。\nどのようなモチベーションや構造になっているかについて。\nZoneというワーカーのまとめ役やデータのやり取りの方法についてなど",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "library",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
