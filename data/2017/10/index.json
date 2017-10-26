@@ -997,6 +997,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-26T01:54:30.695Z",
+            "title": "Release 0.23.0 · avajs/ava",
+            "url": "https://github.com/avajs/ava/releases/tag/v0.23.0",
+            "content": "AVA 0.23.0リリース。\n`NODE_ENV=test`を設定するように、`snapshotLocation`を`pacakge.json`に書くことでsnapshotファイルの保存場所を指定できるように",
+            "tags": [
+                "testing",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
