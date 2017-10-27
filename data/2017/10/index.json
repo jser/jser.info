@@ -1082,6 +1082,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-27T02:30:55.174Z",
+            "title": "nicojs/node-install-local: Installs npm/yarn packages locally without symlink. Exactly the same as your production installation, no compromises.",
+            "url": "https://github.com/nicojs/node-install-local",
+            "content": "npm5やyarnはローカルのパッケージをsymlinkでインストールしてしまうため、symlinkに対応してないツールなどが動作しなくなる。\n通常のパッケージと同じようにディレクトリにインストールすることができるツール",
+            "tags": [
+                "npm",
+                "yarn",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
