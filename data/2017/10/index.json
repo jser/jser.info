@@ -1058,6 +1058,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-27T01:21:07.101Z",
+            "title": "Release 2.4.0 · fuse-box/fuse-box",
+            "url": "https://github.com/fuse-box/fuse-box/releases/tag/v2.4.0",
+            "content": "FuseBox 2.4.0 リリース。\nQuantum上でのUglify-esのサポート、Vue周りの対応改善、CLIをAPIとして使えるように",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
