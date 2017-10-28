@@ -1118,6 +1118,26 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-28T00:27:19.983Z",
+            "title": "Chromium Blog: Chrome 63 Beta: Dynamic module imports, async iterators and generators, Device Memory API, and permissions UI changes",
+            "url": "https://blog.chromium.org/2017/10/chrome-63-beta-dynamic-module-imports_27.html",
+            "content": "Chrome 63 Betaリリース。\nDynamic import、Async iterator、Device Memory API、Promise#finallyの実装、プッシュ通知などの許可ダイアログの変更など。\nまた、EventTargetの仕様追従、印刷時に`beforeprint`と`afterprint`イベントを発火するように、`/deep/`の削除など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "What&#39;s New In DevTools (Chrome 63)  |  Web  |  Google Developers",
+                    "url": "https://developers.google.com/web/updates/2017/10/devtools-release-notes"
+                },
+                {
+                    "title": "Permission UX  |  Web Fundamentals  |  Google Developers",
+                    "url": "https://developers.google.com/web/fundamentals/push-notifications/permission-ux"
+                }
+            ]
         }
     ]
 }
