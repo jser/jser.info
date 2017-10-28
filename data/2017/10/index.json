@@ -1165,6 +1165,19 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-28T15:16:05.552Z",
+            "title": "feimosi/frameworks-code-comparison: Code comparison of modern frameworks, based on React, Angular and Vue.js",
+            "url": "https://github.com/feimosi/frameworks-code-comparison",
+            "content": "Angular, React, Vueのコンポーネントで共通して行う処理の扱い方について比較したリポジトリ。\nそれぞれのライブラリごとの短い解説とコードスニペットを紹介してる。",
+            "tags": [
+                "Angular",
+                "React",
+                "Vue",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
