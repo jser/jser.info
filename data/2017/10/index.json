@@ -1213,6 +1213,27 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-30T08:25:21.211Z",
+            "title": "Property-Based Testing for Godly Tests",
+            "url": "https://www.slideshare.net/garbles/propertybased-testing-for-godly-tests",
+            "content": "Property-Based Testingについてのスライド。\nExample-Based Test、Fizz Test、\nProperty-Based Testのカバーできる範囲の違いや特徴について。\n`testcheck`を使ったテストやFlowの型定義からの自動生成についてなど\n",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "slide"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "unbounce/babel-plugin-transform-flow-to-gen: Flow + Babel + TestCheck == QuickCheck in JavaScript",
+                    "url": "https://github.com/unbounce/babel-plugin-transform-flow-to-gen"
+                },
+                {
+                    "title": "leebyron/testcheck-js: Generative testing for JavaScript",
+                    "url": "https://github.com/leebyron/testcheck-js"
+                }
+            ]
         }
     ]
 }
