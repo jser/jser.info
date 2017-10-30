@@ -1202,6 +1202,17 @@
                 "module"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-10-30T08:08:31.634Z",
+            "title": "Redux. From twitter hype to production by Jenya Terpil",
+            "url": "http://slides.com/jenyaterpil/redux-from-twitter-hype-to-production#/",
+            "content": "Reduxの動作フローについてのスライド。\nアニメーション画像によってView->Action->Reduder->Stateの流れについてを可視化している。",
+            "tags": [
+                "redux",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
