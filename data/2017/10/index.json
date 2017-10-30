@@ -1234,6 +1234,25 @@
                     "url": "https://github.com/leebyron/testcheck-js"
                 }
             ]
+        },
+        {
+            "date": "2017-10-30T09:04:07.123Z",
+            "title": "Unpopular Metrics about JS Bundlers – Andrea Giammarchi – Medium",
+            "url": "https://medium.com/@WebReflection/unpopular-metrics-about-js-bundlers-a3c56ea5390d",
+            "viaURL": "https://github.com/jser/ping/issues/85",
+            "content": "小さなbundleツールである`asbundle`について。 rollupより機能的にも小さくシンプル。ES moduleをbundleするだけのような機能を持っている",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "module",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "WebReflection/asbundle: A minimalistic CommonJS bundler",
+                    "url": "https://github.com/WebReflection/asbundle"
+                }
+            ]
         }
     ]
 }
