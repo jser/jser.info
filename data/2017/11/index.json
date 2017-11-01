@@ -61,6 +61,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-01T23:38:58.752Z",
+            "title": "Introducing new JavaScript optimizations, WebAssembly, SharedArrayBuffer, and Atomics in EdgeHTML 16 - Microsoft Edge Dev BlogMicrosoft Edge Dev Blog",
+            "url": "https://blogs.windows.com/msedgedev/2017/10/31/optimizations-webassembly-sharedarraybuffer-atomics-edgehtml-16/",
+            "content": "MSEdge 16の変更点について。\n特定のスコープの関数を遅延実行できるようにしパフォーマンスの改善、try-catch-finallyの最適化、\nWebAssemblyとSharedArrayBufferをデフォルトで有効化など",
+            "tags": [
+                "MSEdge",
+                "browser",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
