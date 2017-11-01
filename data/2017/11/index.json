@@ -41,6 +41,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-01T13:34:58.957Z",
+            "title": "Node v9.0.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v9.0.0/",
+            "content": "Node.js 9.0.0リリース。\nError codeの対応、`assert.deepStrictEqual`がSameValueZeroのロジックで比較するように、`assert`のメソッドがカスタムエラーをサポート、`util.callbackify`、`util.isDeepStrictEqual`の追加など。\nまた`Intl.v8BreakIterator`の削除されている。",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
