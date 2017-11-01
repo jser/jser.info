@@ -1,0 +1,15 @@
+{
+    "list": [
+        {
+            "date": "2017-11-01T02:06:52.632Z",
+            "title": "Announcing TypeScript 2.6 | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2017/10/31/announcing-typescript-2-6/",
+            "content": "TypeScript 2.6リリース。\n`strictFunctionTypes`のサポート、`--locale`での多言語化、`--watch`の改善、`// ts-ignore`のサポート。\nVSCodeなどでJSDocから型をQuickfixできるように、`@types`の自動インストール対応など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
