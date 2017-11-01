@@ -30,6 +30,17 @@
                     "url": "https://nodejs.org/en/blog/release/v9.0.0/"
                 }
             ]
+        },
+        {
+            "date": "2017-11-01T13:25:10.651Z",
+            "title": "Node v8.9.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v8.9.0/",
+            "content": "Node.js 8.9.0リリース。8.x系のLTSとして公開された。\nnpm 5.5.1へのアップデート、`require.resolve()`に指定パスを探索するオプションが追加、`util.TextEncoder`と`util.TextDecoder`のフラグが外れるなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
