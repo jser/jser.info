@@ -225,6 +225,18 @@
                     "url": "https://www.contentful.com/blog/2017/10/27/put-your-webpack-bundle-on-a-diet-part-3/"
                 }
             ]
+        },
+        {
+            "date": "2017-11-05T12:30:52.235Z",
+            "title": "Tracing method calls via Proxies",
+            "url": "http://2ality.com/2017/11/proxy-method-calls.html",
+            "content": "ES proxyを使ったメソッド呼び出しのロギングについて",
+            "tags": [
+                "JavaScript",
+                "proxy",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
