@@ -273,6 +273,20 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-07T15:43:18.451Z",
+            "title": "Docusaurus · Easy to Maintain Open Source Documentation Websites",
+            "url": "https://docusaurus.io/",
+            "content": "PrettierやJestなどが利用している静的サイトジェネレータ。\nReactを使ったカスタマイズ、翻訳への対応、ブログ機能やalgoliaを使った検索などライブラリサイト向けの機能を持っている。",
+            "tags": [
+                "React",
+                "Markdown",
+                "API",
+                "document",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
