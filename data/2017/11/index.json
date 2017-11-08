@@ -292,7 +292,7 @@
             "date": "2017-11-08T01:03:50.903Z",
             "title": "PolymerLabs/lit-html: HTML template literals in JavaScript",
             "url": "https://github.com/PolymerLabs/lit-html",
-            "content": "Tagged Template literalでHTMLを書いてレンダリングできるライブラリ。テンプレートのキャッシュが行われ再描画残すとを小さくするモチベーション。`<template>`要素との連携が考えられていて、Custom Elementでの利用がしやすくなっている。",
+            "content": "Tagged Template literalでHTMLを書いてレンダリングできるライブラリ。テンプレートのキャッシュが行われ再描画のコストを小さくするモチベーション。`<template>`要素との連携が考えられていて、Custom Elementでの利用がしやすくなっている。",
             "tags": [
                 "JavaScript",
                 "HTML",
