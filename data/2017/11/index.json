@@ -373,6 +373,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-10T09:14:08.864Z",
+            "title": "Release v16.1.0 · facebook/react",
+            "url": "https://github.com/facebook/react/releases/tag/v16.1.0",
+            "content": "React 16.1.0リリース。\nBowerのサポート終了、`React.Children` utilがPortalをサポート、React DOM Serverに`suppressHydrationWarning`の追加など",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
