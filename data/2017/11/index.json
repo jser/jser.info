@@ -350,6 +350,18 @@
                     "url": "https://hacks.mozilla.org/2017/11/go-beyond-console-log-with-the-firefox-debugger/"
                 }
             ]
+        },
+        {
+            "date": "2017-11-10T06:25:11.773Z",
+            "title": "ES proposal: `import.meta` – module metadata",
+            "url": "http://2ality.com/2017/11/import-meta.html",
+            "content": "Stage 3のECMAScript Proposalである`import.meta`について。\nモジュールのメタデータを扱うオブジェクトの仕様",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
