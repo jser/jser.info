@@ -333,6 +333,23 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-10T05:08:17.739Z",
+            "title": "Debugger PlayGround | Introduction | Mozilla",
+            "url": "https://mozilladevelopers.github.io/playground/debugger",
+            "content": "Firefoxの開発者ツールのチュートリアル。\nデバッガーの使い方、ブレークポイントの読み方、コールスタックの読み方などについて",
+            "tags": [
+                "firefox",
+                "debug",
+                "tutorial"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Go beyond console.log with the Firefox Debugger – Mozilla Hacks – the Web developer blog",
+                    "url": "https://hacks.mozilla.org/2017/11/go-beyond-console-log-with-the-firefox-debugger/"
+                }
+            ]
         }
     ]
 }
