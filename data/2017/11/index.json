@@ -418,6 +418,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-12T23:11:04.305Z",
+            "title": "Bogdan-Lyashenko/Under-the-hood-ReactJS: Entire React code base explanation by visual block schemes (Stack+Fiber versions)",
+            "url": "https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS",
+            "content": "Reactのコードベースの解説リポジトリ。\nコードの構造などの図などとともに、React Fiber、Stack reconcilerなどの解説をしてる",
+            "tags": [
+                "React",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Bogdan-Lyashenko/js-code-to-svg-flowchart: js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.",
+                    "url": "https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart"
+                }
+            ]
         }
     ]
 }
