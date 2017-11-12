@@ -407,6 +407,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-12T13:42:15.707Z",
+            "title": "lifenautjoe/noel: A universal, human-centric, replayable javascript event emitter.",
+            "url": "https://github.com/lifenautjoe/noel",
+            "content": "イベントハンドラを登録する前に発火したイベントも後からリプレイして再度発火することができるEventEmitterライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
