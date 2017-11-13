@@ -474,6 +474,17 @@
                     "url": "https://www.draft-js-plugins.com/"
                 }
             ]
+        },
+        {
+            "date": "2017-11-13T14:05:49.754Z",
+            "title": "High-performance service worker loading  |  Web Fundamentals  |  Google Developers",
+            "url": "https://developers.google.com/web/fundamentals/primers/service-workers/high-performance-loading",
+            "content": "Service Workerのローディングについてのプラクティス。\nHTMLのキャッシュ、Application Shellパターン、`fetch`ハンドラで何もしない処理を登録するのは避ける、preloadについて",
+            "tags": [
+                "ServiceWorker",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
