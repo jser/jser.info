@@ -456,6 +456,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-13T02:23:12.984Z",
+            "title": "Announcing DraftJS Plugins 2.0 – Nik Graf – Medium",
+            "url": "https://medium.com/@nikgraf/announcing-draftjs-plugins-2-0-8c25f2a4df55",
+            "content": "DraftJSのプラグイン集であるDraftJS Plugins 2.0リリース。\n画像の操作、整形、D&D、mentionやemojiなどに対応するプラグインを公開している。",
+            "tags": [
+                "JavaScript",
+                "React",
+                "plugin",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "DraftJS Plugins - High quality plugins with great UX",
+                    "url": "https://www.draft-js-plugins.com/"
+                }
+            ]
         }
     ]
 }
