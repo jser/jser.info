@@ -523,6 +523,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-14T12:38:50.295Z",
+            "title": "Release v0.59.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.59.0",
+            "content": "Flow 0.59.0リリース。\n`$ReadOnly<T>` utility typeの追加、パフォーマンスの改善、`/* flowlint sketchy-null:error */`のようなコメントでLintを有効化できるように",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
