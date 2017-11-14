@@ -485,6 +485,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-14T00:59:10.124Z",
+            "title": "Resource Prioritization – Getting the Browser to Help You  |  Web Fundamentals  |  Google Developers",
+            "url": "https://developers.google.com/web/fundamentals/performance/resource-prioritization",
+            "content": "リソース取得の優先度について。\n開発者ツールでの読み方、`preload`、`preconnect`(`dns-prefetch`)、`prefetch`での優先度の指定やそれぞれのユースケースの紹介など",
+            "tags": [
+                "performance",
+                "browser",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
