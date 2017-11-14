@@ -510,6 +510,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-14T01:25:17.948Z",
+            "title": "Browser automation revisited - meet Puppeteer",
+            "url": "https://nemethgergely.com/puppeteer-browser-automation/",
+            "content": "Puppeteerを使ったデバッグの自動化についての記事。\nコンソールログの取得、スクリーンショット、プロファイルの記録、HTTPリクエストの制御などを行う方法についてを紹介している",
+            "tags": [
+                "Chrome",
+                "JavaScript",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
