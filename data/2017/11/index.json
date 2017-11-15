@@ -534,6 +534,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-15T02:19:28.393Z",
+            "title": "Node v9.2.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v9.2.0/",
+            "content": "Node.js 9.2.0リリース。\n`fs.realpathSync.native`、`fs.realpath.native`、`process.ppid`がexposeされた",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
