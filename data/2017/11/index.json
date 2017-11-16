@@ -547,20 +547,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2017-11-16T01:58:42.366Z",
+            "date": "2017-11-16T02:29:05.803Z",
             "title": "moment/luxon: A library for working with dates and times in JS",
             "url": "https://github.com/moment/luxon",
-            "content": "日付や時間、インターバルを扱うライブラリ。\n日付操作やパース、フォーマットを行える。Immutableであり、TimeZoneやIntlを使った国際化を行える。\nMomentとの違いをまとめたドキュメントも公開されている。",
+            "content": "日付や時間、インターバルを扱うライブラリ。 日付操作やパース、フォーマットを行える。Immutableであり、TimeZoneやIntlを使った国際化に対応している。 Momentとの違いをまとめたドキュメントも公開されている。",
             "tags": [
                 "JavaScript",
                 "library"
             ],
-            "relatedLinks": [
-                {
-                    "title": "For Moment users",
-                    "url": "https://moment.github.io/luxon/docs/manual/faq/moment.html"
-                }
-            ]
+            "relatedLinks": []
         }
     ]
 }
