@@ -600,6 +600,18 @@
                     "url": "http://efcl.info/2017/11/15/performance.mark-metadata/"
                 }
             ]
+        },
+        {
+            "date": "2017-11-17T14:51:37.469Z",
+            "title": "Refactoring React Components with Jest’s Snapshot – Michael Romani – Medium",
+            "url": "https://medium.com/@mr4227/refactoring-react-components-with-jests-snapshot-7ed1b9d332cc",
+            "content": "Jestのsnapshotテストを使ったReactコンポーネントのリファクタリングについての記事。\nスナップショットを取ってから、でかいコンポーネントの細分化をテストしながら行う話",
+            "tags": [
+                "React",
+                "testing",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
