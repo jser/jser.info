@@ -578,6 +578,28 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-17T12:29:13.155Z",
+            "title": "`performance.mark` with metadata is useful for Real user monitoring",
+            "url": "https://dev.to/ben/we-welcome-a-wonderful-influx-of-new-members-from-japan-1k0",
+            "content": "`performance.mark`にメタデータとしてFPSを付加して計測して、ボトルネックになっている行動をログから解析、可視化する方法について",
+            "tags": [
+                "performance",
+                "browser",
+                "library",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "azu/performance-mark-metadata: `performance.mark` with custom meta data.",
+                    "url": "https://github.com/azu/performance-mark-metadata"
+                },
+                {
+                    "title": "performance.markにメタデータを紐付けできるライブラリを書いた | Web Scratch",
+                    "url": "http://efcl.info/2017/11/15/performance.mark-metadata/"
+                }
+            ]
         }
     ]
 }
