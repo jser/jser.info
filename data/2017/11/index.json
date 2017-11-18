@@ -672,6 +672,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-18T09:15:40.723Z",
+            "title": "The Cost Of JavaScript – Dev Channel – Medium",
+            "url": "https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e",
+            "content": "JavaScriptの実行までのコストについてを解説した記事。\nダウンロード、パース、実行のステップを踏む。同じサイズのJSと画像のコストは異なる点。\nPRPLパターン、Performance Budgetについて。",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
