@@ -612,6 +612,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-18T00:36:25.129Z",
+            "title": "stereobooster/react-snap: A zero-configuration static pre-renderer for Single Page Applications",
+            "url": "https://github.com/stereobooster/react-snap",
+            "content": "Reactをprerenderして静的なHTMLにできるライブラリ。\n設定なしでcreate-react-appと協調して動作することを目標にしている。SSRで扱うことが難しい3rdパーティスクリプトやWebGLなどがオプションで対処できる。",
+            "tags": [
+                "React",
+                "library",
+                "server"
+            ],
+            "relatedLinks": []
         }
     ]
 }
