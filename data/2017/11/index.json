@@ -719,6 +719,24 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-18T13:56:59.482Z",
+            "title": "Release v4.0.0-beta.1 · reactjs/redux",
+            "url": "https://github.com/reactjs/redux/releases/tag/v4.0.0-beta.1",
+            "content": "Redux v4.0.0-beta.1リリース。\nTypeScriptの更新、`INIT`をランダムな値に変更、IE11未満のサポートを終了、Dispatchのパフォーマンス改善など",
+            "tags": [
+                "redux",
+                "JavaScript",
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Redux 4 breaking changes · Issue #1342 · reactjs/redux",
+                    "url": "https://github.com/reactjs/redux/issues/1342"
+                }
+            ]
         }
     ]
 }
