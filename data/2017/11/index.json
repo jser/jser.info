@@ -813,6 +813,18 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Using_data_channels#Understanding_message_size_limits"
                 }
             ]
+        },
+        {
+            "date": "2017-11-19T09:29:24.956Z",
+            "title": "Release 2.6.0 · GoogleChrome/lighthouse",
+            "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v2.6.0",
+            "content": "lighthouse 2.6.0リリース。\n`redirects`などのチェックツールの追加。\n各スクリプトの起動時間を計測する`bootup-time`、ページの実行時間を計測する`mainthread-work-breakdown`などのAuditを追加",
+            "tags": [
+                "Chrome",
+                "performance",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
