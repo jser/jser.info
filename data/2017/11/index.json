@@ -748,6 +748,19 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-19T00:51:51.377Z",
+            "title": "React Redux を用いた SPA 新規サービスを運用して得た知見と実装例 - ランサーズ（Lancers）エンジニアブログ",
+            "url": "https://engineer.blog.lancers.jp/2017/11/react-redux-spa-manage-tips/",
+            "content": "React+Redux+Sagaを使ったプロジェクトについてのスライド。\nディレクトリ構成や基本的な処理の流れ、HOCを使ったコンポーネントの拡張、ダイアログやストレージへの保存などユースケース毎の実装方法について。\nまたテスト、Sentryを使ったエラー解析、SEO、APIの管理についてなどについて",
+            "tags": [
+                "React",
+                "redux",
+                "slide",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
