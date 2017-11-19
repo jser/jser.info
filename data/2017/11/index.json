@@ -837,6 +837,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-19T10:19:42.334Z",
+            "title": "jaredpalmer/razzle: ✨ Create server-rendered universal JavaScript applications with no configuration",
+            "url": "https://github.com/jaredpalmer/razzle",
+            "content": "UniversalなJavaScriptアプリケーションを設定なしで書き始められる開発環境ツール。\n`create-react-app`のようなツールだが、React以外でも利用できる。",
+            "tags": [
+                "isomorphic",
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
