@@ -773,6 +773,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-19T05:08:42.476Z",
+            "title": "goto-bus-stop/tinyify: a browserify plugin that runs various optimizations, so you don't have to install them all manually. makes your bundles tiny!",
+            "url": "https://github.com/goto-bus-stop/tinyify",
+            "content": "Browserifyでフラットbundle、unassert、productionビルド、minifyなどをまとめて行うプラグイン",
+            "tags": [
+                "browserify",
+                "plugin",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
