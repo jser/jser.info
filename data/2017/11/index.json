@@ -854,6 +854,18 @@
                     "url": "https://2017.js-kongress.de/"
                 }
             ]
+        },
+        {
+            "date": "2017-11-20T00:19:29.226Z",
+            "title": "jsdom/Changelog.md at master · tmpvar/jsdom",
+            "url": "https://github.com/tmpvar/jsdom/blob/master/Changelog.md#1140",
+            "content": "jsdom 11.4.0リリース。\n基本的なSVGのサポート、`pretendToBeVisual`オプションの追加、`prepend()/append()/before()/after()/replaceWith()`の追加、`<applet>`要素の削除など",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
