@@ -900,6 +900,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-21T01:16:30.372Z",
+            "title": "asfktz/autodll-webpack-plugin: Webpack's DllPlugin without the boilerplate",
+            "url": "https://github.com/asfktz/autodll-webpack-plugin",
+            "content": "webpackのDLLを簡単に扱えるようにするDLLプラグイン。\nパッケージの追加や設定の変更をトリガーに再ビルドできる。",
+            "tags": [
+                "webpack",
+                "plugin"
+            ],
+            "relatedLinks": []
         }
     ]
 }
