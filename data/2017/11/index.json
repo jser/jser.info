@@ -946,6 +946,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-23T06:29:48.893Z",
+            "title": "New in Firefox 58: Developer Edition – Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2017/11/new-in-firefox-58-developer-edition/",
+            "content": "Firefox 58について。\nデバッガーでフレームワークののスタックトレースが簡潔化、`console.groups`が折りたためるように。\nまた、WebVR、FLACのサポート艦橋の追加、`PerformanceNavigationTiming `のサポート、Budgetベースのバックグラウンドにおける処理の制限追加など",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
