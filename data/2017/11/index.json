@@ -980,6 +980,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-25T02:24:26.354Z",
+            "title": "imsnif/synp: Convert yarn.lock to package-lock.json and vice versa",
+            "url": "https://github.com/imsnif/synp",
+            "content": "`yarn.lock`ファイルと`package-lock.json`ファイルを相互変換できるツール。",
+            "tags": [
+                "yarn",
+                "npm",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
