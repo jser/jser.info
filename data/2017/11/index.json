@@ -1029,6 +1029,17 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-25T11:10:31.946Z",
+            "title": "WebAssemblyをNodeJS Native Addonの配布形式として使う - Islands in the byte stream",
+            "url": "http://gfx.hatenablog.com/entry/2017/11/16/231950",
+            "content": "Emscriptenを使ってWebAssembl形式にしたNodeモジュールを配布する方法について",
+            "tags": [
+                "node.js",
+                "WebAssembly"
+            ],
+            "relatedLinks": []
         }
     ]
 }
