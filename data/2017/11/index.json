@@ -1040,6 +1040,24 @@
                 "WebAssembly"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-26T06:33:42.211Z",
+            "title": "Bankai, the friendly web compiler – choo – Medium",
+            "url": "https://medium.com/choojs/bankai-the-friendly-web-compiler-35f1916679cc",
+            "content": "Browserifyを使った開発ツールキットについて",
+            "tags": [
+                "browserify",
+                "Tools",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "choojs/bankai: - friendly web compiler",
+                    "url": "https://github.com/choojs/bankai"
+                }
+            ]
         }
     ]
 }
