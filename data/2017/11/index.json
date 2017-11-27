@@ -868,13 +868,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2017-11-20T14:59:19.938Z",
+            "date": "2017-11-27T15:17:09.686Z",
             "title": "google/ts-style: ☂️ TypeScript style guide, formatter, and linter.",
             "url": "https://github.com/google/ts-style",
-            "content": "設定不要なコンパイル、コードフォーマット、Lintを行うTypeScript向けのツール。\nclang-format、TSLintを利用している。",
+            "content": "設定不要なコンパイル、コードフォーマット、Lintを行うTypeScript向けのツール。 clang-format、TSLintを利用している。",
             "tags": [
+                "Tools",
                 "TypeScript",
-                "Tools"
+                "console",
+                "google"
             ],
             "relatedLinks": []
         },
