@@ -1120,6 +1120,17 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-27T23:55:36.184Z",
+            "title": "ReactNative 本体のバージョンのアップグレードを行う - Qiita",
+            "url": "https://qiita.com/hotchpotch/items/5617caccd8749f410631",
+            "content": "ReactNativeの0.44.xから0.49.xへのアップグレードについて。\n`rn-diff`を使った変更内容のチェック、Xcode関係のアップデート、モジュールのマイグレーション、FlowとReactの型変更の対応などについて",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
