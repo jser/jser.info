@@ -1058,6 +1058,18 @@
                     "url": "https://github.com/choojs/bankai"
                 }
             ]
+        },
+        {
+            "date": "2017-11-27T13:14:34.251Z",
+            "title": "Learn Svelte",
+            "url": "https://svelte.technology/guide#state-management",
+            "content": "コンパイルできるUIフレームワークのSvelteにStoreが追加された。\nReduxやMobXなどのように`Store`でStateを管理し、変更の監視やcompuate propertyの管理ができる",
+            "tags": [
+                "JavaScript",
+                "library",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
