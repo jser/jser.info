@@ -1084,6 +1084,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-11-27T15:24:51.802Z",
+            "title": "naver/billboard.js: Re-usable, easy interface JavaScript chart library based on D3 v4+",
+            "url": "https://github.com/naver/billboard.js",
+            "content": "D3.jsを使ったC3.jsのようなグラフライブラリ。\nC3.jsをforkしたライブラリで、D3.js v4を使いC3.jsとの互換性を持っている",
+            "tags": [
+                "d3.js",
+                "グラフ",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
