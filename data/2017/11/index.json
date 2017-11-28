@@ -1020,15 +1020,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2017-11-25T04:01:05.799Z",
+            "date": "2017-11-28T00:42:19.100Z",
             "title": "dcodeIO/webassembly: A minimal toolkit and runtime to produce and run WebAssembly modules.",
             "url": "https://github.com/dcodeIO/webassembly",
-            "content": "WebAssemblyのツールキットとランタイム。\nwasmへのコンパイルに必要な依存の自動ダウンロードやコンパイルができる。\nまたwasm向けの`console`や`Match`などのバインディングを提供するランタイムも含まれている。",
+            "content": "WebAssemblyのツールキットとランタイム。 wasmへのコンパイルに必要な依存の自動ダウンロードやコンパイルができる。 またwasm向けの`console`や`Mtch`などのバインディングを提供するランタイムも含まれている。",
             "tags": [
-                "WebAssembly",
                 "Tools",
-                "node.js",
-                "browser"
+                "WebAssembly",
+                "browser",
+                "node.js"
             ],
             "relatedLinks": []
         },
