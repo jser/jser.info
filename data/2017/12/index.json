@@ -49,14 +49,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2017-12-01T15:03:15.283Z",
+            "date": "2017-12-01T15:03:33.674Z",
             "title": "shallow-equal for Object/React props | Web Scratch",
             "url": "http://efcl.info/2017/11/30/shallow-equal/",
             "content": "Shallow Equalを扱うライブラリについて。\nReactの`shouldComponentUpdate`をDeep Equal(`JSON.stringify`)で実装した場合とShallow Equalの速度差について。\nまたShallowな比較で済むように必要な状態管理についてなど。",
             "tags": [
                 "JavaScript",
                 "React",
-                "library"
+                "library",
+                "article"
             ],
             "relatedLinks": []
         }
