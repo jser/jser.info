@@ -71,6 +71,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-02T03:04:24.040Z",
+            "title": "Chromium のソースコードの歩き方",
+            "url": "http://nhiroki.jp/2017/12/01/chromium-sourcecode",
+            "content": "Chrome/Blinkのプロジェクト構造について。\nディレクトリ構造やそれぞれのディレクトリの意味などについて。\nbrowserとrendererでの大枠やBlink内の分け方、コードOwnerや依存の見かたについてなど",
+            "tags": [
+                "Chrome",
+                "blink",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
