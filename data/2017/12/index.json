@@ -119,6 +119,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-02T06:53:57.500Z",
+            "title": "Measuring the Performance of Firefox Quantum with RUM - Akamai Developer Blog",
+            "url": "https://developer.akamai.com/blog/2017/11/29/measuring-performance-firefox-quantum-rum/",
+            "content": "Firefox 52(ESR)とFirefox 57(Quantum)のAkamaiによるロードパフォーマンス比較。\nAkamaiのRUMによるとDOM Content Loadedの時間が24%改善されたとのこと",
+            "tags": [
+                "firefox",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
