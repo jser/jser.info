@@ -165,6 +165,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-04T03:32:27.937Z",
+            "title": "Almin.js がやってくれること - Qiita",
+            "url": "https://qiita.com/kmdsbng/items/dc03d89c0ca5acc30a44",
+            "content": "ビジネスロジックをViewなどとは分けた状態にして、DDDをやるための土台としてのAlminについて。\nAlminで書いた場合のアプリケーションの処理の流れやドメインオブジェクトの独立性について。",
+            "tags": [
+                "almin",
+                "DDD",
+                "article",
+                "JavaScript",
+                "React"
+            ],
+            "relatedLinks": []
         }
     ]
 }
