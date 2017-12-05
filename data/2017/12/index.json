@@ -249,6 +249,19 @@
                     "url": "https://github.com/vuejs/eslint-plugin-vue"
                 }
             ]
+        },
+        {
+            "date": "2017-12-05T01:39:56.637Z",
+            "title": "Vue.jsでD3.jsを使わずにグラフを実装する - Qiita",
+            "url": "https://qiita.com/haribote/items/0bbf6cf5720b078039ff",
+            "content": "Vueを使ってSVGでグラフを描画するする話。\nデータドリブンで折れ線グラフ、棒グラフ、円グラフなどをSVGで描画する仕組みの作り方について",
+            "tags": [
+                "Vue",
+                "SVG",
+                "グラフ",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
