@@ -221,6 +221,17 @@
                     "url": "https://github.com/tc39/agendas/blob/master/2017/11.md"
                 }
             ]
+        },
+        {
+            "date": "2017-12-05T01:30:31.314Z",
+            "title": "The npm Blog — v5.6.0 (2017-11-27)",
+            "url": "http://blog.npmjs.org/post/167963735925/v560-2017-11-27",
+            "content": "npm 5.6.0の変更点について。 クロスプラットフォームで`package-lock.json`の互換性が保てるようになった。 `pacakge-loc.json`を生成するだけの`--package-lock-only`オプションの追加、`--node-options`の追加など",
+            "tags": [
+                "ReleaseNote",
+                "npm"
+            ],
+            "relatedLinks": []
         }
     ]
 }
