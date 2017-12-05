@@ -262,6 +262,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-05T01:49:03.793Z",
+            "title": "Performance Calendar » Evolution of <img>: Gif without the GIF",
+            "url": "https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/",
+            "content": "GIFと`<video>`でのアニメーション画像について。\nSafari Technology Previewが`<img src=\".mp4\">`をサポートした話。\n`<video>`よりも`<img>`の方がパフォーマンスのよい理由。\nGIF、WebP、mp4でのファイルサイズの違いなどについて",
+            "tags": [
+                "safari",
+                "article",
+                "browser",
+                "video",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
