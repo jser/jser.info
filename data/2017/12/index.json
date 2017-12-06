@@ -315,6 +315,22 @@
                     "url": "https://medium.com/@devongovett/announcing-parcel-a-blazing-fast-zero-configuration-web-application-bundler-feac43aac0f1"
                 }
             ]
+        },
+        {
+            "date": "2017-12-06T12:48:42.171Z",
+            "title": "GoogleChromeLabs/jsvu: JavaScript (engine) Version Updater",
+            "url": "https://github.com/GoogleChromeLabs/jsvu",
+            "content": "各種JavaScriptエンジンをダウンロード、インストールできるツール。\neshost-cliと組み合わせることでChakra、JavaScriptCore、SpiderMonkey、V8でのJavaScript実行結果を同時に得られる。",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "bterlson/eshost-cli: Run ECMAScript code uniformly across any ECMAScript host",
+                    "url": "https://github.com/bterlson/eshost-cli"
+                }
+            ]
         }
     ]
 }
