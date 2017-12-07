@@ -342,6 +342,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-07T01:38:45.183Z",
+            "title": "Release Notes for Safari Technology Preview 45 | WebKit",
+            "url": "https://webkit.org/blog/8039/release-notes-for-safari-technology-preview-45/",
+            "content": "Safari Technology Preview Release 45リリース。\nSVGフィルターの最適化、`display:contents`をデフォルトで有効化、`OffscreenCanvas.getContext(\"webgl\")`を実装など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
