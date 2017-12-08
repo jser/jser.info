@@ -377,6 +377,18 @@
                 "Chrome"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-08T01:26:22.495Z",
+            "title": "await vs return vs return await - JakeArchibald.com",
+            "url": "https://jakearchibald.com/2017/await-vs-return-vs-return-await/",
+            "content": "async functionの中で`await`と`return`、`return await`の違いについてを解説した記事",
+            "tags": [
+                "Promises",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
