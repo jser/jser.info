@@ -400,6 +400,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-09T06:31:48.034Z",
+            "title": "Node.js Performance 改善ガイド - from scratch",
+            "url": "http://yosuke-furukawa.hatenablog.com/entry/2017/12/05/125517",
+            "content": "Node.jsのパフォーマンスの調査や測定をする方法について。\nメモリリーク、CPUの処理時間、ファイルI/O、ネットワークのボトルネック調査について。\nまたJavaScriptのdeoptが起きてないか、クラスタやNative Addonなどの代替手法についてなど",
+            "tags": [
+                "node.js",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
