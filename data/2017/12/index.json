@@ -495,6 +495,18 @@
                 "WebPlatformAPI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-09T07:46:20.572Z",
+            "title": "mochify.js/CHANGES.md at v5.0.0 · mantoni/mochify.js",
+            "url": "https://github.com/mantoni/mochify.js/blob/v5.0.0/CHANGES.md",
+            "content": "Mochaを使ったテストをブラウザで動かすMchify 5.0.0リリース。\nPhantomJSからHeadless Chromeに変更、`--url`オプションの追加など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
