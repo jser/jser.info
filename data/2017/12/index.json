@@ -483,6 +483,18 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-09T07:08:18.968Z",
+            "title": "歴史的遺物callback interfaceの紹介 - Qiita",
+            "url": "https://qiita.com/yuki3/items/ab20985e70247c80d19c",
+            "content": "`addEventListener`のcallback interfaceと`requestAnimationFrame`などのcallback functionという仕様の違いついて。\nイベントハンドラにおける`handleEvent`の動作について",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
