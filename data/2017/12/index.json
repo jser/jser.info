@@ -438,7 +438,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2017-12-09T06:52:35.951Z",
+            "date": "2017-12-09T06:55:04.154Z",
             "title": "Prototype Tree · TryCatch",
             "url": "https://zhirzh.github.io/2017/12/06/prototype-tree/",
             "content": "JavaScriptオブジェクトのprototypeツリーをD3.jsを使って可視化する話",
@@ -448,7 +448,12 @@
                 "article",
                 "d3.js"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "zhirzh/prototype-tree",
+                    "url": "https://github.com/zhirzh/prototype-tree"
+                }
+            ]
         }
     ]
 }
