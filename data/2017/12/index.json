@@ -543,6 +543,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-09T14:56:18.258Z",
+            "title": "WasmFiddle",
+            "url": "https://wasdk.github.io/WasmFiddle/",
+            "content": "WebAssemblyのjsfiddle的なサービス。\nWasmのコンパイルと実行、wast/wasmのダウンロードができる。",
+            "tags": [
+                "WebAssembly",
+                "editor",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
