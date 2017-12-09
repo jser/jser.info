@@ -507,6 +507,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-09T12:52:53.209Z",
+            "title": "deeplearn.js",
+            "url": "https://deeplearnjs.org/",
+            "content": "WebGLを使った機械学習向けのライブラリ。\n同期的な(NumPyのような)計算実行と遅延的な(TensorFlowのような)計算実行をサポートしている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "機械学習",
+                "WebGL"
+            ],
+            "relatedLinks": []
         }
     ]
 }
