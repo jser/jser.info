@@ -597,6 +597,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-10T14:32:46.690Z",
+            "title": "React Performance Fixes on Airbnb Listing Pages – Airbnb Engineering & Data Science – Medium",
+            "url": "https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4",
+            "content": "Reactを使ったアプリケーションのパフォーマンスを測定し、それをどのように修正していったかについての記事。\n`PureComponent`での無駄な描画を防止、スクロール時の処理、入力欄などについて\n",
+            "tags": [
+                "JavaScript",
+                "React",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
