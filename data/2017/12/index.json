@@ -567,6 +567,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-10T09:57:26.285Z",
+            "title": "Fast Source Map Generation for React Native – David Aurelio – Medium",
+            "url": "https://medium.com/@david.aurelio/medium-fast-source-map-generation-for-react-native-ea5549007c18",
+            "content": "React Native(Metro)が利用するSource Mapの高速な実装について\nhttps://github.com/facebook/metro/tree/master/packages/metro-source-map",
+            "tags": [
+                "JavaScript",
+                "sourcemap",
+                "library",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
