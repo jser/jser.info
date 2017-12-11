@@ -623,6 +623,17 @@
                 "DOM"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-11T00:03:55.858Z",
+            "title": "Performance Calendar » Clearing cache in the browser",
+            "url": "https://calendar.perfplanet.com/2017/clearing-cache-in-the-browser/",
+            "content": "ウェブアプリ側からブラウザのキャッシュをクリアするさまざまな手法のまとめ。\n`location.reload(true)`、Vary、fetch、iframe、Clear-SIte-Dataなどの手法毎にブラウザの対応についてまとめている。",
+            "tags": [
+                "browser",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
