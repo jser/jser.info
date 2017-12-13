@@ -656,6 +656,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-13T15:30:06.663Z",
+            "title": "ballercat/walt: Walt is a JavaScript-like syntax for WebAssembly text format WIP",
+            "url": "https://github.com/ballercat/walt",
+            "content": "JavaScript/Flowのサブセットのように書けて、WebAssemblyにコンパイルできる言語とツール",
+            "tags": [
+                "flowtype",
+                "WebAssembly"
+            ],
+            "relatedLinks": []
         }
     ]
 }
