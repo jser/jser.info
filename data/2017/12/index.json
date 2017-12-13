@@ -645,6 +645,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-13T14:21:23.341Z",
+            "title": "Node v9.3.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v9.3.0/",
+            "content": "Node.js 9.3.0リリース\n`--trace-event-categories`に`node.async_hooks`を追加、`module.builtinModules`でビルトインモジュールの一覧を取得できるようになるなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
