@@ -714,6 +714,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-16T04:52:52.106Z",
+            "title": "The Current State of Implementation and Planning for ESModules",
+            "url": "https://medium.com/the-node-js-collection/the-current-state-of-implementation-and-planning-for-esmodules-a4ecb2aac07a",
+            "content": "Node.jsのES Modulesの実装状況や優先度についての説明。\nCommonJSとの相互運用性、mjsのサポート、hook apiのサポート、コアモジュールの対応、`import.meta`についてなど",
+            "tags": [
+                "node.js",
+                "module",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
