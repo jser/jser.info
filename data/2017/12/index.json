@@ -738,6 +738,23 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-17T06:27:25.047Z",
+            "title": "moment/CHANGELOG.md at 2.20.0 · moment/moment",
+            "url": "https://github.com/moment/moment/blob/2.20.0/CHANGELOG.md",
+            "content": "moment 2.20.0リリース。\nHTML5 inputに対応するフォーマットの追加、`UTC`への変換しないオプションが`toISOString`に追加された",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "moment-2.20.0.md",
+                    "url": "https://gist.github.com/marwahaha/e0d4135fbf8bb75fa85c4aa2bddc5031"
+                }
+            ]
         }
     ]
 }
