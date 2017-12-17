@@ -778,6 +778,20 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-17T08:03:05.390Z",
+            "title": "nitin42/react-perf-devtool: A Chrome developer tool extension to inspect performance of React components.",
+            "url": "https://github.com/nitin42/react-perf-devtool",
+            "content": "Reactコンポーネントのパフォーマンス計測ツール。\nReactの`performance.measure`の結果を使い、`react-addons-perf`のような計測結果を表示できるブラウザ拡張とツール",
+            "tags": [
+                "React",
+                "performance",
+                "Tools",
+                "browser",
+                "Extension"
+            ],
+            "relatedLinks": []
         }
     ]
 }
