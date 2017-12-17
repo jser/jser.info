@@ -843,6 +843,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-17T14:03:18.457Z",
+            "title": "Release \"Fast\" By Default · TypeStrong/ts-node",
+            "url": "https://github.com/TypeStrong/ts-node/releases/tag/v4.0.0",
+            "content": "ts-node 4.0.0リリース。\n`--fast`がデフォルトとなった。\n`--type-check`を使うことで型チェックを合わせて行うように変更。\n`transformers`オプションのサポートなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
