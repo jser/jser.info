@@ -856,6 +856,17 @@
                 "node.js"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-17T14:58:15.678Z",
+            "title": "The global `Reflect` object, its use cases and things to watch out for",
+            "url": "https://www.stefanjudis.com/today-i-learned/the-global-reflect-object-its-use-cases-and-things-to-watch-out-for/",
+            "content": "`Reflect`の使い方について。\n`Proxy`と合わせて使うものでオブジェクトの変更のloggingを例解説している。",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
