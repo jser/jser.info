@@ -880,7 +880,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2017-12-18T00:21:02.419Z",
+            "date": "2017-12-18T00:21:21.778Z",
             "title": "Patterns for designing flexible architecture in node.js (CQRS/ES/Onion)",
             "url": "https://medium.com/@domagojk/patterns-for-designing-flexible-architecture-in-node-js-cqrs-es-onion-7eb10bbefe17",
             "content": "TypeScriptを使ってCQRS+EventSoucingのパターンでNode.jsアプリを実装する記事。\nサンプルプロジェクトと共にコマンドからイベントを作りそれをRepositoryに保存する流れを紹介してる。",
@@ -889,7 +889,8 @@
                 "TypeScript",
                 "CQRS",
                 "EventSourcing",
-                "DDD"
+                "DDD",
+                "JavaScript"
             ],
             "relatedLinks": [
                 {
