@@ -880,24 +880,20 @@
             "relatedLinks": []
         },
         {
-            "date": "2017-12-18T00:21:21.778Z",
+            "date": "2017-12-19T01:23:29.338Z",
             "title": "Patterns for designing flexible architecture in node.js (CQRS/ES/Onion)",
             "url": "https://medium.com/@domagojk/patterns-for-designing-flexible-architecture-in-node-js-cqrs-es-onion-7eb10bbefe17",
-            "content": "TypeScriptを使ってCQRS+EventSoucingのパターンでNode.jsアプリを実装する記事。\nサンプルプロジェクトと共にコマンドからイベントを作りそれをRepositoryに保存する流れを紹介してる。",
+            "content": "TypeScriptを使ってCQRS+EventSoucingのパターンでNode.jsアプリを実装する記事。 サンプルプロジェクトと共にコマンドからイベントを作りそれをRepositoryに保存する流れを紹介してる。",
             "tags": [
-                "node.js",
-                "TypeScript",
                 "CQRS",
-                "EventSourcing",
                 "DDD",
-                "JavaScript"
+                "EventSourcing",
+                "TypeScript",
+                "node.js",
+                "JavaScript",
+                "article"
             ],
-            "relatedLinks": [
-                {
-                    "title": "domagojk/beenion: Online adaptation of a scientific journal publishing and peer reviewing",
-                    "url": "https://github.com/domagojk/beenion"
-                }
-            ]
+            "relatedLinks": []
         },
         {
             "date": "2017-12-18T15:25:53.110Z",
