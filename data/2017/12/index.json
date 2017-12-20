@@ -932,6 +932,18 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-20T23:46:36.804Z",
+            "title": "Release Notes for Safari Technology Preview 46 | WebKit",
+            "url": "https://webkit.org/blog/8042/release-notes-for-safari-technology-preview-46/",
+            "content": "Safari Technology Preview Release 46リリース。\nService Workerがデフォルトで有効化、`--useBigInt`フラグつきBigIntの実装、`img`要素の`decoding`属性のサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote",
+                "ServiceWorker"
+            ],
+            "relatedLinks": []
         }
     ]
 }
