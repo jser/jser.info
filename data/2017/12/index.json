@@ -944,6 +944,22 @@
                 "ServiceWorker"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-21T12:51:46.289Z",
+            "title": "Use a Render Prop! – componentDidBlog",
+            "url": "https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce",
+            "content": "Reactの子コンポーネントと値やロジックを共有するパターンとしてのrender propsについて",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Add doc about Render Props by mjackson · Pull Request #355 · reactjs/reactjs.org",
+                    "url": "https://github.com/reactjs/reactjs.org/pull/355"
+                }
+            ]
         }
     ]
 }
