@@ -994,6 +994,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-23T10:33:11.449Z",
+            "title": "The Future of jQuery UI and jQuery Mobile | jQuery UI Blog",
+            "url": "http://blog.jqueryui.com/2017/12/the-future-of-jquery-ui-and-jquery-mobile/",
+            "content": "jQuery MobileはjQuery UIに依存しているが、今までは別々のリポジトリとなっていた。\n重複などの無駄があるため、チームを統合し、停滞しているプロジェクトを改善していく指針が公開された。\nあわせてSlackチャンネルを開設して協力者を募集している。",
+            "tags": [
+                "jQuery",
+                "UI",
+                "mobile",
+                "article",
+                "opinion"
+            ],
+            "relatedLinks": []
         }
     ]
 }
