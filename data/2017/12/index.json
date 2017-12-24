@@ -1044,6 +1044,19 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-24T23:01:22.753Z",
+            "title": "Preloading modules  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2017/12/modulepreload",
+            "content": "`<link rel=\"modulepreload\">`について。\n`<link rel=\"preload\">`との違い、モジュールの依存関係はフラットにすべてのファイルを定義するべきかについて",
+            "tags": [
+                "JavaScript",
+                "module",
+                "Chrome",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
