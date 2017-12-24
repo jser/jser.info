@@ -1032,6 +1032,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-24T05:36:06.239Z",
+            "title": "amsul/react-performance: Helpers to debug and record component render performance 🚀",
+            "url": "https://github.com/amsul/react-performance",
+            "content": "React 16で動く`react-addons-perf`のようなものを目指すライブラリ。\nReactコンポーネントのプロファイルを取れるライブラリ。",
+            "tags": [
+                "React",
+                "library",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
