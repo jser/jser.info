@@ -1145,6 +1145,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-25T15:06:30.997Z",
+            "title": "Jest 22: Refinements & Custom Runners · Jest",
+            "url": "http://facebook.github.io/jest/blog/2017/12/18/jest-22.html",
+            "content": "Jest 22リリース。\nNode.js 4のサポート終了、カスタムRunnerのコアとなる`jest-worker`の公開。\nテスト結果のフォーマッタの変更、`--detectLeaks`の追加、Babel 7のサポート、MITライセンスに変更など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
