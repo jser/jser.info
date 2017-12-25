@@ -1069,6 +1069,20 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-25T05:12:36.116Z",
+            "title": "Idiomatic Redux: Using Reselect Selectors for Encapsulation and Performance · Mark's Dev Blog",
+            "url": "http://blog.isquaredsoftware.com/2017/12/idiomatic-redux-using-reselect-selectors/",
+            "content": "reselectを使ったパフォーマンスの最適化について。\nreselectはstateからstateを作るライブラリで、入力に対してメモ化が行われている。\nこれを使いReduxのstateからアプリケーションに適切な形へstateを変換させる例について紹介している",
+            "tags": [
+                "redux",
+                "JavaScript",
+                "performance",
+                "article",
+                "React"
+            ],
+            "relatedLinks": []
         }
     ]
 }
