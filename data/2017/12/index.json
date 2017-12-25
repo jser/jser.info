@@ -1057,6 +1057,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-25T04:30:14.395Z",
+            "title": "日経電子版 サイト高速化とPWA対応 / nikkei-high-performance-pwa // Speaker Deck",
+            "url": "https://speakerdeck.com/sisidovski/nikkei-high-performance-pwa",
+            "content": "ウェブサイトのパフォーマンス改善についてのスライド。\nアセットの配信の最適化、Resource Hintsでのpreload。\nSpeedCurveを使ってのモニタリングやファイルサイズのチェック。\nService Workerでのキャッシュやデバッグなどについて",
+            "tags": [
+                "slide",
+                "browser",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
