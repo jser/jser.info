@@ -1098,6 +1098,17 @@
                 "ECMAScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-25T12:22:26.320Z",
+            "title": "ESLint v4.14.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2017/12/eslint-v4.14.0-released",
+            "content": "ESLint 4.14.0リリース。\nパーサ向けにScope解析のhookポイントが追加された。",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
