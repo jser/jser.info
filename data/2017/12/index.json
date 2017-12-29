@@ -1183,6 +1183,23 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-29T02:02:18.430Z",
+            "title": "The npm Blog — New Package Moniker rules",
+            "url": "http://blog.npmjs.org/post/168978377570/new-package-moniker-rules",
+            "content": "npmにパッケージをpublishする際のルールが変更された。\nパッケージ名に含まれる`.`、`-`、`_`の違いによる区別をしなくなった。\n`react-native`と`react.native`を同じものとして扱い、タイプミスを狙った類似パッケージの公開を防止する目的。",
+            "tags": [
+                "npm",
+                "news",
+                "security"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "validate-npm-package-name",
+                    "url": "https://www.npmjs.com/package/validate-npm-package-name"
+                }
+            ]
         }
     ]
 }
