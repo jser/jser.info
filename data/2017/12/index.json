@@ -1241,6 +1241,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-29T12:14:47.568Z",
+            "title": "Introducing Hyperapp 1.0 🎉 – Jorge Bucaran – Medium",
+            "url": "https://medium.com/@JorgeBucaran/introducing-hyperapp-1-0-dbf4229abfef",
+            "content": "hyperapp 1.0.0リリース。\n",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 1.0.0 · hyperapp/hyperapp",
+                    "url": "https://github.com/hyperapp/hyperapp/releases/tag/1.0.0"
+                }
+            ]
         }
     ]
 }
