@@ -1218,6 +1218,18 @@
                     "url": "https://wpt.fyi/"
                 }
             ]
+        },
+        {
+            "date": "2017-12-29T11:26:01.398Z",
+            "title": "JavaScript のスレッド並列実行環境",
+            "url": "http://nhiroki.jp/2017/12/10/javascript-parallel-processing",
+            "content": "JavaScriptにおけるWebWorkerやSharedWorker、Workletなどのスレッドの仕組みについてや違いについて。\nまた検討されているWeb Locks APIやThread APIについて",
+            "tags": [
+                "Chrome",
+                "webworker",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
