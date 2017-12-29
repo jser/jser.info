@@ -1200,6 +1200,24 @@
                     "url": "https://www.npmjs.com/package/validate-npm-package-name"
                 }
             ]
+        },
+        {
+            "date": "2017-12-29T05:37:27.521Z",
+            "title": "Christmas Gifts for Your Future Self: Testing the Web Platform ◆ 24 ways",
+            "url": "https://24ways.org/2017/testing-the-web-platform/",
+            "content": "ウェブ標準におけるテストについて。\nWeb Platform Testsでのテストの見かた、コントリビュート方法やテストの書き方についてなど",
+            "tags": [
+                "WebPlatformAPI",
+                "testing",
+                "article",
+                "browser"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "web-platform-tests dashboard",
+                    "url": "https://wpt.fyi/"
+                }
+            ]
         }
     ]
 }
