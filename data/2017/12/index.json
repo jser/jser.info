@@ -1270,6 +1270,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2017-12-31T08:27:29.460Z",
+            "title": "whoeverest/wsrun: Command runner for Yarn workspaces. Dependency aware.",
+            "url": "https://github.com/whoeverest/wsrun",
+            "content": "Yarn workspace向けのツール。\nlerna runのようにそれぞれのパッケージに対してコマンドを実行できる",
+            "tags": [
+                "yarn",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
