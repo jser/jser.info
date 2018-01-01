@@ -1,0 +1,24 @@
+{
+    "list": [
+        {
+            "date": "2018-01-01T04:58:45.707Z",
+            "title": "Release v4.0.0 · gulpjs/gulp",
+            "url": "https://github.com/gulpjs/gulp/releases/tag/v4.0.0",
+            "content": "gulp 4.0.0プレリリース。\n`npm install gulp@next`でインストールできるように。\n`gulp.reset`、`gulp.task`の第三引数の削除。\n`gulp.series`と`gulp.parallel`、`gulp.tree`、`gulp.registry`の追加。\n`gulp`と`gulp-cli`の分離など",
+            "tags": [
+                "gulp",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "gulp/CHANGELOG.md at v4.0.0 · gulpjs/gulp",
+                    "url": "https://github.com/gulpjs/gulp/blob/v4.0.0/CHANGELOG.md"
+                },
+                {
+                    "title": "[Notice] gulp 4 release process · Issue #1486 · gulpjs/gulp",
+                    "url": "https://github.com/gulpjs/gulp/issues/1486"
+                }
+            ]
+        }
+    ]
+}
