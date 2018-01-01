@@ -19,6 +19,17 @@
                     "url": "https://github.com/gulpjs/gulp/issues/1486"
                 }
             ]
+        },
+        {
+            "date": "2018-01-01T05:01:45.107Z",
+            "title": "ResizeObserver による変更検知と Element Query | blog.jxck.io",
+            "url": "https://blog.jxck.io/entries/2017-12-30/resize-observer-and-element-query.html",
+            "content": "ResizeObserverについての解説記事。\n要素のリサイズを監視するObserver API",
+            "tags": [
+                "WebPlatformAPI",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
