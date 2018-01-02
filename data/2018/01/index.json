@@ -117,6 +117,23 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-02T11:37:15.720Z",
+            "title": "Neutrino: Releasing v8 🎉 – Eli Perelman – Medium",
+            "url": "https://medium.com/@eliperelman/neutrino-releasing-v8-a643f356f410",
+            "content": "JavaScriptの開発環境セットアップツールのNeutrino v8.0.0リリース。\nモジュールを`@neutrinojs`のScoped moduleへ移行、`@neutrinojs/library`などのコアミドルウェアの追加、複数ページのアプリへの対応など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migration Guide · Neutrino",
+                    "url": "https://neutrino.js.org/migration-guide#neutrino-v7-to-v8"
+                }
+            ]
         }
     ]
 }
