@@ -91,6 +91,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-02T11:24:21.829Z",
+            "title": "JavaScript のスレッド並列実行環境",
+            "url": "http://nhiroki.jp/2017/12/10/javascript-parallel-processing",
+            "content": "JavaScriptにおけるスレッド関係の機構について。\nタスクキュー、Web Workerのモデル、スレッド間のメッセージング、データのコピーと移譲(Transferable)、SharedArrayBuffer、Agentの共有メモリモデル。 Worklet/Tasklet、Web Locks、Thread APIについて",
+            "tags": [
+                "Chrome",
+                "JavaScript",
+                "webworker",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
