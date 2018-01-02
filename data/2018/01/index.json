@@ -78,6 +78,19 @@
                 "C++"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-02T08:42:45.043Z",
+            "title": "Profiling adventure - Qiita",
+            "url": "https://qiita.com/martinheidegger/items/5a5c40770ef6f47a92b2",
+            "content": "Node.jsで`perf_hooks`を使ったプロファイル、Node.jsの`--prof`フラグを使ったより詳細なダンプデータのとり方。\nまた`--inspect-brk`を使いChromeの開発者ツールを使ってのデバッグについて",
+            "tags": [
+                "node.js",
+                "performance",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
