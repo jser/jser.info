@@ -65,6 +65,19 @@
                     "url": "https://github.com/emberjs/ember-2-legacy"
                 }
             ]
+        },
+        {
+            "date": "2018-01-02T08:28:41.811Z",
+            "title": "tbfleming/cib: clang running in browser (wasm)",
+            "url": "https://github.com/tbfleming/cib/",
+            "content": "`clang`と`clang-format`をJavaScriptにコンパイルし、ブラウザ上で`clang`を使ってC++をWebAssemblyへコンパイルして実行するデモ",
+            "tags": [
+                "JavaScript",
+                "WebAssembly",
+                "Clang",
+                "C++"
+            ],
+            "relatedLinks": []
         }
     ]
 }
