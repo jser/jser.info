@@ -134,6 +134,22 @@
                     "url": "https://neutrino.js.org/migration-guide#neutrino-v7-to-v8"
                 }
             ]
+        },
+        {
+            "date": "2018-01-03T08:21:44.349Z",
+            "title": "Node v8.9.4 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v8.9.4/",
+            "content": "Node.js 8.9.4リリース。\nnpm 5.6.0の同梱など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The npm Blog — v5.6.0 (2017-11-27)",
+                    "url": "http://blog.npmjs.org/post/167963735925/v560-2017-11-27"
+                }
+            ]
         }
     ]
 }
