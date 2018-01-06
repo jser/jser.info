@@ -176,6 +176,22 @@
                     "url": "https://blogs.windows.com/msedgedev/2018/01/03/speculative-execution-mitigations-microsoft-edge-internet-explorer/#m2GyZlsjAzq0Do6K.97"
                 }
             ]
+        },
+        {
+            "date": "2018-01-06T03:01:36.046Z",
+            "title": "browserify/changelog.markdown at v15.0.0 · browserify/browserify",
+            "url": "https://github.com/browserify/browserify/blob/v15.0.0/changelog.markdown",
+            "content": "Browserify 15.0.0リリース。\nNode.js 4未満のサポート終了、`module-deps`の依存を更新、`browserify` organizationに移動など",
+            "tags": [
+                "browserify",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v5.0.0 · browserify/module-deps",
+                    "url": "https://github.com/browserify/module-deps/releases/tag/v5.0.0"
+                }
+            ]
         }
     ]
 }
