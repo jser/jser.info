@@ -192,6 +192,18 @@
                     "url": "https://github.com/browserify/module-deps/releases/tag/v5.0.0"
                 }
             ]
+        },
+        {
+            "date": "2018-01-06T08:20:37.605Z",
+            "title": "Dev.Opera — What’s new in Chromium 63 and Opera 50",
+            "url": "https://dev.opera.com/blog/opera-50/",
+            "content": "Opera 50 (based on Chromium 63)リリース。\nDynamic import、Async Iterator/Generator、`Promise#finally`、`Intl.PluralRules`のサポートなど",
+            "tags": [
+                "Chrome",
+                "Opera",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
