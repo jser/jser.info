@@ -204,6 +204,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-06T12:58:05.110Z",
+            "title": "ECMAScript 2015以降のJavaScriptの`this`を理解する | Web Scratch",
+            "url": "http://efcl.info/2018/01/04/what-is-this/",
+            "content": "JavaScriptの`this`についての解説記事。\n状況によって異なる値を参照する`this`は、どのような仕組みでその値を決まっているかについて。\n関数やArrow Functionでの仕組みの違いなどについて",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "asciidwango/js-primer: JavaScriptの入門書",
+                    "url": "https://github.com/asciidwango/js-primer"
+                }
+            ]
         }
     ]
 }
