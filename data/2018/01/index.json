@@ -221,6 +221,27 @@
                     "url": "https://github.com/asciidwango/js-primer"
                 }
             ]
+        },
+        {
+            "date": "2018-01-07T10:43:13.299Z",
+            "title": "FuseBox 3.0 — faster than ever – fusebox – Medium",
+            "url": "https://medium.com/fusebox/fusebox-3-0-faster-than-ever-5fae4254556c",
+            "content": "FuseBox 3.0リリース。\nCode Splittingをデフォルトでサポート、TypeScriptをソースにTree Shakingをサポートするために`ts:main`のサポート。\nパフォーマンスの改善、ウェブサイトのデザイン更新など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 3.0.2 · fuse-box/fuse-box",
+                    "url": "https://github.com/fuse-box/fuse-box/releases/tag/3.0.2"
+                },
+                {
+                    "title": "fuse-box/version3changelog.md at master · fuse-box/fuse-box",
+                    "url": "https://github.com/fuse-box/fuse-box/blob/master/docs/version3changelog.md"
+                }
+            ]
         }
     ]
 }
