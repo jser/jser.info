@@ -271,6 +271,23 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-08T14:10:10.661Z",
+            "title": "🐛🔨 The Contributors Guide to webpack — Part 1 🎨 🖼",
+            "url": "https://medium.com/webpack/the-contributors-guide-to-webpack-part-1-a0410cc82ca4",
+            "content": "webpackのアーキテクチャの解説をする連載。\nwebpack関係のツール、プラグインのエコシステムや動作の仕組み、モジュール依存関係グラフの構築などについて",
+            "tags": [
+                "webpack",
+                "article",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "TheLarkInn/artsy-webpack-tour: Annotations on webpack source code in a pseudo-guided fashion.",
+                    "url": "https://github.com/TheLarkInn/artsy-webpack-tour"
+                }
+            ]
         }
     ]
 }
