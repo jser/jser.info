@@ -381,6 +381,18 @@
                     "url": "https://github.com/nuxt/nuxt.js/releases/tag/v1.0.0"
                 }
             ]
+        },
+        {
+            "date": "2018-01-09T13:02:21.627Z",
+            "title": "Roadmap of Web Applications on Mobile",
+            "url": "https://www.w3.org/2018/01/web-roadmaps/mobile/",
+            "content": "W3Cのモバイルのウェブアプリに関する仕様のロードマップ。\nそれぞれの仕様のジャンルごとのまとめ、ステータス、実装状況について",
+            "tags": [
+                "W3C",
+                "spec",
+                "document"
+            ],
+            "relatedLinks": []
         }
     ]
 }
