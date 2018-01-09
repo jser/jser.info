@@ -300,6 +300,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-09T01:23:40.579Z",
+            "title": "ESLint v4.15.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2018/01/eslint-v4.15.0-released",
+            "content": "ESLint 4.15.0リリース。\n`CLIEngine#getRules()`で設定されたルールの取得、`messageId`の追加など開発者向けの機能追加など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESLint v4.15.0 - Qiita",
+                    "url": "https://qiita.com/mysticatea/items/c6c10d4749e7d69d321e"
+                }
+            ]
         }
     ]
 }
