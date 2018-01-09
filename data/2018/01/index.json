@@ -363,6 +363,24 @@
                     "url": "https://medium.com/reloading/javascript-start-up-performance-69200f43b201"
                 }
             ]
+        },
+        {
+            "date": "2018-01-09T12:55:24.846Z",
+            "title": "Nuxt.js 1.0 is out 🎉 – Nuxt.js – Medium",
+            "url": "https://medium.com/@nuxt_js/nuxt-js-1-0-is-out-bab1af459972",
+            "content": "Vue版Next.jsであるNuxt.js 1.0リリース。\nNode.js 8.0.0未満のサポートを終了。\n今後はドキュメンテーション、パフォーマンス、TypeScriptサポートの改善などを行っていく",
+            "tags": [
+                "JavaScript",
+                "Vue",
+                "server",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v1.0.0 · nuxt/nuxt.js",
+                    "url": "https://github.com/nuxt/nuxt.js/releases/tag/v1.0.0"
+                }
+            ]
         }
     ]
 }
