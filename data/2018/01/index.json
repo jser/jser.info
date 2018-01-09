@@ -428,6 +428,24 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-09T13:56:57.661Z",
+            "title": "Sapper: Towards the ideal web app framework",
+            "url": "https://svelte.technology/blog/sapper-towards-the-ideal-web-app-framework",
+            "content": "SvelteベースのNext.js的なフレームワークであるSapperについて。\nそれぞれのページがSvelteのコンポーネントとなる。\n元々フレームワークからではなくコンパイラとして始まったSvelteと他のフレームワークとの違いについて",
+            "tags": [
+                "JavaScript",
+                "server",
+                "library",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Sapper • Military-grade progressive web apps, powered by Svelte",
+                    "url": "https://sapper.svelte.technology/"
+                }
+            ]
         }
     ]
 }
