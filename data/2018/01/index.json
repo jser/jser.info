@@ -342,6 +342,23 @@
                     "url": "http://momdo.hatenablog.jp/entry/20180105/1515161004"
                 }
             ]
+        },
+        {
+            "date": "2018-01-09T01:42:44.502Z",
+            "title": "JavaScript Start-up Optimization  |  Web Fundamentals  |  Google Developers",
+            "url": "https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/",
+            "content": "ウェブサイトの起動速度周りの改善ポイントについてまとめた記事。\nネットワーク、ファイルサイズ、パース、コンパイル、実行コストについてを簡単にまとめたもの",
+            "tags": [
+                "Chrome",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "JavaScript Start-up Performance – reloading – Medium",
+                    "url": "https://medium.com/reloading/javascript-start-up-performance-69200f43b201"
+                }
+            ]
         }
     ]
 }
