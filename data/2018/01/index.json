@@ -532,6 +532,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-11T15:30:59.814Z",
+            "title": "Node v9.4.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v9.4.0/",
+            "content": "Node v9.4.0リリース。\nnpm 5.6.0へアップデート、zlibモジュールで`ArrayBuffer`をサポートなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
