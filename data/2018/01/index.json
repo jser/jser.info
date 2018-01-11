@@ -496,6 +496,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-11T02:25:22.899Z",
+            "title": "NervJS/nerv: A blazing fast React alternative, compatible with IE8 and React 16.",
+            "url": "https://github.com/NervJS/nerv",
+            "content": "ReactライクなAPIをもつライブラリ。\nReact16相当のAPIをサポートし、IE8との互換性をもつ。\nまたdevToolsやReduxとの連携するパッケージも用意されている。",
+            "tags": [
+                "React",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
