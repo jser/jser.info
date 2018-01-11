@@ -520,6 +520,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-11T12:31:26.970Z",
+            "title": "But really, what is a JavaScript test? – kentcdodds",
+            "url": "https://blog.kentcdodds.com/but-really-what-is-a-javascript-test-46fe5f3fad77",
+            "content": "JavaScriptにおけるテストとはどうやって動くものかについて。\nifとthrowを使ったものから`assert`を使ったもの、テストフレームワークを使った構造化など順を追って見ていく話",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
