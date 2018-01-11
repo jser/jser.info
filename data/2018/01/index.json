@@ -483,6 +483,19 @@
                 "mac "
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-11T02:21:45.712Z",
+            "title": "Release 2.5.0 · qunitjs/qunit",
+            "url": "https://github.com/qunitjs/qunit/releases/tag/2.5.0",
+            "content": "QUnit 2.5.0リリース。\n`assert.rejects`の追加、`QUnit.onUnhandledRejection`の追加など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
