@@ -559,6 +559,23 @@
                     "url": "https://github.com/whatwg/html/issues/3338"
                 }
             ]
+        },
+        {
+            "date": "2018-01-12T03:20:57.971Z",
+            "title": "Introducing Immer: Immutability the easy way – Michel Weststrate – Medium",
+            "url": "https://medium.com/@mweststrate/introducing-immer-immutability-the-easy-way-9d73d8f71cb3",
+            "content": "Immmutableにオブジェクトを更新する`immer`について。\nProxyなどを使い実際に変更された場合にのみ、オブジェクト自身を更新する仕組みをもち、また開発中は自動で`Object.freeze`を適応する\nReduxのReducerのようなパターンをMutableなAPIで書ける。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Simplify Creating Immutable Data Trees With Immer from @mweststrate on @eggheadio",
+                    "url": "https://egghead.io/lessons/redux-simplify-creating-immutable-data-trees-with-immer"
+                }
+            ]
         }
     ]
 }
