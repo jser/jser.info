@@ -543,6 +543,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-12T01:44:50.702Z",
+            "title": "Release Notes for Safari Technology Preview 47 | WebKit",
+            "url": "https://webkit.org/blog/8060/release-notes-for-safari-technology-preview-47/",
+            "content": "Safari Technology Preview Release 47リリース。\nStorage Access APIの実験的サポート、Service Workerの改善、Web InspectorのCanvasタブをデフォルトで有効化など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Proposal: Storage Access API · Issue #3338 · whatwg/html",
+                    "url": "https://github.com/whatwg/html/issues/3338"
+                }
+            ]
         }
     ]
 }
