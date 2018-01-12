@@ -576,6 +576,17 @@
                     "url": "https://egghead.io/lessons/redux-simplify-creating-immutable-data-trees-with-immer"
                 }
             ]
+        },
+        {
+            "date": "2018-01-12T11:24:30.498Z",
+            "title": "russellgoldenberg/scrollama: Scrollytelling with IntersectionObserver.",
+            "url": "https://github.com/russellgoldenberg/scrollama",
+            "content": "IntersectionObserverを使ったスクロールでのクラスの付け外しなどを行えるライブラリ。\nスクロールでデザインが変わるパターンの実装補助ライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
