@@ -636,6 +636,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-14T12:45:59.834Z",
+            "title": "Learn TDD in React",
+            "url": "http://learntdd.in/react/",
+            "content": "Cypressを使ったE2Eテストを書いてからコンポーネントの実装を行う方法についてのチュートリアル。\n`data-test`属性を使ってのテストコンポーネントの指定、機能の実装などについて",
+            "tags": [
+                "React",
+                "testing",
+                "E2E",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Learn TDD in Vue",
+                    "url": "http://learntdd.in/vue/"
+                }
+            ]
         }
     ]
 }
