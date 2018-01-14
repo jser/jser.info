@@ -623,6 +623,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-14T01:20:05.307Z",
+            "title": "低帯域幅と高レイテンシの理解  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/fundamentals/performance/poor-connectivity/?hl=ja",
+            "content": "ネットワークの帯域やレイテンシのシミュレートするツールやlie-fiと呼ばれる問題のあるネットワークの問題について。\nService Workerを使ったネットワークタイムアウトについて",
+            "tags": [
+                "Chrome",
+                "debug",
+                "browser",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
