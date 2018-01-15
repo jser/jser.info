@@ -671,6 +671,17 @@
                 "plugin"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-15T11:17:06.177Z",
+            "title": "Release v0.63.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.63.0",
+            "content": "Flow 0.63.0リリース。\nStrict modeでは関数の引数を`const`として扱うように",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
