@@ -708,6 +708,19 @@
                 "まとめ"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-16T01:44:14.073Z",
+            "title": "Secure Contexts Everywhere | Mozilla Security Blog",
+            "url": "https://blog.mozilla.org/security/2018/01/15/secure-contexts-everywhere/",
+            "content": "Firefoxは今後に新しい機能(JavaScript、CSS、HTTP、フォーマットなど)に利用する際にはSecure Contexts(HTTPS)を必須にする方針について。\n新しいCSS color keywordのような既存部分の変更については例外とする場合があることについてなど",
+            "tags": [
+                "firefox",
+                "security",
+                "news",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
