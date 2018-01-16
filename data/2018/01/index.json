@@ -721,6 +721,24 @@
                 "WebPlatformAPI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-16T01:48:26.656Z",
+            "title": "Release v6.0.0 · epoberezkin/ajv",
+            "url": "https://github.com/epoberezkin/ajv/releases/tag/v6.0.0",
+            "content": "JSON Schema Validatorのajv 6.0.0リリース。\nJSON Schema Draft-07をサポート",
+            "tags": [
+                "JSON",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "JSON Schema Draft-07 Release Notes",
+                    "url": "http://json-schema.org/draft-07/json-schema-release-notes.html"
+                }
+            ]
         }
     ]
 }
