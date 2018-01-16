@@ -739,6 +739,18 @@
                     "url": "http://json-schema.org/draft-07/json-schema-release-notes.html"
                 }
             ]
+        },
+        {
+            "date": "2018-01-16T23:12:02.946Z",
+            "title": "skerit/json-dry: JSON-dry allows you to serialize & revive objects containing circular references, dates, regexes, class instances,...",
+            "url": "https://github.com/skerit/json-dry",
+            "content": "正規表現や循環参照に対応したJSONシリアライズ/デシリアライズライブラリ。\nオブジェクトのクローンも行える。",
+            "tags": [
+                "JavaScript",
+                "JSON",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
