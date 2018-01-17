@@ -763,6 +763,23 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-17T12:54:15.885Z",
+            "title": "Release v1.0.0 · GoogleChrome/puppeteer",
+            "url": "https://github.com/GoogleChrome/puppeteer/releases/tag/v1.0.0",
+            "content": "Puppeteer 1.0.0リリース。\nコードカバレッジAPIのサポート、PDFのカスタマイズ、XPathのサポートなど",
+            "tags": [
+                "Chrome",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Puppeteer  |  Tools for Web Developers  |  Google Developers",
+                    "url": "https://developers.google.com/web/tools/puppeteer/"
+                }
+            ]
         }
     ]
 }
