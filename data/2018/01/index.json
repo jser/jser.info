@@ -802,6 +802,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-19T03:45:55.036Z",
+            "title": "Announcing TypeScript 2.7 RC | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2018/01/17/announcing-typescript-2-7-rc/",
+            "content": "TypeScript 2.7RCリリース\n\nクラスプロパティへの代入忘れをチェックする`--strictPropertyInitialization`)の追加、Tupleの扱いの変更、`in`と`instanceof`の改善など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
