@@ -841,6 +841,19 @@
                     "url": "https://blog.getbootstrap.com/2017/08/10/bootstrap-4-beta/"
                 }
             ]
+        },
+        {
+            "date": "2018-01-19T11:02:03.129Z",
+            "title": "Release v5.0.0 · mochajs/mocha",
+            "url": "https://github.com/mochajs/mocha/releases/tag/v5.0.0",
+            "content": "Mocha 5.0.0リリース。\nIE 9、10のサポート終了、テストファイルを追加指定する`--file`オプションの追加など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
