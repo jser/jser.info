@@ -824,6 +824,23 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-19T08:37:53.121Z",
+            "title": "Bootstrap 4 · Bootstrap",
+            "url": "https://blog.getbootstrap.com/2018/01/18/bootstrap-4/",
+            "content": "Bootstrap 4リリース。\n4.0ではLessからSassへ、Flexboxの利用、Cardsへの移行、IE 8、9などのサポート終了など。\nβ3からの変更として、printのスタイルの更新サンプル、ドキュメントの追加など",
+            "tags": [
+                "CSS",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Bootstrap 4 Beta · Bootstrap",
+                    "url": "https://blog.getbootstrap.com/2017/08/10/bootstrap-4-beta/"
+                }
+            ]
         }
     ]
 }
