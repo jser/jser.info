@@ -879,6 +879,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-20T04:18:25.336Z",
+            "title": "jQuery 3.3.0 – A fragrant bouquet of deprecations and…is that a new feature? | Official jQuery Blog",
+            "url": "http://blog.jquery.com/2018/01/19/jquery-3-3-0-a-fragrant-bouquet-of-deprecations-and-is-that-a-new-feature/",
+            "content": "jQuery 3.3.0リリース。\n`.addClass()`、`.removeClass()`、`.toggleClass()`が配列を受け取れるように。\n`jQuery.now`や`jQuery.isFunction`などが非推奨になるなど\n",
+            "tags": [
+                "jQuery",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
