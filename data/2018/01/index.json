@@ -903,6 +903,23 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-21T03:45:20.104Z",
+            "title": "Release v1.1.0 · facebookincubator/create-react-app",
+            "url": "https://github.com/facebookincubator/create-react-app/releases/tag/v1.1.0",
+            "content": "create-react-app 1.1.0リリース。\n`--use-npm`の追加、`--scripts-version`で`.tar.gz`や`file:`のサポートなど。\n2.0のα版もリリースされ、2.0に含める機能についてはIssueで議論している。\n",
+            "tags": [
+                "React",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Roadmap for react-scripts@2.0 · Issue #3815 · facebookincubator/create-react-app",
+                    "url": "https://github.com/facebookincubator/create-react-app/issues/3815"
+                }
+            ]
         }
     ]
 }
