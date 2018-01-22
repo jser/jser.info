@@ -940,6 +940,17 @@
                     "url": "https://github.com/mozilla/source-map/pull/306"
                 }
             ]
+        },
+        {
+            "date": "2018-01-22T02:22:38.516Z",
+            "title": "boltpkg/bolt: ⚡️ Super-powered JavaScript project management",
+            "url": "https://github.com/boltpkg/bolt",
+            "content": "lerna/yarn workspaceのようなmonorepo管理ツール。\nbuildやtestなどにデフォルト設定があり、monorepoの環境構築を簡単にできるようにすることが目的",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
