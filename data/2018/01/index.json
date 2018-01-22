@@ -951,6 +951,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-22T23:12:13.407Z",
+            "title": "Introduction · A Roadmap for Node.js Security",
+            "url": "https://nodesecroadmap.fyi/",
+            "content": "Node.jsのセキュリティに関するドキュメント。Node.jsにおけてセキュリティ的な問題が起きる項目について。\nまたDynamic requireなどコードレ別の問題などについて",
+            "tags": [
+                "node.js",
+                "security",
+                "document"
+            ],
+            "relatedLinks": []
         }
     ]
 }
