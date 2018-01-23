@@ -979,6 +979,27 @@
                 "debug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-23T02:40:28.656Z",
+            "title": "Debugging your front-end like it's 2019",
+            "url": "http://krasimirtsonev.com/blog/article/debugging-your-front-end-like-is-2019",
+            "content": "kukerという開発者ツールについて。\nredux-devtoolsのようにブラウザに拡張をインストールし、ReduxやReact、Angularなどライブラリのログを見ることができる。\nログを投げる側は`postMessage`を送ることで記録できる。",
+            "tags": [
+                "JavaScript",
+                "debug",
+                "Flux",
+                "redux",
+                "Angular",
+                "Chrome",
+                "Extension"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "krasimir/kuker: Kick-ass browser extension to debug your apps",
+                    "url": "https://github.com/krasimir/kuker"
+                }
+            ]
         }
     ]
 }
