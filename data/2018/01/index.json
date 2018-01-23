@@ -1014,6 +1014,18 @@
                 "Extension"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-23T15:30:04.471Z",
+            "title": "jsdom/Changelog.md at 11.6.0 · tmpvar/jsdom",
+            "url": "https://github.com/tmpvar/jsdom/blob/11.6.0/Changelog.md",
+            "content": "jsdom 11.6.0リリース。\n`WebSocket`の実装、`performance`の実装、`window.devicePixelRatio`の追加など",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
