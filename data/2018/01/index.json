@@ -1000,6 +1000,20 @@
                     "url": "https://github.com/krasimir/kuker"
                 }
             ]
+        },
+        {
+            "date": "2018-01-23T02:45:52.350Z",
+            "title": "krasimir/kuker: Kick-ass browser extension to debug your apps",
+            "url": "https://github.com/krasimir/kuker",
+            "content": "クライアントから`postMessage`で投げたログとStateを表示できるビューアのブラウザ拡張。\nReact、Redux、Angular、Vue、HTMLなどに対応したデバッグツール。",
+            "tags": [
+                "JavaScript",
+                "debug",
+                "Tools",
+                "Chrome",
+                "Extension"
+            ],
+            "relatedLinks": []
         }
     ]
 }
