@@ -967,6 +967,18 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-23T01:27:08.581Z",
+            "title": "What's New In DevTools (Chrome 65)  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2018/01/devtools",
+            "content": "Chrome 65での開発者ツールの変更点について。\nLocal Overrides、アクセシビリティツール、カラーピッカーにコンストラスト情報の表示、ステップ実行でWorkerやsetTimeoutなどの非同期処理のサポート。\nパフォーマンスパネルで複数の記録を保存できるようになるなど",
+            "tags": [
+                "Chrome",
+                "article",
+                "debug"
+            ],
+            "relatedLinks": []
         }
     ]
 }
