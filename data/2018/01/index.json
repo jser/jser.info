@@ -1050,6 +1050,19 @@
                     "url": "https://www.fxsitecompat.com/ja/versions/58/"
                 }
             ]
+        },
+        {
+            "date": "2018-01-24T15:09:03.689Z",
+            "title": "📦 Parcel v1.5.0 released: Source Maps, WebAssembly, Rust, and more! 🚀",
+            "url": "https://medium.com/@devongovett/parcel-v1-5-0-released-source-maps-webassembly-rust-and-more-3a6385e43b95",
+            "content": "Parcel v1.5.0リリース。\nSource Mapのサポート、WebAssemblyのサポート、`.env`ファイルに対応。\nまた、コンフィグファイルが追加されたときにキャッシュを削除するようになるなど",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
