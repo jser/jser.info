@@ -1026,6 +1026,30 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-24T15:06:17.896Z",
+            "title": "Firefox — Notes (58.0) — Mozilla",
+            "url": "https://www.mozilla.org/en-US/firefox/58.0/releasenotes/",
+            "content": "Firefox 58リリース。\nバッググラウンドタブにおけるスロットリングの強化、WebAssembly Streaming Compilerの導入。\nCSS Font Displayのサポート、`Promise#finally`の追加、`PerformanceNavigationTiming` APIの実装など",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 58: The Quantum Era Continues – Mozilla Hacks – the Web developer blog",
+                    "url": "https://hacks.mozilla.org/2018/01/firefox-58-the-quantum-era-continues/"
+                },
+                {
+                    "title": "Firefox 58 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/ja/Firefox/Releases/58"
+                },
+                {
+                    "title": "Firefox 58 サイト互換性情報 | Firefox サイト互換性情報",
+                    "url": "https://www.fxsitecompat.com/ja/versions/58/"
+                }
+            ]
         }
     ]
 }
