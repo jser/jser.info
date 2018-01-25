@@ -1093,6 +1093,17 @@
                     "url": "https://gist.github.com/sokra/1522d586b8e5c0f5072d7565c2bee693"
                 }
             ]
+        },
+        {
+            "date": "2018-01-25T05:48:13.251Z",
+            "title": "Release Notes for Safari Technology Preview 48 | WebKit",
+            "url": "https://webkit.org/blog/8084/release-notes-for-safari-technology-preview-48/",
+            "content": "Safari Technology Preview Release 48リリース。\nStorage Access APIをデフォルトで有効化、Service Workerの対応改善、`createImageBitmap(ImageBitmap)`の実装など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
