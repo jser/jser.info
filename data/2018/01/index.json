@@ -1120,6 +1120,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-26T10:15:55.403Z",
+            "title": "Safari 11.1",
+            "url": "https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_11_1.html",
+            "content": "現在β公開中のSafari 11.1の変更点について。\nService Worker、Payment Request、`HTMLImageElement.decode()`、Beacon APIのサポート。\nSubresource Integrity、Storage Access API、Intelligent Tracking Preventionの挙動の変更など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
