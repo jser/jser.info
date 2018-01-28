@@ -1155,6 +1155,18 @@
                 "mac "
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-01-28T02:26:07.213Z",
+            "title": "fastpack/fastpack: Pack JS code fast & easy",
+            "url": "https://github.com/fastpack/fastpack",
+            "content": "OCaml製のJavaScript Bundlerツール。\nFlowをパーサとして使い、コードのbundleを行う。postprocessとして他のツールを呼びだすことができる。\n高速なインクリメンタルビルドを行うことが目的。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "flowtype"
+            ],
+            "relatedLinks": []
         }
     ]
 }
