@@ -1216,6 +1216,23 @@
                     "url": "https://www.youtube.com/watch?v=y5sb-icqOyg"
                 }
             ]
+        },
+        {
+            "date": "2018-01-28T15:40:31.333Z",
+            "title": "Top 10 JavaScript errors from 1000+ projects (and how to avoid them)",
+            "url": "https://rollbar.com/blog/top-10-javascript-errors/",
+            "content": "エラー収集サービスのRollbarにおいて報告されたJavaScriptのエラーランキング。\nどのようなエラーメッセージか、またどのような状況で発生するかなどを解説している。\n",
+            "tags": [
+                "JavaScript",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "JavaScript エラーリファレンス - JavaScript | MDN",
+                    "url": "https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Errors"
+                }
+            ]
         }
     ]
 }
