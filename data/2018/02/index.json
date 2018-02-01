@@ -50,6 +50,19 @@
                     "url": "https://github.com/avajs/ava/issues/1556"
                 }
             ]
+        },
+        {
+            "date": "2018-02-01T23:17:57.352Z",
+            "title": "Automatic visual diffing with Puppeteer – Monica Dinculescu",
+            "url": "https://meowni.ca/posts/2017-puppeteer-tests/",
+            "content": "Puppeteerを使ったVisual Diffテストについて。\nスクリーンショットをPixelmatchで比較し、画像のDiffを元にテストする話",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "browser",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
