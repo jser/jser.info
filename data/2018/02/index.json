@@ -152,6 +152,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-02-04T11:49:32.372Z",
+            "title": "Introducing Node Clinic - A performance toolkit for Node.js developers | nearForm",
+            "url": "https://www.nearform.com/blog/introducing-node-clinic-a-performance-toolkit-for-node-js-developers/",
+            "content": "Node.jsアプリのパフォーマンスモニタリングツールであるClinicについて。\nダッシュボードでCPU、メモリ、イベントループの遅延などを見ることができる",
+            "tags": [
+                "node.js",
+                "performance",
+                "Tools",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "nearform/node-clinic: Clinic diagnoses your Node.js performance issues",
+                    "url": "https://github.com/nearform/node-clinic"
+                }
+            ]
         }
     ]
 }
