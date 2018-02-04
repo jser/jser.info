@@ -116,6 +116,18 @@
                     "url": "https://addons.mozilla.org/en-US/firefox/addon/compat-report/"
                 }
             ]
+        },
+        {
+            "date": "2018-02-04T10:42:34.774Z",
+            "title": "Jestなどを使わずにスナップショットテストを書く | Web Scratch",
+            "url": "http://efcl.info/2018/02/02/snapshot-test/",
+            "content": "特別なライブラリを使わずにスナップショットテストを実装する方法について。",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
