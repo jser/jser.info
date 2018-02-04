@@ -92,6 +92,30 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-02-04T10:11:38.875Z",
+            "title": "MDN browser compatibility data: Taking the guesswork out of web compatibility – Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2018/02/mdn-browser-compatibility-data/",
+            "content": "MDNが利用してるブラウザのサポート状況をまとめたデータがnpmパッケージとして利用できるようになった。\nこのデータを使い方やサイトのサポートブラウザの可視化について",
+            "tags": [
+                "mdn",
+                "document",
+                "npm",
+                "JavaScript",
+                "CSS",
+                "HTTP"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "mdn-browser-compat-data",
+                    "url": "https://www.npmjs.com/package/mdn-browser-compat-data"
+                },
+                {
+                    "title": "Compat Report – Add-ons for Firefox",
+                    "url": "https://addons.mozilla.org/en-US/firefox/addon/compat-report/"
+                }
+            ]
         }
     ]
 }
