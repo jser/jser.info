@@ -128,6 +128,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-02-04T11:09:36.508Z",
+            "title": "Testing your npm package before releasing it using Verdaccio + ngrok",
+            "url": "https://blog.strapi.io/testing-npm-package-before-releasing-it-using-verdaccio-and-ngrok/",
+            "content": "npmパッケージをpublishする前にテスト方法について。\nPrivate npm registryであるVerdaccioにpublishして、localhostトンネルであるngrokを使ってテストするという話",
+            "tags": [
+                "npm",
+                "article",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
