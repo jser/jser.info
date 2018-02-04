@@ -63,6 +63,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-02-04T08:47:46.312Z",
+            "title": "Introducing React Easy State | @RisingStack",
+            "url": "https://blog.risingstack.com/introducing-react-easy-state/",
+            "content": "ES Proxyを使ったステート管理ライブラリについて",
+            "tags": [
+                "JavaScript",
+                "redux",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "solkimicreb/react-easy-state: Simple React state management. Made with ❤️ and ES6 Proxies.",
+                    "url": "https://github.com/solkimicreb/react-easy-state"
+                }
+            ]
         }
     ]
 }
