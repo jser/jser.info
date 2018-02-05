@@ -150,7 +150,7 @@
             "date": "2018-02-04T11:45:56.654Z",
             "title": "Debugging CSS Performance with Chrome’s Profiling Tools - Ada Developers Academy",
             "url": "http://adadevacademy.tumblr.com/post/170121818942/debugging-css-performance-with-chromes-profiling",
-            "content": "CSSのパフォーマンス問題について。\nReactの問題かと思って色々試したとことCSSのレンダリングの問題だった。\nインラインCSS、gradientを直すことで改善されたが、開発者ツールではこの問題がどう見えていたかについて",
+            "content": "CSSのパフォーマンス問題について。\nReactの問題かと疑って色々試した結果、CSSのレンダリングの問題であったケースについて。\nインラインCSS、gradientを直すことで改善されたが、開発者ツールではこの問題がどう見えていたかについて",
             "tags": [
                 "CSS",
                 "performance",
