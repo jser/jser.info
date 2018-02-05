@@ -198,6 +198,17 @@
                     "url": "https://github.com/v8/v8/wiki/Untrusted-code-mitigations"
                 }
             ]
+        },
+        {
+            "date": "2018-02-05T11:03:29.266Z",
+            "title": "How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them",
+            "url": "https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a",
+            "content": "WebWorkerの使い方やユースケースについて",
+            "tags": [
+                "webworker",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
