@@ -237,6 +237,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-02-07T13:06:36.863Z",
+            "title": "browserify/changelog.markdown at v16.0.0 · browserify/browserify",
+            "url": "https://github.com/browserify/browserify/blob/v16.0.0/changelog.markdown",
+            "content": "Browserify 16.0.0リリース。\n`--preserve-symlinks`のサポート、`events`のshimを更新、`--node`オプションを渡したときに`__dirname`と`__filename`を動的に設定するようになるなど",
+            "tags": [
+                "browserify",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
