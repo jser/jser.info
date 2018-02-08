@@ -289,6 +289,22 @@
                     "url": "https://github.com/tc39/proposal-json-superset"
                 }
             ]
+        },
+        {
+            "date": "2018-02-08T03:01:45.798Z",
+            "title": "Welcoming Progressive Web Apps to Microsoft Edge and Windows 10 - Microsoft Edge Dev BlogMicrosoft Edge Dev Blog",
+            "url": "https://blogs.windows.com/msedgedev/2018/02/06/welcoming-progressive-web-apps-edge-windows-10/",
+            "content": "Microsoft StoreにPWAアプリを登録できるようになる。\nまた、BingでPWAアプリのクロールを行い一定の条件を満たしたものを表示する。",
+            "tags": [
+                "MSEdge",
+                "MS"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "PWABuilder",
+                    "url": "https://www.pwabuilder.com/generator"
+                }
+            ]
         }
     ]
 }
