@@ -273,6 +273,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-02-08T02:37:33.795Z",
+            "title": "Release Notes for Safari Technology Preview 49 | WebKit",
+            "url": "https://webkit.org/blog/8088/release-notes-for-safari-technology-preview-49/",
+            "content": "Safari Technology Preview 49リリース。\nService Worker、Fetchのバグ修正、ITPにデバッグモードを試験的に追加、Media Queryで`calc()`をサポート。\n`String#trimStart`、json superset proposalの実装など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "tc39/proposal-json-superset: Proposal to make all JSON text valid ECMA-262",
+                    "url": "https://github.com/tc39/proposal-json-superset"
+                }
+            ]
         }
     ]
 }
