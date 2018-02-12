@@ -380,6 +380,19 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-02-12T02:28:45.909Z",
+            "title": "Jake Archibald: In The Loop - JSConf.Asia 2018 - YouTube",
+            "url": "https://www.youtube.com/watch?v=cCOL7MC4Pl0",
+            "content": "ブラウザのイベントループについての発表。\n`setTimeout`、`requestAnimationFrame`の違い。\nイベントループとスタイルの変更の反映のタイミングについて。それぞれを可視化しながら解説している。\nまた、PromiseなどのMicroTaskとの処理順について",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "slide",
+                "video"
+            ],
+            "relatedLinks": []
         }
     ]
 }
