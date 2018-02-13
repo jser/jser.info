@@ -446,6 +446,23 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-02-13T02:03:19.280Z",
+            "title": "JSConf.Asia 2018 - YouTube",
+            "url": "http://www.youtube.com/playlist?list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl",
+            "content": "JSConf.Asia 2018の動画が公開された",
+            "tags": [
+                "JavaScript",
+                "イベント",
+                "video"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "JSConf.Asia Singapore 2018",
+                    "url": "https://2018.jsconf.asia/"
+                }
+            ]
         }
     ]
 }
