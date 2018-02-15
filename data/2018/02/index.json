@@ -463,6 +463,17 @@
                     "url": "https://2018.jsconf.asia/"
                 }
             ]
+        },
+        {
+            "date": "2018-02-15T10:16:10.151Z",
+            "title": "Ember.js - Ember 3.0 Released",
+            "url": "https://emberjs.com/blog/2018/02/14/ember-3-0-released.html",
+            "content": "Ember 3.0リリース。\nEmber Data、Ember CLIもあわせて3.0に更新\nスクリプトタブ駆動からEmber CLIベースを基本とする方針へ変更。\nデフォルトで生成されるテストコードの変更、`get`メソッドではなくgetterでcomputed propertyを取得できるように、2.xで非推奨となったAPIの削除など",
+            "tags": [
+                "Ember",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
