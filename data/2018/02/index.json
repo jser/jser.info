@@ -485,6 +485,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-02-16T03:28:06.265Z",
+            "title": "GoogleChromeLabs/webpack-libs-optimizations: Using a library in your webpack project? Here’s how to optimize it",
+            "url": "https://github.com/GoogleChromeLabs/webpack-libs-optimizations",
+            "content": "webpackを使ったプロジェクトの最適化について。\n不要な依存を削除してファイルサイズの削減する方法や、代替手段やマイグレーション方法について",
+            "tags": [
+                "JavaScript",
+                "webpack",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
