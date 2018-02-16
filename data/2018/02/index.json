@@ -521,6 +521,18 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-02-16T16:21:33.576Z",
+            "title": "Service Worker スクリプトのインストールと更新処理",
+            "url": "http://nhiroki.jp/2018/02/15/service-worker-install-and-update-scripts",
+            "content": "Service Workerスクリプトのインストール、更新確認のロジック、キャッシュについて。\n`updateViaCache`でのキャッシュを利用するかの設定、24時間以上経過した場合は必ずサーバへ更新確認を行うことについてなど",
+            "tags": [
+                "ServiceWorker",
+                "article",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
