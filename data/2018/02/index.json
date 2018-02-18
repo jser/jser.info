@@ -577,6 +577,18 @@
                     "url": "https://stenciljs.com/docs/distribution"
                 }
             ]
+        },
+        {
+            "date": "2018-02-18T01:44:11.103Z",
+            "title": "busterc/nvx: Run commands on multiple node versions as specified from .travis.yml, circle.yml or arguments; uses npx and is ideal for testing.",
+            "url": "https://github.com/busterc/nvx",
+            "content": "指定したNode.jsのバージョンを使ってコマンドを実行できるツール。\nnpmに公開されているNode.jsバイナリを`npx`経由で実行する。",
+            "tags": [
+                "node.js",
+                "console",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
