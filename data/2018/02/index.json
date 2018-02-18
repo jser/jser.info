@@ -560,6 +560,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-02-18T01:41:51.764Z",
+            "title": "Creating and Publishing Web Components with Stencil",
+            "url": "https://www.twilio.com/blog/2018/02/creating-and-publishing-web-components-with-stencil.html",
+            "content": "stencilを使ったWeb Componentsをnpmに更新するチュートリアル",
+            "tags": [
+                "JavaScript",
+                "WebComponents",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Distributing web components built with Stencil - Stencil",
+                    "url": "https://stenciljs.com/docs/distribution"
+                }
+            ]
         }
     ]
 }
