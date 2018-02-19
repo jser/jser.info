@@ -672,6 +672,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-02-19T11:46:01.070Z",
+            "title": "ZEIT – Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones",
+            "url": "https://zeit.co/blog/next5",
+            "content": "Next.js 5.0リリース。\nUniversal Webpack、CSSやpreact、TypeScriptなどをオプトインでサポートするプラグイン機構の導入、ビルドの高速化など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
