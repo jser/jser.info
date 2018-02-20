@@ -685,6 +685,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-02-20T02:35:08.333Z",
+            "title": "axios/CHANGELOG.md at v0.18.0 · axios/axios",
+            "url": "https://github.com/axios/axios/blob/v0.18.0/CHANGELOG.md",
+            "content": "axios 0.18.0リリース。\nNode.jsでUnix Socketのサポート、型定義の修正など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Umbrella issue for v1.0.0 · Issue #1333 · axios/axios",
+                    "url": "https://github.com/axios/axios/issues/1333"
+                }
+            ]
         }
     ]
 }
