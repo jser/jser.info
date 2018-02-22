@@ -738,6 +738,21 @@
                 "yarn"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-02-22T16:07:28.776Z",
+            "title": "Wedgetail",
+            "url": "https://wedgetail.js.org/index.html",
+            "content": "コードの実行時間が期待値かをテストするライブラリ。\nlow、hight、averageを指定しコードの実行時間のテストを行える。\nまたパーセンタイルに対応している。",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "library",
+                "testing",
+                "benchmark",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
