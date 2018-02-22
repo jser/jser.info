@@ -740,17 +740,17 @@
             "relatedLinks": []
         },
         {
-            "date": "2018-02-22T16:07:28.776Z",
+            "date": "2018-02-22T16:08:44.426Z",
             "title": "Wedgetail",
             "url": "https://wedgetail.js.org/index.html",
-            "content": "コードの実行時間が期待値かをテストするライブラリ。\nlow、hight、averageを指定しコードの実行時間のテストを行える。\nまたパーセンタイルに対応している。",
+            "content": "コードの実行時間が期待値かをテストするライブラリ。 low、hight、averageを指定しコードの実行時間のテストを行える。 またパーセンタイルに対応している。",
             "tags": [
                 "JavaScript",
-                "node.js",
-                "library",
-                "testing",
                 "benchmark",
-                "performance"
+                "library",
+                "node.js",
+                "performance",
+                "testing"
             ],
             "relatedLinks": []
         }
