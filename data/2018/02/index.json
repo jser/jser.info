@@ -765,6 +765,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-02-23T02:34:43.555Z",
+            "title": "Release electron v2.0.0-beta.1 · electron/electron",
+            "url": "https://github.com/electron/electron/releases/tag/v2.0.0-beta.1",
+            "content": "Electron v2.0.0-beta.1リリース。\nChrome 61.0.3163.10、Node 8.9.3に更新。\n非推奨のAPIの削除、`window.loadFile`のサポート、Macでin-app purchaseのサポートなど",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
