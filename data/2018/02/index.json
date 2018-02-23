@@ -776,6 +776,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-02-23T03:41:08.861Z",
+            "title": "Node v9.6.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v9.6.0/",
+            "content": "Node v9.6.0リリース。\n`asyncResource.emit{Before,After}`が非推奨となり`asyncResource.runInAsyncScope`を変わりに追加。\nDynamic Importのサポート、`vm`モジュールがES Moduleをサポート、",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
