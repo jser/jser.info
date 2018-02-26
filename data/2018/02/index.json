@@ -879,6 +879,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-02-26T14:07:57.639Z",
+            "title": "Using Promise.prototype.finally in Node.js | www.thecodebarbarian.com",
+            "url": "http://thecodebarbarian.com/using-promise-finally-in-node-js.html",
+            "content": "`Promise#finally`についての記事。\nPromiseの状態遷移や`finally`の動作について。また`finally`のハンドラでエラーが起きた際の動作について",
+            "tags": [
+                "Promises",
+                "article",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
