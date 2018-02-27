@@ -923,6 +923,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-02-27T01:43:28.014Z",
+            "title": "KeyboardEvent.keyCodeとは何か - WebStudio",
+            "url": "https://d-toybox.com/studio/lib/what_is_keyCode.html",
+            "content": "`KeyboardEvent.keyCode`の歴史や実装について。\n`keyCode`はOSやブラウザ間で問題があり標準化もされていないため、`key`や`code`を代わりに使うべきという話。",
+            "tags": [
+                "DOM",
+                "JavaScript",
+                "キーボード"
+            ],
+            "relatedLinks": []
         }
     ]
 }
