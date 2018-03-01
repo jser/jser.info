@@ -47,6 +47,18 @@
                 "webpack"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-01T13:57:21.939Z",
+            "title": "Prettier 1.11: CSS fixes and new TypeScript feature support · Prettier",
+            "url": "https://prettier.io/blog/2018/02/26/1.11.0.html",
+            "content": "Prettier 1.11リリース。\nFacebookのコードベースは100% Prettierを通すようになった。\nPostCSSの対応改善、TypeScript 2.7の対応、pluginでオプションのサポートなど。",
+            "tags": [
+                "JavaScript",
+                "ReleaseNote",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
