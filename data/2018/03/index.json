@@ -33,6 +33,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-01T13:43:20.850Z",
+            "title": "Manual Typing is No Fun: Introducing TypeWiz! – Uri Shaked – Medium",
+            "url": "https://medium.com/@urish/manual-typing-is-no-fun-introducing-typewiz-58e3e8813f4c",
+            "content": "JavaScriptからTypeScriptに移行する際の型付けを補助するツール。\nwebpackやnode hookを使い変換したコードを実行し、実行時の関数の引数、返り値、変数へ実際に入った値から型を推測する。\nその推測した型をTypeScriptのコードに対して適応することで片付けを補助する。",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "library",
+                "Tools",
+                "webpack"
+            ],
+            "relatedLinks": []
         }
     ]
 }
