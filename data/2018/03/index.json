@@ -165,6 +165,18 @@
                 "PWA"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-05T01:19:20.692Z",
+            "title": "hyperHTMLやlit-htmlが効率的に再描画を行う仕組み - Qiita",
+            "url": "https://qiita.com/rikuba/items/92da6d99e2b0f831cc65",
+            "content": "hyperHTMLやlit-htmlのDOM更新の仕組みについて。\nタグ付きテンプレート関数を使い、初回時に更新時はどの位置の要素を更新するかをマッピング、更新時はマッピングを元に要素/値の更新だけを行う。\nまたテンプレートのキャッシュを利用し無駄なパースを避けるなどの工夫について。",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
