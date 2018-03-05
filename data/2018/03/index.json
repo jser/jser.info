@@ -177,6 +177,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-05T10:51:58.332Z",
+            "title": "Loading Third-Party JavaScript  |  Web Fundamentals  |  Google Developers",
+            "url": "https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript/",
+            "content": "サードパーティスクリプトのパフォーマンスへの影響について。\n開発者ツールを使っての可視化、開発者ツールやWebPageTestでリクエストをブロックしての影響度の確認方法、Long Taskの確認方法、Resource Hintなどを使った改善方法について",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
