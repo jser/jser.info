@@ -244,6 +244,26 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-06T01:33:57.187Z",
+            "title": "Web Components で 社内 UI ライブラリを作っている話",
+            "url": "https://jmblog.jp/slides/webcomponents.kyoto.2.pdf",
+            "content": "プリミティブなコンポーネントをWebComponentとして作成することに関するスライド。\nReactやAngularなど各種ライブラリから利用できる共通コンポーネントとして作成。\n`lit-html`を使ったコンポーネントとスタイル、コンポーネントの配布の問題についてなど",
+            "tags": [
+                "slide",
+                "WebComponents"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Custom Elements Everywhere",
+                    "url": "https://custom-elements-everywhere.com/"
+                },
+                {
+                    "title": "lit-html と ShadyCSS - jmblog.jp",
+                    "url": "https://jmblog.jp/posts/2018-02-15/lit-html-with-shadycss/"
+                }
+            ]
         }
     ]
 }
