@@ -216,6 +216,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-06T01:23:10.662Z",
+            "title": "Bit - The fastest way to share code",
+            "url": "https://bitsrc.io/",
+            "content": "JavaScriptのコード/コンポーネントシェアサービス。\nコンポーネントを管理/公開するCLIが用意されている。\nコンポーネントの公開/管理/発見の難しさの問題の解決を意図したサービス。",
+            "tags": [
+                "JavaScript",
+                "webservice"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "How To “Publish” Multiple Packages From Any Repository In 5 Minutes",
+                    "url": "https://blog.bitsrc.io/how-to-publish-multiple-packages-from-any-repository-in-5-minutes-9aafd31d85b7"
+                }
+            ]
         }
     ]
 }
