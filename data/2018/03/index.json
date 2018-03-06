@@ -264,6 +264,18 @@
                     "url": "https://jmblog.jp/posts/2018-02-15/lit-html-with-shadycss/"
                 }
             ]
+        },
+        {
+            "date": "2018-03-06T13:38:41.946Z",
+            "title": "Release Futura · sass/libsass",
+            "url": "https://github.com/sass/libsass/releases/tag/3.5.0",
+            "content": "Sass 3.5リリース。\n引数のtrailing commasサポート、`content-exists`関数のサポート、CSSのCustom Property、`var()`のサポートなど",
+            "tags": [
+                "Sass",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
