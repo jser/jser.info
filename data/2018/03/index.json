@@ -141,15 +141,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2018-03-03T12:56:32.039Z",
+            "date": "2018-03-06T01:34:58.691Z",
             "title": "TestCafe v0.19.0 Released - Rapid Test Development Tool, Screenshots of Page Elements, etc | TestCafe",
             "url": "http://devexpress.github.io/testcafe/blog/testcafe-v0-19-0-released.html",
-            "content": "TestCafe 0.19.0リリース。\nファイル監視をし保存されたら再実行できる`testcafe-live`コマンドの追加。\nセレクタの結果をフィルターする`filterVisible`と`filterHidden`の追加、テキストマッチした要素を取得する`withExactText `の追加など",
+            "content": "TestCafe 0.19.0リリース。 ファイル監視し保存されたら再実行できる`testcafe-live`コマンドの追加。 セレクタの結果をフィルターする`filterVisible`と`filterHidden`の追加、テキストマッチした要素を取得する`withExactText `の追加など",
             "tags": [
                 "JavaScript",
-                "testing",
+                "ReleaseNote",
                 "library",
-                "ReleaseNote"
+                "testing"
             ],
             "relatedLinks": []
         },
