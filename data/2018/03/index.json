@@ -276,6 +276,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-08T01:34:20.641Z",
+            "title": "DoneJS 2.0 Released",
+            "url": "https://www.bitovi.com/blog/donejs-2.0",
+            "content": "DoneJS 2.0リリース。\nCanJS 4.0に対応、CIやデプロイの設定を`donejs add`で行えるように、`donejs upgrade`でマイグレーションができるようになっている。\nHTTP/2 pushを使ったインクリメンタルレンダリングの対応改善など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Create Streamable, High-Performance Web Applications",
+                    "url": "https://www.bitovi.com/streamable"
+                }
+            ]
         }
     ]
 }
