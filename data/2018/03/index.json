@@ -376,6 +376,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-11T14:32:53.442Z",
+            "title": "Feature Policy による Permission Delegation | blog.jxck.io",
+            "url": "https://blog.jxck.io/entries/2018-03-08/feature-policy-permission-delegation.html",
+            "content": "iframe sandbox、CSP、Feature Policyの役割について。\n`sandbox`はホワイリトストでの機能制限、CSPはブラックリストでの機能制限、Feature Policyは権限の設定をオリジンに対して行う。\nまた`sandbox`とFeature Policyの機能重複はしないことについて",
+            "tags": [
+                "browser",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
