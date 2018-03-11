@@ -364,6 +364,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-11T14:00:57.098Z",
+            "title": "Emscripting a C library to Wasm  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2018/03/emscripting-a-c-library",
+            "content": "Emscriptenを使いCのコードをWebAssemblyにして実行するチュートリアル。\nlibwebpをwasmにポートする話",
+            "tags": [
+                "WebAssembly",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
