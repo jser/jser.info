@@ -388,6 +388,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-11T14:59:52.001Z",
+            "title": "Web Workers to the rescue – Rastislav Svarba – Medium",
+            "url": "https://rast.io/web-workers-rescue",
+            "content": "Web Workerを使った処理の移譲のコストと効果についての記事。\nデータの取得と処理をWorkerに移動した場合の処理時間とWorkerへのデータ受け渡しのコストについて",
+            "tags": [
+                "JavaScript",
+                "webworker",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
