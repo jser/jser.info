@@ -460,6 +460,27 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-12T23:12:01.700Z",
+            "title": "MobX 4: Better, simpler, faster, smaller – Michel Weststrate – Medium",
+            "url": "https://medium.com/@mweststrate/mobx-4-better-simpler-faster-smaller-c1fbc08008da",
+            "content": "MobX 4リリース。\nDecorator proposal(`@decorator`)を使わずに同じことをする`decorate`関数の追加、コレクション向けのUtility APIを追加、`when`の追加など。\nまた`shareGlobalState`の削除、APIのリネーム、default exportをしないようにするなどの破壊的変更が行われている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migrating from mobx 3 to mobx 4 · mobxjs/mobx Wiki",
+                    "url": "https://github.com/mobxjs/mobx/wiki/Migrating-from-mobx-3-to-mobx-4"
+                },
+                {
+                    "title": "mobx/CHANGELOG.md at master · mobxjs/mobx",
+                    "url": "https://github.com/mobxjs/mobx/blob/master/CHANGELOG.md#400"
+                }
+            ]
         }
     ]
 }
