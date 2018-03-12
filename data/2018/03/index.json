@@ -448,6 +448,18 @@
                     "url": "https://blog.chromium.org/2018/02/chrome-65-beta-css-paint-api-and.html"
                 }
             ]
+        },
+        {
+            "date": "2018-03-12T22:56:32.931Z",
+            "title": "zipson | JSON parse and stringify with compression",
+            "url": "https://jgranstrom.github.io/zipson/",
+            "content": "`JSON.stringify`/`JSON.parse`の代替ライブラリ。\nデータの圧縮やStreamingのサポートを目的にしている",
+            "tags": [
+                "JavaScript",
+                "JSON",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
