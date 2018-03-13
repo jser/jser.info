@@ -266,14 +266,14 @@
             ]
         },
         {
-            "date": "2018-03-06T13:38:41.946Z",
+            "date": "2018-03-13T01:20:56.827Z",
             "title": "Release Futura · sass/libsass",
             "url": "https://github.com/sass/libsass/releases/tag/3.5.0",
-            "content": "Sass 3.5リリース。\n引数のtrailing commasサポート、`content-exists`関数のサポート、CSSのCustom Property、`var()`のサポートなど",
+            "content": "libsass 3.5リリース。 引数のtrailing commasサポート、`content-exists`関数のサポート、CSSのCustom Property、`var()`のサポートなど",
             "tags": [
+                "ReleaseNote",
                 "Sass",
-                "library",
-                "ReleaseNote"
+                "library"
             ],
             "relatedLinks": []
         },
