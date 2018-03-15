@@ -519,9 +519,28 @@
                 "ORM"
             ],
             "relatedLinks": [
-                { "title" : "Vuexでリレーションを持った複雑なデータ構造を上手く扱うには - Qiita", "url" : "https://qiita.com/kiaking/items/bcd5360fb3106cf22a81"},
-                { "title" : "paularmstrong/normalizr: Normalizes nested JSON according to a schema", "url" : "https://github.com/paularmstrong/normalizr"}
+                {
+                    "title": "Vuexでリレーションを持った複雑なデータ構造を上手く扱うには - Qiita",
+                    "url": "https://qiita.com/kiaking/items/bcd5360fb3106cf22a81"
+                },
+                {
+                    "title": "paularmstrong/normalizr: Normalizes nested JSON according to a schema",
+                    "url": "https://github.com/paularmstrong/normalizr"
+                }
             ]
+        },
+        {
+            "date": "2018-03-15T21:49:31.301Z",
+            "title": "maticzav/emma-cli: 📦 Terminal assistant to find and install node packages.",
+            "url": "https://github.com/maticzav/emma-cli",
+            "content": "npmモジュールの検索とインストールを行うツール",
+            "tags": [
+                "npm",
+                "検索",
+                "console",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
