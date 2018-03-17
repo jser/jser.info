@@ -574,6 +574,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-17T01:10:15.577Z",
+            "title": "Release v1.2.0 · GoogleChrome/puppeteer",
+            "url": "https://github.com/GoogleChrome/puppeteer/releases/tag/v1.2.0",
+            "content": "puppeteer 1.2.0リリース。\n`elementHandle.contentFrame()`の追加、リダイレクト回数を返す`request.redirectChain()`の追加など",
+            "tags": [
+                "Chrome",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
