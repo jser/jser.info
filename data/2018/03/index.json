@@ -586,6 +586,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-17T14:44:05.381Z",
+            "title": "Unblocking Clipboard Access  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2018/03/clipboardapi",
+            "content": "Async Clipboard APIについての紹介。\n今まで`document.execCommand`でやっていたものをちゃんとしたPermissionモデルと共に扱えるAPIについて",
+            "tags": [
+                "JavaScript",
+                "clipboard",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
