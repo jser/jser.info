@@ -638,6 +638,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-18T14:42:54.192Z",
+            "title": "webpack 4 の optimization.splitChunks（廃止されたCommonsChunkPluginの代わり） の使い方、使い所 - Qiita",
+            "url": "https://qiita.com/soarflat/items/1b5aa7163c087a91877d",
+            "content": "webpack 4の`optimization`オプションについて。\n`optimization.*`の設定とそれぞれの出力結果について",
+            "tags": [
+                "webpack",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
