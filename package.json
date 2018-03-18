@@ -21,6 +21,7 @@
     "url": "https://github.com/jser/jser.info/issues"
   },
   "dependencies": {
+    "@textlint/linter-formatter": "^3.0.4",
     "jser-classifier-item-category": "^1.6.1"
   },
   "devDependencies": {
@@ -40,10 +41,10 @@
     "moment": "^2.17.1",
     "node-fetch": "^1.3.3",
     "q-io": "^1.11.6",
-    "textlint": "^7.0.1",
-    "textlint-formatter": "^1.4.1",
+    "textlint": "^10.1.4",
+    "textlint-formatter": "^3.0.2",
     "textlint-rule-no-doubled-joshi": "^3.3.0",
-    "textlint-rule-proofdict": "^1.0.2",
+    "textlint-rule-proofdict": "^2.0.3",
     "to-markdown": "^3.0.0"
   }
 }

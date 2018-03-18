@@ -1,7 +1,7 @@
 {
   "rules": {
     "proofdict": {
-      "autoUpdate": true
+      "dictURL": "https://azu.github.io/proof-dictionary"
     },
     "no-doubled-joshi": true
   }
