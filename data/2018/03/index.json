@@ -660,6 +660,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-18T15:00:23.672Z",
+            "title": "Redruco: Truco para aprender Redux (Parte 1) – Javier Fernandes – Medium",
+            "url": "https://medium.com/@javierfernandes/redruco-truco-para-aprender-redux-parte-1-c72d052576b0",
+            "content": "React/Reduxを使ったアプリケーション開発についての連載。\nReduxが必要となる状態はどのようなケースか、また開発においてもアプリの状態とUIの詳細は独立して考えられることについて。\nStorybookでコンポーネントを確認しながら開発し、アプリを作るチュートリアル。",
+            "tags": [
+                "JavaScript",
+                "redux",
+                "React",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
