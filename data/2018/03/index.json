@@ -685,6 +685,18 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-19T13:16:54.155Z",
+            "title": "Everyone can now run JavaScript on Cloudflare with Workers",
+            "url": "https://blog.cloudflare.com/cloudflare-workers-unleashed/",
+            "content": "Cloudflare Workersが一般公開された。\nCDN上でService Workerと同じようなAPIで処理を書くことができるサービス。",
+            "tags": [
+                "cdn",
+                "ServiceWorker",
+                "webservice"
+            ],
+            "relatedLinks": []
         }
     ]
 }
