@@ -736,6 +736,22 @@
                 "babel"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-19T23:44:12.804Z",
+            "title": "Strongly Typed Event Emitters – Brian Terlson – Medium",
+            "url": "https://medium.com/@bterlson/strongly-typed-event-emitters-2c2345801de8",
+            "content": "TypeScript 2.8(RC)のConditional Typeを使ったEventEmitterの型付けについて",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "bterlson/strict-event-emitter-types: A type-only library for strongly typing any event emitter",
+                    "url": "https://github.com/bterlson/strict-event-emitter-types"
+                }
+            ]
         }
     ]
 }
