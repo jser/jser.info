@@ -697,6 +697,19 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-19T15:36:47.843Z",
+            "title": "#SmooshGate FAQ  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2018/03/smooshgate",
+            "content": "ECMAScriptで`Array.prototype.flatten` Proposalが既存のMooToolsなどのライブラリと名前がバッティングするためbreak the webとなる問題について。\n標準化する実装と異なる点だけではなく、prototypeを列挙している点にも問題がある。\nまた、なぜ既存の実装を変更しても解決にならないかや今後について。",
+            "tags": [
+                "ECMAScript",
+                "article",
+                "JavaScript",
+                "TC39"
+            ],
+            "relatedLinks": []
         }
     ]
 }
