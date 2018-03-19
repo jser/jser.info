@@ -722,6 +722,20 @@
                 "console"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-19T23:36:16.740Z",
+            "title": "FromJS - Understand JavaScript Apps",
+            "url": "http://www.fromjs.com/",
+            "content": "DOMをインスペクトし、表示されている文字列がコードのどこで生成されているかを検索できるChrome拡張。\n既存のHTMLを生成するDOM APIを上書きしトレースしている",
+            "tags": [
+                "DOM",
+                "Chrome",
+                "Extension",
+                "debug",
+                "babel"
+            ],
+            "relatedLinks": []
         }
     ]
 }
