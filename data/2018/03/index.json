@@ -786,6 +786,22 @@
                 "webpack"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-21T05:15:40.697Z",
+            "title": "ESLint v4.19.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2018/03/eslint-v4.19.0-released",
+            "content": "ESLint 4.19.0リリース。\nES2018のRegExp拡張に対応など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESLint v4.19.0 - Qiita",
+                    "url": "https://qiita.com/mysticatea/items/be9558c263aca26416ca"
+                }
+            ]
         }
     ]
 }
