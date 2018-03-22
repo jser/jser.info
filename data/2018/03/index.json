@@ -802,6 +802,18 @@
                     "url": "https://qiita.com/mysticatea/items/be9558c263aca26416ca"
                 }
             ]
+        },
+        {
+            "date": "2018-03-22T02:18:54.357Z",
+            "title": "Securing Node Applications: Web Programming Conference | Web Performance Conference | Fluent",
+            "url": "https://conferences.oreilly.com/fluent/fl-ca/public/content/securing-node-applications",
+            "content": "OWASP Top 10 security risksとNode.jsについての小さな書籍。\nそれぞれの脆弱性の紹介やNode.jsを使った場合での対策についてまとめられている",
+            "tags": [
+                "node.js",
+                "security",
+                "book"
+            ],
+            "relatedLinks": []
         }
     ]
 }
