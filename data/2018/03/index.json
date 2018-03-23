@@ -814,6 +814,20 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-23T03:14:23.928Z",
+            "title": "agis/mcdetect: Catch mixed content issues in the wild",
+            "url": "https://github.com/agis/mcdetect",
+            "content": "Headless Chromeを使ったMixed Contentの検知ツール",
+            "tags": [
+                "JavaScript",
+                "security",
+                "browser",
+                "Chrome",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
