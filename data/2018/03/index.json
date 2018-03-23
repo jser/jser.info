@@ -828,6 +828,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-23T14:39:58.769Z",
+            "title": "Release Release of 1.0.0 · laurentj/slimerjs",
+            "url": "https://github.com/laurentj/slimerjs/releases/tag/1.0.0",
+            "content": "FirefoxベースのPhantomJSライクなライブラリであるSlimerJS 1.0リリース。\nFirefox 56以降では`--headless`を使うことでヘッドレスブラウザとして利用できるようになるなど",
+            "tags": [
+                "firefox",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
