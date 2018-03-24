@@ -867,6 +867,17 @@
                     "url": "https://github.com/d3/d3-scale-chromatic"
                 }
             ]
+        },
+        {
+            "date": "2018-03-24T03:09:57.237Z",
+            "title": "continuationlabs/wequire: synchronously load wasm files",
+            "url": "https://github.com/continuationlabs/wequire",
+            "content": "Node.jsで`.wasm`ファイルを同期的読み込めるライブラリ",
+            "tags": [
+                "node.js",
+                "WebAssembly"
+            ],
+            "relatedLinks": []
         }
     ]
 }
