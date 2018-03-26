@@ -942,6 +942,20 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-26T10:14:02.122Z",
+            "title": "技術要素編: web アプリが新陳代謝を続けるための依存関係の厳選（新規開発のメモ書きシリーズ1） ::ハブろぐ",
+            "url": "https://havelog.ayumusato.com/develop/others/e747-scratch_memo_1.html",
+            "viaURL": "puppeteer",
+            "content": "ウェブアプリの技術選定、ビルド設定、コード設計、アーキテクチャについての連載記事。\n新規でウェブアプリを開発する際にどのような理由でライブラリやビルドツール、ディレクトリ構造などの採用したか、配信におけるCDNやパフォーマンス計測について",
+            "tags": [
+                "JavaScript",
+                "project",
+                "article",
+                "architecture"
+            ],
+            "relatedLinks": []
         }
     ]
 }
