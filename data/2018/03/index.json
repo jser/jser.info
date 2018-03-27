@@ -993,6 +993,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-27T01:30:35.144Z",
+            "title": "Server Timing APIを使ってサーバーサイドのベンチマークを手軽にやる | ブログ :: Web notes.log",
+            "url": "http://blog.wnotes.net/blog/article/server-side-benchmark-using-server-timing-api",
+            "content": "Server Timinig APIを使いサーバサイドのリクエストごとのベンチマークをとり、Chromeの開発者ツールに表示するライブラリについて",
+            "tags": [
+                "node.js",
+                "server",
+                "library",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
