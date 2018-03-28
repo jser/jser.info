@@ -1006,6 +1006,18 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-28T09:23:32.312Z",
+            "title": "CondeNast/perf-timeline-cli: Generate Chrome Performance Timelines via a command line interface",
+            "url": "https://github.com/CondeNast/perf-timeline-cli",
+            "content": "Chrome開発者ツールのPerformanceパネルの情報を取得するCLIツール。\nPuppeteerを使ってアクセスした結果を取得する",
+            "tags": [
+                "Chrome",
+                "performance",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
