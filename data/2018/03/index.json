@@ -1018,6 +1018,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-28T14:28:56.265Z",
+            "title": "Announcing TypeScript 2.8 | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2018/03/27/announcing-typescript-2-8/",
+            "content": "TypeScript 2.8リリース。\nConditional Types、d.ts飲みの出力に対応、`@jsx` pragmaコメントのサポート、mapped type modifierの`+`、`-`のサポートなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
