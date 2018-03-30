@@ -1079,6 +1079,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-30T01:53:20.388Z",
+            "title": "March 2018 Security Releases | Node.js",
+            "url": "https://nodejs.org/en/blog/vulnerability/march-2018-security-releases/",
+            "content": "Node.jsのセキュリティアップデートとして、それぞれのLTSと開発バージョンのアップデートが公開された\n\n- Node.js 9.10.0\n- Node.js 8.11.0 (LTS \"Carbon\")\n- Node.js 6.14.0 (LTS \"Boron\")\n- Node.js 4.9.0 (LTS \"Argon\")\n",
+            "tags": [
+                "node.js",
+                "ReleaseNote",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
