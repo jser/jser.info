@@ -1052,6 +1052,22 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-30T01:41:32.043Z",
+            "title": "React v16.3.0: New lifecycles and context API - React Blog",
+            "url": "https://reactjs.org/blog/2018/03/29/react-v-16-3.html",
+            "content": "React v16.3.0リリース。\n新しいContext APIの追加、`createRef`メソッドの追加、`forwardRef`メソッドの追加。\nコンポーネントライフサイクルイベントの変更と追加、`StrictMode`コンポーネントの追加など",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Update on Async Rendering - React Blog",
+                    "url": "https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html"
+                }
+            ]
         }
     ]
 }
