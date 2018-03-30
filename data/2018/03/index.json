@@ -1107,6 +1107,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-30T08:31:57.372Z",
+            "title": "asfktz/Awaity.js: A functional, lightweight alternative to bluebird.js, built with async / await in mind.",
+            "url": "https://github.com/asfktz/Awaity.js",
+            "content": "async/awaitベースのコレクション系ライブラリ\nmap、filter、reduceなどのPromiseに対するコレクション操作を提供するライブラリ",
+            "tags": [
+                "JavaScript",
+                "Promises",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
