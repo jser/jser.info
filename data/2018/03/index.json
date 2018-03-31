@@ -1184,6 +1184,24 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-31T04:36:48.003Z",
+            "title": "TensorFlow.js",
+            "url": "https://js.tensorflow.org/",
+            "content": "tensorflowのJavaScript版。\nWebGLを使った機械学習を行え、既存の学習モデルはconverterで変換し利用できる。",
+            "tags": [
+                "MachineLearning",
+                "JavaScript",
+                "library",
+                "WebGL"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "tensorflow/tfjs-converter: Convert TensorFlow SavedModel and Keras models to TensorFlow.js",
+                    "url": "https://github.com/tensorflow/tfjs-converter"
+                }
+            ]
         }
     ]
 }
