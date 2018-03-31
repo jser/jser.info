@@ -1132,6 +1132,31 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-03-31T02:40:44.191Z",
+            "title": "V8 JavaScript Engine: V8 release v6.6",
+            "url": "https://v8project.blogspot.com/2018/03/v8-release-66.html",
+            "content": "V8 v6.6(Chrome 66)リリース。\nECMAScript Proposalの対応として`Function#toString()`の仕様追従、JSがJSONのsupersetとなる仕様追従。\nまた`catch`構文のパラメータを省略に対応、`String#trimStart`や`String#trimEnd`の実装など。\nBackground compilationの対応やAsync、Arrayのパフォーマンス改善など",
+            "tags": [
+                "V8",
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Function.prototype.toString revision",
+                    "url": "https://tc39.github.io/Function-prototype-toString-revision/"
+                },
+                {
+                    "title": "tc39/proposal-json-superset: Proposal to make all JSON text valid ECMA-262",
+                    "url": "https://github.com/tc39/proposal-json-superset"
+                },
+                {
+                    "title": "tc39/proposal-string-left-right-trim: A proposal to the ECMAScript standard for including left and right trim of whitespace to strings",
+                    "url": "https://github.com/tc39/proposal-string-left-right-trim"
+                }
+            ]
         }
     ]
 }
