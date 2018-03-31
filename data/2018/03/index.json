@@ -1157,6 +1157,19 @@
                     "url": "https://github.com/tc39/proposal-string-left-right-trim"
                 }
             ]
+        },
+        {
+            "date": "2018-03-31T04:05:24.404Z",
+            "title": "ZEIT – Next.js 5.1: Faster Page Resolution, Environment Config & More",
+            "url": "https://zeit.co/blog/next5-1",
+            "content": "Next.js 5.1リリース。\nページロードの速度改善、設定を定義できる`publicRuntimeConfig`と`serverRuntimeConfig`を追加、エラーハンドリングの改善など",
+            "tags": [
+                "React",
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
