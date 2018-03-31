@@ -1225,6 +1225,18 @@
                     "url": "https://nodejs.org/api/assert.html#assert_strict_mode"
                 }
             ]
+        },
+        {
+            "date": "2018-03-31T05:11:43.819Z",
+            "title": "📦 Parcel v1.7.0: – devongovett – Medium",
+            "url": "https://medium.com/@devongovett/parcel-v1-7-0-9aac0c505837",
+            "content": "Parcel v1.7.0リリース。\n`.vue`とPugのサポート、出力するファイルにハッシュ値を付与するように、absolute pathとtilde(`~`) pathのサポート、必要な依存を自動的にインストールするようになるなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
