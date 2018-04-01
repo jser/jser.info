@@ -65,6 +65,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-01T05:37:04.320Z",
+            "title": "Announcing TypeScript 2.8 | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2018/03/27/announcing-typescript-2-8/",
+            "content": "TypeScript 2.8リリース。 Conditional Types、d.tsのみの出力に対応、`@jsx` pragmaコメントのサポート、mapped type modifierの`+`、`-`のサポートなど",
+            "tags": [
+                "ReleaseNote",
+                "TypeScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "TypeScript 2.8.1 変更点 - Qiita",
+                    "url": "https://qiita.com/vvakame/items/2e32aeded05997f77dfa"
+                }
+            ]
         }
     ]
 }
