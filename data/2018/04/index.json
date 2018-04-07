@@ -108,6 +108,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-07T02:27:46.005Z",
+            "title": "Lazy Loading Images and Video  |  Web Fundamentals  |  Google Developers",
+            "url": "https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/",
+            "content": "画像や動画の遅延ロードについて。\n画像の遅延ロードとしてIntersection Observerを使った方法、CSSを使った方法について。\n動画とGIFのロード、遅延ロードを補助するライブラリ、ロードに失敗した時のFallbackなどについて",
+            "tags": [
+                "performance",
+                "browser",
+                "JavaScript",
+                "CSS"
+            ],
+            "relatedLinks": []
         }
     ]
 }
