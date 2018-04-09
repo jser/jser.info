@@ -262,6 +262,17 @@
                 "AST"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-09T15:50:19.835Z",
+            "title": "Introducing the Payment Request API for Apple Pay | WebKit",
+            "url": "https://webkit.org/blog/8182/introducing-the-payment-request-api-for-apple-pay/",
+            "content": "Safari 11.1のPayment Request APIでApple Payを利用する方法についての解説記事。\n`-webkit-appearance: -apple-pay-button;\"`のスタイルを指定するだけでAppley Payボタンを表示できる。\nまたPayment Request APIの使い方について。",
+            "tags": [
+                "safari",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
