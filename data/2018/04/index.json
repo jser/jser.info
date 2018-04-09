@@ -249,6 +249,19 @@
                 "PWA"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-09T15:47:53.205Z",
+            "title": "Transform your codebase using codemods | nec.is",
+            "url": "https://nec.is/writing/transform-your-codebase-using-codemods/",
+            "content": "jscodeshiftを使ったJavaScriptのコード変換についての記事。\nどのようにJavaScriptのコードを扱うのか、ASTについて、jscodeshiftのAPIについて紹介している",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "article",
+                "AST"
+            ],
+            "relatedLinks": []
         }
     ]
 }
