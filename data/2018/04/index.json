@@ -194,6 +194,17 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-09T14:42:33.122Z",
+            "title": "Strategies for Service Worker Caching for Progressive Web Apps",
+            "url": "https://blog.hasura.io/strategies-for-service-worker-caching-d66f3c828433",
+            "content": "Service Workerのキャッシュの仕組みとキャッシュの問題があるケースについて。\n壊れたデプロイを行った時の問題、`service-worker.js`ファイル自体をキャッシュした時の問題、キャッシュすべきでないレスポンスなどについて。\nまた`create-react-app`の事例や`Clear-Site-Data`ヘッダについて",
+            "tags": [
+                "ServiceWorker",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
