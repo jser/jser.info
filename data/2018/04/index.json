@@ -146,6 +146,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-09T02:45:52.267Z",
+            "title": "kwolfy/webworker-promise: Promise based wrapper for webworkers",
+            "url": "https://github.com/kwolfy/webworker-promise",
+            "content": "WebWorkerを扱うライブラリ。\nEventEmitterライクなイベントの仕組みとPromiseを使った非同期処理、Worker poolの仕組みなどを持っている",
+            "tags": [
+                "JavaScript",
+                "webworker",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
