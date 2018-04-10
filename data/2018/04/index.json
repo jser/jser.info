@@ -285,6 +285,18 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-10T01:33:49.243Z",
+            "title": "Understanding JavaScript Proxies by Examining on-change Library",
+            "url": "https://codeburst.io/understanding-javascript-proxies-by-examining-on-change-library-f252eddf76c2",
+            "content": "プロパティの変更検知をES Proxyで実装しながら、Proxyについて紹介している記事",
+            "tags": [
+                "JavaScript",
+                "proxy",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
