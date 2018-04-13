@@ -333,6 +333,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-13T08:52:54.870Z",
+            "title": "zzarcon/default-passive-events: Makes {passive: true} by default when EventListenerOptions are supported",
+            "url": "https://github.com/zzarcon/default-passive-events",
+            "content": "Passive Event Listenersをデフォルトで有効化してくれるpatchライブラリ",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
