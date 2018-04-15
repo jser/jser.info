@@ -460,6 +460,22 @@
                     "url": "https://webassembly.studio/"
                 }
             ]
+        },
+        {
+            "date": "2018-04-15T12:41:42.197Z",
+            "title": "sarahdayan/dinero.js: 💸 An immutable library to create, calculate and format monetary values.",
+            "url": "https://github.com/sarahdayan/dinero.js",
+            "content": "通貨の計算を扱うライブラリ。\nImmutableなデータとして通貨と金額を扱い、また浮動小数点数の問題を回避した計算するメソッドを提供する。\nフォーマットには`Number.prototype.toLocaleString`を利用している。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "How to Handle Monetary Values in JavaScript | frontstuff",
+                    "url": "https://frontstuff.io/how-to-handle-monetary-values-in-javascript"
+                }
+            ]
         }
     ]
 }
