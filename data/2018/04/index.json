@@ -443,6 +443,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-15T09:57:08.474Z",
+            "title": "Sneak Peek at WebAssembly Studio – Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/",
+            "content": "ブラウザ上でC/C++/RustのコードをWebSeemblyにコンパイルして実行できる開発環境のWebAssembly.Studioがβ公開された",
+            "tags": [
+                "WebAssembly",
+                "editor",
+                "webservice"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "WebAssembly Studio",
+                    "url": "https://webassembly.studio/"
+                }
+            ]
         }
     ]
 }
