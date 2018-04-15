@@ -407,6 +407,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-15T08:48:49.580Z",
+            "title": "What's New In DevTools (Chrome 67)  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2018/04/devtools",
+            "content": "Chrome 67の開発者ツールの変更点について。\nネットワークパネルの検索改善、リクエストを`fetch` APIのコードとしてコピーできるように、Auditパネルの改善、無限ループを停止できるように。\nまた、メモリパネル、パフォーマンスパネルでSite Isolationを適応時のプロセス分離に対応など",
+            "tags": [
+                "Chrome",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
