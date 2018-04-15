@@ -432,6 +432,17 @@
                 "debug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-15T09:20:04.446Z",
+            "title": "Release v0.70.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.70.0",
+            "content": "Flow 0.70.0リリース。\nReact 16.3(`createContext`、`createRef`)の対応、`--json-version 2`の出力結果に破壊的な変更など",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
