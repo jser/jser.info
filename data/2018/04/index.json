@@ -593,6 +593,18 @@
                     "url": "https://blog.chromium.org/2018/03/chrome-66-beta-css-typed-object-model.html"
                 }
             ]
+        },
+        {
+            "date": "2018-04-17T23:22:15.312Z",
+            "title": "Release v4.0.0 · reactjs/redux",
+            "url": "https://github.com/reactjs/redux/releases/tag/v4.0.0",
+            "content": "Redux 4.0.0リリース。\nTypeScriptの型改善、middlewareのdispatchが複数の引数に対応、パフォーマンス改善など",
+            "tags": [
+                "redux",
+                "ReleaseNote",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
