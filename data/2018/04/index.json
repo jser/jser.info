@@ -335,13 +335,13 @@
             "relatedLinks": []
         },
         {
-            "date": "2018-04-13T08:52:54.870Z",
+            "date": "2018-04-17T01:41:34.538Z",
             "title": "zzarcon/default-passive-events: Makes {passive: true} by default when EventListenerOptions are supported",
             "url": "https://github.com/zzarcon/default-passive-events",
-            "content": "Passive Event Listenersをデフォルトで有効化してくれるpatchライブラリ",
+            "content": "Passive Event Listenersをデフォルトで有効化するように`EventTarget.prototype.addEventListener`の処理を上書きするライブラリ",
             "tags": [
-                "JavaScript",
                 "DOM",
+                "JavaScript",
                 "library"
             ],
             "relatedLinks": []
