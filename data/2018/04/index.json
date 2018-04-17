@@ -605,6 +605,26 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-17T23:25:51.321Z",
+            "title": "Release v4.6.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v4.6.0",
+            "content": "webpack 4.6.0リリース。\n`import`のコメントでpreloadとprefetchに対応、webpackのコアコードがTypeScriptの`allowJs`と`checkJs`で型チェックされるようになるなど",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "add support for link preload/prefetch by sokra · Pull Request #7056 · webpack/webpack",
+                    "url": "https://github.com/webpack/webpack/pull/7056"
+                },
+                {
+                    "title": "Add TypeScript type checking by mohsen1 · Pull Request #6862 · webpack/webpack",
+                    "url": "https://github.com/webpack/webpack/pull/6862"
+                }
+            ]
         }
     ]
 }
