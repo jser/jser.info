@@ -545,6 +545,21 @@
                 "PWA"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-17T01:51:17.549Z",
+            "title": "モバイル/オフラインでも動作するはてなブックマーク検索のPWAを作った | Web Scratch",
+            "url": "https://efcl.info/2018/04/16/hatebupwa/",
+            "content": "https://hatebupwa.netlify.com/ の技術スタックについて。\nWebWorkerを使った別スレッドでのフィルタリング処理、Servie Workerでのキャッシュ、React ContextとAlmin、domainのシリアライズと永続化についてなど",
+            "tags": [
+                "JavaScript",
+                "PWA",
+                "React",
+                "almin",
+                "DDD",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
