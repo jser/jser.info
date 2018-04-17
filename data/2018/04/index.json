@@ -533,6 +533,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-17T01:35:59.019Z",
+            "title": "Automatic Progressive Web Apps using Angular Service Worker by Maxim Salnikov",
+            "url": "https://slides.com/webmax/ngsw-ijs-2018#/",
+            "content": "AngularとPWAについてのスライド。\nAngular CLIでの開発方法、NGSW、Service Workerのバージョン管理や登録を解除するスイッチの導入などについて",
+            "tags": [
+                "Angular",
+                "slide",
+                "PWA"
+            ],
+            "relatedLinks": []
         }
     ]
 }
