@@ -625,6 +625,19 @@
                     "url": "https://github.com/webpack/webpack/pull/6862"
                 }
             ]
+        },
+        {
+            "date": "2018-04-19T12:56:55.609Z",
+            "title": "Hello wasm-pack! – Mozilla Hacks – the Web developer blog",
+            "url": "https://hacks.mozilla.org/2018/04/hello-wasm-pack/",
+            "content": "RustでWebAssembly向けの開発するツールキット",
+            "tags": [
+                "WebAssembly",
+                "Rust",
+                "console",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
