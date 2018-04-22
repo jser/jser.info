@@ -709,6 +709,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-22T04:27:00.656Z",
+            "title": "DasSur.ma – Layers and how to force them",
+            "url": "http://dassur.ma/things/forcing-layers/",
+            "content": "要素をレイヤー化する方法として`will-change: transform`がある。\nしかし、実際にtransformしていないならば`will-change: opacity`や`backface-visibility: hidden`を使ったほうが良いという話。\n`backface-visibility`の動作についての解説",
+            "tags": [
+                "CSS",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
