@@ -721,6 +721,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-22T04:51:07.439Z",
+            "title": "Dependencies Done Right | Yarn Blog",
+            "url": "https://yarnpkg.com/blog/2018/04/18/dependencies-done-right/",
+            "content": "pacakge.jsonの`dependencies`、`devDependencies`、`peerDependencies`の意味や使い分けについて。\nバージョンの異なるものが混ざると`instanceof`の問題やファイルサイズが増える問題などについて\n",
+            "tags": [
+                "npm",
+                "yarn",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
