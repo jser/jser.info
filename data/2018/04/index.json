@@ -686,6 +686,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-22T03:47:33.623Z",
+            "title": "Svelte v2 is out!",
+            "url": "https://svelte.technology/blog/version-2",
+            "content": "Svelte 2リリース。\nテンプレートで`{{}}`ではなく`{}`を採用、マイグレーションツールの公開、Computed propertiesの引数がオブジェクトに、`component.get`の返り値の変更。\nまた`oncreate`/`ondestroy`のライフサイクルを追加など",
+            "tags": [
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
