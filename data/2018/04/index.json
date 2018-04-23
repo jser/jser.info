@@ -769,6 +769,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-23T10:54:51.834Z",
+            "title": "aweary/react-copy-write: ✍️ Immutable state with a mutable API",
+            "url": "https://github.com/aweary/react-copy-write",
+            "content": "immerを使ってmutableな操作でstateを更新できるReact Contextを使ったステート管理ライブラリ。",
+            "tags": [
+                "React",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
