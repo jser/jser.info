@@ -757,6 +757,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-23T07:56:37.093Z",
+            "title": "Underscore.js",
+            "url": "http://underscorejs.org/#1.9.0",
+            "content": "underscore 1.9.0リリース。\n`_.restArguments`、`_.chunk`、`_.isSymbol`などの追加。\n`_.throttle`と`_.debounce`がcancelできるように、パフォーマンス改善など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
