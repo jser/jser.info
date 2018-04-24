@@ -816,6 +816,17 @@
                 "広告"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-24T08:21:20.210Z",
+            "title": "npm/CHANGELOG.md at v6.0.0 · npm/npm",
+            "url": "https://github.com/npm/npm/blob/v6.0.0/CHANGELOG.md",
+            "content": "npm 6.0.0リリース。\n`npm init`で`create-react-app`のようなパッケージを元に初期化できるように、`npm audit`の追加。\nNode.js 4のサポート終了、deprecatedバージョンを可能なら無視するように",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
