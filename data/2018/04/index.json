@@ -792,6 +792,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-24T01:17:14.017Z",
+            "title": "last 2 versions\" considered harmful",
+            "url": "https://jamie.build/last-2-versions",
+            "content": "autoprefixerなどで使われるbrowserlistの`last 2 versions`指定では、シェアが0%のブラウザも\"最新の2バージョン\"に含まれてしまう問題について。\n",
+            "tags": [
+                "article",
+                "browser",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
