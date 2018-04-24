@@ -806,14 +806,14 @@
             "relatedLinks": []
         },
         {
-            "date": "2018-04-24T01:30:57.805Z",
+            "date": "2018-04-24T02:24:21.491Z",
             "title": "日経電子版を支える広告技術 — HACK The Nikkei",
             "url": "https://hack.nikkei.com/blog/tech_book_fest04_ds_ad_tech/",
-            "content": "ウェブサイトのパフォーマンスを劣化させる広告(SDK)とその対策について。\n無駄なRTTの削減、ファイルサイズの削減。\nメインスレッドで同期処理される`document.write()`対策としてiframeでの別フレームで実行やIntersection Observerでの遅延ロードなどについて",
+            "content": "ウェブサイトのパフォーマンスを劣化させる広告(SDK)とその対策について。 無駄なRTTの削減、ファイルサイズの削減。 メインスレッドで同期処理される`document.write()`対策としてShadow DOMやiframeでの実行やIntersection Observerでの遅延ロードについて。",
             "tags": [
                 "JavaScript",
-                "広告",
-                "article"
+                "article",
+                "広告"
             ],
             "relatedLinks": []
         }
