@@ -804,6 +804,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-24T01:30:57.805Z",
+            "title": "日経電子版を支える広告技術 — HACK The Nikkei",
+            "url": "https://hack.nikkei.com/blog/tech_book_fest04_ds_ad_tech/",
+            "content": "ウェブサイトのパフォーマンスを劣化させる広告(SDK)とその対策について。\n無駄なRTTの削減、ファイルサイズの削減。\nメインスレッドで同期処理される`document.write()`対策としてiframeでの別フレームで実行やIntersection Observerでの遅延ロードなどについて",
+            "tags": [
+                "JavaScript",
+                "広告",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
