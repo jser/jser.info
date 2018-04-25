@@ -858,6 +858,22 @@
                     "url": "https://docs.google.com/document/d/12nlLt71VLKb-z3YaSGzUfx6mJbc34nsMXtByPUN35cg/edit#heading=h.9gxcyk6xxdc8"
                 }
             ]
+        },
+        {
+            "date": "2018-04-25T03:30:34.129Z",
+            "title": "Node v10.0.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v10.0.0/",
+            "content": "Node.js 10.0.0リリース。\n10.xは2018年10月にLTSとなる予定。合わせてNode-ChakraCoreのプレリリース。\nN-APIがstableに、Assertの変更、V8 6.6への更新、`fs.promises`の追加、`URL`がグローバルへ追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release Node.js with ChakraCore (node-chakracore-v10.0.0) · nodejs/node-chakracore",
+                    "url": "https://github.com/nodejs/node-chakracore/releases/tag/node-chakracore-v10.0.0"
+                }
+            ]
         }
     ]
 }
