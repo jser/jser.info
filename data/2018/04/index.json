@@ -860,10 +860,10 @@
             ]
         },
         {
-            "date": "2018-04-25T03:30:34.129Z",
+            "date": "2018-04-25T03:31:06.755Z",
             "title": "Node v10.0.0 (Current) | Node.js",
             "url": "https://nodejs.org/en/blog/release/v10.0.0/",
-            "content": "Node.js 10.0.0リリース。\n10.xは2018年10月にLTSとなる予定。合わせてNode-ChakraCoreのプレリリース。\nN-APIがstableに、Assertの変更、V8 6.6への更新、`fs.promises`の追加、`URL`がグローバルへ追加など",
+            "content": "Node.js 10.0.0リリース。\n10.xは2018年10月にLTSとなる予定。同時にNode-ChakraCoreのプレリリース。\nN-APIがstableに、Assertの変更、V8 6.6への更新、`fs.promises`の追加、`URL`がグローバルへ追加など",
             "tags": [
                 "node.js",
                 "ReleaseNote"
