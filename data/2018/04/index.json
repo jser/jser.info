@@ -909,6 +909,17 @@
                     "url": "https://docs.microsoft.com/en-us/microsoft-edge/devtools-protocol/"
                 }
             ]
+        },
+        {
+            "date": "2018-04-27T14:14:41.305Z",
+            "title": "xx45/dayjs: ⏰Fast 2KB immutable date library alternative to Moment.js with the same modern API",
+            "url": "https://github.com/xx45/dayjs",
+            "content": "ファイルサイズの小さな日付操作ライブラリ。\nmoment.jsの一部と似たAPIを持ち、Immutableなライブラリ。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
