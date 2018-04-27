@@ -920,6 +920,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-27T14:19:49.536Z",
+            "title": "BundlePhobia | cost of adding a npm package",
+            "url": "https://bundlephobia.com/scan",
+            "content": "package.jsonをアップロードすると依存してるモジュールのファイルサイズ(gzip)などを一覧表示してくれるサービス",
+            "tags": [
+                "webservice",
+                "npm",
+                "browser"
+            ],
+            "relatedLinks": []
         }
     ]
 }
