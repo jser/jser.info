@@ -879,6 +879,18 @@
                     "url": "https://github.com/nodejs/node-chakracore/releases/tag/node-chakracore-v10.0.0"
                 }
             ]
+        },
+        {
+            "date": "2018-04-27T06:13:32.754Z",
+            "title": "jhiesey/stream-http: Streaming node http in the browser",
+            "url": "https://github.com/jhiesey/stream-http",
+            "content": "Fetch with streamなどを使ったStream取得HTTPライブラリ。\n非対応のブラウザでは擬似的なStreamを作る",
+            "tags": [
+                "HTTP",
+                "Fetch",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
