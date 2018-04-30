@@ -955,6 +955,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-04-30T06:13:44.441Z",
+            "title": "Visualizing Layers in Web Inspector | WebKit",
+            "url": "https://webkit.org/blog/8262/visualizing-layers-in-web-inspector/",
+            "content": "SafariのTechnology PreviewにLayer タブが追加された。\nページのレイヤー構造を可視化できるデバッグツール。\nCompositionの問題やコストが高いレイヤーを見つけることができる。",
+            "tags": [
+                "safari",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
