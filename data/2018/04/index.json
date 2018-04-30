@@ -969,10 +969,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2018-04-30T12:32:23.961Z",
+            "date": "2018-04-30T12:34:06.152Z",
             "title": "CKEditor 5 v10.0.0 – the future of rich text editing looks stable",
             "url": "https://ckeditor.com/blog/CKEditor-5-v10.0.0-the-future-of-rich-text-editing-looks-stable/",
-            "content": "CKEditor 5 v10.0.0リリース。\n`contentEditable`ベースではなく、DOM構造をオブジェクトとして持つように、プラグインベースなアーキテクチャに変更。\nライセンスがGPL+LGPL+MPLのトリプルライセンスからGPL 2+のみに変更。",
+            "content": "CKEditor 5 v10.0.0リリース。\n`contentEditable`ベースではなく、DOM構造をオブジェクトモデルで表現するように、プラグインベースなアーキテクチャに変更。\nライセンスがGPL+LGPL+MPLのトリプルライセンスからGPL 2+のみに変更。",
             "tags": [
                 "editor",
                 "JavaScript",
