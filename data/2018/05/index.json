@@ -33,6 +33,17 @@
                     "url": "https://github.com/sinonjs/sinon/pull/1586"
                 }
             ]
+        },
+        {
+            "date": "2018-05-01T11:07:24.182Z",
+            "title": "祝Node-v10リリース これまでのNodeの振り返り // Speaker Deck",
+            "url": "https://speakerdeck.com/shigeki/zhu-node-v10ririsu-koremadefalsenodefalsezhen-rifan-ri",
+            "content": "Node.js 10での変更点についてのスライド。\nV8の更新。`for await...of`とStreamの対応、`Error.code`の変更、`EventEmitter#off`の追加、`fs/promises`の追加、`assert.strict`の追加など",
+            "tags": [
+                "node.js",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
