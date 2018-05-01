@@ -11,6 +11,28 @@
                 "React"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-01T10:50:44.881Z",
+            "title": "API documentation - Sinon.JS",
+            "url": "http://sinonjs.org/releases/v5.0.1/",
+            "content": "SinonJS 5.0.1リリース。\n`sinon.replace`や`sinon.fake`の追加、`sinon`オブジェクトがデフォルトでsandboxに変更、ES5をサポートしてない実行環境はshimが必要になるなど",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "sinon/History.md at master · sinonjs/sinon",
+                    "url": "https://github.com/sinonjs/sinon/blob/master/History.md#501--2018-04-27"
+                },
+                {
+                    "title": "New API: default sandbox and fake by mroderick · Pull Request #1586 · sinonjs/sinon",
+                    "url": "https://github.com/sinonjs/sinon/pull/1586"
+                }
+            ]
         }
     ]
 }
