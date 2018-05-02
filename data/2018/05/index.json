@@ -44,6 +44,17 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-02T02:43:49.225Z",
+            "title": "Release electron v2.0.0 · electron/electron",
+            "url": "https://github.com/electron/electron/releases/tag/v2.0.0",
+            "content": "Electron 2.0.0リリース。\nChrome 61、Node.js 8.9、V8 6.1への更新。\n`menu.popup`のシグネチャーの変更、deprecatedなAPIを削除など",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
