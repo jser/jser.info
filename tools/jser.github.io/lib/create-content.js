@@ -1,12 +1,12 @@
 // MIT © 2017 azu
 "use strict";
 const moment = require("moment");
-const JSerStat = require("jser-stat").JSerStat;
-
-const itemCategories = require("jser-classifier-item-category").itemCategories;
-const JSerClassifier = require("jser-classifier-item-category").JSerClassifier;
-const CategoryKey = require("jser-classifier-item-category").CategoryKey;
-const Category = require("jser-classifier-item-category").Category;
+const JSerStat = require("@jser/stat").JSerStat;
+const { fetchPostDetails, fetchPosts } = require("@jser/data-fetcher");
+const itemCategories = require("@jser/classifier-item-category").itemCategories;
+const JSerClassifier = require("@jser/classifier-item-category").JSerClassifier;
+const CategoryKey = require("@jser/classifier-item-category").CategoryKey;
+const Category = require("@jser/classifier-item-category").Category;
 const buildTemplate = require("./build-template");
 // all_in_one_JSON.jsを先に実行しないといけない
 const getAllJSON = require("../../converter/lib/get-all-json");
@@ -62,11 +62,10 @@ const groupByCategory = (classifier, items) => {
 };
 
 module.exports = function createContent() {
-    return getAllJSON().then(currentItems => {
-        const stat = new JSerStat(currentItems);
+    return Promise.all([getAllJSON(), fetchPosts(), fetchPostDetails()]).then(([items, posts, postDetails]) => {
+        const stat = new JSerStat(items, posts);
         const classifier = new JSerClassifier({
-            items: stat.items,
-            itemCategories
+            postDetails
         });
         const nextWeekNumber = stat.getTotalWeekCount() + 1;
         const unPublishItems = getUnPublishItems(stat);

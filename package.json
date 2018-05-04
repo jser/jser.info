@@ -21,8 +21,10 @@
     "url": "https://github.com/jser/jser.info/issues"
   },
   "dependencies": {
-    "@textlint/linter-formatter": "^3.0.4",
-    "jser-classifier-item-category": "^1.6.1"
+    "@jser/classifier-item-category": "^1.1.0",
+    "@jser/data-fetcher": "^1.1.0",
+    "@jser/stat": "^1.1.1",
+    "@textlint/linter-formatter": "^3.0.4"
   },
   "devDependencies": {
     "JSV": "~4.0.2",
@@ -33,7 +35,6 @@
     "git-json-merge": "^0.4.4",
     "glob": "^7.0.5",
     "handlebars": "^4.0.6",
-    "jser-stat": "^3.1.0",
     "json-pointer": "^0.6.0",
     "json2yaml": "^1.1.0",
     "markdown-to-ast": "^3.1.1",

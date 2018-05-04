@@ -3,7 +3,7 @@
 const fs = require("fs");
 const Handlebars = require("handlebars");
 const json2yaml = require("json2yaml");
-const CategoryKey = require("jser-classifier-item-category").CategoryKey;
+const CategoryKey = require("@jser/classifier-item-category").CategoryKey;
 Handlebars.registerHelper('auto_format_html', function (text) {
     // autolinkTwitter 内でHTMLエスケープされているためHandlebarではしない
     const linkedText = window.autolinkTwitter(text);

@@ -6,8 +6,8 @@ const argv = require('minimist')(process.argv.slice(2));
 const createContent = require("../lib/create-content");
 const output = argv.output;
 /**
- * タグをリネームするツール
- * Usage: node ./ --from "スライド" --to "slide"
+ * ドラフトデータの作成
+ * Usage: ./ --output path/file.md
  */
 if (!output) {
     console.log("Usage: ./ --output path/file.md");
