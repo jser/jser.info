@@ -104,6 +104,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-04T03:36:03.190Z",
+            "title": "Introducing Dojo 2.0! | Dojo",
+            "url": "https://dojo.io/blog/2018/05/02/2018-05-02-Dojo2-0-0-release/",
+            "content": "Dojo 2.0リリース。\nTypeScriptベースとなり、Virtual DOMを実装しているWidgetsクラスベースのUIシステムを持つ。\nEjectableなdojo/cliを持ちセットアップやデプロイなどを簡単に扱えるようにしている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
