@@ -139,6 +139,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-05T13:37:12.486Z",
+            "title": "parcel/changelog.md at master · parcel-bundler/parcel",
+            "url": "https://github.com/parcel-bundler/parcel/blob/master/changelog.md#180---2018-05-03",
+            "content": "Parcel 1.8.0リリース。\n複数のエントリポイントのサポート、モジュールをUMDとしてexportするように、デフォルトのbrowserlistを`> 0.25`に変更など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
