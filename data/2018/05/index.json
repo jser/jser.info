@@ -222,6 +222,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-07T14:12:20.777Z",
+            "title": "<link rel=”prefetch/preload”> in webpack – webpack – Medium",
+            "url": "https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c",
+            "content": "webpack 4.6.0でサポートされた `import(/* webpackPrefetch: true */ \"module\")`について。\nchunkとprefetch/preloadの制御を行うマジックコメント",
+            "tags": [
+                "webpack",
+                "article",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
