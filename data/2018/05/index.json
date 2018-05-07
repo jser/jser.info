@@ -250,6 +250,17 @@
                     "url": "http://www.mizdra.net/entry/2018/05/07/080000"
                 }
             ]
+        },
+        {
+            "date": "2018-05-07T14:51:27.399Z",
+            "title": "sindresorhus/ow: Function argument validation for humans",
+            "url": "https://github.com/sindresorhus/ow",
+            "content": "関数の引数をバリデーションする関数を作成するライブラリ。\nエラーメッセージが英語として読めるような物が出力される",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
