@@ -211,6 +211,17 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-07T14:00:55.560Z",
+            "title": "Release v4.8.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v4.8.0",
+            "content": "webpack 4.8.0リリース。\nWebAssemblyで可能なら`instantiateStreaming`を利用するように",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
