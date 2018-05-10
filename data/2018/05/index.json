@@ -356,6 +356,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-10T09:46:14.694Z",
+            "title": "Announcing Lighthouse 3.0  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2018/05/lighthouse3",
+            "content": "Lighthouse 3.0リリース。\nレポートUIの変更、それぞれのスコアのWeightの変更、First Contentful Paintの追加、RTTのコスト表示の追加など。\nその他の変更点としてFirst InteractiveをFirst CPU Idleに名前の変更など",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
