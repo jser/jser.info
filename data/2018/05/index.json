@@ -332,6 +332,17 @@
                 "アンケート"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-10T00:58:35.290Z",
+            "title": "Node v10.1.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v10.1.0/",
+            "content": "Node v10.1.0リリース。\n`require(\"fs/promises\")`が`require(\"fs\").promises`に変更、`request.aborted`プロパティの追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
