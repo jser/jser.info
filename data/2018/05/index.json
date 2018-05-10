@@ -343,6 +343,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-10T09:43:15.834Z",
+            "title": "Using Lighthouse To Improve Page Load Performance  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2018/05/lighthouse",
+            "content": "Lighthouseによって検出できるページロードパフォーマンスの問題について。\npreloadした方がいいリソースの表示、JavaScriptのパースと実装の時間表示、リダイレクト検出、利用してないコード量の表示、preconnectによるRTTのコストの削減予測など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
