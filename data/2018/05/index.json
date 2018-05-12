@@ -389,6 +389,17 @@
                     "url": "https://developer.mozilla.org/ja/Firefox/Releases/60"
                 }
             ]
+        },
+        {
+            "date": "2018-05-12T15:57:00.196Z",
+            "title": "The npm Blog — `npm audit`: identify and fix insecure...",
+            "url": "https://blog.npmjs.org/post/173719309445/npm-audit-identify-and-fix-insecure",
+            "content": "npm 6で入ったセキュリティチェックをする`npm audit`コマンドについての解説",
+            "tags": [
+                "npm",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
