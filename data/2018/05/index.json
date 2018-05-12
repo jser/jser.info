@@ -400,6 +400,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-12T16:05:46.487Z",
+            "title": "jspm.io - Native ES Modules CDN",
+            "url": "https://jspm.io/",
+            "content": "npmモジュールをES moduleとしてロードできるようにしてくれるCDNサービス。\nCommonJSなモジュールはES moduleとして読み込めるように変換される。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "webservice"
+            ],
+            "relatedLinks": []
         }
     ]
 }
