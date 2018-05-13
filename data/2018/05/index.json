@@ -450,6 +450,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-13T07:00:54.198Z",
+            "title": "Release v0.72.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.72.0",
+            "content": "flow 0.72.0リリース。\n`$Either<T>`, `$All<T>`, `$Type<T>`の廃止。\nLanguage Server Protocolの改善、Stage 1のnullish coalescingをサポートなど",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
