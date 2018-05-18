@@ -555,6 +555,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-18T02:59:00.562Z",
+            "title": "Announcing TypeScript 2.9 RC | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2018/05/16/announcing-typescript-2-9-rc/",
+            "content": "TypeScript 2.9 RCリリース。\n`keyof`がSymbolとnumberに対応、`import(path)` typeのサポート、`import.meta`のサポート、JSXのgenericsをサポートなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
