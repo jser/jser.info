@@ -532,6 +532,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-18T02:30:28.427Z",
+            "title": "sloria/local-repl: 🐚 Project-specific configuration for the Node.js REPL",
+            "url": "https://github.com/sloria/local-repl",
+            "content": "Node.jsでプロジェクト毎にaliasや依存などを指定できるREPL",
+            "tags": [
+                "node.js",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
