@@ -580,6 +580,19 @@
                 "flowtype"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-18T13:58:17.854Z",
+            "title": "ZEIT – Next.js 6 and Nextjs.org",
+            "url": "https://zeit.co/blog/next6",
+            "content": "Next.js 6リリース。\n`_app.js`でアプリのライフサイクルなどに対して拡張できるように、Babel 7(RC)にアップデート、`@babel/preset-typescript`を使ってTypeScriptをサポートなど",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
