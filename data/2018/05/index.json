@@ -566,6 +566,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-18T13:39:26.458Z",
+            "title": "saadq/lynt: ✨ A zero config JavaScript linter with support for Typescript, Flow, and React.",
+            "url": "https://github.com/saadq/lynt",
+            "content": "設定なしに使えることを目的としたLintツール。\nESLintやTSLintを使いopinionatedなLintを行う。\nスタイルに関するルールは含めずにエラーに関するものだけに限定している。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "TypeScript",
+                "React",
+                "flowtype"
+            ],
+            "relatedLinks": []
         }
     ]
 }
