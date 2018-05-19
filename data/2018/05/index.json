@@ -605,6 +605,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-19T15:48:39.468Z",
+            "title": "Native JavaScript modules by Serg Hospodarets",
+            "url": "https://slides.com/malyw/native-js-modules#/",
+            "content": "ES modulesについてのスライド。\nAMD、CommonJSなどとの比較、`<script type=module>`がDeferred by defaultであることやmoduleの動作について。\nまた循環参照の対応、パスの扱い、Dynamic import、パフォーマンスやテストなどについて",
+            "tags": [
+                "JavaScript",
+                "module",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
