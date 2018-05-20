@@ -663,6 +663,23 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-20T23:59:47.034Z",
+            "title": "Release v5.2.0 · mochajs/mocha",
+            "url": "https://github.com/mochajs/mocha/releases/tag/v5.2.0",
+            "content": "Mocha 5.2.0リリース。\n`mocha.opts`にコメントがかけるように、APIドキュメントの更新など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Home - Documentation",
+                    "url": "https://mochajs.org/api/"
+                }
+            ]
         }
     ]
 }
