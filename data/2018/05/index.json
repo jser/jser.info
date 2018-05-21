@@ -738,6 +738,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-21T23:40:38.796Z",
+            "title": "Chromium Blog: Evolving Chrome's security indicators",
+            "url": "https://blog.chromium.org/2018/05/evolving-chromes-security-indicators.html",
+            "content": "ChromeのHTTPSとHTTPのURLバーの表示の変更予定について。\nHTTPSはデフォルトになっていくため\"Secure\"ラベルを外していき、\nHTTPの方が例外的なものとして\"Not Secure\"というラベルをつけるという方針について。",
+            "tags": [
+                "Chrome",
+                "HTTPS",
+                "HTTP",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
