@@ -680,6 +680,24 @@
                     "url": "https://mochajs.org/api/"
                 }
             ]
+        },
+        {
+            "date": "2018-05-21T10:37:47.731Z",
+            "title": "Release 3.0.0-beta.1 - 2018.05.20 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.0.0-beta.1",
+            "content": "core-js 3.0.0 β1リリース。\nProposalである`Object.fromEntries`、`Map`や`Set`のコレクションメソッドの実装など。\nあわせてwithdrawされたProposalの実装を削除。\nまたいくつかのブラウザバージョンでのバグに対処など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "polyfill",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "core-js@3 by zloirock · Pull Request #325 · zloirock/core-js",
+                    "url": "https://github.com/zloirock/core-js/pull/325"
+                }
+            ]
         }
     ]
 }
