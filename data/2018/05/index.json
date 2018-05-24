@@ -798,6 +798,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-24T11:15:47.507Z",
+            "title": "Node v10.2.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v10.2.0/",
+            "content": "Node.js 10.2.0リリース。\n`assert.throws`の第2引数のバリデーションオブジェクトに正規表現を指定できるように。\nCore APIのモジュールがnamed exportされるようになりES moduleからはnamed importできるようになるなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
