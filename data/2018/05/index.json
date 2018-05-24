@@ -785,6 +785,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-24T05:26:18.461Z",
+            "title": "jsdom/Changelog.md at 11.11.0 · jsdom/jsdom",
+            "url": "https://github.com/jsdom/jsdom/blob/11.11.0/Changelog.md",
+            "content": "jsdom 11.11.0リリース。\n`Node#getRootNode`メソッドの追加、`whatwg-url`のアップデートなど",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
