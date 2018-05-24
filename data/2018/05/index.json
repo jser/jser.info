@@ -774,6 +774,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-24T01:45:19.367Z",
+            "title": "React v16.4.0: Pointer Events - React Blog",
+            "url": "https://reactjs.org/blog/2018/05/23/react-v-16-4.html",
+            "content": "React 16.4リリース。\n`getDerivedStateFromProps`のバグ修正、Pointer Eventsのサポート。\n試験的に`<Profiler />`のサポート、また実験的実装だったReact Call Returnを削除など",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
