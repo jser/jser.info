@@ -809,6 +809,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-25T12:05:33.082Z",
+            "title": "Ameba Accessibility Guidelines",
+            "url": "https://openameba.github.io/a11y-guidelines/",
+            "content": "Amebaのアクセシビリティガイドライン。\n項目ごとにWCAG 2.0との対応項目、悪い実装例、良い実装例が書かれている",
+            "tags": [
+                "accessibility",
+                "document"
+            ],
+            "relatedLinks": []
         }
     ]
 }
