@@ -850,6 +850,19 @@
                     "url": "https://www.youtube.com/playlist?list=PLCC436JpVnK1X7atG6EIz467Evs4TMX_5"
                 }
             ]
+        },
+        {
+            "date": "2018-05-27T09:08:16.246Z",
+            "title": "JavaScriptのStreams APIで細切れのデータを読み書きする",
+            "url": "https://sbfl.net/blog/2018/05/26/javascript-streams-api/",
+            "content": "WHATWG Stream APIについて。\nReadable Stream、TransformStream、WritableStreamの使い方や繋げ方について",
+            "tags": [
+                "stream",
+                "JavaScript",
+                "DOM",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
