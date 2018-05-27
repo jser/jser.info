@@ -918,6 +918,26 @@
                     "url": "https://github.com/vincentriemer/react-native-dom"
                 }
             ]
+        },
+        {
+            "date": "2018-05-27T10:37:31.649Z",
+            "title": "Drupal JavaScript Initiative: The Road to a Modern Administration UI | Lullabot",
+            "url": "https://www.lullabot.com/articles/drupal-javascript-initiative-the-road-to-a-modern-administration-ui",
+            "content": "DrupalはjQueryをコアに採用していたが、モダンなJavaScriptの仕組みを取り込むためにReactを採用することにした。\nこの決定をするために管理画面のプロトタイプを作成し、どのようなことを学び、課題を見つけたかについて。またフォームの問題についてなど",
+            "tags": [
+                "JavaScript",
+                "React",
+                "server",
+                "library",
+                "article",
+                "CMS"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "jsdrupal/drupal-admin-ui: v fancy ⬅️✌️➡️",
+                    "url": "https://github.com/jsdrupal/drupal-admin-ui"
+                }
+            ]
         }
     ]
 }
