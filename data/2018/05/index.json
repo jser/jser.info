@@ -901,6 +901,23 @@
                 "PWA"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-27T10:23:32.908Z",
+            "title": "Web最新技術がてんこ盛りのreact-native-domから目が離せない - ナカザンドットネット",
+            "url": "http://blog.nkzn.info/entry/2018/05/26/020312",
+            "content": "React Native DOMというReact NativeをWebにPortするライブラリについての解説。\nどのような仕組みでReact NativeのものをWebにPortしているかについて",
+            "tags": [
+                "React",
+                "DOM",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "vincentriemer/react-native-dom: An experimental, comprehensive port of React Native to the web.",
+                    "url": "https://github.com/vincentriemer/react-native-dom"
+                }
+            ]
         }
     ]
 }
