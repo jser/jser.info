@@ -950,6 +950,18 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-28T13:17:27.292Z",
+            "title": "Prettier 1.13: Conquering the web! · Prettier",
+            "url": "https://prettier.io/blog/2018/05/27/1.13.0.html",
+            "content": "Prettier 1.13リリース。\nブラウザで動作するように、TypeScritp 2.9のサポート。\n`JSON.stringify`スタイルのフォーマットをサポートし`pacakge.json`とnpm/yarnとの整形の互換性を向上など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
