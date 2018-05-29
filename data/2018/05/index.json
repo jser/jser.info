@@ -1034,6 +1034,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-29T01:26:43.511Z",
+            "title": "xtuc/webassemblyjs: Toolchain for WebAssembly",
+            "url": "https://github.com/xtuc/webassemblyjs",
+            "content": "WebAssemblyのAST Toolchain。\nParser、Traverser、AST編集のヘルパー、整形ツールなどを揃えたmonorepo",
+            "tags": [
+                "JavaScript",
+                "WebAssembly",
+                "AST",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
