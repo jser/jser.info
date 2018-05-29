@@ -1071,6 +1071,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-29T23:44:51.724Z",
+            "title": "alangpierce/sucrase: Super-fast alternative to Babel for when you can target modern JS runtimes",
+            "url": "https://github.com/alangpierce/sucrase",
+            "content": "BabelのParserをforkして作られたJSX/Flow/TypeScriptなどをJSに変換するツール。\nES2015+が動く実行環境向けへコードを変換する際に、それ以外(JSX/Flow/TypeScript)の変換を高速に行うことが目的。\nBabelとは異なりプラグインのステップを省くことで変換速度を向上させている。",
+            "tags": [
+                "babel",
+                "jsx",
+                "flowtype",
+                "TypeScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
