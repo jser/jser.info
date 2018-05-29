@@ -1058,6 +1058,19 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-29T01:40:43.412Z",
+            "title": "ブラウザのネットワークエラーをレポートさせるNetwork Error Loggingが来た - ASnoKaze blog",
+            "url": "https://asnokaze.hatenablog.com/entry/2018/05/28/210830",
+            "content": "Chrome開発版で実装されたNetwork Error Loggingについて。\nネットワークエラーが発生したときに指定したエンドポイントでレポートを送ることができる仕組み。\nDNSやTCP、TLSなどについてのエラーをクライアントから送信できる",
+            "tags": [
+                "Chrome",
+                "debug",
+                "network",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
