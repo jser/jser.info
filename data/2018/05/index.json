@@ -1021,6 +1021,19 @@
                     "url": "https://slides.com/ronenamiel/build-your-own-bundler-10-13#/"
                 }
             ]
+        },
+        {
+            "date": "2018-05-29T01:24:49.403Z",
+            "title": "Release v4.10.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v4.10.0",
+            "content": "webpack v4.10.0リリース。\nWebAssemblyのTree SHakingをサポート(Dead Code Eliminationは未実装)、wasmのruntimeのファイルサイズを軽量化など",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
