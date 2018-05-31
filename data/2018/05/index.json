@@ -1107,6 +1107,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-31T14:29:49.574Z",
+            "title": "GoogleChromeLabs/critters: 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.",
+            "url": "https://github.com/GoogleChromeLabs/critters",
+            "content": "クリティカルCSSのインライン化、外部ファイルのlazy loadとprefetchの対応を行うwebpack plugin。\n",
+            "tags": [
+                "webpack",
+                "plugin",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
