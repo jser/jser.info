@@ -1096,6 +1096,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-05-31T12:57:33.748Z",
+            "title": "hybridsjs/hybrids: UI library for creating Web Components with simple and functional API",
+            "url": "https://github.com/hybridsjs/hybrids/",
+            "content": "`lit-html`のようにCustom Elementを作成できる`html`や`define`などを提供するライブラリ。",
+            "tags": [
+                "WebComponents",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
