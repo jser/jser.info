@@ -10,6 +10,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-01T14:49:25.533Z",
+            "title": "Release 1.0.0-beta.5 · avajs/ava",
+            "url": "https://github.com/avajs/ava/releases/tag/v1.0.0-beta.5",
+            "content": "AVA 1.0.0-beta.5リリース。\n`ava.config.js`の設定ファイルのサポート、`t.throws`で`code`プロパティをサポートなど",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
