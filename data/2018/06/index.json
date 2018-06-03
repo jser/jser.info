@@ -63,6 +63,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-03T23:12:46.503Z",
+            "title": "JavaScript engines: The Good Parts™ // slidr.io",
+            "url": "https://slidr.io/mathiasbynens/javascript-engines-the-good-parts#1",
+            "content": "JavaScriptエンジンの最適化パスについてのスライド。\nV8、Spidermonkey、Chackra、JavaScriptCoreそれぞれの最適化パスの流れやShapeと最適化が崩れるパターンについて",
+            "tags": [
+                "JavaScript",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
