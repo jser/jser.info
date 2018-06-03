@@ -47,6 +47,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-03T02:48:24.124Z",
+            "title": "Release Notes for Safari Technology Preview 57 | WebKit",
+            "url": "https://webkit.org/blog/8307/release-notes-for-safari-technology-preview-57/",
+            "content": "Safari Technology Preview Release 57リリース。\nクロスオリジンWindow間でのアクセスを制限できる`Cross-Origin-Options` HTTPヘッダの試験的サポート、modern EME APIをデフォルトで有効化など。",
+            "tags": [
+                "webkit",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
