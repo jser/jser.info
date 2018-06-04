@@ -119,6 +119,18 @@
                     "url": "https://github.com/GoogleChromeLabs/comlink"
                 }
             ]
+        },
+        {
+            "date": "2018-06-04T15:09:24.565Z",
+            "title": "GoogleChromeLabs/comlink: Comlink makes WebWorkers enjoyable.",
+            "url": "https://github.com/GoogleChromeLabs/comlink",
+            "content": "Proxyを使ったWeb Workerライブラリ。\nWorker内での実装をProxyして`postMessage`などのメッセージングを隠蔽してくれる",
+            "tags": [
+                "JavaScript",
+                "library",
+                "webworker"
+            ],
+            "relatedLinks": []
         }
     ]
 }
