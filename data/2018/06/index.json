@@ -131,6 +131,24 @@
                 "webworker"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-04T15:21:21.109Z",
+            "title": "Beyond SPAs: alternative architectures for your PWA  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2018/05/beyond-spa",
+            "content": "Service WorkerとExpressを使ったページ単位の(SPAではない)ウェブアプリのためのアーキテクチャと実装サンプルについて。\nルーティングをクライアントとサーバで共有し、パーシャルなViewをStream APIで取得しレンダリングする。また動的なメタ情報の渡し方についてなど",
+            "tags": [
+                "server",
+                "ServiceWorker",
+                "article",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "GoogleChromeLabs/so-pwa: A progressive web app to read Stack Overflow content.",
+                    "url": "https://github.com/GoogleChromeLabs/so-pwa"
+                }
+            ]
         }
     ]
 }
