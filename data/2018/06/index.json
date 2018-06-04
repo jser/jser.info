@@ -102,6 +102,23 @@
                 "accessibility"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-04T15:06:33.236Z",
+            "title": "Simplify Web Worker code with Comlink",
+            "url": "https://davidea.st/articles/comlink-simple-web-worker",
+            "content": "Web Workerの動作についての解説やComlinkを使ったWeb Workerの利用方法について",
+            "tags": [
+                "JavaScript",
+                "webworker",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "GoogleChromeLabs/comlink: Comlink makes WebWorkers enjoyable.",
+                    "url": "https://github.com/GoogleChromeLabs/comlink"
+                }
+            ]
         }
     ]
 }
