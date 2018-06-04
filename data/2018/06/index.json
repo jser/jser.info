@@ -149,6 +149,19 @@
                     "url": "https://github.com/GoogleChromeLabs/so-pwa"
                 }
             ]
+        },
+        {
+            "date": "2018-06-04T15:29:55.100Z",
+            "title": "Jest 23: 🔥 Blazing Fast Delightful Testing · Jest",
+            "url": "https://facebook.github.io/jest/blog/2018/05/29/jest-23-blazing-fast-delightful-testing.html",
+            "content": "Jest 23リリース。\nInteractive Snapshot Modeの追加、非同期なカスタムmatcherを作成できるように、`jest-each`がコアに同梱、`toStrictEqual`などのmatcherの追加",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
