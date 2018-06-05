@@ -196,6 +196,19 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-05T00:30:18.954Z",
+            "title": "marblejs/marble: Marble.js - functional reactive HTTP middleware framework built on top of Node.js platform, TypeScript and RxJS library.",
+            "url": "https://github.com/marblejs/marble",
+            "content": "Rxjsを使ったHTTPミドルウェアフレームワーク。\nNode.jsにおいてリクエスト、レスポンスに対する処理を書ける。",
+            "tags": [
+                "Rx",
+                "JavaScript",
+                "server",
+                "HTTP"
+            ],
+            "relatedLinks": []
         }
     ]
 }
