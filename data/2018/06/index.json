@@ -209,6 +209,24 @@
                 "HTTP"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-06T12:21:00.805Z",
+            "title": "Yarn import now uses package-lock.json | Yarn Blog",
+            "url": "https://yarnpkg.com/blog/2018/06/04/yarn-import-package-lock/",
+            "content": "yarn 1.7.0で`package-lock.json`を`yarn.lock`としてimportできるようになった。\n",
+            "tags": [
+                "ReleaseNote",
+                "article",
+                "npm",
+                "yarn"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Competing lockfiles create poor UX · Issue #5654 · yarnpkg/yarn",
+                    "url": "https://github.com/yarnpkg/yarn/issues/5654"
+                }
+            ]
         }
     ]
 }
