@@ -227,6 +227,17 @@
                     "url": "https://github.com/yarnpkg/yarn/issues/5654"
                 }
             ]
+        },
+        {
+            "date": "2018-06-06T13:05:47.159Z",
+            "title": "10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018 - YouTube",
+            "url": "https://www.youtube.com/watch?v=M3BM9TB-8yA&feature=youtu.be",
+            "content": "Node.jsの作成者であるryによるNode.js初期のデザインミスついての発表。\nまたTypeScriptのruntimeとして作成してるDenoの紹介。\nDenoのゴールはsandbox firstのセキュリティ、モジュールシステムの簡素化、ブラウザとの互換性など",
+            "tags": [
+                "node.js",
+                "video"
+            ],
+            "relatedLinks": []
         }
     ]
 }
