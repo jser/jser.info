@@ -250,6 +250,22 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-07T01:28:59.037Z",
+            "title": "WaldoJeffers/conductor: Mix both synchronous and asynchronous code without hassle",
+            "url": "https://github.com/WaldoJeffers/conductor",
+            "content": "syncとasyncな処理を同様のコードフローで扱うためのUtilityライブラリ。\nmap、componse、pluckなど LodashやRamdaによく似たAPIを持つライブラリ。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Why I’m building Conductor – Achille Urbain – Medium",
+                    "url": "https://medium.com/@achille.urbain/why-im-building-conductor-fa780da821cd"
+                }
+            ]
         }
     ]
 }
