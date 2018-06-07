@@ -237,7 +237,12 @@
                 "node.js",
                 "video"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Node.js における設計ミス By Ryan Dahl - from scratch",
+                    "url": "http://yosuke-furukawa.hatenablog.com/entry/2018/06/07/080335"
+                }
+            ]
         },
         {
             "date": "2018-06-06T14:21:48.563Z",
