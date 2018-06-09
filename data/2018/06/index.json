@@ -298,6 +298,19 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-09T05:09:36.125Z",
+            "title": "garris/BackstopJS: Catch CSS curve balls.",
+            "url": "https://github.com/garris/BackstopJS",
+            "content": "CSSのリグレッションテストツール。\nヘッドレスブラウザでレンダリングして、描画結果の違いをテストできる",
+            "tags": [
+                "CSS",
+                "testing",
+                "library",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
