@@ -334,6 +334,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-09T12:21:44.383Z",
+            "title": "Release v6.1.0 · npm/npm",
+            "url": "https://github.com/npm/npm/releases/tag/v6.1.0",
+            "content": "npm 6.1.0リリース。\n`npm audit fix`の追加、`npm init <pkg>`がgit urlをサポートなど",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
