@@ -311,6 +311,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-09T05:39:58.520Z",
+            "title": "You Probably Don't Need Derived State - React Blog",
+            "url": "https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html",
+            "content": "React 16.3で導入された`getDerivedStateFromProps`のケーススタディ。\n`getDerivedStateFromProps`はpropsの変化を元にstateを更新するために利用する。どのような時に利用するべきか、しないべきかについて",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
