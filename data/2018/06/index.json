@@ -381,6 +381,18 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-10T12:42:56.078Z",
+            "title": "これからpjaxを使う人に知っておいてほしいこと – Design Report – デザインレポート",
+            "url": "https://glitter-style.jp/labo/web-resource/master-the-pjax/",
+            "content": "pjaxについての連載記事。\npjaxの動作原理や利点、代表的な実装方法、利用する際の注意点、イベント管理、メモリリークの問題など、設計について書かれている",
+            "tags": [
+                "JavaScript",
+                "ajax",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
