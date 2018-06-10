@@ -368,6 +368,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-10T12:09:46.988Z",
+            "title": "Assessing Loading Performance in Real Life with Navigation and Resource Timing  |  Web Fundamentals  |  Google Developers",
+            "url": "https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/",
+            "content": "Navigation TimingとResource Timingについて。\nそれぞれのAPIの使い方や取得できるデータの意味、クロスオリジンのリソースの`Timing-Allow-Origin`ヘッダによる対応。\nまたRUMのデータとして集める場合のデータの送信方法として`navigation.sendBeacon`の使い方やfailbackについてなど",
+            "tags": [
+                "browser",
+                "performance",
+                "article",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
