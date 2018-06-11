@@ -418,6 +418,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-11T13:28:29.482Z",
+            "title": "Almin 0.17リリース – executeの型付け、新しいReact Contextのサポート | Web Scratch",
+            "url": "https://efcl.info/2018/06/11/almin-0.17/",
+            "content": "Almin 0.17リリース。\nTypeScriptで`excute`の引数の型チェックができるように、React Context APIを使ったモジュールの公開、ファイルサイズの削減など",
+            "tags": [
+                "almin",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
