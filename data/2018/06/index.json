@@ -395,14 +395,14 @@
             "relatedLinks": []
         },
         {
-            "date": "2018-06-10T23:10:34.723Z",
+            "date": "2018-06-12T00:51:42.092Z",
             "title": "2018 年の tree shaking | 株式会社カブク",
             "url": "https://www.kabuku.co.jp/developers/tree-shaking-in-2018",
-            "content": "Tree Shakingと呼ばれるビルドの最適化がどのように処理されるかについて。\nwebpackにおいて単にmodulesで書いてもTree Shankingされない場合やされるにはどうするかなどについて。\nまたRxJsでの例などについて",
+            "content": "Tree Shakingと呼ばれるビルドの最適化がどのように行われるかについて。 webpackにおいてES modulesで書いてもTree Shankingされない場合について。 またRxJsでの例など",
             "tags": [
-                "webpack",
                 "JavaScript",
-                "article"
+                "article",
+                "webpack"
             ],
             "relatedLinks": []
         },
