@@ -442,6 +442,27 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-12T00:46:17.132Z",
+            "title": "Deprecating cssnext",
+            "url": "https://moox.io/blog/deprecating-cssnext/",
+            "content": "`cssnext`がdeprecatedとなり、`postcss-preset-env`の利用が推奨されるようになった。\nマイグレーション方法や違いについてなど",
+            "tags": [
+                "CSS",
+                "PostCSS",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "postcss-preset-env",
+                    "url": "https://preset-env.cssdb.org/"
+                },
+                {
+                    "title": "A notice to cssnext users · Issue #32 · csstools/postcss-preset-env",
+                    "url": "https://github.com/csstools/postcss-preset-env/issues/32"
+                }
+            ]
         }
     ]
 }
