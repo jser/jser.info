@@ -497,6 +497,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-14T15:21:56.831Z",
+            "title": "Netflix/pollyjs: Record, Replay, and Stub HTTP Interactions.",
+            "url": "https://github.com/Netflix/pollyjs",
+            "content": "HTTPリクエスト/レスポンスの記録、再生を行うJavaScriptライブラリとNode.jsサーバ。\nまたHTTPリクエストのインターセプトして任意のレスポンスを返せる。",
+            "tags": [
+                "HTTP",
+                "JavaScript",
+                "testing",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
