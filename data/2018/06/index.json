@@ -510,6 +510,18 @@
                 "node.js"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-16T12:25:29.813Z",
+            "title": "snipsco/yett: 🔐A small webpage library to control the execution of (third party) scripts",
+            "url": "https://github.com/snipsco/yett",
+            "content": "JavaScriptの読み込みをブラックリストで管理するライブラリ。\n`MutationObserver`や`document.create`をhookし、指定URLのJavaScriptを読み込みをブロックできる。",
+            "tags": [
+                "library",
+                "JavaScript",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
