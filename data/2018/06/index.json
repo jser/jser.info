@@ -598,6 +598,19 @@
                     "url": "https://laravel.com/docs/5.4/collections"
                 }
             ]
+        },
+        {
+            "date": "2018-06-17T14:30:49.900Z",
+            "title": "Release v1.5.0 · GoogleChrome/puppeteer",
+            "url": "https://github.com/GoogleChrome/puppeteer/releases/tag/v1.5.0",
+            "content": "Puppeteer v1.5.0リリース。\n`BrowserContext`が追加され複数の独立したブラウザセッションを扱えるように、`Worker`クラスの追加、公式サイトが`pptr.dev`となるなど",
+            "tags": [
+                "JavaScript",
+                "Chrome",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
