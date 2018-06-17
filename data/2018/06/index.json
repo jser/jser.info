@@ -582,6 +582,22 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-17T14:14:02.361Z",
+            "title": "ecrmnn/collect.js: 💎 Convenient and dependency free wrapper for working with arrays and objects",
+            "url": "https://github.com/ecrmnn/collect.js",
+            "content": "配列やオブジェクトに対するユーティリティ関数のライブラリ。\nLaravelが持つCollectionsをJavaScriptにportしたもの",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Collections - Laravel - The PHP Framework For Web Artisans",
+                    "url": "https://laravel.com/docs/5.4/collections"
+                }
+            ]
         }
     ]
 }
