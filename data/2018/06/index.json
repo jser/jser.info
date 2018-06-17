@@ -539,6 +539,18 @@
                     "url": "https://github.com/parcel-bundler/parcel/blob/master/changelog.md#190---2018-06-14"
                 }
             ]
+        },
+        {
+            "date": "2018-06-17T05:31:18.967Z",
+            "title": "Detecting autofilled fields in Javascript – Tommy Brunn – Medium",
+            "url": "https://medium.com/@brunn/detecting-autofilled-fields-in-javascript-aed598d25da7",
+            "content": "フォームのautofillを検知する方法について。\nautofillにCSS animationをつけて、`animtaionstart`で発生を検知する方法について",
+            "tags": [
+                "CSS",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
