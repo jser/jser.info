@@ -551,6 +551,25 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-17T07:45:51.530Z",
+            "title": "🚀 Introducing Akita: A New State Management Pattern for Angular Applications",
+            "url": "https://netbasal.com/introducing-akita-a-new-state-management-pattern-for-angular-applications-f2f0fab5a8",
+            "content": "Angular向けのステート管理ライブラリであるAkitaについての記事。",
+            "tags": [
+                "JavaScript",
+                "Angular",
+                "TypeScript",
+                "library",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "datorama/akita: 🚀 Simple and Effective State Management for Angular Applications",
+                    "url": "https://github.com/datorama/akita"
+                }
+            ]
         }
     ]
 }
