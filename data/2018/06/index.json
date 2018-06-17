@@ -570,6 +570,18 @@
                     "url": "https://github.com/datorama/akita"
                 }
             ]
+        },
+        {
+            "date": "2018-06-17T14:08:08.361Z",
+            "title": "JavaScript engine fundamentals: Shapes and Inline Caches · Mathias Bynens",
+            "url": "https://mathiasbynens.be/notes/shapes-ics",
+            "content": "JavaScriptエンジンがどのようにJavaScriptのコードを処理しているかについての解説。\nそれぞれのブラウザが持つJavaScript VMにおける最適化のパイプライン処理について",
+            "tags": [
+                "JavaScript",
+                "article",
+                "video"
+            ],
+            "relatedLinks": []
         }
     ]
 }
