@@ -648,6 +648,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-18T13:24:00.132Z",
+            "title": "Understanding the Almighty Reducer | CSS-Tricks",
+            "url": "https://css-tricks.com/understanding-the-almighty-reducer/",
+            "content": "`Array.prototype.reduce`についての記事。\n`reduce`メソッドの動作イメージや、動きについて動画を混じえて解説している。",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
