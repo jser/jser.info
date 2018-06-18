@@ -611,6 +611,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-18T00:39:47.373Z",
+            "title": "Announcing: Greenkeeper 3 – Greenkeeper Blog",
+            "url": "https://blog.greenkeeper.io/announcing-greenkeeper-3-1504f5113998",
+            "content": "依存パッケージの管理サービスであるGreenkeeper 3リリース。\nmonorepoのサポート、`greenkeeper.json`の設定ファイルをサポート、コミットメッセージのカスタマイズができるようになるなど",
+            "tags": [
+                "webservice",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
