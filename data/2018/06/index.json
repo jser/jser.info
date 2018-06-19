@@ -682,6 +682,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-19T01:42:17.776Z",
+            "title": "Isomorphic ES Modules - The blog of Ada Rose Cannon",
+            "url": "https://ada.is/blog/2018/06/15/isomorphic-es-modules/",
+            "content": "ES module形式で配布されているHyperHTMLを使ってブラウザとNode.jsで同じライブラリをそのまま`import`してウェブアプリを作成する話。",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "server",
+                "isomorphic"
+            ],
+            "relatedLinks": []
         }
     ]
 }
