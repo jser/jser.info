@@ -659,6 +659,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-19T01:18:35.470Z",
+            "title": "Using JavaScript modules on the web  |  Web Fundamentals  |  Google Developers",
+            "url": "https://developers.google.com/web/fundamentals/primers/modules",
+            "content": "JavaScriptモジュールの挙動や実装についての記事。\nブラウザでのscriptとmoduleの挙動の違い、Dynamic importと`import.meta`について。\nまた、bundleした場合とのパフォーマンスの差や小さくexportしたモジュールの方が有利な点やHTTP/2とPreload。\nChromeで実装が進められてるWeb Packagin、Layered API、Workerとの連携などについて",
+            "tags": [
+                "JavaScript",
+                "module",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
