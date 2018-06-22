@@ -736,6 +736,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-22T06:23:43.538Z",
+            "title": "The Critical Request - Speaker Deck",
+            "url": "https://speakerdeck.com/benschwarz/the-critical-request",
+            "content": "First Meaningful Paintまでに必要なリソースへのリクエストと優先度についてのスライド。\npreloadなどによるwebfontの読み込み改善について",
+            "tags": [
+                "browser",
+                "performance",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
