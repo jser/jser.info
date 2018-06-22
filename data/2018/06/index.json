@@ -748,6 +748,17 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-22T06:25:54.707Z",
+            "title": "Node v10.5.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v10.5.0/",
+            "content": "Node.js 10.5.0リリース。\n`fs.stat`などがBigIntをサポート、`--experimental-worker`のフラグ付きでWorkerのサポートなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
