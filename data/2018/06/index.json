@@ -775,6 +775,23 @@
                     "url": "https://webkit.org/blog/8343/web-animations-in-webkit/"
                 }
             ]
+        },
+        {
+            "date": "2018-06-22T15:55:39.789Z",
+            "title": "Automated Dependency Updates with Renovate",
+            "url": "https://www.slideshare.net/teppeis/automated-dependency-updates-with-renovate-102769685",
+            "content": "リポジトリが依存するパッケージのバージョン更新をRenovateを使って自動化することについてのスライド。",
+            "tags": [
+                "JavaScript",
+                "npm",
+                "slide"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Renovate | Automated Dependency Updates",
+                    "url": "https://renovatebot.com/"
+                }
+            ]
         }
     ]
 }
