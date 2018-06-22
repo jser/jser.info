@@ -725,6 +725,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-22T06:18:11.377Z",
+            "title": "V8 JavaScript Engine: V8 release v6.8",
+            "url": "https://v8project.blogspot.com/2018/06/v8-release-68.html",
+            "content": "V8 v6.8リリース。\n関数自身が外の関数の不要な情報を持っていたのをリファクタリングしてメモリの改善。\n`Object.assign`をC++からJSの実装に変更してパフォーマンス改善、`TypedArray.prototype.sort`のパフォーマンス改善など",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
