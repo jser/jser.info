@@ -853,6 +853,18 @@
                 "license"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-24T06:05:24.588Z",
+            "title": "Understanding Jest Mocks – Rick Hanlon II – Medium",
+            "url": "https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c",
+            "content": "jestのmock機能について解析。\n`jest.mock`、`jest.spy`などについて",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
