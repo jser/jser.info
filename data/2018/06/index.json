@@ -842,6 +842,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-24T06:04:13.700Z",
+            "title": "Microsoft/license-checker-webpack-plugin: Webpack plugin that verifies licenses of all external dependencies in a compilation, and outputs them to a file.",
+            "url": "https://github.com/Microsoft/license-checker-webpack-plugin",
+            "content": "利用してるライブラリのライセンスチェックやまとめたライセンスファイルを生成するwebpackプラグイン",
+            "tags": [
+                "webpack",
+                "license"
+            ],
+            "relatedLinks": []
         }
     ]
 }
