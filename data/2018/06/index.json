@@ -898,6 +898,19 @@
                     "url": "https://github.com/winstonjs/winston/blob/master/CHANGELOG.md#v300--2018-06-12"
                 }
             ]
+        },
+        {
+            "date": "2018-06-25T23:25:17.240Z",
+            "title": "Redux Refactoring Patterns with @ngrx/platform - Speaker Deck",
+            "url": "https://speakerdeck.com/gregonnet/platform",
+            "content": "ngrxについてのスライド。\nReduxのパターン、switch-caseのパターンとFactoryパターン、どのようにStateを扱うかについて",
+            "tags": [
+                "redux",
+                "Angular",
+                "リファクタリング",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
