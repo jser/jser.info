@@ -936,6 +936,19 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-06-28T14:49:38.759Z",
+            "title": "E2EテストをPhantomJSから、Puppeteer + Headless Chromeへ移行しました - LCL Engineers' Blog",
+            "url": "http://techblog.lclco.com/entry/2018/06/28/080000",
+            "content": "Capybara + PhantomJSで行っていたテストを、Puppeteer + Headless Chromeに移行していくという話。\nPuppeteerの機能紹介やデバッグ方法について。",
+            "tags": [
+                "browser",
+                "JavaScript",
+                "testing",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
