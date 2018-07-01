@@ -10,6 +10,30 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-01T12:31:46.634Z",
+            "title": "mizchi/trans-loader: webpack-less frontend with service-worker",
+            "url": "https://github.com/mizchi/trans-loader",
+            "content": "Service Workerを使ってBabelやTypeScriptでの変換を行うスクリプト。\nnpmのモジュールをjspm.ioを使ってロードできる。",
+            "tags": [
+                "ServiceWorker",
+                "babel",
+                "TypeScript",
+                "npm",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "trans-loader: node/webpack なしではじめるフロントエンドプロジェクト - Qiita",
+                    "url": "https://qiita.com/mizchi/items/796a5c392d306a44a918"
+                },
+                {
+                    "title": "jspm.io - Native ES Modules CDN",
+                    "url": "https://jspm.io/"
+                }
+            ]
         }
     ]
 }
