@@ -74,6 +74,17 @@
                 "project"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-02T21:18:23.481Z",
+            "title": "Making Web Components Work | Mixpanel Engineering",
+            "url": "https://engineering.mixpanel.com/2018/06/12/making-web-components-work/",
+            "content": "Web Componentsを使って作ったパネルコンポーネントについての記事。\nsnabbdomを使ったVirtual DOMを使い描画し、Web Conponentsでのステート管理についてなど。",
+            "tags": [
+                "WebComponents",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
