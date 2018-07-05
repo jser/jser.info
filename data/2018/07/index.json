@@ -136,6 +136,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-05T05:08:52.743Z",
+            "title": "Node v10.6.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v10.6.0/",
+            "content": "Node.js 10.6.0リリース。\n`require('dns').promises`の追加、`Atomics.wake`を`Atomics.notify`にリネームするECMAScriptの仕様追従など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
