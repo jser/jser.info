@@ -123,6 +123,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-05T00:55:50.499Z",
+            "title": "jest/CHANGELOG.md at v23.3.0 · facebook/jest",
+            "url": "https://github.com/facebook/jest/blob/v23.3.0/CHANGELOG.md",
+            "content": "Jest 23.3.0リリース。\nインラインでスナップショットテストをする`toMatchInlineSnapshot`と`toThrowErrorMatchingInlineSnapshot`の追加など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
