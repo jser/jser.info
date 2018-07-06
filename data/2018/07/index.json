@@ -147,6 +147,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-06T07:17:36.694Z",
+            "title": "フロントエンドの「想定外」に対応する考え方とTipsいくつか | ダーシマ・ヱンヂニヤリング",
+            "url": "https://necomesi.jp/blog/tsmd/posts/229",
+            "content": "ブラウザの設定により使わない機能を考慮したデザインについて。\nデフォルトフォント、Adblock、拡張機能、JavaScriptの無効化、Cookieの無効化/プライベートモードに対する対応などについて",
+            "tags": [
+                "browser",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
