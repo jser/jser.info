@@ -175,6 +175,17 @@
                     "url": "https://npm.community/"
                 }
             ]
+        },
+        {
+            "date": "2018-07-07T04:23:13.676Z",
+            "title": "What Is Redux: A Designer’s Guide — Smashing Magazine",
+            "url": "https://www.smashingmagazine.com/2018/07/redux-designers-guide/",
+            "content": "Designer向けのReduxとはどういうもの？という解説。\nデータ受け取りどのようにコンポーネントの表示に反映させるかやデータ(State)変更、Optimistic UIなどについて図とともに概念を説明している",
+            "tags": [
+                "redux",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
