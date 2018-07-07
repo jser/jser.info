@@ -198,6 +198,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-07T04:42:09.603Z",
+            "title": "face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js",
+            "url": "https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07",
+            "content": "tensorflow.jsベースの顔検出/認識ライブラリであるface-api.jsについての記事。Face DetectionとFace Recognitionの実装方法や使い方についての解説",
+            "tags": [
+                "JavaScript",
+                "library",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "justadudewhohacks/face-api.js: JavaScript API for face detection and face recognition in the browser with tensorflow.js",
+                    "url": "https://github.com/justadudewhohacks/face-api.js"
+                }
+            ]
         }
     ]
 }
