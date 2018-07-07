@@ -158,6 +158,23 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-07T04:07:26.546Z",
+            "title": "The npm Blog — Announcing npm.community",
+            "url": "https://blog.npmjs.org/post/175587538995/announcing-npmcommunity",
+            "content": "npmに関するIssueはDiscourse(npm.community)で扱うようにするという話。\n既存のnpmリポジトリに立てられたIssueはアーカイブ化され、新規のIssueはnpm.communityの特定のカテゴリで扱うようになる。",
+            "tags": [
+                "npm",
+                "community",
+                "issue"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "npm forum",
+                    "url": "https://npm.community/"
+                }
+            ]
         }
     ]
 }
