@@ -255,7 +255,7 @@
             "date": "2018-07-09T02:27:52.391Z",
             "title": "ESLint v5.1.0 released - ESLint - Pluggable JavaScript linter",
             "url": "https://eslint.org/blog/2018/07/eslint-v5.1.0-released",
-            "content": "ESLint 5.1.0リリース。\n`no-catch-shadow`はdeprecatedとなり、`no-shadow`を優先するようになった。",
+            "content": "ESLint 5.1.0リリース。\n`no-catch-shadow`はdeprecatedとなった。代わりに`no-shadow`を使うとよい。",
             "tags": [
                 "ESLint",
                 "ReleaseNote"
