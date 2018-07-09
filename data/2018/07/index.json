@@ -272,6 +272,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-09T13:43:56.578Z",
+            "title": "jamiemccrindle/axax: Async Iterator Extensions for JavaScript e.g. map, reduce, filter, flatMap, etc.",
+            "url": "https://github.com/jamiemccrindle/axax",
+            "content": "Async Iteratorを使った`map`、`reduce`、`filter`、`flatMap`、`pipe`などの実装ライブラリ。\nRxJSやコレクション系ライブラリと似たメソッドを提供するライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
