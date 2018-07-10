@@ -301,6 +301,17 @@
                     "url": "https://developers.google.com/web/tools/chrome-user-experience-report/"
                 }
             ]
+        },
+        {
+            "date": "2018-07-10T01:58:31.829Z",
+            "title": "Seva Zaikov - Node.js REPL in Depth",
+            "url": "https://blog.bloomca.me/2018/07/09/nodejs-repl-in-depth.html",
+            "content": "Node.jsのREPLについての記事。\nREPLで利用できる特別なコマンド、自動的に使えるモジュールやモジュールとして`repl`を使う方法についてなど",
+            "tags": [
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
