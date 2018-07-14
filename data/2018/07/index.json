@@ -379,6 +379,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-14T14:16:15.875Z",
+            "title": "Site Isolation for web developers  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2018/07/site-isolation",
+            "content": "Chrome 67でデフォルト有効化されたSite Isolationについて。\nレンダラープロセスを分離することで、サイドチャネル攻撃やオリジン超えの攻撃によって機密情報が盗まれるのを防止する。\nCORB、iframeなどにおけるloadとunloadにおける挙動の違いなどについて",
+            "tags": [
+                "Chrome",
+                "browser",
+                "security"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Google Online Security Blog: Mitigating Spectre with Site Isolation in Chrome",
+                    "url": "https://security.googleblog.com/2018/07/mitigating-spectre-with-site-isolation.html"
+                }
+            ]
         }
     ]
 }
