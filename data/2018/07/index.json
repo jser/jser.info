@@ -334,6 +334,17 @@
                 "チートシート"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-14T10:00:06.698Z",
+            "title": "The npm Blog — v6.2.0",
+            "url": "https://blog.npmjs.org/post/175871462900/v620",
+            "content": "npm 6.2.0リリース。\n`npm audit`にawkなどでパースしやすい`--parseable`オプションの追加、` sign-git-commit`の設定を追加など",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
