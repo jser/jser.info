@@ -396,6 +396,19 @@
                     "url": "https://security.googleblog.com/2018/07/mitigating-spectre-with-site-isolation.html"
                 }
             ]
+        },
+        {
+            "date": "2018-07-14T23:06:57.930Z",
+            "title": "dubzzz/fast-check: Property based testing framework for JavaScript (like QuickCheck) written in TypeScript",
+            "url": "https://github.com/dubzzz/fast-check",
+            "content": "Property based testingを行うテストライブラリ。\n値のパターンや組み合わせを定義してランダムな値を生成してテストできる。\nまたテストが失敗した際には`seed`値を使って同じ組み合わせを再現してテストできる。",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
