@@ -345,6 +345,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-14T10:56:42.102Z",
+            "title": "Announcing TypeScript 3.0 RC | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2018/07/12/announcing-typescript-3-0-rc/",
+            "content": "TypeScript 3.0 RCリリース。\nmonorepo向けのサポートがメイン。\nProject Referencesによりmonorepo内の別パッケージの型定義を参照できるようになり、Build modeによって関連するパッケージのビルドをインクリメンタルに行える。\ntuples型の改善、`unknown`型の追加、Reactのdefault propsのサポートなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
