@@ -422,6 +422,18 @@
                 "software"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-16T00:17:28.979Z",
+            "title": "teadjs/tead: Lighting the way to simpler testing",
+            "url": "https://github.com/teadjs/tead",
+            "content": "シンプルなテストフレームワーク。\n`[actual, expected]`の組み合わせを返すだけでテストできる。",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
