@@ -434,6 +434,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-16T14:38:57.247Z",
+            "title": "Life of a Pixel 2018 - Google スライド",
+            "url": "https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y/mobilepresent#slide=id.p",
+            "content": "Chromeのレンダリングの仕組みについてのスライド。\nDOM、Style、Layout、Paint、Rasterization。\n変更があったときに再レンダリングやCompositingなどの処理の流れなどについて。",
+            "tags": [
+                "browser",
+                "Chrome",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
