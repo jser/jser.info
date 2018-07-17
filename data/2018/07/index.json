@@ -463,6 +463,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-17T00:46:44.698Z",
+            "title": "Browsh",
+            "url": "https://www.brow.sh/",
+            "content": "Firefoxをバックエンド(WebExtensions)に使ったテキストブラウザ。\nCSSやWebGL、画像や動画などの描画結果をテキストベースで閲覧できる。",
+            "tags": [
+                "browser",
+                "console",
+                "firefox"
+            ],
+            "relatedLinks": []
         }
     ]
 }
