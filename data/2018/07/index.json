@@ -475,6 +475,24 @@
                 "firefox"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-17T02:18:10.741Z",
+            "title": "Postmortem for Malicious Packages Published on July 12th, 2018 - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes",
+            "content": "`.npmrc`の内容を盗み取る`eslint-scope@3.7.2`と`eslint-config-eslint@5.0.2`が公開された問題についてのレポート。\nパスワードリスト攻撃で取られてたアカウントのtokenから直接publishされ、その後npm incによって全ユーザーのtokenがリセットされた。\n攻撃手法や対策について",
+            "tags": [
+                "ESLint",
+                "npm",
+                "security",
+                "node.js"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The npm Blog — Incident report: npm, Inc. operations incident of...",
+                    "url": "https://blog.npmjs.org/post/175824896885/incident-report-npm-inc-operations-incident-of"
+                }
+            ]
         }
     ]
 }
