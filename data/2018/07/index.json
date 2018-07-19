@@ -497,6 +497,17 @@
                     "url": "https://qiita.com/mysticatea/items/0141657e4478d9cf4614"
                 }
             ]
+        },
+        {
+            "date": "2018-07-19T02:05:42.485Z",
+            "title": "Release Notes for Safari Technology Preview 61 | WebKit",
+            "url": "https://webkit.org/blog/8365/release-notes-for-safari-technology-preview-61/",
+            "content": "Safari Technology Preview 61リリース。\n`Element.toggleAttribute`のサポート、`fetch`の`credentials`のデフォルト値を`same-origin`へ変更など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
