@@ -565,6 +565,24 @@
                     "url": "https://github.com/emberjs/ember.js/releases/tag/v3.3.0"
                 }
             ]
+        },
+        {
+            "date": "2018-07-20T14:47:20.125Z",
+            "title": "Support the native graal packages by ChadKillingsworth · Pull Request #90 · google/closure-compiler-npm",
+            "url": "https://github.com/google/closure-compiler-npm/pull/90",
+            "content": "Closure Compilerにネイティブバイナリが同梱された(macOSとLinux)",
+            "tags": [
+                "JavaScript",
+                "Java",
+                "news",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 20180716.0.0 · google/closure-compiler-npm",
+                    "url": "https://github.com/google/closure-compiler-npm/releases/tag/20180716.0.0"
+                }
+            ]
         }
     ]
 }
