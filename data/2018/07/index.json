@@ -531,6 +531,23 @@
                 "React"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-20T01:31:59.781Z",
+            "title": "Compiler in JavaScript using ANTLR – DailyJS – Medium",
+            "url": "https://medium.com/dailyjs/compiler-in-javascript-using-antlr-9ec53fd2780f",
+            "content": "ANTLRを使ってコンパイラを作る話。\nECMAScriptを入力にしてPythonのコードを出力するコンパイラをどうのように作るかについて",
+            "tags": [
+                "JavaScript",
+                "article",
+                "AST"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "antlr4 - npm",
+                    "url": "https://www.npmjs.com/package/antlr4"
+                }
+            ]
         }
     ]
 }
