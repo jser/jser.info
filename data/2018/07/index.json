@@ -588,6 +588,17 @@
                     "url": "https://github.com/google/closure-compiler-npm/releases/tag/20180716.0.0"
                 }
             ]
+        },
+        {
+            "date": "2018-07-21T02:28:52.028Z",
+            "title": "Element.toggleAttribute | blog.jxck.io",
+            "url": "https://blog.jxck.io/entries/2018-07-20/toggle-attribute.html",
+            "content": "属性の値をトグルをする`Element.prototype.toggleAttribute`について",
+            "tags": [
+                "DOM",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
