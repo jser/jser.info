@@ -624,6 +624,19 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-22T11:00:48.756Z",
+            "title": "普通のHTMLの書き方",
+            "url": "https://hail2u.net/documents/html-best-practices.html",
+            "content": "HTMLの避けるべき非推奨な書き方、簡潔な書き方、セマンティック、アクセシビリティを考慮した書き方などについてのドキュメント。\nそれぞれの項目に悪い例と良い例つきで解説されている。よくある記述の仕様的な解説なども書かれている。\n",
+            "tags": [
+                "HTML",
+                "HTML5",
+                "document",
+                "spec"
+            ],
+            "relatedLinks": []
         }
     ]
 }
