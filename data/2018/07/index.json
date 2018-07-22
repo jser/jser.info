@@ -637,6 +637,24 @@
                 "spec"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-22T14:08:47.017Z",
+            "title": "PWACompat: the Web App Manifest for all browsers  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2018/07/pwacompat",
+            "content": "Web App Manifestから古いSafariやレガシーブラウザ向けにメタ要素を追加するライブラリ。",
+            "tags": [
+                "PWA",
+                "Tools",
+                "article",
+                "polyfill"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "GoogleChromeLabs/pwacompat: PWACompat to bring Web App Manifest to older browsers",
+                    "url": "https://github.com/GoogleChromeLabs/pwacompat"
+                }
+            ]
         }
     ]
 }
