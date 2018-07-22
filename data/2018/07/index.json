@@ -655,6 +655,18 @@
                     "url": "https://github.com/GoogleChromeLabs/pwacompat"
                 }
             ]
+        },
+        {
+            "date": "2018-07-22T14:22:53.994Z",
+            "title": "Operationalizing Node.js for Server Side Rendering – Airbnb Engineering & Data Science – Medium",
+            "url": "https://medium.com/airbnb-engineering/operationalizing-node-js-for-server-side-rendering-c5ba718acfc9",
+            "content": "AirbnbにおけるReactのサーバサイドレンダリングのパフォーマンスについての記事。JavaScriptがどのように非同期処理をしているかやボトルネックとなる場所についてなど",
+            "tags": [
+                "React",
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
