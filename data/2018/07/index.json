@@ -612,6 +612,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-22T01:43:13.673Z",
+            "title": "GoogleChromeLabs/ndb: ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools",
+            "url": "https://github.com/GoogleChromeLabs/ndb",
+            "content": "Puppeteerを使ったNode.jsのデバッガーツール。\nNode.jsのアプリに対してChrome開発者ツールでデバッグできる。\n`node --inspect`に比べてコンソールパネルでの実行、ブレークポイントの対応、プロファイル周りなどが追加されている。",
+            "tags": [
+                "Chrome",
+                "node.js",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
