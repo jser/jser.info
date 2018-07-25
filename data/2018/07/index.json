@@ -738,6 +738,19 @@
                     "url": "https://developers.google.com/web/updates/2018/06/fresher-sw"
                 }
             ]
+        },
+        {
+            "date": "2018-07-25T02:25:28.273Z",
+            "title": "Page Lifecycle API  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2018/07/page-lifecycle-api",
+            "content": "Page Lifecycle APIについての解説。\nウェブページにライフサイクルの概念を導入する。`visibilitychange`など既存のイベントや新しく追加された`freeze`、`resume`などイベントの紹介、ライフサイクルにおけるStateについてを解説している。",
+            "tags": [
+                "JavaScript",
+                "Chrome",
+                "article",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
