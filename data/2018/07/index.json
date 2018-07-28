@@ -786,6 +786,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-28T03:26:36.590Z",
+            "title": "Redux vs. The React Context API",
+            "url": "https://daveceddia.com/context-api-vs-redux/",
+            "content": "React Contextの使い方や動作についての解説。Reduxでのステート管理との違いやContextはReduxを置き換えるものではない点についてなど",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
