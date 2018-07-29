@@ -809,6 +809,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-29T13:23:39.516Z",
+            "title": "Removing Babel's Stage Presets · Babel",
+            "url": "https://babeljs.io/blog/2018/07/27/removing-babels-stage-presets",
+            "content": "Babel 7では`babel-preset-stage-0`のようなStage Presetを公開しないことについて。\nStage Presetを削除することにした背景やProposalへのフィードバックについて。",
+            "tags": [
+                "babel",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
