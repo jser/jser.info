@@ -820,6 +820,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-30T01:24:36.577Z",
+            "title": "Vue技术内幕",
+            "url": "http://hcysun.me/vue-design/",
+            "content": "Vue.jsのソースコードを解説する電子書籍。\nディレクトリ構造、オプションや初期化処理、リアクティブシステムの実装、テンプレートのパースとジェネレートの仕組み、Virtual DOMについてなど",
+            "tags": [
+                "Vue",
+                "JavaScript",
+                "ebook"
+            ],
+            "relatedLinks": []
         }
     ]
 }
