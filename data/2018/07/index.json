@@ -894,6 +894,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-07-31T00:33:03.705Z",
+            "title": "Logging Activity With The Web Beacon API — Smashing Magazine",
+            "url": "https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/",
+            "content": "`navigator.sendBeacon`を使ってページを離脱する前にログを送信する方法について。\nまたGDPRやDNTの対応について",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
