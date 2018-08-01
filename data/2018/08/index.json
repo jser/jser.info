@@ -11,6 +11,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-01T23:56:36.658Z",
+            "title": "Vue.js で XSS を作り込まないために気を付けること - SSTエンジニアブログ",
+            "url": "https://techblog.securesky-tech.com/entry/2018/08/01/110000",
+            "content": "Vue.jsでXSSが発生するポイントについての解説。\n`v-html`、`href`のバインディグ、サーバサイドのテンプレートとCSRでのエスケープ漏れなどについて",
+            "tags": [
+                "Vue",
+                "security",
+                "article",
+                "XSS"
+            ],
+            "relatedLinks": []
         }
     ]
 }
