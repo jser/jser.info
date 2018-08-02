@@ -47,6 +47,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-02T15:12:13.232Z",
+            "title": "JSDocで型チェックする - Qiita",
+            "url": "https://qiita.com/shisama/items/016288d38165d542fffd",
+            "content": "TypeScriptの`allowJs`と`checkJs`を使ったJavaScriptでの型チェックについて。\nJSDocで書いた型アノテーションや型定義ファイルを元に型チェックを行う方法について",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
