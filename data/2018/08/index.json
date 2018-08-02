@@ -26,10 +26,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2018-08-02T01:57:34.855Z",
+            "date": "2018-08-02T01:58:19.795Z",
             "title": "React v16.4.2: Server-side vulnerability fix - React Blog",
             "url": "https://reactjs.org/blog/2018/08/01/react-v-16-4-2.html",
-            "content": "React 16.4.2リリース。\nSSRにおいてユーザー入力をコンポーネントの属性名に渡せるとXSSが発生する問題を修正。\nVueとPreactも同様の問題があり、合わせてsecurity fixがリリースされた。",
+            "content": "React 16.4.2リリース。\nSSRにおいてユーザー入力をコンポーネントの属性名に渡せるとXSSが発生する問題を修正。\nminorごとに同様のpatchリリースが公開されている。\nVueとPreactも同様の問題があり、合わせてsecurity fixがリリースされた。",
             "tags": [
                 "React",
                 "ReleaseNote",
