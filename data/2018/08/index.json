@@ -36,6 +36,17 @@
                 "security"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-02T02:41:06.491Z",
+            "title": "Release Notes for Safari Technology Preview 62 | WebKit",
+            "url": "https://webkit.org/blog/8384/release-notes-for-safari-technology-preview-62/",
+            "content": "Safari Technology Preview 62リリース。\nITPデバッグモードの試験的追加、`JSON.stringify`の修正、HLSストリームのキャッシュを無効化、CSS Gridの`gap`プロパティにおける`calc`が動くように修正など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
