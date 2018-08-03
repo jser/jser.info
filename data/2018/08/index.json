@@ -69,6 +69,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-03T10:29:40.691Z",
+            "title": "The Cost Of JavaScript In 2018 – Addy Osmani – Medium",
+            "url": "https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4",
+            "content": "JavaScriptのパフォーマンスコストについての記事。\nファイルサイズ、ロード時間、インタラクティブになるまでの時間、モバイルや低スペックマシンでのコスト。\nまたパフォーマンスを改善するパターンなどについて",
+            "tags": [
+                "JavaScript",
+                "article",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
