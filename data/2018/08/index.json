@@ -179,6 +179,26 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-06T13:28:16.322Z",
+            "title": "ESLint v5.3.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2018/08/eslint-v5.3.0-released",
+            "content": "ESLint 5.3.0リリース。\n正規表現に関するルールが2つ、Async Functionに関するルールが2つ追加された。",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESLint v5.3.0 - Qiita",
+                    "url": "https://qiita.com/mysticatea/items/eb99e18d6cc7c3bf9317"
+                },
+                {
+                    "title": "Promise のコンストラクタに渡した async function 内で throw しても rejected な Promise は作られない（常に fulfilled になる） - Humanity",
+                    "url": "http://tyru.hatenablog.com/entry/2018/08/04/220530"
+                }
+            ]
         }
     ]
 }
