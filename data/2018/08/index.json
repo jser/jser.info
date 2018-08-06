@@ -199,6 +199,24 @@
                     "url": "http://tyru.hatenablog.com/entry/2018/08/04/220530"
                 }
             ]
+        },
+        {
+            "date": "2018-08-06T23:05:10.059Z",
+            "title": "Storybook Tutorial",
+            "url": "https://www.learnstorybook.com/",
+            "content": "Storybookのチュートリアル。\nReact、Angular、Vueに対応したStirybookでのコンポーネント開発やChromaticを使ったビジュアルテストなどについて書かれている",
+            "tags": [
+                "React",
+                "Angular",
+                "Vue",
+                "tutorial"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chromatic visual testing for React",
+                    "url": "https://www.chromaticqa.com/"
+                }
+            ]
         }
     ]
 }
