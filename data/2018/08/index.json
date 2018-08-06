@@ -123,6 +123,25 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-06T02:35:36.613Z",
+            "title": "Fusion.js Documentation",
+            "url": "https://fusionjs.com/",
+            "content": "UberのプラグインベースなBrowser/Node.jsウェブフレームワーク。コアにプラグインの仕組みとDIの仕組みを持ち、ReactやRedux、KoaなどUberがよく利用しているものをプラグインとして導入できる。\nwebpackやbabelなどをラップするcliがあり、create-react-appのように設定ファイルを触らずに開発ができる。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "plugin",
+                "browser",
+                "node.js"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing Fusion.js: A Plugin-based Universal Web Framework",
+                    "url": "https://eng.uber.com/fusionjs/"
+                }
+            ]
         }
     ]
 }
