@@ -217,6 +217,18 @@
                     "url": "https://www.chromaticqa.com/"
                 }
             ]
+        },
+        {
+            "date": "2018-08-06T23:29:24.051Z",
+            "title": "Release 8.3.0 · developit/preact",
+            "url": "https://github.com/developit/preact/releases/tag/8.3.0",
+            "content": "Preact 8.3.0リリース。\n`getDerivedStateFromProps`と`getSnapshotBeforeUpdate`に対応。moduleを`.mjs`で出力するように、`setState`の挙動をReactに近づけるように修正など",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
