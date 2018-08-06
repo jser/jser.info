@@ -142,6 +142,18 @@
                     "url": "https://eng.uber.com/fusionjs/"
                 }
             ]
+        },
+        {
+            "date": "2018-08-06T10:25:07.537Z",
+            "title": "ちゃんと理解するCode Splitting - Qiita",
+            "url": "https://qiita.com/seya/items/06b160adb7801ae9e66f",
+            "content": "webpackにおけるCode Splittingの動作の解説。Code Splittingのメリットとデメリット。\nCode SplittingするUIのパターンやDynamic Import、`webpackPrefetch`オプション、VueやReactでの対応についてなど",
+            "tags": [
+                "webpack",
+                "article",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
