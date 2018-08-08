@@ -254,6 +254,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-08T05:36:01.295Z",
+            "title": "V8 JavaScript Engine: V8 release v6.9",
+            "url": "https://v8project.blogspot.com/2018/08/v8-release-69.html",
+            "content": "V8 v6.9リリース。\nメモリ使用量の削減、WebAssemblyコンパイラの起動速度などの改善、DataViewの速度改善など",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
