@@ -242,6 +242,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-08T01:08:59.285Z",
+            "title": "webhint: a hinting engine for the web – webhint – Medium",
+            "url": "https://medium.com/webhint/webhint-a-hinting-engine-for-the-web-ef0d3fa32ea9",
+            "content": "webhint(sonarwhal)のリリース。\nsonarwhalからwebhintへ名前の変更、起動時間の改善、`npm create hintrc`で設定ファイルを作成できるようになるなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
