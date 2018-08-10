@@ -309,6 +309,19 @@
                     "url": "https://tech.bizreach.co.jp/posts/204/angular-upgrade-second/"
                 }
             ]
+        },
+        {
+            "date": "2018-08-10T01:41:29.765Z",
+            "title": "Release v3.0.0 · lerna/lerna",
+            "url": "https://github.com/lerna/lerna/releases/tag/v3.0.0",
+            "content": "monorepo管理ツールのlerna 3.0.0リリース。\n`lerna publish`と`lerna version`コマンドに分離、`lerna changed`の追加。\n`lerna publish`時に自動的にGitへ`--no-verify`を渡すのをやめ`--commit-hook`オプションを追加、lerna自身をmonorepoで管理するようになるなど",
+            "tags": [
+                "JavaScript",
+                "monorepo",
+                "ReleaseNote",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
