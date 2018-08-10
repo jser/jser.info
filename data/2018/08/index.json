@@ -322,6 +322,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-10T09:14:02.523Z",
+            "title": "Release v3.0.0 · karma-runner/karma",
+            "url": "https://github.com/karma-runner/karma/releases/tag/v3.0.0",
+            "content": "Karma 3.0.0リリース。\nデフォルトのタイムアウト時間の変更、`karma init`で`ChromeHeadless`を選択できるようになるなど",
+            "tags": [
+                "browser",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
