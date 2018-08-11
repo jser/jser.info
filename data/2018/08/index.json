@@ -334,6 +334,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-11T10:35:00.625Z",
+            "title": "Vue CLI 3.0 is here! – The Vue Point – Medium",
+            "url": "https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb",
+            "content": "Vue CLI 3.0リリース。\nCLIが書き直されたバージョンでリッチな機能を多くもつ。\nejectしなくてもwebpackなどをカスタマイズできるように、プラグインシステム、ダッシュボードのGUI、開発サーバ、ビルドやModern Modeについてなど",
+            "tags": [
+                "Vue",
+                "console",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "mozilla-neutrino/webpack-chain: A chaining API to generate and simplify the modification of Webpack configurations.",
+                    "url": "https://github.com/mozilla-neutrino/webpack-chain"
+                }
+            ]
         }
     ]
 }
