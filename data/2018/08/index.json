@@ -352,6 +352,17 @@
                     "url": "https://github.com/mozilla-neutrino/webpack-chain"
                 }
             ]
+        },
+        {
+            "date": "2018-08-12T09:16:05.080Z",
+            "title": "Introduction · Human Redux",
+            "url": "https://read.reduxbook.com/",
+            "content": "Reduxについての書籍。\nReduxの使い方、Selector、ルーティング、非同期処理やエラー処理、Redux Bundlerなどについて",
+            "tags": [
+                "redux",
+                "book"
+            ],
+            "relatedLinks": []
         }
     ]
 }
