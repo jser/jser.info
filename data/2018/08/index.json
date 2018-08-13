@@ -363,6 +363,24 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-13T07:32:20.955Z",
+            "title": "Introducing Electron Fiddle – Felix Rieseberg – Medium",
+            "url": "https://medium.com/@felixrieseberg/introducing-electron-fiddle-1de2be1ba6e7",
+            "content": "ElectronアプリをJSFiddleのようなプレイグラウンドで開発できるアプリ。\nエディタにコードを書いてElectronアプリを実行したり、コードをgistに共有したり、アプリのパッケージ化できる",
+            "tags": [
+                "Electron",
+                "article",
+                "software",
+                "editor"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "electron/fiddle: 🚀 The easiest way to get started with Electron",
+                    "url": "https://github.com/electron/fiddle"
+                }
+            ]
         }
     ]
 }
