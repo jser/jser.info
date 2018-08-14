@@ -432,6 +432,27 @@
                     "url": "https://asciidwango.github.io/js-primer/basic/function-scope/"
                 }
             ]
+        },
+        {
+            "date": "2018-08-14T23:45:43.393Z",
+            "title": "Better tree shaking with deep scope analysis – webpack – Medium",
+            "url": "https://medium.com/webpack/better-tree-shaking-with-deep-scope-analysis-a0b788c0ce77",
+            "content": "webpackのTree Shakingではモジュール間同士の依存に関するDead Code Eliminationに動かないケースがあった。\nそのパターンを解決するプラグインとその動作の解説について",
+            "tags": [
+                "webpack",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "vincentdchan/webpack-deep-scope-analysis-plugin: A webpack plugin for deep scope analysis",
+                    "url": "https://github.com/vincentdchan/webpack-deep-scope-analysis-plugin"
+                },
+                {
+                    "title": "Unexpected code after tree-shake · Issue #6264 · webpack/webpack",
+                    "url": "https://github.com/webpack/webpack/issues/6264"
+                }
+            ]
         }
     ]
 }
