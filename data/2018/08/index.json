@@ -464,6 +464,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-16T02:54:52.032Z",
+            "title": "Release: npm@6.4.0 - 📣 announcements - npm forum",
+            "url": "https://npm.community/t/release-npm-6-4-0/1417",
+            "content": "npm 6.4.0リリース。\nIPv6が使える場合はIPv6を使うように、`npm audit`に`--audit-level`を追加など",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
