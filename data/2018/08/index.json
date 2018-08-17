@@ -499,6 +499,17 @@
                 "node.js"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-17T14:10:59.250Z",
+            "title": "webpack 4.0 to 4.16: Did you know? – webpack – Medium",
+            "url": "https://medium.com/webpack/webpack-4-0-to-4-16-did-you-know-71e25a57fa6b",
+            "content": "webpack 4以降の変更点について。\n`optimization`に`automaticNameDelimiter`、`maxSize`オプションの追加。\nDynamic Importでpreloadなどを指定できる`webpackPrefetch`や、そのまま`import()`として出力するための`webpackIgnore`コメントのサポートなど。",
+            "tags": [
+                "webpack",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
