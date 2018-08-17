@@ -487,6 +487,18 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-17T08:43:16.860Z",
+            "title": "deepsweet/foxr: 🦊 Node.js API to control Firefox",
+            "url": "https://github.com/deepsweet/foxr",
+            "content": "Firefoxをremote protocol経由で操作するNode.jsライブラリ。\nHeadlessモードにも対応し、APIはPuppeteerのサブセット互換のものを提供することを目的としている",
+            "tags": [
+                "firefox",
+                "API",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
