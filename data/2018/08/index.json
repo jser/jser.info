@@ -528,6 +528,20 @@
                     "url": "https://blog.nrwl.io/angular-console-the-ui-for-the-angular-cli-a5d0924240b7"
                 }
             ]
+        },
+        {
+            "date": "2018-08-19T14:13:21.298Z",
+            "title": "Scroll to the future — Martian Chronicles, Evil Martians’ team blog",
+            "url": "https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations",
+            "content": "ブラウザとスクロールについての歴史や変更についてをまとめた記事。\nスクロールバーのOSやブラウザでの表示の違い、`Element#scrollIntoView`やCSS `scroll-behavior`でのスクロールの挙動。\nまたstickyやIntersection Observer、`overscroll-behavior`プロパティなどについて",
+            "tags": [
+                "browser",
+                "UI",
+                "WebPlatformAPI",
+                "CSS",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
