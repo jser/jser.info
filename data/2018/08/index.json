@@ -542,6 +542,24 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-19T14:26:09.944Z",
+            "title": "Cross-tab Synchronization with the Web Locks API - Blog | SitePen",
+            "url": "https://www.sitepen.com/blog/2018/08/14/cross-tab-synchronization-with-the-web-locks-api/",
+            "content": "Web Locks APIを使ったタブ間同士のコミュニケーションについて。\nWeb Locks APIのユースケースや使い方について\n",
+            "tags": [
+                "WebPlatformAPI",
+                "Chrome",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "WICG/web-locks: Cross-tab resource coordination API",
+                    "url": "https://github.com/WICG/web-locks/"
+                }
+            ]
         }
     ]
 }
