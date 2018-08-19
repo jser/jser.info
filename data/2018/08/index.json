@@ -510,6 +510,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-19T12:53:24.794Z",
+            "title": "Angular Console",
+            "url": "https://angularconsole.com/",
+            "content": "Angular CLIのUIを提供することを目的にしたアプリ。\nAngular CLIでできる操作をGUIから行えるようにすることが目的。\n",
+            "tags": [
+                "Angular",
+                "console",
+                "GUI",
+                "software"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Angular Console — The UI for the Angular CLI – nrwl",
+                    "url": "https://blog.nrwl.io/angular-console-the-ui-for-the-angular-cli-a5d0924240b7"
+                }
+            ]
         }
     ]
 }
