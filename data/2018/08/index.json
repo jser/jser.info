@@ -614,6 +614,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-20T10:00:54.870Z",
+            "title": "JavaScript engine fundamentals: optimizing prototypes · Mathias Bynens",
+            "url": "https://mathiasbynens.be/notes/prototypes",
+            "content": "JavaScriptエンジン(V8)の`prototype`の最適化の仕組みについての解説",
+            "tags": [
+                "JavaScript",
+                "V8"
+            ],
+            "relatedLinks": []
         }
     ]
 }
