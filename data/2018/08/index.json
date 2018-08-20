@@ -636,6 +636,20 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-20T15:23:30.656Z",
+            "title": "Tangled World of Web Technology ― Are we safe? - Speaker Deck",
+            "url": "https://speakerdeck.com/lmt_swallow/tangled-world-of-web-technology-are-we-safe",
+            "content": "ブラウザでの新しい技術と今まである技術が絡んだ脆弱性についてのスライド。\nReactやVueといったデフォルトエスケープされるライブラリにおいてもXSSは起こるケースがあること。\nまた、Service WorkerやCSPなど新しい技術と今まである技術が絡み合うことで発生する問題などの紹介。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "XSS",
+                "slide",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
