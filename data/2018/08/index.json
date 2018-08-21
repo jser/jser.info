@@ -661,6 +661,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-21T06:41:18.199Z",
+            "title": "jsdom/Changelog.md at master · jsdom/jsdom",
+            "url": "https://github.com/jsdom/jsdom/blob/master/Changelog.md#1200",
+            "content": "jsdom 12.0.0リリース。\nNode.js 8以降が必要になるように、`ResourceLoader`の追加、依存の更新など",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
