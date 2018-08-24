@@ -685,6 +685,19 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-24T05:47:13.050Z",
+            "title": "Webpagetestから始める継続的パフォーマンス改善",
+            "url": "http://azu.github.io/slide/2018/roppongijs/webpagetest-performance.html",
+            "content": "ウェブアプリの継続的なパフォーマンス改善についてのスライド。\nパフォーマンス改善と指標、それを測るための継続的な計測とサービスについて。\nWebPagetestを中心にどのように計測して可視化し、改善した結果を確認したりリグレッションを防ぐかについて",
+            "tags": [
+                "browser",
+                "performance",
+                "webservice",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
