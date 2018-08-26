@@ -710,6 +710,18 @@
                 "npm"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-26T03:19:55.166Z",
+            "title": "Service Worker Caching Strategies Based on Request Types",
+            "url": "https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c",
+            "content": "どの種類に対するリクエスト化を判定できる`Request.destination`について。\n`Request.destination`を使いキャッシュの戦略を変えるという話。また注意点として、一部リクエストは空文字列となり判定できないという話。\n`Request.mode`や`Request.url`などとの組み合わせについて",
+            "tags": [
+                "ServiceWorker",
+                "article",
+                "Fetch"
+            ],
+            "relatedLinks": []
         }
     ]
 }
