@@ -722,6 +722,29 @@
                 "Fetch"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-26T04:40:42.899Z",
+            "title": "WorkerDOM: Concurrency for JavaScript programming with the DOM – Accelerated Mobile Pages Project",
+            "url": "https://amphtml.wordpress.com/2018/08/21/workerdom/",
+            "content": "WebWorkerの中で動くDOMの実装のアルファ版を公開したという話。\nメインスレッドでの処理が重なるとjankとなるため、WorkerスレッドでDOM APIの処理を行う実験的実装。\nHydrateしたデータでWorkerとの間をやりとりし、変更はMutationObserverで監視する",
+            "tags": [
+                "DOM",
+                "webworker",
+                "article",
+                "AMP",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "WorkerDOM: JavaScript Concurrency and the DOM - Speaker Deck",
+                    "url": "https://speakerdeck.com/cramforce/workerdom-javascript-concurrency-and-the-dom"
+                },
+                {
+                    "title": "ampproject/worker-dom: The same DOM API and Frameworks you know, but in a Web Worker.",
+                    "url": "https://github.com/ampproject/worker-dom"
+                }
+            ]
         }
     ]
 }
