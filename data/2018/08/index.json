@@ -786,6 +786,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-27T07:00:43.120Z",
+            "title": "Release v1.1.0 · stimulusjs/stimulus",
+            "url": "https://github.com/stimulusjs/stimulus/releases/tag/v1.1.0",
+            "content": "Turbolinkと連携できるJavaScriptフレームワークのStimulus 1.1.0リリース。\n`@stimulus/polyfills`の追加、`data-action`属性で複数のactionを指定時にその順序を尊重するように、`DOMContentLoaded`で処理を開始するようになるなど",
+            "tags": [
+                "JavaScript",
+                "HTML",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
