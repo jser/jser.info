@@ -825,6 +825,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-28T00:40:04.413Z",
+            "title": "Babel 7 Released · Babel",
+            "url": "https://babeljs.io/blog/2018/08/27/7.0.0",
+            "content": "Babel 7リリース。\nNode.js 4以下のサポート終了、`@babel`スコープへモジュールを移動、`es2015`のような年号プリセットを廃止し`preset-env`に移行、Stageプリセットを廃止。\n`babel.config.js`での設定をサポート、パフォーマンスの改善など。\nマイグレーションは`babel-upgrade`で行える。",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "babel/babel-upgrade: ⬆️ A tool for upgrading Babel versions (to v7): `npx babel-upgrade`",
+                    "url": "https://github.com/babel/babel-upgrade"
+                }
+            ]
         }
     ]
 }
