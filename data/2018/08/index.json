@@ -841,6 +841,18 @@
                     "url": "https://github.com/babel/babel-upgrade"
                 }
             ]
+        },
+        {
+            "date": "2018-08-28T00:46:15.562Z",
+            "title": "TypeScript and Babel 7 | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/",
+            "content": "Babel 7の`@babel/typescript`について。\nBabelでTypeScriptのコードをJavaScriptへ変換(型情報を除去)できる。\n型チェックやいくつかのTS独自の構文をサポートしないという制限はあるが、Babelのエコシステム上でTSのコードを扱える。",
+            "tags": [
+                "TypeScript",
+                "babel",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
