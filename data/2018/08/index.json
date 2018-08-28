@@ -712,14 +712,14 @@
             "relatedLinks": []
         },
         {
-            "date": "2018-08-26T03:19:55.166Z",
+            "date": "2018-08-28T02:00:21.701Z",
             "title": "Service Worker Caching Strategies Based on Request Types",
             "url": "https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c",
-            "content": "どの種類に対するリクエスト化を判定できる`Request.destination`について。\n`Request.destination`を使いキャッシュの戦略を変えるという話。また注意点として、一部リクエストは空文字列となり判定できないという話。\n`Request.mode`や`Request.url`などとの組み合わせについて",
+            "content": "どの種類に対するリクエストかを判定できる`Request.destination`について。 `Request.destination`を使いキャッシュの戦略を変えるという話。注意点として、一部リクエストは空文字列となり判定できないという話。 \nまた`Request.mode`や`Request.url`などとの組み合わせについて",
             "tags": [
+                "Fetch",
                 "ServiceWorker",
-                "article",
-                "Fetch"
+                "article"
             ],
             "relatedLinks": []
         },
