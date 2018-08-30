@@ -853,6 +853,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-08-30T07:22:23.984Z",
+            "title": "Release Notes for Safari Technology Preview 64 | WebKit",
+            "url": "https://webkit.org/blog/8406/release-notes-for-safari-technology-preview-64/",
+            "content": "Safari Technology Preview 64リリース。\nWebWorkerの`name`オプションをサポート、Safari Push Notificationsでパーミッションを要求するのはユーザージェスチャ起因じゃないとできなくなるなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
