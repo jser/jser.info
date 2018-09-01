@@ -15,6 +15,18 @@
                     "url": "https://web-confluence.appspot.com/#!/"
                 }
             ]
+        },
+        {
+            "date": "2018-09-01T03:11:43.198Z",
+            "title": "Release v3.5.0 · fuse-box/fuse-box",
+            "url": "https://github.com/fuse-box/fuse-box/releases/tag/v3.5.0",
+            "content": "FuseBox 3.5.0リリース。\ntargetに`npm-server`, `npm-browser`, `npm-universal`を追加など",
+            "tags": [
+                "node.js",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
