@@ -29,10 +29,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2018-09-01T09:26:28.630Z",
+            "date": "2018-09-01T10:48:11.921Z",
             "title": "dy/font-measure: Compute font metrics such as x-height, cap height, ascent, descent and tittle for any web font.",
             "url": "https://github.com/dy/font-measure",
-            "content": "font familyを指定すると、そのfontの細かい情報を返してくれるライブラリ。\nCanvasを使い計測している",
+            "content": "font familyを指定すると、そのfontのメトリクス情報を返してくれるライブラリ。 Canvasを使い計測している",
             "tags": [
                 "JavaScript",
                 "library"
