@@ -1,0 +1,20 @@
+{
+    "list": [
+        {
+            "date": "2018-09-01T02:41:53.497Z",
+            "title": "Chromium Blog: Charting Browser Interoperability",
+            "url": "https://blog.chromium.org/2018/08/charting-browser-interoperability.html",
+            "content": "ブラウザのAPIに関するinteroperabilityについての記事\n個別のブラウザ特有のAPIの数、メジャーブラウザすべてで実装されてるAPIの数などのデータの見方。\nまたそれらのAPIをどのように集めているかについてなど",
+            "tags": [
+                "browser",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Web API Confluence Dashboard",
+                    "url": "https://web-confluence.appspot.com/#!/"
+                }
+            ]
+        }
+    ]
+}
