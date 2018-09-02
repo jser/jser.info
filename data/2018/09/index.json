@@ -91,6 +91,18 @@
                     "url": "https://github.com/antvis/f2/"
                 }
             ]
+        },
+        {
+            "date": "2018-09-02T12:35:35.176Z",
+            "title": "Using the React DevTools Profiler to Diagnose React App Performance Issues | Netlify",
+            "url": "https://www.netlify.com/blog/2018/08/29/using-the-react-devtools-profiler-to-diagnose-react-app-performance-issues/",
+            "content": "Reactの新しい開発者ツールのProfierを使ったパフォーマンスの問題の見つけ方について。\nReact Renderのcommits回数が多い問題を見つけて、debounceでcommitを減らすようにした話",
+            "tags": [
+                "React",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
