@@ -72,6 +72,25 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-02T09:27:49.609Z",
+            "title": "Introducing F2 – Sima – Medium",
+            "url": "https://medium.com/@SimaZwx/https-medium-com-simazwx-introducing-f2-c44fb4e74c2d",
+            "content": "モバイル向けに作られたインタラクティブグラフライブラリのF2について。",
+            "tags": [
+                "JavaScript",
+                "グラフ",
+                "library",
+                "mobile",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "antvis/f2: 📱📈An elegant, interactive and flexible charting library for mobile.",
+                    "url": "https://github.com/antvis/f2/"
+                }
+            ]
         }
     ]
 }
