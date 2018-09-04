@@ -51,11 +51,12 @@ getStat().then(stat => {
         console.log(resultReport);
 
         // ぴったりより少し前に予告したいので -3
-        const hitValue = medianValue - 3;
+        const hitValue = Math.round(medianValue - 3);
         const nextWeekNumber = stat.getTotalWeekCount() + 1;
         const PR_URL = `https://github.com/jser/jser.github.io/pull/jser-week-${nextWeekNumber}`;
         // 中間報告
-        if ((hitValue / 2) === currentValue) {
+        const middleHitValue = Math.round(hitValue / 2);
+        if (middleHitValue === currentValue) {
             postToGitter("中間報告です！" + resultReport + `\n${PR_URL}`).then(function() {
                 console.log("Post to gitter!")
             }).catch(function(error) {
