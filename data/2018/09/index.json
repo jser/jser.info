@@ -149,6 +149,17 @@
                     "url": "https://twitter.com/mathias/status/1036626116654637057"
                 }
             ]
+        },
+        {
+            "date": "2018-09-04T02:01:17.280Z",
+            "title": "TypeScript導入で得られる「変えていく勇気」 / The courage to change by TypeScript - Speaker Deck",
+            "url": "https://speakerdeck.com/okunokentaro/the-courage-to-change-by-typescript",
+            "content": "TypeScriptを使ったアプリケーション開発についてのスライド。\n今のTypeScriptでは型定義ファイルの管理方法、途中から導入するための手段などが整備されている点について。\nまた型を活用したリファクタリングを行いやすいアーキテクチャについてなど",
+            "tags": [
+                "TypeScript",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
