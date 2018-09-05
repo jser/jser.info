@@ -193,6 +193,18 @@
                     "url": "https://www.chromestatus.com/features#browsers.chrome.desktop%3D69"
                 }
             ]
+        },
+        {
+            "date": "2018-09-05T01:59:16.190Z",
+            "title": "Web performance review: TradeMe | Wildly Inaccurate",
+            "url": "https://wildlyinaccurate.com/web-performance-review-trademe/",
+            "content": "SpeedCurveで計測しながら、ページの表示のパフォーマンスを改善する話。\n何がボトルネックであるかを調べて、Hero Elementであるトップ画像の表示を早く表示するかについて。\nまた改善後もperformance budgetsをもとに修正し続けることについて",
+            "tags": [
+                "browser",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
