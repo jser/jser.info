@@ -291,10 +291,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2018-09-08T04:07:29.197Z",
+            "date": "2018-09-08T04:09:08.056Z",
             "title": "Removing jQuery from GitHub.com frontend | GitHub Engineering",
             "url": "https://githubengineering.com/removing-jquery-from-github-frontend/",
-            "content": "GitHubがjQueryを依存を外すまでの話。\njQueryの機能はウェブ標準で代替できるものが増え、また一部のjQueryのメソッドチェーンには意図通りではない挙動があった。\nコードで使われてる`jQuery`のメトリクスをとり可視化、ESLintを使ってjQueryの利用をCIでチェック、Polyfillを使うなどしてウェブ標準の実装に置き換えていった話。",
+            "content": "GitHubがjQueryの依存を外すまでの話。\njQueryの機能はウェブ標準で代替できるものが増え、また一部のjQueryのメソッドチェーンには意図通りではない挙動があった。\nコードで使われてる`jQuery`のメトリクスをとり可視化、ESLintを使ってjQueryの利用をCIでチェック、Polyfillを使うなどしてウェブ標準の実装に置き換えていった話。",
             "tags": [
                 "github",
                 "jQuery",
