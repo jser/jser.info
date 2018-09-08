@@ -239,6 +239,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-08T03:18:28.182Z",
+            "title": "Developer Tools support for Web Components in Firefox 63 – Firefox Nightly News",
+            "url": "https://blog.nightly.mozilla.org/2018/09/06/developer-tools-support-for-web-components-in-firefox-63/",
+            "content": "Firefox 63でWeb Componentsがデフォルトで有効化され開発者ツールも`<template>`要素やShadow DOMなどに対応する",
+            "tags": [
+                "firefox",
+                "debug",
+                "WebComponents",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
