@@ -228,6 +228,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-08T02:59:45.540Z",
+            "title": "Node v10.10.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v10.10.0/",
+            "content": "Node.js 10.10.0リリース\n`fs`モジュールが`TypedArray`と`DataView`をサポート、`http2`モジュールがexperimentalではなくなった。\nまた`vm.compileFunction`の追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
