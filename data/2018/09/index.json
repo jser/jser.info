@@ -308,6 +308,18 @@
                     "url": "https://github.com/dgraham/eslint-plugin-jquery#readme"
                 }
             ]
+        },
+        {
+            "date": "2018-09-09T12:00:50.885Z",
+            "title": "Asynchronous Access to HTTP Cookies  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2018/09/asynchronous-access-to-http-cookies",
+            "content": "Chrome 69でOrigin Trialを開始した Cookie Store APIについて。\n`document.cookie` APIとは異なり非同期処理として扱え、値の変更も監視できる。\nまたServie Workerからも利用できるようになっている",
+            "tags": [
+                "Chrome",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
