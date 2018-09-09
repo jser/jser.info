@@ -320,6 +320,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-09T23:56:18.227Z",
+            "title": "Release fetch 3.0.0 · github/fetch",
+            "url": "https://github.com/github/fetch/releases/tag/v3.0.0",
+            "content": "Fetch polyfill 3.0.0リリース。\n`credentials`のデフォルト値を`same-origin`に変更、`Request`をキャンセルするための`signal`をサポート、仕様の追従など",
+            "tags": [
+                "Fetch",
+                "JavaScript",
+                "library",
+                "polyfill",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
