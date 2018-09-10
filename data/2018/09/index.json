@@ -357,6 +357,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-10T14:34:42.417Z",
+            "title": "Firefox 62.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/62.0/releasenotes/",
+            "content": "Firefox 62.0リリース。\n開発者ツールでShape Path Editorの追加、CORSエラー表示の改善。\n`Array#flat`と`Array#flatMap`をデフォルト有効化、`import.meta`のサポート、WebDriver APIの更新など",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 62 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/62"
+                }
+            ]
         }
     ]
 }
