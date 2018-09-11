@@ -398,13 +398,14 @@
             "relatedLinks": []
         },
         {
-            "date": "2018-09-11T02:01:58.156Z",
+            "date": "2018-09-11T02:02:20.026Z",
             "title": "TypeScript with Babel: A Beautiful Marriage – DailyJS – Medium",
             "url": "https://medium.com/dailyjs/typescript-babel-ce24f724398",
             "content": "Babel 7の`@babel/preset-typescript`でサポートされたTypeScriptのコードコンパイルについて。\nユースケースや`.ts`をBabelでコンパイルして`tsc`で型チェックをする例などについて。",
             "tags": [
                 "TypeScript",
-                "babel"
+                "babel",
+                "article"
             ],
             "relatedLinks": []
         }
