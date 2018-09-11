@@ -385,6 +385,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-11T01:53:30.137Z",
+            "title": "A tour of JavaScript timers on the web | Read the Tea Leaves",
+            "url": "https://nolanlawson.com/2018/09/01/a-tour-of-javascript-timers-on-the-web/",
+            "content": "JavaScriptのタイマー処理についての解説。\nmicrotask、`setTimeout`/`setInterval`、\n`setImmediate`、\n`requestAnimationFrame`、`requestIdleCallback`について",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
