@@ -421,6 +421,18 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-13T01:23:18.542Z",
+            "title": "SamVerschueren/tsd-check: Check TypeScript type definitions",
+            "url": "https://github.com/SamVerschueren/tsd-check",
+            "content": "TypeScriptの型定義チェックライブラリ。\nGenericsを使ったassertionのように利用できる。",
+            "tags": [
+                "TypeScript",
+                "Tools",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
