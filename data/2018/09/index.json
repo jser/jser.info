@@ -445,6 +445,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-14T00:42:06.902Z",
+            "title": "Announcing TypeScript 3.1 RC | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2018/09/13/announcing-typescript-3-1-rc/",
+            "content": "TypeScript 3.1 RCリリース。\nMapped TypeでTupleやArrayの扱いを改善、関数にプロパティを定義できるように。\nまた破壊的な変更点として`lib.d.ts`をWeb IDLから生成するためベンダー独自の型が削除される。`typeof foo === \"function\"`でのtype gurdeの挙動の変更など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Breaking Changes · Microsoft/TypeScript Wiki",
+                    "url": "https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes"
+                }
+            ]
         }
     ]
 }
