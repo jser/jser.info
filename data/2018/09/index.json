@@ -461,6 +461,17 @@
                     "url": "https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes"
                 }
             ]
+        },
+        {
+            "date": "2018-09-14T05:57:28.752Z",
+            "title": "Chromium Blog: Chrome 70 beta: shape detection, web authentication, and more",
+            "url": "https://blog.chromium.org/2018/09/chrome-70-beta-shape-detection-web.html",
+            "content": "Chrome 70リリース。\nShpae Detection APIのorigin trialの開始、 Web Authenticationで指紋認証をサポート、Web Workerで`name`オプション、TLS 1.3のサポート。\nWeb Components v0を非推奨化など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
