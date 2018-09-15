@@ -472,6 +472,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-15T02:29:58.882Z",
+            "title": "Acorn 6.0.0 released - Acorn - discuss.Tern",
+            "url": "https://discuss.ternjs.net/t/acorn-6-0-0-released/230",
+            "content": "JavaScriptパーサのAcorn 6.0.0リリース。\nTypeScriptの型定義を同梱、`ecmaVersion`のデフォルト値を`9`に変更、いくつかの内部処理を別パッケージに分離など。\n",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
