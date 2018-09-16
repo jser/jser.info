@@ -502,6 +502,19 @@
                     "url": "https://dwango-js.github.io/performance-handbook/"
                 }
             ]
+        },
+        {
+            "date": "2018-09-16T03:58:16.397Z",
+            "title": "UmiJS",
+            "url": "https://umijs.org/",
+            "content": "Next.jsライクなJavaScriptフレームワーク。\nwebpackを使ったビルド、開発サーバ、Nuxt.jsのようなルーティング、プラグインでの拡張などをサポートしている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "Tools",
+                "React"
+            ],
+            "relatedLinks": []
         }
     ]
 }
