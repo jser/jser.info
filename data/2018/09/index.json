@@ -486,15 +486,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2018-09-15T04:08:25.020Z",
+            "date": "2018-09-16T10:38:10.490Z",
             "title": "Webフロントエンド パフォーマンス改善ハンドブックを公開しました - dwango on GitHub",
             "url": "https://dwango.github.io/articles/web-frontend-performance-handbook/",
-            "content": "Reactを使って書かれたウェブサイトのパフォーマンス改善についてのドキュメント。\nランタイムとページロードタイムそれぞれの問題の見つけ方や改善の事例についてまとめられたもの。",
+            "content": "ウェブサイトのパフォーマンス改善についてのドキュメント。ランタイムとページロードタイムにおける問題の見つけ方や改善の事例についてまとめられたもの。",
             "tags": [
                 "JavaScript",
                 "React",
-                "performance",
-                "document"
+                "document",
+                "performance"
             ],
             "relatedLinks": [
                 {
