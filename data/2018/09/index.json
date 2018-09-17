@@ -587,6 +587,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-17T11:43:02.416Z",
+            "title": "Operational Introduction to Algebraic Effects and Continuations",
+            "url": "https://gist.github.com/yelouafi/57825fdd223e5337ba0cd2b6ed757f53",
+            "content": "redux-sagaの作者によるJavaScriptでのAlgebraic Effectsについての連載。\nContinuation Passing Style (CPS)について",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
