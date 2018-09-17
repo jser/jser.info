@@ -538,6 +538,18 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-17T10:52:34.803Z",
+            "title": "axa-group/nlp.js: An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more",
+            "url": "https://github.com/axa-group/nlp.js",
+            "content": "いろいろな自然言語に対応してるNLPライブラリ。\n言語の推定、Classifier、levenshtein距離など自然言語処理で使ういろいろな処理を実装している",
+            "tags": [
+                "JavaScript",
+                "library",
+                "nlp"
+            ],
+            "relatedLinks": []
         }
     ]
 }
