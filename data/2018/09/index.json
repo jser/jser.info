@@ -526,6 +526,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-17T01:33:45.016Z",
+            "title": "Vue Patterns",
+            "url": "https://learn-vuejs.github.io/vue-patterns/",
+            "content": "Vueにおけるパターンについてまとめたドキュメント。\n基本的なコンポーネントの宣言方法や使い方、エラーハンドリング、 Composition、HOCやRender Propsなどのパターンについて",
+            "tags": [
+                "Vue",
+                "tutorial",
+                "document"
+            ],
+            "relatedLinks": []
         }
     ]
 }
