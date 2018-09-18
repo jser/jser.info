@@ -598,6 +598,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-18T00:40:10.196Z",
+            "title": "Release v3.0.0 · janl/mustache.js",
+            "url": "https://github.com/janl/mustache.js/releases/tag/v3.0.0",
+            "content": "mustache.js 3.0.0リリース。\nプリミティブ型のプロパティのレンダリングに対応、`render`の第４引数にdelimiterを指定できるようにしキャッシュの問題を修正など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
