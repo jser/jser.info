@@ -635,6 +635,18 @@
                 "console"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-19T04:31:51.833Z",
+            "title": "GoogleChromeLabs/worker-plugin: 🐳 Adds native Web Worker bundling support to Webpack.",
+            "url": "https://github.com/GoogleChromeLabs/worker-plugin",
+            "content": "`new Worker`指定したファイルを自動的にbundleするwebpackプラグイン",
+            "tags": [
+                "webpack",
+                "webworker",
+                "plugin"
+            ],
+            "relatedLinks": []
         }
     ]
 }
