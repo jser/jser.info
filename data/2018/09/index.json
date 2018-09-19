@@ -622,6 +622,19 @@
                 "Vue"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-19T03:51:59.268Z",
+            "title": "bokub/lyo: 📦 Node.js to browser - The easy way",
+            "url": "https://github.com/bokub/lyo",
+            "content": "Browserify、Babel、UglifyJSを使った設定ファイルを使わないブラウザ向けにbundleするツール。\nXOのようにopnionatedな設定を提供することで、設定自体をしなくても使えるようにしている。",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "Tools",
+                "console"
+            ],
+            "relatedLinks": []
         }
     ]
 }
