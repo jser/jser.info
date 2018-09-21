@@ -682,6 +682,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-21T10:01:56.224Z",
+            "title": "一休.comスマホサイトのパフォーマンス改善（JavaScript編） - 一休.com Developers Blog",
+            "url": "https://user-first.ikyu.co.jp/entry/2018/09/20/090000",
+            "content": "Calibreを使ったパフォーマンス計測とBudgetの設定、ファイルサイズの削減による最適化、Vueの`v-if`と`v-show`の処理の違い、遅延ロードなどのパフォーマンス改善について",
+            "tags": [
+                "JavaScript",
+                "Vue",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
