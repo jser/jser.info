@@ -658,6 +658,18 @@
                 "safari"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-21T04:39:16.465Z",
+            "title": "Announcing Gatsby 2.0.0 🎉🎉🎉 | GatsbyJS",
+            "url": "https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/",
+            "content": "静的サイトジェネレータとして知られるGatsby 2.0.0リリース。\nRuntimeのサイズを削減、React 16、webpack 4、Babel 7に対応。\n`react-router`から`@reach/router`に変更。`layout`コンポーネントをプラグインに移動など",
+            "tags": [
+                "React",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
