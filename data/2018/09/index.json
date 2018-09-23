@@ -729,6 +729,18 @@
                     "url": "https://github.com/zeit/next.js/releases/tag/7.0.0"
                 }
             ]
+        },
+        {
+            "date": "2018-09-23T14:33:26.619Z",
+            "title": "React製のSPAのパフォーマンスチューニング実例 | リクルートテクノロジーズ　メンバーズブログ",
+            "url": "https://recruit-tech.co.jp/blog/2018/09/19/react_spa_performance_tuning/",
+            "content": "Reactコンポーネントの`shouldComponentUpdate`ライフサイクルメソッドの動作とパフォーマンスについて。\n`shouldComponentUpdate`の実装の違いによるコンポーネントの最適化の違いやボトルネックを開発者ツールで見つける方法についてなど",
+            "tags": [
+                "React",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
