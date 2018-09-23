@@ -711,6 +711,24 @@
                     "url": "https://medium.com/@nuxt_js/nuxt-js-2-0-webpack-4-esm-modules-create-nuxt-app-and-more-6936ce80d94c"
                 }
             ]
+        },
+        {
+            "date": "2018-09-23T06:55:18.347Z",
+            "title": "Next.js 7 - Next.js Blog",
+            "url": "https://nextjs.org/blog/next-7/",
+            "content": "Next.js 7.0.0リリース。\nBabel 7、webpack 4へのアップグレード、`react-error-overlay`を使ったエラー表示を行うように。\nCSSに対してもDynamic Importをサポート、`assetPrefix`オプションのサポートなど",
+            "tags": [
+                "React",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 7.0.0 · zeit/next.js",
+                    "url": "https://github.com/zeit/next.js/releases/tag/7.0.0"
+                }
+            ]
         }
     ]
 }
