@@ -741,6 +741,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-24T00:06:33.702Z",
+            "title": "Release electron v3.0.0 · electron/electron",
+            "url": "https://github.com/electron/electron/releases/tag/v3.0.0",
+            "content": "Electron 3.0リリース。\nChrome 66、Node 10.2.0へのアップデート。`app.isPackaged`、`app.whenReady()`の追加、いくつかのAPIの名前を変更といった破壊的な変更も行われている。",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "electron/breaking-changes.md at master · electron/electron",
+                    "url": "https://github.com/electron/electron/blob/master/docs/api/breaking-changes.md#breaking-api-changes-30"
+                }
+            ]
         }
     ]
 }
