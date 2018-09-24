@@ -757,6 +757,19 @@
                     "url": "https://github.com/electron/electron/blob/master/docs/api/breaking-changes.md#breaking-api-changes-30"
                 }
             ]
+        },
+        {
+            "date": "2018-09-24T07:07:56.452Z",
+            "title": "JamesHenry/typescript-estree: A parser that converts TypeScript source code into an ESTree-compatible form",
+            "url": "https://github.com/JamesHenry/typescript-estree",
+            "content": "TypeScript Compilerを使ってTypeScriptコードからESTree互換のASTを出力するパーサライブラリ",
+            "tags": [
+                "TypeScript",
+                "JavaScript",
+                "AST",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
