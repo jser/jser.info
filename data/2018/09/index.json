@@ -784,6 +784,23 @@
                 "設計"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-25T00:16:09.748Z",
+            "title": "Idle Until Urgent — Philip Walton",
+            "url": "https://philipwalton.com/articles/idle-until-urgent/",
+            "content": "すぐに実行するとコストが高いものを`requestIdleCallback`を使い遅延実行することでfirst input delay (FID)を改善するという話。\nそれらのパターンをまとめたidliveというライブラリの使い方やユースケースについて",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "GoogleChromeLabs/idlize: Helper classes and methods for implementing the idle-until-urgent pattern",
+                    "url": "https://github.com/GoogleChromeLabs/idlize"
+                }
+            ]
         }
     ]
 }
