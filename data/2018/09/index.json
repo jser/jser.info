@@ -824,6 +824,23 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-25T00:56:45.273Z",
+            "title": "Firefox Reality Developers Guide",
+            "url": "https://blog.mozvr.com/firefox-reality-developers-guide/",
+            "content": "WebVRをサポートしているライブラリについて。\nまたVRアプリでの最適化で気をつける点やFirefox Realityでのデバッグ方法について書かれている。",
+            "tags": [
+                "VR",
+                "firefox",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Remote Debugging Firefox Reality",
+                    "url": "https://blog.mozvr.com/remote-debugging-firefox-reality/"
+                }
+            ]
         }
     ]
 }
