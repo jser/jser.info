@@ -801,6 +801,18 @@
                     "url": "https://github.com/GoogleChromeLabs/idlize"
                 }
             ]
+        },
+        {
+            "date": "2018-09-25T00:39:31.568Z",
+            "title": "レガシーなフロントエンドコードを整理するためにどう立ち向かったか - Misoca開発者ブログ",
+            "url": "https://tech.misoca.jp/entry/2018/09/21/110000",
+            "content": "jQueryで書かれていたDOM操作とロジックがべったりだったコードをどのようにリファクタリングしていったかについて。\nコードにおけるデータの読み書きの流れを整理どこまでをリファクタリング対象にするかを決めテストを書いて進めたかについて",
+            "tags": [
+                "JavaScript",
+                "リファクタリング",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
