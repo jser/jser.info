@@ -841,6 +841,19 @@
                     "url": "https://blog.mozvr.com/remote-debugging-firefox-reality/"
                 }
             ]
+        },
+        {
+            "date": "2018-09-25T08:46:32.480Z",
+            "title": "We're officially out of beta!",
+            "url": "https://www.cypress.io/blog/2018/09/20/cypress-is-officially-out-of-beta/",
+            "content": "Cypressが正式リリース。\n今後のロードマップとして、IE11を含むクロスブラウザ、Flakyテストを見つけるためのリトライと分析、GitHub連携などを予定している",
+            "tags": [
+                "E2E",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
