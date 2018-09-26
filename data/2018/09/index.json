@@ -866,6 +866,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-26T02:16:52.554Z",
+            "title": "husky/CHANGELOG.md at master · typicode/husky",
+            "url": "https://github.com/typicode/husky/blob/master/CHANGELOG.md#100",
+            "content": "Git Hook管理ツールであるHusky 1.0.0リリース。\nNode.js 4のサポート終了、`scripts`フィールドから`husky`フィールドへ設定を移行、`.huskyrc`のサポートなど。\nマイグレーションは`husky-upgrade`コマンドで行える",
+            "tags": [
+                "JavaScript",
+                "library",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
