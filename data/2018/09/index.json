@@ -890,6 +890,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-27T06:34:48.969Z",
+            "title": "Leko/hothouse: Continuous dependency update for Node.js project",
+            "url": "https://github.com/Leko/hothouse",
+            "content": "npmtとyarnに対応しているGreenkeeperのような依存パッケージの更新PRを出してくれるツール",
+            "tags": [
+                "npm",
+                "yarn",
+                "github",
+                "console",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
