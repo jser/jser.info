@@ -904,6 +904,19 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-09-29T13:36:19.244Z",
+            "title": "SystemJS 2.0.0 Release",
+            "url": "https://guybedford.com/systemjs-2.0",
+            "content": "SystemJS 2.0.0リリース。 `s.js`でレガシーブラウザのサポート、`system.js`で新しいProposalや仕様などをサポートする方針。 Package Name MapsやWeb Assembly Integrationなどの実装など",
+            "tags": [
+                "JavaScript",
+                "ReleaseNote",
+                "library",
+                "module"
+            ],
+            "relatedLinks": []
         }
     ]
 }
