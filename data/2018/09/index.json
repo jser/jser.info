@@ -935,6 +935,17 @@
                     "url": "https://github.com/vuejs/vue-devtools/releases/tag/v5.0.0-beta.1"
                 }
             ]
+        },
+        {
+            "date": "2018-09-30T14:05:13.269Z",
+            "title": "Plans for the Next Iteration of Vue.js – The Vue Point – Medium",
+            "url": "https://medium.com/the-vue-point/plans-for-the-next-iteration-of-vue-js-777ffea6fabf",
+            "content": "Vue 3.0のロードマップについて。\nクラスベースコンポーネント、Functional Component、コードベースをTypeSript化、Observer/Schedulerの分離、ES Proxyベースのobserverについて。\nまたProxyを使えないIE11も制限ありでサポート予定。",
+            "tags": [
+                "Vue",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
