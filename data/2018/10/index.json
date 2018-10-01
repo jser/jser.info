@@ -24,6 +24,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-01T14:01:49.110Z",
+            "title": "Node.jsでのイベントループの仕組みとタイマーについて - 技術探し",
+            "url": "https://blog.hiroppy.me/entry/nodejs-event-loop",
+            "content": "Node.jsのイベントループのフェーズについての解説。\nNode.js/V8 ではどのようにイベントループを回しているかについて",
+            "tags": [
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
