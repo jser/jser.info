@@ -11,6 +11,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-01T14:00:30.431Z",
+            "title": "Release Inferno v6.0.0-rc.0 · infernojs/inferno",
+            "url": "https://github.com/infernojs/inferno/releases/tag/v6.0.0-rc.0",
+            "content": "Inferno v6.0.0-rc.0リリース。\nFragmentsのサポート、`getDerivedStateFromProps`と`getSnapshotBeforeUpdate`のライフサイクルイベントをサポートなど",
+            "tags": [
+                "JavaScript",
+                "library",
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
