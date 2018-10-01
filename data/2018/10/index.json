@@ -46,6 +46,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-01T14:40:35.792Z",
+            "title": "ECMAScript proposal updates @ 2018-09 | ECMAScript Daily",
+            "url": "https://ecmascript-daily.github.io/ecmascript/2018/10/01/ecmascript-proposal-updates",
+            "content": "2018年9月に行われたTC39ミーティングで変更があったECMAScriptのProposalのまとめ。\n`JSON.parse`の拡張Proposalの追加、Temporal(Dates and Times)がStage 2になるなど",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
