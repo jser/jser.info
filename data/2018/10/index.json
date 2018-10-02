@@ -98,6 +98,26 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-02T00:20:59.461Z",
+            "title": "Announcing TypeScript 3.1 | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/announcing-typescript-3-1/",
+            "content": "TypeScript 3.1リリース。\nMapped Tuple Type、namespaceを使わずに関数へプロパティ追加できるように、TypeScriptのバージョンごとに型を配布できる`typesVersions`フィールドをサポート。\n`then`をAsync/Awaitへリファクタリングできるようになるなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "TypeScript 3.1 の Mapped Tuple Typeについて - Qiita",
+                    "url": "https://qiita.com/Quramy/items/c596b1bacf591da545b2"
+                },
+                {
+                    "title": "Breaking Changes · Microsoft/TypeScript Wiki",
+                    "url": "https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes#narrowing-functions-now-intersects--object-and-unconstrained-generic-type-parameters"
+                }
+            ]
         }
     ]
 }
