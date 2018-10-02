@@ -118,6 +118,24 @@
                     "url": "https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes#typescript-31"
                 }
             ]
+        },
+        {
+            "date": "2018-10-02T00:35:53.199Z",
+            "title": "turtleDB: A JavaScript Framework for building offline-first, collaborative web apps",
+            "url": "https://hackernoon.com/turtledb-a-javascript-framework-for-building-offline-first-collaborative-web-apps-7183cd787163",
+            "content": "Offline-FirstなデータベースライブラリのturtleDBについて。\nクライアント側はIndexedDBでローカルに保存でき、サーバ側はMongoDBなどのアダプタとして動作する。オフラインではクライアントに保存でき、オンラインでは同期ができるような仕組み",
+            "tags": [
+                "JavaScript",
+                "データベース",
+                "library",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "turtle-DB/turtleDB: Official turtleDB project",
+                    "url": "https://github.com/turtle-DB/turtleDB"
+                }
+            ]
         }
     ]
 }
