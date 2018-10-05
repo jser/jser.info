@@ -185,6 +185,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-05T04:13:28.010Z",
+            "title": "Content Security Policy Level 3におけるXSS対策 - pixiv inside",
+            "url": "https://inside.pixiv.blog/kobo/5137",
+            "content": "CSPのscript-srcとstrict-dynamicについて。\nドメインホワイトリストの問題とnonceによる実行制限について",
+            "tags": [
+                "CSP",
+                "security",
+                "browser"
+            ],
+            "relatedLinks": []
         }
     ]
 }
