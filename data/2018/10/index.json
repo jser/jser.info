@@ -223,6 +223,18 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-06T06:06:37.902Z",
+            "title": "WebAssembly on Cloudflare Workers",
+            "url": "https://blog.cloudflare.com/webassembly-on-cloudflare-workers/",
+            "content": "Cloudflare Worker内でWebAssemblyが動作するようになった",
+            "tags": [
+                "WebAssembly",
+                "ServiceWorker",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
