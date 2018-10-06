@@ -235,6 +235,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-06T07:08:18.340Z",
+            "title": "What’s new in Microsoft Edge in the Windows 10 October 2018 Update - Microsoft Edge Dev BlogMicrosoft Edge Dev Blog",
+            "url": "https://blogs.windows.com/msedgedev/2018/10/04/edgehtml-18-october-2018-update/",
+            "content": "Windows 10 October 2018 Updateに含まれるEdgeHTML 18の変更点について。\nWeb Authenticationの実装、Media autoplay policyの導入、CSS masking、background blendのサポート。\nWeb Notificationでbadgeをサポート、XSSフィルターの廃止など",
+            "tags": [
+                "MSEdge",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "What's new in EdgeHTML 18 - Microsoft Edge Development | Microsoft Docs",
+                    "url": "https://docs.microsoft.com/en-us/microsoft-edge/dev-guide?WT.mc_id=windowsdocs-twitter#new-apis-in-edgehtml-18"
+                }
+            ]
         }
     ]
 }
