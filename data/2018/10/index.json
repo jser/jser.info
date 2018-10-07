@@ -251,6 +251,19 @@
                     "url": "https://docs.microsoft.com/en-us/microsoft-edge/dev-guide?WT.mc_id=windowsdocs-twitter#new-apis-in-edgehtml-18"
                 }
             ]
+        },
+        {
+            "date": "2018-10-07T04:08:38.919Z",
+            "title": "jamesseanwright/wax: An experimental, JSX-compatible renderer for the Web Audio API",
+            "url": "https://github.com/jamesseanwright/wax",
+            "content": "Web Audio APIをJSXを使って宣言的に記述できるライブラリ",
+            "tags": [
+                "jsx",
+                "web ",
+                "audio",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
