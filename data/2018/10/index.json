@@ -322,6 +322,19 @@
                     "url": "https://dev.to/simov/composable-http-client-for-nodejs-83f"
                 }
             ]
+        },
+        {
+            "date": "2018-10-08T13:05:47.155Z",
+            "title": "jsdom/Changelog.md at master · jsdom/jsdom",
+            "url": "https://github.com/jsdom/jsdom/blob/master/Changelog.md#1220",
+            "content": "JSDOM 12.2.0リリース。\nShadow DOMのサポート、`Element#toggleAttribute`メソッドのサポートなど",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
