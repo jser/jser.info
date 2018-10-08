@@ -276,6 +276,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-08T03:02:47.977Z",
+            "title": "Ember.js - Ember 3.4 Released",
+            "url": "https://emberjs.com/blog/2018/10/07/ember-3-4-released.html",
+            "content": "Ember 3.4リリース。\n`<Tag />`のようにかぎ括弧で書けるように、Custom Component Managerの機能追加、`component#sendAction`を非推奨化など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v3.4.0 · emberjs/ember.js",
+                    "url": "https://github.com/emberjs/ember.js/releases/tag/v3.4.0"
+                }
+            ]
         }
     ]
 }
