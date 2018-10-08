@@ -305,6 +305,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-08T06:57:37.294Z",
+            "title": "simov/request-compose: Composable HTTP Client",
+            "url": "https://github.com/simov/request-compose",
+            "content": "Node.js向けのComposeできるHTTPライブラリ。\n関数をcomposeしてHTTPリクエストやレスポンスの処理を行える。",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Composable HTTP Client for NodeJS - DEV Community 👩‍💻👨‍💻",
+                    "url": "https://dev.to/simov/composable-http-client-for-nodejs-83f"
+                }
+            ]
         }
     ]
 }
