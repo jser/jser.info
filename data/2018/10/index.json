@@ -347,6 +347,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-09T01:49:11.592Z",
+            "title": "Calls between JavaScript and WebAssembly are finally fast 🎉 - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/",
+            "content": "Firefox WebAssemblyで関数呼び出しが改善された話とその仕組みについて。\nWebAssemblyとJITの関係、WebAssemblyで最適化した関数とビルドイン関数の呼び出しの比較など",
+            "tags": [
+                "firefox",
+                "WebAssembly",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
