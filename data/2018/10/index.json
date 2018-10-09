@@ -359,6 +359,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-09T02:28:35.833Z",
+            "title": "本書の対象読者及び目的 - Sound for Javascripters",
+            "url": "https://ongaku-daisukikko-club.gitbook.io/music-for-javascripter/",
+            "content": "Web Audio APIとMIDI Keyboardを使ってシンセサイザーを作る内容の書籍。\nCodesandboxを使いながらウェブブラウザ上でコードを書いてテストを行い実行していく。",
+            "tags": [
+                "web ",
+                "audio",
+                "book",
+                "JavaScript",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
