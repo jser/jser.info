@@ -384,6 +384,26 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-10T23:25:14.195Z",
+            "title": "Node v10.12.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v10.12.0/",
+            "content": "Node.js 10.12.0リリース。\n`util.inspect`に`sorted`オプションの追加、`fs.mkdir`に`recursive`オプションの追加、WebSockets over HTTP/2のサポート。\n`module.createRequireFromPath(filename)`の追加、`URL`とPathの相互変換するメソッドを`url`モジュールに追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "module: add createRequireFunction method by devsnek · Pull Request #19360 · nodejs/node",
+                    "url": "https://github.com/nodejs/node/pull/19360"
+                },
+                {
+                    "title": "Discussion: File URLs in Node.js · Issue #22502 · nodejs/node",
+                    "url": "https://github.com/nodejs/node/issues/22502"
+                }
+            ]
         }
     ]
 }
