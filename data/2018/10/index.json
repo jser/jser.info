@@ -415,6 +415,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-12T01:25:08.460Z",
+            "title": "What's New In DevTools (Chrome 71)  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2018/10/devtools",
+            "content": "Chrome 71の開発者ツールの変更点について。\nDOM nodeをglobal variableとして保存できるように、HARファイルに`_initiator`と`_priority`を追加、PiPのbreakpointをサポートなど",
+            "tags": [
+                "chromre",
+                "debug",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
