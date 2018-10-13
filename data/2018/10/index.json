@@ -427,6 +427,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-13T00:05:39.170Z",
+            "title": "ESLint v5.7.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2018/10/eslint-v5.7.0-released",
+            "content": "ESLint v5.7.0リリース。\n`no-tabs`ルールに`allowIndentationTabs`オプションの追加、`camelcase`ルールに`ignoreList`オプションの追加など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
