@@ -463,6 +463,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-14T00:27:55.842Z",
+            "title": "Release Inferno v6.0.0 · infernojs/inferno",
+            "url": "https://github.com/infernojs/inferno/releases/tag/v6.0.0",
+            "content": "Inferno v6.0.0リリース。\n`hydrate`を別パッケージに移行、スタイルプロパティがhyphenを使った命名規則に、Reactのライフサイクルイベントとの互換性向上。\nString refsを削除、CreateRef/ForwardRef APIの追加、Fragmentsのサポートなど",
+            "tags": [
+                "JavaScript",
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "inferno/v6-migration.md at master · infernojs/inferno",
+                    "url": "https://github.com/infernojs/inferno/blob/master/docs/v6-migration.md"
+                }
+            ]
         }
     ]
 }
