@@ -531,6 +531,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-15T01:31:43.152Z",
+            "title": "Release Notes for Safari Technology Preview 67 | WebKit",
+            "url": "https://webkit.org/blog/8419/release-notes-for-safari-technology-preview-67/",
+            "content": "Safari Technology Preview 67リリース。\nPointer Eventsを試験的にサポート、H264  Simulcastの有効化、`CSS.registerProperty`の`initialValue`プロパティのサポートなど ",
+            "tags": [
+                "safari",
+                "webkit",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "CSS.registerProperty",
+                    "url": "https://www.w3.org/TR/css-properties-values-api-1/#the-registerproperty-function"
+                }
+            ]
         }
     ]
 }
