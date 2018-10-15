@@ -548,6 +548,22 @@
                     "url": "https://www.w3.org/TR/css-properties-values-api-1/#the-registerproperty-function"
                 }
             ]
+        },
+        {
+            "date": "2018-10-15T04:45:59.941Z",
+            "title": "smooth-code/loadable-components: React code splitting made easy ✂️✨",
+            "url": "https://github.com/smooth-code/loadable-components",
+            "content": "Dynamic ImportやCode Splitting、SSRに対応したReactコンポーネントの動的ロードを扱うライブラリ",
+            "tags": [
+                "React",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "loadable-components + TypeScriptでSSRとCSRに対応したdynamic importを実現する - 技術探し",
+                    "url": "https://blog.hiroppy.me/entry/loadable-components"
+                }
+            ]
         }
     ]
 }
