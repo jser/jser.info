@@ -564,6 +564,22 @@
                     "url": "https://blog.hiroppy.me/entry/loadable-components"
                 }
             ]
+        },
+        {
+            "date": "2018-10-15T23:42:16.150Z",
+            "title": "V8 release v7.0 · V8",
+            "url": "https://v8.dev/blog/v8-release-70",
+            "content": "V8 7.0リリース。\nEmbedded builtinsでのメモリ消費量の削減、WebAssembly ThreadsのOrigin Trialの開始、`Array#sort`が安定ソートになるなど",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Getting things sorted in V8 · V8",
+                    "url": "https://v8.dev/blog/array-sort"
+                }
+            ]
         }
     ]
 }
