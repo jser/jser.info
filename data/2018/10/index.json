@@ -520,17 +520,22 @@
             "relatedLinks": []
         },
         {
-            "date": "2018-10-15T00:51:20.081Z",
+            "date": "2018-10-16T00:04:59.568Z",
             "title": "lolex/History.md at master · sinonjs/lolex",
             "url": "https://github.com/sinonjs/lolex/blob/master/History.md#300--2018-10-08",
-            "content": "Sinon.jsでも使われるFake TimerライブラリであるLolex 3.0リリース。\n`Clock#countTimers`の追加、negative tickは例外を投げるように変更など",
+            "content": "  Sinon.jsでも使われるFake TimerライブラリであるLolex 3.0リリース。 `Clock#countTimers`の追加、negative tickは例外を投げるように変更など",
             "tags": [
                 "JavaScript",
+                "ReleaseNote",
                 "library",
-                "testing",
-                "ReleaseNote"
+                "testing"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "sinon/History.md at master · sinonjs/sinon",
+                    "url": "https://github.com/sinonjs/sinon/blob/master/History.md#700--2018-10-14"
+                }
+            ]
         },
         {
             "date": "2018-10-15T01:31:43.152Z",
