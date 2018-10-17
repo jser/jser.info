@@ -631,6 +631,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-17T13:25:10.336Z",
+            "title": "Release 7.0.2 · zeit/next.js",
+            "url": "https://github.com/zeit/next.js/releases/tag/7.0.2",
+            "content": "Next.js 7.0.2リリース。\n7.0.0と7.0.1にあったエラー画面でのXSSが修正された。",
+            "tags": [
+                "JavaScript",
+                "React",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
