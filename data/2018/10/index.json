@@ -644,6 +644,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-18T06:09:04.274Z",
+            "title": "Gridsome - Build blazing fast websites with Vue.js and GraphQL",
+            "url": "https://gridsome.org/",
+            "content": "VueとGraphQLを使った静的サイトツール/フレームワーク。\nGatsby.jsインスパイアなフレームワークでGraphQL経由レイヤーを経由してデータソースにアクセスする。",
+            "tags": [
+                "Vue",
+                "GraphQL",
+                "Tools",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
