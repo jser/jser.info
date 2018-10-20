@@ -720,6 +720,17 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-20T10:03:14.353Z",
+            "title": "On the Roadmap: Exact Objects by Default – Flow – Medium",
+            "url": "https://medium.com/flow-type/on-the-roadmap-exact-objects-by-default-16b72933c5cf",
+            "content": "Flow 0.84.0からExact Objects（`{| |}`相当）がデフォルトなる変更予定について。\nその他のプロパティを許可する新しい構文として`{foo: number, ...}`を導入し、どのようにマイグレーションしていくかについて",
+            "tags": [
+                "flowtype",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
