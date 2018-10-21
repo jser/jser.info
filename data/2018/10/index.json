@@ -780,6 +780,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-21T06:04:56.957Z",
+            "title": "StrongLoop - Announcing LoopBack 4 GA is Now Ready for Production Use!",
+            "url": "https://strongloop.com/strongblog/loopback-4-ga",
+            "content": "Node.js APIフレームワークのLoopBack 4GAリリース。\nコアがTypeScriptで書き直され、OpenAPI形式への出力対応。\nLTSポリシーも合わせて更新され、LoopBack 4は10月にリリース予定で、2021年4月までサポートされる予定。",
+            "tags": [
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "LoopBack 4",
+                    "url": "https://v4.loopback.io/"
+                }
+            ]
         }
     ]
 }
