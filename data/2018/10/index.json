@@ -768,6 +768,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-21T05:54:42.803Z",
+            "title": "Tencent/omi: Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating)",
+            "url": "https://github.com/Tencent/omi",
+            "content": "Web Componentsをベースにしたフレームワーク。\nJSXのサポート、ES Proxyを使った変更検知、Shadow DOMを使ったScoped CSSなど持っている\n",
+            "tags": [
+                "WebComponents",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
