@@ -825,6 +825,19 @@
                 "E2E"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-23T01:13:43.765Z",
+            "title": "suchipi/fs-remote: Drop-in replacement for fs that lets you write to the filesystem from the browser",
+            "url": "https://github.com/suchipi/fs-remote",
+            "content": "`fs`のブラウザ向け実装と`fs`サーバのライブラリ。\n`fs`を行うサーバを立て、ブラウザからサーバにXHRやWebSocketsでアクセスする。",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "browser",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
