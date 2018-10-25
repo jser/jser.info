@@ -856,6 +856,17 @@
                     "url": "https://github.com/sokra/slides/blob/master/data/webpack-wasm-challenge.pdf"
                 }
             ]
+        },
+        {
+            "date": "2018-10-25T06:15:32.529Z",
+            "title": "Node v11.0.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v11.0.0/",
+            "content": "Node.js 11.0.0リリース。\nV8 7.0へ更新、`http.request`メソッドのオプションがデフォルトではWHATWG URLでパースされるように。\nまた`TextEncoder`/`TextDecoder`が`util`からグローバルへ移動、`process.binding()`の非推奨化など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
