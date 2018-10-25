@@ -838,6 +838,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-25T00:50:25.176Z",
+            "title": "RuhrJS 2018 - Tobias Koppers - webpack and the challenge of WebAssembly - YouTube",
+            "url": "https://www.youtube.com/watch?v=k86Z_6_BJy0",
+            "content": "webpackのWebAssembly対応についての発表。\nWebAssembly APIやWebAssemblyの実行フェーズの解説。\nwebpackからwasmファイルを簡単に利用できるようにするため、どのようにwasmを扱うかやCode Splittingの対応についてなど",
+            "tags": [
+                "webpack",
+                "WebAssembly",
+                "slide",
+                "video"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "slides/webpack-wasm-challenge.pdf at master · sokra/slides",
+                    "url": "https://github.com/sokra/slides/blob/master/data/webpack-wasm-challenge.pdf"
+                }
+            ]
         }
     ]
 }
