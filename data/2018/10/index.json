@@ -879,6 +879,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-27T06:26:42.962Z",
+            "title": "Release Notes for Safari Technology Preview 68 | WebKit",
+            "url": "https://webkit.org/blog/8475/release-notes-for-safari-technology-preview-68/",
+            "content": "Safari Technology Preview 68リリース。\n`<input type=\"color\">`をデフォルトで有効化、`target=\"_blank\"`をデフォルトで`rel=noopener`にする変更。\nWebRTCでVP8をサポート、WebVTTでのインラインスタイルをサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
