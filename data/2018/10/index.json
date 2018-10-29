@@ -978,6 +978,26 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-29T12:31:15.551Z",
+            "title": "Firefox 63.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/63.0/releasenotes/",
+            "content": "Firefox 63リリース。\nWeb Componentsのサポート、Media Capabilities API、Async Clipboard API のサポート。\nクロスブラウザ互換のために`Window.event`プロパティの実装、`Clear-Site-Data`ヘッダデフォルトで有効化など",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 63 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/63"
+                },
+                {
+                    "title": "Firefox 63 Site Compatibility | Firefox Site Compatibility",
+                    "url": "https://www.fxsitecompat.com/en-CA/versions/63/"
+                }
+            ]
         }
     ]
 }
