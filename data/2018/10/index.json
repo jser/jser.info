@@ -920,6 +920,19 @@
                     "url": "https://conf.reactjs.org/"
                 }
             ]
+        },
+        {
+            "date": "2018-10-29T09:40:19.585Z",
+            "title": "Release v4.0.0 · storybooks/storybook",
+            "url": "https://github.com/storybooks/storybook/releases/tag/v4.0.0",
+            "content": "Storybook 4.0.0リリース。\nBabel 7/webacpk 4へのアップデート、Ember/MarkoJS/Mithril/HTML/Svelte/Riotのサポート。\nモバイルの表示改善、theme変数の実装など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
