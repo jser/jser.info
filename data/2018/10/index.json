@@ -938,6 +938,23 @@
                     "url": "https://github.com/storybooks/storybook/blob/master/MIGRATION.md#from-version-34x-to-40x"
                 }
             ]
+        },
+        {
+            "date": "2018-10-29T11:42:59.806Z",
+            "title": "実践AST FlowからTypeScriptへの変換",
+            "url": "https://talks.leko.jp/transform-flow-to-typescript-using-ast/#0",
+            "content": "FlowからTypeScriptへの変換を行うBabelプラグインについてスライド。\nBabelプラグインを書いてコード変換を行う話",
+            "tags": [
+                "flowtype",
+                "TypeScript",
+                "slide"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "CureApp/babel-plugin-flow-to-typescript: Babel plugin to convert Flow code into TypeScript",
+                    "url": "https://github.com/CureApp/babel-plugin-flow-to-typescript"
+                }
+            ]
         }
     ]
 }
