@@ -932,7 +932,12 @@
                 "Tools",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "storybook/MIGRATION.md at master · storybooks/storybook",
+                    "url": "https://github.com/storybooks/storybook/blob/master/MIGRATION.md#from-version-34x-to-40x"
+                }
+            ]
         }
     ]
 }
