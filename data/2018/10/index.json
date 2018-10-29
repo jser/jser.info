@@ -955,6 +955,17 @@
                     "url": "https://github.com/CureApp/babel-plugin-flow-to-typescript"
                 }
             ]
+        },
+        {
+            "date": "2018-10-29T11:55:01.476Z",
+            "title": "React v16.6.0: lazy, memo and contextType – React Blog",
+            "url": "https://reactjs.org/blog/2018/10/23/react-v-16-6.html",
+            "content": "React 16.6.0リリース。\n`React.memo`、`React.lazy`、`static contextType`、`static getDerivedStateFromError()`のサポートなど。\nStrictModeで廃止予定のAPIのwarningを出すようになるなど",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
