@@ -1019,6 +1019,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-30T02:38:03.079Z",
+            "title": "gRPC-Web is going GA - Cloud Native Computing Foundation",
+            "url": "https://www.cncf.io/blog/2018/10/24/grpc-web-is-going-ga/",
+            "content": "gRPC-Webが正式にリリース。\nWebブラウザなどからgRPCを呼び出すためのクライアントライブラリ。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
