@@ -1002,6 +1002,18 @@
                     "url": "https://www.fxsitecompat.com/en-CA/versions/63/"
                 }
             ]
+        },
+        {
+            "date": "2018-10-30T02:08:32.785Z",
+            "title": "jsdom/Changelog.md at master · jsdom/jsdom",
+            "url": "https://github.com/jsdom/jsdom/blob/master/Changelog.md#1300",
+            "content": "jsdom 13.0.0リリース。\n`canvas`パッケージの1.xをサポート終了し、`2.x`のみサポート。\nXML serializationのサポート、`addEventListener`で`passive`オプションのサポートなど",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
