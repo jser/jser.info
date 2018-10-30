@@ -1054,6 +1054,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-10-30T02:53:36.968Z",
+            "title": "Asking for required annotations – Flow – Medium",
+            "url": "https://medium.com/flow-type/asking-for-required-annotations-64d4f9c1edf8",
+            "content": "Flow 0.85.0で修正が入った\"missing annotation\"についての解説記事。\n型annotationが存在しない場合に0.85.0からはエラーとなる。",
+            "tags": [
+                "flowtype",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v0.85.0 · facebook/flow",
+                    "url": "https://github.com/facebook/flow/releases/tag/v0.85.0"
+                }
+            ]
         }
     ]
 }
