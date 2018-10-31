@@ -1070,6 +1070,18 @@
                     "url": "https://github.com/facebook/flow/releases/tag/v0.85.0"
                 }
             ]
+        },
+        {
+            "date": "2018-10-31T03:23:55.404Z",
+            "title": "Release v2.1.0 · facebook/create-react-app",
+            "url": "https://github.com/facebook/create-react-app/releases/tag/v2.1.0",
+            "content": "create-react-app 2.1.0リリース。\nBabelを使ったTypeScriptサポート。\n`create-react-app my-app --typescript`でTypeScriptプロジェクトとして作成できるようになった。",
+            "tags": [
+                "React",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
