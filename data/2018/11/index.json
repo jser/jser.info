@@ -42,6 +42,17 @@
                     "url": "https://blog.cybozu.io/entry/2018/11/02/113000"
                 }
             ]
+        },
+        {
+            "date": "2018-11-03T15:09:09.294Z",
+            "title": "Node v11.1.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v11.1.0/",
+            "content": "Node.js 11.1.0リリース。\nICUのアップデート、REPLでトップレベル`await`のサポートなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
