@@ -53,6 +53,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-03T15:31:30.441Z",
+            "title": "Node.jsにおけるprototype汚染攻撃への対策 - SSTエンジニアブログ",
+            "url": "https://techblog.securesky-tech.com/entry/2018/10/31/",
+            "content": "Prototype pollution攻撃への対応方法について。\nMapや`Object.create(null)`で`__proto__`の上書きを防ぐ方法、ネイティブの実装を上書きしてしまう方法などについて",
+            "tags": [
+                "JavaScript",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
