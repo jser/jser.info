@@ -93,6 +93,18 @@
                     "url": "https://hackernoon.com/introducing-squirrelly-a-fast-lightweight-and-simple-js-template-engine-70a873d765c9"
                 }
             ]
+        },
+        {
+            "date": "2018-11-04T10:14:29.443Z",
+            "title": "gruns/irondb: A relentless key-value store for the browser.",
+            "url": "https://github.com/gruns/irondb",
+            "content": "Cookie、IndexedDB、LocalStorageなどを重複して保存できるKey Valueストアライブラリ。\nEvercookieのように複数のストレージに保存することで、どれが消えても他のデータから復元できるようにしている。",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
