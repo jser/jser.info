@@ -117,6 +117,19 @@
                 "チートシート"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-04T10:51:23.867Z",
+            "title": "Stencil",
+            "url": "https://stenciljs.com/",
+            "content": "Web Componentsフレームワークとコンパイラー。フレームワークに則ったコンポーネント\nを書きWeb Components(Custom Elements)へコンパイルするツール。\nTypeScriptやJSXをサポートし、ランタイムでコンポーネントのライフサイクル、非同期レンダリングなどをサポートしている。",
+            "tags": [
+                "WebComponents",
+                "library",
+                "TypeScript",
+                "jsx"
+            ],
+            "relatedLinks": []
         }
     ]
 }
