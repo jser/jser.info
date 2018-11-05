@@ -165,6 +165,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-05T15:02:16.947Z",
+            "title": "[JAPANESE] Why vue-cli needed a UI and what you can do with it",
+            "url": "https://slides.com/akryum/vue-cli-18-3-jp#/",
+            "content": "Vue CLIについてのスライド。\nVue CLIは\"Ease of Access\"のために様々な機能をもっている。\nビルドツールチェイン、`vue ui`、プラグインシステムについて。",
+            "tags": [
+                "Vue",
+                "console",
+                "Tools",
+                "slide"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Why vue-cli needed a UI and what you can do with it",
+                    "url": "https://slides.com/akryum/vue-cli-18-3#/"
+                }
+            ]
         }
     ]
 }
