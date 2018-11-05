@@ -141,6 +141,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-05T14:12:44.094Z",
+            "title": "Web Performance 101: JS, CSS, HTTP, images & fonts | PerfPerfPerf",
+            "url": "https://3perf.com/talks/web-perf-101/",
+            "content": "ウェブパフォーマンスについてのスライドを文字起こししたもの。\nJavaScript、CSS、HTTP、Images、Fonts、Toolsについてそれぞれパフォーマンスの最適化についてのトピックが紹介されている。",
+            "tags": [
+                "performance",
+                "slide",
+                "browser"
+            ],
+            "relatedLinks": []
         }
     ]
 }
