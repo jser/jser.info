@@ -183,6 +183,17 @@
                     "url": "https://slides.com/akryum/vue-cli-18-3#/"
                 }
             ]
+        },
+        {
+            "date": "2018-11-05T15:23:02.992Z",
+            "title": "V8 release v7.1 · V8",
+            "url": "https://v8.dev/blog/v8-release-71",
+            "content": "V8 v7.1リリース。\nパフォーマンスの最適化、Wasmで`postMessage`をサポート。`Intl.RelativeTimeFormat`のサポート、`globalThis` Proposalをサポートなど",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
