@@ -194,6 +194,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-06T01:03:18.694Z",
+            "title": "GoogleChromeLabs/carlo: Web rendering surface for Node applications",
+            "url": "https://github.com/GoogleChromeLabs/carlo",
+            "content": "ユーザー環境にインストール済みのChromeとPuppeteer経由で通信してNodeとBrowserを連携できる開発ツール。 \nElectronのようなChromeをWebViewとしたアプリ開発ができる。Nodeからデータを送るといったことができ、Node向けのGUIフレームワークとして利用できる。",
+            "tags": [
+                "Chrome",
+                "Electron",
+                "library",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
