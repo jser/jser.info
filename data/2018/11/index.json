@@ -207,6 +207,18 @@
                 "node.js"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-06T01:59:34.478Z",
+            "title": "1年間単体テストを書き続けた現場から送る Vue Component のテスト / Vue Component Test - Speaker Deck",
+            "url": "https://speakerdeck.com/tsuchikazu/vue-component-test",
+            "content": "Vueコンポーネントのテストについてのスライド。\nライフサイクル、Props/Vuex State、UIのテストの方法などについて",
+            "tags": [
+                "Vue",
+                "slide",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
