@@ -302,6 +302,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-10T15:11:50.757Z",
+            "title": "sokra/rawact: [POC] A babel plugin which compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.",
+            "url": "https://github.com/sokra/rawact",
+            "content": "Reactで書かれたコンポーネントをDOM APIで書かれたものへ変換するBabelプラグイン。\nランタイムでReactを利用しなくても動くように変換する実験的なプラグイン",
+            "tags": [
+                "babel",
+                "React",
+                "plugin"
+            ],
+            "relatedLinks": []
         }
     ]
 }
