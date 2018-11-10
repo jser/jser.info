@@ -279,6 +279,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-10T06:42:16.044Z",
+            "title": "leoafarias/neardb: Simple document db made for globally distributed reads.",
+            "url": "https://github.com/leoafarias/neardb",
+            "content": "AWS S3、Google Cloud Storageなどに対応したデータベースライブラリ。\nCloudflare WorkerやLambda@Edgeなどで動かす目的のストレージライブラリ",
+            "tags": [
+                "browser",
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
