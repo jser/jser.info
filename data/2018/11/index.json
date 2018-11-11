@@ -326,6 +326,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-11T09:22:56.033Z",
+            "title": "ESLint v5.9.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2018/11/eslint-v5.9.0-released",
+            "content": "ESLint 5.9.0リリース。\n`--fix-type`オプションが追加され、`problem`、`suggestion`、`layout`の種類を選択して修正を適応できるようになっ",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
