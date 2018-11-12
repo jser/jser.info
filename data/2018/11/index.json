@@ -360,6 +360,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-12T12:14:57.662Z",
+            "title": "Announcing Test262 Report - javascript, testing, web standards - Bocoup",
+            "url": "https://bocoup.com/blog/announcing-test262-report",
+            "content": "各JavaScriptエンジンがECMAScriptの仕様テストであるTest262をどれだけパスしているかを一覧できるTest262 Reportというサイトについて",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "testing",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Test262 Report",
+                    "url": "https://test262.report/"
+                }
+            ]
         }
     ]
 }
