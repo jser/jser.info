@@ -425,7 +425,12 @@
                 "performance",
                 "gool"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Chromium Blog: PageSpeed Insights, now powered by Lighthouse",
+                    "url": "https://blog.chromium.org/2018/11/pagespeed-insights-now-powered-by.html"
+                }
+            ]
         }
     ]
 }
