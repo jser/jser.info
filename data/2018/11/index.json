@@ -378,6 +378,18 @@
                     "url": "https://test262.report/"
                 }
             ]
+        },
+        {
+            "date": "2018-11-13T02:10:04.728Z",
+            "title": "GoogleChromeLabs/jsbi: JSBI is a pure-JavaScript implementation of the official ECMAScript BigInt proposal.",
+            "url": "https://github.com/GoogleChromeLabs/jsbi",
+            "content": "BitIntをJavaScriptのオブジェクトとして実装したライブラリ",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ECMAScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
