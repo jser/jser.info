@@ -431,6 +431,17 @@
                     "url": "https://blog.chromium.org/2018/11/pagespeed-insights-now-powered-by.html"
                 }
             ]
+        },
+        {
+            "date": "2018-11-16T00:28:56.312Z",
+            "title": "Announcing TypeScript 3.2 RC | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2018/11/15/announcing-typescript-3-2-rc/",
+            "content": "TypeScript 3.2 RCリリース。\n`strictBindCallApply`オプションが追加され`bind`、`call`、`apply`の型付け改善、Object spread/restとGenericsの組み合わせを改善、BigIntサポート。\nCLIに`--showConfig`オプションの追加など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
