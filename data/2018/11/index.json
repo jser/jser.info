@@ -622,6 +622,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-19T13:57:02.241Z",
+            "title": "Release v4.26.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v4.26.0",
+            "content": "webpack 4.26.0リリース。\nデフォルトのminifierをuglify-esからterserに変更",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "terser-js/terser: JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+",
+                    "url": "https://github.com/terser-js/terser"
+                }
+            ]
         }
     ]
 }
