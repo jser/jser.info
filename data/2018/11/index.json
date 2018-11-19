@@ -609,6 +609,19 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-19T08:48:17.377Z",
+            "title": "自作フレームワークをつくって学ぶ 仮想DOM実践入門 | Black Everyday Company",
+            "url": "https://kuroeveryday.blogspot.com/2018/11/how-to-create-virtual-dom-framework.html",
+            "content": "Virtual DOMの仕組みについてVirtual DOMを実装しながら学んでいくチュートリアル。\nVirtual DOMとして作ったオブジェクトを実際のDOMにどのように反映するか差分の変更検知などの実装。\nまたHyperAppのようなActionの実行と表示更新のスケジュール管理のようなフレームワークとしての動きについてなど",
+            "tags": [
+                "VirtualDOM",
+                "JavaScript",
+                "tutorial",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
