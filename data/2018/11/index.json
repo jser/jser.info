@@ -649,6 +649,18 @@
                 "アンケート"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-20T07:54:53.261Z",
+            "title": "google/js-green-licenses: JavaScript package.json License Checker",
+            "url": "https://github.com/google/js-green-licenses",
+            "content": "`package.json`にかかれている依存ライブラリのライセンスチェックツール。\nPull Reuqest対するチェックなども対応している",
+            "tags": [
+                "JavaScript",
+                "library",
+                "npm"
+            ],
+            "relatedLinks": []
         }
     ]
 }
