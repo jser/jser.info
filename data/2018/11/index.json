@@ -686,6 +686,19 @@
                 "babal"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-23T00:29:01.222Z",
+            "title": "wasmerio/wasmer: High-Performance WebAssembly JIT interpreter",
+            "url": "https://github.com/wasmerio/wasmer",
+            "content": "WebAssemblyファイル(`.wasm`と`.wat`)を実行できるスタンドアローンなツール。\n",
+            "tags": [
+                "WebAssembly",
+                "console",
+                "Tools",
+                "Rust"
+            ],
+            "relatedLinks": []
         }
     ]
 }
