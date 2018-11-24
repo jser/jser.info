@@ -699,6 +699,17 @@
                 "Rust"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-24T07:17:29.848Z",
+            "title": "Lets Build Web Components! Part 1: The Standards - DEV Community 👩‍💻👨‍💻",
+            "url": "https://dev.to/bennypowers/lets-build-web-components-part-1-the-standards-3e85",
+            "content": "Web Componentsについての連載。\nWeb Componentsの構成要素、polyfill、読み込み方法、ライフサイクル、非同期ロード。\nまた`:host`や`<slot>`、スタイル、アクセシビリティ、Polymerなどのフレームワークについて",
+            "tags": [
+                "WebComponents",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
