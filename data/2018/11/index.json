@@ -736,6 +736,18 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-26T01:41:11.510Z",
+            "title": "WebSockets - A Conceptual Deep-Dive | Ably Realtime",
+            "url": "https://www.ably.io/concepts/websockets",
+            "content": "WebSocketについての記事。\nCometのようなポーリングによる通信、WebSocketによるハンドシェイクについて。\n`WebSocket`を使っての接続方法や著名なライブラリの紹介について",
+            "tags": [
+                "WebSocket",
+                "article",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
