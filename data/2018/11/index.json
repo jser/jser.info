@@ -759,6 +759,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-26T16:13:37.706Z",
+            "title": "Introduction · HTTP/3 explained",
+            "url": "https://http3-explained.haxx.se/en/",
+            "content": "HTTP/3とQUICについての解説ドキュメント。\nTCPとUDP、HTTP/2との違い、QUICの仕組みなどについて",
+            "tags": [
+                "http3",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "http2 explained · GitBook (Legacy)",
+                    "url": "https://legacy.gitbook.com/book/bagder/http2-explained/details"
+                }
+            ]
         }
     ]
 }
