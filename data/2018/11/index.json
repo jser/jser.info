@@ -775,6 +775,18 @@
                     "url": "https://legacy.gitbook.com/book/bagder/http2-explained/details"
                 }
             ]
+        },
+        {
+            "date": "2018-11-26T16:49:06.418Z",
+            "title": "Idiomatic Redux: The History and Implementation of React-Redux · Mark's Dev Blog",
+            "url": "https://blog.isquaredsoftware.com/2018/11/react-redux-history-implementation/",
+            "content": "react-reduxの歴史と今後について\n今までのreact-reduxの実装とv6 β実装されてContext APIベースの実装。\nまた、React Hooksを使った実装のProposalについてなど",
+            "tags": [
+                "React",
+                "redux",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
