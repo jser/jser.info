@@ -815,6 +815,18 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-27T01:30:11.142Z",
+            "title": "PWA導入の成果と課題 / nikkei-pwa-html5conf2018 - Speaker Deck",
+            "url": "https://speakerdeck.com/sisidovski/nikkei-pwa-html5conf2018",
+            "content": "PWAの導入と運用しての課題についてのスライド。\nService Workerによるパフォーマンスの改善、Add to HomeScreenのハンドリング、Performance Budgetの設定方法とパフォーマンス監視などについて",
+            "tags": [
+                "PWA",
+                "performance",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
