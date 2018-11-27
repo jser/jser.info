@@ -874,6 +874,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-27T02:13:56.503Z",
+            "title": "フロントエンド向けvalidator: favalidの紹介 - asterisc",
+            "url": "http://akito0107.hatenablog.com/entry/2018/11/23/195538",
+            "content": "バリデーターを関数で書いてcombineできるライブラリのfavalidについて",
+            "tags": [
+                "JavaScript",
+                "library",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "akito0107/favalid: make your favorite validators.",
+                    "url": "https://github.com/akito0107/favalid"
+                }
+            ]
         }
     ]
 }
