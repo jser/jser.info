@@ -850,6 +850,19 @@
                     "url": "https://gist.github.com/dominictarr/9fd9c1024c94592bc7268d36b8d83b3a"
                 }
             ]
+        },
+        {
+            "date": "2018-11-27T01:44:03.482Z",
+            "title": "HTTP and 5G (fixed1)",
+            "url": "https://www.slideshare.net/dynamis/httpp-and-5g-fixed1",
+            "content": "5G環境での通信試験についてのスライド。 \n5Gの試験環境における輻輳制御方法CUBICとBBRの比較、HTTP/1、HTTP/2、QUICの比較などについて",
+            "tags": [
+                "QUIC",
+                "browser",
+                "network",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
