@@ -891,6 +891,18 @@
                     "url": "https://github.com/akito0107/favalid"
                 }
             ]
+        },
+        {
+            "date": "2018-11-27T02:17:07.327Z",
+            "title": "Class features in NodeFest Japan - Google スライド",
+            "url": "https://docs.google.com/presentation/d/1nsR7QnPlyhlPj1ff4cYyARwcWrYM1j_fM7dpbFZM3K8/mobilepresent#slide=id.p",
+            "content": "ECMAScript ProposalのPrivate fieldsについてのスライド。\nprivateを実現するための構文として`#variable`を使う理由や経緯、構文、現在のStageについてなど",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
