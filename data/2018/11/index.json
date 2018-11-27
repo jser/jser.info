@@ -787,6 +787,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-27T00:57:23.462Z",
+            "title": "ZEIT – ncc: Node.js Compiler Collection",
+            "url": "https://zeit.co/blog/ncc",
+            "content": "Node.jsのプログラムを依存含めて1つのファイルにするnccについて。\nファイル1つにまとめることで配布性や実行時の起動時間のI/Oオーバヘッドの改善を目的としている。",
+            "tags": [
+                "node.js",
+                "Tools",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "zeit/ncc: Node.js Compiler Collection",
+                    "url": "https://github.com/zeit/ncc"
+                }
+            ]
         }
     ]
 }
