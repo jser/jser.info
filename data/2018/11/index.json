@@ -914,6 +914,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-28T22:47:39.343Z",
+            "title": "End-of-Life for Built-in JSDoc Support in ESLint - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2018/11/jsdoc-end-of-life",
+            "content": "ESLintのJSDocサポートが4.0.0でビルトインではなくなることについて。\nこれにあわせてJSDocパーサのDoctrineも更新されなくなる。\n既存のJSDoc関係のルールは別途プラグインとして切り出される。",
+            "tags": [
+                "ESLint",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "eslint/doctrine: JSDoc parser",
+                    "url": "https://github.com/eslint/doctrine"
+                }
+            ]
         }
     ]
 }
