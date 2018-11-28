@@ -903,6 +903,17 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-28T10:40:58.966Z",
+            "title": "Lazy loading (and preloading) components in React 16.6",
+            "url": "https://medium.com/@pomber/lazy-loading-and-preloading-components-in-react-16-6-804de091c82d",
+            "content": "`React.lazy()`を使ったコンポーネントの遅延ロードについて",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
