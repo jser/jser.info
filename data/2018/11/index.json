@@ -930,6 +930,17 @@
                     "url": "https://github.com/eslint/doctrine"
                 }
             ]
+        },
+        {
+            "date": "2018-11-29T02:04:59.170Z",
+            "title": "React 16.x Roadmap – React Blog",
+            "url": "https://reactjs.org/blog/2018/11/27/react-16-roadmap.html",
+            "content": "React 16.xのロードマップについて。\n16.7でReact Hooks、16.8でConcurrent Mode、16.9でSuspense for Data Fetchingをリリース予定。\nまた、React DOMのモダン化やSSRに対するSuspenseを検討中。",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
