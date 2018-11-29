@@ -954,10 +954,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2018-11-29T13:11:29.920Z",
+            "date": "2018-11-29T13:19:21.745Z",
             "title": "Dev.Opera — What’s new in Chromium 70 and Opera 57",
             "url": "https://dev.opera.com/blog/opera-57/",
-            "content": "Opera 57 (based on Chromium 70)リリース。\nFeature Detectionの混乱をさけるためにontouch* APIはデスクトップではデフォルトで無効化、`postMessage`に`targetOrigin`オプションの追加。\nWeb Components V1を非推奨化など",
+            "content": "Opera 57 (based on Chromium 70)リリース。\nFeature Detectionの混乱をさけるために`ontouch*`イベントの属性はデスクトップにおいてデフォルトで無効化、`postMessage`に`targetOrigin`オプションの追加。\nWeb Components V1を非推奨化など",
             "tags": [
                 "Opera",
                 "ReleaseNote"
