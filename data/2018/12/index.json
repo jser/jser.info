@@ -11,6 +11,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-11-30T22:44:17.068Z",
+            "title": "Web workers vs Service workers vs Worklets",
+            "url": "https://bitsofco.de/web-workers-vs-service-workers-vs-worklets/",
+            "content": "Web Worker、Service Worker、Workletsの役割や動作についてを簡単に紹介している記事。\nブラウザのメインスレッドとは異なるスレッドでコードを実行するWorkerについて",
+            "tags": [
+                "webworker",
+                "webservice",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
