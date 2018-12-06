@@ -95,6 +95,17 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-06T00:01:11.265Z",
+            "title": "New in Chrome 71  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2018/12/nic71",
+            "content": "Chrome 71の変更点について。\n`Intl.RelativeTimeFormat()`のサポート、`text-underline-position`のサポート。\nFetch APIのcredentials-modeのデフォルト値が`omit`から`same-origin`へと変更など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
