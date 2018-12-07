@@ -169,6 +169,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-07T11:00:24.394Z",
+            "title": "Google Developers Blog: Flutter 1.0: Google’s Portable UI Toolkit",
+            "url": "https://developers.googleblog.com/2018/12/flutter-10-googles-portable-ui-toolkit.html",
+            "content": "Flutter 1.0リリース。\nHummingbirdというウェブ向けの出力対応予定について",
+            "tags": [
+                "Flutter",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Hummingbird: Building Flutter for the Web – Flutter – Medium",
+                    "url": "https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8"
+                }
+            ]
         }
     ]
 }
