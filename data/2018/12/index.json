@@ -141,6 +141,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-07T06:05:54.016Z",
+            "title": "Microsoft Edge: Making the web better through more open source collaboration - Windows Experience BlogWindows Experience Blog",
+            "url": "https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/",
+            "content": "デスクトップMSEdgeはChromiumベース(Blink+V8)に移行し、すべてのWindowsバージョンやmacOS向けなどへ提供予定。\nJavaScriptエンジンのChakraCoreはEdge以外の利用のため開発を続ける。",
+            "tags": [
+                "MSEdge",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "MicrosoftEdge/MSEdge: Microsoft Edge",
+                    "url": "https://github.com/MicrosoftEdge/MSEdge"
+                }
+            ]
         }
     ]
 }
