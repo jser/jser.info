@@ -185,6 +185,23 @@
                     "url": "https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8"
                 }
             ]
+        },
+        {
+            "date": "2018-12-07T11:13:27.919Z",
+            "title": "Processing.js 2008-2018",
+            "url": "https://blog.humphd.org/processing-js-2008/",
+            "content": "メンテンナンスモードであったProcessing.jsのリポジトリがアーカイブ化された。\nまたProcessing.jsの歴史について。後継ライブラリとしてはp5jsが開発されている。\n",
+            "tags": [
+                "JavaScript",
+                "library",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "processing-js/processing-js: A port of the Processing visualization language to JavaScript.",
+                    "url": "https://github.com/processing-js/processing-js/"
+                }
+            ]
         }
     ]
 }
