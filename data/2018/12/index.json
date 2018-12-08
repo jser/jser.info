@@ -248,6 +248,22 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-08T13:08:50.956Z",
+            "title": "ESLint v5.10.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2018/12/eslint-v5.10.0-released",
+            "content": "ESLint 5.10.0リリース。\n`padding-line-between-statements`にオプションの追加、\nJSDoc関係のルールである`require-jsdoc`と`valid-jsdoc`が非推奨になるなど",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESLint v5.10.0 - Qiita",
+                    "url": "https://qiita.com/mysticatea/items/64a09c3bea4c06d84a2e"
+                }
+            ]
         }
     ]
 }
