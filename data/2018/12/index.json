@@ -236,6 +236,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-08T10:21:54.053Z",
+            "title": "rowanmanning/proclaim: A simple assertion library for server and client side JavaScript.",
+            "url": "https://github.com/rowanmanning/proclaim",
+            "content": "古いブラウザや古いNode.jsでも動作するように書かれたassert系ライブラリ。\nchaiのようにassertの拡張メソッドも実装されている",
+            "tags": [
+                "JavaScript",
+                "library",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
