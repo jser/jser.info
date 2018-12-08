@@ -221,6 +221,21 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-08T10:17:20.029Z",
+            "title": "jQueryへの依存を外す方法 - dely engineering blog",
+            "url": "https://tech.dely.jp/entry/2018/12/08/160000",
+            "content": "jQueryの依存を外すまでのフローについて。\npolyfill.io の利用、CoffeeScriptからTypeScriptへの移行。\njQueryをVanillaJS + polyfillで動くように書き直し、BackstopJSでビジュアルリグレッションテストする方法について。",
+            "tags": [
+                "JavaScript",
+                "CoffeeScript",
+                "TypeScript",
+                "リファクタリング",
+                "jQuery",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
