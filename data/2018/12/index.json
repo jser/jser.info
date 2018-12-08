@@ -210,6 +210,17 @@
                     "url": "https://github.com/processing-js/processing-js/"
                 }
             ]
+        },
+        {
+            "date": "2018-12-08T06:15:02.043Z",
+            "title": "Release v0.88.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.88.0",
+            "content": "Flow 0.88.0リリース。\n`Function`と`Object`を`any`のaliasとして扱うように。\n`flow start --lazy-mode watchman`の追加、`flow config check`コマンドの追加など",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
