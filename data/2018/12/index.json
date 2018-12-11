@@ -360,6 +360,19 @@
                     "url": "https://github.com/simov/grant/issues/77"
                 }
             ]
+        },
+        {
+            "date": "2018-12-11T12:11:57.215Z",
+            "title": "Wenzil/Mhysa: Dependency-free stream utils for Node.js",
+            "url": "https://github.com/Wenzil/Mhysa",
+            "content": "Node.js Streamを扱う\nTypeScriptで書かれているライブラリ。`fromArray`からStreamのラッパーを作成し`map`、`reduce`、`merge`、`duplex`などを使いStream処理できるライブラリ",
+            "tags": [
+                "node.js",
+                "TypeScript",
+                "library",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
