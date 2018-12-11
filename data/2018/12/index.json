@@ -375,7 +375,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2018-12-11T14:58:52.643Z",
+            "date": "2018-12-11T14:59:33.100Z",
             "title": "Firefox 64.0, See All New Features, Updates and Fixes",
             "url": "https://www.mozilla.org/en-US/firefox/64.0/releasenotes/",
             "content": "Firefox 64.0リリース。\nFullscreen APIの接頭辞を削除、`requestFullscreen()`などがPromiseを返すように、macOSでWebVR APIを有効化。\n`XMLHttpRequest.getAllResponseHeaders()`がヘッダ名を小文字で返すようになるなど",
@@ -383,7 +383,16 @@
                 "firefox",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Firefox 64 for developers | MDN",
+                    "url": "https://developer.mozilla.org/ja/docs/Mozilla/Firefox/Releases/64"
+                },
+                {
+                    "title": "Firefox 64 サイト互換性情報 | Firefox サイト互換性情報",
+                    "url": "https://www.fxsitecompat.com/ja/versions/64/"
+                }
+            ]
         }
     ]
 }
