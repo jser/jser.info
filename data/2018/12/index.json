@@ -373,6 +373,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-11T14:58:52.643Z",
+            "title": "Firefox 64.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/64.0/releasenotes/",
+            "content": "Firefox 64.0リリース。\nFullscreen APIの接頭辞を削除、`requestFullscreen()`などがPromiseを返すように、macOSでWebVR APIを有効化。\n`XMLHttpRequest.getAllResponseHeaders()`がヘッダ名を小文字で返すようになるなど",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
