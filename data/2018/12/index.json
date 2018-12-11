@@ -343,6 +343,23 @@
                     "url": "https://github.com/gulpjs/gulp/releases/tag/v4.0.0"
                 }
             ]
+        },
+        {
+            "date": "2018-12-11T05:40:29.701Z",
+            "title": "simov/grant: OAuth Middleware for Express, Koa and Hapi",
+            "url": "https://github.com/simov/grant",
+            "content": "expressなどで使えるOAuth middleware。\npassportのように色々なサービスに対応している",
+            "tags": [
+                "OAuth",
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "How does this project compare to Passport? · Issue #77 · simov/grant",
+                    "url": "https://github.com/simov/grant/issues/77"
+                }
+            ]
         }
     ]
 }
