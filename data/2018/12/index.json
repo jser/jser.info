@@ -327,6 +327,22 @@
                     "url": "https://calendar.perfplanet.com/2018/sharing-comparing-har-files/"
                 }
             ]
+        },
+        {
+            "date": "2018-12-11T00:20:22.297Z",
+            "title": "🎉 Version 4.0 Now Default 🎉 – gulpjs – Medium",
+            "url": "https://medium.com/gulpjs/version-4-now-default-92c6cd4beb45",
+            "content": "gulp 4.0が正式リリース。\n`gulp.series`と`gulp.parallel`を追加。\nsourcemapsのデフォルトサポート、gulpfileからのexportをタスクとして扱えるように、`gulp`と`gulp-cli`の分離など",
+            "tags": [
+                "gulp",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v4.0.0 · gulpjs/gulp",
+                    "url": "https://github.com/gulpjs/gulp/releases/tag/v4.0.0"
+                }
+            ]
         }
     ]
 }
