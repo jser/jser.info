@@ -460,10 +460,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2018-12-14T22:22:54.074Z",
+            "date": "2018-12-14T22:24:20.684Z",
             "title": "Release v6.0.0 · reduxjs/react-redux",
             "url": "https://github.com/reduxjs/react-redux/releases/tag/v6.0.0",
-            "content": "Redux 6.0.0リリース。\nContext APIのサポート、`withRef`オプションは`forwardRef`オプションに置き換えなど",
+            "content": "React Redux 6.0.0リリース。\nContext APIのサポート、`withRef`オプションは`forwardRef`オプションに置き換えなど",
             "tags": [
                 "redux",
                 "ReleaseNote"
