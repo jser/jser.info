@@ -422,6 +422,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-14T08:00:20.173Z",
+            "title": "Ember.js - Ember 3.6 Released",
+            "url": "https://emberjs.com/blog/2018/12/13/ember-3-6-released.html",
+            "content": "Ember 3.6リリース。\nいくつかの制限はあるがES classをサポート。\n`new EmberObject()`を非推奨化し、`EmberObject.create()`の利用を推奨するようになるなど",
+            "tags": [
+                "Ember",
+                "ReleaseNote",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
