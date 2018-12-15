@@ -469,6 +469,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-15T13:38:54.149Z",
+            "title": "GoogleChromeLabs/quicklink: ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time",
+            "url": "https://github.com/GoogleChromeLabs/quicklink",
+            "content": "Viewportに表示されているリンクをアイドル時にprefetchを行うライブラリ",
+            "tags": [
+                "JavaScript",
+                "library",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
