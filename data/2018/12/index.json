@@ -505,6 +505,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-16T01:41:07.203Z",
+            "title": "混沌を極める jQuery のコードをいかにして Vue.js に頼らずに整理したか - Qiita",
+            "url": "https://qiita.com/cesare/items/c00acd7911afcba21224",
+            "content": "jQueryを使い書かれていたイベント処理が密結合で影響範囲が複雑化していた問題について。\nイベントのフローや影響範囲をViewで区切るなど、どのようにリファクタリングを進めたかについて",
+            "tags": [
+                "jQuery",
+                "JavaScript",
+                "リファクタリング"
+            ],
+            "relatedLinks": []
         }
     ]
 }
