@@ -494,6 +494,17 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-16T00:56:42.455Z",
+            "title": "worker_threadsを使ったNode.js マルチスレッドプログラミング - kakts-log",
+            "url": "http://kakts-tec.hatenablog.com/entry/2018/12/14/005316",
+            "content": "Node.js 10.5.0で試験的にサポートされた`worker_threads`モジュールについて。\nNode.jsでのWorkerを使ったスレッド処理について",
+            "tags": [
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
