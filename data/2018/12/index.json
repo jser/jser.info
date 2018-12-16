@@ -517,6 +517,18 @@
                 "リファクタリング"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-16T01:59:53.019Z",
+            "title": "Release 1.0 · avajs/ava",
+            "url": "https://github.com/avajs/ava/releases/tag/v1.0.1",
+            "content": "AVA 1.0リリース。\n`t.throws`の挙動の変更と`t.throwsAsync`の追加。\nBabel 7に対応、`ava.config.js`のサポートなど。\n破壊的な変更として`test`は名前を持つことが必須なり、`t.ifError`の削除など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
