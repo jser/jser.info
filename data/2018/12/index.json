@@ -574,6 +574,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-18T11:17:50.760Z",
+            "title": "V8 release v7.2 · V8",
+            "url": "https://v8.dev/blog/v8-release-72",
+            "content": "V8 v7.2.リリース。\n`async/await`、Spread Elementsなどのパフォーマンス改善、Publicクラスフィールド、`Intl.ListFormat`、`export * as foo from`のサポートなど",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
