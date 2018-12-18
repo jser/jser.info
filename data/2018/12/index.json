@@ -541,6 +541,26 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-18T01:09:27.958Z",
+            "title": "Pika | Search modern module esm packages on npm",
+            "url": "https://www.pikapkg.com/",
+            "content": "ECMAScriptモジュールに対応したnpmパッケージを検索できるウェブサービス。\n\"module\"フィールドに対応しているパッケージを検索できる。\n",
+            "tags": [
+                "JavaScript",
+                "npm",
+                "ECMAScript",
+                "module",
+                "検索",
+                "webservice"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Pika | What is Pika?",
+                    "url": "https://www.pikapkg.com/about/"
+                }
+            ]
         }
     ]
 }
