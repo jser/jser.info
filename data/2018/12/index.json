@@ -617,6 +617,24 @@
                     "url": "https://developers.google.com/web/updates/2018/12/chrome-72-deps-rems"
                 }
             ]
+        },
+        {
+            "date": "2018-12-20T10:20:08.068Z",
+            "title": "Cloudworker  -  A local Cloudflare Worker Runner",
+            "url": "https://blog.cloudflare.com/cloudworker-a-local-cloudflare-worker-runner/",
+            "content": "Cloudflare Workers向けのスクリプトをローカルで動かすことを目的としたツール",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "cdn",
+                "ServiceWorker"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "dollarshaveclub/cloudworker: Run Cloudflare Worker scripts locally",
+                    "url": "https://github.com/dollarshaveclub/cloudworker"
+                }
+            ]
         }
     ]
 }
