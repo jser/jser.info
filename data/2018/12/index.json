@@ -647,6 +647,17 @@
                 "翻訳"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-22T05:15:51.623Z",
+            "title": "Electron 4.0.0 | Electron Blog",
+            "url": "https://electronjs.org/blog/electron-4-0",
+            "content": "Electron 4.0.0リリース。\n`BrowserWindow`で`remote`モジュールを無効化できるように、WebContentsからの`remote.require`などをイベント処理できるようになるなど。\nmacOS 10.9のサポート終了、`app.makeSingleInstance()`を`app.requestSingleInstanceLock()`に変更など",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
