@@ -675,6 +675,19 @@
                     "url": "https://github.com/webpack/changelog-v5/blob/master/README.md"
                 }
             ]
+        },
+        {
+            "date": "2018-12-23T10:43:21.837Z",
+            "title": "Release 2.0.0 · developit/htm",
+            "url": "https://github.com/developit/htm/releases/tag/2.0.0",
+            "content": "JSXライクなタグ関数を提供するHTM 2.0リリース。\nパフォーマンス改善、Babelプラグインの改善など",
+            "tags": [
+                "jsx",
+                "babel",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
