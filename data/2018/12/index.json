@@ -658,6 +658,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-23T05:48:16.804Z",
+            "title": "webpack 5 alpha feedback · Issue #8537 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/issues/8537",
+            "content": "webpack 5αがリリースされフィードバックを募集中。\nv4で非推奨となっているものを削除、`events`などNode.jsのコアモジュールのpolyfillを自動で入れないように変更、chunk idなどの変更など",
+            "tags": [
+                "webpack",
+                "ReleaseNote",
+                "issue"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "changelog-v5/README.md at master · webpack/changelog-v5",
+                    "url": "https://github.com/webpack/changelog-v5/blob/master/README.md"
+                }
+            ]
         }
     ]
 }
