@@ -713,6 +713,23 @@
                 "UI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-24T15:18:38.308Z",
+            "title": "Introduction - TypeScript Deep Dive 日本語版",
+            "url": "https://typescript-jp.gitbook.io/deep-dive/",
+            "content": "TypeScript Deep Diveの日本語訳",
+            "tags": [
+                "TypeScript",
+                "翻訳",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "yohamta/typescript-book-jp: TypeScript Bookの日本語訳です。",
+                    "url": "https://github.com/yohamta/typescript-book-jp"
+                }
+            ]
         }
     ]
 }
