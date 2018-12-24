@@ -688,6 +688,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-24T03:46:42.172Z",
+            "title": "swc-project/swc: Super-fast alternative for babel",
+            "url": "https://github.com/swc-project/swc",
+            "content": "Rustで書かれたJavaScript Transpiler。\nBabelなどのようにECMAScriptバージョンに対応した変換を行う。",
+            "tags": [
+                "Rust",
+                "JavaScript",
+                "babel",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
