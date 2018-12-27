@@ -776,6 +776,25 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-27T04:52:22.399Z",
+            "title": "WebdriverIO v5 Released · WebdriverIO",
+            "url": "https://webdriver.io/blog/2018/12/19/webdriverio-v5-released.html",
+            "content": "WebdriverIO v5リリース。\n`wdio` CLIは`@wdio/cli`に移動、コマンドがselectorを受け取らないように、メソッドチェーンではなくasync/awaitベースに変更。\nその他にもコマンドのリネームなどのは快適な変更を多く含む",
+            "tags": [
+                "Selenium",
+                "browser",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "webdriverio/CHANGELOG.md at master · webdriverio/webdriverio",
+                    "url": "https://github.com/webdriverio/webdriverio/blob/master/CHANGELOG.md#v500-2018-12-20"
+                }
+            ]
         }
     ]
 }
