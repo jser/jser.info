@@ -818,6 +818,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-29T04:26:14.619Z",
+            "title": "Release v1.0.0 · rollup/rollup",
+            "url": "https://github.com/rollup/rollup/releases/tag/v1.0.0",
+            "content": "Rollup 1.0.0リリース。\n破壊的な変更としてオプションのリネーム、`bundle.generate`の返す値のフォーマットの変更、`acorn@6`へアップデートなど",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
