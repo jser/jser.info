@@ -939,6 +939,19 @@
                 "software"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-31T13:33:00.152Z",
+            "title": "TypeScriptで実現する型安全な多言語対応（Angularを例に） | 株式会社カブク",
+            "url": "https://www.kabuku.co.jp/software_engineer/typescript-angular-i18n/",
+            "content": "翻訳ファイルをTypeScriptのコードとして表現することで型安全な翻訳定義を作成する方法について。\n翻訳ファイルをコードにするメリットとデメリットについてなど",
+            "tags": [
+                "Angular",
+                "i18n",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
