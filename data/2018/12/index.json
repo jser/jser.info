@@ -868,6 +868,28 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-31T11:22:40.581Z",
+            "title": "jsincss | A JS-in-CSS stylesheet loader",
+            "url": "https://jsincss.com/",
+            "viaURL": "https://github.com/jser/ping/issues/126",
+            "content": "JavaScriptからテンプレートでCSSを生成でき、イベントによってリアクティブにCSSを変更できるライブラリ。\nプラグインで拡張できるようになっている。",
+            "tags": [
+                "JavaScript",
+                "CSS",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "tomhodgins/jsincss: A JS-in-CSS stylesheet loader",
+                    "url": "https://github.com/tomhodgins/jsincss"
+                },
+                {
+                    "title": "What is a JIC Stylesheet? - Responsive Style",
+                    "url": "https://responsive.style/theory/what-is-a-jic-stylesheet.html"
+                }
+            ]
         }
     ]
 }
