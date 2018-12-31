@@ -952,6 +952,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-31T13:35:53.364Z",
+            "title": "takefumi-yoshii/react-hooks-ogiri: Advent calendar of 2018. This is a showreel using a reaction hook.",
+            "url": "https://github.com/takefumi-yoshii/react-hooks-ogiri",
+            "content": "React Hooks APIを使ったUIコンポーネントのサンプル実装集",
+            "tags": [
+                "React",
+                "example",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "React Hooks 大喜利 Advent Calendar 2018 - Qiita",
+                    "url": "https://qiita.com/advent-calendar/2018/react-hooks-ogiri"
+                }
+            ]
         }
     ]
 }
