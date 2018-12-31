@@ -844,11 +844,11 @@
             "relatedLinks": []
         },
         {
-            "date": "2018-12-31T08:14:58.258Z",
+            "date": "2018-12-31T08:17:03.650Z",
             "title": "Comlink + Rust で言語とスレッドの垣根を越えた WebAssembly 開発 - Qiita",
             "url": "https://qiita.com/3846masa/items/92d24e16ebb5151b08ba",
             "viaURL": "https://github.com/jser/ping/issues/126",
-            "content": "Rustを使ったWebAssemblyライブラリ開発の利用について。\nRustを使ったwasmのバインディングの作成、webpackを使ったロード方法について。\nまた、処理をメインスレッド外のWebWorkerで行いComlinkでのデータのやり取りする方法について",
+            "content": "Rustを使ったWebAssemblyライブラリの開発について。\nRustを使ったwasmのバインディングの作成、webpackを使ったロード方法について。\nまた、処理をメインスレッド外のWebWorkerで行いComlinkでのデータのやり取りする方法について",
             "tags": [
                 "WebAssembly",
                 "webworker",
