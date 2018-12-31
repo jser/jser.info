@@ -903,6 +903,18 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2018-12-31T13:09:00.088Z",
+            "title": "ECMAScript modules in Node.js: the new plan",
+            "url": "http://2ality.com/2018/12/nodejs-esm-phases.html",
+            "content": "Node.jsにおけるES Modulesの扱いについてのまとめ記事。\n`.mjs`のサポートについてやCommonJSとの相互運用性の問題、今後どのような方針が予定されているのかについて",
+            "tags": [
+                "node.js",
+                "article",
+                "module"
+            ],
+            "relatedLinks": []
         }
     ]
 }
