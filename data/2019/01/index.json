@@ -1,0 +1,18 @@
+{
+    "list": [
+        {
+            "date": "2019-01-01T02:15:38.262Z",
+            "title": "WebdriverIO v5 Released · WebdriverIO",
+            "url": "https://webdriver.io/blog/2018/12/19/webdriverio-v5-released.html",
+            "content": "WebdriverIO v5リリース。\n`wdio` CLIは`@wdio/cli`に移動、コマンドがselectorを受け取らないように、メソッドチェーンではなくasync/awaitベースに変更。\nその他にもコマンドのリネームなどのは破壊的な変更を多く含む",
+            "tags": [
+                "Selenium",
+                "browser",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
