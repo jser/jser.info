@@ -25,6 +25,19 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-04T05:36:15.585Z",
+            "title": "facebookincubator/fbt: A JavaScript Internationalization Framework",
+            "url": "https://github.com/facebookincubator/fbt",
+            "content": "Facebookのi18n JavaScriptフレームワーク。\nソースコードからフレーズの収集、翻訳ファイルの管理、関数やJSXでの翻訳表示、babelプラグインなどを持ったi18nフレームワーク",
+            "tags": [
+                "JavaScript",
+                "u18",
+                "library",
+                "babel"
+            ],
+            "relatedLinks": []
         }
     ]
 }
