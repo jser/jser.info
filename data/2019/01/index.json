@@ -63,6 +63,25 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-05T12:58:17.705Z",
+            "title": "Odi - server-side framework - DEV Community 👩‍💻👨‍💻",
+            "url": "https://dev.to/dantsk/odi---server-side-framework-2ep7",
+            "content": "Node.js向けのサーバサイドフレームワーク。Decoratorを使った宣言的な定義やTypeScriptの`emitDecoratorMetadata`を使ったDTOなどを持つ。\n類似するコンセプトを持つNestjsとの違いについてなど",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "library",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Odi-ts/odi: 🌪🌌 Opinionated, Declarative, Idiomatic framework for building scalable, supportable, enterprise applications and servers.",
+                    "url": "https://github.com/Odi-ts/odi"
+                }
+            ]
         }
     ]
 }
