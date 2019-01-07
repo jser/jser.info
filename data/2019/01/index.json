@@ -95,6 +95,23 @@
                 "node.js"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-07T01:31:36.608Z",
+            "title": "Neural networks in JavaScript | Scrimba.com",
+            "url": "https://scrimba.com/g/gneuralnetworks",
+            "content": "ニューラルネットワークライブラリであるBrain.jsのインタラクティブなチュートリアル",
+            "tags": [
+                "JavaScript",
+                "tutorial",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "BrainJS/brain.js: 🤖 Neural networks in JavaScript",
+                    "url": "https://github.com/BrainJS/brain.js"
+                }
+            ]
         }
     ]
 }
