@@ -149,6 +149,18 @@
                     "url": "https://www.npmjs.com/advisories/725"
                 }
             ]
+        },
+        {
+            "date": "2019-01-08T02:20:27.472Z",
+            "title": "TypeScript Roadmap: January - June 2019 · Issue #29288 · Microsoft/TypeScript",
+            "url": "https://github.com/Microsoft/TypeScript/issues/29288",
+            "content": "TypeScriptのロードマップ。\nJS/JSDocの扱いの改善、TSLintではなくESLintでのTSのLint改善、パフォーマンス改善、CLIの改善、ドキュメントの改善、Playgroundの改善などに取り組んでいく",
+            "tags": [
+                "TypeScript",
+                "issue",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
