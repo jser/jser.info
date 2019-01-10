@@ -163,10 +163,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-01-10T00:46:16.488Z",
+            "date": "2019-01-10T00:46:38.729Z",
             "title": "Babelで書かれたJavaScriptライブラリをTypeScriptへ移行する方法 | Web Scratch",
             "url": "https://efcl.info/2019/01/09/babel-to-typescript-library/",
-            "content": "ライブラリのコードベースをTypeScriptへマイグレーションしていく方法について。\nBabelで行っていたES2015からの変換処理を`tsc`に移行し、コードベースをTypeScriptへと段階的に変換していく話",
+            "content": "ライブラリのコードベースをTypeScriptへマイグレーションしていく方法について。\nBabelで行っていたES2015からの変換処理を`tsc`に移行し、コードベースをTypeScriptへと段階的に変換していくチュートリアル",
             "tags": [
                 "JavaScript",
                 "babel",
