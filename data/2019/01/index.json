@@ -246,6 +246,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-14T02:48:04.379Z",
+            "title": "Release v3.0.0 · juliangarnier/anime",
+            "url": "https://github.com/juliangarnier/anime/releases/tag/v3.0.0",
+            "content": "アニメーションライブラリのanime 3.0.0リリース。\n新しいイージング関数の追加、ライフサイクル系のコールバックを追加、keyframesシステムの刷新など。\n破壊的な変更点としてAPIが一部リネームされている",
+            "tags": [
+                "JavaScript",
+                "animation",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
