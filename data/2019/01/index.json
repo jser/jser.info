@@ -259,6 +259,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-14T06:46:12.698Z",
+            "title": "Release 1.1.0 · avajs/ava",
+            "url": "https://github.com/avajs/ava/releases/tag/v1.1.0",
+            "content": "AVA 1.1.0リリース。\n実行中のテストファイルのパスなどを取得できる`meta`オブジェクトの追加など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
