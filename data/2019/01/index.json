@@ -307,6 +307,27 @@
                 "github"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-16T01:03:56.199Z",
+            "title": "DoneJS 3",
+            "url": "https://www.bitovi.com/blog/donejs-3",
+            "content": "DoneJS 3リリース。\nCanJS 5.0、StealJS 2.0へのアップデートなど",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "CanJS 5.0",
+                    "url": "https://www.bitovi.com/blog/canjs-5"
+                },
+                {
+                    "title": "donejs - Features",
+                    "url": "https://donejs.com/Features.html#incremental-rendering"
+                }
+            ]
         }
     ]
 }
