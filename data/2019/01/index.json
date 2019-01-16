@@ -352,6 +352,22 @@
                 "node.js"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-16T02:16:50.904Z",
+            "title": "Fast GIF parsing on the web with WASM + Wuffs - DEV Community 👩‍💻👨‍💻",
+            "url": "https://dev.to/chromiumdev/fast-gif-parsing-on-the-web-with-wasm--wuffs-48l4",
+            "content": "GIFパースをEmscripten + WebAssemblyで行う話。\nどのようにbindingを作成し、デコード処理をして、Canvasで描画するかについて",
+            "tags": [
+                "WebAssembly",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Emscripten and npm  |  Web  |  Google Developers",
+                    "url": "https://developers.google.com/web/updates/2019/01/emscripten-npm"
+                }
+            ]
         }
     ]
 }
