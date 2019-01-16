@@ -368,6 +368,21 @@
                     "url": "https://developers.google.com/web/updates/2019/01/emscripten-npm"
                 }
             ]
+        },
+        {
+            "date": "2019-01-16T02:20:31.748Z",
+            "title": "FromJS - An experimental data-flow analysis tool for front-end JavaScript",
+            "url": "http://www.fromjs.com/",
+            "content": "DOMをインスペクトし、表示されている文字列がコードのどこで生成されているかをインスペクトできるツール。\n既存のHTMLを生成するDOM APIを上書きしトレースしきるようにしたChromeを立ち上げデバッグできるようにしている。",
+            "tags": [
+                "Chrome",
+                "DOM",
+                "Extension",
+                "babel",
+                "debug",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
