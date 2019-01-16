@@ -340,6 +340,18 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-16T02:11:04.427Z",
+            "title": "Markdown Driven な scaffolding ツールを作った - wadackel.me",
+            "url": "https://blog.wadackel.me/2019/scaffdog/",
+            "content": "Markdownの1ファイルに複数のファイルテンプレートを書いて、複数ファイルを出力できるファイル生成ツール",
+            "tags": [
+                "Markdown",
+                "Tools",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
