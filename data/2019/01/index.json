@@ -370,10 +370,10 @@
             ]
         },
         {
-            "date": "2019-01-16T02:24:15.119Z",
+            "date": "2019-01-16T02:24:50.264Z",
             "title": "FromJS - An experimental data-flow analysis tool for front-end JavaScript",
             "url": "http://www.fromjs.com/",
-            "content": "表示されている文字列がコードのどこで生成されているかをDOMインスペクトできるツール。\n既存のHTMLを生成するDOM APIを上書きしトレースできるようにしたChromeを立ち上げデバッグできるようにしている。",
+            "content": "表示されている文字列がコードのどこで生成されているかをDOMインスペクトできるツール。\nHTMLを生成するDOM APIを上書きして、トレースできるようにしたChromeを立ち上げデバッグできるようにしている。",
             "tags": [
                 "Chrome",
                 "DOM",
