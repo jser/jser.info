@@ -395,6 +395,18 @@
                 "refacoring"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-17T23:41:22.638Z",
+            "title": "Release Workbox v4.0.0-beta.1 · GoogleChrome/workbox",
+            "url": "https://github.com/GoogleChrome/workbox/releases/tag/v4.0.0-beta.1",
+            "content": "Workbox 4.0.0β1リリース。\nウェブページで動作する`workbox-window`パッケージの追加、`workbox-cli`に`--watch`の追加など。\n破壊的な変更として`workbox-precaching`が書き直し、`skipWaiting`や`clientsClaim`が`workbox.core.*`へ移動するなど",
+            "tags": [
+                "ServiceWorker",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
