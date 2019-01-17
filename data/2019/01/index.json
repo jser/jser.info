@@ -383,6 +383,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-17T14:17:17.420Z",
+            "title": "一休.comホテルページのスマホ版からjQuery依存を取り除くためにやったこと - 一休.com Developers Blog",
+            "url": "https://user-first.ikyu.co.jp/entry/goodbye-jquery",
+            "content": "jQuery依存を外すためのリファクタリング方法について。\njQueryと同等の機能の実装方法や外すことでのパフォーマンスの差異などについて。",
+            "tags": [
+                "jQuery",
+                "JavaScript",
+                "refacoring"
+            ],
+            "relatedLinks": []
         }
     ]
 }
