@@ -407,6 +407,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-18T12:25:18.503Z",
+            "title": "npm/libnpm: programmatic npm API",
+            "url": "https://github.com/npm/libnpm",
+            "content": "npm APIを操作できるライブラリ。\nパッケージやRegistry周りのAPI操作などが行える",
+            "tags": [
+                "npm",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
