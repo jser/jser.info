@@ -439,6 +439,17 @@
                     "url": "https://github.com/bradzacher/eslint-plugin-typescript/issues/290"
                 }
             ]
+        },
+        {
+            "date": "2019-01-19T14:35:36.812Z",
+            "title": "Node v11.7.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v11.7.0/",
+            "content": "Node.js 11.7.0リリース。\n`zlib`モジュールがbrotliサポート、npm 6.5.0へアップデート、Workerがデフォルトで有効になるなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
