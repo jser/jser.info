@@ -533,6 +533,18 @@
                     "url": "https://davidgom.es/what-i-wish-i-had-known-before-starting-to-use-flow/"
                 }
             ]
+        },
+        {
+            "date": "2019-01-20T13:28:46.886Z",
+            "title": "How to start a Node.js project | Phil Nash",
+            "url": "https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/",
+            "content": "npmで公開されているコマンドラインツールを使って、Node.jsプロジェクトのセットアップを簡単に行う話。\nライセンス、giginore、CoCファイルの作成、pacakge.jsonの作成を行うコマンドの紹介",
+            "tags": [
+                "node.js",
+                "npm",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
