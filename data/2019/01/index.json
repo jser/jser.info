@@ -474,6 +474,19 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-20T12:57:55.874Z",
+            "title": "Release 4.0.0 (2019-01-16) · GoogleChrome/lighthouse",
+            "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v4.0.0",
+            "content": "LightHouse 4.0.0リリース。\nPWAカテゴリを更新しスコア表示ではなくなった。`speed-index`がthrottlingに対応した倍率となるように変更、スコアで満点を取ったときの表示を追加など",
+            "tags": [
+                "Tools",
+                "ReleaseNote",
+                "browser",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
