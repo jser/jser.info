@@ -450,6 +450,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-20T08:13:05.137Z",
+            "title": "Prettier 1.16: HTML improvements and better CRLF handling · Prettier",
+            "url": "https://prettier.io/blog/2019/01/20/1.16.0.html",
+            "content": "Prettier 1.16リリース。\nCRLFの対応改善、babel(js)のパーサをアップデート、テストに利用できる`--check`フラグの追加など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
