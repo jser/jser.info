@@ -545,6 +545,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-20T13:33:41.416Z",
+            "title": "wpk-cli/wpk: a friendly, intuitive, intelligent, and unofficial CLI for webpack",
+            "url": "https://github.com/wpk-cli/wpk",
+            "content": "webpackをラップしたCLI。\nwebpackの設定ファイルの作成や変更、ビルド、開発サーバの立ち上げ、`webpack-bundle-analyzer`を使ったbundleの解析などのコマンドを提供する",
+            "tags": [
+                "webpack",
+                "console",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
