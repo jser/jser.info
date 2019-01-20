@@ -462,6 +462,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-20T09:26:48.856Z",
+            "title": "雰囲気でやってる人向けの Redux 再入門 - Speaker Deck",
+            "url": "https://speakerdeck.com/jmblog/fen-wei-qi-deyatuteruren-xiang-kefalse-redux-zai-ru-men",
+            "content": "Reduxでのステート管理についてのスライド。\nStore/State、Actionとdispatch、Reducer、Middlewareのそれぞれの役割や動作の流れについて解説している。",
+            "tags": [
+                "JavaScript",
+                "redux",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
