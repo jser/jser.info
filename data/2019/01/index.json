@@ -593,6 +593,19 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-21T14:35:45.621Z",
+            "title": "Callback を撲滅せよ - Yahoo! JAPAN Tech Blog",
+            "url": "https://techblog.yahoo.co.jp/javascript/nodejs/callback-to-promise/",
+            "content": "コールバックスタイルの非同期コードをPromiseのインターフェースに変更する際のスタイルについて。",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "Promises",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
