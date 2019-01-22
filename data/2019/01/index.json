@@ -606,6 +606,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-22T01:45:28.401Z",
+            "title": "7.3.0 Released: Named capturing groups, private instance accessors and smart pipelines · Babel",
+            "url": "https://babeljs.io/blog/2019/01/21/7.3.0",
+            "content": "Babel 7.3.0リリース。\n`proposal-private-methods`がgetterをサポート、`proposal-pipeline-operator`で変換に対応、Named capturing groupsの対応など。\nTypeScript Parserがimport typeと`bigint`のサポートなど",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
