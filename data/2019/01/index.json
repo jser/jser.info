@@ -617,6 +617,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-23T01:35:54.012Z",
+            "title": "Announcing TypeScript 3.3 RC | TypeScript",
+            "url": "https://blogs.msdn.microsoft.com/typescript/2019/01/23/announcing-typescript-3-3-rc/",
+            "content": "TypeScript 3.3 RCリリース。\n関数呼び出しにおけるUnion Typesの扱いを改善、`--build --watch`でのインクリメンタルビルドを改善しビルド時間の改善など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
