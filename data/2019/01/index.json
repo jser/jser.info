@@ -628,6 +628,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-23T02:44:42.531Z",
+            "title": "GitLab NPM Registry | GitLab",
+            "url": "https://docs.gitlab.com/ee/user/project/packages/npm_registry.html",
+            "content": "GitLab　Premiumがnpm registryをサポート",
+            "tags": [
+                "npm",
+                "webservice",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "GitLab 11.7 shipped with Releases, Multi-level Child Epics, and NPM Registry | GitLab",
+                    "url": "https://about.gitlab.com/2019/01/22/gitlab-11-7-released/#support-for-private-go-packages-in-subgroups"
+                }
+            ]
         }
     ]
 }
