@@ -645,6 +645,18 @@
                     "url": "https://about.gitlab.com/2019/01/22/gitlab-11-7-released/#support-for-private-go-packages-in-subgroups"
                 }
             ]
+        },
+        {
+            "date": "2019-01-23T07:53:40.014Z",
+            "title": "What's New In DevTools (Chrome 73)  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2019/01/devtools",
+            "content": "Chrome 73のDevToolsの更新点について。\nLogpointsの追加、コードカバレッジをJSONとして出力できるように、コンソールパネルでキーボードナビゲーションに対応、Geolocationを設定できるようになるなど。\nまたWebSocketsの\"Frames\"を\"Messages\"にリネームなど",
+            "tags": [
+                "Chrome",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
