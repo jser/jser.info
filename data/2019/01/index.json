@@ -657,6 +657,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-24T03:09:11.900Z",
+            "title": "Release v4.0.0 · karma-runner/karma",
+            "url": "https://github.com/karma-runner/karma/releases/tag/v4.0.0",
+            "content": "Karma v4.0.0リリース。\nコードベースでネイティブのasync/awaitを利用するために、Node 6のサポートを終了など",
+            "tags": [
+                "node.js",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
