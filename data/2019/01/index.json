@@ -669,6 +669,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-24T03:13:47.732Z",
+            "title": "Release v1.0.0 · redux-saga/redux-saga",
+            "url": "https://github.com/redux-saga/redux-saga/releases/tag/v1.0.0",
+            "content": "redux-saga v1.0.0リリース。\n破壊的な変更としてDeprecatedなAPIを削除、APIのデフォルト値の変更やオプションの変更など。\nまた、`babel-plugin-redux-saga`でスタックトレースの改善や不適切な使い方に対する警告表示の追加など",
+            "tags": [
+                "redux",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
