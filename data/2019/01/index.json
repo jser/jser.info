@@ -681,6 +681,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-25T14:06:21.719Z",
+            "title": "Release Notes for Safari Technology Preview 74 | WebKit",
+            "url": "https://webkit.org/blog/8566/release-notes-for-safari-technology-preview-74/",
+            "content": "Safari Technology Preview 74リリース。\nFetch APIでabortするための`AbortController`のサポート、Visual Viewport APIの有効化、U2F HID Authenticationのサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
