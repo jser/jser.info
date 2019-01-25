@@ -692,6 +692,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-25T14:13:21.439Z",
+            "title": "Yarn's Future - v2 and beyond · Issue #6953 · yarnpkg/yarn",
+            "url": "https://github.com/yarnpkg/yarn/issues/6953",
+            "content": "Yarn 2.0のロードマップについて。\nlockファイルのフォーマット変更、PnPのデフォルト化、コードベースをTypeScriptでの書き直し、プラグインのサポート、ワークスペース対応の改善、`yarn constraints`の追加など",
+            "tags": [
+                "yarn",
+                "issue",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
