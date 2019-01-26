@@ -706,10 +706,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-01-26T01:29:02.508Z",
+            "date": "2019-01-26T01:30:58.087Z",
             "title": "Node v11.8.0 (Current) | Node.js",
             "url": "https://nodejs.org/en/blog/release/v11.8.0/",
-            "content": "Node.js 11.8.0リリース。\nSubresource IntegrityのようなPolicy機能が試験的に実装、node-reportモジュールを本体に取り込み`process.report`を統合など",
+            "content": "Node.js 11.8.0リリース。\nSubresource IntegrityのようなPolicy機能が試験的に実装、node-reportモジュールを本体に取り込み`process.report`を試験的に実装など",
             "tags": [
                 "node.js",
                 "ReleaseNote"
