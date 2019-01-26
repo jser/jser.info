@@ -728,6 +728,18 @@
                     "url": "https://github.com/nodejs/node-report"
                 }
             ]
+        },
+        {
+            "date": "2019-01-26T07:49:08.789Z",
+            "title": "Jest 24: 💅 Refreshing, Polished, TypeScript-friendly · Jest",
+            "url": "https://jestjs.io/blog/2019/01/25/jest-24-refreshing-polished-typescript-friendly",
+            "content": "Jest 24リリース。\n`@babel/preset-typescript`を使ってTypeScriptをサポート、`test.todo`の追加、エラー表示の改善など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
