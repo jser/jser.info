@@ -754,6 +754,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-27T13:52:31.623Z",
+            "title": "lernaでのmonorepoにおけるリリースフロー(Fixed/Independent) | Web Scratch",
+            "url": "https://efcl.info/2019/01/26/monorepo-release-flow/",
+            "content": "lernaを使ったmonorepoにおけるパッケージのリリースフローについて。\nlernaのmode(Fixed/Independent)のち外、monorepoでのpublishまでの流れ、Yarn Workspacesなどの利用についてなど",
+            "tags": [
+                "JavaScript",
+                "monorepo",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
