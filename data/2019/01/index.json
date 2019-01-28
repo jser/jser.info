@@ -778,6 +778,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-28T14:10:32.764Z",
+            "title": "LiquidPlayer/LiquidCore: Node.js virtual machine for Android and iOS",
+            "url": "https://github.com/LiquidPlayer/LiquidCore",
+            "content": "AndroidとiOSアプリでNode.jsライムタイムを動かすライブラリ。\niOS向けにはV82JSC(JavaScript Core)のレイヤーを実装している",
+            "tags": [
+                "node.js",
+                "ios",
+                "Android",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "LiquidCore/LiquidCoreiOS/LiquidCore/node-8.9.3 at master · LiquidPlayer/LiquidCore",
+                    "url": "https://github.com/LiquidPlayer/LiquidCore/tree/master/LiquidCoreiOS/LiquidCore/node-8.9.3"
+                }
+            ]
         }
     ]
 }
