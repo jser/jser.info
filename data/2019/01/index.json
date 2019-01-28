@@ -798,7 +798,7 @@
             ]
         },
         {
-            "date": "2019-01-28T14:50:54.590Z",
+            "date": "2019-01-28T14:52:47.065Z",
             "title": "reduxjs/redux-starter-kit: A simple set of tools to make using Redux easier",
             "url": "https://github.com/reduxjs/redux-starter-kit",
             "content": "Redux上に作られたフレームワーク。\nboilerplate codeを減らし、Reduxにおける一般的なユースケースをサポートするが目的。\nimmerを組み込んだReducerやActionの作成、selectorのサポートなど。",
@@ -807,7 +807,12 @@
                 "JavaScript",
                 "library"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Discussion: Roadmap to 1.0 · Issue #82 · reduxjs/redux-starter-kit",
+                    "url": "https://github.com/reduxjs/redux-starter-kit/issues/82#issuecomment-456261368"
+                }
+            ]
         }
     ]
 }
