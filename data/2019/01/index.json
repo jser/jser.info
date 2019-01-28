@@ -796,6 +796,18 @@
                     "url": "https://github.com/LiquidPlayer/LiquidCore/tree/master/LiquidCoreiOS/LiquidCore/node-8.9.3"
                 }
             ]
+        },
+        {
+            "date": "2019-01-28T14:50:54.590Z",
+            "title": "reduxjs/redux-starter-kit: A simple set of tools to make using Redux easier",
+            "url": "https://github.com/reduxjs/redux-starter-kit",
+            "content": "Redux上に作られたフレームワーク。\nboilerplate codeを減らし、Reduxにおける一般的なユースケースをサポートするが目的。\nimmerを組み込んだReducerやActionの作成、selectorのサポートなど。",
+            "tags": [
+                "redux",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
