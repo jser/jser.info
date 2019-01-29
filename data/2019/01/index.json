@@ -861,6 +861,18 @@
                     "url": "https://github.com/nuxt/nuxt.js/blob/dev/RELEASE_PLAN.md"
                 }
             ]
+        },
+        {
+            "date": "2019-01-29T01:43:07.677Z",
+            "title": "nuxt.js/RELEASE_PLAN.md at dev · nuxt/nuxt.js",
+            "url": "https://github.com/nuxt/nuxt.js/blob/dev/RELEASE_PLAN.md",
+            "content": "Nuxt.jsのリリース方針について。\nminorは4週ごと、majorは6ヶ月ごと、各majorバージョンにセキュリティアップデートがでなくなりEOLとなるのは1年と2週間後となる。",
+            "tags": [
+                "Vue",
+                "library",
+                "document"
+            ],
+            "relatedLinks": []
         }
     ]
 }
