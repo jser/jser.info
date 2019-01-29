@@ -813,6 +813,19 @@
                     "url": "https://github.com/reduxjs/redux-starter-kit/issues/82#issuecomment-456261368"
                 }
             ]
+        },
+        {
+            "date": "2019-01-29T01:25:29.209Z",
+            "title": "ericclemmons/polydev: Faster, route-centric development for Node.js apps with built-in Hot Module Replacement.",
+            "url": "https://github.com/ericclemmons/polydev",
+            "content": "Next.jsのようなディレクトリとルーティングの対応構造をもつNode.jsフレームワーク。\nリクエストがくるまで必要ないPartは読み込まない、HMRに対応してファイルの変更をすぐに反映するなどイテレーションのしやすさを目的に作られている",
+            "tags": [
+                "node.js",
+                "library",
+                "Development",
+                "yarn"
+            ],
+            "relatedLinks": []
         }
     ]
 }
