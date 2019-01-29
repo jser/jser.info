@@ -826,6 +826,19 @@
                 "yarn"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-29T01:32:07.518Z",
+            "title": "egoist/import-http: Import modules from URL instead of local node_modules",
+            "url": "https://github.com/egoist/import-http",
+            "content": "ブラウザやdenoのようにmoduleを`import m from \"https://\"`のように指定するためのwebpack, rollupプラグイン。\nモジュールのダウンロード、キャッシュ、import先の書き換えを行う。",
+            "tags": [
+                "webpack",
+                "JavaScript",
+                "plugin",
+                "module"
+            ],
+            "relatedLinks": []
         }
     ]
 }
