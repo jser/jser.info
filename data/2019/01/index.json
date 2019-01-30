@@ -997,6 +997,18 @@
                     "url": "https://github.com/tc39/proposals/blob/master/finished-proposals.md"
                 }
             ]
+        },
+        {
+            "date": "2019-01-30T12:24:52.672Z",
+            "title": "ungap",
+            "url": "https://ungap.github.io/",
+            "content": "ECMAScriptやDOM APIに関するES5互換なPolyfillをまとめるプロジェクト。\nそれぞれのpolyfillがモジュールとして利用でき、1つのOrganizationとして管理するのが目的",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
