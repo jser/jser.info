@@ -922,6 +922,24 @@
                     "url": "https://www.fxsitecompat.com/ja/versions/65/"
                 }
             ]
+        },
+        {
+            "date": "2019-01-30T02:41:26.560Z",
+            "title": "Release v2.0.0 · facebook/relay",
+            "url": "https://github.com/facebook/relay/releases/tag/v2.0.0",
+            "content": "GraphQL + ReactライブラリのRepay v2.0.0リリース。\nReactの新しいContext APIに対応、依存の更新、`replay-compiler`がPersisted Queriesのサポートなど",
+            "tags": [
+                "GraphQL",
+                "React",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Persisted Queries · Relay",
+                    "url": "https://facebook.github.io/relay/docs/en/persisted-queries.html"
+                }
+            ]
         }
     ]
 }
