@@ -980,6 +980,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-30T11:26:20.333Z",
+            "title": "ECMAScript 2019: the final feature set",
+            "url": "http://2ality.com/2018/02/ecmascript-2019.html",
+            "content": "ECMAScript 2019の入る機能が1月のTC39ミーティングで最終決定された。",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "proposals/finished-proposals.md at master · tc39/proposals",
+                    "url": "https://github.com/tc39/proposals/blob/master/finished-proposals.md"
+                }
+            ]
         }
     ]
 }
