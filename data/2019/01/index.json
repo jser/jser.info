@@ -902,6 +902,22 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-01-30T02:26:43.191Z",
+            "title": "Firefox 65.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/65.0/releasenotes/",
+            "content": "Firefox 65.0リリース。\nCSS `env()`のサポート、`Intl.RelativeTimeFormat`/`globalThis`の実装、Storage Access API/Readable Streamsをデフォルトで有効化。\nWebSocketsのHTTP/2対応、WebP画像のサポートなど",
+            "tags": [
+                "firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 65 for developers | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/65"
+                }
+            ]
         }
     ]
 }
