@@ -944,6 +944,30 @@
                     "url": "https://facebook.github.io/relay/docs/en/persisted-queries.html"
                 }
             ]
+        },
+        {
+            "date": "2019-01-30T05:53:50.299Z",
+            "title": "New in Chrome 72  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2019/01/nic72",
+            "content": "Chrome 72リリース。\nPublic class fields、User Activation API、`Intl.format`のサポートなど。\nまたHPKPの削除、TLS 1.0と1.1を非推奨化など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chromium Blog: Chrome 72 Beta: Public class fields, user activation and more",
+                    "url": "https://blog.chromium.org/2018/12/chrome-72-beta-public-class-fields-user.html"
+                },
+                {
+                    "title": "Chrome Platform Status",
+                    "url": "https://www.chromestatus.com/features#browsers.chrome.desktop%3D72"
+                },
+                {
+                    "title": "Deprecations and removals in Chrome 72  |  Web  |  Google Developers",
+                    "url": "https://developers.google.com/web/updates/2018/12/chrome-72-deps-rems"
+                }
+            ]
         }
     ]
 }
