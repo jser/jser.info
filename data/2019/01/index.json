@@ -968,6 +968,18 @@
                     "url": "https://developers.google.com/web/updates/2018/12/chrome-72-deps-rems"
                 }
             ]
+        },
+        {
+            "date": "2019-01-30T06:41:08.603Z",
+            "title": "Code-splitting for libraries—bundling for npm with Rollup 1.0",
+            "url": "https://levelup.gitconnected.com/code-splitting-for-libraries-bundling-for-npm-with-rollup-1-0-2522c7437697",
+            "content": "Rollupを使ってどのようにライブラリをbundleするかやnpmに公開するかについて。\numd、esm、cjs形式での配布について",
+            "tags": [
+                "JavaScript",
+                "npm",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
