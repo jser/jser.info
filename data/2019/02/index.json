@@ -31,6 +31,19 @@
                     "url": "https://qiita.com/vvakame/items/dadc91f0be6fc00085ae"
                 }
             ]
+        },
+        {
+            "date": "2019-02-02T06:31:49.034Z",
+            "title": "Type Safe JavaScript with JSDoc – TruckJS – Medium",
+            "url": "https://medium.com/@trukrs/type-safe-javascript-with-jsdoc-7a2a63209b76",
+            "content": "JSDocと`jsconfig.json`での型チェックについて。\n`tsc`の`checkJS`機能を使ってJavaScriptのままJSDocの型チェック行う話",
+            "tags": [
+                "JavaScript",
+                "JSDoc",
+                "TypeScript",
+                "VSCode"
+            ],
+            "relatedLinks": []
         }
     ]
 }
