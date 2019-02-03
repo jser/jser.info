@@ -44,6 +44,27 @@
                 "VSCode"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-03T04:41:31.810Z",
+            "title": "[ES2019] ECMAScript proposal updates @ 2019-01 | ECMAScript Daily",
+            "url": "https://ecmascript-daily.github.io/ecmascript/2019/02/03/ecmascript-proposal-updates",
+            "content": "2019年1月のTC39ミーティングでのECMAScript Proposalの更新まとめ。\n今回のミーティングまでにStage 4となったものがES2019となる。",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "proposals/finished-proposals.md at master · tc39/proposals",
+                    "url": "https://github.com/tc39/proposals/blob/master/finished-proposals.md"
+                },
+                {
+                    "title": "ECMAScript 2019: the final feature set",
+                    "url": "http://2ality.com/2018/02/ecmascript-2019.html"
+                }
+            ]
         }
     ]
 }
