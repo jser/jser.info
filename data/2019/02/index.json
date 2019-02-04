@@ -89,10 +89,10 @@
             ]
         },
         {
-            "date": "2019-02-04T13:18:02.325Z",
+            "date": "2019-02-04T13:19:17.563Z",
             "title": "Severe Security Vulnerability in Bower’s Zip Archive Extraction | Snyk",
             "url": "https://snyk.io/blog/severe-security-vulnerability-in-bowers-zip-archive-extraction/",
-            "content": "Bowerのzip/tarの解凍処理に脆弱性があり修正バージョンとしてBower 8.8がリリースされた。",
+            "content": "Bowerのzip/tarの解凍処理に脆弱性があり修正バージョンとしてBower 1.8.8がリリースされた。",
             "tags": [
                 "JavaScript",
                 "security",
