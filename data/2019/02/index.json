@@ -87,6 +87,24 @@
                     "url": "https://medium.com/@voluntas/webrtc-over-quic-d65425230ef"
                 }
             ]
+        },
+        {
+            "date": "2019-02-04T13:18:02.325Z",
+            "title": "Severe Security Vulnerability in Bower’s Zip Archive Extraction | Snyk",
+            "url": "https://snyk.io/blog/severe-security-vulnerability-in-bowers-zip-archive-extraction/",
+            "content": "Bowerのzip/tarの解凍処理に脆弱性があり修正バージョンとしてBower 8.8がリリースされた。",
+            "tags": [
+                "JavaScript",
+                "security",
+                "article",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v1.8.8 · bower/bower",
+                    "url": "https://github.com/bower/bower/releases/tag/v1.8.8"
+                }
+            ]
         }
     ]
 }
