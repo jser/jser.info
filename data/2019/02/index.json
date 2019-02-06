@@ -142,6 +142,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-06T00:13:40.879Z",
+            "title": "Vue 2.6 released! – The Vue Point – Medium",
+            "url": "https://medium.com/the-vue-point/vue-2-6-released-66aa6c8e785e",
+            "content": "Vue 2.6リリース。\n`v-slot`ディレクティブの追加、Dynamic Directive Argumentsのサポート。\nライフサイクルhookがRejectedなPromiseを返した場合にエラーハンドリングできるように、コンパイルエラー表示の改善。\nまたes module版がパッケージに含まれるように",
+            "tags": [
+                "Vue",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
