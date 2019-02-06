@@ -153,6 +153,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-06T10:09:35.222Z",
+            "title": "React v16.8: The One With Hooks – React Blog",
+            "url": "https://reactjs.org/blog/2019/02/06/react-v16.8.0.html",
+            "content": "React 16.8リリース。\nHooksがデフォルトで有効化された。\nまたHooksのテスト向けに`ReactTestUtils.act()`が追加された。",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
