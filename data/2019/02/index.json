@@ -164,6 +164,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-07T15:36:49.643Z",
+            "title": "New Release: 2.10.0",
+            "url": "https://jshint.com/blog/2019-02-05/release-2-10-0/",
+            "content": "JSHint 2.10.0リリース。\n`esversion`オプションを追加し`7`,`8`,`9`を指定できるように。\nasync functionなどの構文をサポート",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
