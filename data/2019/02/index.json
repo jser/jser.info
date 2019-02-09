@@ -181,6 +181,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-09T09:39:19.913Z",
+            "title": "Making wheel scrolling fast by default  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2019/02/scrolling-intervention",
+            "content": "Chrome 73から`wheel`イベントがデフォルトで`{ passive: true }`となる。",
+            "tags": [
+                "Chrome",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
