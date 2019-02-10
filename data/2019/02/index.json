@@ -213,6 +213,19 @@
                     "url": "https://github.com/WICG/construct-stylesheets"
                 }
             ]
+        },
+        {
+            "date": "2019-02-10T06:42:17.714Z",
+            "title": "Webpack bundle analysis, for every commit",
+            "url": "https://packtracker.io/",
+            "content": "webpackのbundleサイズの分析を行うウェブサービス。\nGitHub Checkに対応してコミットごとのbundleサイズやハッシュの変更によるキャッシュヒットの有無などをビジュアライズできる。\nOSSプロジェクトでは無料で利用できる。",
+            "tags": [
+                "webpack",
+                "webservice",
+                "github",
+                "CI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
