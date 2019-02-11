@@ -305,6 +305,24 @@
                     "url": "https://www.pikapkg.com/blog/introducing-pika-pack/"
                 }
             ]
+        },
+        {
+            "date": "2019-02-11T14:41:40.299Z",
+            "title": "Introducing swc 1.0 · swc",
+            "url": "https://swc-project.github.io/blog/2019/02/08/Introducing-swc-1.0",
+            "content": "Rust製のJavaScript Transpiler/Compilerのswc 1.0リリース。\nECMAScript 2019、JSX、TypeScriptサポートなど",
+            "tags": [
+                "Rust",
+                "bundler",
+                "ReleaseNote",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "swc-project/swc: Super-fast javascript to javascript compiler written in rust",
+                    "url": "https://github.com/swc-project/swc"
+                }
+            ]
         }
     ]
 }
