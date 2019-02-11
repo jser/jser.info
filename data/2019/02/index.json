@@ -288,6 +288,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-11T14:32:46.573Z",
+            "title": "pikapkg/pack: 📦⚡️ npm package building, reimagined. https://www.pikapkg.com/blog/introducing-pika-pack/",
+            "url": "https://github.com/pikapkg/pack",
+            "content": "npmパッケージとして公開向けにNodeやブラウザ、moduleなど様々な種類に向けたビルドを行うbundleツール。\nそれぞれのビルドはプラグインになっており、必要なものをパイプラインに定義してまとめてビルドできる。",
+            "tags": [
+                "npm",
+                "bundler",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Pika | Introducing: @pika/pack",
+                    "url": "https://www.pikapkg.com/blog/introducing-pika-pack/"
+                }
+            ]
         }
     ]
 }
