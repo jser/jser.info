@@ -276,6 +276,18 @@
                     "url": "https://devexpress.github.io/testcafe/blog/migration-from-testcafe-v0-x-y-to-v1-0-0.html"
                 }
             ]
+        },
+        {
+            "date": "2019-02-11T13:42:27.068Z",
+            "title": "Blog - Next.js 8 | Next.js",
+            "url": "https://nextjs.org/blog/next-8",
+            "content": "Next.js 8リリース。\nServerlessモードの追加、ビルド時のメモリ使用量改善、`env`で環境変数を定義できるように、出力するHTMLファイルサイズの改善。\n`<Head>`コンポーネントの重複の解決、`crossOrigin`オプションの追加、CSP対応など",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
