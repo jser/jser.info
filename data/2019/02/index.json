@@ -270,7 +270,12 @@
                 "library",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Migration from TestCafe v0.x.y to v1.0.0 | TestCafe",
+                    "url": "https://devexpress.github.io/testcafe/blog/migration-from-testcafe-v0-x-y-to-v1-0-0.html"
+                }
+            ]
         }
     ]
 }
