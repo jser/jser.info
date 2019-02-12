@@ -323,6 +323,21 @@
                     "url": "https://github.com/swc-project/swc"
                 }
             ]
+        },
+        {
+            "date": "2019-02-12T00:07:15.649Z",
+            "title": "What’s next for SemVer",
+            "url": "https://words.steveklabnik.com/what-s-next-for-semver",
+            "content": "SemVerプロジェクトにnpmやCargoなどのパッケージ管理ツールの人中心のGitHub Teamが作成され、RFCプロセスでの運用が開始されたという話",
+            "tags": [
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "SemVer’s New Maintainers | You’ve Been Haacked",
+                    "url": "https://haacked.com/archive/2019/02/11/semver-collective/"
+                }
+            ]
         }
     ]
 }
