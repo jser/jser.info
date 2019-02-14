@@ -349,6 +349,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-14T23:02:59.321Z",
+            "title": "Release: npm@6.8.0 - 📣 announcements - npm forum",
+            "url": "https://npm.community/t/release-npm-6-8-0/5352",
+            "content": "npm 6.8.0リリース。\nmonorepo対応として`repository`フィールドの`directory`プロパティでのパッケージディレクトリの指定をサポートなど",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
