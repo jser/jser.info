@@ -394,6 +394,20 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-15T21:15:56.917Z",
+            "title": "Trusted Types help prevent Cross-Site Scripting  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2019/02/trusted-types",
+            "content": "Chrome 73でTrusted Typesがフラグ付きで実装され、76までOrigin Trialとして試せる。\nTrustTypesはXSSのsinkとなる部分をポリシーでチェックする。\nポリシーに一致しない場合はエラーに落とすことで回避するAPIと仕組み",
+            "tags": [
+                "Chrome",
+                "XSS",
+                "HTML",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
