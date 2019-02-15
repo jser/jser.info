@@ -383,6 +383,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-15T20:55:30.327Z",
+            "title": "modernserf/zebu: A compiler for little languages in tagged template strings",
+            "url": "https://github.com/modernserf/zebu",
+            "content": "tagged template literalを使いミニ言語を作成するライブラリ。\n構文を定義して、それを扱うtagged funcitonを作成するライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
