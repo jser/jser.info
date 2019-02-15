@@ -360,6 +360,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-15T01:15:05.242Z",
+            "title": "Node v11.10.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v11.10.0/",
+            "content": "Node v11.10.0リリース。\nnpm 6.7.0を同梱するように、`perf_hooks`にhistogramベースのAPIを追加、`tls`モジュールのクライアントに`session`イベントを追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
