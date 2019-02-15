@@ -371,6 +371,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-15T01:47:11.493Z",
+            "title": "Replacing a hot path in your app's JavaScript with WebAssembly  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2019/02/hotpath-with-wasm",
+            "content": "処理速度が重要な部分だけをwasmで書くという話。\nJavaScript、C、AssemblyScript、Rustの比較",
+            "tags": [
+                "WebAssembly",
+                "article",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
