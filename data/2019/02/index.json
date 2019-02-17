@@ -408,6 +408,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-17T12:15:46.129Z",
+            "title": "Release v1.2.0 · rollup/rollup",
+            "url": "https://github.com/rollup/rollup/releases/tag/v1.2.0",
+            "content": "Rollup 1.2.0リリース。\nHoisting時に変数名を衝突しないようにするためのリネームロジックを再実装、configファイルをCJSとしてexportしてもエラーとならないように修正など",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
