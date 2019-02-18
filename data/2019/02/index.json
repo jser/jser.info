@@ -466,6 +466,20 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-18T13:08:39.097Z",
+            "title": "Rendering on the Web  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2019/02/rendering-on-the-web",
+            "content": "CSR(クライアントサイドレンダリング)からSSR(サーバサイドレンダリング)などのウェブサイトのレンダリング手法やそれぞれの利点や欠点などをまとめた記事。\nまたService Workerを前提としたTrisomorphic Renderingについてなど",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "performance",
+                "article",
+                "ServiceWorker"
+            ],
+            "relatedLinks": []
         }
     ]
 }
