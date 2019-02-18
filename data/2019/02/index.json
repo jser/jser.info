@@ -504,6 +504,18 @@
                     "url": "https://www.youtube.com/watch?v=82Aq_ujnBQw"
                 }
             ]
+        },
+        {
+            "date": "2019-02-18T22:47:27.136Z",
+            "title": "Release v6.0.0 · mochajs/mocha",
+            "url": "https://github.com/mochajs/mocha/releases/tag/v6.0.0",
+            "content": "Mocha 6.0.0リリース。\nNode.js 4のサポート終了、非推奨のコマンドラインオプションを削除、`Mocha.unloadFile`の追加、RCファイルでの設定をサポートなど",
+            "tags": [
+                "node.js",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
