@@ -420,6 +420,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-18T08:54:26.350Z",
+            "title": "Constructable Stylesheets: seamless reusable styles  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2019/02/constructable-stylesheets",
+            "content": "Chrome 73で実装されたConstructable Stylesheetsについて。\n共有できるCSSオブジェクトを作成して複数のShadow RootsやDocumentに対して当てられるAPI。",
+            "tags": [
+                "CSS",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
