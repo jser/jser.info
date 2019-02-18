@@ -480,6 +480,30 @@
                 "ServiceWorker"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-18T15:05:55.495Z",
+            "title": "cerebral/overmind: Overmind - Frictionless state management",
+            "url": "https://github.com/cerebral/overmind",
+            "content": "ステート管理ライブラリ。\n副作用をeffectsとして実装し、actionを発行して、Proxyを使ったStateの変更検知してViewの更新を行う。\nReact、Vue、Angularに対応したバインディングと開発者ツールが用意されている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "React",
+                "Vue",
+                "Angular",
+                "TypeScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Overmind - Frictionless state management",
+                    "url": "https://overmindjs.org"
+                },
+                {
+                    "title": "Overmind introduction - YouTube",
+                    "url": "https://www.youtube.com/watch?v=82Aq_ujnBQw"
+                }
+            ]
         }
     ]
 }
