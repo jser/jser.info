@@ -535,6 +535,19 @@
                     "url": "https://github.com/superfly/fly"
                 }
             ]
+        },
+        {
+            "date": "2019-02-19T14:32:13.965Z",
+            "title": "patr0nus/DeskGap: A cross-platform desktop app framework based on Node.js and the system webview",
+            "url": "https://github.com/patr0nus/DeskGap/",
+            "content": "OSのWebViewの仕組みを利用したElectronライクなデスクトップアプリ作成フレームワーク。\nChromiumなどをbundleしないが、Node.jsをbundleしている。\nフレームワーク上では制限されたElectronライクなAPIとNode.jsの機能が利用できる。",
+            "tags": [
+                "node.js",
+                "mac",
+                "windows",
+                "Electron"
+            ],
+            "relatedLinks": []
         }
     ]
 }
