@@ -516,6 +516,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-19T00:23:22.085Z",
+            "title": "Fly · Edge Applications",
+            "url": "https://fly.io/",
+            "content": "Edge ApplicationをJavaScriptで書けるCDNサービス。\nOSSで公開されているfly runtimeを使いLB、Cache、TLS、Networkに関する処理をEdgeで行える。\nService Worker互換のAPIも用意されていて、ローカルでもserverを立ててテストできるようになっている。",
+            "tags": [
+                "JavaScript",
+                "cdn",
+                "webservice",
+                "V8"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Dummy",
+                    "url": "http://example.com/"
+                }
+            ]
         }
     ]
 }
