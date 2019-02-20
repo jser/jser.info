@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0935d80d-d7aa-4beb-90e0-8beac3b40697" name="Default" comment="fix(gitter): 小数点になっている問題を修正" />
+    <ignored path="JSer.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="328465206">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="134" />
+          <entry key="txt" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="134" />
+          <entry key="PLAIN_TEXT" value="35" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JSer" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tools/gitter/post-to-gitter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>auto_format_md</find>
+      <find>require</find>
+      <find>date</find>
+      <find>content</find>
+      <find>getJSONFileInDir</find>
+      <find>lintJSON</find>
+      <find>jsonPointers</find>
+      <find>git</find>
+      <find>void</find>
+      <find>hook</find>
+      <find>escape_md</find>
+      <find>airb</find>
+      <find>url</find>
+      <find>{{url}}</find>
+      <find>webpack</find>
+      <find>AngularJS</find>
+      <find>logger.</find>
+      <find>logger</find>
+      <find>\b</find>
+      <find>redis</find>
+      <find>textlint</find>
+      <find>超速</find>
+      <find>printResult</find>
+      <find>typescr</find>
+      <find>react</find>
+      <find>get-stat</find>
+      <find>lib</find>
+      <find>markdown-to-ast&quot;</find>
+      <find>markdown-to-ast</find>
+      <find>proof</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>{{{url}}}</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/data/2017</dir>
+      <dir>$PROJECT_DIR$/data</dir>
+      <dir>$PROJECT_DIR$/tools</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="gh-pages" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data/2016/11/index.json" />
+        <option value="$PROJECT_DIR$/data/2016/12/index.json" />
+        <option value="$PROJECT_DIR$/tools/converter/lib/get-all-json.js" />
+        <option value="$PROJECT_DIR$/tools/converter/all_in_one_JSON.js" />
+        <option value="$PROJECT_DIR$/tools/converter/json-to-csv.js" />
+        <option value="$PROJECT_DIR$/tools/converter/linkCounter.js" />
+        <option value="$PROJECT_DIR$/tools/refactor/get-items.js" />
+        <option value="$PROJECT_DIR$/tools/refactor/get-all-item-file-path.js" />
+        <option value="$PROJECT_DIR$/data/2017/01/index.json" />
+        <option value="$PROJECT_DIR$/tools/update-blog-draft.sh" />
+        <option value="$PROJECT_DIR$/node_modules/jser-classifier-item-category/src/classifier-item-category.js" />
+        <option value="$PROJECT_DIR$/node_modules/jser-classifier-item-category/lib/classifier-item-category.js" />
+        <option value="$PROJECT_DIR$/tools/jser.github.io/create-template.js" />
+        <option value="$PROJECT_DIR$/tools/jser.github.io/rm-draft.js" />
+        <option value="$PROJECT_DIR$/tools/jser.github.io/generate-next-draft.js" />
+        <option value="$PROJECT_DIR$/tools/jser.github.io/get-next-week-number.js" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/tools/jser.github.io/build-template.js" />
+        <option value="$PROJECT_DIR$/tools/jser.github.io/template.handlebars" />
+        <option value="$PROJECT_DIR$/tools/jser.github.io/create-content.js" />
+        <option value="$PROJECT_DIR$/tools/jser.github.io/bin/generate-next-draft.js" />
+        <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/tools/update-source-data.sh" />
+        <option value="$PROJECT_DIR$/tools/update-realtime.sh" />
+        <option value="$PROJECT_DIR$/tests/json-schema.json" />
+        <option value="$PROJECT_DIR$/tests/validate-json.js" />
+        <option value="$PROJECT_DIR$/data/2017/02/index.json" />
+        <option value="$PROJECT_DIR$/tools/update-next-draft.sh" />
+        <option value="$PROJECT_DIR$/data/2017/03/index.json" />
+        <option value="$PROJECT_DIR$/tools/jser.github.io/lib/build-template.js" />
+        <option value="$PROJECT_DIR$/data/2017/04/index (azu の MacBook Air の競合コピー 2017-04-29).json" />
+        <option value="$PROJECT_DIR$/data/2017/04/index.json" />
+        <option value="$PROJECT_DIR$/tools/jser.github.io/lib/template.handlebars" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/tools/pre-git-sync.sh" />
+        <option value="$PROJECT_DIR$/data/2017/06/index.json" />
+        <option value="$PROJECT_DIR$/tools/refactor/rename-tag.js" />
+        <option value="$PROJECT_DIR$/tools/jser.github.io/lib/create-content.js" />
+        <option value="$PROJECT_DIR$/data/2017/08/index.json" />
+        <option value="$PROJECT_DIR$/tests/check-json-by-textlint.js" />
+        <option value="$PROJECT_DIR$/data/2017/09/index.json" />
+        <option value="$PROJECT_DIR$/tools/git-sync.sh" />
+        <option value="$PROJECT_DIR$/data/2017/11/index.json" />
+        <option value="$PROJECT_DIR$/tests/lint-text-content.js" />
+        <option value="$PROJECT_DIR$/data/2018/03/index.json" />
+        <option value="$PROJECT_DIR$/data/2018/04/index.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/tests/.textlintrc" />
+        <option value="$PROJECT_DIR$/tools/gitter/check-updatable.js" />
+        <option value="$PROJECT_DIR$/tools/gitter/post-to-gitter.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-22" />
+    <option name="width" value="1440" />
+    <option name="height" value="895" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JSer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSer" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSer" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSer" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="2018" type="462c0819:PsiDirectoryNode" />
+              <item name="06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSer" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSer" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSer" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="gitter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSer" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="refactor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="NBKnowledgePane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Cate&#9;FILE&#9;file:///Users/azu/Dropbox/Public/JSer/node_modules/jser-classifier-item-category/lib/classifier-item-category.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/tools/jser.github.io/lib/create-content.js" />
+    <property name="javascript.nodejs.core.library.configured.version" value="7.2.0" />
+    <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nodebrew/current/bin/node" />
+    <property name="js.eslint.eslintPackage" value="$USER_HOME$/.nodebrew/current/lib/node_modules/eslint" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="last.edited.regexp" value="'" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="$USER_HOME$/.nodebrew/node/v9.2.1/lib/node_modules/prettier" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nodebrew/current/bin/node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tools" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tools/jser.github.io/lib" />
+      <recent name="$PROJECT_DIR$/tools/jser.github.io/bin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.post-to-gitter.js">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSer/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="create-template.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/tools/jser.github.io/lib/create-content.js" working-dir="$PROJECT_DIR$/tools/jser.github.io">
+      <method v="2" />
+    </configuration>
+    <configuration name="post-to-gitter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="post-to-gitter.js" working-dir="$PROJECT_DIR$/tools/gitter">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test:invalid" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test:invalid" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.create-template.js" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="npm.test:invalid" />
+      <item itemvalue="npm.test" />
+      <item itemvalue="Node.js.post-to-gitter.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.post-to-gitter.js" />
+        <item itemvalue="npm.test" />
+        <item itemvalue="npm.test:invalid" />
+        <item itemvalue="Node.js.create-template.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0935d80d-d7aa-4beb-90e0-8beac3b40697" name="Default" comment="" />
+      <created>1465210355926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1465210355926</updated>
+      <workItem from="1465210357766" duration="2122000" />
+      <workItem from="1467264663074" duration="270000" />
+      <workItem from="1469020310370" duration="472000" />
+      <workItem from="1469106698871" duration="153000" />
+      <workItem from="1469107135225" duration="158000" />
+      <workItem from="1470057106823" duration="494000" />
+      <workItem from="1470661083759" duration="1907000" />
+      <workItem from="1472987813592" duration="835000" />
+      <workItem from="1476107108206" duration="1816000" />
+      <workItem from="1476323613575" duration="27000" />
+      <workItem from="1476600096865" duration="608000" />
+      <workItem from="1476715154403" duration="689000" />
+      <workItem from="1479632361289" duration="151000" />
+      <workItem from="1480344216165" duration="218000" />
+      <workItem from="1480986710299" duration="1572000" />
+      <workItem from="1481208427466" duration="37000" />
+      <workItem from="1482482540853" duration="3846000" />
+      <workItem from="1483512568167" duration="94000" />
+      <workItem from="1483513091954" duration="1826000" />
+      <workItem from="1484142899309" duration="1109000" />
+      <workItem from="1485007567824" duration="664000" />
+      <workItem from="1485339959172" duration="1478000" />
+      <workItem from="1485341796400" duration="952000" />
+      <workItem from="1485396299179" duration="12335000" />
+      <workItem from="1485579910148" duration="146000" />
+      <workItem from="1485580229260" duration="1591000" />
+      <workItem from="1485688616929" duration="1727000" />
+      <workItem from="1485785365402" duration="582000" />
+      <workItem from="1485787892118" duration="551000" />
+      <workItem from="1485823268963" duration="599000" />
+      <workItem from="1485852010392" duration="56000" />
+      <workItem from="1486049814671" duration="190000" />
+      <workItem from="1486051015260" duration="3000" />
+      <workItem from="1486051327850" duration="655000" />
+      <workItem from="1486204398008" duration="1232000" />
+      <workItem from="1486275830323" duration="85000" />
+      <workItem from="1486276403183" duration="1842000" />
+      <workItem from="1487412983116" duration="3228000" />
+      <workItem from="1487956265065" duration="659000" />
+      <workItem from="1488020264238" duration="2777000" />
+      <workItem from="1488156302539" duration="548000" />
+      <workItem from="1488814654214" duration="935000" />
+      <workItem from="1489412796359" duration="1108000" />
+      <workItem from="1489451528663" duration="1382000" />
+      <workItem from="1489589609047" duration="714000" />
+      <workItem from="1490611035038" duration="799000" />
+      <workItem from="1493631012947" duration="968000" />
+      <workItem from="1494461955331" duration="1189000" />
+      <workItem from="1495495083314" duration="1078000" />
+      <workItem from="1496658318767" duration="757000" />
+      <workItem from="1497244871675" duration="180000" />
+      <workItem from="1497506889372" duration="108000" />
+      <workItem from="1497507038753" duration="1060000" />
+      <workItem from="1498199818814" duration="77000" />
+      <workItem from="1498396371533" duration="244000" />
+      <workItem from="1499001133578" duration="6000" />
+      <workItem from="1499769336086" duration="459000" />
+      <workItem from="1502934176708" duration="3140000" />
+      <workItem from="1504573490379" duration="3046000" />
+      <workItem from="1504781775451" duration="187000" />
+      <workItem from="1511088481254" duration="213000" />
+      <workItem from="1520991134500" duration="543000" />
+      <workItem from="1521345864970" duration="805000" />
+      <workItem from="1521347415803" duration="1145000" />
+      <workItem from="1522561158556" duration="1556000" />
+      <workItem from="1523287459548" duration="621000" />
+      <workItem from="1525655700372" duration="203000" />
+      <workItem from="1529152179477" duration="1213000" />
+      <workItem from="1536026088925" duration="768000" />
+      <workItem from="1537346929189" duration="3395000" />
+    </task>
+    <task id="LOCAL-00023" summary="rm draft files">
+      <created>1485580020881</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1485580020881</updated>
+    </task>
+    <task id="LOCAL-00024" summary="use currentItems">
+      <created>1485580467834</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1485580467834</updated>
+    </task>
+    <task id="LOCAL-00025" summary="fix: fix jser.github.io command">
+      <created>1485689000998</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1485689000998</updated>
+    </task>
+    <task id="LOCAL-00026" summary="use  --all">
+      <created>1485689708283</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1485689708283</updated>
+    </task>
+    <task id="LOCAL-00027" summary="fix(template): fix template">
+      <created>1485788180344</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1485788180345</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add PR URL">
+      <created>1486049921194</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1486049921194</updated>
+    </task>
+    <task id="LOCAL-00029" summary="chore: remove detect changes">
+      <created>1486051383346</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1486051383346</updated>
+    </task>
+    <task id="LOCAL-00030" summary="fix weekNumber">
+      <created>1486204427922</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1486204427922</updated>
+    </task>
+    <task id="LOCAL-00031" summary="update deps">
+      <created>1486275865329</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1486275865329</updated>
+    </task>
+    <task id="LOCAL-00032" summary="fix escape md title issue&#10;&#10;close https://github.com/jser/jser.github.io/issues/272">
+      <created>1486276971520</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1486276971520</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fix(jser.github.io): filter by *draft.md">
+      <created>1487413486135</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1487413486136</updated>
+    </task>
+    <task id="LOCAL-00034" summary="add `--no-edit`">
+      <created>1487413799044</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1487413799044</updated>
+    </task>
+    <task id="LOCAL-00035" summary="pull from develop">
+      <created>1487414369992</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1487414369992</updated>
+    </task>
+    <task id="LOCAL-00036" summary="fix(jser.github.io): fix clone">
+      <created>1487417187398</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1487417187398</updated>
+    </task>
+    <task id="LOCAL-00037" summary="fix checkout option">
+      <created>1487956325809</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1487956325809</updated>
+    </task>
+    <task id="LOCAL-00038" summary="perf(json): use ajv for validating json schema">
+      <created>1488022462069</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1488022462069</updated>
+    </task>
+    <task id="LOCAL-00039" summary="fix git-ls">
+      <created>1488156378776</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1488156378776</updated>
+    </task>
+    <task id="LOCAL-00040" summary="fix gi-ls">
+      <created>1488156803848</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1488156803848</updated>
+    </task>
+    <task id="LOCAL-00041" summary="add --all">
+      <created>1488814679980</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1488814679980</updated>
+    </task>
+    <task id="LOCAL-00042" summary="add --all">
+      <created>1488814800554</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1488814800554</updated>
+    </task>
+    <task id="LOCAL-00043" summary="sort&#10;">
+      <created>1488814852737</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1488814852737</updated>
+    </task>
+    <task id="LOCAL-00044" summary="add tag">
+      <created>1488848960011</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1488848960011</updated>
+    </task>
+    <task id="LOCAL-00045" summary="add ライブラリ">
+      <created>1488849009086</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1488849009086</updated>
+    </task>
+    <task id="LOCAL-00046" summary="fix json">
+      <created>1489413224554</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1489413224554</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Add json">
+      <created>1489451562634</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1489451562634</updated>
+    </task>
+    <task id="LOCAL-00048" summary="fix(template): escape title attributes">
+      <created>1490611130310</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1490611130310</updated>
+    </task>
+    <task id="LOCAL-00049" summary="fix(template): add space">
+      <created>1490611231772</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1490611231772</updated>
+    </task>
+    <task id="LOCAL-00050" summary="fix json">
+      <created>1493631208841</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1493631208842</updated>
+    </task>
+    <task id="LOCAL-00051" summary="fix json">
+      <created>1493631494539</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1493631494539</updated>
+    </task>
+    <task id="LOCAL-00052" summary="reindent">
+      <created>1493631504827</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1493631504827</updated>
+    </task>
+    <task id="LOCAL-00053" summary="use {{{url}}} insteadof {{url}}&#10;&#10;https://github.com/jser/jser.github.io/pull/398">
+      <created>1495495287384</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1495495287387</updated>
+    </task>
+    <task id="LOCAL-00054" summary="fix">
+      <created>1496658473210</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1496658473225</updated>
+    </task>
+    <task id="LOCAL-00055" summary="add pre-git-sync">
+      <created>1497507139271</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1497507139272</updated>
+    </task>
+    <task id="LOCAL-00056" summary="add pre-git-sync">
+      <created>1497507149096</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1497507149097</updated>
+    </task>
+    <task id="LOCAL-00057" summary="fix emoji">
+      <created>1498199887828</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1498199887829</updated>
+    </task>
+    <task id="LOCAL-00058" summary="rename: AngularJS -&gt; Angular">
+      <created>1498396603884</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1498396603884</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Merge commit '14727942' into gh-pages">
+      <created>1502969687642</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1502969687643</updated>
+    </task>
+    <task id="LOCAL-00060" summary="fix json">
+      <created>1502969695818</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1502969695818</updated>
+    </task>
+    <task id="LOCAL-00061" summary="fix word">
+      <created>1504573508838</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1504573508839</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Add all file to stage before check dirty diff&#10;fix #95">
+      <created>1504659474953</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1504659474953</updated>
+    </task>
+    <task id="LOCAL-00063" summary="use proofdict insteadof spellcheck-tech-word">
+      <created>1504660686268</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1504660686268</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Add index">
+      <created>1504781916193</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1504781916193</updated>
+    </task>
+    <task id="LOCAL-00065" summary="fix">
+      <created>1511088567627</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1511088567628</updated>
+    </task>
+    <task id="LOCAL-00066" summary="refactor: Normalize item&#10;&#10;Refs: https://github.com/jser/jser.info/pull/100">
+      <created>1520991459223</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1520991459225</updated>
+    </task>
+    <task id="LOCAL-00067" summary="fix: update proofdict">
+      <created>1521347587955</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1521347587956</updated>
+    </task>
+    <task id="LOCAL-00068" summary="fix">
+      <created>1522561766661</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1522561766663</updated>
+    </task>
+    <task id="LOCAL-00069" summary="update">
+      <created>1522562117901</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1522562117901</updated>
+    </task>
+    <task id="LOCAL-00070" summary="remove url">
+      <created>1523287479883</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1523287479884</updated>
+    </task>
+    <task id="LOCAL-00071" summary="fix(gitter): 小数点になっている問題を修正">
+      <created>1536026258871</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1536026258871</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78203000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1888654" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" x="21" y="241" width="1238" height="256" id="Run" order="2" weight="0.4852753" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.327787" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32891247" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SvgViewer" order="3" />
+      <window_info anchor="right" id="PlantUML" order="4" />
+      <window_info anchor="right" id="GfmBrowser" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix gi-ls" />
+    <MESSAGE value="add --all" />
+    <MESSAGE value="sort&#10;" />
+    <MESSAGE value="add tag" />
+    <MESSAGE value="add ライブラリ" />
+    <MESSAGE value="Add json" />
+    <MESSAGE value="fix(template): escape title attributes" />
+    <MESSAGE value="fix(template): add space" />
+    <MESSAGE value="reindent" />
+    <MESSAGE value="use {{{url}}} insteadof {{url}}&#10;&#10;https://github.com/jser/jser.github.io/pull/398" />
+    <MESSAGE value="add pre-git-sync" />
+    <MESSAGE value="fix emoji" />
+    <MESSAGE value="rename: AngularJS -&gt; Angular" />
+    <MESSAGE value="Merge commit '14727942' into gh-pages" />
+    <MESSAGE value="fix json" />
+    <MESSAGE value="fix word" />
+    <MESSAGE value="Add all file to stage before check dirty diff&#10;fix #95" />
+    <MESSAGE value="use proofdict insteadof spellcheck-tech-word" />
+    <MESSAGE value="Add index" />
+    <MESSAGE value="refactor: Normalize item&#10;&#10;Refs: https://github.com/jser/jser.info/pull/100" />
+    <MESSAGE value="fix: update proofdict" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="update" />
+    <MESSAGE value="remove url" />
+    <MESSAGE value="fix(gitter): 小数点になっている問題を修正" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix(gitter): 小数点になっている問題を修正" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tools/converter/all_in_one_JSON.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/converter/lib/get-all-json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jser-stat/src/models/JSerItem.js" />
+    <entry file="file://$PROJECT_DIR$/tools/converter/adjust-date-in-month.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jser-stat/src/JSerStat.js" />
+    <entry file="file://$PROJECT_DIR$/tools/converter/linkCounter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/update-source-data.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="22" column="117" selection-start-line="22" selection-start-column="112" selection-end-line="22" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/update-realtime.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="23" column="104" selection-start-line="23" selection-start-column="104" selection-end-line="23" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/validate-json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2017/03/index (azu の MacBook Air の競合コピー 2017-03-12).json" />
+    <entry file="file://$PROJECT_DIR$/data/2017/03/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="588" column="9" selection-start-line="588" selection-start-column="9" selection-end-line="588" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2017/04/index (azu の MacBook Air の競合コピー 2017-04-29).json" />
+    <entry file="file://$PROJECT_DIR$/data/2017/04/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2017/05/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10622" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/jser.github.io/bin/get-next-week-number.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/jser.github.io/bin/rm-draft.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/jser.github.io/bin/generate-next-draft.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app-client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="128" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="70" column="26" lean-forward="true" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/jser.github.io/lib/template.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/jser.github.io/lib/build-template.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/pre-git-sync.sh" />
+    <entry file="file://$PROJECT_DIR$/data/2017/06/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="866" column="1" lean-forward="true" selection-start-line="866" selection-start-column="1" selection-end-line="866" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/refactor/get-all-item-file-path.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/jser.github.io/lib/create-content.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/natural/lib/natural/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="80" column="59" selection-start-line="80" selection-start-column="59" selection-end-line="80" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/7.2.0/core-modules/module.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/natural/lib/natural/brill_pos_tagger/lib/Brill_POS_Tagger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2017/08/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="252" column="68" selection-start-line="252" selection-start-column="68" selection-end-line="252" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/refactor/rename-tag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/json-schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2017/09/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="173" column="35" selection-start-line="173" selection-start-column="30" selection-end-line="173" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/git-sync.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2017/11/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="710" column="9" selection-start-line="710" selection-start-column="9" selection-end-line="710" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/textlint-rule-proofdict/lib/textlint-rule-proofdict.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/textlint-rule-proofdict/lib/create-tester.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/proofdict-tester/lib/proofdict-tester.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/textlint-rule-proofdict/lib/fetch-proofdict.js" />
+    <entry file="file://$PROJECT_DIR$/data/2018/03/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="1069" column="5" lean-forward="true" selection-start-line="1069" selection-start-column="5" selection-end-line="1069" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018/04/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="241" column="34" selection-start-line="241" selection-start-column="34" selection-end-line="241" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/update-next-draft.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="39" lean-forward="true" selection-start-line="23" selection-start-column="104" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018/06/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="758">
+          <caret line="523" column="30" lean-forward="true" selection-start-line="523" selection-start-column="30" selection-end-line="523" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/check-json-by-textlint.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/lint-text-content.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/.textlintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="46" column="35" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/jser.github.io/lib/get-stat.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/gitter/check-updatable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/gitter/post-to-gitter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
