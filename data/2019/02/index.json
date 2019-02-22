@@ -572,6 +572,18 @@
                 "UI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-22T08:14:10.094Z",
+            "title": "Release Version 3.5.0 · knockout/knockout",
+            "url": "https://github.com/knockout/knockout/releases/tag/v3.5.0",
+            "content": "Knockout 3.5.0リリース。\n`foreach`バインディングの挙動の変更とパフォーマンスの改善、`ko.when`がPromiseを返すようになるなど",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
