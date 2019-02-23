@@ -600,6 +600,22 @@
                     "url": "https://github.com/npm/cli/pull/3"
                 }
             ]
+        },
+        {
+            "date": "2019-02-23T07:10:01.994Z",
+            "title": "The npm Blog — Managing JavaScript in the Enterprise",
+            "url": "https://blog.npmjs.org/post/182958759735/managing-javascript-in-the-enterprise",
+            "content": "npm Enterpriseの正式リリース。\nSSO認証の対応やprivate registryのサポートなど",
+            "tags": [
+                "npm",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "npm | Enterprise",
+                    "url": "https://www.npmjs.com/products/enterprise"
+                }
+            ]
         }
     ]
 }
