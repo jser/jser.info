@@ -640,6 +640,18 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-24T10:16:18.226Z",
+            "title": "fagbokforlaget/simple-fs: Handles files on indexeddb like you would do in node.js (promise)",
+            "url": "https://github.com/fagbokforlaget/simple-fs",
+            "content": "IndexedDBを使ったファイルシステムライクなAPIを持ったブラウザ向けライブラリ",
+            "tags": [
+                "browser",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
