@@ -669,6 +669,19 @@
                     "url": "https://github.com/fastify/fastify/releases/tag/v2.0.0"
                 }
             ]
+        },
+        {
+            "date": "2019-02-25T15:27:01.133Z",
+            "title": "AddyOsmani.com - JavaScript Loading Priorities in Chrome",
+            "url": "https://addyosmani.com/blog/script-priorities/",
+            "content": "link rel=preloadとscript要素の defer/async属性を組み合わせ際のLoadingやExecution Priorityについてまとめた記事",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "browser",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
