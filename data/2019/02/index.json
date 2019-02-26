@@ -720,6 +720,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-26T01:51:20.847Z",
+            "title": "Intelligent Tracking Prevention 2.1 | WebKit",
+            "url": "https://webkit.org/blog/8613/intelligent-tracking-prevention-2-1/",
+            "content": "Safari 12.1で導入されるITP 2.1について。\nPartitioned Cookiesのサポート終了、`document.cookie`で作成したクッキーは生存期間が7日間のcapがつくりょうに、DNTの削除など",
+            "tags": [
+                "safari",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
