@@ -732,6 +732,26 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-26T01:55:08.149Z",
+            "title": "yarnpkg/berry: 📦🐈 A modern, fast, reliable, package manager; part of the Yarn organization",
+            "url": "https://github.com/yarnpkg/berry",
+            "content": "yarn v2となるソースコードのリポジトリが公開された。\nv1のリポジトリと分けているのは、issueをハンドリングしやすくするため。\n現在はロードマップに予定した機能はある程度実装された状態で、一部の機能やドキュメントが足りていない状況。",
+            "tags": [
+                "yarn",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Yarn's Future - v2 and beyond · Issue #6953 · yarnpkg/yarn",
+                    "url": "https://github.com/yarnpkg/yarn/issues/6953#issuecomment-466589196"
+                },
+                {
+                    "title": "👑 Say hello to Yarn v2 · Issue #1 · yarnpkg/berry",
+                    "url": "https://github.com/yarnpkg/berry/issues/1"
+                }
+            ]
         }
     ]
 }
