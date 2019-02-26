@@ -682,6 +682,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-26T00:14:58.667Z",
+            "title": "namics/webpack-config-plugins: Provide best practices for webpack loader configurations",
+            "url": "https://github.com/namics/webpack-config-plugins",
+            "content": "webpackのloader設定をまとめたプラグイン。\nBabel、TypeScript、Sass、Font、Imageなどのビルドを行うプラグインが用意されている\n",
+            "tags": [
+                "webpack",
+                "設定"
+            ],
+            "relatedLinks": []
         }
     ]
 }
