@@ -753,6 +753,17 @@
                     "url": "https://github.com/yarnpkg/berry/issues/1"
                 }
             ]
+        },
+        {
+            "date": "2019-02-28T00:50:36.797Z",
+            "title": "dyatko/arkit: Visualises JavaScript, TypeScript and Flow codebases as meaningful and committable architecture diagrams",
+            "url": "https://github.com/dyatko/arkit",
+            "content": "アーキテクチャのダイアグラムをファイルから生成するツール。。\nコードベースのファイルを指定して、その構造をPlant UMLやSVGなどの図に変換してくれるツール",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
