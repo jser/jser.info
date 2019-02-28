@@ -766,6 +766,18 @@
                 "UML"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-02-28T14:16:11.379Z",
+            "title": "February 2019 Security Releases | Node.js",
+            "url": "https://nodejs.org/en/blog/vulnerability/february-2019-security-releases/",
+            "content": "Node.jsのセキュリティ修正リリース。Node.js LTS全部に対して修正がででている。\nkeep-alive系のDoSが2種(どちらもimpactはlow)とOpenSSL脆弱性(Node 10+は影響なし)の修正がされている。",
+            "tags": [
+                "node.js",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
