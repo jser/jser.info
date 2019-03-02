@@ -35,6 +35,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-02T14:44:32.192Z",
+            "title": "Package Diff",
+            "url": "https://diff.intrinsic.com/",
+            "content": "npmパッケージのバージョン同士のDiffを表示できるサービス",
+            "tags": [
+                "npm",
+                "webservice",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing Package Diff (for npm) – intrinsic – Medium",
+                    "url": "https://medium.com/intrinsic/introducing-package-diff-for-npm-e6487cc9b434"
+                }
+            ]
         }
     ]
 }
