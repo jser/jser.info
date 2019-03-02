@@ -11,6 +11,18 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-02T14:12:20.834Z",
+            "title": "Progressive React",
+            "url": "https://houssein.me/progressive-react",
+            "content": "Reactを中心にしたウェブアプリの改善についての話。\nReactレベルとアプリレベルでのパフォーマンスについて。\n`shouldComponentUpdate`での無駄なレンダリングの最小化、バンドルサイズとCode Splitting、キャッシュやSSRによる初期表示の改善、クリティカルパスの最適化などについて",
+            "tags": [
+                "React",
+                "article",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
