@@ -52,6 +52,19 @@
                     "url": "https://medium.com/intrinsic/introducing-package-diff-for-npm-e6487cc9b434"
                 }
             ]
+        },
+        {
+            "date": "2019-03-03T04:28:52.674Z",
+            "title": "pikapkg/web: Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required.",
+            "url": "https://github.com/pikapkg/web",
+            "content": "Rollupを使って既存モジュールをES Modulesに変換するツール。\n変換済みのmoduleはブラウザからES moduleとしてimportできる",
+            "tags": [
+                "JavaScript",
+                "module",
+                "Development",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
