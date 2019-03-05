@@ -89,6 +89,18 @@
                 "UI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-05T12:56:04.653Z",
+            "title": "Release Preact X is here 🎉 · developit/preact",
+            "url": "https://github.com/developit/preact/releases/tag/10.0.0-alpha.0",
+            "content": "Preact X α版リリース。\n`Fragment`、`componentDidCatch`、Hooks、`createContext`、CSS Custom Propertiesに対応など。\nまた`preact-compat`を別パッケージではなく`preact/compat`として同梱するようになるなど",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
