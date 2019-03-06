@@ -132,6 +132,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-06T01:16:56.817Z",
+            "title": "dyatko/arkit: Visualises JavaScript, TypeScript and Flow codebases as meaningful and committable architecture diagrams",
+            "url": "https://github.com/dyatko/arkit",
+            "content": "アーキテクチャのダイアグラムをファイルから生成するツール。 コードベースのファイルを指定して、その構造をPlant UMLやSVGなどの図に変換してくれるツール",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "SVG",
+                "UML"
+            ],
+            "relatedLinks": []
         }
     ]
 }
