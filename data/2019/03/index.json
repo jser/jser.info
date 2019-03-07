@@ -145,6 +145,18 @@
                 "UML"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-07T04:50:56.851Z",
+            "title": "Release 1.0.0 · tensorflow/tfjs",
+            "url": "https://github.com/tensorflow/tfjs/releases/tag/v1.0.0",
+            "content": "TensorFlow.js 1.0リリース。\nパフォーマンスの改善、`Tensor.array()`と `Tensor.arraySync()`の追加など",
+            "tags": [
+                "MachineLearning",
+                "library",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
