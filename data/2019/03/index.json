@@ -238,6 +238,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-10T08:22:05.190Z",
+            "title": "JavaScript loose comparison (==) step by step",
+            "url": "https://felix-kling.de/js-loose-comparison/",
+            "content": "`==`がどのように値を比較するかをECMAScript仕様に定義されているアルゴリズムのステップごとにチェックするツール。",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "spec"
+            ],
+            "relatedLinks": []
         }
     ]
 }
