@@ -215,6 +215,17 @@
                 "PostCSS"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-10T07:54:31.833Z",
+            "title": "Cache-Control for Civilians – CSS Wizardry – CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts",
+            "url": "https://csswizardry.com/2019/03/cache-control-for-civilians/",
+            "content": "`Cache-Control` HTTPヘッダについての解説記事。\n`public`、`private`、`max-age`、`no-store`、`no-cache`、`immutable`、`stale-while-revalidate`などそれぞれの項目の解説。\nまたCache Bustingの手法などについても書かれている",
+            "tags": [
+                "HTTP",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
