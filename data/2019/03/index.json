@@ -180,6 +180,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-10T06:59:24.587Z",
+            "title": "rmdm/rmgr: Release resources gracefully",
+            "url": "https://github.com/rmdm/rmgr",
+            "content": "リソースを管理するライブラリ。\nリソースごとにinitializeとdispose時の処理を定義し、リソースの解放などを行うヘルパーライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
