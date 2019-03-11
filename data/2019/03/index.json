@@ -274,6 +274,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-11T04:28:27.577Z",
+            "title": "jsdom/Changelog.md at master · jsdom/jsdom",
+            "url": "https://github.com/jsdom/jsdom/blob/master/Changelog.md#1400",
+            "content": "JSDOM 14.0.0リリース。\n`JSDOM.fragment()`がbrowsing contextを持たないframentsを作成するように変更、`element.blur()`のリグレッションの修正など",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
