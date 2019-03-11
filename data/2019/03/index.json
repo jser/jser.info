@@ -299,6 +299,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-11T22:50:03.381Z",
+            "title": "vladocar/femtoJS: femtoJS - Really small JavaScript (ES6) library for DOM manipulation.",
+            "url": "https://github.com/vladocar/femtoJS",
+            "content": "一部のjQueryライクなDOM APIを提供するライブラリ。\nES2015+に対応したブラウザのみを対象にしている。",
+            "tags": [
+                "JavaScript",
+                "jQuery",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "vladocar/nanoJS: Minimal standalone JS library for DOM manipulation",
+                    "url": "https://github.com/vladocar/nanoJS"
+                }
+            ]
         }
     ]
 }
