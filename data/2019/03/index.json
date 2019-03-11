@@ -287,6 +287,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-11T22:44:05.433Z",
+            "title": "example",
+            "url": "http://example.com/",
+            "content": "Chrome 74の開発者ツールの変更点について。\nCSS propertyの影響をハイライト、Lighthouse v4へアップデート、WebSocketのバイナリメッセージの表示対応。パフォーマンスパネルでLong taskを記録できるようになるなど。",
+            "tags": [
+                "Chrome",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
