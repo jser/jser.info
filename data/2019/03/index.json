@@ -328,6 +328,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-13T02:46:32.169Z",
+            "title": "New in Chrome 73  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2019/03/nic73",
+            "content": "Chrome 73リリース。\nデスクトップ版でもPWAインストールの対応、Signed HTTP Exchanges、Constructable style sheetsのサポート、`String#matchAll`のサポート。\n`wheel`がデフォルトでPassiveに変更など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chrome Platform Status",
+                    "url": "https://www.chromestatus.com/features#browsers.chrome.desktop%3D73"
+                }
+            ]
         }
     ]
 }
