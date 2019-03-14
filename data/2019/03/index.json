@@ -344,6 +344,18 @@
                     "url": "https://www.chromestatus.com/features#browsers.chrome.desktop%3D73"
                 }
             ]
+        },
+        {
+            "date": "2019-03-14T08:07:09.476Z",
+            "title": "手元のコードのパフォーマンスを計測するperformance.markのスニペット | Web Scratch",
+            "url": "https://efcl.info/2019/03/14/performance-snnipet/",
+            "content": "`performance.mark`を使った特定のコードの処理時間や関連データを記録するスニペットについて。\n記録の計測とデータの収集を分けて行うことについて",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
