@@ -384,6 +384,18 @@
                     "url": "https://github.com/Microsoft/TypeScript/wiki/Roadmap#34-march-2019"
                 }
             ]
+        },
+        {
+            "date": "2019-03-16T05:03:48.056Z",
+            "title": "Node v11.12.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v11.12.0/",
+            "content": "Node.js 11.12.0リリース。\n`Array`などのビルトインオブジェクトをデフォルトでfreezeする`--frozen-intrinsics`フラグを実験的に追加など",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
