@@ -368,6 +368,22 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-16T01:29:24.956Z",
+            "title": "TypeScript | Announcing TypeScript 3.4 RC",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-3-4-rc/",
+            "content": "TypeScript 3.4 RCリリース。\n`--watch`の情報をファイルに保存して、その情報でビルドできる`--incremental`フラグの追加。\n`readonly`修飾子を配列とtupleに対して適応できるように、`const` assertionの追加、高階関数の型推論改善など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Roadmap · Microsoft/TypeScript Wiki",
+                    "url": "https://github.com/Microsoft/TypeScript/wiki/Roadmap#34-march-2019"
+                }
+            ]
         }
     ]
 }
