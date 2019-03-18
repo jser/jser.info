@@ -479,6 +479,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-18T13:01:23.113Z",
+            "title": "Releasing React Native 0.59 · React Native",
+            "url": "https://facebook.github.io/react-native/blog/2019/03/12/releasing-react-native-059",
+            "content": "React Native 0.59リリース。\nHooksの対応、JavaScriptCoreをアップデートし、64 bitサポートなど。一部のコアコンポーネントを外部ライブラリ化など",
+            "tags": [
+                "React",
+                "ios",
+                "andoi",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
