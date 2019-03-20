@@ -514,6 +514,23 @@
                 "Chrome"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-20T02:11:21.819Z",
+            "title": "Release v7.4.0 · babel/babel",
+            "url": "https://github.com/babel/babel/releases/tag/v7.4.0",
+            "content": "Babel v7.4.0リリース。\ncore-js v3にアップデート、Partial application Proposal、Private Static Class Methods Proposalのサポートなど",
+            "tags": [
+                "babel",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 3.0.0 - 2019.03.19 · zloirock/core-js",
+                    "url": "https://github.com/zloirock/core-js/releases/tag/v3.0.0"
+                }
+            ]
         }
     ]
 }
