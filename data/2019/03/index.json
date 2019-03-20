@@ -531,6 +531,28 @@
                     "url": "https://github.com/zloirock/core-js/releases/tag/v3.0.0"
                 }
             ]
+        },
+        {
+            "date": "2019-03-20T03:04:40.645Z",
+            "title": "Release 3.0.0 - 2019.03.19 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.0.0",
+            "content": "core-js 3.0.0リリース。\nECMAScript仕様への追従、Proposalの対応、DropされたProposalなどの機能を削除。\nまたパッケージを3つに分類(core-js,pure,bundle)、LiveScriptをJavaScriptに書き換えなど",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "core-js@3, babel and a look into the future",
+                    "url": "https://github.com/zloirock/core-js/blob/master/docs/2019-03-19-core-js-3-babel-and-a-look-into-the-future.md"
+                },
+                {
+                    "title": "core-js/CHANGELOG.md at master · zloirock/core-js",
+                    "url": "https://github.com/zloirock/core-js/blob/master/CHANGELOG.md#300---20190319"
+                }
+            ]
         }
     ]
 }
