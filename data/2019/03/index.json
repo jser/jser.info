@@ -597,6 +597,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-22T00:22:08.171Z",
+            "title": "Release v2.5.0 · nuxt/nuxt.js",
+            "url": "https://github.com/nuxt/nuxt.js/releases/tag/v2.5.0",
+            "content": "Nuxt.js 2.5.0リリース。\n`nuxt-ts`をインストールしなくてもよくなり、Nuxt.js本体でTypeScriptをサポート。\nBabel 7.4とcore-js 3へのアップデート、`.nuxtignore`のサポートなど。",
+            "tags": [
+                "Vue",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
