@@ -585,6 +585,18 @@
                     "url": "https://developer.mozilla.org/ja/docs/Mozilla/Firefox/Releases/66"
                 }
             ]
+        },
+        {
+            "date": "2019-03-22T00:19:17.903Z",
+            "title": "LLVM 8.0.0 Release Notes — LLVM 8 documentation",
+            "url": "http://releases.llvm.org/8.0.0/docs/ReleaseNotes.html#changes-to-the-webassembly-target",
+            "content": "LLVM 8.0.0リリース。\nWebAssembly Targetが\"experimental\"ではなくなり、デフォルトのTargetとしてサポートされた",
+            "tags": [
+                "LLVM",
+                "WebAssembly",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
