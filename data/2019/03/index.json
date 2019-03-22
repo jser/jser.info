@@ -610,6 +610,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-22T14:57:14.365Z",
+            "title": "q-nick/npm-gui: Graphic tool for managing javascript project dependencies - in a friendly way.",
+            "url": "https://github.com/q-nick/npm-gui",
+            "content": "npmのGUIツール。\n依存のインストール、更新、scriptの実行を行う。\nnpm、yarnなどに対応している",
+            "tags": [
+                "npm",
+                "GUI",
+                "software"
+            ],
+            "relatedLinks": []
         }
     ]
 }
