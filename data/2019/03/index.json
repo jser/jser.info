@@ -634,6 +634,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-23T03:41:17.431Z",
+            "title": "Chromium Blog: Chrome 74 beta: reducing unwanted motion, private class fields, and feature policy API",
+            "url": "https://blog.chromium.org/2019/03/chrome-74-beta-reducing-unwanted-motion.html",
+            "content": "Chrome 74 betaリリース。\nCSS `prefers-reduced-motion: reduce`、private class field、Feature PolicyのJS API、\n`Intl.Locale`のサポート。\n`window.open`をunload中に呼び出せなくなるなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chrome Platform Status",
+                    "url": "https://www.chromestatus.com/features#browsers.chrome.desktop%3D74"
+                }
+            ]
         }
     ]
 }
