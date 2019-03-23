@@ -650,6 +650,17 @@
                     "url": "https://www.chromestatus.com/features#browsers.chrome.desktop%3D74"
                 }
             ]
+        },
+        {
+            "date": "2019-03-23T03:54:15.900Z",
+            "title": "V8 release v7.4 · V8",
+            "url": "https://v8.dev/blog/v8-release-74",
+            "content": "V8 v7.4リリース。\nJIT-lessオプションを追加、WebAssembly Threads、Private class fields、`Intl.Locale`のサポートなど",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
