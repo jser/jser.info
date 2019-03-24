@@ -685,6 +685,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-24T12:20:48.237Z",
+            "title": "tomi/fromfrom: A JS library written in TS to transform sequences of data from format to another",
+            "url": "https://github.com/tomi/fromfrom/",
+            "content": "LINQインスパイアなデータ変換を扱うライブラリ。\nデータ変換処理をメソッドチェーンでパイプライン処理できる。\nIteratorをベースにした実装となっていて、遅延実行ができる。",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Announcing fromfrom - a LINQ inspired library to transform sequences of data in JS. — Futurice",
+                    "url": "https://www.futurice.com/blog/announcing-fromfrom/"
+                }
+            ]
         }
     ]
 }
