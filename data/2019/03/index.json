@@ -702,6 +702,23 @@
                     "url": "https://www.futurice.com/blog/announcing-fromfrom/"
                 }
             ]
+        },
+        {
+            "date": "2019-03-25T23:09:18.335Z",
+            "title": "Release v7.0.0-beta.0 · reduxjs/react-redux",
+            "url": "https://github.com/reduxjs/react-redux/releases/tag/v7.0.0-beta.0",
+            "content": "React-Redux 7βリリース。\n`useRedux()`のHooks APIをサポート、Batched Updatesの対応、`store`をPropsとして渡せる機能をテストのために再実装など",
+            "tags": [
+                "React",
+                "redux",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "React-Redux Roadmap: v6, Context, Subscriptions, and Hooks · Issue #1177 · reduxjs/react-redux",
+                    "url": "https://github.com/reduxjs/react-redux/issues/1177"
+                }
+            ]
         }
     ]
 }
