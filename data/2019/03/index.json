@@ -731,6 +731,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-26T01:33:51.296Z",
+            "title": "React Training: React Router v5",
+            "url": "https://reacttraining.com/blog/react-router-v5/",
+            "content": "React Router 5リリース。\nReact 16との互換性改善、bundle済みファイルを配布するように`<Route path>`が配列を受け取れるように。\nminorアップデートだが、react-router-domとバージョンを合わせるためにmajorアップデートとしてリリースされた。",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v5.0.0 · ReactTraining/react-router",
+                    "url": "https://github.com/ReactTraining/react-router/releases/tag/v5.0.0"
+                }
+            ]
         }
     ]
 }
