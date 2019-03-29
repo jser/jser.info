@@ -788,6 +788,17 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-29T00:08:43.170Z",
+            "title": "Node v11.13.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v11.13.0/",
+            "content": "Node.js 11.13.0リリース。\n`events`モジュールにPromiseを返す`once`を追加、`node-heapdump`モジュールを`v8.heapdump` APIとしてコアに統合。\n`worker.moveMessagePortToContext`の追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
