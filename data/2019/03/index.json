@@ -812,13 +812,13 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-03-30T02:47:56.919Z",
+            "date": "2019-03-30T02:48:18.377Z",
             "title": "Announcing TypeScript 3.4 | TypeScript",
             "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/",
             "content": "TypeScript 3.4リリース。\nビルドの情報をファイルに保存して、次回の起動時にその情報で続けてビルドできる`--incremental`フラグの追加。\nreadonly修飾子を配列とtupleに対して適応できるように、const assertionの追加、高階関数の型推論改善。\n`globalThis`のサポートとTop-level `this`の型のサポートなど",
             "tags": [
                 "TypeScript",
-                "serverless"
+                "ReleaseNote"
             ],
             "relatedLinks": []
         }
