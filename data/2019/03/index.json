@@ -874,6 +874,17 @@
                     "url": "https://cloudabi.org/"
                 }
             ]
+        },
+        {
+            "date": "2019-03-31T06:19:47.267Z",
+            "title": "ilearnio/module-alias: Register aliases of directories and custom module paths in Node",
+            "url": "https://github.com/ilearnio/module-alias",
+            "content": "webpackのaliasのように読み込むモジュールをマッピングで切り替えるNode.jsライブラリ。\n`Module._resolveFilename`を上書きすることで実現している。",
+            "tags": [
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
