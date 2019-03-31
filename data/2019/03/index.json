@@ -821,6 +821,31 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-03-31T03:03:36.677Z",
+            "title": "Expo CLI and SDK web support beta – Exposition",
+            "url": "https://blog.expo.io/expo-cli-and-sdk-web-support-beta-d0c588221375",
+            "content": "Expoがreact-native-webを使ったブラウザサポート。`platforms`に`web`が追加された。\nいくつかのexpoモジュールもweb対応している。",
+            "tags": [
+                "React",
+                "article",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "necolas/react-native-web: React Native for Web",
+                    "url": "https://github.com/necolas/react-native-web"
+                },
+                {
+                    "title": "expo/web-examples: Examples of using Expo in the browser.",
+                    "url": "https://github.com/expo/web-examples"
+                },
+                {
+                    "title": "web-examples/FEATURES.md at master · expo/web-examples",
+                    "url": "https://github.com/expo/web-examples/blob/master/docs/FEATURES.md"
+                }
+            ]
         }
     ]
 }
