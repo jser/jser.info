@@ -23,6 +23,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-01T14:05:03.137Z",
+            "title": "Release v5.0.0 · vuejs/vue-devtools",
+            "url": "https://github.com/vuejs/vue-devtools/releases/tag/v5.0.0",
+            "content": "vue-devtools 5.0.0リリース。\nルーティングタブ、パフォーマンスタブ、設定タブの追加、\npropsやvuexのstateを編集できるようになるなど",
+            "tags": [
+                "Vue",
+                "debug",
+                "Tools",
+                "browser",
+                "Extension"
+            ],
+            "relatedLinks": []
         }
     ]
 }
