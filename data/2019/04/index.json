@@ -85,6 +85,20 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-04T06:24:22.898Z",
+            "title": "jeffijoe/typesync: Install missing TypeScript typings for dependencies in your package.json.",
+            "url": "https://github.com/jeffijoe/typesync",
+            "content": "`package.json`から関連する@typesのパッケージをインストールしてくれるツール",
+            "tags": [
+                "npm",
+                "node.js",
+                "TypeScript",
+                "console",
+                "toll"
+            ],
+            "relatedLinks": []
         }
     ]
 }
