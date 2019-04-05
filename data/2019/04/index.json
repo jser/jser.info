@@ -99,6 +99,19 @@
                 "toll"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-05T09:16:27.135Z",
+            "title": "typeless-js/typeless: A complete toolkit for building scalable React apps with Typescript.",
+            "url": "https://github.com/typeless-js/typeless",
+            "content": "Reduxの典型的なケースをビルトインで持つ、React+Redux+Rxjsを前提としたステート管理ライブラリ。\nReact Hooksに対応し、Reactに合わせたライフサイクルアクションをもつ。",
+            "tags": [
+                "React",
+                "redux",
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
