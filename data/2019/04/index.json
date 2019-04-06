@@ -112,6 +112,20 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-06T00:11:49.124Z",
+            "title": "アメブロ2019: こえのブログでのPWA",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/20506/",
+            "content": "こえのブログでのフロント周りの設計について。\nFastly CDN前提のURL構造、Cloud Speech-to-Textを使った文字起こし、vmsgを使ったクライアントでエンコードしてからのアップロード、Web Componentsの利用。\n初回訪問と再訪問の最適化、performance budgetの設定など",
+            "tags": [
+                "PWA",
+                "article",
+                "JavaScript",
+                "browser",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
