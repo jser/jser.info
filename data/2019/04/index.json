@@ -126,6 +126,23 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-06T16:07:21.668Z",
+            "title": "docker-node/BestPractices.md at master · nodejs/docker-node",
+            "url": "https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md",
+            "content": "DockerにおけるNode.jsのベストプラクティス。 \n環境変数、Ctrl + Cのシグナルが送れない問題、Yarnのアップデート、root周りの設定、`CMD`でnpm run-script経由ではなく直接実行することについてなど",
+            "tags": [
+                "Docker",
+                "node.js",
+                "dou"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "JavaScript + Dockerの知見 / knowledge-of-docker-in-javascript - Speaker Deck",
+                    "url": "https://speakerdeck.com/odanado"
+                }
+            ]
         }
     ]
 }
