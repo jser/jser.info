@@ -143,6 +143,17 @@
                     "url": "https://speakerdeck.com/odanado"
                 }
             ]
+        },
+        {
+            "date": "2019-04-07T02:19:24.870Z",
+            "title": "New WebKit Features in Safari 12.1 | WebKit",
+            "url": "https://webkit.org/blog/8718/new-webkit-features-in-safari-12-1/",
+            "content": "Safari 12.1のWebKit周りの変更点について。\nダークモードの対応、ITP 2.1へのアップデート、Payment Request API、WebRTCの改善、EME API/MSEの対応。\nIntersection Observer、Web Share APIの対応、Web Inspectorの改善など",
+            "tags": [
+                "safari",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
