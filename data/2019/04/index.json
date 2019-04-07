@@ -188,6 +188,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-07T12:42:56.791Z",
+            "title": "Release v2.6.0 · nuxt/nuxt.js",
+            "url": "https://github.com/nuxt/nuxt.js/releases/tag/v2.6.0",
+            "content": "Nuxt.js v2.6.0リリース。\ncore-js 2と3の両方をサポート、2.5で入った`ready()`に関するBreaking Changeをrevertなど",
+            "tags": [
+                "Vue",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
