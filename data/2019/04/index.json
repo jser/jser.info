@@ -200,6 +200,28 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-08T00:35:30.549Z",
+            "title": "Release 3.13.1 · nodeca/js-yaml",
+            "url": "https://github.com/nodeca/js-yaml/releases/tag/3.13.1",
+            "content": "js-yaml 3.13.1リリース。\n`load()`で悪意のあるyamlファイルを読むと任意のコードを実行できる脆弱性の修正。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Arbitrary Code Execution in js-yaml | Snyk",
+                    "url": "https://snyk.io/vuln/SNYK-JS-JSYAML-174129"
+                },
+                {
+                    "title": "Fix possible code execution in (already unsafe) load() by rlidwka · Pull Request #480 · nodeca/js-yaml",
+                    "url": "https://github.com/nodeca/js-yaml/pull/480"
+                }
+            ]
         }
     ]
 }
