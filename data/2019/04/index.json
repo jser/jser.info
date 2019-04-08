@@ -222,6 +222,25 @@
                     "url": "https://github.com/nodeca/js-yaml/pull/480"
                 }
             ]
+        },
+        {
+            "date": "2019-04-08T10:55:40.254Z",
+            "title": "Request’s Past, Present and Future · Issue #3142 · request/request",
+            "url": "https://github.com/request/request/issues/3142",
+            "content": "Node.jsのHTTPライブラリである`request`モジュールがメンテンスモードとなる。\n新しい機能追加やBreaking Changesを入れないメンテンスモードとなる予定について書かれている。",
+            "tags": [
+                "node.js",
+                "HTTP",
+                "library",
+                "issue",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Alternative libraries to request · Issue #3143 · request/request",
+                    "url": "https://github.com/request/request/issues/3143"
+                }
+            ]
         }
     ]
 }
