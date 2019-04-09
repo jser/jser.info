@@ -129,10 +129,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-04-09T00:05:31.654Z",
+            "date": "2019-04-09T00:11:05.979Z",
             "title": "docker-node/BestPractices.md at master · nodejs/docker-node",
             "url": "https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md",
-            "content": "DockerにおけるNode.jsのベストプラクティス。  環境変数、Ctrl + Cのシグナルが送れない問題、Yarnのアップデート、root周りの設定、`CMD`でnpm run-script経由ではなく直接実行することについてなど",
+            "content": "DockerにおけるNode.jsのベストプラクティスについて書かれたドキュメント。\n環境変数、Ctrl + Cのシグナルが送れない問題、yarnのアップデート、root周りの設定、`CMD`でnpm run-script経由ではなく直接実行することについてなど",
             "tags": [
                 "Docker",
                 "node.js",
