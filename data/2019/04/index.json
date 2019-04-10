@@ -301,6 +301,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-10T22:47:04.524Z",
+            "title": "jQuery 3.4.0 Released | Official jQuery Blog",
+            "url": "http://blog.jquery.com/2019/04/10/jquery-3-4-0-released/",
+            "content": "jQuery 3.4.0リリース。\nscriptタグの`nomodule`と`nonce`をサポート、`Object.prototype` pollutionの脆弱性を修正、Sizzleが提供するCSSセレクタを非推奨に。",
+            "tags": [
+                "jQuery",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
