@@ -360,6 +360,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-13T22:50:10.620Z",
+            "title": "Release v7.0.1 · reduxjs/react-redux",
+            "url": "https://github.com/reduxjs/react-redux/releases/tag/v7.0.1",
+            "content": "React-React 7.0リリース。\n`connect`が`React.memo`とHooks　APIを使うように、Subscriptionの動作を変更、`batch`APIの追加、`store`をPropsとして渡せる機能をテストのために再実装など",
+            "tags": [
+                "React",
+                "redux",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
