@@ -349,6 +349,17 @@
                     "url": "https://qiita.com/mysticatea/items/274347ff9473b26b575a"
                 }
             ]
+        },
+        {
+            "date": "2019-04-13T11:42:28.250Z",
+            "title": "Node v11.14.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v11.14.0/",
+            "content": "Node.js 11.14.0リリース。\n`fs.promises`がStableに、`readline`の`Symbol.asyncIterator`対応がStableになるなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
