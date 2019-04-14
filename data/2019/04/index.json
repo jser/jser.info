@@ -372,6 +372,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-14T10:20:05.808Z",
+            "title": "Prettier 1.17: More quotes options and support for shared configs · Prettier",
+            "url": "https://prettier.io/blog/2019/04/12/1.17.0.html",
+            "content": "Prettier 1.17リリース。\nオブジェクトのquote設定をする`--quote-props`の追加、shared configのサポート、TypeScript 3.4の`readonly`修飾子をサポートなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
