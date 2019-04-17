@@ -457,6 +457,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-17T12:56:41.557Z",
+            "title": "Do you really know how a lockfile works for yarn and npm packages? | Snyk",
+            "url": "https://snyk.io/blog/making-sense-of-package-lock-files-in-the-npm-ecosystem/",
+            "content": "yarnの`yarn.lock`、npmの`package-lock.json`が実際にどのように動いているのかについて。\nアプリケーションとライブラリのロックファイルについて",
+            "tags": [
+                "npm",
+                "yarn",
+                "JavaScript",
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
