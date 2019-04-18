@@ -484,6 +484,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-18T12:46:17.277Z",
+            "title": "Preact 10.0.0-beta.0 Reconcilertron",
+            "url": "https://github.com/developit/preact/releases/tag/10.0.0-beta.0",
+            "content": "Preact X (Preact 10)のベータ版がリリース\n主な変更点\n* Fragmentsの不具合を解決\n* {condition && &lt;Foo /&gt;} のような条件付きの描画のパフォーマンスを改善\n* 子コンポーネントを持つコンポーネントの描画のパフォーマンスを改善",
+            "tags": [
+                "Preact",
+                "library",
+                "JavaScript",
+                "ReleaseNote"
+             ],
+             "relatedLinks": []
         }
     ]
 }
