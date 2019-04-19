@@ -484,6 +484,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-19T02:20:07.845Z",
+            "title": "Release v5.0.0 · sindresorhus/np",
+            "url": "https://github.com/sindresorhus/np/releases/tag/v5.0.0",
+            "content": "npm publishするnp 5.0.0リリース。\n2要素認証を新しく公開するパッケージに関しては自動で有効化、公開に失敗したときのロールバック処理の改善など",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
