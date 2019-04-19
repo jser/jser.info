@@ -495,6 +495,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-19T13:33:30.972Z",
+            "title": "Release Notes for Safari Technology Preview 80 | WebKit",
+            "url": "https://webkit.org/blog/8825/release-notes-for-safari-technology-preview-80/",
+            "content": "Safari Technology Preview 80リリース。\nResizeObserverのサポート、`window.open`の第二引数で`noreferrer`のサポート、`contentWindow`のサポートなど。\nまたLegacy Safari Extensionsのサポート終了など",
+            "tags": [
+                "safari",
+                "rlee"
+            ],
+            "relatedLinks": []
         }
     ]
 }
