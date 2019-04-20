@@ -521,10 +521,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-04-20T00:29:12.700Z",
+            "date": "2019-04-20T00:30:35.311Z",
             "title": "Blog - Next.js 8.1 | Next.js",
             "url": "https://nextjs.org/blog/next-8-1",
-            "content": "Next.js 8.1リリース。\nAMPサポートが追加された。\nコンポーネント内でAMPとの処理分岐、`next export`でAMPでの出力とバリデーション",
+            "content": "Next.js 8.1リリース。\nAMPサポートが追加された。\nコンポーネント内でAMPとの処理分岐でのhybrid対応、`next export`でAMPでの出力とバリデーション",
             "tags": [
                 "React",
                 "AMP",
