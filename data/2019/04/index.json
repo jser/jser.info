@@ -558,6 +558,19 @@
                     "url": "https://stryker-mutator.io/blog/2017-01-17/introduction-to-mutation-testing"
                 }
             ]
+        },
+        {
+            "date": "2019-04-20T11:06:18.880Z",
+            "title": "Release 10.0.0-beta.0 Reconcilertron · developit/preact",
+            "url": "https://github.com/developit/preact/releases/tag/10.0.0-beta.0",
+            "content": "Preact 10.0.0-beta.0リリース。\n`Fragments`の安定化、条件分岐を含む描画のパフォーマンス改善、コンポーネントの上下関係を考慮した更新処理を行いように修正など",
+            "tags": [
+                "React",
+                "library",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
