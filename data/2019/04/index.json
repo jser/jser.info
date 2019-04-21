@@ -572,6 +572,25 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-21T13:00:54.756Z",
+            "title": "Content Security Policy: A successful mess between hardening and mitigation - Speaker Deck",
+            "url": "https://speakerdeck.com/mikispag/content-security-policy-a-successful-mess-between-hardening-and-mitigation",
+            "viaURL": "https://github.com/jser/jser.info/pull/104",
+            "content": "GoogleにおけるCSPについてのスライド。Google domainのCSPのカバレッジや60%以上のXSSはCSPでブロックできている。\nCSP導入の4つのLevelと導入ステップ、ホワイリストの問題とnonce-based CSP、CSPとデプロイのトレードオフについてなど。\nCSP対応のリファクタリング手法などについて",
+            "tags": [
+                "CSP",
+                "browser",
+                "security",
+                "slide"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Content Security Policy Level 3におけるXSS対策 - pixiv inside",
+                    "url": "https://inside.pixiv.blog/kobo/5137"
+                }
+            ]
         }
     ]
 }
