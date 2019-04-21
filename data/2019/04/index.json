@@ -591,6 +591,19 @@
                     "url": "https://inside.pixiv.blog/kobo/5137"
                 }
             ]
+        },
+        {
+            "date": "2019-04-21T13:46:22.367Z",
+            "title": "lancedikson/bowser: a browser detector",
+            "url": "https://github.com/lancedikson/bowser",
+            "viaURL": "https://github.com/jser/jser.info/pull/104",
+            "content": "User-Agentを元にブラウザ名やバージョンなどを構造的なデータとして取得できるライブラリ",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
