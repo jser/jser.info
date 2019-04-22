@@ -617,6 +617,19 @@
                 "links"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-22T15:00:24.544Z",
+            "title": "sindresorhus/file-type: Detect the file type of a Buffer/Uint8Array/ArrayBuffer",
+            "url": "https://github.com/sindresorhus/file-type",
+            "viaURL": "https://github.com/jser/jser.info/pull/104",
+            "content": "Content sniffingをしてファイルの種類を判定するNode.jsライブラリ",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
