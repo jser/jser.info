@@ -643,6 +643,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-22T23:34:45.425Z",
+            "title": "Svelte 3: Rethinking reactivity",
+            "url": "https://svelte.dev/blog/svelte-3-rethinking-reactivity",
+            "viaURL": "https://github.com/jser/jser.info/pull/104",
+            "content": "コンパイル前提のUIフレームワークであるSvelte 3リリース。\n今までの仕組みを書き直したため、テンプレート構文、API、ウェブサイトが変更されている。\n変更検知の仕組みが大きく変わり、`set` APIではなく、reactiveな変数を`$:`で宣言しコンパイル時に変更を追跡するコードを生成する方法に変更された",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
