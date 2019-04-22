@@ -630,6 +630,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-22T22:36:52.594Z",
+            "title": "Experimental Node.js: testing the new performance hooks",
+            "url": "https://blog.logrocket.com/experimental-node-js-testing-the-new-performance-hooks-31fcdd2a747e",
+            "viaURL": "https://github.com/jser/jser.info/pull/104",
+            "content": "Node.jsの`perf_hooks`の使い方についての記事。\nモジュールのロード時間やURLへのリクエスト時間を計測を例に紹介している",
+            "tags": [
+                "node.js",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
