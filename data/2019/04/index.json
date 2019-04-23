@@ -688,6 +688,24 @@
                     "url": "https://github.com/gothinkster/realworld"
                 }
             ]
+        },
+        {
+            "date": "2019-04-23T01:33:45.661Z",
+            "title": "isInputPending: Facebook's first browser API contribution - Facebook Code",
+            "url": "https://code.fb.com/developer-tools/isinputpending-api/",
+            "viaURL": "https://github.com/jser/jser.info/pull/104",
+            "content": "`navigator.scheduling.isInputPending()`を使いユーザーの操作中は、キューにためた処理を実行しないように制御する方法について。\nロード処理が完了するまでユーザーが操作できない時間であるFirst Input Delay (FID) を軽減する手法について",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "browser"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "First Input Delay  |  Web  |  Google Developers",
+                    "url": "https://developers.google.com/web/updates/2018/05/first-input-delay"
+                }
+            ]
         }
     ]
 }
