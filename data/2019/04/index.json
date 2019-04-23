@@ -656,6 +656,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-23T01:22:32.707Z",
+            "title": "The perfect unit test",
+            "url": "https://javascriptplayground.com/the-perfect-javascript-unit-test/",
+            "viaURL": "https://github.com/jser/jser.info/pull/104",
+            "content": "Unit Testの書き方について。\nテストケース名の書き方、テストをSetup、コード実行、Assertの3つのステップに分解して書くことについて",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
