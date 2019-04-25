@@ -718,6 +718,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-25T03:02:39.041Z",
+            "title": "Release electron v5.0.0 · electron/electron",
+            "url": "https://github.com/electron/electron/releases/tag/v5.0.0",
+            "content": "Electron v5.0.0リリース。\nChromium 73、Node 12.0.0にアップデート。\n`ELECTRON_DISABLE_SANDBOX`でsandboxの無効化に対応。\nCookies APIのPromise対応、BrowserWindowで複数のBrowserViewをサポート、iframeに対してnode integrationの設定ができるようになるなど",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
