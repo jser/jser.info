@@ -740,6 +740,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-25T06:32:06.972Z",
+            "title": "TypeScript AST Viewer",
+            "url": "https://ts-ast-viewer.com/",
+            "content": "TypeScriptのコードのASTビューアツール。\nコードを生成するASTのコードも出力される",
+            "tags": [
+                "TypeScript",
+                "AST",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
