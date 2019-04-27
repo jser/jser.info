@@ -772,6 +772,19 @@
                     "url": "http://2ality.com/2019/04/nodejs-esm-impl.html"
                 }
             ]
+        },
+        {
+            "date": "2019-04-27T13:12:17.297Z",
+            "title": "Release v1.15.0 · GoogleChrome/puppeteer",
+            "url": "https://github.com/GoogleChrome/puppeteer/releases/tag/v1.15.0",
+            "content": "Puppeteer 1.15.0リリース。\nChromium 75.0.3765.0へアップデート、`puppeteer.devices`と`puppeteer.errors`の追加、リクエストInterceptionの問題を修正など",
+            "tags": [
+                "Chrome",
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
