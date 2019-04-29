@@ -864,6 +864,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-29T09:01:06.548Z",
+            "title": "faast.js · Serverless batch computing made simple",
+            "url": "https://faastjs.org/",
+            "content": "serverlessを使ったバッチ処理を行うフレームワーク。\nバッチの各処理を関数としてローカル、AWS lambda、Google Cloud Functionsで実行できる。またデプロイやクリーンアップのワークフローを管理できる。",
+            "tags": [
+                "serverless",
+                "library",
+                "JavaScript",
+                "TypeScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "faast.js vs other · faast.js",
+                    "url": "https://faastjs.org/docs/comparison"
+                }
+            ]
         }
     ]
 }
