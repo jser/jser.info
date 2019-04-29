@@ -882,6 +882,18 @@
                     "url": "https://faastjs.org/docs/comparison"
                 }
             ]
+        },
+        {
+            "date": "2019-04-29T11:54:50.144Z",
+            "title": "Comparing JVM alternatives to JavaScript",
+            "url": "https://renato.athaydes.com/posts/comparing-jvm-alternatives-to-js.html",
+            "content": "JavaからJavaScriptに変換するツールの比較記事。\nパフォーマンス、コードファイルサイズ、コード行数について",
+            "tags": [
+                "JavaScript",
+                "Java",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
