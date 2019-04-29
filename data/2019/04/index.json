@@ -838,6 +838,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-29T06:32:21.040Z",
+            "title": "infinitered/gluegun: A delightful toolkit for building Node-powered CLIs.",
+            "url": "https://github.com/infinitered/gluegun",
+            "content": "Node.jsのコマンドラインツール向けのフレームワーク。\nコマンドのテンプレート、コマンドライン引数のパースやハンドリング、Util処理などを含んでいる。",
+            "tags": [
+                "node.js",
+                "console",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
