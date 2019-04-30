@@ -894,6 +894,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-30T01:43:20.099Z",
+            "title": "AddyOsmani.com - Native image lazy-loading for the web!",
+            "url": "https://addyosmani.com/blog/lazy-loading/",
+            "content": "画像やiframeの遅延ロードなどを行う`loading`属性について。\n属性値として`lazy`、`eager`、`auto`が設定できることやFeature Detection、Fallbackの書き方についてなど",
+            "tags": [
+                "Chrome",
+                "WebPlatformAPI",
+                "HTML",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
