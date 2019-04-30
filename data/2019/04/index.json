@@ -907,6 +907,29 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-04-30T03:31:41.412Z",
+            "title": "PixiJS v5 lands – Goodboy Digital – Medium",
+            "url": "https://medium.com/goodboy-digital/pixijs-v5-lands-5e112d84e510",
+            "content": "PixiJS 5.0.0リリース。\nWebGLがデフォルトとなり、Cnavas版は`pixi.js-legacy`として提供されるように。globalに`PIXI`オブジェクトを追加しないでimportできるように。\nRendererのシグネチャの変更、\n`PIXI.Mesh`の追加、\nGraphics Holesの対応改善など",
+            "tags": [
+                "JavaScript",
+                "WebGL",
+                "canvas",
+                "library",
+                "game"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v5.0.0 · pixijs/pixi.js",
+                    "url": "https://github.com/pixijs/pixi.js/releases/tag/v5.0.0"
+                },
+                {
+                    "title": "v5 Migration Guide · pixijs/pixi.js Wiki",
+                    "url": "https://github.com/pixijs/pixi.js/wiki/v5-Migration-Guide"
+                }
+            ]
         }
     ]
 }
