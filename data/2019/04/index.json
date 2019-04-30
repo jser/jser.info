@@ -930,6 +930,19 @@
                     "url": "https://github.com/pixijs/pixi.js/wiki/v5-Migration-Guide"
                 }
             ]
+        },
+        {
+            "date": "2019-04-30T08:58:22.472Z",
+            "title": "Stub navigator API in end-to-end tests | Better world by better software",
+            "url": "https://glebbahmutov.com/blog/stub-navigator-api/",
+            "content": "Cypressを使いBattery status APIのStubをしながらテストをするチュートリアル。\n`navigator`をどのようにstubしてテストするかについて",
+            "tags": [
+                "E2E",
+                "browser",
+                "testing",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
