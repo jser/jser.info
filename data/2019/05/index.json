@@ -10,6 +10,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-03T00:12:50.900Z",
+            "title": "Release Notes for Safari Technology Preview 81 | WebKit",
+            "url": "https://webkit.org/blog/8834/release-notes-for-safari-technology-preview-81/",
+            "content": "Safari Technology Preview 81リリース。\n印刷時のスタイルで`@page`によるmarginのサポート、`frame-ancestors` CSPを`X-Frame-Options`ヘッダより優先するように。\n`requestAnimationFrame`の実行タイミングの問題を修正など",
+            "tags": [
+                "webkit",
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "177484 – requestAnimationFrame should execute before the next frame",
+                    "url": "https://bugs.webkit.org/show_bug.cgi?id=177484"
+                }
+            ]
         }
     ]
 }
