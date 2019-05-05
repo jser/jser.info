@@ -47,6 +47,17 @@
                     "url": "https://developers.google.com/web/updates/2019/05/desynchronized"
                 }
             ]
+        },
+        {
+            "date": "2019-05-05T06:26:39.955Z",
+            "title": "oclif/cli-ux: CLI IO utilities",
+            "url": "https://github.com/oclif/cli-ux",
+            "content": "ターミナルのCLIを提供するNode.jsライブラリ。\npromptやconfirmなどの対話操作、URLのリンク表示、spinner、アノテーション、table表示など",
+            "tags": [
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
