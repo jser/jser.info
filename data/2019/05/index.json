@@ -27,6 +27,26 @@
                     "url": "https://bugs.webkit.org/show_bug.cgi?id=177484"
                 }
             ]
+        },
+        {
+            "date": "2019-05-05T05:31:02.966Z",
+            "title": "Chromium Blog: Chrome 75 Beta: low latency canvas contexts, sharing files, and numeric separators",
+            "url": "https://blog.chromium.org/2019/05/chrome-75-beta-low-latency-canvas.html",
+            "content": "Chrome 75 Betaリリース。\nCanvasに低遅延レンダリングのための`desynchronized`オプションを追加、Web Shareでファイルをサポート、ES ProposalのNumeric separatorsをサポート。\nCSPの`script-src-attr`ディレクティブのサポート、`stale-while-revalidate` HTTPヘッダのサポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chrome Platform Status",
+                    "url": "https://www.chromestatus.com/features#milestone%3D75"
+                },
+                {
+                    "title": "Low-latency rendering with the desynchronized hint  |  Web  |  Google Developers",
+                    "url": "https://developers.google.com/web/updates/2019/05/desynchronized"
+                }
+            ]
         }
     ]
 }
