@@ -29,10 +29,10 @@
             ]
         },
         {
-            "date": "2019-05-05T05:31:02.966Z",
+            "date": "2019-05-05T05:31:48.916Z",
             "title": "Chromium Blog: Chrome 75 Beta: low latency canvas contexts, sharing files, and numeric separators",
             "url": "https://blog.chromium.org/2019/05/chrome-75-beta-low-latency-canvas.html",
-            "content": "Chrome 75 Betaリリース。\nCanvasに低遅延レンダリングのための`desynchronized`オプションを追加、Web Shareでファイルをサポート、ES ProposalのNumeric separatorsをサポート。\nCSPの`script-src-attr`ディレクティブのサポート、`stale-while-revalidate` HTTPヘッダのサポートなど",
+            "content": "Chrome 75 Betaリリース。\nCanvasに低遅延レンダリングのための`desynchronized`オプションを追加、Web Shareでファイルをサポート、ES ProposalのNumeric separatorsをサポート。\nCSPの`script-src-attr`ディレクティブのサポート、Cache-Controlの`stale-while-revalidate`のサポートなど",
             "tags": [
                 "Chrome",
                 "ReleaseNote"
