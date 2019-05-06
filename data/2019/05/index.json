@@ -69,6 +69,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-06T07:27:48.463Z",
+            "title": "Release 7.0.0 · websockets/ws",
+            "url": "https://github.com/websockets/ws/releases/tag/7.0.0",
+            "content": "WebSocketクライアント & サーバの`ws` 7.0.0リリース。\nNode.js 6のサポート終了、コンストラクタでNode.jsの`url`オブジェクトではなく`URL`オブジェクトを受け取るように変更。\n`readyState`が`OPEN`ではないときの`ping`、`pong`の挙動変更など\n",
+            "tags": [
+                "WebSocket",
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
