@@ -145,6 +145,19 @@
                     "url": "https://doc.babylonjs.com/features/playground_debuglayer#inspector-pane"
                 }
             ]
+        },
+        {
+            "date": "2019-05-06T14:22:32.280Z",
+            "title": "Revisiting prefers-reduced-motion, the reduced motion media query | CSS-Tricks",
+            "url": "https://css-tricks.com/revisiting-prefers-reduced-motion-the-reduced-motion-media-query/",
+            "content": "CSSの`prefers-reduced-motion`の解説と使い方についての記事。\nアクセシビリティ、プログレッシブ・エンハンスメントの考え、CSS Variablesと組み合わせた実装について",
+            "tags": [
+                "CSS",
+                "animation",
+                "article",
+                "accessibility"
+            ],
+            "relatedLinks": []
         }
     ]
 }
