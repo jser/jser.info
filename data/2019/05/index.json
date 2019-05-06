@@ -82,6 +82,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-06T07:34:12.183Z",
+            "title": "Laconia · Create well-crafted serverless applications, effortlessly",
+            "url": "https://laconiajs.io/",
+            "content": "Node.jsのserverlsssフレームワーク。Hexagonal Architectureで依存を外から渡せるような構造にしてテストしやすくしている。\nLong Task向けのbatch処理を行うモジュールも提供されている。",
+            "tags": [
+                "node.js",
+                "server",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
