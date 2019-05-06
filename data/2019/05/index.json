@@ -106,6 +106,23 @@
                 "software"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-06T13:52:44.462Z",
+            "title": "Release v4.0.0 · facebook/relay",
+            "url": "https://github.com/facebook/relay/releases/tag/v4.0.0",
+            "content": "GraphQLとReact向けのフレームワークであるRelay 4.0.0リリース。\nContainerの引数に`graphql` tagを渡すのではなくオブジェクトを受け付けるように変更、client schema extensionsのフルサポートなど",
+            "tags": [
+                "GraphQL",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Building the New facebook.com with React, GraphQL and Relay",
+                    "url": "https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/"
+                }
+            ]
         }
     ]
 }
