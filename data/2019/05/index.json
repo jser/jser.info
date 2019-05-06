@@ -158,6 +158,17 @@
                 "accessibility"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-06T22:57:01.239Z",
+            "title": "Optimizing Performance With Resource Hints — Smashing Magazine",
+            "url": "https://www.smashingmagazine.com/2019/04/optimization-performance-resource-hints/",
+            "content": "Resource Hintsについての記事。\n`dns-prefetch`、`preconnect`、`prefetch`、`prerender`をそれぞれどのような場合に利用するかについて。`as`属性についてなど",
+            "tags": [
+                "browser",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
