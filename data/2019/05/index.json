@@ -96,14 +96,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-05-06T07:46:43.443Z",
+            "date": "2019-05-07T00:26:04.000Z",
             "title": "Hyper Blog",
             "url": "https://hyper.is/blog",
-            "content": "Electron製のターミナルであるHyper 3リリース。\n`hterm`から`xterm.js`に変更してWebGL Rendererを使うように、IPCのバッチ処理でパフォーマンス改善など",
+            "content": "Electron製のターミナルであるHyper 3リリース。 `hterm`から`xterm.js`に変更してWebGL Rendererを使うように、IPCのバッチ処理でパフォーマンス改善など",
             "tags": [
                 "Electron",
                 "console",
-                "software"
+                "software",
+                "ReleaseNote"
             ],
             "relatedLinks": []
         },
