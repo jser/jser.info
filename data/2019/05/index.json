@@ -196,6 +196,32 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-08T13:07:37.250Z",
+            "title": "Release v5.0.0 · GoogleChrome/lighthouse",
+            "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v5.0.0",
+            "content": "Lighthouse 5.0.0リリース。\nWordpressなど特定のスタックに対するレポートを表示するStack Packsの追加、Performance budgetsの対応、Lighthouse plugins",
+            "tags": [
+                "browser",
+                "performance",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "GoogleChrome/lighthouse-stack-packs: Lighthouse Stack Packs",
+                    "url": "https://github.com/GoogleChrome/lighthouse-stack-packs"
+                },
+                {
+                    "title": "Performance Budgets (Keep Request Counts Low And File Sizes Small)  |  Tools for Web Developers  |  Google Developers",
+                    "url": "https://developers.google.com/web/tools/lighthouse/audits/budgets"
+                },
+                {
+                    "title": "lighthouse/plugins.md at master · GoogleChrome/lighthouse",
+                    "url": "https://github.com/GoogleChrome/lighthouse/blob/master/docs/plugins.md#plugin-config"
+                }
+            ]
         }
     ]
 }
