@@ -222,6 +222,25 @@
                     "url": "https://github.com/GoogleChrome/lighthouse/blob/master/docs/plugins.md#plugin-config"
                 }
             ]
+        },
+        {
+            "date": "2019-05-09T00:21:48.176Z",
+            "title": "Official Google Webmaster Central Blog: The new evergreen Googlebot",
+            "url": "https://webmasters.googleblog.com/2019/05/the-new-evergreen-googlebot.html",
+            "content": "Google検索botが最新版のChromiumレンダリングエンジンを使うように変更された",
+            "tags": [
+                "google",
+                "search",
+                "news",
+                "browser",
+                "Chrome"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Fix Search-related JavaScript problems  |  Search  |  Google Developers",
+                    "url": "https://developers.google.com/search/docs/guides/fix-search-javascript"
+                }
+            ]
         }
     ]
 }
