@@ -331,6 +331,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-12T12:48:15.289Z",
+            "title": "SameSite cookies explained  |  web.dev",
+            "url": "https://web.dev/samesite-cookies-explained/",
+            "content": "`SameSite` Cookieについての解説。`SameSite`の設定値である`Strict`、`Lax`、`None`の動作の解説。\nChrome 76で`SameSite`が未指定の場合に`SameSite=Lax`をデフォルトとする試験的フラグが追加されるなど",
+            "tags": [
+                "security",
+                "browser",
+                "Chrome",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "HTTP クッキーをより安全にする SameSite 属性について (Same-site Cookies) | ラボラジアン",
+                    "url": "https://laboradian.com/same-site-cookies/"
+                }
+            ]
         }
     ]
 }
