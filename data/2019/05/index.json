@@ -319,6 +319,18 @@
                     "url": "https://twitter.com/DasSurma/status/1127266398185484288"
                 }
             ]
+        },
+        {
+            "date": "2019-05-12T10:57:33.799Z",
+            "title": "victorvoid/dinoql: A customizable GraphQL style query language for interacting with JavaScript objects.",
+            "url": "https://github.com/victorvoid/dinoql",
+            "content": "GraphQL構文でオブジェクトからデータを取得できるクエリライブラリ。\nAlias、Cache、Fragmentsなどをサポートしている",
+            "tags": [
+                "GraphQL",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
