@@ -301,6 +301,24 @@
                 "イベント"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-12T10:42:12.453Z",
+            "title": "comlink/CHANGELOG.md at master · GoogleChromeLabs/comlink",
+            "url": "https://github.com/GoogleChromeLabs/comlink/blob/master/CHANGELOG.md#v3---v4",
+            "content": "ES Proxyを使ったWorkerライブラリのComlink 4.0.0リリース。\nNode.jsの`worker_thread`をサポート、APIのリネーム、パフォーマンスの改善など",
+            "tags": [
+                "JavaScript",
+                "webworker",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Surma on Twitter: &quot;I sneakily released Comlink v4 just before #io19! ➡️Smaller than v3 (~1.1kb) 🗜 ➡️10x faster on low-end devices (we needed that for https://t.co/TQBh7GNv2g!) 🏎💨 ➡️Better API naming 💫 ➡️Better folder structure 🙏 ➡️Support for workers in Node 11+ 🤯 https://t.co/v4PNytvkfq… https://t.co/mksFf7uxPu&quot;",
+                    "url": "https://twitter.com/DasSurma/status/1127266398185484288"
+                }
+            ]
         }
     ]
 }
