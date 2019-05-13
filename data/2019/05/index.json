@@ -372,6 +372,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-13T02:50:38.576Z",
+            "title": "A Guide to Node.js Logging - Twilio",
+            "url": "https://www.twilio.com/blog/guide-node-js-logging",
+            "content": "Node.jsでログ出力についての記事。\nConsole API、pinoを使ったログ出力、ライブラリのログ、chalkなどで装飾されているログをプレーンな出力にする方法などについて",
+            "tags": [
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
