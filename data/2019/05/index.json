@@ -383,6 +383,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-13T23:50:12.415Z",
+            "title": "Release v1.16.0 · GoogleChrome/puppeteer",
+            "url": "https://github.com/GoogleChrome/puppeteer/releases/tag/v1.16.0",
+            "content": "Puppeteer 1.16.0リリース。\n`browser.isConnected()`、`target.worker()`のサポート。\n`accessibility.snapshot()`が`root`オプションをサポートなど",
+            "tags": [
+                "Chrome",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
