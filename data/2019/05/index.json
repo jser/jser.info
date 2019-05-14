@@ -433,6 +433,23 @@
                     "url": "https://www.notion.so/ng-conf-2019-Note-10b9443262a54fb9bd8586cc25a449c7"
                 }
             ]
+        },
+        {
+            "date": "2019-05-14T01:01:29.694Z",
+            "title": "msgpack/msgpack-javascript: MessagePack for JavaScript/ECMA-262",
+            "url": "https://github.com/msgpack/msgpack-javascript",
+            "content": "MessagePackのJavaScript実装。\nブラウザとNode.jsどちらでも動作し、Async Iteratorを使いストリーム処理ができるようになっている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "TypeScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "TypeScriptで MessagePack encoder/decoder を実装した - Islands in the byte stream",
+                    "url": "https://gfx.hatenablog.com/entry/2019/05/07/102341"
+                }
+            ]
         }
     ]
 }
