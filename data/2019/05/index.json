@@ -395,6 +395,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-14T00:48:41.734Z",
+            "title": "Introducing GitHub Package Registry - The GitHub Blog",
+            "url": "https://github.blog/2019-05-10-introducing-github-package-registry/",
+            "content": "GitHubのパッケージレジストリサービスのベータ公開がされた。\nnpm、gem、dockerなどに対応していて、GitHubのTeamパーミッションに紐付いて管理できるprivate registry。\nGitHubのReleaseや検索にも表示されるようになる",
+            "tags": [
+                "github",
+                "news",
+                "npm"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "GitHub Package Registry: Your packages, at home with their code",
+                    "url": "https://github.com/features/package-registry"
+                }
+            ]
         }
     ]
 }
