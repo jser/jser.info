@@ -474,6 +474,19 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-15T12:25:28.991Z",
+            "title": "Release v3.14.0 · lerna/lerna",
+            "url": "https://github.com/lerna/lerna/releases/tag/v3.14.0",
+            "content": "monorepo管理ツールのlerna 3.14.0リリース。\nnpm publish時の2要素認証(OTP)のサポート、`--conventional-prerelease`と`--conventional-graduate`のサポートなど",
+            "tags": [
+                "monorepo",
+                "Tools",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
