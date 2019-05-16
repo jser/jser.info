@@ -503,6 +503,17 @@
                     "url": "https://qiita.com/potato4d/items/43b4f17c73aebc7a2154"
                 }
             ]
+        },
+        {
+            "date": "2019-05-16T13:19:45.852Z",
+            "title": "TypeScript 3.0: The unknown Type — Marius Schulz",
+            "url": "https://mariusschulz.com/blog/typescript-3-0-the-unknown-type",
+            "content": "TypeScript 3.0で導入された`unknown` typeについての解説。\n`any` typeとの違い、`unknown` typeに対して任意の操作ができない点、`unknown` typeは型を絞り込んでから使う点について",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
