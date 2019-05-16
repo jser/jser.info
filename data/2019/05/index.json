@@ -489,7 +489,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-05-16T05:41:06.911Z",
+            "date": "2019-05-16T05:41:33.098Z",
             "title": "Release v2.7.0 · nuxt/nuxt.js",
             "url": "https://github.com/nuxt/nuxt.js/releases/tag/v2.7.0",
             "content": "Nuxt.js 2.7.0リリース。\nサーバサイドのログもブラウザコンソールに表示されるように、`store/`ディレクトリのファイル監視の改善など",
@@ -497,7 +497,12 @@
                 "Vue",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Nuxt.js v2.7.0 の変更点と注目のポイントまとめ - Qiita",
+                    "url": "https://qiita.com/potato4d/items/43b4f17c73aebc7a2154"
+                }
+            ]
         }
     ]
 }
