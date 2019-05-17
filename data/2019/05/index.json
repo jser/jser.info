@@ -526,6 +526,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-17T15:18:53.076Z",
+            "title": "Announcing TypeScript 3.5 RC | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-3-5-rc/",
+            "content": "TypeScript 3.5 RCリリース。\n型チェックとビルドのパフォーマンス改善、`Omit`ヘルパー型を追加、Union型の改善など。\n破壊的な変更としてGeneric type parameterのデフォルトが`{}`から`unknown`へと変更、`Object.keys`がプリミティブ型をうけら内容に変更など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
