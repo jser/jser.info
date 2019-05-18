@@ -561,6 +561,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-18T02:40:36.534Z",
+            "title": "Faster smarter JavaScript debugging in Firefox DevTools - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2019/05/faster-smarter-javascript-debugging-in-firefox/",
+            "content": "Firefox 67の開発者ツールの改善点について。\nロードパフォーマンスの改善、Break Pointの改善やLog Pointの対応、Web Workerスクリプトとの切り替えを改善、Source Mapを使った細かい表示の改善など",
+            "tags": [
+                "firefox",
+                "debug",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
