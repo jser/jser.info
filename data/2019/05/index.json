@@ -537,6 +537,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-18T02:12:01.933Z",
+            "title": "JSでDoSる/ Shibuya.XSS techtalk #11 - Speaker Deck",
+            "url": "https://speakerdeck.com/masatokinugawa/shibuya-dot-xss-techtalk-number-11?slide=6",
+            "content": "JavaScriptで例外が発生するパターンやNode.jsでクラッシュするケーススタディについてのスライド",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "slide",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
