@@ -550,6 +550,17 @@
                 "security"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-18T02:30:18.403Z",
+            "title": "V8 release v7.5 · V8",
+            "url": "https://v8.dev/blog/v8-release-75",
+            "content": "V8 v7.5リリース。\nWebAssemblyのコンパイル結果を暗黙的にキャッシュする変更、ECMAScript ProposalのNumeric separatorsを実装。\nネットワークからスクリプトを読み込みながらパースする際に、メインスレッドによってブロックされる問題を解消など",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
