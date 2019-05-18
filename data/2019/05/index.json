@@ -574,6 +574,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-18T13:37:56.442Z",
+            "title": "Release Notes for Safari Technology Preview 82 | WebKit",
+            "url": "https://webkit.org/blog/8921/release-notes-for-safari-technology-preview-82/",
+            "content": "Fetch APIの`keepAlive`オプションのサポート、Web GPU APIを`navigator.gpu`に移動など",
+            "tags": [
+                "safari",
+                "webkit",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
