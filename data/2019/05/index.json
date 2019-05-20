@@ -651,6 +651,24 @@
                     "url": "https://www.youtube.com/watch?v=U6NY8Cxym5g"
                 }
             ]
+        },
+        {
+            "date": "2019-05-20T15:46:45.271Z",
+            "title": "Google Fonts is Adding font-display 🎉—zachleat.com",
+            "url": "https://www.zachleat.com/web/google-fonts-display/",
+            "viaURL": "https://github.com/jser/ping/issues/143",
+            "content": "Google Fontsが`display`パラメータで`font-display`プロパティの指定をサポートしたことについて。",
+            "tags": [
+                "google",
+                "fonts",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "display=swapとはなにか - MOL",
+                    "url": "https://t32k.me/mol/log/font-display-swap/"
+                }
+            ]
         }
     ]
 }
