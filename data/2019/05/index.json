@@ -629,6 +629,28 @@
                 "MS"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-20T15:29:08.418Z",
+            "title": "Accessibility Insights",
+            "url": "https://accessibilityinsights.io/",
+            "content": "アクセシビリティのチェックを補助するブラウザ拡張。\nアクセシビリティのチェックを可視化したり、FastPassとAssessmentの2つのシナリオでのテストをサポートしている。",
+            "tags": [
+                "accessibility",
+                "Chrome",
+                "windows",
+                "Extension"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "microsoft/accessibility-insights-web: Accessibility Insights for Web",
+                    "url": "https://github.com/Microsoft/accessibility-insights-web"
+                },
+                {
+                    "title": "Introduction to Accessibility Insights for Web - YouTube",
+                    "url": "https://www.youtube.com/watch?v=U6NY8Cxym5g"
+                }
+            ]
         }
     ]
 }
