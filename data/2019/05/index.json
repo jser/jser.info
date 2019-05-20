@@ -603,6 +603,17 @@
                     "url": "https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format"
                 }
             ]
+        },
+        {
+            "date": "2019-05-20T00:31:47.735Z",
+            "title": "const assertions are the killer new TypeScript feature",
+            "url": "https://blog.logrocket.com/const-assertions-are-the-killer-new-typescript-feature-b73451f35802",
+            "content": "TypeScript 3.4で導入されたconst assertionについて。\nリテラルの型拡大を防いだり、オブジェクトのプロパティを`readonly`にできるなど",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
