@@ -681,6 +681,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-21T01:57:40.628Z",
+            "title": "esxjs/esx: Like JSX, but native and fast",
+            "url": "https://github.com/esxjs/esx",
+            "content": "JSXライクな構文をサポートしたTagged Templateライブラリ。\nまたReactをesxの構文に変換するBabelプラグインもあり、ReactのSSRテンプレートエンジンとしても利用できる",
+            "tags": [
+                "jsx",
+                "React",
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
