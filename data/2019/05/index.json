@@ -694,6 +694,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-21T02:11:44.488Z",
+            "title": "[Web フロントエンド] 状態更新ロジックをフレームワークから独立させる | Kabuku Developers Blog",
+            "url": "https://www.kabuku.co.jp/developers/framework-agnostic-state-modification",
+            "content": "immerを使ったステート更新ロジックに分け、Angular、Vue、Reactなどのフレームワーク内に組み込む方法について。",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
