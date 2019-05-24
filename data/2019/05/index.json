@@ -728,6 +728,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-24T13:40:07.369Z",
+            "title": "projectfluent/fluent.js: JavaScript implementation of Project Fluent",
+            "url": "https://github.com/projectfluent/fluent.js",
+            "content": "ローカライズフレームワーク。\nFTLという構文で記述し、`Intl`オブジェクトをベースにしたローカライズを行う。",
+            "tags": [
+                "i18n",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
