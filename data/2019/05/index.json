@@ -753,6 +753,18 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-24T15:50:36.890Z",
+            "title": "Strict null checking the Visual Studio Code codebase",
+            "url": "https://code.visualstudio.com/blogs/2019/05/23/strict-null",
+            "content": "VSCodeのコードベースでTypeScriptのstrict null checkを有効化した話。\n`strictNullCheck`が`false`のときによく起きていた問題と1800ファイルあるコードをどのように修正していったかについて。\n`strictNullCheck`を有効化した`tsconfig.json`を作り、`files`に追加しながら修正していった",
+            "tags": [
+                "VSCode",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
