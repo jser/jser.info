@@ -739,6 +739,20 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-24T15:44:49.608Z",
+            "title": "Folding the DOM - Josh W. Comeau's Blog",
+            "url": "https://www.joshwcomeau.com/posts/folding-the-dom/",
+            "content": "CSSを使って画像の折りたたみ表現を実装していくチュートリアル。\nPosition、Transform、Perspectiveを組み合わせて折りたたみのアニメーションを実装していく話",
+            "tags": [
+                "CSS",
+                "JavaScript",
+                "React",
+                "article",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
