@@ -788,6 +788,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-26T06:39:34.190Z",
+            "title": "azu/exponential-backoff-generator: Exponential backoff generator. Provide robust retry function.",
+            "url": "https://github.com/azu/exponential-backoff-generator",
+            "content": "Generatorを使ったExponential backoffライブラリ。\nasync/awaitと組み合わせて非同期処理のリトライを`for...of`で記述できる。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
