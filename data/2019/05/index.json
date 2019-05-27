@@ -834,6 +834,18 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-27T14:19:40.412Z",
+            "title": "vitalets/await-timeout: A Promise-based API for setTimeout / clearTimeout",
+            "url": "https://github.com/vitalets/await-timeout",
+            "content": "Promiseベースの`setTimeout`、`clearTimeout`のラッパーライブラリ。\n既存のPromiseオブジェクトてもタイムアウトを設定できる",
+            "tags": [
+                "Promises",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
