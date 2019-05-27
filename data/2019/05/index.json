@@ -857,6 +857,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-27T14:33:03.633Z",
+            "title": "Release 4.17.0 · expressjs/express",
+            "url": "https://github.com/expressjs/express/releases/tag/4.17.0",
+            "content": "express 4.17.0リリース。\nBodyをBufferへパースする`express.raw`、Bodyをテキストにパースする`express.text`の追加、`X-Forwarded-Host`でカンマ区切りの複数Hostに対応など",
+            "tags": [
+                "node.js",
+                "server",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
