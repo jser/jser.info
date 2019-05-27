@@ -848,10 +848,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-05-27T14:28:36.311Z",
+            "date": "2019-05-27T14:28:53.350Z",
             "title": "Handling Errors in Vue.js",
             "url": "https://www.raymondcamden.com/2019/05/01/handling-errors-in-vuejs",
-            "content": "Vueコンポーネントでのエラーハンドリングについての記事。\n`Vue.config.errorHandler`、`Vue.config.warnHandler`、`renderError`、`errorCaptured`について",
+            "content": "Vueでのエラーハンドリングについての記事。\n`Vue.config.errorHandler`、`Vue.config.warnHandler`、`renderError`、`errorCaptured`について",
             "tags": [
                 "Vue",
                 "article"
