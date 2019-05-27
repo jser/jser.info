@@ -869,6 +869,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-27T14:57:51.976Z",
+            "title": "Paint Holding - reducing the flash of white on same-origin navigations  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2019/05/paint-holding",
+            "content": "Chrome 76でページ遷移時にページを真っ白にするのではなく、最後の描画を維持した状態で切り替わるようにするPaint Holdingという仕組みが入るという話",
+            "tags": [
+                "Chrome",
+                "article",
+                "browser",
+                "dart"
+            ],
+            "relatedLinks": []
         }
     ]
 }
