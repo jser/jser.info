@@ -893,6 +893,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-28T00:36:03.199Z",
+            "title": "WebAssembly at eBay: A Real-World Use Case",
+            "url": "https://www.ebayinc.com/stories/blogs/tech/webassembly-at-ebay-a-real-world-use-case/",
+            "content": "WebAssemblyのユースケースとしてバーコードリーダを実装した話。\nC++からemscriptenでコンパイルしたwasmを使うことで、JavaScriptの実装よりもFPSが上がった。\nしかし、カメラの特性により認識率がいまいち上がらず、C++の実装2つとJavaScriptの実装を組み合わせて利用した話",
+            "tags": [
+                "WebAssembly",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
