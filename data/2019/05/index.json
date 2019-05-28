@@ -929,6 +929,18 @@
                     "url": "https://www.fxsitecompat.com/ja/versions/67/"
                 }
             ]
+        },
+        {
+            "date": "2019-05-28T23:47:44.852Z",
+            "title": "async/CHANGELOG.md at master · caolan/async",
+            "url": "https://github.com/caolan/async/blob/master/CHANGELOG.md#v300",
+            "content": "async 3.0.0リリース。\n`async`モジュールのメソッドがcallbackを指定していない場合に、Promiseを返すように、コレクションメソッドでAsync Generatorのサポート、`cargoQueue`の追加など。\nまた、ES2015のコードベースになったため、古いブラウザやNode 4以下のサポート終了。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
