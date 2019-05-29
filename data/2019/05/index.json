@@ -941,6 +941,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-29T14:00:37.110Z",
+            "title": "Node v10.16.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v10.16.0/",
+            "content": "Node v10.16.0(LTS)リリース。\nnpm 6.9.0への更新、`zlib`モジュールのbrotliサポートのバックポート、`events`モジュールの`once`メソッドのバックポートなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
