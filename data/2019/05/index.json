@@ -964,6 +964,26 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-05-31T04:40:19.350Z",
+            "title": "Version 8 of Angular — Smaller bundles, CLI APIs, and alignment with the ecosystem",
+            "url": "https://blog.angular.io/version-8-of-angular-smaller-bundles-cli-apis-and-alignment-with-the-ecosystem-af0261112a27",
+            "content": "Angular 8.0.0リリース。\nmodern build(es2015)とlegacy build(es5)を出し分けロードするDifferential Loadingの有効化。\nRoute ConfigでDynamic Importsを使うように、CLI向けにBuilders APIの追加。\nIvyを`enableIvy`で試せるようになるなど",
+            "tags": [
+                "Angular",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing CLI Builders – Angular Blog",
+                    "url": "https://blog.angular.io/introducing-cli-builders-d012d4489f1b"
+                },
+                {
+                    "title": "angular/CHANGELOG.md at master · angular/angular",
+                    "url": "https://github.com/angular/angular/blob/master/CHANGELOG.md#800-2019-05-28"
+                }
+            ]
         }
     ]
 }
