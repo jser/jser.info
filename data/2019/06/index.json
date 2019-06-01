@@ -10,6 +10,27 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-06-01T14:05:01.516Z",
+            "title": "Release v0.19.0 · axios/axios",
+            "url": "https://github.com/axios/axios/releases/tag/v0.19.0",
+            "content": "axios 0.19.0リリース。\nNode.jsでレスポンスがgzipなどでかつ204の場合に例外が発生する問題を修正、`maxContentLength`の設定を無視してリクエストを継続するDosにつながる問題を修正など。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v0.18.1 · axios/axios",
+                    "url": "https://github.com/axios/axios/releases/tag/v0.18.1"
+                },
+                {
+                    "title": "Destroy stream on exceeding maxContentLength (fixes #1098) by resure · Pull Request #1485 · axios/axios",
+                    "url": "https://github.com/axios/axios/pull/1485"
+                }
+            ]
         }
     ]
 }
