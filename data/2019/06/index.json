@@ -67,6 +67,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-06-02T15:11:56.877Z",
+            "title": "Release 2.0.0 · avajs/ava",
+            "url": "https://github.com/avajs/ava/releases/tag/v2.0.0",
+            "content": "AVA 2.0.0リリース。\nNode.js 8.9.4以降のサポート、snapshotが作られていない場合はCIで失敗するように、assertionメッセージが文字列ではない場合は例外を投げるようになるなど。\n",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
