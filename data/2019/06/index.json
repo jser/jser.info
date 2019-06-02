@@ -31,6 +31,30 @@
                     "url": "https://github.com/axios/axios/pull/1485"
                 }
             ]
+        },
+        {
+            "date": "2019-06-02T15:01:02.729Z",
+            "title": "Announcing TypeScript 3.5 | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-3-5/",
+            "content": "TypeScript 3.5リリース。\n型チェックのパフォーマンス改善、`--incremental`ビルドのパフォーマンス改善、`Omit`ヘルパー型の追加など。\n破壊的な変更として型パラメータの型が不明な場合の型が`{}`から`unknown`へ変更など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "What's new in TypeScript · microsoft/TypeScript Wiki",
+                    "url": "https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript#typescript-35"
+                },
+                {
+                    "title": "Breaking Changes · microsoft/TypeScript Wiki",
+                    "url": "https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes#typescript-35"
+                },
+                {
+                    "title": "TypeScript v3.5.1 変更点 - Qiita",
+                    "url": "https://qiita.com/vvakame/items/e7bbaff54db8fbf986bb"
+                }
+            ]
         }
     ]
 }
