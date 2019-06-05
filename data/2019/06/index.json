@@ -165,6 +165,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-06-05T13:21:53.103Z",
+            "title": "urql",
+            "url": "https://formidable.com/open-source/urql/",
+            "content": "React Hooksに対応したGraphQLを扱うReact向けライブラリ。\nQueryの取得状態や取得結果を使ったコンポーネントを扱える",
+            "tags": [
+                "GraphQL",
+                "React",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Urql, Grown Up",
+                    "url": "https://formidable.com/open-source/urql/"
+                }
+            ]
         }
     ]
 }
