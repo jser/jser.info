@@ -221,6 +221,17 @@
                     "url": "https://webkit.org/blog/8937/creating-web-inspector-audits/"
                 }
             ]
+        },
+        {
+            "date": "2019-06-08T10:16:21.021Z",
+            "title": "npmfs - home",
+            "url": "https://npmfs.com/",
+            "content": "npmに公開されているパッケージのソースコードビューアサービス。\n特定のバージョンのコードを参照したり、バージョン間のDiffを見られるようになっている。",
+            "tags": [
+                "npm",
+                "webservice"
+            ],
+            "relatedLinks": []
         }
     ]
 }
