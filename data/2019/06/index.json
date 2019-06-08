@@ -204,6 +204,23 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-06-08T01:51:42.649Z",
+            "title": "Audits in Web Inspector | WebKit",
+            "url": "https://webkit.org/blog/8935/audits-in-web-inspector/",
+            "content": "Safariの開発者ツールに追加されたAudit Tabについて。\nデフォルトではアクセシビリティについてのAuditが含まれていて、自分でAuditのルールを定義して追加できるようになっている。\n例としてESLintを`*.js`に対して実行するAuditルールが挙げられている。",
+            "tags": [
+                "safari",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Creating Web Inspector Audits | WebKit",
+                    "url": "https://webkit.org/blog/8937/creating-web-inspector-audits/"
+                }
+            ]
         }
     ]
 }
