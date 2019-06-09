@@ -234,10 +234,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-06-09T10:57:18.237Z",
+            "date": "2019-06-09T10:57:51.720Z",
             "title": "mathjs v6: a monolith turned modular - Jos de Jong",
             "url": "https://josdejong.com/blog/2019/06/08/mathjs-v6-a-monolith-turned-modular/",
-            "content": "matchjs v6リリース。\nモノリシックからモジューラーなアプローチで利用できるように変更。\nグローバルな設定ではなく`create`関数で依存と設定から特定の機能を作れるように、ES moduleでimportした際にtree-shakingができるように。\nまた`number`のみをサポートしたバージョンも同梱されている。",
+            "content": "matchjs v6リリース。\nモジューラーなアプローチで利用できるように変更。\nグローバルな設定ではなく`create`関数で依存と設定から特定の機能を作れるように、ES moduleでimportした際にtree-shakingができるように。\nまた`number`のみをサポートしたバージョンも同梱されている。",
             "tags": [
                 "JavaScript",
                 "library",
