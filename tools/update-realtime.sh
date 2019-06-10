@@ -8,7 +8,7 @@ tmpDir=$(mktemp -d 2>/dev/null||mktemp -d -t tmp)
 # items.jsonを作成する
 node ${currentDir}/converter/all_in_one_JSON.js
 
-lastCommit=$(git log --oneline | head -n 1)
+lastCommit=$(git log --date=short --format="[%ad] %B" -n 1 | head -n 1)
 #
 git clone --depth 1 https://github.com/jser/realtime.jser.info.git "${tmpDir}/realtime.jser.info"
 mv ${currentDir}/converter/items.json "${tmpDir}/realtime.jser.info/_data/"
