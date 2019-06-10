@@ -305,6 +305,28 @@
                     "url": "https://inside-frontend.com/"
                 }
             ]
+        },
+        {
+            "date": "2019-06-10T13:08:42.099Z",
+            "title": "Storybook 5.1",
+            "url": "https://medium.com/storybookjs/storybook-5-1-50afd02b5bbb",
+            "content": "Stroybook 5.1リリース。\nReact Nativeの再対応、A11y addonの改善、Context addonの追加、TypeScrip向けのpresetを追加など",
+            "tags": [
+                "開発環境",
+                "UI",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Real-time accessibility testing with Storybook",
+                    "url": "https://medium.com/storybookjs/instant-accessibility-qa-linting-in-storybook-4a474b0f5347"
+                },
+                {
+                    "title": "Intro to Presets",
+                    "url": "https://storybook.js.org/docs/presets/introduction/"
+                }
+            ]
         }
     ]
 }
