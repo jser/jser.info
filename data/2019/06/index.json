@@ -343,6 +343,18 @@
                     "url": "https://github.com/jakearchibald/idb"
                 }
             ]
+        },
+        {
+            "date": "2019-06-10T13:51:22.209Z",
+            "title": "Enabling Modern JavaScript on npm",
+            "url": "https://jasonformat.com/enabling-modern-js-on-npm/",
+            "content": "npmにパッケージとして公開するモジュールについて。\nBundleツールなどの変化によって、Transpile済みのファイルのみを配布すると利用者は最適化ができない問題について。\n`package.json`の`\"main\"`、`\"module\"`、`\"unpkg\"`フィールドと配布するモジュールの形式やパッケージ作者が配布時に気をつける点。\nまたmicrobundleや`@pika/pack`などのパッケージ配布の補助ツールについてなど",
+            "tags": [
+                "JavaScript",
+                "article",
+                "npm"
+            ],
+            "relatedLinks": []
         }
     ]
 }
