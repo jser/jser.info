@@ -327,6 +327,22 @@
                     "url": "https://storybook.js.org/docs/presets/introduction/"
                 }
             ]
+        },
+        {
+            "date": "2019-06-10T13:12:49.687Z",
+            "title": "Dive into IndexedDB",
+            "url": "https://flaviocopes.com/indexeddb/",
+            "content": "PromiseベースのIndexedDBラッパーである`idb`を使ったIndexedDBについてのチュートリアル。\nデータの追加、削除、マイグレーションについて",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "jakearchibald/idb: IndexedDB, but with promises",
+                    "url": "https://github.com/jakearchibald/idb"
+                }
+            ]
         }
     ]
 }
