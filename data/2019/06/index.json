@@ -378,6 +378,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-06-12T14:12:24.245Z",
+            "title": "仕事ですぐに使えるTypeScript — 仕事ですぐに使えるTypeScript ドキュメント",
+            "url": "https://future-architect.github.io/typescript-guide/index.html",
+            "content": "TypeScriptについて学ぶためのドキュメント。\n基本的なJavaScriptの書き方、型の書き方、アプリケーションの作成についてなど",
+            "tags": [
+                "TypeScript",
+                "book",
+                "tutorial"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "TypeScript教育用コンテンツ公開のお知らせ | Future Tech Blog - フューチャーアーキテクト",
+                    "url": "https://future-architect.github.io/articles/20190612/"
+                }
+            ]
         }
     ]
 }
