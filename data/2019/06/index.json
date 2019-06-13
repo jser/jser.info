@@ -395,6 +395,18 @@
                     "url": "https://future-architect.github.io/articles/20190612/"
                 }
             ]
+        },
+        {
+            "date": "2019-06-13T00:46:36.517Z",
+            "title": "Release v2.5.0 · fastify/fastify",
+            "url": "https://github.com/fastify/fastify/releases/tag/v2.5.0",
+            "content": "Node.jsウェブフレームワークのfastify 2.5.0リリース。\nレスポンスタイムを取得できる`Reply#getResponseTime`の追加など",
+            "tags": [
+                "node.js",
+                "server",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
