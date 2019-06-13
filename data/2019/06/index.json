@@ -407,6 +407,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-06-13T06:01:22.611Z",
+            "title": "Pika CDN - Pika",
+            "url": "https://www.pika.dev/cdn",
+            "content": "ES Moduleに対応したnpmモジュールCDNサービス。\nUA別に最適化したビルド結果のパッケージを返すことができる。",
+            "tags": [
+                "JavaScript",
+                "module",
+                "webservice"
+            ],
+            "relatedLinks": []
         }
     ]
 }
