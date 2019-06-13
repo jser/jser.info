@@ -419,6 +419,24 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-06-13T23:47:52.134Z",
+            "title": "Release v7.1.0 · reduxjs/react-redux",
+            "url": "https://github.com/reduxjs/react-redux/releases/tag/v7.1.0",
+            "content": "React-Redux 7.1.0リリース。\nReact Hooksに対応、`useSelector`の第2引数に`deps`オプションの追加など",
+            "tags": [
+                "React",
+                "redux",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Hooks · React Redux",
+                    "url": "https://react-redux.js.org/next/api/hooks"
+                }
+            ]
         }
     ]
 }
