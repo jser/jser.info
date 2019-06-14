@@ -437,6 +437,27 @@
                     "url": "https://react-redux.js.org/next/api/hooks"
                 }
             ]
+        },
+        {
+            "date": "2019-06-14T03:06:31.567Z",
+            "title": "Release v0.101.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.101.0",
+            "content": "FlowType v0.101.0リリース。\ninexact object syntaxである`...`のlintに対応、関数の型パラメータのデフォルト型を指定可能になるなど",
+            "tags": [
+                "JavaScript",
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "On the Roadmap: Exact Objects by Default – Flow – Medium",
+                    "url": "https://medium.com/flow-type/on-the-roadmap-exact-objects-by-default-16b72933c5cf"
+                },
+                {
+                    "title": "flow - allow type parameter defaults in function declarations by tanhauhau · Pull Request #10084 · babel/babel",
+                    "url": "https://github.com/babel/babel/pull/10084"
+                }
+            ]
         }
     ]
 }
