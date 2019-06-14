@@ -24,6 +24,8 @@ if [ -z "${GH_TOKEN}" ]; then
     git push --quiet "https://github.com/jser/realtime.jser.info.git" gh-pages:gh-pages > /dev/null 2>&1
 else
     git push --quiet "https://${GH_TOKEN}@github.com/jser/realtime.jser.info.git" gh-pages:gh-pages > /dev/null 2>&1
+    # https://github.com/jser/realtime.jser.info/issues/2
+    curl --silent -X POST -H "Accept: application/vnd.github.mister-fantastic-preview+json" -H "Authorization: token $GH_TOKEN" https://api.github.com/repos/jser/realtime.jser.info/pages/builds
 fi
 # pop
 cd -
