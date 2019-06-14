@@ -458,6 +458,17 @@
                     "url": "https://github.com/babel/babel/pull/10084"
                 }
             ]
+        },
+        {
+            "date": "2019-06-14T07:30:28.787Z",
+            "title": "Release Notes for Safari Technology Preview 85 | WebKit",
+            "url": "https://webkit.org/blog/9281/release-notes-for-safari-technology-preview-85/",
+            "content": "Safari Technology Preview 85リリース。\nPointer Eventsの対応改善、`Promise.allSettled`の実装、ES PropoaslのNumeric Separatorを実装など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
