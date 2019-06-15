@@ -469,6 +469,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-06-15T10:42:09.119Z",
+            "title": "New in Chrome 75  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2019/06/nic75",
+            "content": "Chrome 75リリース。\n低遅延Canvasを利用できる`desynchronized`オプションのサポート、Web Share APIがファイルをサポート、ES ProposalのNumeric separatorのサポート。\nまた、`playsInline`のサポート、HTTPヘッダの`stale-while-revalidate`レスポンスディレティブのサポート、CSPで`script-src-attr`ディレクティブなどを追加など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Google Developers Japan: Chrome 75: 低遅延キャンバス コンテキスト、ファイル共有、数値セパレータ",
+                    "url": "https://developers-jp.googleblog.com/2019/06/chrome-75.html"
+                }
+            ]
         }
     ]
 }
