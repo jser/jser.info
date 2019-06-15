@@ -485,6 +485,18 @@
                     "url": "https://developers-jp.googleblog.com/2019/06/chrome-75.html"
                 }
             ]
+        },
+        {
+            "date": "2019-06-15T10:45:16.946Z",
+            "title": "How to Use the Web Share API | CSS-Tricks",
+            "url": "https://css-tricks.com/how-to-use-the-web-share-api/",
+            "content": "Web Share APIの使い方についての記事。サポートブラウザやFeature Detect、APIの使い方について。\nまたサポートしていない場合のFallbackについて",
+            "tags": [
+                "WebPlatformAPI",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
