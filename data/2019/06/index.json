@@ -542,6 +542,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-06-16T13:03:16.267Z",
+            "title": "TypeScript Playground | The unofficial playground for advanced TypeScript users",
+            "url": "https://playground.type-puzzle.org/",
+            "content": "`@types/*`モジュールの型も解決できるTypeScript  Playground",
+            "tags": [
+                "TypeScript",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "「外部パッケージの型定義もインストールし推論できるTypeScript playgroundを作った」という題で登壇してきました＋スライドの補足 | WEB EGG",
+                    "url": "https://blog.leko.jp/post/introduce-the-new-typescript-playground-for-advanced-use/"
+                }
+            ]
         }
     ]
 }
