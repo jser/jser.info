@@ -530,6 +530,18 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-06-16T13:01:58.470Z",
+            "title": "josdejong/workerpool: Offload tasks to a pool of workers on node.js and in the browser",
+            "url": "https://github.com/josdejong/workerpool",
+            "content": "ブラウザのWeb WorkerやNode.jsの`worker_threads`に対応したWorker Poolライブラリ。",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
