@@ -602,6 +602,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-06-20T07:18:53.010Z",
+            "title": "V8 release v7.6 · V8",
+            "url": "https://v8.dev/blog/v8-release-76",
+            "content": "V8 7.6リリース。\n`JSON.parse`、`Object.freeze`された配列のパフォーマンス改善。\nES Proposalの`Promise.allSettled`の実装、`BigInt`と`Intl.DateTimeFormat`の対応改善など",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
