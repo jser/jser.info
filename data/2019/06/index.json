@@ -625,6 +625,18 @@
                 "accessibility"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-06-20T15:09:47.783Z",
+            "title": "The npm Blog — Protecting Package Publishers: npm Token Security...",
+            "url": "https://blog.npmjs.org/post/185680936500/protecting-package-publishers-npm-token-security",
+            "content": "GitHubにnpmのtokenが誤って公開された場合に自動的にrevokeされるようになった。",
+            "tags": [
+                "npm",
+                "Github",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
