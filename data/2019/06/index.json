@@ -693,6 +693,19 @@
                     "url": "https://qiita.com/mysticatea/items/274347ff9473b26b575a"
                 }
             ]
+        },
+        {
+            "date": "2019-06-23T13:41:21.002Z",
+            "title": "Bringing service workers to Google Search  |  web.dev",
+            "url": "https://web.dev/google-search-sw/",
+            "viaURL": "https://github.com/jser/ping/issues/145",
+            "content": "Google検索でのService Worker利用と工夫について。\nNavigation Preloadでのオーバーヘッドの対応、SWのScopeの問題とルーティング、SWでクッキーが扱えない問題の対応、ユーザー毎にSWスクリプトの動的作成。\nSWスクリプトの`Cache-Control`の設定、アプリに合わせたSWの設定についてなど\n",
+            "tags": [
+                "JavaScript",
+                "ServiceWorker",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
