@@ -734,6 +734,23 @@
                     "url": "https://microsoft.github.io/just/"
                 }
             ]
+        },
+        {
+            "date": "2019-06-24T22:41:58.287Z",
+            "title": "[Release News] TOAST UI Grid 4.0 is Finally Here! - TOAST UI - Medium",
+            "url": "https://medium.com/@toastui/release-news-toast-ui-grid-4-0-is-finally-here-585934ddf091",
+            "content": "Preactを使ったグリッドUIライブラリのTOASTUI Grid 4.0リリース。\nファイルサイズの削減、TypeScriptに書き換え、Column Virtual Scrollの対応など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "nhn/tui.grid: 🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!",
+                    "url": "https://github.com/nhn/tui.grid#features"
+                }
+            ]
         }
     ]
 }
