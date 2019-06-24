@@ -718,6 +718,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-06-24T12:43:09.801Z",
+            "title": "microsoft/just: The task library that just works",
+            "url": "https://github.com/microsoft/just",
+            "content": "Task Runner/Build library。\n`just-task`ではgulpのようにタスクを定義して実行できる。`just-scripts`というTypeScript/Jest/webpackなどを簡単に扱えるビルドライブラリが用意されている。",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Just ____ · The task library that just works",
+                    "url": "https://microsoft.github.io/just/"
+                }
+            ]
         }
     ]
 }
