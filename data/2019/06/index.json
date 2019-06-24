@@ -706,6 +706,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-06-24T12:03:30.940Z",
+            "title": "Array.prototype.flat and Array.prototype.flatMap · V8",
+            "url": "https://v8.dev/features/array-flat-flatmap",
+            "content": "ES2019で入る予定のArray#flatとArray#flatMapの使い方について",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
