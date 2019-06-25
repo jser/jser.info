@@ -751,6 +751,27 @@
                     "url": "https://github.com/nhn/tui.grid#features"
                 }
             ]
+        },
+        {
+            "date": "2019-06-25T00:40:18.637Z",
+            "title": "rfcs/0000-function-api.md at function-apis · vuejs/rfcs",
+            "url": "https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md",
+            "content": "VueにReact HooksのようなFunction-basedコンポーネントを導入するRFCが公開された。\nVue 2.x、3.xを対象に後方互換性を保った新しい機能として追加するProposal。",
+            "tags": [
+                "Vue",
+                "proposal",
+                "issue"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Function-based Component API by yyx990803 · Pull Request #42 · vuejs/rfcs",
+                    "url": "https://github.com/vuejs/rfcs/pull/42"
+                },
+                {
+                    "title": "Function-based component API (extended discussion) · Issue #55 · vuejs/rfcs",
+                    "url": "https://github.com/vuejs/rfcs/issues/55"
+                }
+            ]
         }
     ]
 }
