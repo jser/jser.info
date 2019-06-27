@@ -806,6 +806,17 @@
                     "url": "https://github.com/WICG/layout-instability"
                 }
             ]
+        },
+        {
+            "date": "2019-06-27T14:18:30.610Z",
+            "title": "Release: npm@6.9.1 - 📣 announcements - npm forum",
+            "url": "https://npm.community/t/release-npm-6-9-1/8435",
+            "content": "npm 6.9.1リリース。\n`npm token create`のバグ修正、`npm --global outdated`が動かない問題の修正など",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
