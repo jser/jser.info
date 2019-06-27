@@ -772,6 +772,23 @@
                     "url": "https://github.com/vuejs/rfcs/issues/55"
                 }
             ]
+        },
+        {
+            "date": "2019-06-27T11:36:38.835Z",
+            "title": "The Secret of Good Electron Apps",
+            "url": "https://jlongster.com/secret-of-good-electron-apps",
+            "content": "Electronアプリのパターンについての記事。\nメモリの消費を抑えるために、バックグラウンドサーバを作り必要なデータを都度読み込んで返すようにする。\nまた開発時はバックグラウンドサーバの代わりに別のウィンドウを使うことでデバッグがしやすくなることについてなど",
+            "tags": [
+                "Electron",
+                "article",
+                "debug"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "jlongster/electron-with-server-example: An example Electron app with a backend server all wired up via IPC",
+                    "url": "https://github.com/jlongster/electron-with-server-example"
+                }
+            ]
         }
     ]
 }
