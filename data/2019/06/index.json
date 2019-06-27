@@ -789,6 +789,23 @@
                     "url": "https://github.com/jlongster/electron-with-server-example"
                 }
             ]
+        },
+        {
+            "date": "2019-06-27T13:48:27.938Z",
+            "title": "The Layout Instability API  |  web.dev",
+            "url": "https://web.dev/layout-instability-api",
+            "content": "Chrome 74で試験的に実装されているレイアウトの意図しない変化を監視するLayout Instability APIについて。\nロード後に非同期なタイミングで要素の位置が変化するといった現象を検知できるAPI",
+            "tags": [
+                "Chrome",
+                "WebPlatformAPI",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "WICG/layout-instability: A proposal for a Layout Instability specification",
+                    "url": "https://github.com/WICG/layout-instability"
+                }
+            ]
         }
     ]
 }
