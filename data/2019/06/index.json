@@ -828,6 +828,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-06-29T06:25:10.843Z",
+            "title": "Node v12.5.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v12.5.0/",
+            "content": "Node.js 12.5.0リリース。\nV8スナップショットをデフォルトで有効化し起動時間の削減、V8とOpenSSLのアップデート、`worker.terminate()`がPromiseを返すように変更など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
