@@ -817,6 +817,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-06-29T05:51:54.271Z",
+            "title": "mixer/webpack-bundle-compare: A tool for comparing webpack bundle stats",
+            "url": "https://github.com/mixer/webpack-bundle-compare",
+            "content": "webpackのbundleファイルを分析するツール。\nwebpack pluginとしてstatsファイルを出力し、それを読みんで分析結果を表示するDashboardツール",
+            "tags": [
+                "webpack",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
