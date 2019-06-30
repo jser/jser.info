@@ -851,6 +851,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-06-30T06:22:26.455Z",
+            "title": "Release Notes for Safari Technology Preview 86 | WebKit",
+            "url": "https://webkit.org/blog/9375/release-notes-for-safari-technology-preview-86/",
+            "content": "Safari Technology Preview 86リリース。\n`String.prototype.matchAll`のサポート、CSSの`tab-size`プロパティのサポート、Web Shading Language(WHLSL)の試験的実装など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Web High Level Shading Language | WebKit",
+                    "url": "https://webkit.org/blog/8482/web-high-level-shading-language/"
+                }
+            ]
         }
     ]
 }
