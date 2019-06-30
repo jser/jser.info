@@ -867,6 +867,27 @@
                     "url": "https://webkit.org/blog/8482/web-high-level-shading-language/"
                 }
             ]
+        },
+        {
+            "date": "2019-06-30T14:57:32.140Z",
+            "title": "Analysis of an Exploited NPM Package || Jarrod Overson - YouTube",
+            "url": "https://www.youtube.com/watch?v=2cyib2MgvdM",
+            "content": "`event-stream@3.3.6`と`flatmap-stream`などnpmパッケージに悪意あるコードが含まれていた事件についての解説をしてる発表動画。\nどのような攻撃コードが含まれていたのかや時系列、影響範囲などについて",
+            "tags": [
+                "npm",
+                "node.js",
+                "video"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "event-stream vulnerability explained - Zach Schneider",
+                    "url": "https://schneider.dev/blog/event-stream-vulnerability-explained/"
+                },
+                {
+                    "title": "The npm Blog — Details about the event-stream incident",
+                    "url": "https://blog.npmjs.org/post/180565383195/details-about-the-event-stream-incident"
+                }
+            ]
         }
     ]
 }
