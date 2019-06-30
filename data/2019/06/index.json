@@ -839,6 +839,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-06-30T06:07:42.057Z",
+            "title": "Hello Darkness, My Old Friend  |  web.dev",
+            "url": "https://web.dev/prefers-color-scheme",
+            "content": "Dark Modeについての記事。\nアクセシビリティツールとしての効果、バッテリー消費を削減する事があることについて。\nまたOSでのDark Modeの設定方法、ウェブサイド側のMedia Queryを使った判定や`prefers-color-scheme`でのDark Mode",
+            "tags": [
+                "Chrome",
+                "browser",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
