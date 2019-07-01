@@ -15,6 +15,18 @@
                     "url": "javascript:history.back()"
                 }
             ]
+        },
+        {
+            "date": "2019-07-01T15:05:59.773Z",
+            "title": "Object.fromEntries · V8",
+            "url": "https://v8.dev/features/object-fromentries",
+            "content": "ES2019で入った`Object.fromEntries`についての解説。\nIterableからObjectを作成して返すAPI。\nMapとObject間のやり取りに利用できる",
+            "tags": [
+                "ECMAScript",
+                "article",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
