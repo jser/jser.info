@@ -27,6 +27,18 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-03T02:42:56.900Z",
+            "title": "The cost of JavaScript in 2019 · V8",
+            "url": "https://v8.dev/blog/cost-of-javascript-2019",
+            "content": "V8におけるJavaScriptのパースコストについての記事。\nMain ThreadとWorker Thread、JSONのパースコストについてなど",
+            "tags": [
+                "JavaScript",
+                "article",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
