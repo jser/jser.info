@@ -52,6 +52,17 @@
                 "yarn"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-03T14:29:35.119Z",
+            "title": "AbemaTVにおけるCSS is too fragile問題に対する解 / Solution of \"CSS is too fragile\" by AbemaTV - Speaker Deck",
+            "url": "https://speakerdeck.com/kubosho/solution-of-css-is-too-fragile-by-abematv",
+            "content": "CSS Modulesにおいてディレクトリ変更でデグレッションが発生したケースについてのスライド。\n読み込み順を明示的定義する方法に変更した話",
+            "tags": [
+                "CSS",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
