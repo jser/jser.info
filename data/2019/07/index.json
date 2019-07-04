@@ -75,6 +75,23 @@
                 "Rust"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-04T00:56:39.358Z",
+            "title": "Reinventing Firefox for Android: a Preview - Future Releases",
+            "url": "https://blog.mozilla.org/futurereleases/2019/06/27/reinventing-firefox-for-android-a-preview/",
+            "content": "GeckoViewを搭載したAndroid向けのFirefox Previewが公開された。\nFirefox for Androidに比べてパフォーマンスの改善、Tracking Protectionがデフォルトで有効といった違いがある。",
+            "tags": [
+                "Firefox",
+                "Android",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "GeckoView in 2019 - Mozilla Hacks - the Web developer blog",
+                    "url": "https://hacks.mozilla.org/2019/06/geckoview-in-2019/"
+                }
+            ]
         }
     ]
 }
