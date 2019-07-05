@@ -92,6 +92,17 @@
                     "url": "https://hacks.mozilla.org/2019/06/geckoview-in-2019/"
                 }
             ]
+        },
+        {
+            "date": "2019-07-05T12:34:52.176Z",
+            "title": "Release v7.5.0 · babel/babel",
+            "url": "https://github.com/babel/babel/releases/tag/v7.5.0",
+            "content": "Babel 7.5.0リリース。\ndynamic importのサポートをを`@babel/preset-env`に追加、\n`babel-plugin-transform-typescript`がnamespaceをサポートなど",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
