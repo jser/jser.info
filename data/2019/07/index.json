@@ -94,7 +94,7 @@
             ]
         },
         {
-            "date": "2019-07-06T01:05:55.004Z",
+            "date": "2019-07-06T04:49:02.395Z",
             "title": "Release v7.5.0 · babel/babel",
             "url": "https://github.com/babel/babel/releases/tag/v7.5.0",
             "content": "Babel 7.5.0リリース。\ndynamic importのサポートを`@babel/preset-env`に追加、\n`babel-plugin-transform-typescript`がnamespaceをサポートなど",
@@ -102,7 +102,12 @@
                 "babel",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "7.5.0 Released: dynamic import and F# pipelines · Babel",
+                    "url": "https://babeljs.io/blog/2019/07/03/7.5.0"
+                }
+            ]
         },
         {
             "date": "2019-07-06T03:09:29.930Z",
