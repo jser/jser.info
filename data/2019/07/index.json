@@ -168,6 +168,24 @@
                     "url": "https://github.com/chrisguttandin/standardized-audio-context/blob/master/test/integration/memory.js"
                 }
             ]
+        },
+        {
+            "date": "2019-07-07T14:32:33.925Z",
+            "title": "Announcing React Native 0.60 · React Native",
+            "url": "https://facebook.github.io/react-native/blog/2019/07/03/version-60",
+            "content": "React Native 0.60リリース。\nアクセシビリティの改善、スタート画面の変更、AndroidXのサポート、CocoaPodsの対応改善、コアからコミュニティに移動した`NetInfo`、`WebView`、`Geolocation`を削除など",
+            "tags": [
+                "React",
+                "iOS",
+                "Android",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "releases/CHANGELOG.md at master · react-native-community/releases",
+                    "url": "https://github.com/react-native-community/releases/blob/master/CHANGELOG.md#060"
+                }
+            ]
         }
     ]
 }
