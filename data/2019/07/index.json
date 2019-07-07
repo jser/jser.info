@@ -186,6 +186,18 @@
                     "url": "https://github.com/react-native-community/releases/blob/master/CHANGELOG.md#060"
                 }
             ]
+        },
+        {
+            "date": "2019-07-07T14:58:05.861Z",
+            "title": "jsdoctypeparser/jsdoctypeparser: Parser module for JsDoc or Closure Compiler format type-annotation.",
+            "url": "https://github.com/jsdoctypeparser/jsdoctypeparser",
+            "content": "JSDocパーサライブラリ。\nClosure Compiler形式、TypeScript形式などに対応していていて、JSDOcをパースしてASTを出力する。",
+            "tags": [
+                "JavaScript",
+                "JSDoc",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
