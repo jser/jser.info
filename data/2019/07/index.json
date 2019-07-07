@@ -198,6 +198,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-07T15:04:51.898Z",
+            "title": "Request.destinationでリソースの種類別にキャッシュ戦略 | フロントエンドBlog | ミツエーリンクス",
+            "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/201907/05_0944.html",
+            "content": "Fetch APIの`Request.destination`について。\nService Workerで取得先のリソースの種類に応じたキャッシュの切り分けなどについて",
+            "tags": [
+                "Fetch",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
