@@ -222,6 +222,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-08T12:29:50.917Z",
+            "title": "Using Slots In Vue.js — Smashing Magazine",
+            "url": "https://www.smashingmagazine.com/2019/07/using-slots-vue-js/",
+            "content": "VueのSlotについての記事。\n`<slot>`の使い方、`v-slot`ディレクトティブ、Scoped Slotについて。\nまた再利用可能なコンポーネントの書き方についてなど",
+            "tags": [
+                "Vue",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
