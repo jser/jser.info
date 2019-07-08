@@ -209,6 +209,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-08T12:05:09.500Z",
+            "title": "Blog - Next.js 9 | Next.js",
+            "url": "https://nextjs.org/blog/next-9",
+            "content": "Next.js 9リリース。\nTypeScriptのビルトインサポート、Next.jsのコアをTypeScriptで書き直し、Dynamically Routingのサポート、`api/`でAPI Routesのサポート。\nまた、ページごとのconfigをサポート、ビルドの最適化など",
+            "tags": [
+                "React",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
