@@ -233,6 +233,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-08T15:12:22.333Z",
+            "title": "Fetch API: Building a Fetch Polyfill From Scratch (For Fun and Promise)",
+            "url": "https://www.valentinog.com/blog/fetch-api/",
+            "content": "Fetch APIの簡単なPolyfillを書きながら、Fetch APIとPromiseについて学ぶ記事。",
+            "tags": [
+                "Fetch",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
