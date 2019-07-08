@@ -256,6 +256,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-08T15:30:46.346Z",
+            "title": "Node v12.6.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v12.6.0/",
+            "content": "Node.js 12.6.0リリース。\n`child_process.exec`/`execFile`の返すPromiseオブジェクトが`child`プロパティを持つように、`process.resourceUsage()`の追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
