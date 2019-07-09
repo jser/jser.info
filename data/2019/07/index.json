@@ -110,13 +110,14 @@
             ]
         },
         {
-            "date": "2019-07-06T03:09:29.930Z",
+            "date": "2019-07-09T03:26:53.446Z",
             "title": "frenic/csstype: Strict TypeScript and Flow types for style based on MDN data",
             "url": "https://github.com/frenic/csstype",
             "content": "MDNのデータをつかいCSSプロパティのTypeScript型定義を生成したライブラリ",
             "tags": [
                 "TypeScript",
-                "CSS"
+                "CSS",
+                "library"
             ],
             "relatedLinks": []
         },
