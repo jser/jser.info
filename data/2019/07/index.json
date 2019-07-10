@@ -293,7 +293,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-07-10T12:04:33.659Z",
+            "date": "2019-07-10T13:49:40.031Z",
             "title": "Firefox 68.0, See All New Features, Updates and Fixes",
             "url": "https://www.mozilla.org/en-US/firefox/68.0/releasenotes/",
             "content": "Firefox 68.0リリース。\nFirefox ESRとなるバージョン。\n開発者ツールのネットワークパネルで特定のURLをブロックできるように、Android版でVisual Viewport APIの有効化、CSS Scroll Snapの仕様追従など",
@@ -301,7 +301,16 @@
                 "Firefox",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Firefox 68: BigInts, Contrast Checks, and the QuantumBar - Mozilla Hacks - the Web developer blog",
+                    "url": "https://hacks.mozilla.org/2019/07/firefox-68-bigints-contrast-checks-and-the-quantumbar/"
+                },
+                {
+                    "title": "Firefox 68 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/68"
+                }
+            ]
         }
     ]
 }
