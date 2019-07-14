@@ -311,6 +311,23 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/68"
                 }
             ]
+        },
+        {
+            "date": "2019-07-14T05:08:13.003Z",
+            "title": "Snyk research team discovers severe prototype pollution security vulnerabilities affecting all versions of lodash | Snyk",
+            "url": "https://snyk.io/blog/snyk-research-team-discovers-severe-prototype-pollution-security-vulnerabilities-affecting-all-versions-of-lodash/",
+            "content": "lodash 4.17.12で修正されたPrototype Pollutionの脆弱性についての解説。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "security"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Node.jsにおけるプロトタイプ汚染攻撃とは何か - ぼちぼち日記",
+                    "url": "https://jovi0608.hatenablog.com/entry/2018/10/19/083725"
+                }
+            ]
         }
     ]
 }
