@@ -313,14 +313,15 @@
             ]
         },
         {
-            "date": "2019-07-14T05:08:13.003Z",
+            "date": "2019-07-14T05:08:38.559Z",
             "title": "Snyk research team discovers severe prototype pollution security vulnerabilities affecting all versions of lodash | Snyk",
             "url": "https://snyk.io/blog/snyk-research-team-discovers-severe-prototype-pollution-security-vulnerabilities-affecting-all-versions-of-lodash/",
             "content": "lodash 4.17.12で修正されたPrototype Pollutionの脆弱性についての解説。",
             "tags": [
                 "JavaScript",
                 "library",
-                "security"
+                "security",
+                "article"
             ],
             "relatedLinks": [
                 {
