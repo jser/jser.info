@@ -401,6 +401,18 @@
                 "C言語"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-15T05:26:45.415Z",
+            "title": "Yomguithereal's Shenanigans - Implementing an efficient LRU cache in JavaScript",
+            "url": "https://yomguithereal.github.io/posts/lru-cache",
+            "content": "JavaScriptでのLRUの実装について。\nDouble Linked Listの仕組み、Mapを使った実装。\nLRUの更新コストの大部分は削除にあることなどについて",
+            "tags": [
+                "JavaScript",
+                "article",
+                "algorithm"
+            ],
+            "relatedLinks": []
         }
     ]
 }
