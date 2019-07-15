@@ -377,6 +377,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-15T03:11:02.470Z",
+            "title": "facebook/hermes: Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.",
+            "url": "https://github.com/facebook/hermes",
+            "content": "React NativeのAndroid向けのJavaScriptエンジン。\nJavaScriptをレジスターベースのバイトコードにコンパイルし、モバイルでも高速に実行することが目的。",
+            "tags": [
+                "JavaScript",
+                "Android"
+            ],
+            "relatedLinks": []
         }
     ]
 }
