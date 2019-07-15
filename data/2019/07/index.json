@@ -389,6 +389,18 @@
                 "React"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-15T03:28:10.334Z",
+            "title": "QuickJS Javascript Engine",
+            "url": "https://bellard.org/quickjs/",
+            "content": "ES2019の仕様を実装したJavaScriptエンジン。\nCで実装されていて、外部依存を持たない。",
+            "tags": [
+                "JavaScript",
+                "software",
+                "C言語"
+            ],
+            "relatedLinks": []
         }
     ]
 }
