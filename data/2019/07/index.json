@@ -413,6 +413,23 @@
                 "algorithm"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-15T05:27:50.649Z",
+            "title": "Release v1.0.0 · quasarframework/quasar",
+            "url": "https://github.com/quasarframework/quasar/releases/tag/v1.0.0",
+            "content": "Vueを使ったUIフレームワークのQuasar 1.0.0リリース。",
+            "tags": [
+                "Vue",
+                "UI",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Quasar 1.0",
+                    "url": "https://medium.com/quasar-framework/quasar-1-0-4bc696d60c1b"
+                }
+            ]
         }
     ]
 }
