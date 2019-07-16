@@ -453,6 +453,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-16T00:06:01.350Z",
+            "title": "How Google Pagespeed works: Improve Your Score and Search Engine Ranking",
+            "url": "https://calibreapp.com/blog/how-pagespeed-works/",
+            "content": "GoogleのPageSpeed Insights(PSI) 5.0について。\nPSI 5.0のスコアはLighthouseと同じになったことやLighthouseのスコア計算の仕組み、TTIの影響についてなど",
+            "tags": [
+                "google",
+                "performance",
+                "browser",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release Notes  |  PageSpeed Insights  |  Google Developers",
+                    "url": "https://developers.google.com/speed/docs/insights/release_notes"
+                }
+            ]
         }
     ]
 }
