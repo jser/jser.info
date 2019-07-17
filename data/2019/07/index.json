@@ -471,6 +471,18 @@
                     "url": "https://developers.google.com/speed/docs/insights/release_notes"
                 }
             ]
+        },
+        {
+            "date": "2019-07-17T14:59:31.741Z",
+            "title": "laverdet/isolated-vm: Secure & isolated JS environments for nodejs",
+            "url": "https://github.com/laverdet/isolated-vm",
+            "content": "V8 Isolateを使ってNode.jsからJavaScriptを隔離した環境で実行するライブラリ",
+            "tags": [
+                "node.js",
+                "library",
+                "V8"
+            ],
+            "relatedLinks": []
         }
     ]
 }
