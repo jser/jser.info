@@ -506,6 +506,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-18T11:49:49.197Z",
+            "title": "Recommended security update | Yarn Blog",
+            "url": "https://yarnpkg.com/blog/2019/07/12/recommended-security-update/",
+            "content": "Yarn 1.17.3リリース。\n`*.yarnpkg.com`、`*.npmjs.org`, `*.npmjs.com`のレジストリに対する通信は自動的にhttpsで通信するようにする修正",
+            "tags": [
+                "yarn",
+                "ReleaseNote",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
