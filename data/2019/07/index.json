@@ -483,6 +483,17 @@
                 "V8"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-18T11:32:03.207Z",
+            "title": "Ember.js - Ember 3.11 Released",
+            "url": "https://blog.emberjs.com/2019/07/15/ember-3-11-released.html",
+            "content": "Ember 3.11リリース。\n`...attributes`構文のサポート、`{{fn}}` helper、`{{on}}` modifierの追加。\n`Function.prototype.observes`の非推奨化など",
+            "tags": [
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
