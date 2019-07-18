@@ -494,6 +494,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-18T11:42:27.629Z",
+            "title": "Use React.memo() wisely",
+            "url": "https://dmitripavlutin.com/use-react-memo-wisely/",
+            "content": "`React.memo()`の役割と使い方について",
+            "tags": [
+                "React",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
