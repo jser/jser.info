@@ -518,6 +518,17 @@
                 "security"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-20T14:01:58.107Z",
+            "title": "Announcing TypeScript 3.6 Beta | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-3-6-beta/",
+            "content": "TypeScript 3.6 ベータリリース。\nGenerator/Iteratorの型改善、 Array Spreadの変換の改善、Promiseの`await`忘れなどのエラー表示改善など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
