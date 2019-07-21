@@ -529,6 +529,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-21T07:20:21.852Z",
+            "title": "Google deprecates XSS Auditor for Chrome | The Daily Swig",
+            "url": "https://portswigger.net/daily-swig/google-deprecates-xss-auditor-for-chrome",
+            "content": "MSEdgeに続いてChromeのXSS Auditorも非推奨となることについて。",
+            "tags": [
+                "Chrome",
+                "XSS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
