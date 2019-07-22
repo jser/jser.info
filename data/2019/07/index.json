@@ -552,6 +552,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-22T12:48:03.259Z",
+            "title": "IntrinsicLabs/osgood: Osgood is a secure, fast, and simple platform for running JavaScript HTTP servers.",
+            "url": "https://github.com/IntrinsicLabs/osgood",
+            "content": "Rustで書かれたV8ベースのHTTPサーバ。ルーティングのハンドラはWorkerとして実行され、リクエストに対するレスポンスを返す",
+            "tags": [
+                "V8",
+                "server",
+                "Rust"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing Osgood - DEV Community 👩‍💻👨‍💻",
+                    "url": "https://dev.to/tlhunter/introducing-osgood-4k1m"
+                }
+            ]
         }
     ]
 }
