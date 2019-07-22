@@ -618,6 +618,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-22T23:29:49.238Z",
+            "title": "ehmicky/test-each: 🤖 Repeat tests. Repeat tests. Repeat tests.",
+            "url": "https://github.com/ehmicky/test-each",
+            "viaURL": "https://github.com/jser/ping/issues/149",
+            "content": "Data Driven Testingを行うためのヘルパーライブラリ。\nデータからテストケースを作成するためのイテレートやSeed値を元にしたランダムな値を生成してテストできる",
+            "tags": [
+                "JavaScript",
+                "library",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
