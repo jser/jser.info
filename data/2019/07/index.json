@@ -605,6 +605,19 @@
                 "node.js"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-22T14:10:01.337Z",
+            "title": "Datadog と Lighthouse を利用した WebPerf の継続的計測 | mediba Creator × Engineer Blog",
+            "url": "https://ceblog.mediba.jp/post/186341145447/webperf-measuring-with-lighthouse-and-datadog",
+            "viaURL": "https://github.com/jser/ping/issues/149",
+            "content": "Lighthouseで計測した値をDatadogに保存してメトリクスの可視化を行う方法について",
+            "tags": [
+                "browser",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
