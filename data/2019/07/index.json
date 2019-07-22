@@ -631,6 +631,25 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-22T23:49:07.108Z",
+            "title": "Weak references and finalizers · V8",
+            "url": "https://v8.dev/features/weak-references",
+            "viaURL": "https://github.com/jser/ping/issues/149",
+            "content": "`WeakMap`、`WeakSet`のweakの動作について。\nまたECMAScript Proposalである`WeakRef`と`FinalizationGroup`について。",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "proposal",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "tc39/proposal-weakrefs: WeakRefs",
+                    "url": "https://github.com/tc39/proposal-weakrefs"
+                }
+            ]
         }
     ]
 }
