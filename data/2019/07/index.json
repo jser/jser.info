@@ -581,6 +581,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-22T13:25:33.291Z",
+            "title": "Is postMessage slow? — DasSur.ma",
+            "url": "https://dassur.ma/things/is-postmessage-slow/",
+            "content": "`postMessage`のパフォーマンスについての記事。Structured Clone algorithmとJSONシリアライズでのパフォーマンス比較。\nImmerJSを使った送信するオブジェクトの最小化、ArrayBufferのtransferableなバイナリフォーマットのパフォーマンス。\n100kbまではオブジェクト、それ以上のサイズならバイナリを検討することについて。",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
