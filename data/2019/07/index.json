@@ -541,6 +541,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-22T00:09:26.765Z",
+            "title": "zerobias/effector: The state manager ☄️",
+            "url": "https://github.com/zerobias/effector",
+            "content": "ステート管理ライブラリ。\nEventsやEffectsを使い、StoreのStateを更新という一連の流れの名前空間を管理するDomainのAPIを提供しています。\nVueやReactなどUIフレームワーク向けのアダプターも提供しています。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
