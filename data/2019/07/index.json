@@ -594,6 +594,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-22T13:46:19.470Z",
+            "title": "gajus/lightship: Abstracts readiness/ liveness checks and graceful shutdown of Node.js services running in Kubernetes.",
+            "url": "https://github.com/gajus/lightship",
+            "content": "Kubernetesのヘルスチェックなどに対する抽象層を提供するNode.jsライブラリ",
+            "tags": [
+                "Kubernetes",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
