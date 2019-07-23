@@ -473,14 +473,16 @@
             ]
         },
         {
-            "date": "2019-07-17T14:59:31.741Z",
+            "date": "2019-07-23T00:48:54.560Z",
             "title": "laverdet/isolated-vm: Secure & isolated JS environments for nodejs",
             "url": "https://github.com/laverdet/isolated-vm",
+            "viaURL": "https://github.com/jser/ping/issues/149",
             "content": "V8 Isolateを使ってNode.jsからJavaScriptを隔離した環境で実行するライブラリ",
             "tags": [
                 "node.js",
                 "library",
-                "V8"
+                "V8",
+                "JavaScript"
             ],
             "relatedLinks": []
         },
