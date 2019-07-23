@@ -666,6 +666,19 @@
                 "XSS"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-23T01:09:32.558Z",
+            "title": "Node.js 12: The future of server-side JavaScript - LogRocket Blog",
+            "url": "https://blog.logrocket.com/node-js-12/",
+            "viaURL": "https://github.com/jser/ping/issues/149",
+            "content": "Node.js 12の主な変更点について。\nV8の更新によるパフォーマンス改善、TLS 1.3の対応、ヒープサイズがメモリサイズによって決まるように、HTTPパーサの改善、Diagnostic reportsやheap dumpの同梱など。\nまた`worker_thread`のexperimentalフラグが外れ、試験的な機能としてES modulesの対応など",
+            "tags": [
+                "node.js",
+                "ReleaseNote",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
