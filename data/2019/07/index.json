@@ -652,6 +652,20 @@
                     "url": "https://github.com/tc39/proposal-weakrefs"
                 }
             ]
+        },
+        {
+            "date": "2019-07-23T01:03:02.061Z",
+            "title": "Introduction - Content Security Policy",
+            "url": "https://csp.withgoogle.com/docs/index.html",
+            "viaURL": "https://github.com/jser/ping/issues/149",
+            "content": "CSP(Content Security Policy)についての解説サイト。\nCSPとはどのようにXSSを防ぐのか、使う理由/使わない理由、CSPの設定、FAQなどが書かれている",
+            "tags": [
+                "CSP",
+                "security",
+                "browser",
+                "XSS"
+            ],
+            "relatedLinks": []
         }
     ]
 }
