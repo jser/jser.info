@@ -678,6 +678,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-25T10:59:51.041Z",
+            "title": "What's New In DevTools (Chrome 77)  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2019/07/devtools",
+            "content": "Chrome 77の開発者ツールの更新点について。\n要素のスタイルをコピーできるよう、Layout Instabilityの可視化、Lighthouse 5.1へのアップデート、ネットワークパネルにPrefetch cacheの表示が出るように。\nまた、Push通知などがApplicationパネルで確認できるようになるなど",
+            "tags": [
+                "Chrome",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
