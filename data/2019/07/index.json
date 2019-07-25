@@ -690,6 +690,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-25T11:10:17.506Z",
+            "title": "Release v2.0.1 · MithrilJS/mithril.js",
+            "url": "https://github.com/MithrilJS/mithril.js/releases/tag/v2.0.1",
+            "content": "mithril.js 2.0リリース。\n破壊的変更として`m.redraw()`がデフォルトで非同期となり`m.redraw.sync()`の追加、`m.withAttr`の削除など。\nまた、`m.request`が`timeout`や`responseType`のサポート、IE10以下のサポート終了など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
