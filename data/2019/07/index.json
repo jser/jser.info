@@ -727,6 +727,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-26T13:59:35.821Z",
+            "title": "Node v12.7.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v12.7.0/",
+            "content": "Node v12.7.0リリース。\nnpm 6.10.0へアップデート、`pkg-exports` Proposalの試験的サポート、Policyのチェックを行う`--policy-integrity=sri`オプションの追加。\nまた、DockerのMemory制限(linux cgroupsでの設定)を正しく取得するように修正など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
