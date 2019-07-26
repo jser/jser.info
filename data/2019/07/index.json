@@ -817,6 +817,17 @@
                     "url": "https://github.com/lerna/lerna"
                 }
             ]
+        },
+        {
+            "date": "2019-07-26T23:45:10.602Z",
+            "title": "Release v4.38.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v4.38.0",
+            "content": "webpack v4.38.0 リリース。\nProgressPluginのパフォーマンス改善、chunk graphを生成時に親子関係を追跡することでインクリメントビルド時のchunk生成パフォーマンスを改善など",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
