@@ -749,6 +749,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-26T22:08:51.957Z",
+            "title": "Release v5.2.0 · GoogleChrome/lighthouse",
+            "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v5.2.0",
+            "content": "Lighthouse 5.2.0リリース。\nChrome 77に搭載予定。サードパーティスクリプトのパフォーマンスへの影響を表示できるように、メインスレッドの合計ブロック時間の計測など",
+            "tags": [
+                "Chrome",
+                "performance",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "patrickhulce/third-party-web: Data on third party entities and their impact on the web.",
+                    "url": "https://github.com/patrickhulce/third-party-web"
+                }
+            ]
         }
     ]
 }
