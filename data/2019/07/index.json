@@ -766,6 +766,19 @@
                     "url": "https://github.com/patrickhulce/third-party-web"
                 }
             ]
+        },
+        {
+            "date": "2019-07-26T22:38:38.865Z",
+            "title": "Keeping things fresh with stale-while-revalidate  |  web.dev",
+            "url": "https://web.dev/stale-while-revalidate/",
+            "content": "Chrome 75とFirefox 68でサポートされた`stale-while-revalidate` HTTPヘッダサポートについて。\nキャッシュを利用してすぐレスポンスを返すがバックグラウンドでキャッシュを更新する。\n`Cache-Control: max-age=1, stale-while-revalidate=59`の挙動解説やユースケースなどについて",
+            "tags": [
+                "browser",
+                "HTTP",
+                "article",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
