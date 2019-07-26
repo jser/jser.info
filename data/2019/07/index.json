@@ -715,6 +715,18 @@
                 "翻訳"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-26T13:48:28.208Z",
+            "title": "cube-js/cube.js: 📊 Cube.js - Open Source Analytics Framework",
+            "url": "https://github.com/cube-js/cube.js",
+            "content": "Analyticsフレームワーク。\n分析データを保存、解析するためのバックエンドと分析したデータをグラフ表示、検索するためのフロントエンドを持つフレームワーク。\nデータベースはMySQL、Postgres、BigQuery、redshiftなどの各種データベースに対応している。",
+            "tags": [
+                "JavaScript",
+                "データベース",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
