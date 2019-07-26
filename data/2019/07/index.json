@@ -801,6 +801,22 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-26T23:43:27.866Z",
+            "title": "The npm Blog — Monorepos and npm",
+            "url": "https://blog.npmjs.org/post/186494959890/monorepos-and-npm",
+            "content": "npmを使ったmonorepoについて。\nlernaを使ったmonorepoの管理について紹介されている",
+            "tags": [
+                "npm",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "lerna/lerna: A tool for managing JavaScript projects with multiple packages.",
+                    "url": "https://github.com/lerna/lerna"
+                }
+            ]
         }
     ]
 }
