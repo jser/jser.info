@@ -828,6 +828,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-28T12:38:17.926Z",
+            "title": "Release v2.0.0 · vuetifyjs/vuetify",
+            "url": "https://github.com/vuetifyjs/vuetify/releases/tag/v2.0.0",
+            "content": "VueでMaterial Designを行うUIライブラリのVuetify 2.0リリース。\nMaterial Design 2に対応、新しいコンポーネントの追加など。\n1.5からのマイグレーションガイドも併せて公開されている",
+            "tags": [
+                "Vue",
+                "UI",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
