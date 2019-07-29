@@ -853,6 +853,17 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-07-29T22:56:05.396Z",
+            "title": "Release electron v6.0.0 · electron/electron",
+            "url": "https://github.com/electron/electron/releases/tag/v6.0.0",
+            "content": "Electron 6.0.0リリース。\nChromium 76へのアップデート、Cookies APIでPromiseのサポート、macOSでTouch IDでの認証を行う`promptForTouchID()`の追加など。\nsandboxed renderersで非推奨となっていた`require('fs')`などでrequireできる挙動の削除など。代わりに明示的な `remote.require` を使う必要がある。",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
