@@ -855,7 +855,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-07-29T22:56:05.396Z",
+            "date": "2019-07-29T23:04:12.561Z",
             "title": "Release electron v6.0.0 · electron/electron",
             "url": "https://github.com/electron/electron/releases/tag/v6.0.0",
             "content": "Electron 6.0.0リリース。\nChromium 76へのアップデート、Cookies APIでPromiseのサポート、macOSでTouch IDでの認証を行う`promptForTouchID()`の追加など。\nsandboxed renderersで非推奨となっていた`require('fs')`などでrequireできる挙動の削除など。代わりに明示的な `remote.require` を使う必要がある。",
@@ -863,7 +863,12 @@
                 "Electron",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Chromium Blog: Chrome 76 Beta: dark mode, payments, new PWA features and more",
+                    "url": "https://blog.chromium.org/2019/06/chrome-76-beta-dark-mode-payments-new.html"
+                }
+            ]
         }
     ]
 }
