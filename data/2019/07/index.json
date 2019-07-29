@@ -792,13 +792,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-07-26T23:42:23.980Z",
+            "date": "2019-07-29T23:54:44.122Z",
             "title": "ScrapboxでのServiceWorkerとCacheの活用 - daiiz",
             "url": "https://scrapbox.io/daiiz/Scrapbox%E3%81%A7%E3%81%AEServiceWorker%E3%81%A8Cache%E3%81%AE%E6%B4%BB%E7%94%A8",
-            "content": "Service Workerを使ったキャッシュ戦略について。\n`request.destination`を使ったリクエスト判定、Quotaの容量と使用量、`X-Serviceworker-Cache`のレスポンスヘッダでのキャッシュ判定、キャッシュの更新についてなど",
+            "content": "Service Workerを使ったキャッシュ戦略についてのスライド。\n`request.destination`を使ったリクエスト判定、Quotaの容量と使用量、`X-Serviceworker-Cache`のレスポンスヘッダでのキャッシュ判定、キャッシュの更新についてなど",
             "tags": [
                 "ServiceWorker",
-                "slide"
+                "slide",
+                "browser",
+                "JavaScript"
             ],
             "relatedLinks": []
         },
