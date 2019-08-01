@@ -25,10 +25,10 @@
             ]
         },
         {
-            "date": "2019-08-01T12:52:22.106Z",
+            "date": "2019-08-01T12:53:09.734Z",
             "title": "When a rewrite isn’t: rebuilding Slack on the desktop",
             "url": "https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4",
-            "content": "Slack Desktopのアーキテクチャをどのようにリファクタリングしたかについて。\njQuery + SignalからReact+Reduxへの移行。\n既存のコードベースを維持しつつ、徐々にモダンへ移行していく戦略について。\n名前空間オブジェクトとモジュールの混在時における相互運用性。古いコードは新しいコードを直接importできず、新しいコードは古いコードを直接importできないという`legacy-interop`の概念の導入。\nMulti workspaceを意識した書き換えによってメモリ使用量の削減の効果などがあったことについてなど",
+            "content": "Slack Desktopのアーキテクチャをどのようにリファクタリングしたかについて。\njQuery+SignalからReact+Reduxへの移行。\n既存のコードベースを維持しつつ、徐々にモダンへ移行していく戦略について。\n名前空間オブジェクトとモジュールの混在時における相互運用性。古いコードは新しいコードを直接importできず、新しいコードは古いコードを直接importできないという`legacy-interop`の概念の導入。\nMulti workspaceを意識した書き換えによってメモリ使用量の削減の効果などがあったことについてなど",
             "tags": [
                 "slack",
                 "JavaScript",
