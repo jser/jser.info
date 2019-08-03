@@ -99,6 +99,19 @@
                 "DOM"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-03T06:49:12.998Z",
+            "title": "Release Workbox v5.0.0-alpha.0 · GoogleChrome/workbox",
+            "url": "https://github.com/GoogleChrome/workbox/releases/tag/v5.0.0-alpha.0",
+            "viaURL": "https://github.com/jser/ping/issues/151",
+            "content": "Service WorkerフレームワークのWorkbox 5αリリース。\nService WorkerのRuntimeをCDNからではなく、ローカルを生成したものを使うように。\n`injectManifest`で置換されるプレースホルダが`[]`から`self.__WB_MANIFEST`に変更など",
+            "tags": [
+                "ServiceWorker",
+                "ReleaseNote",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
