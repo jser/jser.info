@@ -155,6 +155,21 @@
                     "url": "https://github.com/preactjs/preact/releases/tag/v8.5.0"
                 }
             ]
+        },
+        {
+            "date": "2019-08-05T16:10:45.576Z",
+            "title": "プロダクト間共通の React コンポーネントライブラリを運用する話 - SmartHR Tech Blog",
+            "url": "https://tech.smarthr.jp/entry/2019/08/01/151100",
+            "viaURL": "https://github.com/jser/ping/issues/154",
+            "content": "アプリケーション間の共通UIをライブラリ化することについて。\nReact + TypeScript + Styled Componentsでの実装、Storybookでのプレビューやreg-suitでの回帰テストについてなど",
+            "tags": [
+                "React",
+                "UI",
+                "library",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
