@@ -126,6 +126,17 @@
                 "security"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-05T00:00:56.747Z",
+            "title": "kerimdzhanov/dotenv-flow: Loads environment variables from .env.[development|test|production][.local] files for Node.js® projects.",
+            "url": "https://github.com/kerimdzhanov/dotenv-flow",
+            "content": "`.env`や`.env.development`ファイルなどを環境によって読み分けるライブラリ。",
+            "tags": [
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
