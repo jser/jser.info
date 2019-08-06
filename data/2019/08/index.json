@@ -190,6 +190,18 @@
                     "url": "http://example.com/"
                 }
             ]
+        },
+        {
+            "date": "2019-08-06T01:54:42.963Z",
+            "title": "JavaScript for impatient programmers",
+            "url": "https://exploringjs.com/impatient-js/index.html",
+            "viaURL": "https://github.com/jser/ping/issues/154",
+            "content": "Dr.AxelのJavaScript入門本",
+            "tags": [
+                "JavaScript",
+                "book"
+            ],
+            "relatedLinks": []
         }
     ]
 }
