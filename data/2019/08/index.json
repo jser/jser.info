@@ -174,11 +174,11 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-08-06T01:49:05.071Z",
+            "date": "2019-08-06T02:06:14.194Z",
             "title": "Changelog for 16.9 (TODO: add date) by gaearon · Pull Request #16254 · facebook/react",
             "url": "https://github.com/facebook/react/pull/16254",
             "viaURL": "https://github.com/jser/ping/issues/154",
-            "content": "React 16.9 RC.0リリース。\n`<React.Profiler>`の追加、非推奨となっていた`UNSAFE_*`のライフサイクルメソッドの削除、`<a href=\"javascript:\">`に対して警告を出すように。\nまた、DevToolsで`useState`の編集、Suspenseのトグル表示に対応、テスト用の`act`がAsync対応など",
+            "content": "React 16.9 RC.0リリース。\n`<React.Profiler>`の追加、非推奨となっていた`UNSAFE_*`のライフサイクルメソッドに対する警告を表示、`<a href=\"javascript:\">`に対して警告を出すように。\nまた、DevToolsで`useState`の編集、Suspenseのトグル表示に対応、テスト用の`act`がAsync対応など",
             "tags": [
                 "React",
                 "ReleaseNote",
