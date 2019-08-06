@@ -172,11 +172,11 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-08-05T23:50:48.371Z",
+            "date": "2019-08-06T01:49:05.071Z",
             "title": "Changelog for 16.9 (TODO: add date) by gaearon · Pull Request #16254 · facebook/react",
             "url": "https://github.com/facebook/react/pull/16254",
             "viaURL": "https://github.com/jser/ping/issues/154",
-            "content": "React 16.9 RC0リリース。\n`<React.Profiler>`の追加、非推奨となっていた`UNSAFE_*`のライフサイクルメソッドの削除、`<a href=\"javascript:\">`に対して警告を出すように。\nまた、DevToolsで`useState`の編集、Suspenseのトグル表示に対応、テスト用の`act`がAsync対応など",
+            "content": "React 16.9 RC.0リリース。\n`<React.Profiler>`の追加、非推奨となっていた`UNSAFE_*`のライフサイクルメソッドの削除、`<a href=\"javascript:\">`に対して警告を出すように。\nまた、DevToolsで`useState`の編集、Suspenseのトグル表示に対応、テスト用の`act`がAsync対応など",
             "tags": [
                 "React",
                 "ReleaseNote",
@@ -185,7 +185,7 @@
             "relatedLinks": [
                 {
                     "title": "Warn for javascript: URLs in DOM sinks by sebmarkbage · Pull Request #15047 · facebook/react",
-                    "url": "https://github.com/facebook/react/pull/15047"
+                    "url": "http://example.com/"
                 }
             ]
         }
