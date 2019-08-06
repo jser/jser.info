@@ -77,13 +77,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-08-03T01:59:23.472Z",
+            "date": "2019-08-06T01:50:07.669Z",
             "title": "WebMemex/freeze-dry: Snapshots a web page to get it as a static, self-contained HTML document.",
             "url": "https://github.com/WebMemex/freeze-dry",
+            "viaURL": "https://github.com/jser/ping/issues/154",
             "content": "ウェブサイトのDOMとリソースのスナップショットを取るライブラリ",
             "tags": [
                 "JavaScript",
-                "library"
+                "library",
+                "DOM"
             ],
             "relatedLinks": []
         },
