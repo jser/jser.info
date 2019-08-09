@@ -240,6 +240,18 @@
                 "node.js"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-09T23:26:32.280Z",
+            "title": "ES proposal: `globalThis`",
+            "url": "https://2ality.com/2019/08/global-this.html",
+            "content": "ECMAScript Proposalの`globalThis`の解説。\nグローバルスコープを参照するための仕様で、`this`との動きの違い、各実行環境で`globalThis`が参照するオブジェクトについてなど。",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
