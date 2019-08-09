@@ -226,6 +226,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-09T11:24:25.952Z",
+            "title": "クライアントサイドからサーバサイドまで破壊するテンプレートエンジンを利用した攻撃と対策",
+            "url": "https://azu.github.io/slide/2019/template-engine/template-engine-security.html",
+            "content": "テンプレートとセキュリティについてのスライド。\nテンプレートエンジンの種類、クライアントサイド/サーバサイドのテンプレートを使った脆弱性、テンプレートを機能として提供する場合の問題についてなど。\n古典的なサーバサイドレンダリングとVue等テンプレートを持つのクライアントサイドレンダリングを組み合わせたときの発生しやすい問題についてなど",
+            "tags": [
+                "JavaScript",
+                "template",
+                "security",
+                "slide",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
