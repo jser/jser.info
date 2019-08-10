@@ -279,6 +279,19 @@
                     "url": "https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html"
                 }
             ]
+        },
+        {
+            "date": "2019-08-10T03:34:29.222Z",
+            "title": "Native lazy-loading for the web  |  web.dev",
+            "url": "https://web.dev/native-lazy-loading/",
+            "content": "`<img>`や`<iframe>`の`loading`属性での遅延ロードについて。\n`loading`属性のFeature Detect、Polyfill、Chrome for AndroidのLite mode(Data Saver)の対応についてなど",
+            "tags": [
+                "WebPlatformAPI",
+                "HTML",
+                "article",
+                "Chrome"
+            ],
+            "relatedLinks": []
         }
     ]
 }
