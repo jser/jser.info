@@ -292,6 +292,18 @@
                 "Chrome"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-11T12:13:41.752Z",
+            "title": "Release v3.1.0 · facebook/create-react-app",
+            "url": "https://github.com/facebook/create-react-app/releases/tag/v3.1.0",
+            "content": "create-react-app 3.1.0リリース。\nESLint 6のサポート、ESLintの設定カスタマイズの対応、`IMAGE_INLINE_SIZE_LIMIT`の環境変数対応など",
+            "tags": [
+                "React",
+                "ReleaseNote",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
