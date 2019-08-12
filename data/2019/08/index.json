@@ -304,6 +304,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-12T06:49:25.355Z",
+            "title": "Pika CI/CD",
+            "url": "https://www.pika.dev/cicd/",
+            "content": "Pull Requestごとにnpmパッケージを作成できるPikaのGitHub App。\nPull Requestごとに固有のパッケージを作成してテストできる",
+            "tags": [
+                "npm",
+                "webservice",
+                "ci"
+            ],
+            "relatedLinks": []
         }
     ]
 }
