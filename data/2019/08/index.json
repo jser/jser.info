@@ -328,6 +328,18 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-13T00:47:28.270Z",
+            "title": "Joyee Cheung: Web APIs in Node.js Core: Past, Present, and Future",
+            "url": "https://2019.jsconf.eu/joyee-cheung/web-apis-in-nodejs-core-past-present-and-future.html",
+            "content": "Node.js CoreとWeb標準のAPIについての発表の動画と書き起こし。\nNode.js Coreに`URL`やPerformance APIなどのWeb API互換の実装がされていることや、なぜそのような互換実装が行われているのかについて。\nまた、どのように実装するものを決めているかについてなど",
+            "tags": [
+                "node.js",
+                "video",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
