@@ -351,6 +351,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-13T01:00:10.460Z",
+            "title": "How to Reduce Your Vue.JS Bundle Size With Webpack - DEV Community 👩‍💻👨‍💻",
+            "url": "https://dev.to/ratracegrad/how-to-reduce-your-vue-js-bundle-size-with-webpack-4gpf",
+            "content": "Webpackを使ったVue.jsで書いたアプリケーションのbundleサイズの最適化についての記事。\nwebpack-bundle-analyzerを使っての分析、不要なものをbundleから外すようにする方法などについて\n",
+            "tags": [
+                "webpack",
+                "Vue",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
