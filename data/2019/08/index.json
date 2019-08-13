@@ -364,6 +364,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-13T01:48:18.331Z",
+            "title": "Release v1.0.0 · webpack-contrib/style-loader",
+            "url": "https://github.com/webpack-contrib/style-loader/releases/tag/v1.0.0",
+            "content": "webpackのCSSを扱うloaderであるstyle-loader 1.0.0リリース。\n`injectType`オプションのサポート、`convertToAbsoluteUrls`や`transform`オプションの削除、`attrs`を`attributes`にリネームなど",
+            "tags": [
+                "webpack",
+                "plugin",
+                "CSS",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
