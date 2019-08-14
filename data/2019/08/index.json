@@ -377,6 +377,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-14T08:43:11.632Z",
+            "title": "V8 release v7.7 · V8",
+            "url": "https://v8.dev/blog/v8-release-77",
+            "content": "V8 v7.7リリース。\nメモリ使用量の削減、WebAssemblyのバックグラウンドコンパイルの並列化の改善、`Error#stack`作成のパフォーマンス改善。\n`Intl.NumberFormat` APIのサポートなど",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
