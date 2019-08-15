@@ -400,6 +400,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-15T13:24:14.657Z",
+            "title": "The npm Blog — npm CLI Roadmap - Summer 2019",
+            "url": "https://blog.npmjs.org/post/186983646370/npm-cli-roadmap-summer-2019",
+            "content": "npm cliのロードマップについて。\nv6では細かなバグ修正が中心、v7ではインストールのロジックを大きく変更する予定。\nv7ではyarnのようなworkspacesサポートや`peerDependencies`をインストールするように変更、resolusionsのサポート、`yarn.lock`も読めるようになる予定。\nv8ではTinkのようなnode_modulesにインストールしない仕組みを検討していく",
+            "tags": [
+                "npm",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
