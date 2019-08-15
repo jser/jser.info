@@ -447,6 +447,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-15T15:10:28.737Z",
+            "title": "Largest Contentful Paint  |  web.dev",
+            "url": "https://web.dev/largest-contentful-paint/",
+            "content": "Chrome77で利用できるようになるLargest Contentful Paint (LCP) APIについて。Viewport内で大きなコンテンツが表示されるまでの時間を表す指標。\nPerformanceObserverやElement Timing APIを使った値の取得方法について",
+            "tags": [
+                "Chrome",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
