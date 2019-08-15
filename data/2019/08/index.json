@@ -424,6 +424,17 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-15T13:49:40.260Z",
+            "title": "🚀 Parcel 2.0.0-alpha.1 is here! 📦 - devongovett - Medium",
+            "url": "https://medium.com/@devongovett/parcel-2-0-0-alpha-1-is-here-8b160c6e3f7e",
+            "content": "Parcel 2.0.0-alpha.1リリース。\n`.parcelrc`でプラグインのオプションを設定できるように、multiple targetsとbundle splittingのサポート。\nまたブラウザでの実行などを考えてファイルシステムの抽象レイヤーを追加など",
+            "tags": [
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
