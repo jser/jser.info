@@ -459,6 +459,27 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-16T13:59:05.624Z",
+            "title": "Introducing the New React DevTools – React Blog",
+            "url": "https://reactjs.org/blog/2019/08/15/new-react-devtools.html",
+            "content": "Reactの新しい開発者ツールについての紹介とチュートリアルについて。\nReact DevTools 4.0.0では、パフォーマンスの改善、コンポーネントスタック、フィルター、レンダリング関係の可視化、Hooksサポートの改善。\nまたSuspenseのサポートや\"Why did this render?\"機能の追加など",
+            "tags": [
+                "React",
+                "article",
+                "debug"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "React DevTools tutorial",
+                    "url": "https://react-devtools-tutorial.now.sh/"
+                },
+                {
+                    "title": "react/CHANGELOG.md at master · facebook/react",
+                    "url": "https://github.com/facebook/react/blob/master/packages/react-devtools/CHANGELOG.md#400-august-15-2019"
+                }
+            ]
         }
     ]
 }
