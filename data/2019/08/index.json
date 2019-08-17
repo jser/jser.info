@@ -512,6 +512,17 @@
                     "url": "https://jvn.jp/vu/JVNVU98433488/"
                 }
             ]
+        },
+        {
+            "date": "2019-08-17T02:53:07.031Z",
+            "title": "Announcing TypeScript 3.6 RC | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-3-6-rc/",
+            "content": "TypeScript 3.6 RCリリース。\nGeneratorsの型改善、Array Spreadの仕様に合わせた変換の改善、Promiseの型エラーの改善。\n`--target es2015`でUnicodeの変数名をサポート、Ambient ClassesとFunctionがマージできるようになるなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
