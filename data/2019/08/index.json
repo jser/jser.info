@@ -559,6 +559,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-19T08:33:13.489Z",
+            "title": "Introduction to Svelte",
+            "url": "https://daveceddia.com/svelte-intro/",
+            "content": "UIフレームワークであるSvelteについて。\nSvelteの特徴について紹介している。\nコンパイル、リアクティブな変更、イベントハンドラの書き方、未使用なCSSに関する警告表示などの機能について",
+            "tags": [
+                "JavaScript",
+                "UI",
+                "library",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
