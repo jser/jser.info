@@ -546,6 +546,19 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-19T05:43:34.822Z",
+            "title": "Release 2.3.0 · avajs/ava",
+            "url": "https://github.com/avajs/ava/releases/tag/v2.3.0",
+            "content": "AVA 2.3.0リリース。\nECMAScript ProposalのStage 3と4の構文を含んだコードを扱えるように、TypeScript型定義のGenerics型パラメータの初期値を`{}`から`unknown`に変更など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
