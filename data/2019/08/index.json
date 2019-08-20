@@ -584,6 +584,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-20T01:07:47.914Z",
+            "title": "ESLint v6.2.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2019/08/eslint-v6.2.0-released",
+            "content": "ESLint v6.2.0リリース。\nECMAScript 2020に入る予定のDynamic Import、`BigInt`のサポート、`function-call-argument-newline`のルールを追加など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
