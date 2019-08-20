@@ -595,6 +595,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-20T01:26:07.987Z",
+            "title": "<Now Go Bang!> Announcing meSpeak.js 2.0",
+            "url": "https://www.masswerk.at/nowgobang/2019/mespeak_2_0",
+            "content": "Text to SpeechライブラリのmeSpeak.js 2.0リリース。\nEmscriptenを使ってC++からJavaScriptにコンパイルしたspeak.jsをベースに、もジューラな設計にしている。\nWebWorkerの対応や音声/言語定義のロード機能などが行われている",
+            "tags": [
+                "audio",
+                "JavaScript",
+                "library",
+                "C++"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "kripken/speak.js: Text-to-Speech in JavaScript using eSpeak",
+                    "url": "https://github.com/kripken/speak.js"
+                }
+            ]
         }
     ]
 }
