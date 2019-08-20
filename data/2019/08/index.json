@@ -613,6 +613,23 @@
                     "url": "https://github.com/kripken/speak.js"
                 }
             ]
+        },
+        {
+            "date": "2019-08-20T15:44:24.547Z",
+            "title": "Release v2.0.0 · date-fns/date-fns",
+            "url": "https://github.com/date-fns/date-fns/releases/tag/v2.0.0",
+            "content": "date-fns 2.0.0リリース。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "date-fns v2 pre-releases change log",
+                    "url": "https://gist.github.com/kossnocorp/a307a464760b405bb78ef5020a4ab136#v200"
+                }
+            ]
         }
     ]
 }
