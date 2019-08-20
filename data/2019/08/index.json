@@ -572,6 +572,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-20T01:05:43.636Z",
+            "title": "ai/size-limit: Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.",
+            "url": "https://github.com/ai/size-limit/",
+            "content": "ファイルサイズの閾値を指定して、そのサイズを超えてないかをテストできるツール。\nアプリケーション、大きなライブラリ、小さなライブラリ向けのプリセットが用意されている。\nファイルサイズやロードにかかる時間をテストできる。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
