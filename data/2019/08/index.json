@@ -630,6 +630,28 @@
                     "url": "https://gist.github.com/kossnocorp/a307a464760b405bb78ef5020a4ab136#v200"
                 }
             ]
+        },
+        {
+            "date": "2019-08-21T04:45:40.980Z",
+            "title": "Release v2.9.0 · nuxt/nuxt.js",
+            "url": "https://github.com/nuxt/nuxt.js/releases/tag/v2.9.0",
+            "content": "Nuxt.js 2.9.0リリース。\nNode.js 8.9.0未満のサポート終了、TypeScriptサポートが`nuxt-ts`に外部化、vue-meta 2.0.0にアップデートなど",
+            "tags": [
+                "Vue",
+                "TypeScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Nuxt TypeScript",
+                    "url": "https://typescript.nuxtjs.org/"
+                },
+                {
+                    "title": "Migration from Nuxt 2.8 | Nuxt TypeScript",
+                    "url": "https://typescript.nuxtjs.org/migration.html"
+                }
+            ]
         }
     ]
 }
