@@ -652,6 +652,17 @@
                     "url": "https://typescript.nuxtjs.org/migration.html"
                 }
             ]
+        },
+        {
+            "date": "2019-08-21T13:36:16.230Z",
+            "title": "Node v12.9.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v12.9.0/",
+            "content": "Node.js 12.9.0リリース。\nV8 7.6へアップデート、`stream`のReadbleStreamに`readableEnded`、WritableStreaに`writableEnded`プロパティの追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
