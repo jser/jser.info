@@ -615,10 +615,10 @@
             ]
         },
         {
-            "date": "2019-08-20T15:44:24.547Z",
+            "date": "2019-08-24T05:30:05.423Z",
             "title": "Release v2.0.0 · date-fns/date-fns",
             "url": "https://github.com/date-fns/date-fns/releases/tag/v2.0.0",
-            "content": "date-fns 2.0.0リリース。",
+            "content": "date-fns 2.0.0リリース。\n日付文字列の代わりに`parseISO`などでパースしたオブジェクトを受け取るように変更、`format`関数を仕様変更、モジュール名をcamelCaseに変更、関数名や引数の順番の変更など",
             "tags": [
                 "JavaScript",
                 "library",
@@ -627,7 +627,11 @@
             "relatedLinks": [
                 {
                     "title": "date-fns v2 pre-releases change log",
-                    "url": "https://gist.github.com/kossnocorp/a307a464760b405bb78ef5020a4ab136#v200"
+                    "url": "http://example.com/"
+                },
+                {
+                    "title": "date-fns/CHANGELOG.md at master · date-fns/date-fns",
+                    "url": "https://github.com/date-fns/date-fns/blob/master/CHANGELOG.md#200---2019-08-20"
                 }
             ]
         },
