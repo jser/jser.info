@@ -674,6 +674,23 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-24T05:21:40.660Z",
+            "title": "clean-code-typescript | TypeScriptの為のクリーンコード",
+            "url": "https://msakamaki.github.io/clean-code-typescript/",
+            "content": "clean-code-typescriptの翻訳",
+            "tags": [
+                "TypeScript",
+                "document",
+                "翻訳"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "labs42io/clean-code-typescript: Clean Code concepts adapted for TypeScript",
+                    "url": "https://github.com/labs42io/clean-code-typescript"
+                }
+            ]
         }
     ]
 }
