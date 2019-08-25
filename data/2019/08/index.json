@@ -720,6 +720,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-25T15:22:10.231Z",
+            "title": "nodegui/nodegui: A library for building cross-platform native desktop applications with JavaScript and CSS like styling.",
+            "url": "https://github.com/nodegui/nodegui",
+            "content": "Node.jsのQtバインディングライブラリ。\nQtを使ったGUIをNode.jsから作成できる。",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "GUI",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "🐕 Announcing NodeGUI and React NodeGUI - Build native desktop apps with Javascript and CSS 🎉 | Blog",
+                    "url": "https://blog.atulr.com/nodegui-intro/"
+                }
+            ]
         }
     ]
 }
