@@ -707,6 +707,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-25T01:21:15.332Z",
+            "title": "Promise.allSettled と Promise.any | blog.jxck.io",
+            "url": "https://blog.jxck.io/entries/2019-08-20/promise-allsettled-any.html",
+            "content": "ECMAScript Proposalの`Promise.allSettled`と`Promise.any`を含めたPromiseの状態に対するハンドリングについてのまとめ",
+            "tags": [
+                "Promises",
+                "JavaScript",
+                "ECMAScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
