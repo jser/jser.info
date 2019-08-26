@@ -775,6 +775,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-26T12:11:42.687Z",
+            "title": "parcel-bundler/watcher: 👀 A native C++ Node module for querying and subscribing to filesystem events",
+            "url": "https://github.com/parcel-bundler/watcher",
+            "content": "C++で書かれたファイル監視のNode.jsライブラリ。Parcelで利用されている。\n監視しているファイルの状態をsnapshotで保存でき、watcherが起動してないときの差分も検出できる。",
+            "tags": [
+                "node.js",
+                "C++",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
