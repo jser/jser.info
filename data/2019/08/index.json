@@ -750,6 +750,18 @@
                 "canvas"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-26T00:06:51.872Z",
+            "title": "Progressive Web Apps in multi-origin sites  |  web.dev",
+            "url": "https://web.dev/multi-origin-pwas/",
+            "content": "クロスオリジンなサイト間でのPWAについて。\nService Worker、キャッシュ、Promptなどについて。\n複数のoriginでのPWAは難しい問題について",
+            "tags": [
+                "ServiceWorker",
+                "article",
+                "PWA"
+            ],
+            "relatedLinks": []
         }
     ]
 }
