@@ -820,6 +820,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-27T02:11:46.439Z",
+            "title": "GoogleChromeLabs/dynamic-import-polyfill: A fast, tiny polyfill for dynamic import() that works in all module-supporting browsers",
+            "url": "https://github.com/GoogleChromeLabs/dynamic-import-polyfill",
+            "content": "Dynamic `import()`のpolyfillライブラリ。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "polyfill"
+            ],
+            "relatedLinks": []
         }
     ]
 }
