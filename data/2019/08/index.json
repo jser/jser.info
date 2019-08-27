@@ -807,6 +807,19 @@
                     "url": "https://github.com/yarnpkg/rfcs/pull/105"
                 }
             ]
+        },
+        {
+            "date": "2019-08-27T02:07:39.672Z",
+            "title": "Puppeteerで不要なCSSを消す - Cybozu Inside Out | サイボウズエンジニアのブログ",
+            "url": "https://blog.cybozu.io/entry/2019/08/20/170000",
+            "content": "PuppeteerでCSSカバレッジを取り、PostCSSでCSSを編集して使われてないCSSを削除する話",
+            "tags": [
+                "CSS",
+                "JavaScript",
+                "AST",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
