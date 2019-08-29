@@ -844,6 +844,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-29T02:31:15.488Z",
+            "title": "Announcing TypeScript 3.6 | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-3-6/",
+            "content": "TypeScript 3.6リリース。\n Generatorsの型チェック改善、`--downlevelIteration`フラグでArray Spreadの仕様に合わせた変換の改善、Promiseの型エラーの改善。 `--target es2015`でUnicodeの変数名をサポート、Ambient ClassesとFunctionがマージできるようになるなど。\nまた、Playgroundが https://typescript-play.js.org ベースに更新されるなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
