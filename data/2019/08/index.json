@@ -867,6 +867,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-08-31T13:04:59.433Z",
+            "title": "finom/check-imports: Check imports in JS files and update package.json dependencies",
+            "url": "https://github.com/finom/check-imports",
+            "content": "コードに書かれている`import`文や`require`関数などを分析して、`package.json`の依存関係を更新するツール",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
