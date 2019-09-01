@@ -10,6 +10,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-01T23:29:57.002Z",
+            "title": "Optional chaining · V8",
+            "url": "https://v8.dev/features/optional-chaining",
+            "content": "ECMAScript Proposal Stage 3であるOptional Chain(`?.`)とnullish coalescing `??` operatorについて。\n`lodash.get`をどのように置き換えられるかの例など",
+            "tags": [
+                "ECMAScript",
+                "article",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
