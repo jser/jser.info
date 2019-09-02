@@ -35,6 +35,18 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-02T14:04:07.380Z",
+            "title": "antoinechalifour/memento: Memento is a development-only tool that caches HTTP calls once they have been executed.",
+            "url": "https://github.com/antoinechalifour/memento",
+            "content": "開発時にAPIへのリクエストをキャッシュして、モックサーバとして利用できるようにするツール。",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
