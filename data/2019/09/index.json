@@ -102,14 +102,16 @@
             ]
         },
         {
-            "date": "2019-09-02T15:45:59.765Z",
+            "date": "2019-09-02T15:53:37.029Z",
             "title": "MarkdownやAsciidoc中に書いたJavaScriptのサンプルコードをdoctestするツールを書いた | Web Scratch",
             "url": "https://efcl.info/2019/09/02/power-doctest-markdown-asciidoc/",
             "content": "MarkdownやAsciidocのコードブロック内のJavaScriptコードをdoctestするツールやライブラリについて。\nコメントで式の期待する評価結果を書くと、assertに変換してテストできる。",
             "tags": [
                 "JavaScript",
                 "testing",
-                "document"
+                "document",
+                "article",
+                "node.js"
             ],
             "relatedLinks": [
                 {
