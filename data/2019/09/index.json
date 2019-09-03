@@ -142,6 +142,18 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-03T02:34:43.721Z",
+            "title": "Release 6.0.0 · systemjs/systemjs",
+            "url": "https://github.com/systemjs/systemjs/releases/tag/6.0.0",
+            "content": "systemjs 6.0.0 リリース。\n`System.onload`のhookを追加、`systemjs-importmap`でのImportMap定義の合成をサポート、`System.resolve`が同期処理に変更など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "module"
+            ],
+            "relatedLinks": []
         }
     ]
 }
