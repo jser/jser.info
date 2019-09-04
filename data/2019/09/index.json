@@ -155,6 +155,30 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-04T02:10:59.559Z",
+            "title": "Firefox 69.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/69.0/releasenotes/",
+            "content": "Firefox 69.0リリース。\nEnhanced Tracking Protection (ETP)の有効化。\nCSSの`@supports`がセレクタをサポート.\nまたECMAScript ProposalのPublic class fieldのサポート、Resize Observerのサポート、`queueMicrotask`のサポートなど。\n`<keygen>`要素の削除やCSS `user-select`のprefixなしに対応、ネットワークパネルにCSPでブロックされた理由の表示など",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 69 — a tale of Resize Observer, microtasks, CSS, and DevTools - Mozilla Hacks - the Web developer blog",
+                    "url": "https://hacks.mozilla.org/2019/09/firefox-69-a-tale-of-resize-observer-microtasks-css-and-devtools/"
+                },
+                {
+                    "title": "Firefox 69 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/69"
+                },
+                {
+                    "title": "Firefox 69 Site Compatibility | Firefox Site Compatibility",
+                    "url": "https://www.fxsitecompat.dev/versions/69/"
+                }
+            ]
         }
     ]
 }
