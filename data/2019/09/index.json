@@ -179,6 +179,17 @@
                     "url": "https://www.fxsitecompat.dev/versions/69/"
                 }
             ]
+        },
+        {
+            "date": "2019-09-05T05:54:05.156Z",
+            "title": "Node v12.10.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v12.10.0/",
+            "content": "Node.ja 12.10.0リリース。\n`fs.rmdir`に`recursive`オプションの追加、`fs.createWriteStrea`に`emitClose`オプションの追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
