@@ -190,6 +190,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-06T11:38:50.697Z",
+            "title": "Release Notes for Safari Technology Preview 91 | WebKit",
+            "url": "https://webkit.org/blog/9526/release-notes-for-safari-technology-preview-91/",
+            "content": "Safari Technology Preview 91リリース。\nTLS 1.0、1.1の無効化、`unhandledrejection`のサポート。\nES Proposalのhashbang、Optional Chainingのサポート",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
