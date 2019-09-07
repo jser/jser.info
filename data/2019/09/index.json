@@ -213,6 +213,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-07T04:28:54.214Z",
+            "title": "Debugging WebAssembly Outside of the Browser - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2019/09/debugging-webassembly-outside-of-the-browser/",
+            "content": "wasmtimeとGDB/LLDBを使ったWebAssemblyのデバッグ方法について。\nLLDBでブレークポイントを貼ったり、変数をinspectしたりするデモ",
+            "tags": [
+                "WebAssembly",
+                "debug",
+                "article",
+                "video"
+            ],
+            "relatedLinks": []
         }
     ]
 }
