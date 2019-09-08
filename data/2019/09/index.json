@@ -226,6 +226,18 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-08T05:48:39.506Z",
+            "title": "7.6.0 Released: Private static accessors and V8 intrinsic syntax · Babel",
+            "url": "https://babeljs.io/blog/2019/09/05/7.6.0",
+            "content": "Babel 7.6.0リリース。\nPrivate static Accessorsのサポート、Nullish coalescing operator (`??`)。\nまたV8の内部処理を呼び出すintrinsic runtime functions(`%`)のパースをサポートなど",
+            "tags": [
+                "babel",
+                "ReleaseNote",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
