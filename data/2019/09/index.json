@@ -274,6 +274,18 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-08T23:46:38.210Z",
+            "title": "A simple homemade JavaScript obfuscator",
+            "url": "https://antoinevastel.com/javascript/2019/09/04/home-made-obfuscator.html",
+            "content": "Shift-ASTを使ったコードの難読化スクリプトの作り方について。\nASTを使ったコード変換、terserを使った圧縮と変数名のリネーム、難読化したコードのテストについてなど",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
