@@ -308,6 +308,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-09T16:12:12.708Z",
+            "title": "malijs/mali: A minimalistic gRPC microservice framework for Node.js",
+            "url": "https://github.com/malijs/mali",
+            "content": "gRPCを使ったNode.jsフレームワーク。\nkoaライクなmiddlewareのサポートや、gRPCのMetadataサポートなどをしている。",
+            "tags": [
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
