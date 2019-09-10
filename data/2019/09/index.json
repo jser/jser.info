@@ -319,6 +319,21 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-10T00:08:44.758Z",
+            "title": "Release v0.6.1 · pikapkg/web",
+            "url": "https://github.com/pikapkg/web/releases/tag/v0.6.1",
+            "content": "Module Bundlerの@pika/web 0.6リリース。\nJavaScriptではない静的なアセットのサポート、monorepoサポート、Babelを使った最適化のサポートなど",
+            "tags": [
+                "npm",
+                "node.js",
+                "Tools",
+                "module",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
