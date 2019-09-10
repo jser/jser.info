@@ -334,6 +334,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-10T02:44:03.129Z",
+            "title": "void in JavaScript and TypeScript",
+            "url": "https://fettblog.eu/void-in-javascript-and-typescript/",
+            "content": "JavaScriptでの`void`とTypeScriptでの`void`について。\n`void`演算子は常に`undefined`を返す、TypeScriptで`void`と`undefined`を返す型の違いについてなど",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
