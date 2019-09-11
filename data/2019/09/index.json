@@ -346,6 +346,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-11T11:59:23.661Z",
+            "title": "TypeScript 3.7 Iteration Plan · Issue #33352 · microsoft/TypeScript",
+            "url": "https://github.com/microsoft/TypeScript/issues/33352",
+            "content": "TypeScript 3.7のロードマップ。\nECMAScript Private Fields、Optional Chaining、Nullish Coalescingへの対応、`--declaration`と`--allowJs`の組合せに対応など。\nまた`typescript`パッケージサイズの削減、`@types`パッケージをGitHub Package Registryにもpublishするようにし、ハンドブックの更新なども予定されている。",
+            "tags": [
+                "TypeScript",
+                "issue"
+            ],
+            "relatedLinks": []
         }
     ]
 }
