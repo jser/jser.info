@@ -381,10 +381,10 @@
             ]
         },
         {
-            "date": "2019-09-13T05:53:13.492Z",
+            "date": "2019-09-13T07:16:32.792Z",
             "title": "Release DOMPurify 2.0.0 · cure53/DOMPurify",
             "url": "https://github.com/cure53/DOMPurify/releases/tag/2.0.0",
-            "content": "DOMpurify 2.0.0リリース。\nChrome 77のTruested Typesの挙動変更に伴う修正など",
+            "content": "DOMpurify 2.0.0リリース。\nTrusted Typesが利用できる場合でも`RETURN_TRUSTED_TYPE`オプションを渡したときのみ、Trusted Typesを使うように変更",
             "tags": [
                 "DOM",
                 "security",
