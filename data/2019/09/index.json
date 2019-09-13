@@ -379,6 +379,19 @@
                     "url": "https://github.com/Agoric/realms-shim"
                 }
             ]
+        },
+        {
+            "date": "2019-09-13T05:53:13.492Z",
+            "title": "Release DOMPurify 2.0.0 · cure53/DOMPurify",
+            "url": "https://github.com/cure53/DOMPurify/releases/tag/2.0.0",
+            "content": "DOMpurify 2.0.0リリース。\nChrome 77のTruested Typesの挙動変更に伴う修正など",
+            "tags": [
+                "DOM",
+                "security",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
