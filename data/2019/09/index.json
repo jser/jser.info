@@ -426,6 +426,22 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-14T15:10:37.481Z",
+            "title": "ESLint v6.4.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2019/09/eslint-v6.4.0-released",
+            "content": "ESLint 6.4.0リリース。\n`no-import-assign`、`prefer-regex-literals`、`default-param-last`のルールを追加。\n一部ルールが`enforceForClassMembers`オプションでクラス構文をサポートするようになるなど\n",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESLint v6.4.0 - Qiita",
+                    "url": "https://github.com/eslint/eslint/pull/12192"
+                }
+            ]
         }
     ]
 }
