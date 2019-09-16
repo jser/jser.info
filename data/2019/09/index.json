@@ -532,6 +532,22 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-16T23:59:18.712Z",
+            "title": "New in Chrome 77  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2019/09/nic77",
+            "content": "Chrome 77リリース。\nLargest Contentful Paint(LCP)、`formdata`イベント、`formAssociated`プロパティ、`loading`属性によるLazy Loadのサポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "More capable form controls  |  web.dev",
+                    "url": "https://web.dev/more-capable-form-controls/"
+                }
+            ]
         }
     ]
 }
