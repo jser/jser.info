@@ -519,6 +519,19 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-16T15:34:20.340Z",
+            "title": "X3D: Declarative 3D for the Modern Web",
+            "url": "https://blog.scottlogic.com/2019/08/27/declarative-3d-for-the-modern-web.html",
+            "content": "宣言的な3D表現を行うX3Dという仕様とX3DOMという実装について。\nSVGのようにHTML中にタグを書くことで3D表示を行う",
+            "tags": [
+                "3D",
+                "HTML",
+                "article",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
