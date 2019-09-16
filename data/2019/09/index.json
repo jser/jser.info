@@ -505,6 +505,20 @@
                     "url": "https://immerjs.github.io/immer/docs/introduction"
                 }
             ]
+        },
+        {
+            "date": "2019-09-16T15:30:47.691Z",
+            "title": "nanoSQL 2",
+            "url": "https://nanosql.io/",
+            "content": "SQL builderライブラリ。\nインメモリ、ブラウザのIndexedDBやLocalstorage、Node.jsからMySQLやRedixなどさまざまなデータべースに対して動作する",
+            "tags": [
+                "SQL",
+                "library",
+                "TypeScript",
+                "JavaScript",
+                "browser"
+            ],
+            "relatedLinks": []
         }
     ]
 }
