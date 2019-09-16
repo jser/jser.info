@@ -465,6 +465,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-16T15:11:15.214Z",
+            "title": "WebGPU and WSL in Safari | WebKit",
+            "url": "https://webkit.org/blog/9528/webgpu-and-wsl-in-safari/",
+            "content": "Safari Technology Preview 91からベータサポートされているWebGPU APIとWSLについて。\nWebGPUのパイプライン処理の最適化、ランタイムのパフォーマンス、Web Shading Language(WSL)について紹介されている",
+            "tags": [
+                "safari",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
