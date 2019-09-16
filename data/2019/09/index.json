@@ -454,6 +454,17 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-16T15:05:32.286Z",
+            "title": "A lighter V8 · V8",
+            "url": "https://v8.dev/blog/v8-lite",
+            "content": "V8のLite modeについて。\nメモリが少ないデバイス向けのモードで、消費メモリの削減を目的としている。",
+            "tags": [
+                "V8",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
