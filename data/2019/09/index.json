@@ -548,6 +548,20 @@
                     "url": "https://web.dev/more-capable-form-controls/"
                 }
             ]
+        },
+        {
+            "date": "2019-09-17T00:01:35.587Z",
+            "title": "Release 2.4.0 · avajs/ava",
+            "url": "https://github.com/avajs/ava/releases/tag/v2.4.0",
+            "content": "AVA 2.4.0リリース。\n`t.try()`をフラグ付きでサポートなど",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
