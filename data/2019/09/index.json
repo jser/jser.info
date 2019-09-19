@@ -562,6 +562,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-19T14:06:05.178Z",
+            "title": "faboulaws/fakingoose: An automatic fixture generator for mongoose using the schema definition",
+            "url": "https://github.com/faboulaws/fakingoose",
+            "content": "データスキーマからダミデータを生成してくれるライブラリ",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
