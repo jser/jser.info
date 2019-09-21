@@ -601,6 +601,19 @@
                     "url": "https://webkit.org/blog/9395/webdriver-is-coming-to-safari-in-ios-13/"
                 }
             ]
+        },
+        {
+            "date": "2019-09-21T11:10:29.599Z",
+            "title": "jasmine/3.5.0.md at master · jasmine/jasmine",
+            "url": "https://github.com/jasmine/jasmine/blob/master/release_notes/3.5.0.md",
+            "content": "Jasmine 3.5リリース。\n`toHaveBeenCalledWith`のエラー結果の出力の改善、`resolveTo`と`rejectWith`の追加、カスタム非同期Matcherを定義する`addAsyncMatchers`の追加など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
