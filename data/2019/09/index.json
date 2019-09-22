@@ -642,6 +642,27 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-22T04:52:20.327Z",
+            "title": "Storybook 5.2 - Storybook - Medium",
+            "url": "https://medium.com/storybookjs/storybook-5-2-794958b9b111",
+            "content": "Storybook 5.2リリース。\nMDXを使ったドキュメントを書けるDocsPageの追加、Storyをモジュールとして作れるCSFのサポート。\nTypeScriptのサポート、React Hooksのサポート、 Standalone modeなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Storybook DocsPage - Storybook - Medium",
+                    "url": "https://medium.com/storybookjs/storybook-docspage-e185bc3622bf"
+                },
+                {
+                    "title": "Component Story Format - Storybook - Medium",
+                    "url": "https://medium.com/storybookjs/component-story-format-66f4c32366df"
+                }
+            ]
         }
     ]
 }
