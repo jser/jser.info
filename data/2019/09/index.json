@@ -630,6 +630,18 @@
                     "url": "https://web.dev/css-props-and-vals/"
                 }
             ]
+        },
+        {
+            "date": "2019-09-22T02:03:44.952Z",
+            "title": "Fresher service workers, by default  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2019/09/fresher-sw",
+            "content": "Chrome 78では`importScript`で読み込むファイルも変更があればHTTP Cacheはデフォルトで無視されるようになった。\nChrome 68で追加された`updateViaCache`オプションを使ってHTTP Cache-Controlを見るかを制御できる。",
+            "tags": [
+                "Chrome",
+                "ServiceWorker",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
