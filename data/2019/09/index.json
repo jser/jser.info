@@ -614,6 +614,22 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-22T01:16:29.375Z",
+            "title": "Chromium Blog: Chrome 78 Beta: a new Houdini API, native file system access and more",
+            "url": "https://blog.chromium.org/2019/09/chrome-78-beta-new-houdini-api-native.html",
+            "content": "Chrome 78 Betaリリース。\nCSS Custom Propertiesを使ったアニメーションのサポート、Native File System APIとSMS Receiver APIのorigin trialの開始など。\nWebSocketsにおけるArrayBufferのダウンロード速度の改善、User Timing API Level 3のサポート。\nまた、Sync HXRがunload時などには禁止、XSS Auditorの削除など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Smarter custom properties with Houdini’s new API  |  web.dev",
+                    "url": "https://web.dev/css-props-and-vals/"
+                }
+            ]
         }
     ]
 }
