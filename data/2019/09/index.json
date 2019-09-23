@@ -663,6 +663,20 @@
                     "url": "https://medium.com/storybookjs/component-story-format-66f4c32366df"
                 }
             ]
+        },
+        {
+            "date": "2019-09-23T10:00:53.365Z",
+            "title": "Backbone.Model に 型をつけて剥がす - Typing to destroy Backbone.Model - Speaker Deck",
+            "url": "https://speakerdeck.com/fsubal/backbone-dot-model-ni-xing-wotuketebo-gasu-typing-to-destroy-backbone-dot-model?slide=34",
+            "content": "Backbone.Modelに型をつけてリファクタリングしていく話。\nBackbone.ModelをただのJSONとして扱い、JSONのスナップショットに対してテスト行う",
+            "tags": [
+                "backbone.js",
+                "TypeScript",
+                "JavaScript",
+                "slide",
+                "refacoring"
+            ],
+            "relatedLinks": []
         }
     ]
 }
