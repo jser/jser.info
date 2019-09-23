@@ -690,6 +690,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-23T10:08:51.170Z",
+            "title": "Practical Ways to Write Better JavaScript - Stack Overflow Blog",
+            "url": "https://stackoverflow.blog/2019/09/12/practical-ways-to-write-better-javascript/",
+            "content": "より良いJavaScriptを書くためにどうするかという記事。\nTypeScriptを使う、ES2015+の機能を活用する、分散を考える。\nLint、テストを行うなどについて",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
