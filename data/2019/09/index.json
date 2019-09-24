@@ -714,6 +714,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-24T00:13:37.518Z",
+            "title": "Techniques to make a web app load fast, even on a feature phone",
+            "url": "https://web.dev/load-faster-like-proxx/",
+            "content": "PROXXのローディングパフォーマンスに利用したテクニックの紹介記事。\nWebPageTestを使ったリソースロードのwaterfall分析、コネクション数の削減、preload、prerendering、CSSのインライン化、Code Splittingなどについて",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
