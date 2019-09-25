@@ -726,6 +726,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-25T12:19:48.066Z",
+            "title": "Handling API request race conditions in React",
+            "url": "https://sebastienlorber.com/handling-api-request-race-conditions-in-react",
+            "content": "ネットワークの遅延などにより複数のリクエストが送信され、リクエストが成功タイミングとUIの状態が一致しなくなる問題について。\nReactを例に、リクエストに問題があった場合にどのように問題を回避するかについて書かれている。\n不要なレスポンスを無視、リクエストをキャンセルなどの実装方法について",
+            "tags": [
+                "JavaScript",
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
