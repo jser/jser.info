@@ -738,6 +738,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-26T11:12:31.707Z",
+            "title": "React Training: React Router v5.1",
+            "url": "https://reacttraining.com/blog/react-router-v5-1/",
+            "content": "React Router 5.1リリース。\nHooks APIの追加サポート。\n`useParams`、`useLocation`、`useHistory`などのAPIが追加されている。",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
