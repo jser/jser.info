@@ -798,6 +798,17 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-28T14:48:34.151Z",
+            "title": "V8 release v7.8 · V8",
+            "url": "https://v8.dev/blog/v8-release-78",
+            "content": "V8 v7.8リリース。\nScript StreamingによるJavaScriptのロードパフォーマンスの改善、オブジェクトのDestructuringのパフォーマンス改善。\nまたV8 APIとしてWebAssembly C/C++ APIを公式にサポートなど",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
