@@ -786,6 +786,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-28T07:39:50.248Z",
+            "title": "Webtest.app - Testing websites with and without adblocker",
+            "url": "https://webtest.app/?url=https://jser.info",
+            "content": "ウェブサイトにuBlock OriginなどのAdblockを経由した場合のブロックされたリクエストやCookie、ページサイズ、パフォーマンスメトリクスの比較結果を計測するツール",
+            "tags": [
+                "webservice",
+                "Tools",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
