@@ -809,6 +809,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-28T23:57:43.414Z",
+            "title": "Node v12.11.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v12.11.0/",
+            "content": "Node v12.11.0リリース。\nV8 7.7へアップデート、`worker_thread`モジュールがStableになるなど。",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
