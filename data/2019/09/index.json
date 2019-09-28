@@ -763,6 +763,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-28T02:13:00.628Z",
+            "title": "Release 16.10.0 (September 27, 2019) · facebook/react",
+            "url": "https://github.com/facebook/react/releases/tag/v16.10.0",
+            "content": "React 16.10.0リリース。\nExperimentalなSchedulerのメモリ消費の改善、`requestAnimationFrame`ではなく`postMessage`を使ったより短いインターバルでのチェックの実装。\n`useSubscription`のバグ修正など",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
