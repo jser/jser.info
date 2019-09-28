@@ -774,6 +774,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-28T06:30:42.487Z",
+            "title": "chroventer/endb: Simple key-value database with multi adapter support",
+            "url": "https://github.com/chroventer/endb",
+            "content": "MySQLやRedisなどをバックエンドにできるKVSライブラリ",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
