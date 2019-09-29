@@ -832,6 +832,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-29T12:03:01.318Z",
+            "title": "oframe/ogl: Minimal WebGL framework",
+            "url": "https://github.com/oframe/ogl",
+            "content": "WebGLフレームワーク。\n抽象度は低めで、Math/Core/Extrasのモジュールから構成される",
+            "tags": [
+                "WebGL",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
