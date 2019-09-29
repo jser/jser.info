@@ -866,6 +866,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-29T13:39:02.507Z",
+            "title": "Working with GitHub Actions | Jeff Rafter",
+            "url": "https://jeffrafter.com/working-with-github-actions/",
+            "content": "Node.js + TypeScriptでGitHub Actionsを作成するチュートリアル。\n`@actions/core`の使い方やGitHub APIへのリクエスト、デバッグ方法、テスト方法などについて",
+            "tags": [
+                "node.js",
+                "Github",
+                "Actions",
+                "article",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
