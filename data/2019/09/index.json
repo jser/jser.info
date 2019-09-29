@@ -820,6 +820,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-09-29T10:15:16.874Z",
+            "title": "Release v2 Cosmic Jellyfish · gpujs/gpu.js",
+            "url": "https://github.com/gpujs/gpu.js/releases/tag/2.0.0",
+            "content": "gpu.js 2.0.0リリース。\nVideo inputのサポート、`gpu.setInjectedNative()`の追加、`mode`オプションに`dev`を追加など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
