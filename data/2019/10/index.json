@@ -1,16 +1,25 @@
 {
     "list": [
         {
-            "date": "2019-10-02T05:07:03.374Z",
+            "date": "2019-10-03T01:43:41.508Z",
             "title": "Release Preact X - Virtuous DOM and the Fragments of Suspense · preactjs/preact",
             "url": "https://github.com/preactjs/preact/releases/tag/10.0.0",
-            "content": "Preact X(10.0.0)リリース。\n`Fragments`、`componentDidCatch`、`createContext`のサポート、`preact/hooks` addonの追加など",
+            "content": "Preact X(10.0.0)リリース。\n`Fragments`、`componentDidCatch`、`createContext`のサポート、Hooks APIのサポートなど",
             "tags": [
                 "React",
                 "library",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "What's new in Preact X | Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.",
+                    "url": "https://preactjs.com/guide/v10/whats-new/"
+                },
+                {
+                    "title": "Upgrading from Preact 8.x | Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.",
+                    "url": "https://preactjs.com/guide/v10/upgrade-guide/"
+                }
+            ]
         }
     ]
 }
