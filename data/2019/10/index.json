@@ -32,6 +32,18 @@
                 "WAI-ARIA"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-04T06:18:38.986Z",
+            "title": "Release v3.2.0 · facebook/create-react-app",
+            "url": "https://github.com/facebook/create-react-app/releases/tag/v3.2.0",
+            "content": "create-react-app 3.2.0リリース。\n`yarn build --profile`でproduction buildでのプロファイル対応、`TSC_COMPILE_ON_ERROR`のサポートなど",
+            "tags": [
+                "React",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
