@@ -44,6 +44,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-05T11:00:06.202Z",
+            "title": "cevek/ttypescript: Over TypeScript tool to use custom transformers in the tsconfig.json",
+            "url": "https://github.com/cevek/ttypescript",
+            "content": "TypeScriptでのコンパイル処理に対して、プラグインで変換処理を追加できるコンパイラーの実装",
+            "tags": [
+                "TypeScript",
+                "Tools",
+                "plugin"
+            ],
+            "relatedLinks": []
         }
     ]
 }
