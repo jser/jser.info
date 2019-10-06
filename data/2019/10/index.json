@@ -83,10 +83,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-10-06T11:35:31.092Z",
+            "date": "2019-10-06T11:36:36.429Z",
             "title": "algolia/shipjs: Take control of what is going to be your next release.",
             "url": "https://github.com/algolia/shipjs",
-            "content": "リリースの準備とリリースを行うツール。\nsemantic-releaseとは異なり、Pull Requestの作成を自動で行い、手動で確認やCHANGELOGの更新をしてからリリースを行う。",
+            "content": "リリースの準備とリリースを行うツール。\nsemantic-releaseとは異なりすべてを自動で行うのではなく、Pull Requestを作成して、手動で確認やCHANGELOGの更新をしてからリリースを行うといったプロセスが取れる。",
             "tags": [
                 "JavaScript",
                 "npm",
