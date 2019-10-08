@@ -110,6 +110,24 @@
                     "url": "https://github.com/microsoft/TypeScript/issues/33352"
                 }
             ]
+        },
+        {
+            "date": "2019-10-08T02:33:21.953Z",
+            "title": "Fixing layout instability  |  web.dev",
+            "url": "https://web.dev/fixing-layout-instability/",
+            "content": "`PerformanceObserver`でCumulative Layout Shift (CLS)を計測し、どのようなレイアウトの変化が起きてるのかをWebPageTestで確認する方法について。\nまた、実際にプレースホルダーデータを使ってlayout instabilityを修正する方法について。",
+            "tags": [
+                "Chrome",
+                "performance",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Measuring Cumulative Layout Shift (CLS) in WebPageTest - DEV Community 👩‍💻👨‍💻",
+                    "url": "https://dev.to/chromiumdev/measuring-cumulative-layout-shift-cls-in-webpagetest-5cle"
+                }
+            ]
         }
     ]
 }
