@@ -94,6 +94,22 @@
                 "CI "
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-08T02:16:11.151Z",
+            "title": "Announcing TypeScript 3.7 Beta | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-3-7-beta/",
+            "content": "TypeScript 3.7 Betaリリース。\nOptional Chaining、Nullish Coalescing、Assertion Functionsのサポート。\n`--declaration`と`--allowJs`の組み合わせのサポート、`// @ts-nocheck`の追加など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "TypeScript 3.7 Iteration Plan · Issue #33352 · microsoft/TypeScript",
+                    "url": "https://github.com/microsoft/TypeScript/issues/33352"
+                }
+            ]
         }
     ]
 }
