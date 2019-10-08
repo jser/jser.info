@@ -163,6 +163,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-08T13:47:12.859Z",
+            "title": "Bin-Huang/prray: \"Promisified\" Array, comes with async method supports(such as mapAsync). And it is compatible with normal array.",
+            "url": "https://github.com/Bin-Huang/prray",
+            "content": "コールバック関数にAsync Functionを取るArrayの実装ライブラリ",
+            "tags": [
+                "JavaScript",
+                "Promises",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
