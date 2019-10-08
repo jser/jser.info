@@ -6,7 +6,8 @@
   "scripts": {
     "test": "node tests/validate-json.js && node tests/check-json-by-textlint.js && npm run test:invalid",
     "test:invalid": "check-invalid-control-characters 'data/**/*.json'",
-    "gitter": "node tools/gitter/check-updatable.js"
+    "gitter": "node tools/gitter/check-updatable.js",
+    "twitter": "node tools/twitter/check-updatable.js"
   },
   "repository": {
     "type": "git",
