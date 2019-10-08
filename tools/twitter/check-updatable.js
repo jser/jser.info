@@ -2,7 +2,7 @@
 "use strict";
 /*
  JSer.infoの記事が更新出来るかどうかをチェックする
- 中央値と現在値を比較して一致してる時のみGitterへ投稿する
+ 中央値と現在値を比較して一致してる時のみTwitterへ投稿する
 */
 const { getStat } = require("../jser.github.io/lib/get-stat");
 
