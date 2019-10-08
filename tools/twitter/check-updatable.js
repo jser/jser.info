@@ -6,7 +6,7 @@
 */
 const { getStat } = require("../jser.github.io/lib/get-stat");
 
-const postToGitter = require("./post-to-gitter");
+const postToGitter = require("./post-to-twitter");
 getStat().then(stat => {
     const jSerWeeks = stat.getJSerWeeks();
     const latestWeek = jSerWeeks[jSerWeeks.length - 1];
