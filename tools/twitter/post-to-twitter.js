@@ -7,8 +7,7 @@ module.exports = function postToGitter(message) {
         method: 'POST',
         headers: {
             'Accept': 'application/json',
-            'Content-Type': 'application/json',
-            'Authorization': "Bearer " + token
+            'Content-Type': 'application/json'
         },
         body: JSON.stringify({
             "value1": message
