@@ -175,6 +175,25 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-08T14:04:28.937Z",
+            "title": "Announcing the webhint v1 browser extension for Microsoft Edge - Microsoft Edge Blog",
+            "url": "https://blogs.windows.com/msedgedev/2019/09/30/announcing-the-webhint-v1-browser-extension-for-microsoft-edge/",
+            "content": "webhint 1.0.0リリース。\nプラグインでカスタマイズできるウェブサイト向けのLintツール。\nブラウザ拡張としても動作するようになり、 MDN’s browser compat dataを使ったクロスブラウザの互換情報の表示、カラーコントラストについてのHintの追加など",
+            "tags": [
+                "browser",
+                "Tools",
+                "ReleaseNote",
+                "Extension",
+                "accessibility"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "webhint, the hinting engine for web best practices",
+                    "url": "https://webhint.io/"
+                }
+            ]
         }
     ]
 }
