@@ -6,7 +6,7 @@
 */
 const { getStat } = require("../jser.github.io/lib/get-stat");
 
-const postToGitter = require("./post-to-twitter");
+const { postToTwitter } = require("./post-to-twitter");
 getStat().then(stat => {
     const jSerWeeks = stat.getJSerWeeks();
     const latestWeek = jSerWeeks[jSerWeeks.length - 1];
@@ -25,7 +25,7 @@ getStat().then(stat => {
         return (sum / data.length);
     }
 
-    const median = function(arr) {
+    const median = function (arr) {
         const half = (arr.length / 2) | 0;
         const temp = arr.sort();
 
@@ -35,11 +35,11 @@ getStat().then(stat => {
 
         return (temp[half - 1] + temp[half]) / 2;
     };
-    const itemCountList = jSerWeeks.map(function(week) {
+    const itemCountList = jSerWeeks.map(function (week) {
         return week.items.length;
     });
 
-    (function() {
+    (function () {
         const averageValue = average(itemCountList);
         const medianValue = median(itemCountList);
         const currentValue = unpublishedItems.length;
@@ -55,19 +55,19 @@ getStat().then(stat => {
         // 中間報告
         const middleHitValue = Math.round(hitValue / 2);
         if (middleHitValue === currentValue) {
-            postToGitter(`[JSer.info] 現在の記事数: ${currentValue}`).then(function() {
-                console.log("Post to gitter!")
-            }).catch(function(error) {
+            postToTwitter(`[JSer.info] 現在の記事数: ${currentValue}`).then(function () {
+                console.log("Post to twitter!")
+            }).catch(function (error) {
                 console.error(error);
             });
         } else if (hitValue === currentValue) {
-            postToGitter(`[JSer.info] 更新準備完了！
+            postToTwitter(`[JSer.info] 更新準備完了！
 ${PR_URL}
 ---
 ${resultReport}
-`).then(function() {
+`).then(function () {
                 console.log("Post to Twitter!")
-            }).catch(function(error) {
+            }).catch(function (error) {
                 console.error(error);
             });
         }
