@@ -48,6 +48,8 @@ getStat().then(stat => {
 中央値:  ${medianValue}
 現在値:  ${currentValue}
 `;
+        console.log("# REPORT");
+        console.log(resultReport);
         // ぴったりより少し前に予告したいので -3
         const hitValue = Math.round(medianValue - 3);
         const nextWeekNumber = stat.getTotalWeekCount() + 1;
