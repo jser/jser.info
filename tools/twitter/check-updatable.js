@@ -56,19 +56,19 @@ getStat().then(stat => {
         const PR_URL = `https://github.com/jser/jser.github.io/pull/jser-week-${nextWeekNumber}`;
         // 中間報告
         const middleHitValue = Math.round(hitValue / 2);
-        if (middleHitValue === currentValue) {
-            postToTwitter(`[JSer.info] 現在の記事数: ${currentValue}`).then(function () {
-                console.log("Post to twitter!")
-            }).catch(function (error) {
-                console.error(error);
-            });
-        } else if (hitValue === currentValue) {
+        if (hitValue === currentValue) {
             postToTwitter(`[JSer.info] 更新準備完了！
 ${PR_URL}
 ---
 ${resultReport}
 `).then(function () {
                 console.log("Post to Twitter!")
+            }).catch(function (error) {
+                console.error(error);
+            });
+        } else {
+            postToTwitter(`[JSer.info] 現在の記事数: ${currentValue}`).then(function () {
+                console.log("Post to twitter!")
             }).catch(function (error) {
                 console.error(error);
             });
