@@ -12,7 +12,5 @@ module.exports.postToTwitter = function postToTwitter(message) {
         body: JSON.stringify({
             "value1": message
         })
-    }).then(function (res) {
-        return res.json();
     });
 };
