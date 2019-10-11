@@ -260,6 +260,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-11T11:58:18.797Z",
+            "title": "Top-level await · V8",
+            "url": "https://v8.dev/features/top-level-await",
+            "content": "Top-level `await`について。\nTop-level `await`のユースケースや実行順序などの挙動についてなど",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
