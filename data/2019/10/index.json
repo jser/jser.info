@@ -325,6 +325,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-14T13:09:01.380Z",
+            "title": "luwes/sinuous: Small, fast, reactive UI library",
+            "url": "https://github.com/luwes/sinuous",
+            "content": "`htm`構文、Hyperscript、JSXに対応したUIライブラリ。\nobservableな値監視の仕組みも提供し、小さなファイルサイズでUIを作成できるようにすることが目的",
+            "tags": [
+                "JavaScript",
+                "UI",
+                "library",
+                "jsx"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "developit/htm: Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.",
+                    "url": "https://github.com/developit/htm"
+                }
+            ]
         }
     ]
 }
