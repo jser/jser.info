@@ -368,6 +368,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-15T00:43:17.534Z",
+            "title": "Vue.js Performance Tips / #v_kansai 11 - Speaker Deck",
+            "url": "https://speakerdeck.com/masashi/number-v-kansai-11",
+            "content": "Vue.jsアプリのパフォーマンス改善についてのスライド。\nIntersectionObserverを使った表示サれたことの検知、画像の遅延ロード、Hydrationの遅延実行などについて",
+            "tags": [
+                "Vue",
+                "performance",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
