@@ -380,6 +380,24 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-17T14:22:36.335Z",
+            "title": "Release v4.0.0 · vuejs/vue-cli",
+            "url": "https://github.com/vuejs/vue-cli/releases/tag/v4.0.0",
+            "content": "Vue CLI 4.0.0リリース。\nNightwatch、Jest、PWAサポートの改善、依存のメジャーアップデートなどが含まれる",
+            "tags": [
+                "Vue",
+                "console",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migrating from v3 | Vue CLI",
+                    "url": "https://cli.vuejs.org/migrating-from-v3/"
+                }
+            ]
         }
     ]
 }
