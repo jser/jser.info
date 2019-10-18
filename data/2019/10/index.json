@@ -410,6 +410,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-18T08:14:27.183Z",
+            "title": "Release v5.6.0 · GoogleChrome/lighthouse",
+            "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v5.6.0",
+            "content": "lighthouse v5.6.0リリース。\nStack packでAngular、React、AMP、Magentoのサポートし、フレームワーク固有のメトリクスの追加など",
+            "tags": [
+                "Chrome",
+                "performance",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "GoogleChrome/lighthouse-stack-packs: Lighthouse Stack Packs",
+                    "url": "https://github.com/GoogleChrome/lighthouse-stack-packs"
+                }
+            ]
         }
     ]
 }
