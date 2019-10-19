@@ -483,6 +483,17 @@
                     "url": "https://github.com/buntis/buntis"
                 }
             ]
+        },
+        {
+            "date": "2019-10-19T23:10:01.176Z",
+            "title": "Release Notes for Safari Technology Preview 94 | WebKit",
+            "url": "https://webkit.org/blog/9609/release-notes-for-safari-technology-preview-94/",
+            "content": "Safari Technology Preview 94リリース。\nCSS Shadow Partsの`::part()`の疑似要素をサポート、httpsで`Cache-Control: no-store`のHTTPヘッダで配信されたページもBFCacheに入るように変更など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
