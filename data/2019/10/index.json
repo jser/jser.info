@@ -466,6 +466,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-19T15:05:22.454Z",
+            "title": "meriyah/meriyah: A 100% compliant, self-hosted javascript parser - https://meriyah.github.io/meriyah",
+            "url": "https://github.com/meriyah/meriyah",
+            "content": "JavaScriptのコードをESTree ASTフォーマットにパースできるJavaScriptパーサライブラリ",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "buntis/buntis: A 100% compliant, self-hosted typescript parser that emits an ESTree-compatible AST",
+                    "url": "https://github.com/buntis/buntis"
+                }
+            ]
         }
     ]
 }
