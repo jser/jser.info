@@ -440,6 +440,19 @@
                 "windows"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-19T07:27:36.845Z",
+            "title": "middyjs/middy: 🛵 The stylish Node.js middleware engine for AWS Lambda",
+            "url": "https://github.com/middyjs/middy",
+            "content": "aws lambdaのhandlerに対して前後に処理を加えられるmiddlewareライブラリ",
+            "tags": [
+                "node.js",
+                "aws",
+                "Lambda",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
