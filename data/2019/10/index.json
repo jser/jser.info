@@ -506,6 +506,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-20T14:16:08.211Z",
+            "title": "Firefox's New WebSocket Inspector - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2019/10/firefoxs-new-websocket-inspector/",
+            "content": "Firefox 71の開発者ツールでWebSockets Inspectorが新しくなる。\nWS protocolのデータがJSON、Socket.IO、SockJS等の場合にデータをInspectできるように、またWSトラフィックの停止と再開ボタンの追加など",
+            "tags": [
+                "Firefox",
+                "debug",
+                "WebSocket",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
