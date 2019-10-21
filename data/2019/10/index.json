@@ -519,6 +519,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-21T10:38:54.562Z",
+            "title": "Node v12.13.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v12.13.0/",
+            "content": "Node.js 12.13.0リリース。\nNode.js 12.xのLTS(Long Term Support)となるバージョンで、2022年4月までメンテナンスされる。\nnpm 6.12.0へのアップデートなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "nodejs/Release: Node.js Foundation Release Working Group",
+                    "url": "https://github.com/nodejs/Release"
+                }
+            ]
         }
     ]
 }
