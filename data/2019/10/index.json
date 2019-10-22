@@ -558,6 +558,18 @@
                 "graphic"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-22T02:48:48.044Z",
+            "title": "SameSite Cookie - Speaker Deck",
+            "url": "https://speakerdeck.com/masashi/samesite-cookie",
+            "content": "SameSite Cookieについてのスライド。\nSameSite CookieとCSRF、Cookieの属性、SameSite Cookieの動作とオプション(Strict, Lax, None)、ウェブサイトへの影響について",
+            "tags": [
+                "browser",
+                "slide",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
