@@ -633,6 +633,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-24T01:18:40.145Z",
+            "title": "Release v1.0 Final! · reduxjs/redux-starter-kit",
+            "url": "https://github.com/reduxjs/redux-starter-kit/releases/tag/v1.0.0",
+            "content": "Redux Starter Kit 1.0リリース。\nReduxのラッパーでboilerplate codeを減らしたり、簡単に利用できることを目的にしたツールセット。\n作者は現在のReduxのメンテナーの一人である3markerikson。",
+            "tags": [
+                "React",
+                "redux",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Idiomatic Redux: Redux Starter Kit 1.0 · Mark's Dev Blog",
+                    "url": "https://blog.isquaredsoftware.com/2019/10/redux-starter-kit-1.0/"
+                }
+            ]
         }
     ]
 }
