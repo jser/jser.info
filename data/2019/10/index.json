@@ -598,6 +598,30 @@
                     "url": "https://medium.com/@nodejs/node-js-12-to-lts-and-node-js-13-is-here-e28d6a4a2bd"
                 }
             ]
+        },
+        {
+            "date": "2019-10-24T00:57:50.720Z",
+            "title": "Firefox 70.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/70.0/releasenotes/",
+            "content": "Firefox 70リリース。\nEnhanced Tracking Protection (ETP)の有効化、開発者ツールの改善やWebSocket Inspectorの改善など。\nES ProposalのNumeric separatorsに対応、Workerスクリプトの読み込み時にMIME typeを確認するように、Web Audio APIの仕様追従など",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 70 — a bountiful release for all - Mozilla Hacks - the Web developer blog",
+                    "url": "https://hacks.mozilla.org/2019/10/firefox-70-a-bountiful-release-for-all/"
+                },
+                {
+                    "title": "Harald Kirschner (digitarald)",
+                    "url": "https://firefox-dev.tools/"
+                },
+                {
+                    "title": "Firefox 70 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/docs/Mozilla/Firefox/Releases/70"
+                }
+            ]
         }
     ]
 }
