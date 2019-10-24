@@ -622,6 +622,17 @@
                     "url": "https://developer.mozilla.org/docs/Mozilla/Firefox/Releases/70"
                 }
             ]
+        },
+        {
+            "date": "2019-10-24T01:08:06.539Z",
+            "title": "Preparing for the Future with React Prereleases – React Blog",
+            "url": "https://reactjs.org/blog/2019/10/22/react-release-channels.html",
+            "content": "Reactのリリースチャンネルについて。\nLatest(Stable)、Next(リポジトリのmasterと同等)、Experimental(masterに加えて実験的な機能)の3つのチャンネルがあることについて。\nそれぞれの利用方法や目的、またRFCとExperimentalについて",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
