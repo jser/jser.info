@@ -683,6 +683,17 @@
                     "url": "https://www.chromestatus.com/features/5640265926705152"
                 }
             ]
+        },
+        {
+            "date": "2019-10-25T12:55:37.013Z",
+            "title": "Announcing TypeScript 3.7 RC | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-3-7-rc/",
+            "content": "TypeScript 3.7RCリリース。\nOptional Chaining、Nullish Coalescing、Assertion Functionsのサポート。 \n`never`を返す関数を呼び出した場合の型推論の改善、`--declaration`と`--allowJs`の組み合わせのサポート、`// @ts-nocheck`の追加など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
