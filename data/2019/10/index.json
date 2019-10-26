@@ -694,6 +694,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-26T01:31:02.641Z",
+            "title": "Release v2.0.0 · GoogleChrome/puppeteer",
+            "url": "https://github.com/GoogleChrome/puppeteer/releases/tag/v2.0.0",
+            "content": "Puppeteer 2.0.0リリース\nChromium 79へのアップデート、Node 6以下のサポート終了、`page.screenshot`をViewportに合わせる変更など。\nまた、`page.emulateTimezone`、`page.emulateMediaType`、`page.emulateMediaFeatures`の追加など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
