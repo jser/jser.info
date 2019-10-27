@@ -745,6 +745,18 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-27T14:23:17.460Z",
+            "title": "Time to First Byte: What It Is and Why It Matters – CSS Wizardry – CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts",
+            "url": "https://csswizardry.com/2019/08/time-to-first-byte-what-it-is-and-why-it-matters/",
+            "content": "Time to First Byte (TTFB)についての解説。\nTTFBに含まれるであろう処理の種類、それを明示できるServer-Timingヘッダについて",
+            "tags": [
+                "browser",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
