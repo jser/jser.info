@@ -733,6 +733,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-27T11:21:29.297Z",
+            "title": "Prototype Pollution in Kibana",
+            "url": "https://slides.com/securitymb/prototype-pollution-in-kibana",
+            "content": "KibanaにあったPrototype pollutionの脆弱性を使ったRCEについての解説スライド。\n`__proto__.env`で任意の環境変数を読み込ませてspawnするのを見つけ、`NODE_OPTIONS`と`/proc/self/environ`を使い環境変数にコードを仕込み実行させる手法の解説",
+            "tags": [
+                "JavaScript",
+                "security",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
