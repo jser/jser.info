@@ -757,6 +757,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-28T14:38:10.047Z",
+            "title": "Electron 7.0.0 | Electron Blog",
+            "url": "https://electronjs.org/blog/electron-7-0",
+            "content": "Electron 7.0.0リリース。\nWindows on Arg(64bit)の対応、非同期IPCの`ipcRenderer.invoke()`と`ipcMain.handle()`の追加、`nativeTheme` APIの追加など。\nElectron 4.xはサポート終了となる。",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
