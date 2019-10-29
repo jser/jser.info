@@ -768,6 +768,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-29T01:31:47.056Z",
+            "title": "WebAuthN 実際導入してどうだったか",
+            "url": "https://kasecato.github.io/web-study-webauthn-nulab/",
+            "content": "Web Authentication APIについてのスライド。\nセキュリティデバイスの登録における設計、ChromeやmacOSのTouch IDにおけるハマりどころ(プロファイルに紐づくなど)などについて",
+            "tags": [
+                "WebAuthentication",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
