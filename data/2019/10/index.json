@@ -802,6 +802,22 @@
                 "animation"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-10-31T02:15:09.304Z",
+            "title": "Release v0.111.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.111.0",
+            "content": "FlowType 0.111.0リリース。\nObject spread構文によるオブジェクトのマージにおける型推論の改善。\nパフォーマンス改善に向けた試験的なフラグとして`experimental.minimal_merge`の追加など",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Now you can spread disjoint unions without getting errors!",
+                    "url": "https://medium.com/flow-type/spreads-common-errors-fixes-9701012e9d58"
+                }
+            ]
         }
     ]
 }
