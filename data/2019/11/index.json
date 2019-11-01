@@ -15,6 +15,17 @@
                     "url": "https://conf.reactjs.org/"
                 }
             ]
+        },
+        {
+            "date": "2019-11-01T12:32:54.352Z",
+            "title": "SameSite cookie recipes",
+            "url": "https://web.dev/samesite-cookie-recipes/",
+            "content": "SameSite Cookiesへの対応方法について。\nSameSite=Noneに対応していないUAの対策として、LegacyなCookieととSameSite属性をつけたCookieを両方渡すパターンについてなど",
+            "tags": [
+                "browser",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
