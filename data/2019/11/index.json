@@ -26,6 +26,20 @@
                 "security"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-03T13:48:34.205Z",
+            "title": "mikro-orm/mikro-orm: TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.",
+            "url": "https://github.com/mikro-orm/mikro-orm",
+            "content": "TypeScriptで書かれたMongoDB、MySQL、PostgreSQLなどのORMマッパーライブラリ",
+            "tags": [
+                "TypeScript",
+                "rnode",
+                "library",
+                "MySQL",
+                "MongoDB"
+            ],
+            "relatedLinks": []
         }
     ]
 }
