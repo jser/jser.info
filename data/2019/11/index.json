@@ -76,6 +76,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-04T12:21:12.760Z",
+            "title": "Hands-on guide: developing & deploying Node.js apps in Kubernetes",
+            "url": "https://learnk8s.io/nodejs-kubernetes-guide/",
+            "content": "Express+MongoなNode.jsアプリをDockerで動かして、それをminikubeを使ってローカルのKubernatesクラスタで動かし、スケーリングをテストするチュートリアル記事",
+            "tags": [
+                "node.js",
+                "Docker",
+                "kubernetes",
+                "article",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
