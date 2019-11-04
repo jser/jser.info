@@ -40,6 +40,18 @@
                 "MongoDB"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-04T07:37:29.845Z",
+            "title": "ReactHooksでvideoを乗りこなす - Speaker Deck",
+            "url": "https://speakerdeck.com/narirou/reacthookstevideowocheng-rikonasu",
+            "content": "React Hooksを使ってVideoプレイヤーを作成することについてのスライド。\n`<video>`要素の持つ複雑なステート管理、更新頻度に合わせたステートの分離、React Hooksの利用についてなど",
+            "tags": [
+                "React",
+                "video",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
