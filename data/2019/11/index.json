@@ -148,6 +148,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-06T01:24:28.439Z",
+            "title": "Announcing TypeScript 3.7 | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-3-7/",
+            "content": "TypeScript 3.7リリース。\nPlaygroundで更新内容を確認できるようになった。\nOptional Chainig、Nullish Coalescing、Assertion Functionsのサポート、エラーレポートの改善、`@ts-nockeck`をtsファイルでサポートなど。\n`never`型のコントールフロー改善、`--declaration`と`--allowJs`を組みあせて利用できるように.\n`useDefineForClassFields`のフラグ付きでクラスフィールドに`declare`を利用できるように、",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
