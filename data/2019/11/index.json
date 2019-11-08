@@ -159,6 +159,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-08T14:56:59.004Z",
+            "title": "GoogleChromeLabs/native-url: Node's url module implemented using the built-in URL API.",
+            "url": "https://github.com/GoogleChromeLabs/native-url",
+            "content": "Node.jsの`url`モジュールを`URL`オブジェクトを使って実装したpolyfillライブラリ。\nネイティブのURL APIを使うことで、ファイルサイズが小さくなる。webpackなどのaliasで差し替える方法についても書かれている",
+            "tags": [
+                "JavaScript",
+                "URL",
+                "library",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
