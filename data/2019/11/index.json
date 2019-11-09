@@ -185,6 +185,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-09T07:52:03.732Z",
+            "title": "7.7.0 Released: Error recovery and TypeScript 3.7 · Babel",
+            "url": "https://babeljs.io/blog/2019/11/05/7.7.0",
+            "content": "Babel 7.7.0リリース。\nTop-Level `await`のサポート、TypeScript 3.7サポート。\nパースエラーでも結果のASTとエラーを返せる`errorRecovery`オプションの追加、`.babelrc.cjs`を設定ファイルとして認識するように、メモリ消費量の改善など",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
