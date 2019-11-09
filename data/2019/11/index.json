@@ -256,6 +256,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-09T15:12:14.151Z",
+            "title": "Client-Side SQL Query Parsing with ANTLR | Rockset",
+            "url": "https://rockset.com/blog/client-side-sql-query-parsing-with-antlr/",
+            "content": "ANTLRを使ったSQL構文のパーサをJavaScriptで書く方法についての記事",
+            "tags": [
+                "JavaScript",
+                "SQL",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
