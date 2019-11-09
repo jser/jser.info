@@ -196,6 +196,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-09T08:05:36.566Z",
+            "title": "Release v6.13.0 · npm/cli",
+            "url": "https://github.com/npm/cli/releases/tag/v6.13.0",
+            "content": "npm 6.13.0リリース。\n`npm fund`で依存パッケージの`funding`フィールドをリスト表示できるように、`npm help <command> --viewer browser`で表示するヘルプをgatsbyベースに変更など",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
