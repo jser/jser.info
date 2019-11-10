@@ -268,6 +268,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-10T11:13:10.814Z",
+            "title": "Announcing Dart 2.6 with dart2native: Compile Dart to self-contained, native executables",
+            "url": "https://medium.com/dartlang/dart2native-a76c815e6baf",
+            "content": "Dart 2.6リリース。\n`dart2native` compilerでmacOSやWindows、Linux向けのネイティブコードの出力をサポート、`dart:ffi`の改善など",
+            "tags": [
+                "dart",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
