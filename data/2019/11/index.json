@@ -279,6 +279,25 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-10T15:18:53.446Z",
+            "title": "lirantal/lockfile-lint: Lint an npm or yarn lockfile to analyze and detect security issues",
+            "url": "https://github.com/lirantal/lockfile-lint",
+            "content": "`pacage-lock.json`や`yarn.lock`のチェックツール。\nポリシーに反する依存がロックファイル含まれていないかチェックするLintツール。",
+            "tags": [
+                "npm",
+                "yarn",
+                "security",
+                "Tools",
+                "testing"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Why npm lockfiles can be a security blindspot for injecting malicious modules | Snyk",
+                    "url": "https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/"
+                }
+            ]
         }
     ]
 }
