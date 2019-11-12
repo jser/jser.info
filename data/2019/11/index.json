@@ -209,10 +209,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-11-09T08:14:20.159Z",
+            "date": "2019-11-12T02:07:38.204Z",
             "title": "The npm Blog — Updates to Community, Docs & more...",
             "url": "https://blog.npmjs.org/post/188841555980/updates-to-community-docs-more",
-            "content": "npmの最近の変更と今後について。\nnpmのフォーラム(https://npm.community/)はアーカイブ化しバグ関係の管理はGitHub Issuesに再び移動、npm 6.13で`npm fund`のサポートなど。\nまたnpm v7の変更予定としてパフォーマンスの改善、GitHubのPRからのインストール、Node 6と8のサポート終了、peerDepsをデフォルトでインストールするように変更など",
+            "content": "npmの最近の変更と今後について。\nnpmのフォーラム( https://npm.community/ )はアーカイブ化しバグ関係の管理はGitHub Issuesに再び移動、npm 6.13で`npm fund`のサポートなど。\nまたnpm v7の変更予定としてパフォーマンスの改善、GitHubのPRからのインストール、Node 6と8のサポート終了、peerDepsをデフォルトでインストールするように変更など",
             "tags": [
                 "npm",
                 "article",
@@ -221,7 +221,7 @@
             "relatedLinks": [
                 {
                     "title": "Release v6.13.0 · npm/cli",
-                    "url": "https://github.com/npm/cli/releases/tag/v6.13.0"
+                    "url": "http://example.com/"
                 }
             ]
         },
