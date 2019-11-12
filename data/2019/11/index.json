@@ -328,6 +328,18 @@
                     "url": "https://github.com/treosh/lighthouse-ci-action"
                 }
             ]
+        },
+        {
+            "date": "2019-11-12T02:05:58.436Z",
+            "title": "Rethinking frontend APM - LogRocket Blog",
+            "url": "https://blog.logrocket.com/rethinking-frontend-apm/",
+            "content": "LogRocketにLogRocket MetricsというFrontend向けのパフォーマンスモニタリング機能が追加された。\nAPM(Application Performance Management)機能で、フロントエンドに関するいろいろなメトリクスを計測し、モニタリングやアラートを設定できる",
+            "tags": [
+                "webservice",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
