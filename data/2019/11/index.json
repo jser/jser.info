@@ -310,6 +310,24 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-12T02:02:13.689Z",
+            "title": "GoogleChrome/lighthouse-ci: Automate running Lighthouse for every commit, viewing the changes, and preventing regressions",
+            "url": "https://github.com/GoogleChrome/lighthouse-ci",
+            "content": "継続的にlighthouseの結果を計測し、設定したbudgetに対するassertionを行うためのCIツール。\nlighthouseの結果を記録して、項目ごとにAssertionsを設定でき、コミットごとにそのパフォーマンスのリグレッションが発生してないかを継続的にチェックできるツール。",
+            "tags": [
+                "browser",
+                "performance",
+                "CI ",
+                "testing"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "treosh/lighthouse-ci-action: Run Lighthouse in CI using Github Actions",
+                    "url": "https://github.com/treosh/lighthouse-ci-action"
+                }
+            ]
         }
     ]
 }
