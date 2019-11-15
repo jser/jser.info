@@ -340,6 +340,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-15T15:22:58.655Z",
+            "title": "フロントエンドエンジニアのためのセキュリティ対策 ~XSS編~ / #frontkansai 2019 - Speaker Deck",
+            "url": "https://speakerdeck.com/masashi/number-frontkansai-2019",
+            "content": "XSSについてのスライド。\nXSSの種類(Reflected、Stored、DOM Based)の紹介とそれぞれの典型的な対策。\nまた、CSPやTruested Typesなどの予防策についてなど",
+            "tags": [
+                "XSS",
+                "JavaScript",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
