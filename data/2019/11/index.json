@@ -412,6 +412,17 @@
                 "イベント"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-17T11:30:33.108Z",
+            "title": "Handling Errors in Express | Zell Liew",
+            "url": "https://zellwk.com/blog/express-errors/",
+            "content": "Expressのエラーハンドリングについての記事。\n`express-async-handler`を使ったasyncのエラーハンドリング、`http-errors`を使ったエラーオブジェクトの作成、カスタムエラーハンドリングやFallbackについてなど",
+            "tags": [
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
