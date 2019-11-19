@@ -484,6 +484,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-19T02:04:56.397Z",
+            "title": "Bytecode Alliance",
+            "url": "https://bytecodealliance.org/articles/announcing-the-bytecode-alliance",
+            "content": "Mozilla、Fastly、Intel、Red Hatが中心となってWebAssemblyのセキュアなエコシステムを作ることが目的のBytecode Allianceという団体が発足した。\nnpmを例にした現在のエコシステムでの攻撃事例、Nanoprocessと呼ばれるSandboxの仕組みについても書かれている。",
+            "tags": [
+                "WebAssembly",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
