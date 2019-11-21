@@ -512,6 +512,19 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-21T16:07:57.372Z",
+            "title": "Core: Migrate from AMD to ES modules 🎉 by mgol · Pull Request #4541 · jquery/jquery",
+            "url": "https://github.com/jquery/jquery/pull/4541",
+            "content": "jQueryのコードベースがAMDからES modulesに書き換えられた",
+            "tags": [
+                "jQuery",
+                "issue",
+                "module",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
