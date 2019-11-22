@@ -525,6 +525,17 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-22T04:10:10.307Z",
+            "title": "Release Notes for Safari Technology Preview 96 | WebKit",
+            "url": "https://webkit.org/blog/9658/release-notes-for-safari-technology-preview-96/",
+            "content": "Safari Technology Preview 96リリース。\nWeb Animations APIをデフォルトで有効化、`navigator.clipboard.read()`の実装など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
