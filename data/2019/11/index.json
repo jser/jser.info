@@ -538,7 +538,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-11-22T05:06:26.450Z",
+            "date": "2019-11-22T05:13:50.174Z",
             "title": "Node v13.2.0 (Current) | Node.js",
             "url": "https://nodejs.org/en/blog/release/v13.2.0/",
             "content": "Node.js 13.2.0リリース。\n`--experimental-modules`のフラグが外れたため、デフォルトでES Modulesが利用できるように。\n`worker_threads`に`resourceLimits`オプションの追加、`child_process`などに`serialization`オプションの追加など",
@@ -551,6 +551,10 @@
                 {
                     "title": "ECMAScript Modules | Node.js v13.2.0 Documentation",
                     "url": "https://nodejs.org/api/esm.html"
+                },
+                {
+                    "title": "Announcing core Node.js support for ECMAScript modules",
+                    "url": "https://medium.com/@nodejs/announcing-core-node-js-support-for-ecmascript-modules-c5d6dc29b663"
                 }
             ]
         }
