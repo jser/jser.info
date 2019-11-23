@@ -570,6 +570,19 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-23T12:30:02.896Z",
+            "title": "TestCafe v1.7.0 Released | TestCafe",
+            "url": "https://devexpress.github.io/testcafe/blog/testcafe-v1-7-0-released.html",
+            "content": "TestCafe v1.7.0リリース。\nテストコード内で実行してるブラウザやOSの情報を取得できる`t.browser`オブジェクトのサポートなど",
+            "tags": [
+                "browser",
+                "testing",
+                "E2E",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
