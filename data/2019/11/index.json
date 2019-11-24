@@ -583,6 +583,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-24T01:59:52.557Z",
+            "title": "Faster apps with JSON.parse (Chrome Dev Summit 2019) - YouTube",
+            "url": "https://www.youtube.com/watch?v=ff4fgQxPaO0",
+            "content": "オブジェクトリテラルより`JSON.parse`した方が、パフォーマンスが良い理由についての解説動画。\nJSONには出現するトークンが限定されているためオブジェクトリテラルよりパースが高速にできること、SSRでのユースケースなどについて紹介している。",
+            "tags": [
+                "JavaScript",
+                "JSON",
+                "performance",
+                "video"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The cost of JavaScript in 2019 · V8",
+                    "url": "https://v8.dev/blog/cost-of-javascript-2019#json"
+                }
+            ]
         }
     ]
 }
