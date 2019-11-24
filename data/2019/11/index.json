@@ -632,6 +632,19 @@
                 "python"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-24T14:24:18.578Z",
+            "title": "jeremydaly/lambda-api: Lightweight web framework for your serverless applications",
+            "url": "https://github.com/jeremydaly/lambda-api",
+            "content": "AWS Lambda向けのNode,jsフレームワーク。\n依存がなく、HTTPメソッド対するルーティング、HTTPリクエスト/レスポンスに対する基本的な処理を持っている",
+            "tags": [
+                " node",
+                "aws",
+                "Lambda",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
