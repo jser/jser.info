@@ -585,10 +585,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-11-24T01:59:52.557Z",
+            "date": "2019-11-24T02:03:54.621Z",
             "title": "Faster apps with JSON.parse (Chrome Dev Summit 2019) - YouTube",
             "url": "https://www.youtube.com/watch?v=ff4fgQxPaO0",
-            "content": "オブジェクトリテラルより`JSON.parse`した方が、パフォーマンスが良い理由についての解説動画。\nJSONには出現するトークンが限定されているためオブジェクトリテラルよりパースが高速にできること、SSRでのユースケースなどについて紹介している。",
+            "content": "オブジェクトリテラルより`JSON.parse`した方が、パフォーマンスが良い理由についての解説動画。\nJSONには出現するトークンが限定されているためオブジェクトリテラルよりパースが高速にできること、SSRでのユースケースなどについて紹介している。\n10kB以上など大きなデータに関しては`JSON.parse`を使うことを推奨している",
             "tags": [
                 "JavaScript",
                 "JSON",
