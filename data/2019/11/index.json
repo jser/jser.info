@@ -645,6 +645,27 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-24T14:48:27.412Z",
+            "title": "CanJS 6.0",
+            "url": "https://www.bitovi.com/blog/canjs-6.0",
+            "content": "CanJS 6.0リリース。\nWebComponentベースになり、コンポーネントのPropsの型システムの刷新、Proxyを使ったObservableObjectの仕組みなどが導入された。\nマイグレーションガイドとツールも公開されている。\n",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migrating to CanJS 6 | upgrade | Guides | CanJS — Build CRUD apps in fewer lines of code.",
+                    "url": "https://canjs.com/doc/migrate-6.html#MigratetoObservableObjectandObservableArrayformodels"
+                },
+                {
+                    "title": "Using Codemods | upgrade | Guides | CanJS — Build CRUD apps in fewer lines of code.",
+                    "url": "https://canjs.com/doc/guides/upgrade/using-codemods.html"
+                }
+            ]
         }
     ]
 }
