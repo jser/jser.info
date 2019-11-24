@@ -618,6 +618,20 @@
                     "url": "https://www.fastify.io/"
                 }
             ]
+        },
+        {
+            "date": "2019-11-24T02:39:46.969Z",
+            "title": "EasyDB",
+            "url": "https://easydb.io/",
+            "content": "Node.jsやPythonから24時間使えるKVSなDBを作ってくれるウェブサービス。\nアカウントを作ると72時間使うことができ、永続化したい場合は$5/monthで利用できる。\nハッカソンなどの一時的なイベント向けのデータベースサービス。",
+            "tags": [
+                "DB ",
+                "webservice",
+                " node",
+                "npm",
+                "python"
+            ],
+            "relatedLinks": []
         }
     ]
 }
