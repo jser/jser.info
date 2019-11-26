@@ -690,6 +690,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-11-26T02:06:25.642Z",
+            "title": "ESLint v6.7.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2019/11/eslint-v6.7.0-released",
+            "content": "ESLint 6.7.0リリース。\nルールからSuggestionの候補を提供するAPIの追加、設定ファイルに`ignorePatterns`を記述できるようになるなど。\nまた`no-constructor-return `などのルールを新規に5つ追加など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESLint v6.7.0 - Qiita",
+                    "url": "https://qiita.com/mysticatea/items/377b6ca6558dc253159b"
+                }
+            ]
         }
     ]
 }
