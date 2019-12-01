@@ -56,6 +56,23 @@
                 "Extension"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-01T15:20:50.305Z",
+            "title": "GraphQLを用いたサイトに おけるパフォーマンス改善 （ECサイトを題材に）/ Improving online shopping site performance which using the GraphQL - Speaker Deck",
+            "url": "https://speakerdeck.com/nobuhikosawai/improving-online-shopping-site-performance-which-using-the-graphql",
+            "content": "GraphQLのパフォーマンス改善についてのスライド。\nDatadog APMを使ったサーバサイドのGraphQLのクエリトレースの読み方、フロントエンドの不必要なデータを取得するクエリの改善方法について。\nクエリと画面を紐付けるためにFragmentとColocation",
+            "tags": [
+                "GraphQL",
+                "performance",
+                "slide"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Using fragments - Client (React) - Apollo GraphQL Docs",
+                    "url": "https://www.apollographql.com/docs/react/data/fragments/"
+                }
+            ]
         }
     ]
 }
