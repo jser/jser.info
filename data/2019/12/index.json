@@ -43,6 +43,19 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-01T14:57:49.322Z",
+            "title": "open-source-labs/reactime: Chrome extension for state debugging in React applications",
+            "url": "https://github.com/open-source-labs/reactime",
+            "content": "ReactアプリケーションのStateをデバッグするブラウザ拡張。\nその時点のStateの表示、Stateの変化を記録して、特定の時点のStateを再現できる。",
+            "tags": [
+                "React",
+                "debug",
+                "Chrome",
+                "Extension"
+            ],
+            "relatedLinks": []
         }
     ]
 }
