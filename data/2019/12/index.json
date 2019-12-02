@@ -96,6 +96,18 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-02T14:16:58.893Z",
+            "title": "Release v10.0.0 · sindresorhus/got",
+            "url": "https://github.com/sindresorhus/got/releases/tag/v10.0.0",
+            "content": "Node.js向けHTTPクライアントのGot 10.0.0リリース。\nTypeScriptで書き直されたバージョン。\nNode.js 10未満のサポート終了、`query`を`searchParams`にリネーム、`encoding`を`responseType`にリネーム、`json`オプションの変更など。\nDNS cacheのサポート、`maxRedirects`オプションの追加など",
+            "tags": [
+                " node",
+                "HTTP",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
