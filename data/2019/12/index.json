@@ -120,6 +120,28 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-03T02:31:04.810Z",
+            "title": "neomjs/neo: The webworkers driven UI framework (BETA version)",
+            "url": "https://github.com/neomjs/neo",
+            "content": "WebWorkerベースのUIフレームワーク。\nWorker内でコンポーネントの処理を行う",
+            "tags": [
+                "JavaScript",
+                "webworker",
+                "library",
+                "UI"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "neomjs/neo: The webworkers driven UI framework (BETA version)",
+                    "url": "https://github.com/neomjs/neo"
+                },
+                {
+                    "title": "neo/VISION.md at dev · neomjs/neo",
+                    "url": "https://github.com/neomjs/neo/blob/dev/.github/VISION.md"
+                }
+            ]
         }
     ]
 }
