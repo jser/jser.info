@@ -161,6 +161,19 @@
                     "url": "https://github.com/fab-spec/fab/tree/next/packages/fab-static"
                 }
             ]
+        },
+        {
+            "date": "2019-12-03T03:08:05.357Z",
+            "title": "Linc – The Perfect CI/CD Pipeline for your Frontend",
+            "url": "https://linc.sh/",
+            "content": "フロントエンドアプリケーション向けのCI。CDウェブサービス。\nhttps://fab.dev/ のパッケージをサポートしており、コミットごとテスト、アプリケーションのプレビューができる。",
+            "tags": [
+                "CI ",
+                "CD",
+                "webservice",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
