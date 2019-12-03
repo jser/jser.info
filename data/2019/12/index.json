@@ -142,6 +142,25 @@
                     "url": "https://github.com/neomjs/neo/blob/dev/.github/VISION.md"
                 }
             ]
+        },
+        {
+            "date": "2019-12-03T03:05:52.459Z",
+            "title": "FAB — Frontend Application Bundles",
+            "url": "https://fab.dev/",
+            "content": "フロントエンドアプリケーションをホスティングにデプロイする際のパッケージングや配信するNode.jsサーバについて決めた仕様。\nフレームワークごとに出力形式が異なり、ホスティング環境ごとに設定が異なるのを補うための中間フォーマット",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "Tools",
+                "spec",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "@fab/static",
+                    "url": "https://github.com/fab-spec/fab/tree/next/packages/fab-static"
+                }
+            ]
         }
     ]
 }
