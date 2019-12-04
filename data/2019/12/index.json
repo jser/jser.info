@@ -221,6 +221,17 @@
                     "url": "http://dwarfstd.org/"
                 }
             ]
+        },
+        {
+            "date": "2019-12-04T14:29:13.298Z",
+            "title": "Node v13.3.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v13.3.0/",
+            "content": "Node.js 13.3.0リリース。\nExperimentalな`fs.rmdir`のリトライオプションの変更、HTTPのヘッダサイズを指定する`maxHeaderSize`を`http.Server`ごとに指定できるように、WASIのサポートなど",
+            "tags": [
+                " node",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
