@@ -204,6 +204,23 @@
                     "url": "https://developers.google.com/web/updates/2019/12/webassembly"
                 }
             ]
+        },
+        {
+            "date": "2019-12-04T14:04:18.998Z",
+            "title": "Improved WebAssembly debugging in Chrome DevTools  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2019/12/webassembly",
+            "content": "Chrome 80でDWARFのサポートが入った。\nWebAssemblyのデバッグ時に元のソースコードとの対応したブレークポイントの設定やステップ実行が可能になる。\nDWARFはバイナリ向けのSource Mapのような仕様で、バイナリに対してデバッグ用の情報を埋め込むためのデータフォーマット",
+            "tags": [
+                "Chrome",
+                "WebAssembly",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Dwarf Home",
+                    "url": "http://dwarfstd.org/"
+                }
+            ]
         }
     ]
 }
