@@ -187,6 +187,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-04T13:50:19.200Z",
+            "title": "What's New In DevTools (Chrome 80)  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2019/12/devtools",
+            "content": "Chrome 80の開発者ツールの変更点について。\nコンソールで`let`や`const`の再定義が可能に、DWARFをサポートしWebAssemblyのソースデバッグに対応、ネットワークパネルの改善、デフォルトのUAリストの更新など。\nまた、Coverageが関数毎とブロッグ毎を選択できるようになるなど",
+            "tags": [
+                "Chrome",
+                "debiug",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Improved WebAssembly debugging in Chrome DevTools  |  Google Developers",
+                    "url": "https://developers.google.com/web/updates/2019/12/webassembly"
+                }
+            ]
         }
     ]
 }
