@@ -244,6 +244,18 @@
                 "graphic"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-05T15:02:19.178Z",
+            "title": "Release v3.3.0 · facebook/create-react-app",
+            "url": "https://github.com/facebook/create-react-app/releases/tag/v3.3.0",
+            "content": "create-react-app 3.3.0リリース。\nカスタムテンプレートを指定できる`--template`引数のサポート。\nOptional Chaining/Nullish Coalescing Operators/Numeric Separatorsのサポートなど",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
