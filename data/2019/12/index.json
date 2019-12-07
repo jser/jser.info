@@ -270,10 +270,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-12-07T07:14:49.838Z",
+            "date": "2019-12-07T07:15:57.220Z",
             "title": "Firefox 71.0, See All New Features, Updates and Fixes",
             "url": "https://www.mozilla.org/en-US/firefox/71.0/releasenotes/",
-            "content": "Firefox 71.0リリース。\n開発者ツールのコンソールがmulti-line modeをサポート、デバッガーがInline variable previewをサポート、ネットワークのRequest Blockingをサポート。\nまた、Web Sockets Inspectorがデフォルトで有効化された。\nMedia Session APIの実装、TLS 1.0と1.1がDeprecatedになるなど",
+            "content": "Firefox 71.0リリース。\n開発者ツールのコンソールがmulti-line modeをサポート、デバッガーがInline variable previewをサポート、ネットワークのRequest Blockingをサポート。\nまた、Web Sockets Inspectorがデフォルトで有効化された。\nMedia Session APIの実装、WindowsでPicture-in-Pictureのサポート、TLS 1.0と1.1がDeprecatedになるなど",
             "tags": [
                 "Firefox",
                 "ReleaseNote"
@@ -286,6 +286,10 @@
                 {
                     "title": "Firefox 71 サイト互換性情報 | Firefox サイト互換性情報",
                     "url": "https://www.fxsitecompat.dev/ja/versions/71/"
+                },
+                {
+                    "title": "News from Firefox on Mobile, Private Network and Desktop - The Mozilla Blog",
+                    "url": "https://blog.mozilla.org/blog/2019/12/03/news-from-firefox-on-mobile-private-network-and-desktop/#PiP"
                 }
             ]
         }
