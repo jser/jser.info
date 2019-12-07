@@ -268,6 +268,22 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-07T07:13:33.198Z",
+            "title": "Firefox 71.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/71.0/releasenotes/",
+            "content": "Firefox 71.0リリース。\n開発者ツールのコンソールがmulti-line modeをサポート、デバッガーがInline variable previewをサポート、ネットワークのRequest Blockingをサポート。\nまた、Web Sockets Inspectorがデフォルトで有効化された。\nMedia Session APIの実装、TLS 1.0と1.1がDeprecatedになるなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 71 for Developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/71"
+                }
+            ]
         }
     ]
 }
