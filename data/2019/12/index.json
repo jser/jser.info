@@ -292,6 +292,24 @@
                     "url": "https://blog.mozilla.org/blog/2019/12/03/news-from-firefox-on-mobile-private-network-and-desktop/#PiP"
                 }
             ]
+        },
+        {
+            "date": "2019-12-08T00:35:59.100Z",
+            "title": "Web Performance Calendar » Reading a WebPageTest Waterfall Chart",
+            "url": "https://calendar.perfplanet.com/2019/reading-a-webpagetest-waterfall-chart/",
+            "content": "WebPageTestのウォーターフォールチャートの読み方。\nチャートの要素の解説、典型的な問題の解説など",
+            "tags": [
+                "browser",
+                "performance",
+                "webservice",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "How to read a WebPageTest waterfall chart - Frontend Web Developer, Oxfordshire, UK - Matt Hobbs",
+                    "url": "https://nooshu.github.io/blog/2019/10/02/how-to-read-a-wpt-waterfall-chart/"
+                }
+            ]
         }
     ]
 }
