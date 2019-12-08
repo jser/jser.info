@@ -310,6 +310,18 @@
                     "url": "https://nooshu.github.io/blog/2019/10/02/how-to-read-a-wpt-waterfall-chart/"
                 }
             ]
+        },
+        {
+            "date": "2019-12-08T23:39:46.480Z",
+            "title": "Release v6.0.0 · sindresorhus/meow",
+            "url": "https://github.com/sindresorhus/meow/releases/v6.0.0",
+            "content": "Node.js CLI向けのライブラリであるmeow 6.0.0リリース。\nNode.js 8未満のサポート終了、TypeScriptの型定義ファイルの同梱、`number`型のサポート、`hardRejection`オプションの追加など\n",
+            "tags": [
+                " node",
+                "console",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
