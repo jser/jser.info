@@ -339,6 +339,25 @@
                     "url": "https://blog.mozilla.org/blog/2019/09/03/todays-firefox-blocks-third-party-tracking-cookies-and-cryptomining-by-default/"
                 }
             ]
+        },
+        {
+            "date": "2019-12-09T14:40:39.204Z",
+            "title": "mikeal/reg: Native ESM Package Manager",
+            "url": "https://github.com/mikeal/reg",
+            "content": "ExperimentalなECMAScript Modulesパッケージマネージャー。\nIPLDでデータを定義している。",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "module",
+                "Tools",
+                "node.js"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "IPLD - The data model of the content-addressable web",
+                    "url": "https://ipld.io/"
+                }
+            ]
         }
     ]
 }
