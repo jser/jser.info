@@ -322,6 +322,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-09T00:14:07.566Z",
+            "title": "Improving Tracking Prevention in Microsoft Edge - Microsoft Edge Blog",
+            "url": "https://blogs.windows.com/msedgedev/2019/12/03/improving-tracking-prevention-microsoft-edge-79/",
+            "content": "MSEdge on Chromiumに試験的に実装されているTracking Preventionについて。\nFirefoxのETPと似たDisconnectのリストを使ったトラッカーのストレージアクセス、ネットワークアクセスのブロック。\nユーザーのサイトエンゲージメントスコアが `4.1` 以上となっている組織ドメインは対象から除外される。\n保護レベルとしてBasic、Blanced、Strictの設定ができるようになっている。",
+            "tags": [
+                "MSEdge",
+                "privacy",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
