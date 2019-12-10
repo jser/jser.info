@@ -382,6 +382,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-10T00:23:33.163Z",
+            "title": "Release 10.1.0 This suspense is killing me · preactjs/preact",
+            "url": "https://github.com/preactjs/preact/releases/tag/10.1.0",
+            "content": "Preact 10.1.0リリース。\nPreact DevToolsのサポート、`<SuspenseList>`コンポーネントのサポートなど",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Preact Devtools",
+                    "url": "https://preactjs.github.io/preact-devtools/"
+                }
+            ]
         }
     ]
 }
