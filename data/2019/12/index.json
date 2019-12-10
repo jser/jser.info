@@ -399,6 +399,18 @@
                     "url": "https://preactjs.github.io/preact-devtools/"
                 }
             ]
+        },
+        {
+            "date": "2019-12-10T00:40:27.291Z",
+            "title": "Web Performance Calendar » The ugly truth about optimising beautiful images",
+            "url": "https://calendar.perfplanet.com/2019/the-ugly-truth-about-optimising-beautiful-images/",
+            "content": "画像の最適化とパフォーマンスについて。\n単純に画像サイズを削減しただけでは、体験が向上しないケースもあることについて。\nLazy Loading、別のものによって表示されるまでブロックされてるケース。\n画像の最適化前に取り組むべきサイトのボトルとなりうる項目について",
+            "tags": [
+                "Image",
+                "performance",
+                "browser"
+            ],
+            "relatedLinks": []
         }
     ]
 }
