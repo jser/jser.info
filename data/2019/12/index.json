@@ -423,6 +423,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-10T00:47:15.631Z",
+            "title": "ECMAScript proposal updates @ 2019-12 | ECMAScript Daily",
+            "url": "https://ecmascript-daily.github.io/ecmascript/2019/12/07/ecmascript-proposal-update",
+            "content": "2019年12月のTC39ミーティングでステータスの変更があったECMAScript Proposalのまとめ。\nOptional ChainingとNullish coalescing OperatorがStag 4となりES2020に入ることが決まった。",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "proposals/finished-proposals.md at master · tc39/proposals",
+                    "url": "https://github.com/tc39/proposals/blob/master/finished-proposals.md"
+                }
+            ]
         }
     ]
 }
