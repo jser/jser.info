@@ -440,6 +440,24 @@
                     "url": "https://github.com/tc39/proposals/blob/master/finished-proposals.md"
                 }
             ]
+        },
+        {
+            "date": "2019-12-12T07:25:05.208Z",
+            "title": "The npm Blog — Binary Planting with the npm CLI",
+            "url": "https://blog.npmjs.org/post/189618601100/binary-planting-with-the-npm-cli",
+            "content": "npm 6.13.3以下とyarn 1.12.0以下で、\n悪意あるパッケージをインストールするとシステムのコマンドを書き換えできる脆弱性があった。\nnpm 6.13.4、yarn 1.12.1でそれぞれ修正されている",
+            "tags": [
+                "npm",
+                "yarn",
+                "ReleaseNote",
+                "security"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v1.21.1 · yarnpkg/yarn",
+                    "url": "https://github.com/yarnpkg/yarn/releases/tag/v1.21.1"
+                }
+            ]
         }
     ]
 }
