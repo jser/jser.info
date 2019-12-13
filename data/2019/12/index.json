@@ -458,6 +458,18 @@
                     "url": "https://github.com/yarnpkg/yarn/releases/tag/v1.21.1"
                 }
             ]
+        },
+        {
+            "date": "2019-12-13T05:37:18.933Z",
+            "title": "Start TypeScript Leaving JavaScript as JS - Speaker Deck",
+            "url": "https://speakerdeck.com/ginpei/start-typescript-leaving-javascript-as-js",
+            "content": "`allowJs`と`checkJs`を使ったJavaScriptからのTypeScriptの導入について",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
