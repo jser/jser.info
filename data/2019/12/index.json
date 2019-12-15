@@ -493,6 +493,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-15T11:39:57.354Z",
+            "title": "Modeling State with TypeScript | Azavea",
+            "url": "https://www.azavea.com/blog/2019/12/12/modeling-state-with-typescript/",
+            "content": "TypeScriptの`interface`でそれぞれのステートの型を定義し、ステートが取れる次のステートを定義する方法について。\nCondictional Typesを使った実装方法、それぞれのステート型に対するエラーメッセージの定義などについて",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
