@@ -564,6 +564,18 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-16T14:51:44.809Z",
+            "title": "skovy/cooky-cutter: 🍪 Object factories for testing in TypeScript",
+            "url": "https://github.com/skovy/cooky-cutter",
+            "content": "TypeScriptで特定の構造のデータを生成するファクトリライブラリ。\nファクトリに対してGenericsで型を渡し、型に一致するテストデータを生成する。\nランダムな値、連番な値、ファクトリの合成などのヘルパー関数も提供する",
+            "tags": [
+                "TypeScript",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
