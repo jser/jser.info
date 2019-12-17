@@ -576,6 +576,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-17T00:02:35.942Z",
+            "title": "nrdobie/superjson: JSON serializer with support for custom Classes and more JavaScript built-in objects.",
+            "url": "https://github.com/nrdobie/superjson",
+            "content": "クラスのシリアライズやビルトインオブジェクトのサポートを追加したJSON serializers/deserializers。\nDateやMapなどの対応、独自クラスのカスタム定義の追加、`JSON`オブジェクトと入れ替える機能も持っている",
+            "tags": [
+                "JavaScript",
+                "library",
+                "TypeScript",
+                "JSON"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Here comes SuperJSON - One Dead Pixel - Medium",
+                    "url": "https://medium.com/one-dead-pixel/here-comes-superjson-d7f7776f7e2a"
+                }
+            ]
         }
     ]
 }
