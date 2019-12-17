@@ -594,6 +594,18 @@
                     "url": "https://medium.com/one-dead-pixel/here-comes-superjson-d7f7776f7e2a"
                 }
             ]
+        },
+        {
+            "date": "2019-12-17T00:05:22.321Z",
+            "title": "Release 10.1.1 · preactjs/preact",
+            "url": "https://github.com/preactjs/preact/releases/tag/10.1.1",
+            "content": "Preact 10.1.1リリース。\n`preact/debug`を使ってるデバッグ時の警告にコンポーネントのスタックトレースが表示できるようになるなど",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
