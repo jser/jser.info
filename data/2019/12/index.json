@@ -622,6 +622,23 @@
                     "url": "https://blog.npmjs.org/post/189618601100/binary-planting-with-the-npm-cli"
                 }
             ]
+        },
+        {
+            "date": "2019-12-17T00:14:42.833Z",
+            "title": "Node.js のWASIモジュールについて - kakts-log",
+            "url": "http://kakts-tec.hatenablog.com/entry/2019/12/16/221941",
+            "content": "Node.js v13.3.0で試験的にサポートされたWASI対応について。\n`wasi`モジュールを使ってWebAssemblyの実行方法について",
+            "tags": [
+                " node",
+                "article",
+                "WebAssembly"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Node v13.3.0 (Current) | Node.js",
+                    "url": "https://nodejs.org/en/blog/release/v13.3.0/"
+                }
+            ]
         }
     ]
 }
