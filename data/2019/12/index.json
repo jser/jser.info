@@ -643,6 +643,17 @@
                     "url": "https://nodejs.org/en/blog/release/v13.3.0/"
                 }
             ]
+        },
+        {
+            "date": "2019-12-19T02:17:17.428Z",
+            "title": "V8 release v8.0 · V8",
+            "url": "https://v8.dev/blog/v8-release-80",
+            "content": "V8 v8.0リリース。\nメモリ消費量の改善、ビルドインの高階関数の最適化、Optional ChainingとNullish coalescingのサポートなど",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
