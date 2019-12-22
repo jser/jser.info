@@ -750,6 +750,18 @@
                     "url": "https://aframe.io/blog/aframe-v1.0.0/"
                 }
             ]
+        },
+        {
+            "date": "2019-12-22T14:55:26.898Z",
+            "title": "An Update on CDNJS",
+            "url": "https://blog.cloudflare.com/an-update-on-cdnjs/",
+            "content": "JavaScriptライブラリをCloudflareのCDN経由で配布するCDNJSについて。\nCDNJSの今後について",
+            "tags": [
+                "cdn",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
