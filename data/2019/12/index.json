@@ -676,6 +676,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-22T10:02:51.090Z",
+            "title": "Chromium Blog: Chrome 80, Content Indexing, ES Modules and More",
+            "url": "https://blog.chromium.org/2019/12/chrome-80-content-indexing-es-modules.html",
+            "content": "Chrome 80βリリース。\nContent IndexingとContact Picker APIのOrigin Trialサポート、Web Worker中でES Modulesを利用できるように。\nFetch APIが`Sec-Fetch-Dest`ヘッダをサポート、Text URL Fragmentsのサポート。\nWeb Components v0の削除など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Indexing your offline-capable pages with the Content Indexing API",
+                    "url": "https://web.dev/content-indexing-api/"
+                },
+                {
+                    "title": "A contact picker for the web",
+                    "url": "https://web.dev/contact-picker/"
+                }
+            ]
         }
     ]
 }
