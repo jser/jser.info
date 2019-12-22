@@ -732,6 +732,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-22T13:29:34.807Z",
+            "title": "Release v1.0.0 · aframevr/aframe",
+            "url": "https://github.com/aframevr/aframe/releases/tag/v1.0.0",
+            "content": "A-Frame 1.0.0リリース。\nWebXR仕様のサポート、WebXR gamepadsモジュール、WebXR ARモジュール(experimental)のサポート、Three.jsのアップデートなど",
+            "tags": [
+                "AR",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "A-Frame v1.0.0 - WebXR Support, AR Mode – A-Frame",
+                    "url": "https://aframe.io/blog/aframe-v1.0.0/"
+                }
+            ]
         }
     ]
 }
