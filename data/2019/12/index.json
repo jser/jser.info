@@ -775,14 +775,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-12-23T10:08:51.427Z",
+            "date": "2019-12-23T10:09:19.145Z",
             "title": "sinon/CHANGELOG.md at master · sinonjs/sinon",
             "url": "https://github.com/sinonjs/sinon/blob/master/CHANGELOG.md#800--2019-12-22",
             "content": "Sinon.js 8.0.0リリース。\nlolexをアップグレードしasync timerメソッドに対応、`sinon.spyCall`と`sinon.sandbox.create`の削除など",
             "tags": [
                 "JavaScript",
                 "testing",
-                "library"
+                "library",
+                "ReleaseNote"
             ],
             "relatedLinks": [
                 {
