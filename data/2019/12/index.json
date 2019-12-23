@@ -762,6 +762,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-23T01:32:44.491Z",
+            "title": "Node v13.5.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v13.5.0/",
+            "content": "Node.js v13.5.0リリース。\n終了時にスタックトレースを出力する`--trace-exit`のサポートなど",
+            "tags": [
+                " node",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
