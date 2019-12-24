@@ -819,6 +819,17 @@
                     "url": "https://t.co/JXqs24flN0"
                 }
             ]
+        },
+        {
+            "date": "2019-12-24T22:59:29.742Z",
+            "title": "Release v4.0.5 · reduxjs/redux",
+            "url": "https://github.com/reduxjs/redux/releases/tag/v4.0.5",
+            "content": "Redux 4.0.5リリース。\nメモリリークの修正、TypeScriptの型定義改善など",
+            "tags": [
+                "redux",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
