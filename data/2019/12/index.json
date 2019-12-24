@@ -830,6 +830,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-24T23:06:29.801Z",
+            "title": "Release tfjs-backend-wasm-v1.5.1-alpha5: Update tfjs-backend-wasm to 1.5.1-alpha5. (#2610) · tensorflow/tfjs",
+            "url": "https://github.com/tensorflow/tfjs/releases/tag/tfjs-backend-wasm-v1.5.1-alpha5",
+            "content": "TensorFlow.jsのWebAssemblyバックエンドがアルファリリース。\n",
+            "tags": [
+                "JavaScript",
+                "WebAssembly",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "TensorFlow on Twitter: &quot;We’re excited to release the Alpha of our WebAssembly backend for TensorFlow.js! 🎉 WASM has wider device support and better numerical stability while getting competitive with WebGL for smaller models. Share your feedback here → https://t.co/PqwNOGDRKZ https://t.co/f5NthyUcHe&quot; / Twitter",
+                    "url": "https://twitter.com/TensorFlow/status/1208153137774813187"
+                }
+            ]
         }
     ]
 }
