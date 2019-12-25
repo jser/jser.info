@@ -848,6 +848,23 @@
                     "url": "https://twitter.com/TensorFlow/status/1208153137774813187"
                 }
             ]
+        },
+        {
+            "date": "2019-12-25T00:08:37.266Z",
+            "title": "TypeScript で書く React コンポーネントを基礎から理解する - Qiita",
+            "url": "https://qiita.com/sangotaro/items/3ea63110517a1b66745b",
+            "content": "ReactのTypeScript型定義の扱い方について。\nコンポーネントの型、Chilredの型、既存のHTML要素のProps拡張などについて",
+            "tags": [
+                "React",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "typescript-cheatsheets/react-typescript-cheatsheet: Cheatsheets for experienced React developers getting started with TypeScript",
+                    "url": "https://github.com/typescript-cheatsheets/react-typescript-cheatsheet"
+                }
+            ]
         }
     ]
 }
