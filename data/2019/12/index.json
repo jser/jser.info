@@ -865,6 +865,18 @@
                     "url": "https://github.com/typescript-cheatsheets/react-typescript-cheatsheet"
                 }
             ]
+        },
+        {
+            "date": "2019-12-25T00:10:47.604Z",
+            "title": "Server-Sent Events (SSE): A conceptual deep dive | Ably Realtime",
+            "url": "https://www.ably.io/concepts/server-sent-events",
+            "content": "Server-Sent Events (SSE)のコンセプトと使い方について。\nサポートブラウザ、ExpressでのSSEなレスポンスの返し方についてなど",
+            "tags": [
+                "JavaScript",
+                " node",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
