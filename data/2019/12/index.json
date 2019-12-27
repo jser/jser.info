@@ -888,6 +888,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-27T06:52:55.069Z",
+            "title": "JSMonday - Publishing a TypeScript Library",
+            "url": "https://www.jsmonday.dev/articles/18/publishing-a-typescript-library",
+            "content": "TypeScriptでライブラリを書いて、npm publishするまでのチュートリアル。\nTypeScriptの導入、Jestでのテスト、Codecovでのコードカバレッジ、npm run-scriptの設定など",
+            "tags": [
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
