@@ -915,6 +915,18 @@
                     "url": "https://ygdir.dev/"
                 }
             ]
+        },
+        {
+            "date": "2019-12-30T04:37:40.948Z",
+            "title": "Discovering Svelte: Adding, Editing and Estimating Tasks In The Pomodoro Technique App | Barbarian Meets Coding",
+            "url": "https://www.barbarianmeetscoding.com/blog/2019/12/29/discovering-svelte-adding-some-tasks-and-pomodoros",
+            "content": "TODOアプリを作りながらSvelteについて学ぶ記事。\nSvelteのLifeCyle hook、`$:`のラベルを使ったReactiveな仕組みについて",
+            "tags": [
+                "Svelte",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
