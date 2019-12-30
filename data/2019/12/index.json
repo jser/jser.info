@@ -952,6 +952,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-30T07:09:12.138Z",
+            "title": "React.memo を使ったパフォーマンス最適化について - 30歳からのプログラミング",
+            "url": "https://numb86-tech.hatenablog.com/entry/2019/12/20/222412",
+            "content": "`React.memo`と`useCallback`を使ったメモ化とパフォーマンスの最適化についての記事",
+            "tags": [
+                "React",
+                "article",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
