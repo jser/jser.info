@@ -1059,14 +1059,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2019-12-31T10:33:11.279Z",
+            "date": "2019-12-31T10:36:15.756Z",
             "title": "Release Tesseract.js v2.0.0 · naptha/tesseract.js",
             "url": "https://github.com/naptha/tesseract.js/releases/tag/v2.0.0",
-            "content": "emscriptenを使ったOCRライブラリのTesseract.js 2.0リリース。\ntesseract　v４．１へのアップデート、複数の原語の認識をサポート、画像フォーマット(png,jpg,bmpなど)のサポート、WebAssemblyやWebWorkerのサポートでパフォーマンス改善など",
+            "content": "Emscriptenを使ったOCRライブラリのTesseract.js 2.0リリース。\ntesseract　v４．１へのアップデート、複数の原語の認識をサポート、画像フォーマット(png,jpg,bmpなど)のサポート、WebAssemblyやWebWorkerのサポートでパフォーマンス改善など",
             "tags": [
                 "JavaScript",
                 "OCR",
-                "library"
+                "library",
+                "WebAssembly"
             ],
             "relatedLinks": [
                 {
