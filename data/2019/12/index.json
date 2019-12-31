@@ -976,6 +976,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2019-12-31T01:21:18.655Z",
+            "title": "bbc/peaks.js: JavaScript UI component for interacting with audio waveforms",
+            "url": "https://github.com/bbc/peaks.js",
+            "content": "音声の波形を表示するUIコンポーネント。\nWeb Audioベースの波形生成と`audiowaveform`を使い事前に音声波形を生成したものも利用できる。",
+            "tags": [
+                "JavaScript",
+                "sound",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "bbc/audiowaveform: C++ program to generate waveform data and render waveform images from audio files",
+                    "url": "https://github.com/bbc/audiowaveform"
+                }
+            ]
         }
     ]
 }
