@@ -1025,6 +1025,26 @@
                     "url": "https://blog.emberjs.com/2019/12/20/octane-is-here.html"
                 }
             ]
+        },
+        {
+            "date": "2019-12-31T02:07:27.902Z",
+            "title": "Ember.js - Octane is Here",
+            "url": "https://blog.emberjs.com/2019/12/20/octane-is-here.html",
+            "content": "Ember 3.15で導入されたOctaneについて。\nGlimmer Componentsの導入、Element ModifiersでのLifeCyleHooksを使った振る舞いの実装、`@tracked`を使ったReactiveなモデルの実装など。\nその他にはチュートリアルの刷新、Dev Toolsのアップデートなど",
+            "tags": [
+                "Ember",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Ember.js Classic vs Octane: a cheat sheet",
+                    "url": "https://ember-learn.github.io/ember-octane-vs-classic-cheat-sheet/"
+                },
+                {
+                    "title": "Glimmer",
+                    "url": "https://glimmerjs.com/"
+                }
+            ]
         }
     ]
 }
