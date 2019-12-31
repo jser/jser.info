@@ -1009,6 +1009,22 @@
                     "url": "https://sathoeku.hatenablog.com/entry/2019/12/30/225051"
                 }
             ]
+        },
+        {
+            "date": "2019-12-31T02:00:34.736Z",
+            "title": "Ember.js - Ember 3.15 \"Octane\" Released",
+            "url": "https://blog.emberjs.com/2019/12/20/ember-3-15-released.html",
+            "content": "Ember 3.15リリース。\nEmber Octaneが正式リリースとなり、`ember new`でのデフォルトとなった。\nまた`Component#isVisible`、`{{partial}}`、`window.ENV`が非推奨となった。",
+            "tags": [
+                "Ember",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Ember.js - Octane is Here",
+                    "url": "https://blog.emberjs.com/2019/12/20/octane-is-here.html"
+                }
+            ]
         }
     ]
 }
