@@ -10,4 +10,4 @@ after_success:
 - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "gh-pages" && ./tools/update-source-data.sh
 - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "gh-pages" && ./tools/update-realtime.sh
 - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "gh-pages" && ./tools/update-next-draft.sh
-- test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "gh-pages" && npm run twitter
+- test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "gh-pages" && npm run discord
