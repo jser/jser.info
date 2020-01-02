@@ -11,6 +11,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-02T11:51:21.886Z",
+            "title": "hjkcai/typesafe-joi: A fork of joi that produces typed validation results in TypeScript",
+            "url": "https://github.com/hjkcai/typesafe-joi",
+            "content": "データバリデーターであるjoiのTypeScriptフォークライブラリ。\n大部分は互換性のあるAPIだが、一部はType SafeにするためAPIを変更している。",
+            "tags": [
+                "TypeScript",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
