@@ -35,6 +35,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-05T16:12:16.274Z",
+            "title": "shellyln/tynder: TypeScript friendly Data validator for JavaScript.",
+            "url": "https://github.com/shellyln/tynder",
+            "content": "TypeScriptライクなスキーマを定義するDSLを使い、実行時にデータの型を検証を行うバリデーションライブラリ。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "TypeScriptの型定義を使って、実行時にデータの検証を行う - Shellylのブログ",
+                    "url": "https://shellyln.hatenablog.com/entry/2020/01/05/161345"
+                }
+            ]
         }
     ]
 }
