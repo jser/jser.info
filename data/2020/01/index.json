@@ -52,6 +52,24 @@
                     "url": "https://shellyln.hatenablog.com/entry/2020/01/05/161345"
                 }
             ]
+        },
+        {
+            "date": "2020-01-06T00:14:20.623Z",
+            "title": "mocha/CHANGELOG.md at master · mochajs/mocha",
+            "url": "https://github.com/mochajs/mocha/blob/master/CHANGELOG.md#%E2%80%8B700--2020-01-05",
+            "content": "Mocha 7.0.0リリース。\nNode.js v6.xのサポート終了、一部コマンドライン引数のリネーム、`Mocha`コンストラクタのオプションとコマンドラインオプションをあわせるように変更など。\nまた、`mocha.opts`ファイルが非推奨となった。",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Soft deprecate &quot;mocha.opts&quot; · Issue #3910 · mochajs/mocha",
+                    "url": "https://github.com/mochajs/mocha/issues/3910"
+                }
+            ]
         }
     ]
 }
