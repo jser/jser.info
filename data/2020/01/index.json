@@ -94,6 +94,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-06T07:57:13.195Z",
+            "title": "BiB/i あらため Bibi v1.0.0 を公開しました | ふらここ、こ",
+            "url": "https://fracoco.co/2020/01/03/bibi-v1.html",
+            "content": "JavaScriptで書かれてEpubリーダのBibi v1.0.0リリース。\nZIPファイルの展開にWasmを使うBibi Zip Loaderによる高速化、UIの改善、epubの対応改善など",
+            "tags": [
+                "epub",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "lunascape/bibi-zip-loader",
+                    "url": "https://github.com/lunascape/bibi-zip-loader"
+                }
+            ]
         }
     ]
 }
