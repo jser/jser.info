@@ -111,6 +111,22 @@
                     "url": "https://github.com/lunascape/bibi-zip-loader"
                 }
             ]
+        },
+        {
+            "date": "2020-01-06T08:23:45.884Z",
+            "title": "Release v0.115.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.115.0",
+            "content": "Flow v0.115.0リリース。\nTypes First modeではexportされたclassやfunctionは再定義できなくなるなど。\n",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "What the Flow team has been up to - Flow - Medium",
+                    "url": "https://medium.com/flow-type/what-the-flow-team-has-been-up-to-54239c62004f"
+                }
+            ]
         }
     ]
 }
