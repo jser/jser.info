@@ -144,6 +144,19 @@
                     "url": "https://github.com/zeit/next.js/releases/tag/v9.1.7"
                 }
             ]
+        },
+        {
+            "date": "2020-01-07T02:08:23.205Z",
+            "title": "How to move your project to TypeScript - at your own pace - Twilio",
+            "url": "https://www.twilio.com/blog/move-to-typescript",
+            "content": "プロジェクトのコードをTypeScriptに移行するポイントについての記事。\nVSCodeの`settings.json`での`checkJs`、`tsconfig.json`を使った`allowJs`と`checkJs`の設定、JSからTSへのリファクタリング、`strict`の設定などについて",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "VSCode",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
