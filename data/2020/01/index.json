@@ -157,6 +157,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-08T13:20:54.424Z",
+            "title": "Release throw new Preact('10.2.0') · preactjs/preact",
+            "url": "https://github.com/preactjs/preact/releases/tag/10.2.0",
+            "content": "Preact 10.2.0リリース。\n`useErrorBoundary` hookのサポート、`lazy()`がnamed exportsに対応など",
+            "tags": [
+                "JavaScript",
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
