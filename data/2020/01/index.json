@@ -205,6 +205,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-09T14:39:55.358Z",
+            "title": "Node v13.6.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v13.6.0/",
+            "content": "Node.js 13.6.0リリース。\n正規表現にマッチするかをテストできる`assert.match()`と`assert.doesNotMatch()`の実装、\n`EventEmitter.on`のAsync Iterator対応。\nStreamに対する`fs`の実装を指定できるオプションの追加、`error`イベントを副作用なしに監視できる`EventEmitter.errorMonitor` Symbolを追加。\n`perf_hooks`モジュールがStable APIになるなど",
+            "tags": [
+                " node",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
