@@ -194,6 +194,17 @@
                     "url": "https://www.fxsitecompat.dev/en-CA/versions/72/"
                 }
             ]
+        },
+        {
+            "date": "2020-01-09T14:25:59.394Z",
+            "title": "Node v12.14.1 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v12.14.1/",
+            "content": "Node.js 12.14.1リリース。\n`v8.serialize`と`v8.deserialize`がStable APIとなるなど",
+            "tags": [
+                " node",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
