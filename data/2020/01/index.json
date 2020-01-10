@@ -216,6 +216,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-10T00:36:28.914Z",
+            "title": "Release Notes for Safari Technology Preview 98 | WebKit",
+            "url": "https://webkit.org/blog/9689/release-notes-for-safari-technology-preview-98/",
+            "content": "Safari Technology Preview 98 リリース。\n`OffscreenCanvas.convertToBlob`のサポート、CSSの`clamp()`のサポート。\n`beforeunload`や`unload`時の同期XHRが禁止される変更など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
