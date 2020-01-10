@@ -238,6 +238,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-10T02:57:14.603Z",
+            "title": "Chromium Blog: Introducing quieter permission UI for notifications",
+            "url": "https://blog.chromium.org/2020/01/introducing-quieter-permission-ui-for.html",
+            "content": "Chrome 80で入る通知などのパーミッションデザインの変更について。\nQuiet UIと呼ばれる新しい許可UIの追加と設定方法について。\nまたChrome UX Reportのデータをもとに、通知の受け入れ率が低いサイトは自動的にquieter promptsにする変更などが追加される予定。",
+            "tags": [
+                "Chrome",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
