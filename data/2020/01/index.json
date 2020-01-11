@@ -249,6 +249,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-11T02:46:35.144Z",
+            "title": "Announcing TypeScript 3.8 Beta | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-3-8-beta/",
+            "content": "TypeScript 3.8 Betaリリース。\n`import type`/`export type`で型定義だけをimport/exportできるように、Stage 3のECMAScript Private Fieldsに対応。\nTop-Level `await`に対応、`target`と`module`が`es2020`をサポート、`watchOptions`の追加など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
