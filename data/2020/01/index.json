@@ -260,6 +260,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-11T04:16:15.165Z",
+            "title": "Release v2.9.0 · date-fns/date-fns",
+            "url": "https://github.com/date-fns/date-fns/releases/tag/v2.9.0",
+            "content": "date-fns 2.9.0リリース。\n`eachYearInterval`、`eachMonthInterval`、`isExists`の追加。\nオブジェクトでまとめてDateを操作する`add`と`sub`の追加など\n",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
