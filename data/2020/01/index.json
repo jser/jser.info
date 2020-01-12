@@ -318,6 +318,24 @@
                     "url": "https://www.snowpack.dev/"
                 }
             ]
+        },
+        {
+            "date": "2020-01-12T12:53:38.709Z",
+            "title": "qawolf/qawolf: 🐺Create browser tests 10x faster",
+            "url": "https://github.com/qawolf/qawolf",
+            "content": "PupeteerとJestを使ったテストフレームワーク。\n操作を記憶してテストケースとSelectorを作成でき、CIに実行結果の動画をアップロードのサポートなどをしている。\nAutomatic waiting、Keyboard eventsなどをサポートしている",
+            "tags": [
+                "Chrome",
+                "testing",
+                "library",
+                "TypeScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "QA Wolf",
+                    "url": "https://docs.qawolf.com/"
+                }
+            ]
         }
     ]
 }
