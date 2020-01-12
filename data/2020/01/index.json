@@ -301,6 +301,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-12T12:21:19.567Z",
+            "title": "Release V1 RELEASE! @pika/web is now Snowpack · pikapkg/snowpack",
+            "url": "https://github.com/pikapkg/snowpack/releases/tag/v1.0.1",
+            "content": "Snowpack 1.0.0リリース。\nインストール時にES Modulesとして読み込めるモジュールを配置することで、変更ごとにビルドしないでアプリケーション開発できることを目的にしている。\n`@pika/web`からSnowpackにリネーム、`--optimize`でのtree-shakingサポート等。",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Snowpack",
+                    "url": "https://www.snowpack.dev/"
+                }
+            ]
         }
     ]
 }
