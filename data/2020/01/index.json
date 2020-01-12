@@ -274,10 +274,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-01-12T00:43:55.271Z",
+            "date": "2020-01-12T00:45:29.511Z",
             "title": "7.8.0 Released: ECMAScript 2020, .mjs configuration files and @babel/cli improvements · Babel",
             "url": "https://babeljs.io/blog/2020/01/11/7.8.0",
-            "content": "Babel 7.8.0リリース。\nES2020のサポートをデフォルト化、`.babelrc.json`などの拡張子をサポート、`--copy-ignored`と`--out-file-extension`のサポートなど。\nまた 8.0.0に向けた準備などについて書かれている",
+            "content": "Babel 7.8.0リリース。\nES2020のサポートをデフォルト化、`babel.config.mjs`など設定ファイルの対応を整理、`--copy-ignored`と`--out-file-extension`のサポートなど。\nまた 8.0.0に向けた準備などについて書かれている",
             "tags": [
                 "babel",
                 "ReleaseNote"
