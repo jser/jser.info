@@ -352,13 +352,14 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-01-12T14:02:45.203Z",
+            "date": "2020-01-13T02:29:47.051Z",
             "title": "babel/preset-modules: A Babel preset that targets modern browsers by fixing engine bugs (will be merged into preset-env eventually)",
             "url": "https://github.com/babel/preset-modules",
-            "content": "@babel/preset-envにマージされる予定の、Modern Browser向けの最適化をしたBabel Preset。\nMSEdgeなどのES Modulesをサポートしているが一部構文にバグがあるケースなどにも対応している\n",
+            "content": "@babel/preset-envにマージされる予定の、Modern Browser向けの最適化を目的にしたBabel Preset。\nMSEdgeなどのES Modulesをサポートしているが一部構文にバグがあるケースなどにも対応している。",
             "tags": [
                 "babel",
-                "library"
+                "library",
+                "JavaScript"
             ],
             "relatedLinks": []
         },
