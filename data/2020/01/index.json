@@ -361,6 +361,25 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-13T02:23:34.759Z",
+            "title": "Raw WebGPU",
+            "url": "https://alain.xyz/blog/raw-webgpu",
+            "content": "WebKitやChromiumに試験的に実装されているWebGPUについてのチュートリアル。Vulkan、DirectX 12、Metalを扱うことを目的としたWeb API、基本的な使い方について解説している",
+            "tags": [
+                "article",
+                "Chrome",
+                "safari",
+                "WebGL",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "WebGPU",
+                    "url": "https://gpuweb.github.io/gpuweb/"
+                }
+            ]
         }
     ]
 }
