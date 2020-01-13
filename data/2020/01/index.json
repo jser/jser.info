@@ -381,6 +381,23 @@
                     "url": "https://gpuweb.github.io/gpuweb/"
                 }
             ]
+        },
+        {
+            "date": "2020-01-13T10:55:27.011Z",
+            "title": "GoogleCloudPlatform/wombat-dressing-room: proxy designed to reduce the attack surface of npm publish",
+            "url": "https://github.com/GoogleCloudPlatform/wombat-dressing-room",
+            "content": "GitHubリポジトリに紐付いたnpm publishをするための認証トークンを発行するシステム。npm registryに対する2FA Proxy。\nトークンと該当するGitHubのタグがある場合にのみpublishでき、トークンはパッケージごとに異なるため流出しても特定のパッケージのみに影響を抑える目的。",
+            "tags": [
+                "npm",
+                "Github",
+                "security"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Wombat Dressing Room, an npm publication proxy on GCP | Google Open Source Blog",
+                    "url": "https://opensource.googleblog.com/2020/01/wombat-dressing-room-npm-publication_10.html"
+                }
+            ]
         }
     ]
 }
