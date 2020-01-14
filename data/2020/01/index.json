@@ -398,6 +398,19 @@
                     "url": "https://opensource.googleblog.com/2020/01/wombat-dressing-room-npm-publication_10.html"
                 }
             ]
+        },
+        {
+            "date": "2020-01-14T13:44:02.828Z",
+            "title": "Release v7.0.0-esm1 (experimental) · mochajs/mocha",
+            "url": "https://github.com/mochajs/mocha/releases/tag/v7.0.0-esm1",
+            "content": "MochaのES Modules対応のExperimental版がリリースされた",
+            "tags": [
+                " node",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
