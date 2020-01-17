@@ -432,6 +432,18 @@
                     "url": "https://www.microsoft.com/en-us/edge"
                 }
             ]
+        },
+        {
+            "date": "2020-01-17T11:58:23.475Z",
+            "title": "mustache.js/CHANGELOG.md at master · janl/mustache.js",
+            "url": "https://github.com/janl/mustache.js/blob/master/CHANGELOG.md#400--16-january-2020",
+            "content": "テンプレートエンジンであるmustache 4.0.0リリース。\n`.to_html()`メソッドの削除、テンプレートのキャッシュの仕組みをカスタマイズできるようになるなど。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
