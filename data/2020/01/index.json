@@ -508,6 +508,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-19T22:58:13.423Z",
+            "title": "Release 3.0.0 · avajs/ava",
+            "url": "https://github.com/avajs/ava/releases/tag/v3.0.0",
+            "content": "AVA 3リリース。\n`ava debug`コマンドの追加、`--node-arguments`オプションの追加。\nNode 10未満のサポート終了、Babelが同梱ではなくなり別パッケージとしてインストールする形に変更、ES Modulesのサポートなど",
+            "tags": [
+                " node",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
