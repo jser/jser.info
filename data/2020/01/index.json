@@ -478,6 +478,23 @@
                 "spec"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-19T14:49:22.585Z",
+            "title": "logaretm/villus: A tiny and fast GraphQL client for Vue.js",
+            "url": "https://github.com/logaretm/villus",
+            "content": "Vue.js向けのGraphQLクライアントライブラリ。",
+            "tags": [
+                "Vue",
+                "GraphQL",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Announcing Villus - A tiny and fast GraphQL Client for Vue.js - Abdelrahman' Blog",
+                    "url": "https://logaretm.com/blog/2020-01-11-announcing-villus/"
+                }
+            ]
         }
     ]
 }
