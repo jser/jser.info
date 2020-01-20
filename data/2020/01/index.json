@@ -521,6 +521,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-20T10:45:07.321Z",
+            "title": "gjtorikian/isBinaryFile: Detects if a file is binary in Node.js. Similar to Perl's -B",
+            "url": "https://github.com/gjtorikian/isBinaryFile",
+            "content": "ファイルがバイナリかどうかを判定するNode.jsライブラリ",
+            "tags": [
+                " node",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
