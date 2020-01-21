@@ -532,6 +532,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-21T00:31:18.427Z",
+            "title": "ブラウザで何が起こっているのかを知る Reporting API と ReportingObserver | blog.jxck.io",
+            "url": "https://blog.jxck.io/entries/2020-01-18/reporting.html",
+            "content": "ブラウザで起きたエラーレポートなどを送信、監視するReporting APIとReportingObserverについて",
+            "tags": [
+                "CSP",
+                "browser",
+                "WebPlatformAPI",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
