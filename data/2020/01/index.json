@@ -559,10 +559,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-01-23T12:04:12.288Z",
+            "date": "2020-01-23T12:06:31.761Z",
             "title": "microsoft/playwright: Node library to automate Chromium, Firefox and WebKit browsers",
             "url": "https://github.com/microsoft/playwright",
-            "content": "Chromium、WebKit、Firefoxを操作できるNode.jsライブラリ。\nPuppeteerと同じチームが開発していて、クロスブラウザ向けの抽象化されたAPIを提供する目的。\nWebDriverよりもより機能的なDriver、分かりやすいAPI、setTimeout-freeな自動化を目的としている",
+            "content": "Chromium、WebKit、Firefoxを操作できるNode.jsライブラリ。\nPuppeteerと同じチームが開発していて、クロスブラウザ向けの抽象化されたAPIを提供する目的。\nWebDriverよりも機能的なDriver、分かりやすいAPI、setTimeout-freeな自動化を目的としている",
             "tags": [
                 " node",
                 "JavaScript",
