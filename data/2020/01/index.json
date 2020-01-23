@@ -599,6 +599,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-23T12:25:59.005Z",
+            "title": "Node v13.7.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v13.7.0/",
+            "content": "Node v13.7.0リリース。\n`module`モジュールにSource Mapを扱うAPIを追加、`process`に`uncaughtExceptionMonitor`リスナーの追加など",
+            "tags": [
+                " node",
+                "ReleaseNote",
+                "sourcemap"
+            ],
+            "relatedLinks": []
         }
     ]
 }
