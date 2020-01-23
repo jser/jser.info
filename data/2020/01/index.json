@@ -587,6 +587,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-23T12:16:39.218Z",
+            "title": "Release 🎉 HTM 3 is here! · developit/htm",
+            "url": "https://github.com/developit/htm/releases/tag/3.0.0",
+            "content": "HTM 3リリース。\nStaticなTreeを判別してキャッシュ出来るように、Preact Xに対応、`babel-plugin-htm`に自動importのオプションを追加など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
