@@ -622,6 +622,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-25T13:33:05.938Z",
+            "title": "Debug z-index stacking content with 3D View in the Microsoft Edge DevTools - Microsoft Edge Blog",
+            "url": "https://blogs.windows.com/msedgedev/2020/01/23/debug-z-index-3d-view-edge-devtools/",
+            "content": "MSEdgeの開発者ツールに、`z-index`のスタックコンテキストをビジュアライズする3D Views機能が実験的に実装された",
+            "tags": [
+                "MSEdge",
+                "debug"
+            ],
+            "relatedLinks": []
         }
     ]
 }
