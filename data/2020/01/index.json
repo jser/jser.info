@@ -633,6 +633,23 @@
                 "debug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-26T09:24:22.935Z",
+            "title": "ResizeObserver in WebKit | WebKit",
+            "url": "https://webkit.org/blog/9997/resizeobserver-in-webkit/",
+            "content": "Safari Technology Preview 80で実装されたResizeObserverについて。\nResizeObserverによる要素に対するリサイズの監視などの使い方、イベントが発生する流れについての解説、利用例などについて",
+            "tags": [
+                "safari",
+                "DOM",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release Notes for Safari Technology Preview 80 | WebKit",
+                    "url": "https://webkit.org/blog/8825/release-notes-for-safari-technology-preview-80/"
+                }
+            ]
         }
     ]
 }
