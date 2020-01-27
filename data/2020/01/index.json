@@ -685,6 +685,17 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-27T14:22:54.038Z",
+            "title": "Inside node: What happens when we execute a script?",
+            "url": "https://blog.s1h.org/inside-node-executing-a-script/",
+            "content": "Node.jsでスクリプトを実行するまでにどのような処理が行われているのかをコードから見ていく記事。\n`node`のコマンドライン引数の処理、ファイルのロード、`module`でのスクリプトをのコンパイル、libuvを使ったイベントループでのコード実行の流れについて",
+            "tags": [
+                " node",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
