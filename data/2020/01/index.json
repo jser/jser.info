@@ -661,6 +661,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-27T14:12:10.841Z",
+            "title": "Replacing Mocha with Jest",
+            "url": "https://akoskm.com/2020/01/22/mocha-jest-react-testing.html",
+            "content": "MochaからJestへのマイグレーション方法について。\nMochaの機能のJestでの代用方法について紹介されている。",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
