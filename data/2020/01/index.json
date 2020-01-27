@@ -696,6 +696,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-27T14:24:56.032Z",
+            "title": "Release v4.8.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v4.8.0",
+            "content": "パッケージ管理ツールのpnpm 4.8.0リリース。\nモジュールのインタラクティブアップデートを行う`pnpm update --interactive`の追加など",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
