@@ -719,6 +719,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-27T14:38:26.345Z",
+            "title": "Release 3.1.0 · avajs/ava",
+            "url": "https://github.com/avajs/ava/releases/tag/v3.1.0",
+            "content": "AVA 3.1.0リリース。\n`@ava/typescript`パッケージでTypeScriptサポートなど",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
