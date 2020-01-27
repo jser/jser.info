@@ -707,6 +707,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-27T14:37:25.842Z",
+            "title": "Release v1.30.0 · rollup/rollup",
+            "url": "https://github.com/rollup/rollup/releases/tag/v1.30.0",
+            "content": "Rollup 1.30.0リリース。\ndynamic importsのsplit chunksのロジックの改善。\nCode Splitting時にentry chunksで空importを行う最適化のためをON/OFFできるようにする`hoistTransitiveImports`オプションの追加など",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
