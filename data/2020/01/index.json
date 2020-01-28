@@ -732,6 +732,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-28T02:55:55.964Z",
+            "title": "Adapt · React for your infrastructure.",
+            "url": "https://adaptjs.org/",
+            "content": "Reactを使ってpulumiなどのようにインフラをコード管理するツール。\nHooks API、コンポーネント、JSXで設定を書ける。\n環境やプロバイダーなどの分離はStyleという形で分離できるようにしている。",
+            "tags": [
+                "React",
+                "Infrastructure",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
