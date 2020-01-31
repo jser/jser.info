@@ -781,6 +781,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-01-31T03:01:37.940Z",
+            "title": "What's New In DevTools (Chrome 81)  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2020/01/devtools",
+            "content": "Chrome 81の開発者ツールの変更点について。\nブロックされたCookieに色をつけるように、ネットワークパネルで`Copy as Node.js fetch`の追加、Source Mapのエラーをコンソールに表示など",
+            "tags": [
+                "Chrome",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
