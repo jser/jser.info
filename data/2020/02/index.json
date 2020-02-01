@@ -1,0 +1,25 @@
+{
+    "list": [
+        {
+            "date": "2020-02-01T12:03:04.690Z",
+            "title": "New PWABuilder release! - PWABuilder - Medium",
+            "url": "https://medium.com/pwabuilder/new-pwabuilder-release-b2932f4722a5",
+            "content": "PWABuilderのアップデート。\nTrusted Web Activityを使ったAndroid向けのパッケージングに対応、パッケージングするためのガイドの刷新など",
+            "tags": [
+                "ProgressiveWebApp",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "PWABuilder",
+                    "url": "https://www.pwabuilder.com/"
+                },
+                {
+                    "title": "GoogleChromeLabs/llama-pack: Llama Pack 🦙 is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.",
+                    "url": "https://github.com/GoogleChromeLabs/llama-pack"
+                }
+            ]
+        }
+    ]
+}
