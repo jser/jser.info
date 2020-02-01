@@ -20,6 +20,19 @@
                     "url": "https://github.com/GoogleChromeLabs/llama-pack"
                 }
             ]
+        },
+        {
+            "date": "2020-02-01T12:15:02.630Z",
+            "title": "cutenode/mingine: A module to get the minimum usable engine(s)",
+            "url": "https://github.com/cutenode/mingine",
+            "content": "依存してるnpmパッケージの`engines`フィールドから、`engines`ごとのminimumなバージョンを算出するライブラリ",
+            "tags": [
+                "npm",
+                " node",
+                "Tools",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
