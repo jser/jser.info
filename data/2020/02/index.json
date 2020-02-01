@@ -33,6 +33,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-01T12:22:28.300Z",
+            "title": "The npm Blog — Changes to npm Unpublish Policy - January 2020",
+            "url": "https://blog.npmjs.org/post/190553543620/changes-to-npm-unpublish-policy-january-2020",
+            "content": "npmのunpublish policyの変更。\n今まで24時間以内だったらunpublishできたのが、72時間以内ならunpublish出来るように変更された。\nまたダウンロード数が300未満、別の公開モジュールから依存されていない、メンテナが単独の条件を満たす場合もunpublishが可能となった。",
+            "tags": [
+                "npm",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "policies/unpublish.md at master · npm/policies",
+                    "url": "https://github.com/npm/policies/blob/master/unpublish.md"
+                }
+            ]
         }
     ]
 }
