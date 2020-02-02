@@ -49,6 +49,18 @@
                     "url": "https://github.com/npm/policies/blob/master/unpublish.md"
                 }
             ]
+        },
+        {
+            "date": "2020-02-02T02:44:49.954Z",
+            "title": "JavaScript Libraries Are Almost Never Updated Once Installed",
+            "url": "https://blog.cloudflare.com/javascript-libraries-are-almost-never-updated/",
+            "content": "CDN経由でサイトに埋め込まれているJavaScriptライブラリは一度インストールされたあとにアップデートされることが殆どないというデータについて",
+            "tags": [
+                "JavaScript",
+                "library",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
