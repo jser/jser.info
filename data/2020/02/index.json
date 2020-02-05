@@ -101,6 +101,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-05T01:49:01.518Z",
+            "title": "まもなくやってくる Vue.js 3 - Speaker Deck",
+            "url": "https://speakerdeck.com/kazupon/mamonakuyatutekuru-vue-dot-js-3",
+            "content": "Vue.js 3についてのスライド。\nComposition API、ライフサイクルフック、DI(`provide`,`inject`)、ReactライクなPortalとSuspense、CSSの独自擬似クラスの追加。\nまたフィルターの削除、グローバル状態の整理などについて",
+            "tags": [
+                "Vue",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
