@@ -124,6 +124,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-05T06:43:02.835Z",
+            "title": "Electron 8.0.0 | Electron Blog",
+            "url": "https://www.electronjs.org/blog/electron-8-0",
+            "content": "Electron 8.0.0リリース。\nChromium 80、V8 8.0、Node.js 12.13.0へのアップデート。\nChromeビルトインのスペルチェッカーを利用できるように、IPCにV8の Structured Clone Algorithmを利用することでパフォーマンスの改善など。\n`session.preconnect`、`tray.displayBalloon`、`contents.executeJavaScriptInIsolatedWorld`などのAPI追加。\n今回のリリースでElectron 5.xはEOL(End Of Support)となった。",
+            "tags": [
+                "Electron",
+                "ReleaseNote",
+                "V8",
+                " node"
+            ],
+            "relatedLinks": []
         }
     ]
 }
