@@ -148,6 +148,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-07T00:58:48.212Z",
+            "title": "New in Chrome 80  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2020/02/nic80",
+            "content": "Chrome 80リリース。\nWebWorkerで`type:\"module\"`のサポート、Optional Chainingのサポート。\nまたOrigin TrialとしてContact Picker API、Notification triggers、Web Serialのサポートなど\n",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
