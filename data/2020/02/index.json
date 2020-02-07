@@ -137,6 +137,17 @@
                 " node"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-07T00:40:46.597Z",
+            "title": "Announcing TypeScript 3.8 RC | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-3-8-rc/",
+            "content": "TypeScript 3.8RCリリース。\nType-Only Imports/Exports、ECMAScript Private Fields、Top-Level awaitのサポート。\nまた`checkJS`におけるJSDocの`@public`、`@private`、`@protected`をサポート、`watchOptions`の追加など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
