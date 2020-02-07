@@ -172,6 +172,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-07T14:54:22.723Z",
+            "title": "Release Notes for Safari Technology Preview 💯 | WebKit",
+            "url": "https://webkit.org/blog/10024/release-notes-for-safari-technology-preview-100/",
+            "content": "Safari Technology Preview 100リリース。\nWeb Inspector Referenceへのリンクの追加、Web InspectorのCanvas Tab がGraphics Tabにリネームなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Web Inspector Reference | WebKit",
+                    "url": "https://webkit.org/web-inspector/"
+                }
+            ]
         }
     ]
 }
