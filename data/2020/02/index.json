@@ -210,6 +210,23 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-11T06:50:47.068Z",
+            "title": "Himenon/code-dependency: A work efficiency tool for visualizing code dependencies on a browser.",
+            "url": "https://github.com/Himenon/code-dependency",
+            "content": "dependency-cruiserを使ったモジュールの依存関係図を生成してブラウザで表示できるツール",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "server"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "dependency-cruiser",
+                    "url": "https://qiita.com/himenoglyph/items/f28a9905e3b30e6cb213"
+                }
+            ]
         }
     ]
 }
