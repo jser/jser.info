@@ -188,6 +188,17 @@
                     "url": "https://webkit.org/web-inspector/"
                 }
             ]
+        },
+        {
+            "date": "2020-02-11T06:31:15.021Z",
+            "title": "single-spa/single-spa: Microfrontends made easy",
+            "url": "https://github.com/single-spa/single-spa",
+            "content": "各種フレームワーク向けのアダプターを用意してるMicrofrontendsフレームワーク。\nそれぞれのフレームワークを使ったアプリを同一ページで扱うために必要なライフサイクルを管理するフレームワーク。\n",
+            "tags": [
+                "MicroFrontend",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
