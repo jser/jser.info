@@ -241,6 +241,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-11T07:09:34.655Z",
+            "title": "Version 9 of Angular Now Available — Project Ivy has arrived!",
+            "url": "https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3",
+            "content": "Angular 9リリース。\nIvyがデフォルトとなりbundleファイルサイズなどの改善、`TestBed`の再実装でのテストパフォーマンスの改善、TypScript 3.7のサポートとテンプレートの型チェックオプションの追加。\nビルドエラーやスタックトレースの改善など",
+            "tags": [
+                "Angular",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
