@@ -329,6 +329,18 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-12T02:40:23.296Z",
+            "title": "Use Cloudflare JavaScript Workers to Deploy Your Static Generated Site (SSG)",
+            "url": "https://levelup.gitconnected.com/use-cloudflare-javascript-workers-to-deploy-you-static-generated-site-ssg-1c518e078646",
+            "content": "CloudflareのWorkersを使ったSSG(Static SIte Generator)の実装とデプロイについて。\nNext.jsを使った例を紹介している",
+            "tags": [
+                "webservice",
+                "ServiceWorker",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
