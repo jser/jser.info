@@ -371,6 +371,17 @@
                 "WAI-ARIA"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-13T13:18:33.464Z",
+            "title": "Node v12.16.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v12.16.0/",
+            "content": "Node 12.16.0リリース。\n実験的な機能として`assert.match`と`assert.doesNotMatch`の追加。\n`child_process`が`serialization`オプションをサポート、`--trace-exit`、`--trace-uncaught`の追加、`perf_hooks`がStable APIとなるなど。",
+            "tags": [
+                " node",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
