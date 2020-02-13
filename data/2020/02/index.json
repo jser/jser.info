@@ -341,6 +341,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-13T12:52:12.995Z",
+            "title": "OpenChakra",
+            "url": "https://openchakra.app/",
+            "content": "Chakra UIをサイトを構築できるビジュアルエディタ。D&Dでコンポーネントを組み立てでき、その結果をCodeSandboxにコードとして出力できる。\n",
+            "tags": [
+                "React",
+                "GUI",
+                "editor"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chakra UI | Design System built with React",
+                    "url": "https://chakra-ui.com/"
+                }
+            ]
         }
     ]
 }
