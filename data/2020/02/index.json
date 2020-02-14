@@ -406,6 +406,17 @@
                     "url": "https://www.fxsitecompat.dev/versions/73/"
                 }
             ]
+        },
+        {
+            "date": "2020-02-14T06:34:19.027Z",
+            "title": "Chromium Blog: Chrome 81: Near Field Communications, Augmented Reality, and More",
+            "url": "https://blog.chromium.org/2020/02/chrome-81-near-field-communications.html",
+            "content": "Chrome 81 ベータリリース。\nOriginal Trialとしてモバイル向けのWeb NFC、`scheduler.postTask`のサポート、Mixed Contentの自動アップグレード、TLS 1.0と1.1の削除など",
+            "tags": [
+                "Chrome",
+                "rlee"
+            ],
+            "relatedLinks": []
         }
     ]
 }
