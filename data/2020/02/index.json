@@ -417,6 +417,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-16T14:55:47.149Z",
+            "title": "最新のブラウザで変わるCookieの取り扱いやPrivacyの考え方 - Speaker Deck",
+            "url": "https://speakerdeck.com/yosuke_furukawa/zui-xin-falseburauzadebian-warucookiefalsequ-rixi-iyaprivacyfalsekao-efang",
+            "content": "ブラウザのサードパーティクッキーやトラッキング防止周りの機能についてのスライド。\nSafariのITP、FIrefoxのETP、SameSite Cookie。\nCNAME CloakingやSafariの提案しているAd click attribution、ChromeのPrivacy Sandboxについてなど",
+            "tags": [
+                "browser",
+                "security",
+                "privacy",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
