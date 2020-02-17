@@ -430,6 +430,17 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-17T15:00:49.341Z",
+            "title": "evanw/esbuild: An extremely fast JavaScript bundler and minifier",
+            "url": "https://github.com/evanw/esbuild",
+            "content": "Go言語製のJavaScript Bundler。\nCommonJS/ES Modules、Source Map、Minifier、JSXなどに対応している",
+            "tags": [
+                "golang",
+                "bundler"
+            ],
+            "relatedLinks": []
         }
     ]
 }
