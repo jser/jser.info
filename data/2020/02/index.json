@@ -486,6 +486,19 @@
                     "url": "https://volument.com/baretest"
                 }
             ]
+        },
+        {
+            "date": "2020-02-17T16:05:01.335Z",
+            "title": "Mirage JS • An API mocking library for frontend developers",
+            "url": "https://miragejs.com/",
+            "content": "APIモッキングライブラリ。\nブラウザで動くサーバを実装し、リクエストに対するレスポンスを定義できる。\n`fetch`や`XMLHttpRequest`をインターセプトすることで実装している。",
+            "tags": [
+                "JavaScript",
+                "HTTP",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
