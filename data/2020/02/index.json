@@ -441,6 +441,23 @@
                 "bundler"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-17T15:08:57.538Z",
+            "title": "Announcing Ionic 5! | The Ionic Blog",
+            "url": "https://ionicframework.com/blog/announcing-ionic-5/",
+            "content": "Ionic 5リリース。\niOS 13に合わせたデザインの更新、Ionic Animationsの追加、Ioniconsの更新、Angular 9のIvyへの対応",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing Ionic Animations | The Ionic Blog",
+                    "url": "https://blog.ionicframework.com/introducing-ionic-animations/"
+                }
+            ]
         }
     ]
 }
