@@ -499,6 +499,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-17T16:10:07.714Z",
+            "title": "Release v2.0 · FullHuman/purgecss",
+            "url": "https://github.com/FullHuman/purgecss/releases/tag/v2.0.5",
+            "content": "使われてないCSSを削除するPurgeCSS 2.0.0リリース。\n非同期化、CSS Variablesの対応、Node.js 8以下のサポート終了",
+            "tags": [
+                "CSS",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "PurgeCSS 2.0 - Full Human - Medium",
+                    "url": "https://medium.com/full-human/purgecss-2-0-c0e812e6c4f6"
+                }
+            ]
         }
     ]
 }
