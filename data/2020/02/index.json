@@ -469,6 +469,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-17T15:51:01.661Z",
+            "title": "volument/baretest: An extremely fast and simple JavaScript test runner.",
+            "url": "https://github.com/volument/baretest",
+            "content": "自己実行可能なテストフレームワーク。\n`test`関数といくつかのライフサイクルを提供する小さなテストフレームワーク。",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Baretest — An extremely minimalistic alternative to Jest",
+                    "url": "https://volument.com/baretest"
+                }
+            ]
         }
     ]
 }
