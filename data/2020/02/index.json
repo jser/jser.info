@@ -528,6 +528,17 @@
                 "UI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-22T15:27:10.193Z",
+            "title": "Announcing TypeScript 3.8 | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-3-8/",
+            "content": "TypeScript 3.8リリース。\n`import type`/`export type`の追加、Stage 3のES Private Fields、Top-Level `await`のサポート。\n`tartet`と`module`オプションに`es2020`を追加、`watchOptions`で`--watch`時の挙動を設定できるようになるなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
