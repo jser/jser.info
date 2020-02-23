@@ -550,6 +550,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-23T10:29:48.592Z",
+            "title": "Node v13.9.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v13.9.0/",
+            "content": "Node v13.9.0リリース。\n`async_hooks`モジュールに`executionAsyncResource`を追加、`crypto`モジュールに`diffieHellman`を追加。\nDiagnostic Reportがworker_thredsをサポート",
+            "tags": [
+                " node",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Diagnostic Report | Node.js v13.9.0 Documentation",
+                    "url": "https://nodejs.org/api/report.html"
+                }
+            ]
         }
     ]
 }
