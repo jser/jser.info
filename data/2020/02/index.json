@@ -648,6 +648,18 @@
                     "url": "https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/"
                 }
             ]
+        },
+        {
+            "date": "2020-02-24T12:59:31.999Z",
+            "title": "Release 3.4.0 · avajs/ava",
+            "url": "https://github.com/avajs/ava/releases/tag/v3.4.0",
+            "content": "AVA 3.4.0リリース。\nテストを失敗させずにAssertionを試せる`t.try()`のサポートなど",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
