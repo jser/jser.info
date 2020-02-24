@@ -566,6 +566,17 @@
                     "url": "https://nodejs.org/api/report.html"
                 }
             ]
+        },
+        {
+            "date": "2020-02-24T02:44:51.433Z",
+            "title": "What's coming in ESLint v7.0.0 - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2020/02/whats-coming-in-eslint-7.0.0",
+            "content": "ESLint 7.0.0での変更点について。\n`CLIEngine`クラスは廃止され新しく`ESLint`クラスが導入される、Node.jsやCommonJS関係のルールは`eslint-plugin-node`に移行される。\ndirective commentsにコメントを書けるように、`~/.eslintrc`の利用に警告がでるように、デフォルトのignore patternsの更新など",
+            "tags": [
+                "ESLint",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
