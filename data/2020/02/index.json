@@ -632,6 +632,22 @@
                     "url": "https://www.angelcode.com/products/bmfont/"
                 }
             ]
+        },
+        {
+            "date": "2020-02-24T12:23:29.002Z",
+            "title": "The Circuit Breaker Pattern",
+            "url": "https://blog.bearer.sh/circuit-breaker-design-pattern/",
+            "content": "Node.jsでCircuit Breakerパターンをしながら学んでいくチュートリアル",
+            "tags": [
+                " node",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Building a Circuit Breaker in Node.js (Part 1)",
+                    "url": "https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/"
+                }
+            ]
         }
     ]
 }
