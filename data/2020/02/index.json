@@ -589,6 +589,23 @@
                 "React"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-24T11:42:00.394Z",
+            "title": "Release Initial Release: 1.0.0 · reduxjs/cra-template-redux",
+            "url": "https://github.com/reduxjs/cra-template-redux/releases/tag/v1.0.0",
+            "content": "create-react-app向けのReduxテンプレート。\n`npx create-react-app my-app --template redux` でセットアップできる。\nRedux Toolkitを利用している",
+            "tags": [
+                "React",
+                "redux",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Redux Toolkit | Redux Toolkit",
+                    "url": "https://redux-toolkit.js.org/"
+                }
+            ]
         }
     ]
 }
