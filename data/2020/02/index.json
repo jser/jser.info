@@ -606,6 +606,32 @@
                     "url": "https://redux-toolkit.js.org/"
                 }
             ]
+        },
+        {
+            "date": "2020-02-24T11:50:01.205Z",
+            "title": "suchipi/hex-engine: A modern 2D game engine for the browser.",
+            "url": "https://github.com/suchipi/hex-engine",
+            "content": "Canvasを使った2Dゲームエンジンライブラリ。ReactインスパイアなAPIを持つ。\n音声同期、スプライトシートやアニメーション、物理エンジンなどのサポート。\nまたAseprite、Tiled、BMFontなどのオーサリングツールもサポートしている。",
+            "tags": [
+                "canvas",
+                "game",
+                "library",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Aseprite - Animated sprite editor & pixel art tool",
+                    "url": "https://www.aseprite.org/"
+                },
+                {
+                    "title": "Tiled Map Editor | A flexible level editor",
+                    "url": "https://www.mapeditor.org/"
+                },
+                {
+                    "title": "BMFont - AngelCode.com",
+                    "url": "https://www.angelcode.com/products/bmfont/"
+                }
+            ]
         }
     ]
 }
