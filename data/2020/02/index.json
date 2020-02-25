@@ -568,10 +568,10 @@
             ]
         },
         {
-            "date": "2020-02-24T02:44:51.433Z",
+            "date": "2020-02-25T02:29:11.092Z",
             "title": "What's coming in ESLint v7.0.0 - ESLint - Pluggable JavaScript linter",
             "url": "https://eslint.org/blog/2020/02/whats-coming-in-eslint-7.0.0",
-            "content": "ESLint 7.0.0での変更点について。\n`CLIEngine`クラスは廃止され新しく`ESLint`クラスが導入される、Node.jsやCommonJS関係のルールは`eslint-plugin-node`に移行される。\ndirective commentsにコメントを書けるように、`~/.eslintrc`の利用に警告がでるように、デフォルトのignore patternsの更新など",
+            "content": "ESLint 7.0.0での変更予定について。\n`CLIEngine`クラスは廃止され新しく`ESLint`クラスが導入される、Node.jsやCommonJS関係のルールは`eslint-plugin-node`に移行される。\ndirective commentsにコメントを書けるように、`~/.eslintrc`の利用に警告がでるように、デフォルトのignore patternsの更新など",
             "tags": [
                 "ESLint",
                 "article"
