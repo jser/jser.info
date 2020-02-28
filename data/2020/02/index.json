@@ -739,6 +739,18 @@
                 "Firefox"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-28T13:28:29.602Z",
+            "title": "Understanding the ECMAScript spec, part 1 · V8",
+            "url": "https://v8.dev/blog/understanding-ecmascript-part-1",
+            "content": "ECMAScript仕様で使われる構文などの読み方について。\n`[[Expression]]`のInternal Slot、Internal Method、Completion records、`?` 構文について",
+            "tags": [
+                "ECMAScript",
+                "spec",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
