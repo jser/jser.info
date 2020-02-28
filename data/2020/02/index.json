@@ -705,6 +705,17 @@
                 "GUI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-02-28T11:28:41.144Z",
+            "title": "React v16.13.0 – React Blog",
+            "url": "https://reactjs.org/blog/2020/02/26/react-v16.13.0.html",
+            "content": "React 16.13.0リリース。\n不適切な使い方に対する警告の追加、`React.createFactory`と`ReactDOM.unstable_createPortal`を非推奨化。\nhydrationに関する警告にコンポーネントスタックを表示するようになるなど",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
