@@ -11,6 +11,19 @@
                 "React"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-01T08:28:44.992Z",
+            "title": "jaredpalmer/tsdx: Zero-config CLI for TypeScript package development",
+            "url": "https://github.com/jaredpalmer/tsdx",
+            "content": "TypeScriptでnpmパッケージを開発する向けのツールキット。\nBuild、Test、Lintや最適化周りの設定などがビルトインされている。",
+            "tags": [
+                "TypeScript",
+                "JavaScript",
+                "npm",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
