@@ -77,6 +77,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-02T14:05:23.712Z",
+            "title": "facebookexperimental/rome: An experimental JavaScript toolchain",
+            "url": "https://github.com/facebookexperimental/rome",
+            "content": "外部依存のないJavaScript compiler、bundler、Linter、Formatter、開発サーバなどを含む包含的なツールキット。\nBabelとYarnを作ったsebmck製。",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
