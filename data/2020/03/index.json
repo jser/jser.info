@@ -112,6 +112,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-02T14:33:15.544Z",
+            "title": "petersalomonsen/wasm-git: GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org",
+            "url": "https://github.com/petersalomonsen/wasm-git",
+            "content": "libgitをEmscriptenでWebAssemblyにコンパイルしたライブラリ。\nブラウザとNode.jsで動作する",
+            "tags": [
+                "git",
+                "WebAssembly",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
