@@ -151,6 +151,18 @@
                 "Actions"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-02T23:44:00.080Z",
+            "title": "ブラウザとnode.jsに両対応したライブラリを作りたいときのWebpackレシピ集 - Qiita",
+            "url": "https://qiita.com/riversun/items/1da0c0668d0dccdc0460",
+            "content": "ライブラリをwebpackでbundleしてscriptタグで読み込める形式にして配布する際の`output`設定のパターンについて。",
+            "tags": [
+                "JavaScript",
+                "webpack",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
