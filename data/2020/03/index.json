@@ -88,6 +88,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-02T14:12:15.060Z",
+            "title": "新しいJavaScriptツールチェーン、ローマ",
+            "url": "https://jasonformat.com/rome-javascript-toolchain/",
+            "content": "Romeのアーキテクチャについて。\nRome自体がmonorepoでcompilerからbundlerまで含むため、重たいASTの処理のコストを軽減できる。\nまたコンパイルもモジュールごとにWorkerで実行していて、bundlerは単一スコープが問題となるが、コンパイル結果にファイル名を入れることで回避している仕組みについてなど",
+            "tags": [
+                "JavaScript",
+                "article",
+                "bundler"
+            ],
+            "relatedLinks": []
         }
     ]
 }
