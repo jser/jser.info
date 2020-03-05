@@ -174,6 +174,22 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-05T03:02:26.609Z",
+            "title": "Node v13.10.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v13.10.0/",
+            "content": "Node.js 13.10.0リリース。\n`async_hooks`モジュールに非同期コンテキストにおけるストレージ機能を提供する`AsyncLocalStorage`の追加。\nStream#pipelineがGenerator functionをサポート、`vm.measureMemory`メソッドの実装など",
+            "tags": [
+                " node",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The following example builds a logger that will always know the current HTTP request and uses it to display enhanced logs without needing to explicitly provide the current HTTP request to it.",
+                    "url": "https://nodejs.org/api/async_hooks.html#async_hooks_class_asynclocalstorage"
+                }
+            ]
         }
     ]
 }
