@@ -202,6 +202,90 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-08T13:25:25.546Z",
+            "title": "What is New in Version 1.0 · isomorphic-git",
+            "url": "https://isomorphic-git.org/blog/2020/02/25/version-1-0-0",
+            "content": "isomorphic-git 1.0リリース。\nTypeScriptの型改善、`init`や`checkout`、`commit`などのデフォルトの動作の変更、非推奨だったAPIの削除など。",
+            "tags": [
+                "git",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2020-03-09T00:26:38.473Z",
+            "title": "Release v6.0.0 · immerjs/immer",
+            "url": "https://github.com/immerjs/immer/releases/tag/v6.0.0",
+            "content": "immer.js 6.0.0リリース。\nES5やMapのサポートなどを明示的なメソッドを呼び出しするように変更など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2020-03-09T07:56:35.429Z",
+            "title": "p5.js 1.0 is Here! - Processing Foundation - Medium",
+            "url": "https://medium.com/processing-foundation/p5-js-1-0-is-here-b7267140753a",
+            "content": "ビジュアルコーディングライブラリのp5.js 1.0リリース。\n全体的にライブラリを書き直し。`image()`関数のGIFアニメーションサポート、`circle()`や`square()`関数なの追加、エラーメッセージの国際化など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 1.0.0 · processing/p5.js",
+                    "url": "https://github.com/processing/p5.js/releases/tag/1.0.0"
+                }
+            ]
+        },
+        {
+            "date": "2020-03-09T13:33:52.755Z",
+            "title": "0から始めるNode.jsパフォーマンスチューニング | kohsweblog",
+            "url": "https://blog.koh.dev/2020-03-04-nodejs-performance/",
+            "content": "Node.jsアプリのパフォーマンス計測、改善についての記事。\nヒープやulimitの設定、cluster対応、プロファイリングの手法、よくある問題についてなど",
+            "tags": [
+                " node",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2020-03-09T13:41:40.960Z",
+            "title": "klaussinani/qoa: Minimal interactive command-line prompts",
+            "url": "https://github.com/klaussinani/qoa",
+            "content": "インタラクティブなCUIを提供するためのNode.jsライブラリ。\nテキスト入力や選択肢などのインタラクティブなプロンプトを提供する",
+            "tags": [
+                " node",
+                "library",
+                "console"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2020-03-09T14:02:41.999Z",
+            "title": "Introducing AdonisJS (v5 Preview)",
+            "url": "https://blog.adonisjs.com/introducing-adonisjs-v5/",
+            "content": "Node.jsアプリフレームワークであるAdonisJS v5プレビューリリース。\nTypeScriptベースに書き直し、パフォーマンス改善。\nSigned Routesの対応、Health Checksモジュールの追加、ORMであるLucidの改善など",
+            "tags": [
+                " node",
+                "library",
+                "ReleaseNote",
+                "TypeScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "adonisjs/core: 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence",
+                    "url": "https://github.com/adonisjs/core"
+                }
+            ]
         }
     ]
 }
