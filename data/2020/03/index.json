@@ -288,18 +288,6 @@
             ]
         },
         {
-            "date": "2020-03-09T14:37:07.337Z",
-            "title": "Introduction to D3 / MIT Visualization Group / Observable",
-            "url": "https://observablehq.com/@mitvis/introduction-to-d3",
-            "content": "インタラクティブなD3.js入門記事",
-            "tags": [
-                "JavaScript",
-                "library",
-                "graphic"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2020-03-10T23:10:51.088Z",
             "title": "Firefox 74.0, See All New Features, Updates and Fixes",
             "url": "https://www.mozilla.org/en-US/firefox/74.0/releasenotes/",
@@ -322,6 +310,18 @@
                     "url": "https://www.fxsitecompat.dev/en-CA/docs/2020/geolocation-fullscreen-camera-mic-screen-capture-requests-from-cross-origin-iframe-are-now-disabled-by-default/"
                 }
             ]
+        },
+        {
+            "date": "2020-03-10T23:11:33.076Z",
+            "title": "Introduction to D3 / MIT Visualization Group / Observable",
+            "url": "https://observablehq.com/@mitvis/introduction-to-d3",
+            "content": "インタラクティブなD3.js入門記事",
+            "tags": [
+                "JavaScript",
+                "library",
+                "graphic"
+            ],
+            "relatedLinks": []
         }
     ]
 }
