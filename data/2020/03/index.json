@@ -336,6 +336,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-11T11:56:23.494Z",
+            "title": "Alternatives to enums in TypeScript",
+            "url": "https://2ality.com/2020/02/enum-alternatives-typescript.html",
+            "content": "TypeScriptでのenumとunion typesについて",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "さようなら、TypeScript enum | Kabuku Developers Blog",
+                    "url": "https://www.kabuku.co.jp/developers/good-bye-typescript-enum"
+                }
+            ]
         }
     ]
 }
