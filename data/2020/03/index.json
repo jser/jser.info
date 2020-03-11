@@ -322,6 +322,19 @@
                 "graphic"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-11T10:13:41.341Z",
+            "title": "Release Worker Plugin 4.0 · GoogleChromeLabs/worker-plugin",
+            "url": "https://github.com/GoogleChromeLabs/worker-plugin/releases/tag/4.0.2",
+            "content": "webpack向けのWorker Plugin 4.0リリース。\nES Modulesのサポート、`worker-plugin/loader!<path>`のサポート、`SharedWorker`のサポートなど",
+            "tags": [
+                "webpack",
+                "webworker",
+                "plugin",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
