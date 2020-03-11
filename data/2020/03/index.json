@@ -312,18 +312,6 @@
             ]
         },
         {
-            "date": "2020-03-10T23:11:33.076Z",
-            "title": "Introduction to D3 / MIT Visualization Group / Observable",
-            "url": "https://observablehq.com/@mitvis/introduction-to-d3",
-            "content": "インタラクティブなD3.js入門記事",
-            "tags": [
-                "JavaScript",
-                "library",
-                "graphic"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2020-03-11T10:13:41.341Z",
             "title": "Release Worker Plugin 4.0 · GoogleChromeLabs/worker-plugin",
             "url": "https://github.com/GoogleChromeLabs/worker-plugin/releases/tag/4.0.2",
@@ -333,6 +321,19 @@
                 "webworker",
                 "plugin",
                 "ReleaseNote"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2020-03-11T11:55:34.089Z",
+            "title": "Observable",
+            "url": "https://observablehq.com/@mitvis/introduction-to-d3",
+            "content": "インタラクティブなD3.js入門記事",
+            "tags": [
+                "JavaScript",
+                "library",
+                "graphic",
+                "article"
             ],
             "relatedLinks": []
         }
