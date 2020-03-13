@@ -353,6 +353,17 @@
                     "url": "https://www.kabuku.co.jp/developers/good-bye-typescript-enum"
                 }
             ]
+        },
+        {
+            "date": "2020-03-13T21:12:39.711Z",
+            "title": "Node v13.11.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v13.11.0/",
+            "content": "Node.js 13.11.0リリース。\n`AsyncLocalStorage#enterWith`の追加、`--jitless`オプションを`NODE_OPTIONS`に指定できるように、`wasi`モジュールに`returnOnExit`オプションを追加など",
+            "tags": [
+                " node",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
