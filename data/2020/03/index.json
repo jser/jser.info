@@ -364,6 +364,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-14T20:08:08.238Z",
+            "title": "vriad/zod: Typescript-first schema validation with static type inference",
+            "url": "https://github.com/vriad/zod",
+            "content": "TypeScriptの型チェックとRuntimeでの型チェックを行うスキーマライブラリ。\nライブラリが提供するAPIを使ってスキーマを定義する",
+            "tags": [
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Designing the perfect Typescript schema validation library",
+                    "url": "https://vriad.com/blog/zod/"
+                }
+            ]
         }
     ]
 }
