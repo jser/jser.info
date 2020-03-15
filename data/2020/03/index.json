@@ -397,6 +397,19 @@
                     "url": "https://qiita.com/mottox2/items/5f01015e74c55c4df1be"
                 }
             ]
+        },
+        {
+            "date": "2020-03-15T21:08:46.319Z",
+            "title": "Slow Code HATES him! Optimising a web app from 1 to 60fps",
+            "url": "https://blog.scottlogic.com/2020/02/17/minesweeper-optimisation.html",
+            "content": "マインスイーパ的な100x100のセルを更新するゲームのパフォーマンス最適化について。\nステートと更新する領域の最適化、DOMレイアウトのトリガーとなるCSSの削除、透明テキストの削除、レイヤーの分割、Canvasを使ったレンダリングなどについて",
+            "tags": [
+                "JavaScript",
+                "canvas",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
