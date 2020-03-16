@@ -476,6 +476,17 @@
                 "AR"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-17T00:48:21.168Z",
+            "title": "type-only imports — A new TypeScript feature that benefits Babel users",
+            "url": "https://levelup.gitconnected.com/improving-babel-support-for-typescript-with-type-only-imports-28cb209d9460",
+            "content": "TypeScriptの`isolatedModules`とBabelのTypeScriptサポートの挙動について。\n曖昧なre-exportの問題とTypeScript 3.8で導入された`import type`/`export type`での解決について。\n",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
