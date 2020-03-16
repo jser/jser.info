@@ -451,6 +451,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-17T00:37:50.936Z",
+            "title": "lukeed/uid: A tiny (134B) and fast utility to generate random IDs of fixed length",
+            "url": "https://github.com/lukeed/uid",
+            "content": "指定文字数のランダムな英数文字列を生成するライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
