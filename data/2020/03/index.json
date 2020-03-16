@@ -422,6 +422,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-17T00:28:33.145Z",
+            "title": "Bootstrap 5 release date and what's new about it - Themesberg",
+            "url": "https://themesberg.com/blog/design/bootstrap-5-release-date-and-whats-new",
+            "content": "Bootstrap 5の変更予定についての紹介記事。\njQueryの削除、IE 10のサポート終了、SVGアイコンなど",
+            "tags": [
+                "CSS",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "twbs/icons: Official open source SVG icon library for Bootstrap.",
+                    "url": "https://github.com/twbs/icons"
+                }
+            ]
         }
     ]
 }
