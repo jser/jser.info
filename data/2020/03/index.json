@@ -488,6 +488,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-17T00:54:39.407Z",
+            "title": "RedwoodJS - Bringing Full-stack to the JAMstack",
+            "url": "https://redwoodjs.com/",
+            "content": "JAMstackフレームワーク。\nReact、GraphQL、Prismaを使ったフレームワーク",
+            "tags": [
+                "JavaScript",
+                "GraphQL",
+                "React",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Prisma - Database tools for modern application development",
+                    "url": "https://www.prisma.io/"
+                }
+            ]
         }
     ]
 }
