@@ -536,6 +536,24 @@
                     "url": "https://blog.npmjs.org/post/612764866888007680/next-phase-montage"
                 }
             ]
+        },
+        {
+            "date": "2020-03-17T11:43:19.565Z",
+            "title": "Release 6.0.0-beta.0 (2020-03-11) · GoogleChrome/lighthouse",
+            "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v6.0.0-beta.0",
+            "content": "Lighthouse 6.0.0βリリース。\nMetricsの更新、performanceスコア計算方法の変更。\nまた、Cumulative Layout Shift (CLS)、文字コード、アクセシビリティに関するAuditの追加など",
+            "tags": [
+                "Chrome",
+                "performance",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Cumulative Layout Shift (CLS)",
+                    "url": "https://web.dev/cls/"
+                }
+            ]
         }
     ]
 }
