@@ -12,15 +12,16 @@ const buildTemplate = require("./build-template");
 const getAllJSON = require("../../converter/lib/get-all-json");
 /**
  * @param {JSerStat} stat
+ * @param {Date} toDate
  * @returns {JSerItem[]}
  */
-const getUnPublishItems = (stat) => {
+const getUnPublishItems = (stat, toDate) => {
     const totalWeekCount = stat.getTotalWeekCount();
     /**
      * @type {JSerWeek}
      */
     const lastWeek = stat.getJSerWeek(totalWeekCount);
-    return stat.findItemsBetween(lastWeek.post.date, new Date());
+    return stat.findItemsBetween(lastWeek.post.date, toDate);
 };
 /**
  * @param {JSerClassifier} classifier
@@ -68,15 +69,17 @@ module.exports = function createContent() {
             postDetails
         });
         const nextWeekNumber = stat.getTotalWeekCount() + 1;
-        const unPublishItems = getUnPublishItems(stat);
+        const today = moment.utc().toDate();
+        // TODO: +9の分余分に取る。データのtimezoneがずれている問題の対処
+        const unPublishItems = getUnPublishItems(stat, moment.utc().add(1, "day").toDate());
         const groups = groupByCategory(classifier, unPublishItems);
-        const today = moment(new Date()).format("YYYY-MM-DD");
+        const todayFormat = moment.utc().format("YYYY-MM-DD");
         const tags = ["JavaScript"];
         return buildTemplate({
-            title: `${today}のJS: `,
+            title: `${todayFormat}のJS: `,
             author: "azu",
             category: "JSer",
-            date: moment.utc().toDate(),
+            date: today,
             tags,
             weekNumber: nextWeekNumber,
             groupsByHeader: groups
