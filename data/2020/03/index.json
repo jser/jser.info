@@ -521,7 +521,7 @@
             ]
         },
         {
-            "date": "2020-03-17T11:18:40.403Z",
+            "date": "2020-03-17T11:19:02.590Z",
             "title": "npm is joining GitHub - The GitHub Blog",
             "url": "https://github.blog/2020-03-16-npm-is-joining-github/",
             "content": "npm incがGitHubに買収された。\nnpm private registryはGitHub Package Registryに移行していく方針で、npmはpublic registryとCLIに注力していく方針",
@@ -530,7 +530,12 @@
                 "Github",
                 "news"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "The npm Blog — Next Phase Montage",
+                    "url": "https://blog.npmjs.org/post/612764866888007680/next-phase-montage"
+                }
+            ]
         }
     ]
 }
