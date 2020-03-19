@@ -580,6 +580,17 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-18T17:46:54.447Z",
+            "title": "ryanelian/ts-polyfill: Runtime polyfills for TypeScript libs, powered by core-js!",
+            "url": "https://github.com/ryanelian/ts-polyfill",
+            "content": "tsconfig.jsonの`lib`に合わせたpolyfillを提供するライブラリ",
+            "tags": [
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
