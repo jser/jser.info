@@ -554,6 +554,20 @@
                     "url": "https://web.dev/cls/"
                 }
             ]
+        },
+        {
+            "date": "2020-03-18T17:20:11.389Z",
+            "title": "npmのprivate registryからGitHub Packages Registryに移行する",
+            "url": "https://tech.plaid.co.jp/npm-private-registry-to-github-packages-registry/",
+            "content": "GitHub Packages Registryへの移行記事。\nnpmとGitHubの同名スコープの衝突問題。GitHub ActionsでのGitHub Packages Registryへのpublishフロー、Registry変更時のパッケージの静的、動的なチェックについてなど",
+            "tags": [
+                " node",
+                "npm",
+                "Github",
+                "Actions",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
