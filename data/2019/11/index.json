@@ -627,7 +627,7 @@
             "tags": [
                 "DB ",
                 "webservice",
-                " node",
+                "node.js",
                 "npm",
                 "python"
             ],
@@ -639,7 +639,7 @@
             "url": "https://github.com/jeremydaly/lambda-api",
             "content": "AWS Lambda向けのNode,jsフレームワーク。\n依存がなく、HTTPメソッド対するルーティング、HTTPリクエスト/レスポンスに対する基本的な処理を持っている",
             "tags": [
-                " node",
+                "node.js",
                 "aws",
                 "Lambda",
                 "library"

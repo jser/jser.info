@@ -132,7 +132,7 @@
             "content": "ブラウザ、Node.jsで動作するJSONデータベースライブラリ。\n",
             "tags": [
                 "JavaScript",
-                " node",
+                "node.js",
                 "library",
                 "CoreData",
                 "JSON"
@@ -170,7 +170,7 @@
             "url": "https://clinicjs.org/",
             "content": "NearFormのNode.jsパフォーマンスモニタリングツールセット",
             "tags": [
-                " node",
+                "node.js",
                 "performance"
             ],
             "relatedLinks": []
@@ -181,7 +181,7 @@
             "url": "https://nodejs.org/en/blog/release/v13.10.0/",
             "content": "Node.js 13.10.0リリース。\n`async_hooks`モジュールに非同期コンテキストにおけるストレージ機能を提供する`AsyncLocalStorage`の追加。\nStream#pipelineがGenerator functionをサポート、`vm.measureMemory`メソッドの実装など",
             "tags": [
-                " node",
+                "node.js",
                 "ReleaseNote"
             ],
             "relatedLinks": [
@@ -251,7 +251,7 @@
             "url": "https://blog.koh.dev/2020-03-04-nodejs-performance/",
             "content": "Node.jsアプリのパフォーマンス計測、改善についての記事。\nヒープやulimitの設定、cluster対応、プロファイリングの手法、よくある問題についてなど",
             "tags": [
-                " node",
+                "node.js",
                 "performance",
                 "article"
             ],
@@ -263,7 +263,7 @@
             "url": "https://github.com/klaussinani/qoa",
             "content": "インタラクティブなCUIを提供するためのNode.jsライブラリ。\nテキスト入力や選択肢などのインタラクティブなプロンプトを提供する",
             "tags": [
-                " node",
+                "node.js",
                 "library",
                 "console"
             ],
@@ -275,7 +275,7 @@
             "url": "https://blog.adonisjs.com/introducing-adonisjs-v5/",
             "content": "Node.jsアプリフレームワークであるAdonisJS v5プレビューリリース。\nTypeScriptベースに書き直し、パフォーマンス改善。\nSigned Routesの対応、Health Checksモジュールの追加、ORMであるLucidの改善など",
             "tags": [
-                " node",
+                "node.js",
                 "library",
                 "ReleaseNote",
                 "TypeScript"
@@ -360,7 +360,7 @@
             "url": "https://nodejs.org/en/blog/release/v13.11.0/",
             "content": "Node.js 13.11.0リリース。\n`AsyncLocalStorage#enterWith`の追加、`--jitless`オプションを`NODE_OPTIONS`に指定できるように、`wasi`モジュールに`returnOnExit`オプションを追加など",
             "tags": [
-                " node",
+                "node.js",
                 "ReleaseNote"
             ],
             "relatedLinks": []
@@ -470,7 +470,7 @@
             "content": "QtベースのNode.js向けのGUIフレームワークであるNodeGuiを使ってアプリを作るチュートリアル記事。\nGIPHY APIを使ってGIFファイル表示するアプリの開発をしながら、NodeGuiについて見ていく記事",
             "tags": [
                 "JavaScript",
-                " node",
+                "node.js",
                 "GUI",
                 "tutorial",
                 "AR"
@@ -561,7 +561,7 @@
             "url": "https://tech.plaid.co.jp/npm-private-registry-to-github-packages-registry/",
             "content": "GitHub Packages Registryへの移行記事。\nnpmとGitHubの同名スコープの衝突問題。GitHub ActionsでのGitHub Packages Registryへのpublishフロー、Registry変更時のパッケージの静的、動的なチェックについてなど",
             "tags": [
-                " node",
+                "node.js",
                 "npm",
                 "Github",
                 "Actions",
@@ -599,7 +599,7 @@
             "content": "NestJS 7リリース。\n`type-graphql`パッケージから`@nestjs/graphql`パッケージに移行、\n`ParseArrayPipe`と`ParseBoolPipe`のtransformer pipeを追加など",
             "tags": [
                 "JavaScript",
-                " node",
+                "node.js",
                 "library",
                 "ReleaseNote"
             ],

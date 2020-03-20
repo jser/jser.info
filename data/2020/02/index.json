@@ -28,7 +28,7 @@
             "content": "依存してるnpmパッケージの`engines`フィールドから、`engines`ごとのminimumなバージョンを算出するライブラリ",
             "tags": [
                 "npm",
-                " node",
+                "node.js",
                 "Tools",
                 "library"
             ],
@@ -97,7 +97,7 @@
             "content": "Meteor 1.9リリース。\nNode.js 12をサポート、Galaxy(Metorのホスティング環境)のロードマップについて",
             "tags": [
                 "JavaScript",
-                " node",
+                "node.js",
                 "ReleaseNote"
             ],
             "relatedLinks": []
@@ -134,7 +134,7 @@
                 "Electron",
                 "ReleaseNote",
                 "V8",
-                " node"
+                "node.js"
             ],
             "relatedLinks": []
         },
@@ -235,7 +235,7 @@
             "content": "AVA 3.3.0リリース。\nECMAScript Modulesなテストファイルに対応",
             "tags": [
                 "JavaScript",
-                " node",
+                "node.js",
                 "library",
                 "testing",
                 "ReleaseNote"
@@ -301,7 +301,7 @@
             "content": "Node.js向けのHTTPクライアントである`request`モジュールがDeprecatedとなった。\n",
             "tags": [
                 "npm",
-                " node",
+                "node.js",
                 "HTTP",
                 "library",
                 "news"
@@ -378,7 +378,7 @@
             "url": "https://nodejs.org/en/blog/release/v12.16.0/",
             "content": "Node 12.16.0リリース。\n実験的な機能として`assert.match`と`assert.doesNotMatch`の追加。\n`child_process`が`serialization`オプションをサポート、`--trace-exit`、`--trace-uncaught`の追加、`perf_hooks`がStable APIとなるなど。",
             "tags": [
-                " node",
+                "node.js",
                 "ReleaseNote"
             ],
             "relatedLinks": []
@@ -557,7 +557,7 @@
             "url": "https://nodejs.org/en/blog/release/v13.9.0/",
             "content": "Node v13.9.0リリース。\n`async_hooks`モジュールに`executionAsyncResource`を追加、`crypto`モジュールに`diffieHellman`を追加。\nDiagnostic Reportがworker_thredsをサポート",
             "tags": [
-                " node",
+                "node.js",
                 "ReleaseNote"
             ],
             "relatedLinks": [
@@ -639,7 +639,7 @@
             "url": "https://blog.bearer.sh/circuit-breaker-design-pattern/",
             "content": "Node.jsでCircuit Breakerパターンをしながら学んでいくチュートリアル",
             "tags": [
-                " node",
+                "node.js",
                 "article"
             ],
             "relatedLinks": [
@@ -701,7 +701,7 @@
             "url": "https://github.com/Akryum/guijs",
             "content": "JavaScriptプロジェクト向けのGUIアプリ",
             "tags": [
-                " node",
+                "node.js",
                 "GUI"
             ],
             "relatedLinks": []

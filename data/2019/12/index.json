@@ -37,7 +37,7 @@
             "url": "https://github.com/billinghamj/fix-es-imports",
             "content": "`require`では省略可能なモジュールインポートの`index.js`や拡張子を追加するツール。\nECMAScriptでは拡張子などは省略できないため、`import`文を修正する目的のツール",
             "tags": [
-                " node",
+                "node.js",
                 "ECMAScript",
                 "module",
                 "Tools"
@@ -103,7 +103,7 @@
             "url": "https://github.com/sindresorhus/got/releases/tag/v10.0.0",
             "content": "Node.js向けHTTPクライアントのGot 10.0.0リリース。\nTypeScriptで書き直されたバージョン。\nNode.js 10未満のサポート終了、`query`を`searchParams`にリネーム、`encoding`を`responseType`にリネーム、`json`オプションの変更など。\nDNS cacheのサポート、`maxRedirects`オプションの追加など",
             "tags": [
-                " node",
+                "node.js",
                 "HTTP",
                 "library",
                 "ReleaseNote"
@@ -228,7 +228,7 @@
             "url": "https://nodejs.org/en/blog/release/v13.3.0/",
             "content": "Node.js 13.3.0リリース。\nExperimentalな`fs.rmdir`のリトライオプションの変更、HTTPのヘッダサイズを指定する`maxHeaderSize`を`http.Server`ごとに指定できるように、WASIのサポートなど",
             "tags": [
-                " node",
+                "node.js",
                 "ReleaseNote"
             ],
             "relatedLinks": []
@@ -317,7 +317,7 @@
             "url": "https://github.com/sindresorhus/meow/releases/v6.0.0",
             "content": "Node.js CLI向けのライブラリであるmeow 6.0.0リリース。\nNode.js 8未満のサポート終了、TypeScriptの型定義ファイルの同梱、`number`型のサポート、`hardRejection`オプションの追加など\n",
             "tags": [
-                " node",
+                "node.js",
                 "console",
                 "library"
             ],
@@ -560,7 +560,7 @@
             "content": "Mongooseを使ったMongoDBの使い方チュートリアル。\nSchemaの定義、データの追加、更新、検索、削除について",
             "tags": [
                 "MongoDB",
-                " node",
+                "node.js",
                 "tutorial"
             ],
             "relatedLinks": []
@@ -613,7 +613,7 @@
             "url": "https://nodejs.org/en/blog/vulnerability/december-2019-security-releases/",
             "content": "npm 6.13.3以下に含まれていた脆弱性の対応のため、npm 6.13.4へのアップデートを含むNode.jsの各バージョンが2019-12-17リリースされる。",
             "tags": [
-                " node",
+                "node.js",
                 "ReleaseNote"
             ],
             "relatedLinks": [
@@ -633,7 +633,7 @@
             "url": "http://kakts-tec.hatenablog.com/entry/2019/12/16/221941",
             "content": "Node.js v13.3.0で試験的にサポートされたWASI対応について。\n`wasi`モジュールを使ってWebAssemblyの実行方法について",
             "tags": [
-                " node",
+                "node.js",
                 "article",
                 "WebAssembly"
             ],
@@ -769,7 +769,7 @@
             "url": "https://nodejs.org/en/blog/release/v13.5.0/",
             "content": "Node.js v13.5.0リリース。\n終了時にスタックトレースを出力する`--trace-exit`のサポートなど",
             "tags": [
-                " node",
+                "node.js",
                 "ReleaseNote"
             ],
             "relatedLinks": []
@@ -873,7 +873,7 @@
             "content": "Server-Sent Events (SSE)のコンセプトと使い方について。\nサポートブラウザ、ExpressでのSSEなレスポンスの返し方についてなど",
             "tags": [
                 "JavaScript",
-                " node",
+                "node.js",
                 "article"
             ],
             "relatedLinks": []
@@ -934,7 +934,7 @@
             "url": "https://qiita.com/segur/items/6eebb70ec2de03016dde",
             "content": "`npm`コマンドと`package.json`についての初心者向けチュートリアル記事。\nパッケージのインストール、アンインストール、SemVer、ロックファイルについてなど",
             "tags": [
-                " node",
+                "node.js",
                 "npm",
                 "article"
             ],
@@ -946,7 +946,7 @@
             "url": "https://qiita.com/toshi-toma/items/ea76b8894e7771d47e10",
             "content": "Node.jsでCLIを作る場合の作り方やCLI向けのライブラリについて",
             "tags": [
-                " node",
+                "node.js",
                 "console",
                 "Tools",
                 "article"

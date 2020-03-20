@@ -201,7 +201,7 @@
             "url": "https://nodejs.org/en/blog/release/v12.14.1/",
             "content": "Node.js 12.14.1リリース。\n`v8.serialize`と`v8.deserialize`がStable APIとなるなど",
             "tags": [
-                " node",
+                "node.js",
                 "ReleaseNote"
             ],
             "relatedLinks": []
@@ -212,7 +212,7 @@
             "url": "https://nodejs.org/en/blog/release/v13.6.0/",
             "content": "Node.js 13.6.0リリース。\n正規表現にマッチするかをテストできる`assert.match()`と`assert.doesNotMatch()`の実装、\n`EventEmitter.on`のAsync Iterator対応。\nStreamに対する`fs`の実装を指定できるオプションの追加、`error`イベントを副作用なしに監視できる`EventEmitter.errorMonitor` Symbolを追加。\n`perf_hooks`モジュールがStable APIになるなど",
             "tags": [
-                " node",
+                "node.js",
                 "ReleaseNote"
             ],
             "relatedLinks": []
@@ -405,7 +405,7 @@
             "url": "https://github.com/mochajs/mocha/releases/tag/v7.0.0-esm1",
             "content": "MochaのES Modules対応のExperimental版がリリースされた",
             "tags": [
-                " node",
+                "node.js",
                 "testing",
                 "library",
                 "ReleaseNote"
@@ -515,7 +515,7 @@
             "url": "https://github.com/avajs/ava/releases/tag/v3.0.0",
             "content": "AVA 3リリース。\n`ava debug`コマンドの追加、`--node-arguments`オプションの追加。\nNode 10未満のサポート終了、Babelが同梱ではなくなり別パッケージとしてインストールする形に変更、ES Modulesのサポートなど",
             "tags": [
-                " node",
+                "node.js",
                 "testing",
                 "library",
                 "ReleaseNote"
@@ -528,7 +528,7 @@
             "url": "https://github.com/gjtorikian/isBinaryFile",
             "content": "ファイルがバイナリかどうかを判定するNode.jsライブラリ",
             "tags": [
-                " node",
+                "node.js",
                 "library"
             ],
             "relatedLinks": []
@@ -553,7 +553,7 @@
             "content": "ブラウザとexpressを使ったCookieの設定と属性などのCookieの仕組みについての解説記事。\nExpires、Max-Age、Domain、Path，Secure属性、HttpOnly属性、SameSite属性についての解説",
             "tags": [
                 "HTTP",
-                " node",
+                "node.js",
                 "security"
             ],
             "relatedLinks": []
@@ -564,7 +564,7 @@
             "url": "https://github.com/microsoft/playwright",
             "content": "Chromium、WebKit、Firefoxを操作できるNode.jsライブラリ。\nPuppeteerと同じチームが開発していて、クロスブラウザ向けの抽象化されたAPIを提供する目的。\nWebDriverよりも機能的なDriver、分かりやすいAPI、setTimeout-freeな自動化を目的としている",
             "tags": [
-                " node",
+                "node.js",
                 "JavaScript",
                 "browser",
                 "Chrome",
@@ -606,7 +606,7 @@
             "url": "https://nodejs.org/en/blog/release/v13.7.0/",
             "content": "Node v13.7.0リリース。\n`module`モジュールにSource Mapを扱うAPIを追加、`process`に`uncaughtExceptionMonitor`リスナーの追加など",
             "tags": [
-                " node",
+                "node.js",
                 "ReleaseNote",
                 "sourcemap"
             ],
@@ -692,7 +692,7 @@
             "url": "https://blog.s1h.org/inside-node-executing-a-script/",
             "content": "Node.jsでスクリプトを実行するまでにどのような処理が行われているのかをコードから見ていく記事。\n`node`のコマンドライン引数の処理、ファイルのロード、`module`でのスクリプトをのコンパイル、libuvを使ったイベントループでのコード実行の流れについて",
             "tags": [
-                " node",
+                "node.js",
                 "article"
             ],
             "relatedLinks": []
