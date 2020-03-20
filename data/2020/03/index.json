@@ -591,6 +591,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-19T21:10:16.747Z",
+            "title": "Release v7.0.0 · nestjs/nest",
+            "url": "https://github.com/nestjs/nest/releases/tag/v7.0.0",
+            "content": "NestJS 7リリース。\n`type-graphql`パッケージから`@nestjs/graphql`パッケージに移行、\n`ParseArrayPipe`と`ParseBoolPipe`のtransformer pipeを追加など",
+            "tags": [
+                "JavaScript",
+                " node",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Announcing NestJS 7: What’s New - Trilon Consulting",
+                    "url": "https://trilon.io/blog/announcing-nestjs-7-whats-new"
+                }
+            ]
         }
     ]
 }
