@@ -609,6 +609,18 @@
                     "url": "https://trilon.io/blog/announcing-nestjs-7-whats-new"
                 }
             ]
+        },
+        {
+            "date": "2020-03-20T10:25:04.152Z",
+            "title": "Node.jsでUnhandled RejectionsのときにExit Statusが0となる問題を回避する | Web Scratch",
+            "url": "https://efcl.info/2020/03/20/node-unhandled-rejections-exit-status/",
+            "content": "Node.jsでのUnhandled Rejectionsの問題について。\n意図しない正常終了を避ける方法としてのエラーハンドリング、`unhandledRejection`イベント、`--unhandled-rejections`オプションについて",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
