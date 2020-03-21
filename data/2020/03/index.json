@@ -621,6 +621,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-21T12:11:41.383Z",
+            "title": "7.9.0 Released: Smaller preset-env output, Typescript 3.8 support and a new JSX transform · Babel",
+            "url": "https://babeljs.io/blog/2020/03/16/7.9.0",
+            "content": "Babel 7.9.0リリース。\npreset-envにmodule/npnmoduleパターンをサポートするオプションの追加。Babel 8.0でデフォルト化する予定。\nTypeScript 3.8とFlow 0.120のサポート。ReactのRFCがでている新しいJSXの変換に対応など",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
