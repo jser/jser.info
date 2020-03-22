@@ -644,6 +644,18 @@
                 "plugin"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-22T00:22:17.334Z",
+            "title": "Prettier 2.0 “2020” · Prettier",
+            "url": "https://prettier.io/blog/2020/03/21/2.0.0.html",
+            "content": "Prettier 2.0リリース。\nTypeScript 3.8をサポート、CLIでファイル名に`*`が含まれている場合をサポート。\nNode.js 10未満のサポート終了、デフォルト設定の一部変更など。\n\n- `trailingComma`:`es5`\n- `arrowParens`: `always`\n- `endOfLine`: `lf`",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
