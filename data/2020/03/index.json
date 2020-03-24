@@ -692,6 +692,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-24T00:05:17.365Z",
+            "title": "Implementing single-file Web Components",
+            "url": "https://ckeditor.com/blog/implementing-single-file-web-components/",
+            "content": "Web ComponentsでVueのようなSingle file componentを実装する記事。\nコンポーネントをFetchし、ファイル内をパースしてTemplate、CSS、JavaScriptを取りだす。\nScriptを`import`するために、データURLからBlobを作成しModuleとして読み込むハックについてなど",
+            "tags": [
+                "JavaScript",
+                "WebComponents",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
