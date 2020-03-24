@@ -717,6 +717,24 @@
                 "Chrome"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-24T00:33:54.606Z",
+            "title": "Introduction to AntV / Jiazhe Wang / Observable",
+            "url": "https://observablehq.com/@jiazhewang/introduction-to-antv",
+            "content": "データビジュアライズライブラリのAntVについての紹介記事。\n",
+            "tags": [
+                "JavaScript",
+                "graphic",
+                "library",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "AntV team",
+                    "url": "https://github.com/antvis"
+                }
+            ]
         }
     ]
 }
