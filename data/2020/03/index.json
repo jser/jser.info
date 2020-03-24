@@ -735,6 +735,20 @@
                     "url": "https://github.com/antvis"
                 }
             ]
+        },
+        {
+            "date": "2020-03-24T07:36:08.396Z",
+            "title": "SecretlintでAPIトークンや秘密鍵などのコミットを防止する | Web Scratch",
+            "url": "https://efcl.info/2020/03/24/secretlint/",
+            "content": "ファイル内にAWSやGCPなどのCredentialsを含んでいないかチェックできるLintツール。\nDockerやNode.jsから利用できる。プロジェクトや個人環境にpre-commit hookで組み込んだり、CIでうっかり秘匿情報が入ってないかをチェックできる。\nルールはNode.jsで自作して追加できる。",
+            "tags": [
+                "security",
+                "node.js",
+                "Tools",
+                "Docker",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
