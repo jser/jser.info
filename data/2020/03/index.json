@@ -756,14 +756,15 @@
             ]
         },
         {
-            "date": "2020-03-25T11:10:39.064Z",
+            "date": "2020-03-25T11:10:47.003Z",
             "title": "Release v1.3.0 · reduxjs/redux-toolkit",
             "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v1.3.0",
             "content": "Redux Toolkit 1.3.0リリース。\nステートの正規化を管理を手助けする`createEntityAdapter`、非同期処理のパターンを提供する`createAsyncThunk`の追加。\nStoreのmutationを検知してエラー通知する仕組みの追加など",
             "tags": [
                 "redux",
                 "JavaScript",
-                "library"
+                "library",
+                "ReleaseNote"
             ],
             "relatedLinks": []
         }
