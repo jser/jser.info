@@ -827,6 +827,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-27T07:43:27.178Z",
+            "title": "Node v13.12.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v13.12.0/",
+            "content": "Node.js 13.12.0リリース。\nnpm 6.14.4へのアップデート、`Object.prototype.__proto__`の書き込みを無効化する`--disable-proto`オプションの追加など",
+            "tags": [
+                "node.js",
+                "rlee"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Disable __proto__ · Issue #31951 · nodejs/node",
+                    "url": "https://github.com/nodejs/node/issues/31951"
+                }
+            ]
         }
     ]
 }
