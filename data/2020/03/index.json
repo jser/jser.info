@@ -865,6 +865,17 @@
                 "mail"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-28T04:18:06.454Z",
+            "title": "Announcing TypeScript 3.9 Beta | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-3-9-beta/",
+            "content": "TypeScritp 3.9βリリース。\n`Promise.all`の型改善、`awaited` typeの追加、ビルドパフォーマンスの改善、Type Errorとなることを期待する`// @ts-expect-error`コメントの追加など。\nまた、ECMAScript仕様にあわせてGetter/Setterをトランスパイルするとenumerableだったのをnon-enumerableに変更するなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
