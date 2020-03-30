@@ -900,6 +900,24 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-03-30T13:19:49.079Z",
+            "title": "What’s new in react-query v1.0 - LogRocket Blog",
+            "url": "https://blog.logrocket.com/whats-new-in-react-query-v1-0/",
+            "content": "React Hooksで非同期処理を扱うreact-query 1.0の変更点について",
+            "tags": [
+                "JavaScript",
+                "React",
+                "library",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "tannerlinsley/react-query: ⚛️ Hooks for fetching, caching and updating asynchronous data in React",
+                    "url": "https://github.com/tannerlinsley/react-query"
+                }
+            ]
         }
     ]
 }
