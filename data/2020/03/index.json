@@ -918,6 +918,24 @@
                     "url": "https://github.com/tannerlinsley/react-query"
                 }
             ]
+        },
+        {
+            "date": "2020-03-30T13:29:31.322Z",
+            "title": "UI Fabric is evolving into Fluent UI - Microsoft 365 Developer Blog",
+            "url": "https://developer.microsoft.com/en-us/office/blogs/ui-fabric-is-evolving-into-fluent-ui/",
+            "content": "MSのUIフレームワークであるUI FabricがFluent UIにリネームした。\nパッケージネームも`@fluentui`のscopeで公開されるが、互換性のために`@uifabric`も公開され続ける。\nまた、今後のロードマップについて",
+            "tags": [
+                "JavaScript",
+                "React",
+                "library",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "microsoft/fluentui: We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.",
+                    "url": "https://github.com/microsoft/fluentui"
+                }
+            ]
         }
     ]
 }
