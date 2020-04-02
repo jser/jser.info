@@ -15,6 +15,18 @@
                 "webkit"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-04-02T14:25:21.243Z",
+            "title": "Lezer",
+            "url": "https://lezer.codemirror.net/",
+            "content": "インクリメンタルなパースを行うパーサシステムライブラリ。\n文法を定義し、パースをインクリメンタルに行いエラー復帰なども対応するパーサジェンレータ。\nエディタのシンタックスハイライトのような用途で利用でき、CodeMirrorチームによって開発されている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "AST"
+            ],
+            "relatedLinks": []
         }
     ]
 }
