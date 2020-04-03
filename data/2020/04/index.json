@@ -39,6 +39,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-04-03T12:25:34.089Z",
+            "title": "Release ES2020 Candidate · tc39/ecma262",
+            "url": "https://github.com/tc39/ecma262/releases/tag/es2020",
+            "content": "ES2020のリリース候補が公開された。\n`import.meta`もES2020に含まれている。",
+            "tags": [
+                "ECMAScript",
+                "spec",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
