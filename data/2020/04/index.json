@@ -27,6 +27,18 @@
                 "AST"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-04-03T11:42:42.190Z",
+            "title": "lirantal/npq: 🎖safely* install packages with npm or yarn by auditing them as part of your install process",
+            "url": "https://github.com/lirantal/npq",
+            "content": "npmやyarnでパッケージをインストールする際に、パッケージのダウンロード数、READMEのうむ、インストールスクリプト、Snykでのチェックを行うCLI",
+            "tags": [
+                "npm",
+                "console",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
