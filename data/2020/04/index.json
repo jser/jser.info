@@ -92,6 +92,19 @@
                     "url": "https://www.chromium.org/updates/same-site"
                 }
             ]
+        },
+        {
+            "date": "2020-04-04T05:52:51.950Z",
+            "title": "Keyboard Event Viewer",
+            "url": "https://w3c.github.io/uievents/tools/key-event-viewer.html",
+            "content": "JavaScriptのKeyboard Eventビューア",
+            "tags": [
+                "JavaScript",
+                "Keyboard",
+                "Tools",
+                "DOM"
+            ],
+            "relatedLinks": []
         }
     ]
 }
