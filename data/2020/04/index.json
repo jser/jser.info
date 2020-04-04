@@ -75,6 +75,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-04-04T05:00:26.764Z",
+            "title": "Chromium Blog: Temporarily rolling back SameSite Cookie Changes",
+            "url": "https://blog.chromium.org/2020/04/temporarily-rolling-back-samesite.html",
+            "content": "Chrome 80で段階的にロールアウトされていたデフォルトをSameSite=Laxとする変更を、一時的にロールバックしてデフォルトを変更しないようにするとのこと。\n再展開は夏を目標にしている。",
+            "tags": [
+                "Chrome",
+                "news",
+                "security"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "SameSite Updates - The Chromium Projects",
+                    "url": "https://www.chromium.org/updates/same-site"
+                }
+            ]
         }
     ]
 }
