@@ -105,6 +105,23 @@
                 "DOM"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-04-04T07:45:35.182Z",
+            "title": "ECMAScript proposal updates @ 2020-04 | ECMAScript Daily",
+            "url": "https://ecmascript-daily.github.io/ecmascript/2020/04/04/ecmascript-proposal-update",
+            "content": "2020-03から2020-04にかけて行われたTC39MTGで変更があったProposalのまとめ。\n`import.meta`がStage 4となり、ECMAScript 2020に含まれる。",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release ES2020 Candidate · tc39/ecma262",
+                    "url": "https://github.com/tc39/ecma262/releases/tag/es2020"
+                }
+            ]
         }
     ]
 }
