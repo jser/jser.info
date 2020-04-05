@@ -122,6 +122,18 @@
                     "url": "https://github.com/tc39/ecma262/releases/tag/es2020"
                 }
             ]
+        },
+        {
+            "date": "2020-04-05T07:52:31.686Z",
+            "title": "New WebKit Features in Safari 13.1 | WebKit",
+            "url": "https://webkit.org/blog/10247/new-webkit-features-in-safari-13-1/",
+            "content": "Safari 13.1の変更点について。\niPadOS 13.4でのPointer Eventsの対応。Web Animations API、Async Clipboard API、ResizeObserver、Picture-in-Pictureのサポート。\nES ProposalのNullish coalesing operator(`??`)のサポート、CSS Shadow Partsのサポート、ITPのアップデートなど\n",
+            "tags": [
+                "safari",
+                "webkit",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
