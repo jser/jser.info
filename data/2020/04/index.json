@@ -169,6 +169,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-04-07T01:37:16.552Z",
+            "title": "A QUIC Update for Node.js",
+            "url": "https://www.nearform.com/blog/a-quic-update-for-node-js/",
+            "content": "Node.jsでのQUICプロトコルの実装について。\nQUICの概要や、Node.js Coreに追加する目的で実装している `quic` モジュールについて",
+            "tags": [
+                "node.js",
+                "article",
+                "QUIC"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "nodejs/quic: Exploring a QUIC implementation for Node.js core",
+                    "url": "https://github.com/nodejs/quic"
+                }
+            ]
         }
     ]
 }
