@@ -186,6 +186,19 @@
                     "url": "https://github.com/nodejs/quic"
                 }
             ]
+        },
+        {
+            "date": "2020-04-08T17:41:10.032Z",
+            "title": "Release 10.4.0 · preactjs/preact",
+            "url": "https://github.com/preactjs/preact/releases/tag/10.4.0",
+            "content": "Preact 10.4.0リリース。\nvnodeの厳密な比較によるパフォーマンス改善、SSR時にhydrationがうまく行かなかった際のfallbackを追加など",
+            "tags": [
+                "React",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
