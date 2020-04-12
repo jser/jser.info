@@ -239,6 +239,17 @@
                     "url": "https://developer.mozilla.org/ja/docs/Mozilla/Firefox/Releases/75"
                 }
             ]
+        },
+        {
+            "date": "2020-04-12T05:12:10.776Z",
+            "title": "New in Chrome 81  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2020/04/nic81",
+            "content": "延期していたChrome 81リリース。\n次のChrome 82はスキップされ83が3週間早くリリースされる。\nBadging APIのサポート、Intl.DisplayNamesの実装、Origin TrialとしてWeb NFC APIの追加など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
