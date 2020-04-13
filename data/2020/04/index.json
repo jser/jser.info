@@ -291,6 +291,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-04-13T12:43:09.200Z",
+            "title": "WebSocketStream: integrating streams with the WebSocket API",
+            "url": "https://web.dev/websocketstream/",
+            "content": "PromiseベースであるWebSocketStream APIについての記事。\n`ReadableStream`や`WritableStream`などの基本的な使い方、Backpressureについて、Streamの閉じ方についてなど",
+            "tags": [
+                "WebSocket",
+                "strem",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
