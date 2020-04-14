@@ -317,17 +317,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-04-13T12:59:24.328Z",
-            "title": "JavaScript Primer 迷わないための入門書 | azu, Suguru Inatomi |本 | 通販 | Amazon",
-            "url": "https://www.amazon.co.jp/dp/4048930737/",
-            "content": "2020年4月27日発売\nJavaScriptの入門書。\nhttps://jsprimer.net/ の書籍版。",
-            "tags": [
-                "JavaScript",
-                "book"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2020-04-13T13:14:41.387Z",
             "title": "Under-the-hood of web bundlers (e.g. Webpack) - ITNEXT",
             "url": "https://itnext.io/under-the-hood-of-web-bundlers-e-g-webpack-926e868f7f5e",
@@ -361,6 +350,22 @@
                 "security"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-04-14T02:33:45.109Z",
+            "title": "JavaScript Primer 迷わないための入門書 | azu, Suguru Inatomi |本 | 通販 | Amazon",
+            "url": "https://www.amazon.co.jp/dp/4048930737/",
+            "content": "2020年4月27日発売\nJavaScriptの入門書。\nhttps://jsprimer.net/ の書籍版。",
+            "tags": [
+                "JavaScript",
+                "book"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "JavaScript Primerの書籍版が4月27日に発売予定です！ | Web Scratch",
+                    "url": "https://efcl.info/2020/04/14/pre-jsprimer/"
+                }
+            ]
         }
     ]
 }
