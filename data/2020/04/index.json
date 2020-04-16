@@ -377,6 +377,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-04-16T22:13:31.861Z",
+            "title": "Release v3.0.0 · puppeteer/puppeteer",
+            "url": "https://github.com/puppeteer/puppeteer/releases/tag/v3.0.0",
+            "content": "Puppeteer 3.0.0リリース。\nChromium 81にアップデート、Firefox Nightlyのバイナリをインストールできるように、Node.js 8のサポート終了など。\n",
+            "tags": [
+                "Chrome",
+                "Firefox",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
