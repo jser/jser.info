@@ -366,6 +366,17 @@
                     "url": "https://efcl.info/2020/04/14/pre-jsprimer/"
                 }
             ]
+        },
+        {
+            "date": "2020-04-16T12:49:58.186Z",
+            "title": "Node v13.13.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v13.13.0/",
+            "content": "Node.js 13.13.0リリース。\n`fs.readv`の追加、`fs.readSync`に`offset`と`length`オプションの追加、`dns.ALL`フラグの追加。\nHTTPヘッダサイズのデフォルト値を8KBから16KBに変更など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
