@@ -530,14 +530,16 @@
             ]
         },
         {
-            "date": "2020-04-19T14:28:13.085Z",
+            "date": "2020-04-19T14:28:25.598Z",
             "title": "Release v1.7.0 · pikapkg/snowpack",
             "url": "https://github.com/pikapkg/snowpack/releases/tag/v1.7.0",
             "content": "Snowpack 1.7.0リリース。\n`--env`のサポート、Babelプラグインの更新、JSXとTypeScriptのサポート。\nまた Snowpack 2.0に向けて変更予定について書かれている",
             "tags": [
                 "npm",
                 "browser",
-                "Tools"
+                "Tools",
+                "ReleaseNote",
+                "bundler"
             ],
             "relatedLinks": []
         }
