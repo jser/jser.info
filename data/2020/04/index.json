@@ -467,6 +467,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-04-19T11:42:03.689Z",
+            "title": "aeroheim/midori: library for animated image backgrounds",
+            "url": "https://github.com/aeroheim/midori",
+            "content": "Canvas/WebGLを使った背景画像のアニメーションを描画するライブラリ。\n読み込んだ背景画像に対してtransitionsやeffectsを設定できる。",
+            "tags": [
+                "JavaScript",
+                "WebGL",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
