@@ -455,6 +455,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-04-19T11:23:31.402Z",
+            "title": "AddyOsmani.com - Profiling React.js Performance",
+            "url": "https://addyosmani.com/blog/profiling-react-js/",
+            "content": "Reactアプリのレンダリングパフォーマンスの計測方法について。\nExperimentalなReact Profiler API、Interaction tracingを使った方法。\nPuppeteerやUser Timing API、Lighthouseを使ったReactに依存しない計測についてなど",
+            "tags": [
+                "React",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
