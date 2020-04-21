@@ -601,10 +601,10 @@
             ]
         },
         {
-            "date": "2020-04-21T23:31:35.693Z",
+            "date": "2020-04-21T23:32:48.309Z",
             "title": "zeit/swr: React Hooks library for remote data fetching",
             "url": "https://github.com/zeit/swr",
-            "content": "データの取得を有っ使うReact Hooksライブラリ。\nデータの取得、リトライ、`mutate`による再取得、定期的な取得、SSRの対応、Suspenseの対応など",
+            "content": "データの取得を扱うReact Hooksライブラリ。\nデータの取得、リトライ、`mutate`による再取得、定期的な取得、SSRの対応、Suspenseの対応など",
             "tags": [
                 "React",
                 "library",
