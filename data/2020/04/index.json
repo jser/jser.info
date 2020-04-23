@@ -647,7 +647,7 @@
             ]
         },
         {
-            "date": "2020-04-23T11:24:05.749Z",
+            "date": "2020-04-23T11:24:18.843Z",
             "title": "Node v14.0.0 (Current) | Node.js",
             "url": "https://nodejs.org/en/blog/release/v14.0.0/",
             "content": "Node.js 14.0.0リリース。\nV8 8.1へアップデート、Diagnostic ReportがStableに、`fs/promises`の追加など。\nExperimentalとしてWASIのサポート、ECMAScript ModulesのExperimental Warningの削除など",
@@ -659,6 +659,10 @@
                 {
                     "title": "Node.js version 14 available now - Node.js - Medium",
                     "url": "https://medium.com/@nodejs/node-js-version-14-available-now-8170d384567e"
+                },
+                {
+                    "title": "Node.js v14の主な変更点 - 別にしんどくないブログ",
+                    "url": "https://shisama.hatenablog.com/entry/2020/04/22/011221"
                 }
             ]
         }
