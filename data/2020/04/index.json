@@ -628,6 +628,23 @@
                     "url": "https://github.com/szmarczak/cacheable-lookup"
                 }
             ]
+        },
+        {
+            "date": "2020-04-23T09:38:41.025Z",
+            "title": "node-fetch v3 beta is out! - Antoni Kepinski - Medium",
+            "url": "https://medium.com/@kepinski/node-fetch-v3-beta-is-out-9fbb8091999",
+            "content": "node-fetch 3の変更予定について。\nNode.js 10未満のサポート終了、`browser`フィールドの削除、`res.textConverted()`の削除。\nData URLのサポート、`Blob`の実装、UTF8 URLハンドリングの改善、`highWaterMark`オプションの追加など",
+            "tags": [
+                "node.js",
+                "HTTP",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "node-fetch/node-fetch: A light-weight module that brings window.fetch to Node.js",
+                    "url": "https://github.com/node-fetch/node-fetch"
+                }
+            ]
         }
     ]
 }
