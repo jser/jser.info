@@ -645,6 +645,22 @@
                     "url": "https://github.com/node-fetch/node-fetch"
                 }
             ]
+        },
+        {
+            "date": "2020-04-23T11:24:05.749Z",
+            "title": "Node v14.0.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v14.0.0/",
+            "content": "Node.js 14.0.0リリース。\nV8 8.1へアップデート、Diagnostic ReportがStableに、`fs/promises`の追加など。\nExperimentalとしてWASIのサポート、ECMAScript ModulesのExperimental Warningの削除など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Node.js version 14 available now - Node.js - Medium",
+                    "url": "https://medium.com/@nodejs/node-js-version-14-available-now-8170d384567e"
+                }
+            ]
         }
     ]
 }
