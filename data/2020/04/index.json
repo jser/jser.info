@@ -665,6 +665,20 @@
                     "url": "https://shisama.hatenablog.com/entry/2020/04/22/011221"
                 }
             ]
+        },
+        {
+            "date": "2020-04-24T21:38:13.904Z",
+            "title": "developit/web-worker: Consistent Web Workers in browser and Node.",
+            "url": "https://github.com/developit/web-worker",
+            "content": "UniversalなWebWorkerライブラリ。\nNode.jsの`worker_threads`とブラウザの`Worker`に対応している。",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "browser",
+                "webworker",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
