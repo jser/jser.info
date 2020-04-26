@@ -691,6 +691,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-04-26T12:17:05.586Z",
+            "title": "Release 1.0.0 · markedjs/marked",
+            "url": "https://github.com/markedjs/marked/releases/tag/v1.0.0",
+            "content": "Markdownパーサ、コンパイラのmarked 1.0.0リリース。\n`marked.use`でパーサに対してカスタマイズ処理ができるように",
+            "tags": [
+                "Markdown",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
