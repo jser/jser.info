@@ -766,6 +766,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-04-27T15:28:44.812Z",
+            "title": "Release Notes for Safari Technology Preview 105 | WebKit",
+            "url": "https://webkit.org/blog/10428/release-notes-for-safari-technology-preview-105/",
+            "content": "Safari Technology Preview 105リリース。\n仕様に準拠して`type=module`の`cross-origin`のデフォルト値を`anonymous`に変更。\nStage 3のES Proposalであるproposal-logical-assignmentを実装など",
+            "tags": [
+                "safari",
+                "webkit",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "tc39/proposal-logical-assignment: A proposal to combine Logical Operators and Assignment Expressions",
+                    "url": "https://github.com/tc39/proposal-logical-assignment"
+                }
+            ]
         }
     ]
 }
