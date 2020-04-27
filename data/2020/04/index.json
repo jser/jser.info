@@ -719,6 +719,23 @@
                     "url": "https://github.com/mysticatea/eslint-plugin-node"
                 }
             ]
+        },
+        {
+            "date": "2020-04-27T14:02:46.034Z",
+            "title": "Release 10.0.0 · highlightjs/highlight.js",
+            "url": "https://github.com/highlightjs/highlight.js/releases/tag/10.0.0",
+            "content": "シンタックスハイライトライブラリのhighlight.js 10.0.0リリース。\nコードベースをES2015似変更しIEのサポート終了。\n`before:highlight`、`after:highlight` プラグインAPIの追加、それぞれの言語に`name`属性を追加など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "highlight.js/VERSION_10_BREAKING_CHANGES.md at master · highlightjs/highlight.js",
+                    "url": "https://github.com/highlightjs/highlight.js/blob/master/VERSION_10_BREAKING_CHANGES.md"
+                }
+            ]
         }
     ]
 }
