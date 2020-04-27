@@ -753,6 +753,19 @@
                     "url": "https://crank.js.org/blog/introducing-crank"
                 }
             ]
+        },
+        {
+            "date": "2020-04-27T15:15:14.156Z",
+            "title": "mohebifar/vidact: A compiler that converts React-compatible codes to VanillaJS with no Virtual DOM",
+            "url": "https://github.com/mohebifar/vidact",
+            "content": "ReactライクなコードをプレーンなJavaScriptに変換するコンパイラとランタイム。\nSvelteと似たコンセプトで、Babelプラインとして実装したコンパイラでReact/JSXなコードを同等のDOM表現に変換する目的",
+            "tags": [
+                "babel",
+                "React",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
