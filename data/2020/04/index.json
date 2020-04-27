@@ -736,6 +736,23 @@
                     "url": "https://github.com/highlightjs/highlight.js/blob/master/VERSION_10_BREAKING_CHANGES.md"
                 }
             ]
+        },
+        {
+            "date": "2020-04-27T14:55:46.856Z",
+            "title": "bikeshaving/crank: Write JSX-driven components with functions, promises and generators.",
+            "url": "https://github.com/bikeshaving/crank",
+            "content": "ReactのようにJSXでコンポーネントを扱うライブラリ。\n非同期コンポーネントをPromiseとGeneratorを使って扱えるようにしている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "React"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Crank.js | Introducing Crank",
+                    "url": "https://crank.js.org/blog/introducing-crank"
+                }
+            ]
         }
     ]
 }
