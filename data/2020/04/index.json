@@ -808,6 +808,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-04-28T00:52:54.146Z",
+            "title": "A Taste of WebGPU in Firefox - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/",
+            "content": "WebGPUについての記事。\nWebGLとWebGPUの違い、コンテキストの分離、パイプラインの状態のカプセル化、バインディングモデルについて。\nまたFirefoxのWebGPU実装について",
+            "tags": [
+                "WebGL",
+                "WebGPU",
+                "Firebug"
+            ],
+            "relatedLinks": []
         }
     ]
 }
