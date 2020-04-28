@@ -795,6 +795,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-04-28T00:44:37.861Z",
+            "title": "The Cost of Javascript Frameworks - Web Performance Consulting | TimKadlec.com",
+            "url": "https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/",
+            "content": "HTTP Archiveのデータを元にjQuery、Vue、Angular、Reactを使っているサイトでのメトリクスの比較について。\nそれぞれのライブラリを利用しているサイトのファイルサイズ、モバイル/デスクトップでのCPU消費時間について。\nまたjQueryと組み合わせているサイトとそうでないサイトの比較。\nReact単独のサイトではメインスレッドのCPU処理が増える傾向について",
+            "tags": [
+                "browser",
+                "JavaScript",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
