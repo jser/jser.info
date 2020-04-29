@@ -820,6 +820,17 @@
                 "Firebug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-04-29T04:39:53.118Z",
+            "title": "Node v12.16.3 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v12.16.3/",
+            "content": "Node.js 12.16.3リリース。\nExperimentalで実装されているconditional exportsに関するwarningメッセージが削除された",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
