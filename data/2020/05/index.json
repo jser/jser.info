@@ -1,15 +1,16 @@
 {
     "list": [
         {
-            "date": "2020-05-01T07:35:29.356Z",
+            "date": "2020-05-01T07:35:51.251Z",
             "title": "rinsuki/play-flv-in-browser: Play FLV in Browser!",
             "url": "https://github.com/rinsuki/play-flv-in-browser",
-            "content": "ffmepgをWebAssemblyにコンパイルしたものを使ってflv/mp4を再生するデモ",
+            "content": "ffmepgをWebAssemblyにコンパイルしたものを使ってflv/mp4をブラウザで再生するデモ",
             "tags": [
                 "flash",
                 "video",
                 "WebAssembly",
-                "JavaScript"
+                "JavaScript",
+                "browser"
             ],
             "relatedLinks": []
         }
