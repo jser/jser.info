@@ -24,6 +24,19 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-03T12:54:03.156Z",
+            "title": "addaleax/gen-esm-wrapper: Generate ESM wrapper files for CommonJS modules",
+            "url": "https://github.com/addaleax/gen-esm-wrapper",
+            "content": "CommonJSからESM Wrapperを生成するツール",
+            "tags": [
+                "node.js",
+                "CommonJS",
+                "ECMAScript",
+                "module"
+            ],
+            "relatedLinks": []
         }
     ]
 }
