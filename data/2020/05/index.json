@@ -64,6 +64,18 @@
                     "url": "https://github.com/WebAssembly/wabt/blob/master/docs/decompiler.md"
                 }
             ]
+        },
+        {
+            "date": "2020-05-04T16:54:50.754Z",
+            "title": "jesseduffield/lazynpm: terminal UI for npm",
+            "url": "https://github.com/jesseduffield/lazynpm",
+            "content": "lazygit, lazydockerライクなnpmのターミナルUIツール。\nパッケージの情報表示、パッケージの管理、スクリプトの実行など",
+            "tags": [
+                "npm",
+                "console",
+                "UI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
