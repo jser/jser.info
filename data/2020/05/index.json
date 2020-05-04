@@ -48,6 +48,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-04T09:07:32.590Z",
+            "title": "What’s in that .wasm? Introducing: wasm-decompile · V8",
+            "url": "https://v8.dev/blog/wasm-decompile",
+            "content": "`wasm-decompile`でのWebAssemblyのデコンパイルについて",
+            "tags": [
+                "WebAssembly",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
