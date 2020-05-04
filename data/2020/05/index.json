@@ -50,7 +50,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-05-04T09:07:32.590Z",
+            "date": "2020-05-04T09:07:41.973Z",
             "title": "What’s in that .wasm? Introducing: wasm-decompile · V8",
             "url": "https://v8.dev/blog/wasm-decompile",
             "content": "`wasm-decompile`でのWebAssemblyのデコンパイルについて",
@@ -58,7 +58,12 @@
                 "WebAssembly",
                 "article"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "wabt/decompiler.md at master · WebAssembly/wabt",
+                    "url": "https://github.com/WebAssembly/wabt/blob/master/docs/decompiler.md"
+                }
+            ]
         }
     ]
 }
