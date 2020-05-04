@@ -37,6 +37,17 @@
                 "module"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-04T09:06:14.297Z",
+            "title": "Announcing TypeScript 3.9 RC | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-3-9-rc/",
+            "content": "TypeScript 3.9 RCリリース。\n`Promise.all`の型改善、ビルドパフォーマンスの改善、Type Errorとなることを期待する`// @ts-expect-error`コメントの追加など。 また、ECMAScript仕様にあわせてGetter/Setterをトランスパイルするように変更など\n`awaited` typeは延期",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
