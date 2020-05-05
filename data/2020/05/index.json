@@ -76,6 +76,17 @@
                 "UI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-05T15:24:46.431Z",
+            "title": "jQuery 3.5.1 Released: Fixing a Regression | Official jQuery Blog",
+            "url": "http://blog.jquery.com/2020/05/04/jquery-3-5-1-released-fixing-a-regression/",
+            "content": "jQuery 3.5.1リリース。\njQuery 3.5.0でのリグレッションを修正。3.5ではXSSに対するセキュリティ修正のため、意図的に後方互換性がない部分も含まれる",
+            "tags": [
+                "jQuery",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
