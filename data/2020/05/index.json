@@ -109,6 +109,30 @@
                     "url": "https://github.com/GoogleChrome/web-vitals-extension"
                 }
             ]
+        },
+        {
+            "date": "2020-05-06T12:06:28.524Z",
+            "title": "Firefox 76: Audio worklets and other tricks - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2020/05/firefox-76-audio-worklets-and-other-tricks/",
+            "content": "Firefox 76リリース。\n開発者ツールの改善、Audio workletsのサポート、CSS System Colorsのサポート、未知のプロトコルへのNavigation移動をブロックするように変更など",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 76 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/76"
+                },
+                {
+                    "title": "Firefox 76 Site Compatibility | Firefox Site Compatibility",
+                    "url": "https://www.fxsitecompat.dev/en-CA/releases/76/"
+                },
+                {
+                    "title": "Firefox 76.0, See All New Features, Updates and Fixes",
+                    "url": "https://www.mozilla.org/en-US/firefox/76.0/releasenotes/"
+                }
+            ]
         }
     ]
 }
