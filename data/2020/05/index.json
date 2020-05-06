@@ -87,6 +87,28 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-06T08:08:35.827Z",
+            "title": "Web Vitals",
+            "url": "https://web.dev/vitals/",
+            "content": "ウェブページのパフォーマンス計測の重なメトリクスをCore Web Vitalsとしてまとめたという話。\nCore Web VitalsはLargest Contentful Paint(LCP)、First Input Delay(FID)、Cumulative Layout Shift(CLS)。\n同時に`web-vitals`というそれぞれのメトリクスを計測できるライブラリも提供し、 PageSpeed InsightsやSearch Consoleなどもそれぞれ対応していく予定",
+            "tags": [
+                "Chrome",
+                "performance",
+                "article",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "GoogleChrome/web-vitals-extension: A Chrome extension to measure essential metrics for a healthy site",
+                    "url": "https://github.com/GoogleChrome/web-vitals-extension"
+                },
+                {
+                    "title": "GoogleChrome/web-vitals-extension: A Chrome extension to measure essential metrics for a healthy site",
+                    "url": "https://github.com/GoogleChrome/web-vitals-extension"
+                }
+            ]
         }
     ]
 }
