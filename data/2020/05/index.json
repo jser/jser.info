@@ -194,6 +194,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-07T04:32:10.516Z",
+            "title": "Improved Next.js and Gatsby page load performance with granular chunking",
+            "url": "https://web.dev/granular-chunking-nextjs/",
+            "content": "webpackの`SplitChunksPlugin`を行うことでNext.js 9.2やGatsbyのページ間でのCommon chunkを分けた話。\nHTTP/2における`maxInitialRequests`の設定によるcリクエスト数の増加の影響調査、ルーティングとchunkの分離についてなど",
+            "tags": [
+                "webpack",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "feat(gatsby): enable granular chunks by wardpeet · Pull Request #22253 · gatsbyjs/gatsby",
+                    "url": "https://github.com/gatsbyjs/gatsby/pull/22253"
+                }
+            ]
         }
     ]
 }
