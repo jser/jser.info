@@ -89,28 +89,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-05-06T08:08:35.827Z",
-            "title": "Web Vitals",
-            "url": "https://web.dev/vitals/",
-            "content": "ウェブページのパフォーマンス計測の重なメトリクスをCore Web Vitalsとしてまとめたという話。\nCore Web VitalsはLargest Contentful Paint(LCP)、First Input Delay(FID)、Cumulative Layout Shift(CLS)。\n同時に`web-vitals`というそれぞれのメトリクスを計測できるライブラリも提供し、 PageSpeed InsightsやSearch Consoleなどもそれぞれ対応していく予定",
-            "tags": [
-                "Chrome",
-                "performance",
-                "article",
-                "JavaScript"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "GoogleChrome/web-vitals-extension: A Chrome extension to measure essential metrics for a healthy site",
-                    "url": "https://github.com/GoogleChrome/web-vitals-extension"
-                },
-                {
-                    "title": "GoogleChrome/web-vitals-extension: A Chrome extension to measure essential metrics for a healthy site",
-                    "url": "https://github.com/GoogleChrome/web-vitals-extension"
-                }
-            ]
-        },
-        {
             "date": "2020-05-06T12:06:28.524Z",
             "title": "Firefox 76: Audio worklets and other tricks - Mozilla Hacks - the Web developer blog",
             "url": "https://hacks.mozilla.org/2020/05/firefox-76-audio-worklets-and-other-tricks/",
@@ -208,6 +186,28 @@
                 {
                     "title": "feat(gatsby): enable granular chunks by wardpeet · Pull Request #22253 · gatsbyjs/gatsby",
                     "url": "https://github.com/gatsbyjs/gatsby/pull/22253"
+                }
+            ]
+        },
+        {
+            "date": "2020-05-07T04:41:11.271Z",
+            "title": "Web Vitals",
+            "url": "https://web.dev/vitals/",
+            "content": "ウェブページのパフォーマンス計測の重なメトリクスをCore Web Vitalsとしてまとめたという話。\nCore Web VitalsはLargest Contentful Paint(LCP)、First Input Delay(FID)、Cumulative Layout Shift(CLS)。\n同時に`web-vitals`というそれぞれのメトリクスを計測できるライブラリも提供し、 PageSpeed InsightsやSearch Consoleなどもそれぞれ対応していく予定",
+            "tags": [
+                "Chrome",
+                "performance",
+                "article",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "GoogleChrome/web-vitals: Essential metrics for a healthy site.",
+                    "url": "https://github.com/GoogleChrome/web-vitals"
+                },
+                {
+                    "title": "GoogleChrome/web-vitals-extension: A Chrome extension to measure essential metrics for a healthy site",
+                    "url": "https://github.com/GoogleChrome/web-vitals-extension"
                 }
             ]
         }
