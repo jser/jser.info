@@ -146,6 +146,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-07T03:51:56.961Z",
+            "title": "antfu/i18n-ally: 🌍 All in one i18n extension for VS Code",
+            "url": "https://github.com/antfu/i18n-ally",
+            "content": "VSCode上に作られたi18n編集システム。\nエディタ上で翻訳キーの代わりに翻訳結果の表示などローカライズの支援をする拡張機能。\nさまざまなフレームワークに対応している",
+            "tags": [
+                "VSCode",
+                "i18n",
+                "Extension",
+                "EmEditor"
+            ],
+            "relatedLinks": []
         }
     ]
 }
