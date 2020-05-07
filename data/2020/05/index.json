@@ -133,6 +133,19 @@
                     "url": "https://www.mozilla.org/en-US/firefox/76.0/releasenotes/"
                 }
             ]
+        },
+        {
+            "date": "2020-05-07T03:45:15.416Z",
+            "title": "Jest 26: Tick Tock · Jest",
+            "url": "https://jestjs.io/blog/2020/05/05/jest-26",
+            "content": "Jest 26リリース。\n`@sinonjs/fake-timers`ベースの新しいFake Timerの追加、`it`や`describe`などをexportする`@jest/globals`の追加、Native ESMのサポートなど。\nいくつかのコアモジュールでES5のビルドを提供しないように変更し、Node.js 8未満のサポートを終了。\n今後の変更として、Jest 27でデフォルトのtestRunner\"jest-circus\"に変更しenvironmentを\"node\"に変更する。\nまた、Jest 28で\"jest-jasmine2\"と\"jest-environment-jsdom\"を削除予定。",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
