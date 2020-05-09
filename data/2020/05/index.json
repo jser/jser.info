@@ -317,6 +317,23 @@
                     "url": "https://github.com/npm/arborist"
                 }
             ]
+        },
+        {
+            "date": "2020-05-09T14:04:29.562Z",
+            "title": "An in-depth guide to performance optimization with webpack - LogRocket Blog",
+            "url": "https://blog.logrocket.com/guide-performance-optimization-webpack/",
+            "content": "webpackでのbundleサイズの分析、改善方法についてのチュートリアル。\nエントリポイントの分離、サードパーティライブラリの分離、chunkのグループ化、ルーティングごとのcode splitting、`runtimeChunk`でのmanifestファイルの統一。\nexternalsでのCDNの利用、Tree ShakingでDead Code削除、Performance Budgetの設定などをステップごとに見ていく記事",
+            "tags": [
+                "webpack",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "doppelmutzi/react-performance-strategies at manifest-splitting",
+                    "url": "https://github.com/doppelmutzi/react-performance-strategies/tree/manifest-splitting"
+                }
+            ]
         }
     ]
 }
