@@ -270,6 +270,26 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-09T09:00:07.952Z",
+            "title": "ESLint v7.0.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2020/05/eslint-v7.0.0-released",
+            "content": "ESLint 7.0.0リリース。\n破壊的な変更としてNode.js 8以下のサポート終了、`eslint:recommended`の更新、ルールの更新、デフォルトの無視ファイルの変更など。\n非同期処理に対応した`ESLint`クラスの追加、ディレクティブコメントに説明が書けるようになるなど",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESLint v7.0.0 の変更点まとめ - Qiita",
+                    "url": "https://qiita.com/mysticatea/items/0931a7d910fcb91733ee"
+                },
+                {
+                    "title": "Migrating to v7.0.0 - ESLint - Pluggable JavaScript linter",
+                    "url": "https://eslint.org/docs/user-guide/migrating-to-7.0.0"
+                }
+            ]
         }
     ]
 }
