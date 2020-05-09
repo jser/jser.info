@@ -290,6 +290,17 @@
                     "url": "https://eslint.org/docs/user-guide/migrating-to-7.0.0"
                 }
             ]
+        },
+        {
+            "date": "2020-05-09T09:10:32.194Z",
+            "title": "Node v14.2.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v14.2.0/",
+            "content": "Node v14.2.0リリース。\nNode内部メソッドの`common.mustCall() `を`assert.CallTracker`として試験的に利用できるように。\nWorkerに`stackSizeMb`オプションの追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
