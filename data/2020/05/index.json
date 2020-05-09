@@ -256,6 +256,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-09T08:50:04.610Z",
+            "title": "Rebuilding our tech stack for a new Facebook.com - Facebook Engineering",
+            "url": "https://engineering.fb.com/web/facebook-redesign/",
+            "content": "Facebook.com のりデザインにおけるパフォーマンス改善について。\nAtomicなCSSを生成して初期ロードに必要なCSSの削減、`rem`を使ったフォントサイズコントール。\nSVGをReactコンポーネントとしてロード、Dynamic Importを使ったコンポーネントの動的ロード、JavaScript Budgetの導入、GraphQLを使ったラウンドトリップの削減など",
+            "tags": [
+                "facebook",
+                "React",
+                "CSS",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
