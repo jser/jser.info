@@ -301,6 +301,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-09T09:31:02.845Z",
+            "title": "The npm Blog — npm v7 Series - Introduction",
+            "url": "https://blog.npmjs.org/post/617484925547986944/npm-v7-series-introduction",
+            "content": "npm 7のロードマップについて。\narboristを使った依存関係の分析の刷新、`peerDependencies`の自動インストール、`acceptDependencies`のサポート。\nまた`package-lock.json`の形式変更と`yarn.lock`に関する処理の追加。workspaces機能(yarn workspaces相当)、overrides機能(yarnのresolusions相当)の追加、段階的な公開を行う`--stage`オプションの追加など",
+            "tags": [
+                "npm",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "npm/arborist: npm's tree doctor",
+                    "url": "https://github.com/npm/arborist"
+                }
+            ]
         }
     ]
 }
