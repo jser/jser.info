@@ -212,19 +212,6 @@
             ]
         },
         {
-            "date": "2020-05-08T02:24:37.661Z",
-            "title": "shqld/tish: A typescript utils for shell operations. Totally Promise, Multi-platform, Optimized, Lazy✌️",
-            "url": "https://github.com/shqld/tish",
-            "content": "シェルスクリプト的なことTypeScriptで書けるutilライブラリ",
-            "tags": [
-                "JavaScript",
-                "TypeScript",
-                "ShellScript",
-                "library"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2020-05-08T14:02:07.090Z",
             "title": "Distributed Node.js - O'Reilly Media",
             "url": "http://shop.oreilly.com/product/0636920342762.do",
@@ -413,6 +400,19 @@
             "tags": [
                 "React",
                 "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2020-05-11T23:03:30.208Z",
+            "title": "shqld/tish: A typescript utils for shell operations. Totally Promise, Multi-platform, Optimized, Lazy✌️",
+            "url": "https://github.com/shqld/tish",
+            "content": "シェルスクリプトのような処理をTypeScriptで書けるutilライブラリ。\nコマンドの実行やパイプ処理などを扱う",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "ShellScript",
                 "library"
             ],
             "relatedLinks": []
