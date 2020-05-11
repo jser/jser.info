@@ -404,6 +404,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-11T22:59:47.210Z",
+            "title": "Blog - Next.js 9.4 | Next.js",
+            "url": "https://nextjs.org/blog/next-9-4",
+            "content": "Next.js 9.4リリース。\nFast Refreshをデフォルトで有効化、`stale-while-revalidate`ライクな Incremental Static Regenerationをベータサポート。\nNode.js側にも`fetch`を自動的にpolfyill、`reportWebVitals`のサポート、Absolute ImportsとAliasesのサポートなど",
+            "tags": [
+                "React",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
