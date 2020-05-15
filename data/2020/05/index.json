@@ -427,6 +427,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-15T13:50:23.031Z",
+            "title": "Release Notes for Safari Technology Preview 106 | WebKit",
+            "url": "https://webkit.org/blog/10580/release-notes-for-safari-technology-preview-106/",
+            "content": "Safari Technology Preview 106リリース。\nCSSの`:where()` pseudo-classのサポート、ES2020のBigIntをサポート、`Intl.RelativeTimeFormat`のサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
