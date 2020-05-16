@@ -438,6 +438,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-16T02:32:12.526Z",
+            "title": "Raynos/npm-bin-deps: NPR allows you to run your CLI dependencies without having a copy in node_modules.",
+            "url": "https://github.com/Raynos/npm-bin-deps",
+            "content": "npm run-scriptからコマンドとして利用するパッケージを`package.json`に`binDependencies`として定義して、利用するツール",
+            "tags": [
+                "npm",
+                "node.js",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
