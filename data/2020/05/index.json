@@ -535,6 +535,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-16T08:08:49.974Z",
+            "title": "sandersn/downlevel-dts: Convert a new d.ts to one that works with older versions of Typescript",
+            "url": "https://github.com/sandersn/downlevel-dts",
+            "content": "TypeScriptの型定義のダウングレードを行うツール。\nTypeScriptの古い機能を使って新しい機能を再現するように型定義を変換するツール",
+            "tags": [
+                "TypeScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
