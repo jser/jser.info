@@ -474,6 +474,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-16T04:34:05.245Z",
+            "title": "Deno 1.0",
+            "url": "https://deno.land/v1",
+            "content": "Deno 1.0リリース。\nV8を使ったJavaScript/TypeScriptランタイム。\nオプトインで機能を有効化でき、formatterなどを同梱していて、Go言語ライクなStandard libraryを持っている。",
+            "tags": [
+                "deno",
+                "ReleaseNote",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
