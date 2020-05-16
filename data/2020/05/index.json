@@ -450,6 +450,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-16T02:40:57.730Z",
+            "title": "How to use prefers-reduced-motion in React · Josh W Comeau",
+            "url": "https://joshwcomeau.com/react/prefers-reduced-motion/",
+            "content": "Reactで`prefers-reduced-motion`を利用したアニメーションの削減を実装する方法について。\nReact hooksを使った実装、SSRを考慮したパターンについて",
+            "tags": [
+                "React",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
