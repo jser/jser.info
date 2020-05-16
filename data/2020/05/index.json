@@ -486,6 +486,18 @@
                 "node.js"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-16T05:51:06.052Z",
+            "title": "What's New In DevTools (Chrome 84)  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2020/05/devtools",
+            "content": "Chrome 84の開発者ツールの変更点について。\nパフォーマンスパネルにWeb Vitalsを反映した項目の追加、PromiseオブジェクトのStatusをコンソールに表示するように、CSS `revert` プロパティのサポートなど",
+            "tags": [
+                "Chrome",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
