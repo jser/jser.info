@@ -523,6 +523,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-16T06:42:40.923Z",
+            "title": "How an anti ad-blocker works: Reverse-engineering BlockAdBlock",
+            "url": "https://xy2.dev/article/re-bab/",
+            "content": "AdBlockのBlockerの実装を見ていく話。",
+            "tags": [
+                "ad ",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
