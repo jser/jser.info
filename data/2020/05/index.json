@@ -604,6 +604,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-18T12:12:53.311Z",
+            "title": "Fast and reliable cross-browser testing with Playwright 🎭",
+            "url": "https://medium.com/@arjunattam/fast-and-reliable-cross-browser-testing-with-playwright-155c0e8a821f",
+            "content": "Playwright 1.0.0リリース。\nChrome、Firefox、SafariをサポートしたPuppeteer-likeなAPIを持つクスブラウザテストフレームワーク。\n時間ではなくイベントに対して待機できる仕組み、複数のページをまたいだコンテキストの定義、さまざまなブラウザAPIに対応している",
+            "tags": [
+                "browser",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
