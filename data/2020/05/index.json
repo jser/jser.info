@@ -617,6 +617,32 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-20T14:26:40.281Z",
+            "title": "What's New in Lighthouse 6.0",
+            "url": "https://web.dev/lighthouse-whats-new-6.0/",
+            "content": "Lighthouse 6.0リリース。\nWeb Vitalsに基づく新しいメトリクスとしてLCP/CLSの追加、Performanceスコア計算の変更。\n新しいAuditsとして、Unused JavaScript、axe-coreベースのAccessibility Auditなどの追加。\nLighthouse拡張はPageSpeed Insights APIを使うように変更など",
+            "tags": [
+                "browser",
+                "Chrome",
+                "performance",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v6.0.0 · GoogleChrome/lighthouse",
+                    "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v6.0.0"
+                },
+                {
+                    "title": "Lighthouse Scoring calculator",
+                    "url": "https://googlechrome.github.io/lighthouse/scorecalc/"
+                },
+                {
+                    "title": "GoogleChrome/lighthouse-ci: Automate running Lighthouse for every commit, viewing the changes, and preventing regressions",
+                    "url": "https://github.com/GoogleChrome/lighthouse-ci"
+                }
+            ]
         }
     ]
 }
