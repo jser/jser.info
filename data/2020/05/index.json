@@ -643,6 +643,17 @@
                     "url": "https://github.com/GoogleChrome/lighthouse-ci"
                 }
             ]
+        },
+        {
+            "date": "2020-05-21T13:36:35.690Z",
+            "title": "Node v14.3.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v14.3.0/",
+            "content": "Node.js 14.3.0リリース。\nREPLでoutput previewの改善、Top-Level Awaitのサポートなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
