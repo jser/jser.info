@@ -654,6 +654,16 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-21T14:04:16.953Z",
+            "title": "Preparing for AppCache removal",
+            "url": "https://web.dev/appcache-removal/",
+            "content": "ChromeのAppCache削除プラン。\nChrome 90で完全に消える予定。\nChrome on iOSではService Workerが使えないため、代用方法はない環境もある。他のブラウザでのAppCacheの削除予定についてなど",
+            "tags": [
+                "Chrome"
+            ],
+            "relatedLinks": []
         }
     ]
 }
