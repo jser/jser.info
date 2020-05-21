@@ -664,6 +664,22 @@
                 "Chrome"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-21T14:13:32.765Z",
+            "title": "New in Chrome 83  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2020/05/nic83",
+            "content": "Chrome 83リリース。\nTrusted Typesのサポート、フォームコントロールUIのアップデート、COOPとCOEPの実装。\nOrigin Trialとして`performance.measureMemory()`や`Scheduler.postTask()`の追加。\nその他にはBarcode Detection APIやCSS ` prefers-color-scheme`のサポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chromium Blog: Chrome 83 Beta: Cross-site Scripting Protection, Improved Form Controls, and Safe Cross-origin Resource Sharing",
+                    "url": "https://blog.chromium.org/2020/04/chrome-83-beta-cross-site-scripting.html"
+                }
+            ]
         }
     ]
 }
