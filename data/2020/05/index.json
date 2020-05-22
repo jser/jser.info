@@ -693,6 +693,18 @@
             ],
             "viaURL": "https://github.com/jser/ping/issues/160",
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-22T23:35:28.693Z",
+            "title": "Electron 9.0.0 | Electron Blog",
+            "url": "https://www.electronjs.org/blog/electron-9-0",
+            "content": "Electron 9.0.0リリース。\nChromium 83、Node 12.14、V8 8.3へアップデート。\n`enableRemoteModle`オプションを使わずに`remote`モジュールを使うことを非推奨化、`app.enableRendererProcessReuse`をデフォルトで`true`に変更など。\nその他には、スペルチェッカーの改善、PDFビューアの有効化など",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://github.com/jser/ping/issues/160",
+            "relatedLinks": []
         }
     ]
 }
