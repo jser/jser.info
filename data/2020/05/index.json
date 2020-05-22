@@ -680,6 +680,19 @@
                     "url": "https://blog.chromium.org/2020/04/chrome-83-beta-cross-site-scripting.html"
                 }
             ]
+        },
+        {
+            "date": "2020-05-22T12:35:29.485Z",
+            "title": "Release v3.0.0 · typescript-eslint/typescript-eslint",
+            "url": "https://github.com/typescript-eslint/typescript-eslint/releases/tag/v3.0.0",
+            "content": "typescript-eslint 3.0.0リリース。\nESLint 7をサポート、TS 3.9のサポート。 \nNode.js 8とTypeScript 3.2のサポート終了。\n`recommended`と`recommended-requiring-typechecking`が`eslint-recommended`を継承するように変更。\nルールのデフォルト値の変更、Deprecatedなルールの削除など。\n",
+            "tags": [
+                "TypeScript",
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://github.com/jser/ping/issues/160",
+            "relatedLinks": []
         }
     ]
 }
