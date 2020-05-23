@@ -718,6 +718,20 @@
             ],
             "viaURL": "https://github.com/jser/ping/issues/160",
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-23T13:30:16.854Z",
+            "title": "Chromium Blog: The Science Behind Web Vitals",
+            "url": "https://blog.chromium.org/2020/05/the-science-behind-web-vitals.html",
+            "content": "Web Vitalsの背景にあるUX調査について。\nLCPの2.5秒未満、CLSの0.1未満、FIDの100ミリ秒未満の推奨値の算出に関する調査についてまとめた記事",
+            "tags": [
+                "performance",
+                "Chrome",
+                "browser",
+                "article"
+            ],
+            "viaURL": "https://github.com/jser/ping/issues/160",
+            "relatedLinks": []
         }
     ]
 }
