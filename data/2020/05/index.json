@@ -732,6 +732,19 @@
             ],
             "viaURL": "https://github.com/jser/ping/issues/160",
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-24T03:17:00.851Z",
+            "title": "Site Isolation 及び Web のセキュリティモデルの更新 | blog.jxck.io",
+            "url": "https://blog.jxck.io/entries/2020-05-22/site-isolation.html",
+            "content": "異なるサイトのコードの実行やリソースを読み込みを観測することで情報を取得できるサイドチャネル攻撃を防止する仕組みについて。\nブラウザのプロセスを分離する方法とウェブサイト側でオプトインとしてクロスオリジンリクエストを制御する仕組みについて。",
+            "tags": [
+                "browser",
+                "security",
+                "article"
+            ],
+            "viaURL": "https://github.com/jser/ping/issues/160",
+            "relatedLinks": []
         }
     ]
 }
