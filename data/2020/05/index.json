@@ -757,6 +757,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-24T14:35:57.695Z",
+            "title": "loreanvictor/rxxpress: An Experimental Mashup of RxJS and Express",
+            "url": "https://github.com/loreanvictor/rxxpress/",
+            "content": "RxJSを使ったExpressライクなサーバライブラリ。\nExpressのRouterと組み合わせ利用できるように設計されている",
+            "tags": [
+                "Rx",
+                "node.js",
+                "server",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
