@@ -770,6 +770,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-25T13:21:21.935Z",
+            "title": "Introducing App Service Static Web Apps - Microsoft Tech Community - 1394451",
+            "url": "https://techcommunity.microsoft.com/t5/azure-app-service/introducing-app-service-static-web-apps/ba-p/1394451",
+            "content": "Azureの静的サイトホスティングサービスのApp Service Static Web Appsについて。\nルーティングルール、GitHubアカウントなどを使った認証、Azure FunctionsでのサーバAPIの実装、GitHub Actionsを使ったデプロイなどができる",
+            "tags": [
+                "webservice",
+                "Azure"
+            ],
+            "relatedLinks": []
         }
     ]
 }
