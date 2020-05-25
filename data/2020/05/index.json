@@ -806,6 +806,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-25T14:04:26.424Z",
+            "title": "module bundlerの作り方(準備編) - 技術探し",
+            "url": "https://blog.hiroppy.me/entry/create-module-bundler-preparation",
+            "content": "BabelのJavaScriptパーサを使って基本的なmodule bundlerを作成するチュートリアル",
+            "tags": [
+                "webpack",
+                "bundler",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
