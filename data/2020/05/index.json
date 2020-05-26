@@ -861,6 +861,17 @@
                     "url": "https://github.com/babel/babel-polyfills"
                 }
             ]
+        },
+        {
+            "date": "2020-05-26T23:35:28.505Z",
+            "title": "babel/babel-polyfills: A set of Babel plugins that enable injecting different polyfills with different strategies in your compiled code.",
+            "url": "https://github.com/babel/babel-polyfills",
+            "content": "Babelのpolyfillエンジン。\ncore-jsやes-shimsなどpolyfillを選択できる。\npolyfillモジュールをinject方法として`entry-global`、`usage-global`、`usage-pure`をもつ",
+            "tags": [
+                "babel",
+                "polyfill"
+            ],
+            "relatedLinks": []
         }
     ]
 }
