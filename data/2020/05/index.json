@@ -845,6 +845,22 @@
                 "API"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-26T23:24:24.295Z",
+            "title": "7.10.0 Released: Class Fields in preset-env, '#private in' checks and better React tree-shaking · Babel",
+            "url": "https://babeljs.io/blog/2020/05/25/7.10.0",
+            "content": "Babel 7.10.0リリース。\nES2015のUnicode escapeをES5に変換する`@babel/plugin-transform-unicode-escapes`の追加。\nES Module AttributesのProposalのパースを行う`babel-plugin-syntax-module-attributes`の追加。\n`import.meta`のパースをデフォルトでサポート、`preset-react`に`/*#__PURE__#/`アノテーションをつけるプラグインの追加。\ncore-js以外も選べるpolyfillエンジンの追加など",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "babel/babel-polyfills: A set of Babel plugins that enable injecting different polyfills with different strategies in your compiled code.",
+                    "url": "https://github.com/babel/babel-polyfills"
+                }
+            ]
         }
     ]
 }
