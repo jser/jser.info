@@ -883,6 +883,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-28T14:26:43.181Z",
+            "title": "Introducing Snowpack 2.0",
+            "url": "https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/",
+            "content": "Snowpack 2.0リリース。\nES Modulesをネイティブに使った開発を行うためのビルドシステム。\n開発時はファイルごとにビルドを行い、production buildではwebpackやparcelを使ってbundleしたビルドを行う。\nBuild ScriptsやPluginでのカスタマイズを行えるようになっている。\nデフォルトではesbuildを使ってjs,jsx,ts,tsxのビルドを行う",
+            "tags": [
+                "bundler",
+                "Tools",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
