@@ -872,6 +872,17 @@
                 "polyfill"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-28T12:16:35.408Z",
+            "title": "Node v12.17.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v12.17.0/",
+            "content": "Node v12.17.0リリース。\n`--experimental-modules`なしにES Modulesを利用可能に、Experimental APIとして`AsyncLocalStorage`の追加、REPLの改善。\nDiagnostic ReportがStableに、`server.headersTimeout`のデフォルト値の変更など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
