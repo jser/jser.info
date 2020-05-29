@@ -954,6 +954,17 @@
                     "url": "https://docs.google.com/presentation/d/1zyN4JjRtIuzgSLLqUGgyu7X6fEAGNjFHBy4ZZm0ueOc/edit#slide=id.g87684983d8_0_47"
                 }
             ]
+        },
+        {
+            "date": "2020-05-29T14:59:51.680Z",
+            "title": "Release Notes for Safari Technology Preview 107 | WebKit",
+            "url": "https://webkit.org/blog/10585/release-notes-for-safari-technology-preview-107/",
+            "content": "Safari Technology Preview 107リリース。\nWeb Inspectorの改善、`Intl.Locale`/`BigInt.asIntN`/`BigInt.asUintN`の実装。\nHTTPリファラのサイズを4KBに制限するように変更など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
