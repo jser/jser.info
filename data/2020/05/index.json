@@ -936,6 +936,24 @@
                     "url": "https://jamstackconf.com/"
                 }
             ]
+        },
+        {
+            "date": "2020-05-29T14:09:58.486Z",
+            "title": "11 years of Node: Let’s have an honest conversation - Anna Henningsen (LNUG May 2020) - YouTube",
+            "url": "https://www.youtube.com/watch?v=TthueRgvVQ4",
+            "content": "Node.js開発の現状について話。\nNode.jsはsmall coreコンセプトであったが、今は40以上のモジュールが入った巨大なリポジトリでもある。\nNode.jsのコアには非推奨となったモジュール/追加されたモジュール/レガシーなコードが混ざっている。\nそのため開発はバランスを取るのが難しく、これはESMサポートにおいても起きている。\n一方で、CollaboratorsやN-APIなどうまくいっている部分もある。\nまた、Denoとエコシステムについてなど",
+            "tags": [
+                "node.js",
+                "video",
+                "slide",
+                "deno"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "11 years of Node: Let’s have an honest conversation - Google スライド",
+                    "url": "https://docs.google.com/presentation/d/1zyN4JjRtIuzgSLLqUGgyu7X6fEAGNjFHBy4ZZm0ueOc/edit#slide=id.g87684983d8_0_47"
+                }
+            ]
         }
     ]
 }
