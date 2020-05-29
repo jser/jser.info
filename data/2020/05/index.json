@@ -938,10 +938,10 @@
             ]
         },
         {
-            "date": "2020-05-29T14:09:58.486Z",
+            "date": "2020-05-29T14:23:52.020Z",
             "title": "11 years of Node: Let’s have an honest conversation - Anna Henningsen (LNUG May 2020) - YouTube",
             "url": "https://www.youtube.com/watch?v=TthueRgvVQ4",
-            "content": "Node.js開発の現状について話。\nNode.jsはsmall coreコンセプトであったが、今は40以上のモジュールが入った巨大なリポジトリでもある。\nNode.jsのコアには非推奨となったモジュール/追加されたモジュール/レガシーなコードが混ざっている。\nそのため開発はバランスを取るのが難しく、これはESMサポートにおいても起きている。\n一方で、CollaboratorsやN-APIなどうまくいっている部分もある。\nまた、Denoとエコシステムについてなど",
+            "content": "Node.js開発の現状について話。\nNode.jsはsmall coreと言われていたが、今は40以上のモジュールが入った巨大なリポジトリでもある。\nNode.jsのコアには非推奨となったモジュール/追加されたモジュール/レガシーなコードが混ざっている。\nそのため開発はバランスを取るのが難しく、これはESMサポートにおいても起きている。\n一方で、CollaboratorsやN-APIなどうまくいっている部分もある。\nまた、Denoとエコシステムについてなど",
             "tags": [
                 "node.js",
                 "video",
