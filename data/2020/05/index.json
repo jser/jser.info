@@ -908,6 +908,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-29T10:32:34.942Z",
+            "title": "otiai10/lookpath: The minimum and most straightforward way to check if command exists and where the executable is, WITHOUT spawning subprocess",
+            "url": "https://github.com/otiai10/lookpath",
+            "content": "`which`などのコマンドを使わずに、実行ファイルのパスを取得するNode.jsライブラリ",
+            "tags": [
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
