@@ -1002,6 +1002,18 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-30T15:51:30.483Z",
+            "title": "Chromium Blog: Chrome 84 Beta: Web OTP, Web Animations, New Origin Trials and More",
+            "url": "https://blog.chromium.org/2020/05/chrome-84-beta-web-otp-web-animations.html",
+            "content": "Chrome 84 Betaリリース。\nWeb OTP API、Web Animationsの改善。\nOrigin Trialとして非同期のCookie Stoer API、Idle Detection API、 Origin isolation、WebAssembly SIMDの追加。\nMixed ContentのAutoupgrade、CSSの`revert`キーワードのサポート、JSでは Private Methods and Accessors、WeakRefのサポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote",
+                "V8"
+            ],
+            "relatedLinks": []
         }
     ]
 }
