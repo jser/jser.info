@@ -1039,6 +1039,18 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-30T16:08:17.357Z",
+            "title": "deeppatel234/webpack-report: Webpack Build Analysis Plugin",
+            "url": "https://github.com/deeppatel234/webpack-report",
+            "content": "webpackのbundleされたファイルの依存関係、ビルド時間などのビルド情報、chunkやモジュールなどのサイズのビジュアライズをしてくれるプラグイン。",
+            "tags": [
+                "webpack",
+                "performance",
+                "plugin"
+            ],
+            "relatedLinks": []
         }
     ]
 }
