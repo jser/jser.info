@@ -1090,6 +1090,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-05-31T05:56:42.632Z",
+            "title": "Pug 3.0.0 - RollingVersions - Medium",
+            "url": "https://medium.com/rollingversions/pug-3-0-0-2897d6dec294",
+            "content": "テンプレートエンジンのPug 3.0.0リリース。\nBufferに対するフィルターをサポート、`each ... of ...`構文のサポートなど",
+            "tags": [
+                "JavaScript",
+                "template",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release pug@3.0.0 · pugjs/pug",
+                    "url": "https://github.com/pugjs/pug/releases/tag/pug%403.0.0"
+                }
+            ]
         }
     ]
 }
