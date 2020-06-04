@@ -46,6 +46,17 @@
                     "url": "https://www.mozilla.org/en-US/firefox/77.0/releasenotes/"
                 }
             ]
+        },
+        {
+            "date": "2020-06-04T12:51:42.585Z",
+            "title": "画像による Layout Shift が無くなる Web がやって来る - mizdra's blog",
+            "url": "https://www.mizdra.net/entry/2020/05/31/192613",
+            "content": "ブラウザのデフォルトスタイルシートに`aspect-ratio`の指定が入ったことで、widthとheight属性に値を入れることでLayout Shiftが抑えられることについて\n\n```\nimg {\n  aspect-ratio: attr(width) / attr(height);\n}\n```",
+            "tags": [
+                "browser",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
