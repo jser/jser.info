@@ -57,6 +57,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-04T14:26:59.057Z",
+            "title": "mvasilkov/assert-equal-html: Assert the equality of two HTML fragments",
+            "url": "https://github.com/mvasilkov/assert-equal-html",
+            "content": "HTMLの断片同士を比較する関数。\nパーサでHTMLをパースしてその結果を比較している",
+            "tags": [
+                "HTML",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
