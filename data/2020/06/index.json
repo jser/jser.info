@@ -98,6 +98,19 @@
                     "url": "https://medium.com/agoric/ses-support-for-ecmascript-modules-28fc1beb709c"
                 }
             ]
+        },
+        {
+            "date": "2020-06-06T06:13:51.616Z",
+            "title": "Securing JavaScript Modules - Agoric - Medium",
+            "url": "https://medium.com/agoric/ses-support-for-ecmascript-modules-28fc1beb709c",
+            "content": "Secure EcmaScript (SES)についての記事。\nSESにおけるObject-capability model、SES shimsの実装、compartment(enviroment)について",
+            "tags": [
+                "security",
+                "ECMAScript",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
