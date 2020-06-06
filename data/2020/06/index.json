@@ -81,6 +81,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-06T06:08:55.368Z",
+            "title": "Agoric/SES-shim: SES (Secure EcmaScript) is a secure runtime for executing third-party code safely",
+            "url": "https://github.com/Agoric/ses-shim",
+            "content": "SES(Secure EcmaScript)のshimライブラリ。\nオブジェクトの書き換えできなくしたり環境できなくした環境でコードを実行する機能、セキュリティモデル。\n一種のsandboxでコードを実行するための仕様の実装。",
+            "tags": [
+                "security",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Securing JavaScript Modules - Agoric - Medium",
+                    "url": "https://medium.com/agoric/ses-support-for-ecmascript-modules-28fc1beb709c"
+                }
+            ]
         }
     ]
 }
