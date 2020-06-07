@@ -111,6 +111,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-07T02:02:37.929Z",
+            "title": "ESLint v7.2.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2020/06/eslint-v7.2.0-released",
+            "content": "ESLint 7.2.0リリース。\nES2020で入る予定のNullish coalescing operatorや`import.meta`などをサポート(Optional Chainはまだ未サポート)。\n`no-extra-parens`に`enforceForFunctionPrototypeMethods`オプションの追加など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESLint v7.2.0 - Qiita",
+                    "url": "https://qiita.com/mysticatea/items/9215050e4546c1e2d486"
+                }
+            ]
         }
     ]
 }
