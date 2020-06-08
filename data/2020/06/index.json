@@ -175,6 +175,18 @@
                 "Fetch"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-08T14:19:05.443Z",
+            "title": "大規模改修の裏でTypeScriptとテスト導入をすすめた話 - Speaker Deck",
+            "url": "https://speakerdeck.com/pittan/da-gui-mo-gai-xiu-falseli-detypescripttotesutodao-ru-wosusumetahua",
+            "content": "テストがないJavaScriptのコードをTypeScriptへの移行とテストコードを少しずつ追加していく話。\n段階的なTypeScriptへの移行について",
+            "tags": [
+                "JavaScript",
+                "Prototype.js",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
