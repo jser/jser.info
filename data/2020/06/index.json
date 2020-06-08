@@ -199,6 +199,22 @@
                 "ECMAScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-08T14:45:51.713Z",
+            "title": "angular.js/CHANGELOG.md at master · angular/angular.js",
+            "url": "https://github.com/angular/angular.js/blob/master/CHANGELOG.md#180-nested-vaccination-2020-06-01",
+            "content": "AngularJS 1.8.0リリース。\njQuery 3.5で修正されたXSSの問題に対するために、一部非互換な変更を含むセキュリティアップデート",
+            "tags": [
+                "Angular",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "jQuery Core 3.5 Upgrade Guide | jQuery",
+                    "url": "https://jquery.com/upgrade-guide/3.5/"
+                }
+            ]
         }
     ]
 }
