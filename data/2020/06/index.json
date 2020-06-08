@@ -139,6 +139,19 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-08T12:37:44.350Z",
+            "title": "Case study: Analyzing Notion app performance · PerfPerfPerf",
+            "url": "https://3perf.com/blog/notion/",
+            "content": "Notionのページをリバースエンジニアリングしてパフォーマンスの改善ポイントを見ていく話。\nロード関するJavaScriptコードの分離、初期化処理の遅延実行、webpackの`concatenateModules`オプション。\n利用していないコードの削除、core-jsの複数バージョンが含まれる問題、サードパーティスクリプトの遅延ロード、SSR時のstateの渡し方とscriptのpreloadについてなど",
+            "tags": [
+                "jacvas",
+                "performance",
+                "browser",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
