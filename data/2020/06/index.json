@@ -48,17 +48,6 @@
             ]
         },
         {
-            "date": "2020-06-04T12:51:42.585Z",
-            "title": "画像による Layout Shift が無くなる Web がやって来る - mizdra's blog",
-            "url": "https://www.mizdra.net/entry/2020/05/31/192613",
-            "content": "ブラウザのデフォルトスタイルシートに`aspect-ratio`の指定が入ったことで、widthとheight属性に値を入れることでLayout Shiftが抑えられることについて\n\n```\nimg {\n  aspect-ratio: attr(width) / attr(height);\n}\n```",
-            "tags": [
-                "browser",
-                "article"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2020-06-04T14:26:59.057Z",
             "title": "mvasilkov/assert-equal-html: Assert the equality of two HTML fragments",
             "url": "https://github.com/mvasilkov/assert-equal-html",
@@ -225,6 +214,17 @@
                 "node.js",
                 "deno",
                 "Tools"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2020-06-09T02:45:48.654Z",
+            "title": "画像による Layout Shift が無くなる Web がやって来る - mizdra's blog",
+            "url": "https://www.mizdra.net/entry/2020/05/31/192613",
+            "content": "ブラウザのデフォルトスタイルシートに`aspect-ratio`の指定が入ることで、widthとheight属性に値を入れることでLayout Shiftが抑えられることについて\n\n```\nimg {\n  aspect-ratio: attr(width) / attr(height);\n}\n```",
+            "tags": [
+                "browser",
+                "article"
             ],
             "relatedLinks": []
         }
