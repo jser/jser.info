@@ -252,6 +252,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-13T05:14:23.429Z",
+            "title": "小さなEventEmitterライブラリ - eventmitを書いた | Web Scratch",
+            "url": "https://efcl.info/2020/06/13/eventmit/",
+            "content": "1種類のイベントに対して1つのオブジェクトを作るEventEmitter的なライブラリについて。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "azu/eventmit: Simple EventEmitter. A single event object per an event.",
+                    "url": "https://github.com/azu/eventmit"
+                }
+            ]
         }
     ]
 }
