@@ -240,6 +240,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-13T02:50:00.682Z",
+            "title": "Release v5.0.0 · ReactTraining/history",
+            "url": "https://github.com/ReactTraining/history/releases/tag/v5.0.0",
+            "content": "history.js 5.0.0リリース。\nHTML5 history APIをサポートしてないブラウザのサポート終了、TypeScriptのサポート、ファイルサイズの削減など。\n",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
