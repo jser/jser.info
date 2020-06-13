@@ -269,6 +269,17 @@
                     "url": "https://github.com/azu/eventmit"
                 }
             ]
+        },
+        {
+            "date": "2020-06-13T05:26:51.484Z",
+            "title": "Release v1.1.0 · denoland/deno",
+            "url": "https://github.com/denoland/deno/releases/tag/v1.1.0",
+            "content": "Deno v1.1.0 リリース。\n`deno eval -p`の追加、`deno lint`コマンドの追加、ファイルシステムのメソッドが`file:`なURLをサポートなど",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
