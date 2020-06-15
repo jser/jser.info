@@ -293,6 +293,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-15T13:26:15.405Z",
+            "title": "JSMonk/hegel: An advanced static type checker",
+            "url": "https://github.com/JSMonk/hegel",
+            "content": "JavaScriptで書かれたJavaScriptの方チェッカ。\n型アノテーションを書くことで型チェックを行える。TypeScriptとは異なり静的な型チェックが通った場合に実行時エラーが出ないような実装をしている。ライブラリの型チェックにはTypeScriptの型定義ファイルを利用できる。",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "What & Why | Hegel",
+                    "url": "https://hegel.js.org/docs"
+                }
+            ]
         }
     ]
 }
