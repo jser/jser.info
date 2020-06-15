@@ -359,6 +359,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-15T15:06:53.433Z",
+            "title": "Release Notes for Safari Technology Preview 108 | WebKit",
+            "url": "https://webkit.org/blog/10840/release-notes-for-safari-technology-preview-108/",
+            "content": "Safari Technology Preview 108リリース。\n`ParentNode.replaceChildren()`の実装、Async Clipboard APIで`\"image/png\"`の読み込みをサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
