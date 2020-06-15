@@ -370,6 +370,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-15T15:10:15.111Z",
+            "title": "Release v4.0.0 · puppeteer/puppeteer",
+            "url": "https://github.com/puppeteer/puppeteer/releases/tag/v4.0.0",
+            "content": "Puppeteer v4.0.0リリース。\nNode.jsの`events`への依存を削除、`page.isJavaScriptEnabled()`の追加など",
+            "tags": [
+                "Chrome",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
