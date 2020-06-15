@@ -310,6 +310,19 @@
                     "url": "https://hegel.js.org/docs"
                 }
             ]
+        },
+        {
+            "date": "2020-06-15T14:53:47.159Z",
+            "title": "bcoe/http2spy: test helpers for working with Node.js' http2 module",
+            "url": "https://github.com/bcoe/http2spy",
+            "content": "`http2`モジュールのspyライブラリ",
+            "tags": [
+                "HTTP2",
+                "node.js",
+                "library",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
