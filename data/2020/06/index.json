@@ -323,6 +323,18 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-15T14:56:59.969Z",
+            "title": "GoogleCloudPlatform/require-so-slow: `require`s taking too much time? Profile 'em.",
+            "url": "https://github.com/GoogleCloudPlatform/require-so-slow",
+            "content": "npmモジュールのロード時間をChrome Timeline Viewerで見られるようにプロファイルを取るツール。\nモジュール内での`require`にかかっている時間を可視化できる",
+            "tags": [
+                "node.js",
+                "performance",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
