@@ -417,6 +417,27 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-19T13:50:17.903Z",
+            "title": "Release v2.13.0 · nuxt/nuxt.js",
+            "url": "https://github.com/nuxt/nuxt.js/releases/tag/v2.13.0",
+            "content": "Nuxt.js 2.13.0リリース。\n`target: static`の追加、`.env`をビルトインサポート、`@nuxt/components`でのAuto Discoryオプションの追加など。\nまた、Nuxt.jsの利用情報を送信するようになり、オプトアウトのためのオプションの追加など",
+            "tags": [
+                "Vue",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "nuxt/telemetry: Nuxt Telemetry",
+                    "url": "https://github.com/nuxt/telemetry#opting-out"
+                },
+                {
+                    "title": "nuxt/components: Scan and auto import components for Nuxt.js 2.13+",
+                    "url": "https://github.com/nuxt/components"
+                }
+            ]
         }
     ]
 }
