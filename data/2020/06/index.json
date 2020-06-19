@@ -438,6 +438,21 @@
                     "url": "https://github.com/nuxt/components"
                 }
             ]
+        },
+        {
+            "date": "2020-06-19T15:25:00.051Z",
+            "title": "mswjs/msw: Seamless REST/GraphQL API mocking library for browser and Node.",
+            "url": "https://github.com/mswjs/msw",
+            "content": "HTTPモックライブラリ。\nService Workerを使う方法、Fetch、XHR、`http`モジュールをinterceptする方法を提供している。\nリクエストに対するレスポンスを定義して、ブラウザとNode.jsでそれぞれHTTPリクエストのテストができるライブラリ",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "node.js",
+                "ServiceWorker",
+                "library",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
