@@ -455,10 +455,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-06-20T05:41:03.400Z",
+            "date": "2020-06-20T05:42:57.964Z",
             "title": "📦 Parcel 2 beta 1: improved stability, tree shaking, source map performance, and more! 🚀",
             "url": "https://medium.com/@devongovett/parcel-2-beta-1-improved-stability-tree-shaking-source-map-performance-and-more-78179779e8b7",
-            "content": "Parcel 2 beta 1リリース。\nTree shakingのデフォルト有効化、Source Mapのパフォーマンス改善Content hashingの改善、モジュール解決エラーの改善など",
+            "content": "Parcel 2 beta 1リリース。\nTree shakingのデフォルト有効化、Source Mapのパフォーマンス改善Content hashingの改善、モジュール解決エラーの改善など。\n非互換な変更としてはConfigの変更、サーバモードでも`dist`ディレクトリに出力するように変更、Plugin APIの変更なども含まれている",
             "tags": [
                 "bundler",
                 "ReleaseNote"
