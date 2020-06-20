@@ -464,6 +464,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-20T13:18:37.692Z",
+            "title": "jspm.dev Release - jspm.org",
+            "url": "https://jspm.org/jspm-dev-release",
+            "content": "jspmのCDNとしてdev.jspm.ioの代わりとなるjspm.devが公開された。\nES Modulesに対して最適化されたCDNで、Rollupを使ってレスポンス時間が短くなるように事前に最適化している。\nパッケージのSubpathに対応、Node.jsの`export`フィールドなどに対応している",
+            "tags": [
+                "JavaScript",
+                "module",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
