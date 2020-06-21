@@ -522,6 +522,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-21T06:30:09.667Z",
+            "title": "JSSpec | jsspec.github.io",
+            "url": "https://jsspec.github.io/",
+            "content": "RSpecライクなContextを持ったテストフレームワーク。\n`subject`というグローバル変数に対してテストのコンテキストを割り当ててテストコードを書けるようになっている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
