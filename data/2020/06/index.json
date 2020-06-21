@@ -510,6 +510,18 @@
                     "url": "https://qiita.com/mysticatea/items/e155bd2fee35c22ee423"
                 }
             ]
+        },
+        {
+            "date": "2020-06-21T05:42:24.827Z",
+            "title": "milesj/interweave: 🌀 React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.",
+            "url": "https://github.com/milesj/interweave",
+            "content": "HTML文字列をレンダリングできるReactコンポーネント。\n指定したタグのみを許可したり、自動リンク、絵文字の対応、SSRなどに対応している",
+            "tags": [
+                "React",
+                "HTML",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
