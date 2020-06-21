@@ -494,6 +494,22 @@
                     "url": "https://dojo.io/blog/version-7-dojo-widgets"
                 }
             ]
+        },
+        {
+            "date": "2020-06-21T03:59:03.194Z",
+            "title": "ESLint v7.3.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2020/06/eslint-v7.3.0-released",
+            "content": "ESLint 7.3.0リリース。\n新しいルールとして`no-promise-executor-return`と`no-unreachable-loop`の追加。\n設定値にJSONで扱えない値を入れると正しく動作しなくなるリグレッションが含まれるため修正バージョンもリリースされる予定。",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESLint v7.3.0 - Qiita",
+                    "url": "https://qiita.com/mysticatea/items/e155bd2fee35c22ee423"
+                }
+            ]
         }
     ]
 }
