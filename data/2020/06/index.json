@@ -590,6 +590,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-23T02:53:49.073Z",
+            "title": "WebAssembly and the Elusive Universal Binary",
+            "url": "https://kripken.github.io/talks/2020/universal.html#/",
+            "content": "WebAssemblyでのCross PlatformなUniversal Binaryについてのスライド。\nネイティブバイナリに比べて28%程度の速度低下でUniversal Binaryが実現できているという話",
+            "tags": [
+                "WebAssembly",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
