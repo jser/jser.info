@@ -601,6 +601,22 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-23T02:57:38.326Z",
+            "title": "slides/ModuleFederationWebpack5.md at master · sokra/slides",
+            "url": "https://github.com/sokra/slides/blob/master/content/ModuleFederationWebpack5.md",
+            "content": "webpack 5で導入予定のModule Federationについてのスライド。\nFederationでの最適化や動作、既存のDLLやExternalsとの違いについて話されている",
+            "tags": [
+                "webpack",
+                "slide"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Module Federation | webpack",
+                    "url": "https://webpack.js.org/concepts/module-federation/"
+                }
+            ]
         }
     ]
 }
