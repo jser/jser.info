@@ -559,6 +559,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-23T02:15:13.439Z",
+            "title": "Safari 14 Beta Release Notes | Apple Developer Documentation",
+            "url": "https://developer.apple.com/documentation/safari-release-notes/safari-14-beta-release-notes",
+            "content": "Safari 14ベータの変更点。\nWebExtensionsの拡張に対応、HTTP/3のサポート、Flashのサポート終了。\nJavaScriptでは、BigInt、EventTargetの継承、Public class fieldのサポート。\nCSSでは、`is()`、`:where()`、image-orientationのサポート。\nその他にはWebP、Picture in Pictureのサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Safari Web Extensions | Apple Developer Documentation",
+                    "url": "https://developer.apple.com/documentation/safariservices/safari_web_extensions"
+                },
+                {
+                    "title": "Browser support for JavaScript APIs - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs"
+                }
+            ]
         }
     ]
 }
