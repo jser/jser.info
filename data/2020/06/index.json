@@ -617,6 +617,17 @@
                     "url": "https://webpack.js.org/concepts/module-federation/"
                 }
             ]
+        },
+        {
+            "date": "2020-06-25T03:46:58.440Z",
+            "title": "Version 10 of Angular Now Available - Angular Blog",
+            "url": "https://blog.angular.io/version-10-of-angular-now-available-78960babd41",
+            "content": "Angular 10.0.0リリース。\nAngular MaterialにDate Range Pickerの追加。\nCommonJSの取り込むと警告がでるように、`ng new`に`--strict`オプションの追加、TypeScript 3.9へのアップデート、デフォルトのbrowserslistsの更新など",
+            "tags": [
+                "Angular",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
