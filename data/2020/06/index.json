@@ -651,6 +651,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-26T21:56:49.618Z",
+            "title": "Announcing TypeScript 4.0 Beta | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-0-beta/",
+            "content": "TypeScript 4.0 Betaリリース。\nVariadic Tuple Types、Labeled Tuple Elements、コンストラクタからClass Propertyの推論ができるように。\n`catch`節の変数が`any`から`unknown`に変更。\nStage 3のlogical assignmentをサポート、`jsxFragmentFactory`オプションのサポート、VSCodeでPartial Editing Modeのサポートなど。",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
