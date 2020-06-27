@@ -673,6 +673,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-27T14:09:24.933Z",
+            "title": "webpack 5 Miniseries - Tobias Koppers, webpack - YouTube",
+            "url": "https://www.youtube.com/watch?v=3c-RFpaiUT8&list=PLyspMSh4XhLP-mqulUMcaqTbLo-ZJxSX5&index=34&t=0s",
+            "content": "webpack 5の変更についての紹介動画。\n自動的なNode.jsのpolyfillの削除、生成コードのESバージョンを選択、ビルドのパフォーマンスやキャッシュの改善、最適化の改善やログの改善、Module Federationについてなど",
+            "tags": [
+                "webpack",
+                "video"
+            ],
+            "relatedLinks": []
         }
     ]
 }
