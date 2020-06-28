@@ -751,6 +751,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-06-28T15:06:56.464Z",
+            "title": "Reactのレンダリングに関する完全ガイド - Qiita",
+            "url": "https://qiita.com/hellokenta/items/6b795501a0a8921bb6b5",
+            "content": "Complete Guide to React Rendering Behaviorの翻訳。\nレンダリングとコミットのフェーズ、レンダリングの動作、パフォーマンスの測定、再レンダリングのタイミングについてなど",
+            "tags": [
+                "React",
+                "article",
+                "translate"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior · Mark's Dev Blog",
+                    "url": "https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/"
+                }
+            ]
         }
     ]
 }
