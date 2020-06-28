@@ -717,6 +717,18 @@
                     "url": "https://developer.apple.com/documentation/safari-release-notes/safari-14-beta-release-notes"
                 }
             ]
+        },
+        {
+            "date": "2020-06-28T14:17:21.417Z",
+            "title": "Refactoring optional chaining into a large codebase: lessons learned – Lea Verou",
+            "url": "https://lea.verou.me/2020/06/refactoring-optional-chaining-into-a-large-codebase-lessons-learned/",
+            "content": "ES2020で入ったOptional Chainingを使ったリファクタリングについて。\nOptional Chainingに書き換えできるパターン、書き換えてはいけないパターンについてなど",
+            "tags": [
+                "JavaScript",
+                "article",
+                "refacoring"
+            ],
+            "relatedLinks": []
         }
     ]
 }
