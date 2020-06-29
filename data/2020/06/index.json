@@ -785,6 +785,28 @@
                     "url": "https://webkit.org/tracking-prevention-policy/"
                 }
             ]
+        },
+        {
+            "date": "2020-06-29T15:25:34.919Z",
+            "title": "hapi.js on Twitter: \"Some un-hapi and joi-less news...\" / Twitter",
+            "url": "https://twitter.com/hapijs/status/1275887984114413569",
+            "content": "Node.jsフレームワークであるhapiのコア開発者がhapiの開発を終了するという宣言をした。\n",
+            "tags": [
+                "node.js",
+                "server",
+                "library",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Slack | end | hapi hour",
+                    "url": "https://app.slack.com/client/T6ATU7T16/C015JQPME23/thread/C015JQPME23-1593110366.302100"
+                },
+                {
+                    "title": "hapi.dev - The simple, secure framework developers trust",
+                    "url": "https://hapi.dev/"
+                }
+            ]
         }
     ]
 }
