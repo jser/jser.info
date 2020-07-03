@@ -55,6 +55,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-03T13:04:51.356Z",
+            "title": "V8 release v8.4 · V8",
+            "url": "https://v8.dev/blog/v8-release-84",
+            "content": "V8 8.4(Chrome 84)リリース。\nWebAssembly SIMD APIがOrigin Trialで利用できるように、`WeakRef`のサポート、Private methodsとaccessorsのサポートなど",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
