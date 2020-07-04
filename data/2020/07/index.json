@@ -66,6 +66,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-04T02:36:17.800Z",
+            "title": "Release v5.0.0 · puppeteer/puppeteer",
+            "url": "https://github.com/puppeteer/puppeteer/releases/tag/v5.0.0",
+            "content": "Puppeteer v5.0.0リリース。\n`page.emulateMedia`を `page.emulateMediaType`に変更。\nDirect requireを削除し、オブジェクトとして読み込むように変更など",
+            "tags": [
+                "Chrome",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
