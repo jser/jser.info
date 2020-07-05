@@ -151,6 +151,26 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-05T13:22:16.106Z",
+            "title": "antfu/vue-demi: 🎩 Creates Universal Library for Vue 2 & 3",
+            "url": "https://github.com/antfu/vue-demi",
+            "content": "Vue2と3に対応したライブラリを作成するためのライブラリ。\nVue2と3に互換性がないためどちらにも対応したライブラリを作るためのツールキット的なライブラリ\n",
+            "tags": [
+                "Vue",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Make Libraries Working with Vue 2 and 3 - Anthony Fu",
+                    "url": "https://antfu.me/posts/make-libraries-working-with-vue-2-and-3/"
+                },
+                {
+                    "title": "Vue 3: mid 2020 status update · Issue #183 · vuejs/rfcs",
+                    "url": "https://github.com/vuejs/rfcs/issues/183#issuecomment-651944231"
+                }
+            ]
         }
     ]
 }
