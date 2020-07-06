@@ -183,6 +183,19 @@
                 "ebook"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-06T12:52:48.999Z",
+            "title": "Release 3.10.0 · avajs/ava",
+            "url": "https://github.com/avajs/ava/releases/tag/v3.10.0",
+            "content": "AVA 3.10.0リリース。\n`.only()`を利用中にスナップショットをアップデートしないように、`t.timeout`にメッセージオプションを追加、`t.try()`や`t.snapshot()`がhook中に実行できないように修正など",
+            "tags": [
+                "node.js",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
