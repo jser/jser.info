@@ -196,6 +196,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-06T13:21:08.633Z",
+            "title": "Creating an Application Performance Monitor Using Node 14 New and Experimental Features | Medium",
+            "url": "https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b",
+            "content": "Node.js 14で利用できるExperimentalな機能を使ってアプリケーションのモニタリングをするAgentを作るという話。\nAsync Local Storage、Diagnostic Reportsについて",
+            "tags": [
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
