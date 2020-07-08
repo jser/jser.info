@@ -231,6 +231,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-08T13:00:50.119Z",
+            "title": "Release v3.0.0 · fastify/fastify",
+            "url": "https://github.com/fastify/fastify/releases/tag/v3.0.0",
+            "content": "Fastify v3リリース。\nExpress middlewareを使う場合は`fastify-express`プラグんを使うように変更、loggerのserializersのシグネチャーの変更、TypeScriptの型定義の変更など",
+            "tags": [
+                "node.js",
+                "server",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Fastify v3 released - Fastify - Medium",
+                    "url": "https://medium.com/@fastifyjs/fastify-v3-released-da4601d79a5"
+                }
+            ]
         }
     ]
 }
