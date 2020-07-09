@@ -249,6 +249,18 @@
                     "url": "https://medium.com/@fastifyjs/fastify-v3-released-da4601d79a5"
                 }
             ]
+        },
+        {
+            "date": "2020-07-09T13:29:53.151Z",
+            "title": "Introducing the Storage Access API - Microsoft Edge Blog",
+            "url": "https://blogs.windows.com/msedgedev/2020/07/08/introducing-storage-access-api/",
+            "content": "ストレージへのアクセス権限を持っているかを判定、許諾を得るStorage Access APIについて。\n`hasStorageAccess()`でのアクセスチェック、`requestStorageAccess()`でのリクエストについて。\nまたiframeの`sandbox`属性や、許諾ダイアログについてなど",
+            "tags": [
+                "Chrome",
+                "MSEdge",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
