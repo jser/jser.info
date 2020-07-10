@@ -286,6 +286,17 @@
                 "cdn"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-10T16:33:21.093Z",
+            "title": "Yarn 2.1 🐱‍🏍 Git Workspaces, Focused Installs, Loose mode, Live Playground, ... - DEV Community 👩‍💻👨‍💻",
+            "url": "https://dev.to/arcanis/yarn-2-1-git-workspaces-focused-installs-loose-mode-live-playground-4kfc",
+            "content": "Yarn 2.1リリース。\n`node_modules`を使うインストールの互換性改善、`git:` protocolの対応改善、`package-lock.json`などからどのパッケージマネージャかを判定するように。\n",
+            "tags": [
+                "yarn",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
