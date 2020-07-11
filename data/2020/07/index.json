@@ -297,6 +297,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-11T02:32:14.007Z",
+            "title": "Foal TS - Node.JS and TypeScript framework for building web applications",
+            "url": "https://foalts.org/",
+            "content": "Node.jsフレームワーク。\nDecoratorを使ったルーティング、バリデーション、DI、TypeORMを使ったDBなどをもつHTTPサーバフレームワーク",
+            "tags": [
+                "node.js",
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "TypeORM",
+                    "url": "https://github.com/typeorm/typeorm"
+                }
+            ]
         }
     ]
 }
