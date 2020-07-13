@@ -374,6 +374,23 @@
                     "url": "https://dev.to/ryansolid/why-solidjs-do-we-need-another-js-ui-library-1mdc"
                 }
             ]
+        },
+        {
+            "date": "2020-07-13T13:35:58.140Z",
+            "title": "Make smaller, faster and more secure native apps | Tauri Studio",
+            "url": "https://tauri.studio/",
+            "content": "WebViewを使ったデスクトップアプリケーションフレームワーク。\nHTML、JS、CSSを使ったフロントエンドとRustを使ったバックエンドでアプリケーションを作成できる。",
+            "tags": [
+                "Rust",
+                "JavaScript",
+                "Electron"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Creating Tiny Desktop Apps With Tauri And Vue.js — Smashing Magazine",
+                    "url": "https://www.smashingmagazine.com/2020/07/tiny-desktop-apps-tauri-vuejs/"
+                }
+            ]
         }
     ]
 }
