@@ -354,6 +354,26 @@
                     "url": "https://github.com/tc39/proposal-temporal"
                 }
             ]
+        },
+        {
+            "date": "2020-07-13T13:22:22.315Z",
+            "title": "ryansolid/solid: A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+            "url": "https://github.com/ryansolid/solid",
+            "content": "JSXで書いてDOM APIを使ったRuntimeで動かすUIフレームワークとコンパイラ。\nReact HooksライクなReactivityやControl Flowを扱うComponentを持っている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "Tools",
+                "React",
+                "jsx",
+                "TypeScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Why SolidJS: Do we need another JS UI Library? - DEV Community 👩‍💻👨‍💻",
+                    "url": "https://dev.to/ryansolid/why-solidjs-do-we-need-another-js-ui-library-1mdc"
+                }
+            ]
         }
     ]
 }
