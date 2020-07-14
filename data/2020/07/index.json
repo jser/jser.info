@@ -391,6 +391,23 @@
                     "url": "https://www.smashingmagazine.com/2020/07/tiny-desktop-apps-tauri-vuejs/"
                 }
             ]
+        },
+        {
+            "date": "2020-07-14T01:49:25.736Z",
+            "title": "The future of the hapi project · Issue #4113 · hapijs/hapi",
+            "url": "https://github.com/hapijs/hapi/issues/4113",
+            "content": "現在のコアメンテナーが今年でメンテナンス終了を予定しているhapiの今後について。\nhapiのTechnical Steering Committee (TSC)を設立して、コミュニティでメンテナンスしていく方針について。\nメンテナーがTSCに移ったら新しいmajorバージョンをリリースする予定",
+            "tags": [
+                "node.js",
+                "issue",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The future of the hapi project, a prelude · Issue #4111 · hapijs/hapi",
+                    "url": "https://github.com/hapijs/hapi/issues/4111"
+                }
+            ]
         }
     ]
 }
