@@ -420,6 +420,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-14T02:28:30.083Z",
+            "title": "Release v1.2.0 · denoland/deno",
+            "url": "https://github.com/denoland/deno/releases/tag/v1.2.0",
+            "content": "Deno 1.2.0リリース。\n`deno bundle`でlock fileのサポート、\nUser-timing　APIベースの`performance` APIの追加、`deno info --json`のサポートなど",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
