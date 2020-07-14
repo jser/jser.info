@@ -408,6 +408,18 @@
                     "url": "https://github.com/hapijs/hapi/issues/4111"
                 }
             ]
+        },
+        {
+            "date": "2020-07-14T02:06:15.793Z",
+            "title": "Skypack",
+            "url": "https://www.skypack.dev/",
+            "content": "JavaScript Package CDNサービス。\n元Pika CDN。\nnpmパッケージをES Moudulesとして読み込めるCDN。\nパッケージバージョンの指定、minifyなどの最適化したビルドの配布、UAに合わたtranspileとpolyfillを含めたビルドの配布などができる",
+            "tags": [
+                "JavaScript",
+                "cdn",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
