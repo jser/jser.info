@@ -431,6 +431,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-15T12:35:43.604Z",
+            "title": "New in Chrome 84  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2020/07/nic84",
+            "content": "Chrome 84リリース。\nContent Indexing API、Wake lock API、`WeakRef`のサポート。\nOrigin trialsとしてIdle detection、Web Assembly SIMDのサポート。\nSame Site Cookieのロールアウトの再開、TLS 1.0と1.1のサポートの削除など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "V8 release v8.4 · V8",
+                    "url": "https://v8.dev/blog/v8-release-84"
+                },
+                {
+                    "title": "Chromium Blog: Chrome 84 Beta: Web OTP, Web Animations, New Origin Trials and More",
+                    "url": "https://blog.chromium.org/2020/05/chrome-84-beta-web-otp-web-animations.html"
+                }
+            ]
         }
     ]
 }
