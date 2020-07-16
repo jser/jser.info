@@ -479,6 +479,25 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-16T13:58:44.551Z",
+            "title": "adobe/react-spectrum: A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
+            "url": "https://github.com/adobe/react-spectrum",
+            "content": "WAI-ARIAとコンポーネントの状態管理をするReact Hooks、AdobeのデザインシステムのReactコンポーネントの実装のライブラリ。\nWAI-ARIAやキーボード操作などのアクセシビリティ、i18の仕組みなどを提供することが目的",
+            "tags": [
+                "React",
+                "library",
+                "accessibility",
+                "i18n",
+                "Keyboard"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "React Spectrum",
+                    "url": "https://react-spectrum.adobe.com/index.html"
+                }
+            ]
         }
     ]
 }
