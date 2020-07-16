@@ -451,6 +451,23 @@
                     "url": "https://blog.chromium.org/2020/05/chrome-84-beta-web-otp-web-animations.html"
                 }
             ]
+        },
+        {
+            "date": "2020-07-16T13:02:53.411Z",
+            "title": "Announcing the Release of Apollo Client 3.0 - Apollo Blog",
+            "url": "https://www.apollographql.com/blog/announcing-the-release-of-apollo-client-3-0/",
+            "content": "GraphQL ClientのApollo　Client 3.0リリース。\n`InMemoryCache`に`evict()`や`gc()`などを追加、`makeVar`によるReactive variablesの追加など。",
+            "tags": [
+                "GraphQL",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 3.0.0 · apollographql/apollo-client",
+                    "url": "https://github.com/apollographql/apollo-client/releases/tag/v3.0.0"
+                }
+            ]
         }
     ]
 }
