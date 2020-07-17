@@ -509,6 +509,17 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-17T13:32:05.385Z",
+            "title": "breejs/bree: Bree is the best job scheduler for Node.js with support for cron, dates, ms, later, and human-friendly strings. Uses workers and spawns sandboxed processes. Supports async/await, retries, throttling, concurrency, and cancelable jobs (graceful shutdown). Simple, fast, and the most lightweight tool for the job. Made for Forward Email and Lad.",
+            "url": "https://github.com/breejs/bree",
+            "content": "Node.jsのjob scheduler/cron処理ライブラリ",
+            "tags": [
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
