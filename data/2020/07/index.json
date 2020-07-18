@@ -532,6 +532,18 @@
                 "Bluetooth"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-18T00:46:10.477Z",
+            "title": "iamakulov/awesome-webpack-perf: A curated list of webpack tools for web performance",
+            "url": "https://github.com/iamakulov/awesome-webpack-perf",
+            "content": "webpackのパフォーマンス関係のプラグイン、Loaderのまとめ。\n最適化を行うloaderやbundleの分析を行うプラグインなどをまとめたもの",
+            "tags": [
+                "webpack",
+                "plugin",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
