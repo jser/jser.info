@@ -556,6 +556,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-18T16:23:11.501Z",
+            "title": "Vue 3 is now in RC! · Issue #189 · vuejs/rfcs",
+            "url": "https://github.com/vuejs/rfcs/issues/189",
+            "content": "Vue 3 RCリリース。\nマイグレーションガイドも合わせて公開されている。",
+            "tags": [
+                "Vue",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introduction | Vue.js",
+                    "url": "https://v3.vuejs.org/guide/migration/introduction.html"
+                }
+            ]
         }
     ]
 }
