@@ -594,6 +594,17 @@
                     "url": "https://github.com/naver/billboard.js/wiki/CHANGELOG-v2"
                 }
             ]
+        },
+        {
+            "date": "2020-07-20T13:12:52.759Z",
+            "title": "ESLint v7.5.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2020/07/eslint-v7.5.0-released",
+            "content": "ESLint 7.5.0リリース。\nOptional Chainingのサポート、`id-blacklist`を非推奨化し`id-denylist`に変更など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
