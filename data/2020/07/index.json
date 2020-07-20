@@ -638,6 +638,22 @@
                     "url": "https://github.com/apollographql/apollo-client/releases/tag/v3.0.0"
                 }
             ]
+        },
+        {
+            "date": "2020-07-20T16:21:49.951Z",
+            "title": "Dynamic CSS Components Without JavaScript: Every Layout",
+            "url": "https://every-layout.dev/blog/css-components/",
+            "content": "style属性でCSS Custom Propertyを指定することで、CSSに対して値を渡す方法について。\n",
+            "tags": [
+                "CSS",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "なぜ私たちはCSSフレームワークを使わないのか - Scott Tolinksi氏、Reactive Conf",
+                    "url": "https://www.infoq.com/jp/profile/-Shoji-Shigeki/"
+                }
+            ]
         }
     ]
 }
