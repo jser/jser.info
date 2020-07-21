@@ -654,6 +654,18 @@
                     "url": "https://www.infoq.com/jp/profile/-Shoji-Shigeki/"
                 }
             ]
+        },
+        {
+            "date": "2020-07-21T02:18:55.478Z",
+            "title": "eslint-plugin-vue で来たる Vue.js 3 のリリースに備えよう - BASE開発チームブログ",
+            "url": "https://devblog.thebase.in/entry/2020/07/16/141446",
+            "content": "ESLintを使ったVue 3の対応チェックについて。\nVueで非推奨となった機能やVue3で廃止される機能をESLintでチェックする話",
+            "tags": [
+                "ESLint",
+                "Vue",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
