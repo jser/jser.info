@@ -693,6 +693,18 @@
                     "url": "https://github.com/nodejs/node/pull/34117"
                 }
             ]
+        },
+        {
+            "date": "2020-07-22T15:00:42.550Z",
+            "title": "Svelte <3 TypeScript",
+            "url": "https://svelte.dev/blog/svelte-and-typescript",
+            "content": "SvelteのTypeScriptサポート。\nテンプレートにTypeScriptで書けるようになり、型チェックが行える。\nエディタはLSPを使ったサポートを実装している",
+            "tags": [
+                "Svelte",
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
