@@ -677,6 +677,22 @@
                 "node.js"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-22T14:32:43.996Z",
+            "title": "Node v14.6.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v14.6.0/",
+            "content": "Node.js 14.6.0リリース。\n`imports` fieldの実装、`vm`に`microtaskMode`オプションの追加、`fs`のfile descriptorに`trackUnmanagedFds`オプションの追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "module: package &quot;imports&quot; field by guybedford · Pull Request #34117 · nodejs/node",
+                    "url": "https://github.com/nodejs/node/pull/34117"
+                }
+            ]
         }
     ]
 }
