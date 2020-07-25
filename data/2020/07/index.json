@@ -705,6 +705,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-25T05:40:20.275Z",
+            "title": "Create App - your tool for starting a new webpack or Parcel project",
+            "url": "https://createapp.dev/webpack",
+            "content": "使いたいJavaScriptやCSSのフレームワーク、Lintツールなどを選択するとそれに導入できるwebpackやparcelの設定ファイルなどを含んだプロジェクト設定を出力してくれるツール",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
