@@ -762,6 +762,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-26T14:51:55.899Z",
+            "title": "ECMAScript proposal updates @ 2020-07 | ECMAScript Daily",
+            "url": "https://ecmascript-daily.github.io/ecmascript/2020/07/26/ecmascript-proposal-update",
+            "content": "2020-07のTC39ミーティングでステータスが変わったECMAScript Proposalのまとめ。\n`Promise.any`、WeakRefs、Logical Assignment Operators、Numeric separatorsがStage 4となりES2021に入る予定",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
