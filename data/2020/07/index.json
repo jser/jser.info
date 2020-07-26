@@ -774,6 +774,17 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-26T15:17:58.426Z",
+            "title": "V8 release v8.5 · V8",
+            "url": "https://v8.dev/blog/v8-release-85",
+            "content": "V8 8.5リリース。\nStage 4の`Promise.any`と`AggregateError`、String#replaceAll、Logical assignment operatorsの実装。\nWebAssemblyでMulti-valueのサポート、BigIntsの値を渡せるようになるなど",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
