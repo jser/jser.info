@@ -785,6 +785,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-26T15:33:17.459Z",
+            "title": "Chromium Blog: Chrome 85: Upload Streaming, Human Interface Devices, Custom Properties with Inheritance and More",
+            "url": "https://blog.chromium.org/2020/07/chrome-85-upload-streaming-human.html",
+            "content": "Chrome 85 beta リリース。\nOrigin TrialとしてFetch upload streaming、WebHID、Declarative Shadow DOM、Portalsのサポート。\nMixed Contentの画像に関するAutoupgradeの追加、AVIFフォーマットのサポート、CSSの`conetnt-visibility`、`counter-set`プロパティのサポート。\n`color-scheme`プロパティの`only`を削除、Referrer Policyのデフォルト値を`strict-origin-when-cross-origin`に変更。Cookieで`Secure`属性がない`SameSite=None`のサポート終了など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
