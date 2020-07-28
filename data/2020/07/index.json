@@ -826,6 +826,19 @@
                     "url": "https://github.com/CyberAgentHack/web-speed-hackathon-online"
                 }
             ]
+        },
+        {
+            "date": "2020-07-28T02:14:34.852Z",
+            "title": "Release 3.11.0 · avajs/ava",
+            "url": "https://github.com/avajs/ava/releases/tag/v3.11.0",
+            "content": "AVA 3.11.0リリース。\n`t.like()` assertionの追加。",
+            "tags": [
+                "node.js",
+                "testing",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
