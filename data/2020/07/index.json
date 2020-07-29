@@ -885,6 +885,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-29T15:14:17.417Z",
+            "title": "Safely reviving shared memory - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2020/07/safely-reviving-shared-memory/",
+            "content": "FirefoxでSpectreへの対応として無効になっていた`SharedArrayBuffer`が再度利用できるようになる話。\nプロセス分離、`Cross-Origin-Opener-Policy`と`Cross-Origin-Embedder-Policy`でCross-origin isolationについて。\n",
+            "tags": [
+                "Firefox",
+                "WebAssembly"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Why you need &quot;cross-origin isolated&quot; for powerful features",
+                    "url": "https://web.dev/why-coop-coep/"
+                }
+            ]
         }
     ]
 }
