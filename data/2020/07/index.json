@@ -872,6 +872,19 @@
                     "url": "(https://developer.mozilla.org/docs/Mozilla/Firefox/Releases/79)"
                 }
             ]
+        },
+        {
+            "date": "2020-07-29T15:05:55.364Z",
+            "title": "Performance monitoring with Lighthouse CI",
+            "url": "https://web.dev/lighthouse-ci/",
+            "content": "Lighthouse CIについての記事。\n設定方法、CIでテストとして使う方法、GitHub Actionの連携について",
+            "tags": [
+                "Chrome",
+                "performance",
+                "Tools",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
