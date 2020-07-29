@@ -852,6 +852,26 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-29T13:53:19.250Z",
+            "title": "Firefox 79: The safe return of shared memory, new tooling, and platform updates - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2020/07/firefox-79/",
+            "content": "Firefox 79リリース。\n非同期処理のスタックトレースのサポート、デバッガの改善。\n`target=_blank`のリンクに対して暗黙的に`rel=noopener`を同じ処理をするように、`crossOriginIsolated`が有効の場合に`SharedArrayBuffer`が利用可能に。\nStage 4の`Promise.any`、Logical assignment、WeakRefのサポート。\nWebAssemblyのBulk memory operations、Reference types、Threads のサポートなど",
+            "tags": [
+                "Firefox",
+                "relre"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 79.0, See All New Features, Updates and Fixes",
+                    "url": "(https://www.mozilla.org/en-US/firefox/79.0/releasenotes/)"
+                },
+                {
+                    "title": "Firefox 79 for developers - Mozilla | MDN",
+                    "url": "(https://developer.mozilla.org/docs/Mozilla/Firefox/Releases/79)"
+                }
+            ]
         }
     ]
 }
