@@ -902,6 +902,17 @@
                     "url": "https://web.dev/why-coop-coep/"
                 }
             ]
+        },
+        {
+            "date": "2020-07-31T06:50:19.498Z",
+            "title": "7.11.0 Released: ECMAScript 2021 support in preset-env, TypeScript 4.0 support, printing config and the future of `babel-eslint` · Babel",
+            "url": "https://babeljs.io/blog/2020/07/30/7.11.0",
+            "content": "Babel 7.11.0リリース。\nStage 4となったProposalのLogical Assignment、Numeric Separatorのサポート、TypeScript 4.0で追加される構文のサポート。\nStage 1のDecimal Literalをサポート、`BABEL_SHOW_CONFIG_FOR`での設定出力をサポート、`babel-eslint`が`@babel/eslint-parser`に移動など",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
