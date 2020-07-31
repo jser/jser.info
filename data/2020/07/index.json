@@ -913,6 +913,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-07-31T07:04:07.273Z",
+            "title": "Snowpack 2.7",
+            "url": "https://www.snowpack.dev/posts/2020-07-30-snowpack-2-7-release/",
+            "content": "フロントエンドビルドツールのSnowpack 2.7リリース。\nPlugin APIの変更、`snowpack.config.json`の書式の変更など。\nどちらもv2の間は後方互換性があるが、新しい形式に移行を推奨している。",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
