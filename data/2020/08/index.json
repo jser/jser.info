@@ -24,6 +24,23 @@
                 "webkit"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-03T05:18:41.500Z",
+            "title": "A new default Referrer-Policy for Chrome: strict-origin-when-cross-origin",
+            "url": "https://developers.google.com/web/updates/2020/07/referrer-policy-new-chrome-default",
+            "content": "ChromeのReferrer-Policyのデフォルト値が`strict-origin-when-cross-origin`に変更されることによる影響について。\n`Origin`や`Sec-Fetch-Site`での代替えなどについて",
+            "tags": [
+                "Chrome",
+                "security",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Referer and Referrer-Policy best practices",
+                    "url": "https://web.dev/referrer-best-practices/"
+                }
+            ]
         }
     ]
 }
