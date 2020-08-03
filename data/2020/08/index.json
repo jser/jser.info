@@ -109,6 +109,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-03T15:07:41.223Z",
+            "title": "Different versions of your site can be running at the same time - JakeArchibald.com",
+            "url": "https://jakearchibald.com/2020/multiple-versions-same-time/",
+            "content": "デプロイ中に複数のバージョンが同じサイトで動く問題についてどのように対処するかという話。\n再ビルドによるchunkファイルの404、Storageスキーマの変更、APIレスポンスの変更に対してどのような対策を取るかについて書かれている",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
