@@ -41,6 +41,19 @@
                     "url": "https://web.dev/referrer-best-practices/"
                 }
             ]
+        },
+        {
+            "date": "2020-08-03T14:21:08.392Z",
+            "title": "Blog - Next.js 9.5 | Next.js",
+            "url": "https://nextjs.org/blog/next-9-5",
+            "content": "Next.js 9.5リリース。\n`revalidate`、`basePath`、`trailingSlash`のオプションの追加、`rewrites`と`redirects`の設定が可能になった。\nPage Bundleのビルドキャッシュの有効化、ProductionでReactのプロファイルができるようになるなど",
+            "tags": [
+                "JavaScript",
+                "React",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
