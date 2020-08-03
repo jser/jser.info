@@ -12,6 +12,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-03T04:05:29.753Z",
+            "title": "Speculation in JavaScriptCore | WebKit",
+            "url": "https://webkit.org/blog/10308/speculation-in-javascriptcore/",
+            "content": "Filip PizloによるJavaScriptCoreの投機的コンパイル、JITについて詳しい解説。\nJavaScriptCoreにおける4層のコンパイル処理の解説、投機的コンパイル、再コンパイル、プロファイリング、インラインキャッシュなど。\n投機的コンパイルは動的に型付けの言語においてどんな型を持っているかを推測して最適化する手法。その推測には、複数の実行層を使ったプロファイリングなどを基にして最適化を行う話",
+            "tags": [
+                "JavaScript",
+                "JIT",
+                "webkit"
+            ],
+            "relatedLinks": []
         }
     ]
 }
