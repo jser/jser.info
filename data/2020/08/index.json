@@ -155,6 +155,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-06T15:46:12.463Z",
+            "title": "indexeddbshim/IndexedDBShim: A polyfill for IndexedDB using WebSql",
+            "url": "https://github.com/indexeddbshim/IndexedDBShim",
+            "content": "WebSQL、SQLiteを使ったブラウザとNode.jsで動くIndexedDBのpolyfill",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
