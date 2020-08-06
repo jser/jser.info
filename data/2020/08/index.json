@@ -131,6 +131,18 @@
                     "url": "https://github.com/vadimdemedes/ink/releases/tag/v3.0.0"
                 }
             ]
+        },
+        {
+            "date": "2020-08-06T15:36:52.562Z",
+            "title": "Changes to SameSite Cookie Behavior - A Call to Action for Web Developers - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2020/08/changes-to-samesite-cookie-behavior/",
+            "content": "FirefoxもCookieの`SameSite`属性をデフォルトLaxに変更していくという話。\n現時点ではBetaでテストしているが、Stableリリースのスケジュールは未定。\n",
+            "tags": [
+                "Firefox",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
