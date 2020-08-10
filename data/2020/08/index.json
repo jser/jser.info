@@ -280,6 +280,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-10T09:47:04.127Z",
+            "title": "microfrontends/english.md at master · phodal/microfrontends",
+            "url": "https://github.com/phodal/microfrontends/blob/master/english.md",
+            "content": "Microfrontendについての記事。\nMicroServiceがサービス間の依存を切り離すのに対して、MicroFrontendは複数のアプリケーションを1つのアプリケーションに見えるように集約する。\nルーティングによる分散/iframeのコンテナの利用/MicroFrontEnd/アプリケーションをモジュール化/Web Componentsでの実装についての比較。\nMicroFrontendのコンセプト、mooaでのMicroFrontend設計について。\nLazy LoadingとRoutingだけでビルド時に統合をすると個別のアプリケーションをデプロイできなくなる問題、サブアプリケーションモデルでの複数チームの並行開発について　　 \n",
+            "tags": [
+                "MicroFrontend",
+                "article",
+                "opinion"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "phodal/microfrontends: Micro-frontend Architecture in Action-微前端的那些事儿",
+                    "url": "https://github.com/phodal/microfrontends"
+                }
+            ]
         }
     ]
 }
