@@ -212,6 +212,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-10T05:47:45.805Z",
+            "title": "Introducing Rome",
+            "url": "https://romefrontend.dev/blog/2020/08/08/introducing-rome.html",
+            "content": "モノリシックJavaScriptツールチェインのRomeベータリリース。\nJavaScript Compiler、Bundler、Tester、Linterなどを包含的に含むモノリシックツール",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
