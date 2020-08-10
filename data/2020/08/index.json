@@ -203,10 +203,10 @@
             "viaURL": "https://jserinfo.slack.com/archives/C017HJ3EJ6M/p1596993233.000700"
         },
         {
-            "date": "2020-08-10T03:10:50.765Z",
+            "date": "2020-08-10T03:26:56.445Z",
             "title": "Announcing TypeScript 4.0 RC | TypeScript",
             "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-0-rc/",
-            "content": "TypeScript 4.0 Betaリリース。 Variadic Tuple Types、Labeled Tuple Elements、コンストラクタからClass Propertyの推論ができるように。 `catch`節の変数が`any`から`unknown`に変更。 Stage 4のlogical assignmentをサポート、`jsxFragmentFactory`オプションのサポート、`--incremental`と`--noEmit`の組み合わせをサポート。\nTypeScript公式ウェブサイトの刷新など",
+            "content": "TypeScript 4.0 RCリリース。 Variadic Tuple Types、Labeled Tuple Elements、コンストラクタからClass Propertyの推論ができるように。 `catch`節の変数が`any`から`unknown`に変更。 Stage 4のlogical assignmentをサポート、`jsxFragmentFactory`オプションのサポート、`--incremental`と`--noEmit`の組み合わせをサポート。\nTypeScript公式ウェブサイトの刷新など",
             "tags": [
                 "TypeScript",
                 "ReleaseNote"
