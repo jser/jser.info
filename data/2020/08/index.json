@@ -297,6 +297,22 @@
                     "url": "https://github.com/phodal/microfrontends"
                 }
             ]
+        },
+        {
+            "date": "2020-08-10T13:15:11.669Z",
+            "title": "Migrating Large TypeScript Codebases To Project References – Shopify Engineering",
+            "url": "https://engineering.shopify.com/blogs/engineering/migrating-large-typescript-codebases-project-references",
+            "content": "大きなTypeScriptのコードベースのビルド速度や解析速度をProject Referencesで改善した話。\nどのようにProject Referencesへ移行したかについて",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "TypeScript: Handbook - Project References",
+                    "url": "https://www.typescriptlang.org/docs/handbook/project-references.html"
+                }
+            ]
         }
     ]
 }
