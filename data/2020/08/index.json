@@ -215,22 +215,6 @@
             ]
         },
         {
-            "date": "2020-08-10T06:52:48.111Z",
-            "title": "A Roadmap for Angular. At the beginning of 2020 at ng-conf… | by Jules Kremer | Aug, 2020 | Angular Blog",
-            "url": "https://blog.angular.io/a-roadmap-for-angular-1b4fa996a771",
-            "content": "Angularのロードマップが公開された。\nTypeScript 4.0への対応、RxJS v7への対応、Trusted Typesのサポートなどが進行中。\n将来的な予定としてZone.jsのオプショナル化、Legacy View Engineの削除、NgModulesの削除などが予定されている。",
-            "tags": [
-                "Angular",
-                "document"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "Angular - Angular Roadmap",
-                    "url": "https://angular.io/guide/roadmap"
-                }
-            ]
-        },
-        {
             "date": "2020-08-10T07:02:55.105Z",
             "title": "Setting Up Redux For Use In A Real-World Application — Smashing Magazine",
             "url": "https://www.smashingmagazine.com/2020/08/redux-real-world-application/",
@@ -297,6 +281,23 @@
                 }
             ],
             "relatedItems": []
+        },
+        {
+            "date": "2020-08-11T00:45:13.883Z",
+            "title": "A Roadmap for Angular. At the beginning of 2020 at ng-conf… | by Jules Kremer | Aug, 2020 | Angular Blog",
+            "url": "https://blog.angular.io/a-roadmap-for-angular-1b4fa996a771",
+            "content": "Angularのロードマップが公開された。\nTypeScript 4.0への対応、RxJS v7への対応、Trusted Typesのサポートなどが進行中。\n将来的な予定としてZone.jsのオプショナル化、Legacy View Engineの削除、NgModulesの削除などが予定されている。",
+            "tags": [
+                "Angular",
+                "document",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Angular - Angular Roadmap",
+                    "url": "https://angular.io/guide/roadmap"
+                }
+            ]
         }
     ]
 }
