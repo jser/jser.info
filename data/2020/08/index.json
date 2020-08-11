@@ -314,6 +314,24 @@
                     "url": "https://github.com/reactjs/react-gradual-upgrade-demo/"
                 }
             ]
+        },
+        {
+            "title": "Node.jsでプロトタイプ汚染後に任意コード実行まで繋げた事例 - knqyf263&#39;s blog",
+            "url": "https://knqyf263.hatenablog.com/entry/2020/08/11/050342",
+            "content": "Node.jsにおけるプロトタイプ汚染の実例を紹介している記事",
+            "tags": [
+                "JavaScript",
+                "article",
+                "security"
+            ],
+            "date": "2020-08-11T11:55:39.130Z",
+            "relatedItems": [
+                {
+                    "title": "Node.jsにおけるprototype汚染攻撃への対策 - SSTエンジニアブログ",
+                    "url": "https://techblog.securesky-tech.com/entry/2018/10/31/"
+                }
+            ],
+            "viaURL": "https://jserinfo.slack.com/archives/C017HJ3EJ6M/p1597143272.029200"
         }
     ]
 }
