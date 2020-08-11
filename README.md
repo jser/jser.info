@@ -77,8 +77,7 @@ JSer.infoのデータを分析したいはJSON APIとライブラリが用意さ
 
 ## ライセンス
 
-The source code under the MIT LICENSE.
-
-`data/` under the CC-BY [![CC-BY](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+- The source code under the MIT LICENSE.
+- `data/` under the CC-BY [![CC-BY](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 [JSer.info]: https://jser.info/  "JSer.info"
