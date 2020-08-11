@@ -300,10 +300,10 @@
             ]
         },
         {
-            "date": "2020-08-11T01:46:22.767Z",
+            "date": "2020-08-11T02:02:41.139Z",
             "title": "React v17.0 Release Candidate: No New Features – React Blog",
             "url": "https://reactjs.org/blog/2020/08/10/react-v17-rc.html",
-            "content": "React 17.0リリース。\nReactの内部的な仕組みの更新をしたためメジャーアップデートしている。\n新しいバージョンのReactから古いバージョンReactコンポーネントをLazy Loadして利用できるようにするGradual Upgradesが主な目的。\nイベントの仕組みを変更し複数のReactを同一ページ内で動くように、エラー時のコンポーネントスタックの改善など。",
+            "content": "React 17.0リリース。\nReactの内部的な仕組みの更新をしたため、メジャーアップデートしている。\n新しいバージョンのReactから古いバージョンReactのルートコンポーネントをLazy Loadして利用できるようにするGradual Upgradesが主な目的。\nイベントの仕組みを変更し複数のReactを同一ページ内で動くように、イベントの仕組みが変わったためEvent Poolongを削除、エラー時のコンポーネントスタックの改善など。",
             "tags": [
                 "React",
                 "ReleaseNote"
