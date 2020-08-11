@@ -24,9 +24,9 @@ JSer.infoに関連するリポジトリについての案内です。
 
 - [Issues · jser/jser.info](https://github.com/jser/jser.info/issues "Issues · jser/jser.info")
 	- JSer.infoに関連する意見や要望などを管理するIssue
-- [![Gitter chat](https://badges.gitter.im/jser/jser.info.png)](https://gitter.im/jser/jser.info)
-	- Gitterを利用したチャット
-	- Issueを立てるまでもない指摘や感想、疑問、オススメ記事など迷ったらチャットへ
+- [Slack](https://join.slack.com/t/jserinfo/shared_invite/zt-g2shzp7o-f_tj6OaphCAFw5Qlt2Jw0A)
+	- JSer.infoのSlackワークスペースではJavaScriptに関する雑談やJSer.infoの編集作業を行っています
+	- 基本的に誰でも参加できます
 
 ## データや記事を修正したい
 
