@@ -354,6 +354,17 @@
                     "url": "https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#from-version-53x-to-60x"
                 }
             ]
+        },
+        {
+            "date": "2020-08-12T13:12:59.794Z",
+            "title": "The npm Blog — npm v7 Series - Beta Release! And: SemVer-Major...",
+            "url": "https://blog.npmjs.org/post/626173315965468672/npm-v7-series-beta-release-and-semver-major",
+            "content": "npm 7 betaリリース。\n`peerDependencies`がデフォルトでインストールされるようになり、過去の挙動を再現する`--legacy-peer-deps`の追加された。\n`acceptDependencies`のサポート、`package-lock.json`の形式変更と`yarn.lock`のサポート、`workspaces`フィールドのサポートなど。\nまた、npm run-scriptにおける`npm_package_*`と`npm_package_*`の環境変数の削除などが行われている",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
