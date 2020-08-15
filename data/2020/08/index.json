@@ -376,6 +376,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-15T04:15:06.350Z",
+            "title": "Release Version 8.0.0 · acornjs/acorn",
+            "url": "https://github.com/acornjs/acorn/releases/tag/8.0.0",
+            "content": "JavaScriptパーサであるAcorn 8.0.0リリース。\nECMAScript moduleとしてロードできるように、`ecmaVersion`オプションが必須となった",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
