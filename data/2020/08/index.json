@@ -388,6 +388,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-15T06:13:21.195Z",
+            "title": "The Golden Rule of Generics",
+            "url": "https://effectivetypescript.com/2020/08/12/generics-golden-rule/",
+            "content": "TypeScriptのGenericsを使うべきかを判断するとき目安として「型パラメーターは2回表示されるとき」というルールについて。\nいろいろなコード例ともにGenericsの利用例を紹介している",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Handbook Page",
+                    "url": "https://microsoft.github.io/TypeScript-New-Handbook/everything/#guidelines-for-writing-good-generic-functions"
+                }
+            ]
         }
     ]
 }
