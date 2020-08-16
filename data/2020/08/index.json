@@ -427,6 +427,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-16T02:12:54.141Z",
+            "title": "Optimizing CSS for faster page loads - Tomas Pustelnik's personal website",
+            "url": "https://pustelto.com/blog/optimizing-css-for-faster-page-loads/",
+            "content": "CSSのCritical Pathの最適化について。\nCSSのロードタイムに与える影響、Critical CSSの分離と遅延ロード、CSSのCode Splittingについて",
+            "tags": [
+                "CSS",
+                "article",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
