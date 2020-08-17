@@ -502,6 +502,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-17T12:32:48.710Z",
+            "title": "Node.js and the struggles of being an EventTarget",
+            "url": "https://www.nearform.com/blog/node-js-and-the-struggles-of-being-an-eventtarget/",
+            "content": "Node.jsに`EventTarget`がなぜ実装されたのかについて。\nNode.jsにFethやAbortControllerなどのウェブ標準のAPIを実装するためにブラウザと互換性のある`EventTarget` APIが必要である点について。\n`EventTarget`を実装するにあたっての互換性、複数継承、パフォーマンスの問題をどう解決したかについて",
+            "tags": [
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
