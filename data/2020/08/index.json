@@ -545,6 +545,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-18T00:54:35.027Z",
+            "title": "Ajv Joins OpenJS Foundation as an Incubation Project - OpenJS Foundation",
+            "url": "https://openjsf.org/blog/2020/08/14/ajv-joins-openjs-foundation-as-an-incubation-project/",
+            "content": "JSON SchemaバリデーターであるAjvがOpenJS Foundationに入った。",
+            "tags": [
+                "JSON",
+                "library",
+                "news",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Evgeny Poberezkin - Ajv JSON Schema validator: Mozilla MOSS grant and OpenJS Foundation",
+                    "url": "https://www.poberezkin.com/posts/2020-08-14-ajv-json-validator-mozilla-open-source-grant-openjs-foundation.html"
+                }
+            ]
         }
     ]
 }
