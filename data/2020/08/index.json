@@ -513,6 +513,25 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-18T00:47:28.299Z",
+            "title": "emscripten/ChangeLog.md at master · emscripten-core/emscripten",
+            "url": "https://github.com/emscripten-core/emscripten/blob/master/ChangeLog.md#200-08102020",
+            "content": "C/C++などをWebAssemblyにコンパイルするEmscripten 2.0リリース。\nfastcomp backendの削除、Python 2のサポートを削除。\nまた例外情報のメタデータをJSではなく`WebAssembly.Memory`に保存することで例外処理がスレッドセーフになるような変更など",
+            "tags": [
+                "WebAssembly",
+                "JavaScript",
+                "library",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Remove fastcomp · Issue #11319 · emscripten-core/emscripten",
+                    "url": "https://github.com/sbc100"
+                }
+            ]
         }
     ]
 }
