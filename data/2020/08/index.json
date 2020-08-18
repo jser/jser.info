@@ -532,6 +532,19 @@
                     "url": "https://github.com/sbc100"
                 }
             ]
+        },
+        {
+            "date": "2020-08-18T00:53:11.066Z",
+            "title": "Release 2.11.0 · qunitjs/qunit",
+            "url": "https://github.com/qunitjs/qunit/releases/tag/2.11.0",
+            "content": "QUnit 2.11.0リリース。\nNode.js 10未満のサポートを削除、`assert.true`と`assert.false`の追加、HTMLレポートの検索改善など",
+            "tags": [
+                "JavaScript",
+                "test",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
