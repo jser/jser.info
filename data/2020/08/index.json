@@ -565,10 +565,10 @@
             ]
         },
         {
-            "date": "2020-08-19T15:09:01.394Z",
+            "date": "2020-08-19T15:09:46.172Z",
             "title": "ts-migrate: A Tool for Migrating to TypeScript at Scale | by Sergii Rudenko | Airbnb Engineering & Data Science | Aug, 2020 | Medium",
             "url": "https://medium.com/airbnb-engineering/ts-migrate-a-tool-for-migrating-to-typescript-at-scale-cd23bfeb5cc",
-            "content": "JavaScriptからTypeScriptにマイグレーションを補助する`ts-migrate`について。\n`.js`を`.ts`にリネーム、codemodベースでの`any`などの型付け、コンパイルエラーになる部分を`// @ts-expect-error`コメントで抑制していきマイグレーションする。",
+            "content": "JavaScriptからTypeScriptへのマイグレーションを補助する`ts-migrate`について。\n`.js`を`.ts`にリネーム、codemodベースでの`any`などの型付け、コンパイルエラーになる部分を`// @ts-expect-error`コメントで抑制していきマイグレーションする。",
             "tags": [
                 "JavaScript",
                 "TypeScript",
