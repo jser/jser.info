@@ -580,6 +580,18 @@
                     "url": "https://github.com/airbnb/ts-migrate"
                 }
             ]
+        },
+        {
+            "date": "2020-08-19T15:13:44.941Z",
+            "title": "Release 2.8.0 · pikapkg/snowpack",
+            "url": "https://github.com/pikapkg/snowpack/releases/tag/snowpack%402.8.0",
+            "content": "snowpack 2.8.0リリース。\n`snowpack build --watch`の追加、`--polyfill-node`でNodeコアモジュールのpolyfillを追加できるようになるなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
