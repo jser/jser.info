@@ -627,6 +627,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-21T15:18:14.141Z",
+            "title": "axios/CHANGELOG.md at master · axios/axios",
+            "url": "https://github.com/axios/axios/blob/master/CHANGELOG.md#0200-august-20-2020",
+            "content": "Axios 0.20.0リリース。\nBOMを含むJSONに対応、`maxBodyLength`オプションの追加、`decompress`オプションの追加など",
+            "tags": [
+                "HTTP",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
