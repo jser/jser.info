@@ -640,6 +640,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-21T15:34:03.463Z",
+            "title": "Protect your resources from web attacks with Fetch Metadata",
+            "url": "https://web.dev/fetch-metadata/",
+            "content": "Fetch Metadataの`Sec-Fetch-*`ヘッダの解説。\nSame-OriginとCross-Siteの区別、それぞれの`Sec-Fetch-*`ヘッダの解説、クロスサイトリクエストを使った攻撃の判定と対策などについて",
+            "tags": [
+                "Chrome",
+                "article",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
