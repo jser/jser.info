@@ -616,6 +616,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-21T13:50:19.567Z",
+            "title": "Announcing TypeScript 4.0 | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-0/",
+            "content": "TypeScript 4.0リリース。\nVariadic Tuple Types、Labeled Tuple Elements、Class Propertyの型がConstructorから推論されるように。\nES2021で入る予定のLogical Operators and Assignment Expressionsのサポート。\n`catch`節のデフォルトが`unknown`となるように、`jsxFragmentFactory`オプションのサポート、`--incremental`と`--noEmit`の組み合わせをサポート",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
