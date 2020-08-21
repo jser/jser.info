@@ -605,6 +605,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-21T13:32:13.951Z",
+            "title": "What's New In DevTools (Chrome 86)  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2020/08/devtools",
+            "content": "Chrome 86のDevToolsの変更点について。\nMediaパネルの追加、コンテキストメニューから要素のスクリーンショットを撮影できるように。\nWebFontで`local()`がない場合をエミュレート、Idle Detectionのエミュレート、`prefers-reduced-data`のエミュレート機能の追加。\nLighthouse 6.2へアップデート、ApplicationパネルにFrameの情報を追加、`X-Client-Data`のデコードをサポートなど",
+            "tags": [
+                "Chrome",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
