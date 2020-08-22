@@ -652,6 +652,17 @@
                 "security"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-22T08:01:54.026Z",
+            "title": "azu/kvs: Key-Value storage library for Browser, Node.js, and In-Memory.",
+            "url": "https://github.com/azu/kvs",
+            "content": "ブラウザとNode.jsで動作するUniversalなKey-ValueなStorageライブラリ。\n同じインターフェイスをもつIndexedDBやファイルベースなどの実装があり、マイグレーションをサポートしている。\nそれぞれの実装は個別に分かれていて、それぞれのパッケージは1kb(gzip)程度のサイズとなっている。\n",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
