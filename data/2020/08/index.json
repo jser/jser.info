@@ -681,6 +681,18 @@
                     "url": "https://github.com/cypress-io/cypress/releases/tag/v5.0.0"
                 }
             ]
+        },
+        {
+            "date": "2020-08-23T15:42:40.153Z",
+            "title": "Elderjs/elderjs: Elder.js is an opinionated static site generator and web framework for Svelte built with SEO in mind.",
+            "url": "https://github.com/elderjs/elderjs",
+            "content": "Svelteを使った静的サイトジェネレーター。\n規約ではなく`route.js`による柔軟なパーマネントリンクの生成、`data.js`でビルドに必要なものをまとめて取得して、静的なサイトを生成するためのツール。",
+            "tags": [
+                "JavaScript",
+                "Svelte",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
