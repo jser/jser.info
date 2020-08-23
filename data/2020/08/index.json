@@ -663,6 +663,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-23T15:00:23.723Z",
+            "title": "Release 5.0.0 · cypress-io/cypress",
+            "url": "https://github.com/cypress-io/cypress/releases/tag/v5.0.0",
+            "content": "Cypress 5.0.0リリース。\n`cypress-plugin-retries`が非推奨化され、Cypress自体でリトライの設定できるように。\nサポート対象をTypeScript 3.4+、Node.js 10+に変更、`__dirname`と`__filename`の末尾に`/`が含まれなくなるなど",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "test",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 5.0.0 · cypress-io/cypress",
+                    "url": "https://github.com/cypress-io/cypress/releases/tag/v5.0.0"
+                }
+            ]
         }
     ]
 }
