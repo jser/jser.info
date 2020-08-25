@@ -722,6 +722,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-25T02:39:19.801Z",
+            "title": "Release electron v10.0.0 · electron/electron",
+            "url": "https://github.com/electron/electron/releases/tag/v10.0.0",
+            "content": "Electron 10.0.0リリース。\nChromium 85、V8 8.5、Node.js 12.16へアップデート。\n`enableRemoteModule`を`false`に変更、`app.allowRendererProcessReuse`を`true`に変更。\n`contents.backgroundThrottling`プロパティの追加、`sameSite`情報を取得できるように、`worldSafeExecuteJavaScript`オプションの追加など",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
