@@ -745,6 +745,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-25T14:23:06.670Z",
+            "title": "dsherret/ts-morph: TypeScript Compiler API wrapper for static analysis and programmatic code changes.",
+            "url": "https://github.com/dsherret/ts-morph",
+            "content": "TypeScript Compiler APIのラッパーライブラリ。\nTypeScriptのAST操作やファイル操作などを扱えるAPIを提供する",
+            "tags": [
+                "TypeScript",
+                "AST",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
