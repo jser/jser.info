@@ -733,6 +733,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-25T02:57:47.857Z",
+            "title": "Prettier 2.1: new --embedded-language-formatting option and new JavaScript/TypeScript features! · Prettier",
+            "url": "https://prettier.io/blog/2020/08/24/2.1.0.html",
+            "content": "Prettier 2.1リリース。\n`--embedded-language-formatting`フラグの追加、`--ignore-unknown`フラグの追加、TypeScript 4.0のサポート。\nES ProposalのPipeline operator、Record and Tuple構文のサポートなど",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
