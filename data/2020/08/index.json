@@ -777,6 +777,19 @@
                     "url": "https://www.fxsitecompat.dev/en-CA/releases/80/"
                 }
             ]
+        },
+        {
+            "date": "2020-08-26T14:01:33.079Z",
+            "title": "Vue.js with TSX - From Vue 2.x to Vue 3 #v_tokyo11 - Speaker Deck",
+            "url": "https://speakerdeck.com/potato4d/vue-dot-js-with-tsx-from-vue-2-dot-x-to-vue-3-number-v-tokyo11",
+            "content": "VueでのTSX利用についてスライド。\nVue2/Vue3でのTSXの利用方法と制限、VueのSFCとTSXの比較など",
+            "tags": [
+                "Vue",
+                "jsx",
+                "TypeScript",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
