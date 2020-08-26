@@ -757,6 +757,26 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-26T13:42:41.849Z",
+            "title": "Firefox 80.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/80.0/releasenotes/",
+            "content": "Firefox 80.0リリース。\nES2020の`export * as namespace`構文のサポート。\n`window.open()`が`outerWidth`と`outerHeight`を無視するように、`Cache-Control`が設定されている場合に`Pragma`ヘッダは無視されるようになるなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 80 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/80#Changes_for_web_developers"
+                },
+                {
+                    "title": "Firefox 80 Site Compatibility | Firefox Site Compatibility",
+                    "url": "https://www.fxsitecompat.dev/en-CA/releases/80/"
+                }
+            ]
         }
     ]
 }
