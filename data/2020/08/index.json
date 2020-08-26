@@ -790,6 +790,19 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-26T14:21:09.962Z",
+            "title": "content-visibility: the new CSS property that boosts your rendering performance",
+            "url": "https://web.dev/content-visibility/",
+            "content": "Chrome 85で実装されたCSS `content-visibility`プロパティについて。\nCSS Containmentに依存した仕様。\nDOMのサブツリーに予測できる空間を定義することで、ブラウザがレンダリングを省略して最適化するための仕組み。\n`display: none`、`visibility: hidden`との違い、`content-visibility`プロパティのユースケースとしての無限スクロールなどについて",
+            "tags": [
+                "CSS",
+                "article",
+                "Chrome",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
