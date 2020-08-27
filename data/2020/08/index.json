@@ -803,6 +803,23 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-27T12:02:56.407Z",
+            "title": "Release v6.0.0 · d3/d3",
+            "url": "https://github.com/d3/d3/releases/tag/v6.0.0",
+            "content": "D3.js 6.0.0リリース。\nES2015のIteraable、Map、Setを利用するように、bowerの対応を削除。\n`d3-selection`などのイベントの仕組みを変更、`d3-collection`の非推奨化など",
+            "tags": [
+                "d3.js",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "d3/CHANGES.md at master · d3/d3",
+                    "url": "https://github.com/d3/d3/blob/master/CHANGES.md#changes-in-d3-60"
+                }
+            ]
         }
     ]
 }
