@@ -820,6 +820,18 @@
                     "url": "https://github.com/d3/d3/blob/master/CHANGES.md#changes-in-d3-60"
                 }
             ]
+        },
+        {
+            "date": "2020-08-27T23:57:09.214Z",
+            "title": "gluesql/gluesql: GlueSQL is quite sticky, it attaches to anywhere.",
+            "url": "https://github.com/gluesql/gluesql",
+            "content": "ライブラリとしてのSQLデータベース。\nRustとWebAssembly(JavaScript)での実装が提供されている。\nJavaScript版はInMemoery、LocalStorageなどで動作する",
+            "tags": [
+                "Rust",
+                "JavaScript",
+                "DB "
+            ],
+            "relatedLinks": []
         }
     ]
 }
