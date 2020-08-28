@@ -844,6 +844,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-28T00:03:52.348Z",
+            "title": "New in Chrome 85  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2020/08/nic85",
+            "content": "Chrome 85リリース。\nCSS `content-visibility`の実装、CSS PropertiesをCSSで定義する`@property`の実装、AVIF画像のサポート。\nOrigin TrialとしてFetch APIのStreaming requests、WebHID、Declarative Shadow DOM、Portalのサポート。\nまた、Referrer Policyのデフォルト値を`strict-origin-when-cross-origin`に変更など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
