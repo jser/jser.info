@@ -866,6 +866,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-28T23:28:56.976Z",
+            "title": "Yarn 2.2 🚅🌟 Dedupe, Faster, Lighter, ... - DEV Community 👩‍💻👨‍💻",
+            "url": "https://dev.to/arcanis/yarn-2-2-dedupe-faster-lighter-ha5",
+            "content": "Yarn 2.2リリース。\n`yarn dedupe`の追加、パフォーマンス改善、オプトアウト方式でYarnの利用情報をDatadogに送るように",
+            "tags": [
+                "yarn",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "berry/CHANGELOG.md at master · yarnpkg/berry",
+                    "url": "https://github.com/yarnpkg/berry/blob/master/CHANGELOG.md#220"
+                }
+            ]
         }
     ]
 }
