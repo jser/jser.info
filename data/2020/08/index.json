@@ -855,6 +855,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-28T00:06:19.386Z",
+            "title": "V8 release v8.5 · V8",
+            "url": "https://v8.dev/blog/v8-release-85",
+            "content": "V8 8.5リリース。\nES2021予定の`Promise.any`と`AggregateError`のサポート、String#replaceAllのサポート、Logical assignment operatorsのサポート。\nWebAssemblyのbaseline compilerであるLiftoffが全てのプラットフォームで使われるようになるなど",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
