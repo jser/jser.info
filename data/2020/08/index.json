@@ -884,23 +884,6 @@
             ]
         },
         {
-            "date": "2020-08-30T15:22:48.348Z",
-            "title": "Introducing Danfo.js, a Pandas-like Library in JavaScript — The TensorFlow Blog",
-            "url": "https://blog.tensorflow.org/2020/08/introducing-danfo-js-pandas-like-library-in-javascript.html",
-            "content": "PandasインスパイアなライブラリであるDanfo.jsについて。\nTensorFlow.jsと組み合わせて利用できる",
-            "tags": [
-                "MachineLearning",
-                "JavaScript",
-                "library"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "opensource9ja/danfojs: danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.",
-                    "url": "https://github.com/opensource9ja/danfojs"
-                }
-            ]
-        },
-        {
             "date": "2020-08-30T15:34:17.727Z",
             "title": "ztext.js | 3D Typography for the Web",
             "url": "https://bennettfeely.com/ztext/",
@@ -958,6 +941,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-31T10:32:19.559Z",
+            "title": "Introducing Danfo.js, a Pandas-like Library in JavaScript — The TensorFlow Blog",
+            "url": "https://blog.tensorflow.org/2020/08/introducing-danfo-js-pandas-like-library-in-javascript.html",
+            "content": "PandasインスパイアなライブラリであるDanfo.jsについて。\nTensorFlow.jsと組み合わせて利用できる",
+            "tags": [
+                "MachineLearning",
+                "JavaScript",
+                "library",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "opensource9ja/danfojs: danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.",
+                    "url": "https://github.com/opensource9ja/danfojs"
+                }
+            ]
         }
     ]
 }
