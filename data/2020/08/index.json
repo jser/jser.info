@@ -934,6 +934,18 @@
                     "url": "https://help.testim.io/docs/root-cause"
                 }
             ]
+        },
+        {
+            "date": "2020-08-31T08:42:06.401Z",
+            "title": "Bnaya/objectbuffer: JavaScript Object like api, backed by an arraybuffer",
+            "url": "https://github.com/Bnaya/objectbuffer",
+            "content": "`ArrayBuffer`をバックエンドに使ったオブジェクトデータライブラリ。\n通常のオブジェクトはWeb Workerなどに渡す際にコピーされるが、`ArrayBuffer`などのTransferableなオブジェクトならコピーせずに渡せるのを目的にしている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "webworker"
+            ],
+            "relatedLinks": []
         }
     ]
 }
