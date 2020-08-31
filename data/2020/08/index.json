@@ -911,6 +911,29 @@
                 "fonts"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-31T08:10:24.694Z",
+            "title": "testimio/root-cause",
+            "url": "https://github.com/testimio/root-cause",
+            "content": "PuppeteerとPlaywrightを使ったE2Eテストの補助ツール。\nそれぞれの実行ステップをスクリーンショットで保存、コンソールログやネットワーク(HAR)ファイルの保存してレポートからテストが失敗した原因を検証できる。\n単独で動かす方法とJestやMochaなどのテストフレームワークに統合するライブラリを提供している。",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "library",
+                "Tools",
+                "testing"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Root Cause - Fast authoring of AI-stabilized end-to-end tests—codeless, coded, or both",
+                    "url": "https://www.testim.io/root-cause/"
+                },
+                {
+                    "title": "Testim Root Cause overview",
+                    "url": "https://help.testim.io/docs/root-cause"
+                }
+            ]
         }
     ]
 }
