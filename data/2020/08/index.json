@@ -946,6 +946,18 @@
                 "webworker"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-08-31T08:49:38.929Z",
+            "title": "edwinm/carbonium: Carbonium, for easy manipulation of the DOM",
+            "url": "https://github.com/edwinm/carbonium",
+            "content": "Proxyを使ったDOM操作ライブラリ。\nセレクタで要素選択し、選択した複数の要素に対してまとめて`style`や`classList`などのDOM APIでの操作を行えるライブラリ",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
