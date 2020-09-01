@@ -12,6 +12,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-01T13:24:49.356Z",
+            "title": "Release 13.7.0 · stylelint/stylelint",
+            "url": "https://github.com/stylelint/stylelint/releases/tag/13.7.0",
+            "content": "stylelint 13.7.0リリース。\n`*-blacklist`、`*-requirelist`, `*-whitelist`を非推奨化し、` *-disallowed-list`, `*-required-list`にリネーム。\n`stylelint-disable`コメントに説明を書けるように",
+            "tags": [
+                "JavaScript",
+                "CSS",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
