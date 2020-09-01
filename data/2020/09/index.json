@@ -1,0 +1,17 @@
+{
+    "list": [
+        {
+            "date": "2020-09-01T12:26:36.750Z",
+            "title": "Release 2.0.0: ECMAScript 2020対応 · asciidwango/js-primer",
+            "url": "https://github.com/asciidwango/js-primer/releases/tag/v2.0.0",
+            "content": "JavaScript入門書のJavaScript Primer 2.0.0リリース。\nES2020の`String.prototype.matchAll`、`globalThis`、BigInt、Nullish coalescing(`??`)、Optional chainin（`?.`）に対応など",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "book",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
