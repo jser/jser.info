@@ -48,6 +48,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-02T23:19:02.707Z",
+            "title": "Release v4.0.0 · typescript-eslint/typescript-eslint",
+            "url": "https://github.com/typescript-eslint/typescript-eslint/releases/tag/v4.0.0",
+            "content": "TypeScript-ESLint 4.0.0リリース。\nOptional ChainingとdecoratorsのASTを変更、Scope解析を改善して`no-unused-vars`などのルールを改善、`ban-ts-comment`のデフォルト値を変更など。\nまたTypeScript 4.0にはTypeScript-ESLint 3.10.0で対応している。",
+            "tags": [
+                "TypeScript",
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
