@@ -37,6 +37,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-02T23:06:48.037Z",
+            "title": "ESLint v7.8.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2020/08/eslint-v7.8.0-released",
+            "content": "ESLint 7.8.0リリース。\n`ecmaScript`オプションが`2021`に対応しLogical assignment operators、numeric separatorsに対応。\n",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
