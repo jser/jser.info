@@ -83,6 +83,26 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-05T04:32:06.807Z",
+            "title": "Chromium Blog: Chrome 86: Improved Focus Highlighting, WebHID, and More",
+            "url": "https://blog.chromium.org/2020/09/chrome-86-improved-focus-highlighting.html",
+            "content": "Chrome 86ベータリリース。\nCSS 擬似クラスの`:focus-visible`、擬似要素の`::marker`をサポート。\nDocument Policy、`FetchEvent.handled`、Shadow DOM Distribution API、`ParentNode.replaceChildren()`のサポートなど。\nまたOrigin TrialとしてWebHID API、Window placement API、`<meta name=\"battery-savings\">`などのサポート。\nその他にはFTPのサポートが非推奨となるなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "window-placement/EXPLAINER.md at master · webscreens/window-placement",
+                    "url": "https://github.com/webscreens/window-placement/blob/master/EXPLAINER.md"
+                },
+                {
+                    "title": "battery-savings/explainer.md at master · chrishtr/battery-savings",
+                    "url": "https://github.com/chrishtr/battery-savings/blob/master/explainer.md"
+                }
+            ]
         }
     ]
 }
