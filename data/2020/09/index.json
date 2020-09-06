@@ -103,6 +103,23 @@
                     "url": "https://github.com/chrishtr/battery-savings/blob/master/explainer.md"
                 }
             ]
+        },
+        {
+            "date": "2020-09-06T03:36:43.497Z",
+            "title": "この書籍について · JavaScript Plugin Architecture",
+            "url": "https://azu.github.io/JavaScript-Plugin-Architecture/",
+            "content": "JavaScriptのプラグインアーキテクチャについて扱う小さな書籍。\njQuery、ESLint、Connect、gulp、Reduxのプラグインの仕組みを実装しながら紹介している。",
+            "tags": [
+                "JavaScript",
+                "plugin",
+                "book"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v2.0.0 · azu/JavaScript-Plugin-Architecture",
+                    "url": "https://github.com/azu/JavaScript-Plugin-Architecture/releases/tag/v2.0.0"
+                }
+            ]
         }
     ]
 }
