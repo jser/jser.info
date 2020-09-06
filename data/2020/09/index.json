@@ -120,6 +120,23 @@
                     "url": "https://github.com/azu/JavaScript-Plugin-Architecture/releases/tag/v2.0.0"
                 }
             ]
+        },
+        {
+            "date": "2020-09-06T13:38:16.505Z",
+            "title": "Update on Adobe Flash Player End of Support - Microsoft Edge Blog",
+            "url": "https://blogs.windows.com/msedgedev/2020/09/04/update-adobe-flash-end-support/",
+            "content": "MSEdgeではFlash Playerを2021年1月のEdge 88の削除する予定",
+            "tags": [
+                "MSEdge",
+                "flash",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Flash",
+                    "url": "https://www.chromium.org/flash-roadmap#TOC-Flash-Support-Removed-from-Chromium-Target:-Chrome-88---Jan-2021-"
+                }
+            ]
         }
     ]
 }
