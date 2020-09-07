@@ -137,6 +137,18 @@
                     "url": "https://www.chromium.org/flash-roadmap#TOC-Flash-Support-Removed-from-Chromium-Target:-Chrome-88---Jan-2021-"
                 }
             ]
+        },
+        {
+            "date": "2020-09-07T14:28:31.919Z",
+            "title": "Underscore.js",
+            "url": "https://underscorejs.org/#1.11.0",
+            "content": "underscore 1.10.0リリース。\nそれぞれの関数を個別のES Modulesにし、ES Modulesのエントリーポイントとして`underscore-esm.js`を追加。\n`_.isArrayBuffer`、`_.isDataView`、`_.isTypedArray`の追加、`_.flatten`がdepthを指定する第2引数をサポートなど",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
