@@ -178,6 +178,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-08T03:21:02.399Z",
+            "title": "Browsers may throttle requestAnimationFrame",
+            "url": "https://mattperry.is/writing-code/browsers-may-throttle-requestanimationframe-to-30fps",
+            "content": "`requestAnimationFrame`のフレームレートがブラウザによって抑制される条件について。\niOSのlow-power mode、Safariのcross-origin iframesの条件下では抑制される点について。\nまた、Firefoxにおいて`performance.now()`の精度の抑制されていることとcross-origin isolateについて。",
+            "tags": [
+                "JavaScript",
+                "animation",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
