@@ -190,6 +190,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-08T03:24:11.218Z",
+            "title": "mizchi/minlink: Minimum(> 1kb) and isomorphic worker wrapper with comlink like rpc.",
+            "url": "https://github.com/mizchi/minlink",
+            "content": "Web Worker/Node.jsの`worker_thread`でRPCをするためのライブラリ。\ncomlinkのように関数呼び出しで`postMessage`のやりとりをする",
+            "tags": [
+                "JavaScript",
+                "webworker",
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "minlink - browser/node で使える Worker ラッパー - mizdev",
+                    "url": "https://mizchi.dev/202009061729-minlink-and-minify-tech"
+                }
+            ]
         }
     ]
 }
