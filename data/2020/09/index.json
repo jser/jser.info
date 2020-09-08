@@ -166,6 +166,18 @@
                     "url": "https://github.com/modernweb-dev/web"
                 }
             ]
+        },
+        {
+            "date": "2020-09-08T03:13:46.848Z",
+            "title": "Introducing Modular Underscore—Julian Gonggrijp",
+            "url": "https://juliangonggrijp.com/article/introducing-modular-underscore.html",
+            "content": "underscore 1.11.0でのES Modulesへの移行とその利用方法についての記事。\n既存(モノリシック)とES Modulesの利用方法、ビルドサイズの最適化、Underscore 2.0についてなど",
+            "tags": [
+                "JavaScript",
+                "library",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
