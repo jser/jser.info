@@ -122,23 +122,6 @@
             ]
         },
         {
-            "date": "2020-09-06T13:38:16.505Z",
-            "title": "Update on Adobe Flash Player End of Support - Microsoft Edge Blog",
-            "url": "https://blogs.windows.com/msedgedev/2020/09/04/update-adobe-flash-end-support/",
-            "content": "MSEdgeではFlash Playerを2021年1月のEdge 88の削除する予定",
-            "tags": [
-                "MSEdge",
-                "flash",
-                "news"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "Flash",
-                    "url": "https://www.chromium.org/flash-roadmap#TOC-Flash-Support-Removed-from-Chromium-Target:-Chrome-88---Jan-2021-"
-                }
-            ]
-        },
-        {
             "date": "2020-09-07T14:28:31.919Z",
             "title": "Underscore.js",
             "url": "https://underscorejs.org/#1.11.0",
@@ -206,6 +189,23 @@
                 {
                     "title": "minlink - browser/node で使える Worker ラッパー - mizdev",
                     "url": "https://mizchi.dev/202009061729-minlink-and-minify-tech"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-08T03:25:59.699Z",
+            "title": "Update on Adobe Flash Player End of Support - Microsoft Edge Blog",
+            "url": "https://blogs.windows.com/msedgedev/2020/09/04/update-adobe-flash-end-support/",
+            "content": "MSEdgeではFlash Playerを2021年1月のEdge 88の削除する予定。\nこの削除スケジュールはChromiumにあわせたもの",
+            "tags": [
+                "MSEdge",
+                "flash",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Flash Roadmap - The Chromium Projects",
+                    "url": "https://www.chromium.org/flash-roadmap#TOC-Flash-Support-Removed-from-Chromium-Target:-Chrome-88---Jan-2021-"
                 }
             ]
         }
