@@ -1,19 +1,6 @@
 {
     "list": [
         {
-            "date": "2020-09-01T12:26:36.750Z",
-            "title": "Release 2.0.0: ECMAScript 2020対応 · asciidwango/js-primer",
-            "url": "https://github.com/asciidwango/js-primer/releases/tag/v2.0.0",
-            "content": "JavaScript入門書のJavaScript Primer 2.0.0リリース。\nES2020の`String.prototype.matchAll`、`globalThis`、BigInt、Nullish coalescing(`??`)、Optional chainin（`?.`）に対応など",
-            "tags": [
-                "JavaScript",
-                "ECMAScript",
-                "book",
-                "ReleaseNote"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2020-09-01T13:24:49.356Z",
             "title": "Release 13.7.0 · stylelint/stylelint",
             "url": "https://github.com/stylelint/stylelint/releases/tag/13.7.0",
@@ -206,6 +193,24 @@
                 {
                     "title": "Flash Roadmap - The Chromium Projects",
                     "url": "https://www.chromium.org/flash-roadmap#TOC-Flash-Support-Removed-from-Chromium-Target:-Chrome-88---Jan-2021-"
+                }
+            ]
+        },
+        {
+            "date": "2020-09-08T03:27:04.475Z",
+            "title": "Release 2.0.0: ECMAScript 2020対応 · asciidwango/js-primer",
+            "url": "https://github.com/asciidwango/js-primer/releases/tag/v2.0.0",
+            "content": "JavaScript入門書のJavaScript Primer 2.0.0リリース。\nES2020の`String.prototype.matchAll`、`globalThis`、BigInt、Nullish coalescing(`??`)、Optional chainin（`?.`）に対応など",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "book",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "JavaScript Primer 2.0 - ECMAScript 2020に対応した入門書を公開しました | Web Scratch",
+                    "url": "https://efcl.info/2020/09/01/jsprimer-2.0/"
                 }
             ]
         }
