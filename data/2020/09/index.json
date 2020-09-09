@@ -224,6 +224,19 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-09T15:26:17.382Z",
+            "title": "brahmosjs/brahmos: Super charged JavaScript library with modern React API and native templates.",
+            "url": "https://github.com/brahmosjs/brahmos",
+            "content": "ReactのようなAPIとJSXで記述できるUIライブラリ。\nBabel pluginでJSXをTagged Template Literalに変換し、lit-htmlのような形でレンダリングする",
+            "tags": [
+                "React",
+                "jsx",
+                "library",
+                "babel"
+            ],
+            "relatedLinks": []
         }
     ]
 }
