@@ -237,6 +237,17 @@
                 "babel"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-10T08:32:52.813Z",
+            "title": "Node v14.10.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v14.10.0/",
+            "content": "Node.js 14.10.0リリース。\nランダムなintegerを返す`çcrypto.randomInt()`の追加、`performance.eventLoopUtilization()`の追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
