@@ -261,6 +261,23 @@
                 "serverless"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-11T13:53:50.519Z",
+            "title": "AVIF has landed - JakeArchibald.com",
+            "url": "https://jakearchibald.com/2020/avif-has-landed/",
+            "content": "AV1 video由来の画像フォーマットであるAVIFについて。\njpeg、WebP、AVIFとのサイズや画質の比較。\nAVIFのエンコード、デコード時間、プログレッシブ表示できないといった特徴についてなど",
+            "tags": [
+                "browser",
+                "Image",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "How to Use AVIF: The New Next-Gen Image Compression Format — Lightspeed",
+                    "url": "https://reachlightspeed.com/blog/using-the-new-high-performance-avif-image-format-on-the-web-today/"
+                }
+            ]
         }
     ]
 }
