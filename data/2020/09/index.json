@@ -248,6 +248,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-11T12:11:45.598Z",
+            "title": "Release 2.0.0 (2020-09-10) · serverless/serverless",
+            "url": "https://github.com/serverless/serverless/releases/tag/v2.0.0",
+            "content": "Serverless Frameworkのserverless 2.0リリース。\nNode.js 10未満のサポート終了、`slss`のaliasを削除、AWSの`httoApi`の`timeout`設定の削除など",
+            "tags": [
+                "node.js",
+                "library",
+                "ReleaseNote",
+                "serverless"
+            ],
+            "relatedLinks": []
         }
     ]
 }
