@@ -291,15 +291,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-09-12T07:32:26.594Z",
+            "date": "2020-09-12T07:32:39.234Z",
             "title": "DevTools architecture refresh: Migrating to JavaScript modules  |  Web",
             "url": "https://developers.google.com/web/updates/2020/09/migrating-to-js-modules",
             "content": "Chrome Dev Toolsの独自モジュールシステムからES Modulesに移行した話。\n標準であるES Modulesの利点、移行戦略、exportの変更/importの変更の段階的な移行について。\nまた技術的な負債により初期の見積もり(数週間)よりも大きく時間(数ヶ月)かかったことについてなど",
             "tags": [
                 "JavaScript",
                 "Chrome",
-                "debug",
-                "article"
+                "article",
+                "refacoring"
             ],
             "relatedLinks": []
         }
