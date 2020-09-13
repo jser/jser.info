@@ -280,17 +280,6 @@
             ]
         },
         {
-            "date": "2020-09-12T04:07:19.217Z",
-            "title": "ten1seven/what-input: A global utility for tracking the current input method (mouse/pointer, keyboard or touch).",
-            "url": "https://github.com/ten1seven/what-input",
-            "content": "ユーザーの入力状態をトラッキングするライブラリ。\nmouse, keyboard, touchの常態化を判定できる",
-            "tags": [
-                "JavaScript",
-                "library"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2020-09-12T07:32:54.694Z",
             "title": "DevTools architecture refresh: Migrating to JavaScript modules  |  Web",
             "url": "https://developers.google.com/web/updates/2020/09/migrating-to-js-modules",
@@ -326,6 +315,18 @@
                 "browser",
                 "console",
                 "Tools"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2020-09-13T23:50:58.781Z",
+            "title": "ten1seven/what-input: A global utility for tracking the current input method (mouse/pointer, keyboard or touch).",
+            "url": "https://github.com/ten1seven/what-input",
+            "content": "ユーザーの入力状態をトラッキングするライブラリ。\n現在の入力状態がmouse, keyboard, touchなのかを判定できる",
+            "tags": [
+                "JavaScript",
+                "library",
+                "browser"
             ],
             "relatedLinks": []
         }
