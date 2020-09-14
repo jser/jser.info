@@ -364,6 +364,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-14T14:56:55.069Z",
+            "title": "Release v1.4.0 · denoland/deno",
+            "url": "https://github.com/denoland/deno/releases/tag/v1.4.0",
+            "content": "Deno 1.4.0リリース。\nWebSocket APIの実装、`Deno.systemMemoryInfo()`の追加。\nまた、unstableな機能として`deno run --watch`、`deno test --coverage`の追加など",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
