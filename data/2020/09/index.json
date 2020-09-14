@@ -352,6 +352,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-14T14:55:14.023Z",
+            "title": "sabljakovich/mongoose-execution-time: Mongoose plugin for measuring and logging query execution time",
+            "url": "https://github.com/sabljakovich/mongoose-execution-time",
+            "content": "mongooseでqueryの実行時間をログ出力するライブラリ",
+            "tags": [
+                "MongoDB",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
