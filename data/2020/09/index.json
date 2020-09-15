@@ -435,6 +435,35 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-15T12:22:12.081Z",
+            "title": "Moment.js | Docs",
+            "url": "https://momentjs.com/docs/#/-project-status/",
+            "content": "Moment.jsのメンテナンスモードであるというプロジェクトステータスについてのドキュメントが追加された。\nMoment.jsに新しい機能の追加などはしないメンテンスモードであるということについてや代替となるライブラリとしてLuxon、Day.js、date-fns、js-jodaの紹介をしている。\nまた、ECMA-402の`Intl`オブジェクトとTemporal Proposalについて紹介している",
+            "tags": [
+                "JavaScript",
+                "news",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Luxon",
+                    "url": "https://moment.github.io/luxon/"
+                },
+                {
+                    "title": "Day.js · 2kB JavaScript date utility library",
+                    "url": "https://day.js.org/"
+                },
+                {
+                    "title": "Manual | js-joda",
+                    "url": "https://js-joda.github.io/js-joda/"
+                },
+                {
+                    "title": "date-fns - modern JavaScript date utility library",
+                    "url": "https://date-fns.org/"
+                }
+            ]
         }
     ]
 }
