@@ -319,18 +319,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-09-13T23:50:58.781Z",
-            "title": "ten1seven/what-input: A global utility for tracking the current input method (mouse/pointer, keyboard or touch).",
-            "url": "https://github.com/ten1seven/what-input",
-            "content": "ユーザーの入力状態をトラッキングするライブラリ。\n現在の入力状態がmouse, keyboard, touchなのかを判定できる",
-            "tags": [
-                "JavaScript",
-                "library",
-                "browser"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2020-09-14T07:49:53.829Z",
             "title": "ngneat/edit-in-place: A flexible and unopinionated edit in place library for Angular applications",
             "url": "https://github.com/ngneat/edit-in-place",
@@ -419,6 +407,19 @@
                 "bundler",
                 "ReleaseNote",
                 "JavaScript"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2020-09-15T02:38:17.716Z",
+            "title": "ten1seven/what-input: A global utility for tracking the current input method (mouse/pointer, keyboard or touch).",
+            "url": "https://github.com/ten1seven/what-input",
+            "content": "ユーザーの入力状態をトラッキングするライブラリ。\n現在の入力状態がmouse, keyboard, touchなのかを判定できる",
+            "tags": [
+                "JavaScript",
+                "library",
+                "browser",
+                "DOM"
             ],
             "relatedLinks": []
         }
