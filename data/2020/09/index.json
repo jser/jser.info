@@ -422,6 +422,19 @@
                 "DOM"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-15T02:57:30.464Z",
+            "title": "Release v1.4.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.4.0",
+            "content": "playwright 1.4.0リリース。\nplaywright-cliを正式リリース、Chromium 86/Firefox 80/WebKit 14へアップデート。\n`elementHandle.waitForElementState()`と`elementHandle.waitForSelector()`の追加など",
+            "tags": [
+                "browser",
+                "library",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
