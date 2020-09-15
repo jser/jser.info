@@ -409,6 +409,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-15T02:13:07.356Z",
+            "title": "Release snowpack@2.11.1 · pikapkg/snowpack",
+            "url": "https://github.com/pikapkg/snowpack/releases/tag/snowpack%402.11.1",
+            "content": "snowpack 2.11.1リリース。\nesbuildなどをベースにした`@snowpack/plugin-optimize`の追加、`build --watch`でHMR/Livereloadの対応。\nまた、`@snowpack/plugin-webpack`でもHTMLのminifyをするようになるなど。",
+            "tags": [
+                "bundler",
+                "ReleaseNote",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
