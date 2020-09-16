@@ -464,6 +464,23 @@
                     "url": "https://date-fns.org/"
                 }
             ]
+        },
+        {
+            "date": "2020-09-16T14:19:45.362Z",
+            "title": "flareact/flareact: Edge-rendered React framework built for Cloudflare Workers",
+            "url": "https://github.com/flareact/flareact",
+            "content": "Cloudflare WorkerのEdgeで動くReactフレームワーク",
+            "tags": [
+                "React",
+                "cdn",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Rendering React on the Edge with Flareact and Cloudflare Workers",
+                    "url": "https://blog.cloudflare.com/rendering-react-on-the-edge-with-flareact-and-cloudflare-workers/"
+                }
+            ]
         }
     ]
 }
