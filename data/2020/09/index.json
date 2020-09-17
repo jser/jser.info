@@ -481,6 +481,28 @@
                     "url": "https://blog.cloudflare.com/rendering-react-on-the-edge-with-flareact-and-cloudflare-workers/"
                 }
             ]
+        },
+        {
+            "date": "2020-09-17T13:09:34.952Z",
+            "title": "Release 8.0 “President Ose” · postcss/postcss",
+            "url": "https://github.com/postcss/postcss/releases/tag/8.0.0",
+            "content": "PostCSS 8.0リリース。\nNode.js 8以下のサポート終了、ES2015のコードをそのまま配布するように、`postcss.vendor` APIの削除。\nPostCSS Plugin APIの変更、パーサの改善、Source Mapサポートの改善、TypeScriptのサポートなど",
+            "tags": [
+                "CSS",
+                "library",
+                "ReleaseNote",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 10.0 “Alis volat propriis” · postcss/autoprefixer",
+                    "url": "https://github.com/postcss/autoprefixer/releases/tag/10.0.0"
+                },
+                {
+                    "title": "PostCSS 8.0: Plugin migration guide — Martian Chronicles, Evil Martians’ team blog",
+                    "url": "https://evilmartians.com/chronicles/postcss-8-plugin-migration"
+                }
+            ]
         }
     ]
 }
