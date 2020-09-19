@@ -533,6 +533,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-19T15:42:03.389Z",
+            "title": "nextauthjs/next-auth: Authentication for Next.js",
+            "url": "https://github.com/nextauthjs/next-auth",
+            "content": "Next.js向けのAuthentication library。\nAuth0、Apple、Facebook、Googleなどいろいろなプロバイダーに対応している。",
+            "tags": [
+                "React",
+                "library",
+                "OAuth"
+            ],
+            "relatedLinks": []
         }
     ]
 }
