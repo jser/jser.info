@@ -522,6 +522,17 @@
                     "url": "https://v3.vuejs.org/guide/migration/introduction.html"
                 }
             ]
+        },
+        {
+            "date": "2020-09-19T07:24:25.154Z",
+            "title": "Announcing TypeScript 4.1 Beta | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-1-beta/",
+            "content": "TypeScript 4.1 Betaリリース。\nTemplate Literal Types、Mapped TypesでKeyのRemappingをサポート、再帰的なConditional Typesのサポート。\nインデックスアクセス時に`undefined`となる可能性を考慮する`noUncheckedIndexedAccess`オプションの追加、`baseUrl`なしで`paths`オプションを指定できるように。\n破壊的な変更として、`new Promise`における`resolve`関数の引数がOptionalではなくなるなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
