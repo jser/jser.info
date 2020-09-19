@@ -503,6 +503,25 @@
                     "url": "https://evilmartians.com/chronicles/postcss-8-plugin-migration"
                 }
             ]
+        },
+        {
+            "date": "2020-09-19T07:12:11.107Z",
+            "title": "Release v3.0.0 One Piece · vuejs/vue-next",
+            "url": "https://github.com/vuejs/vue-next/releases/tag/v3.0.0",
+            "content": "Vue 3.0.0リリース。\nコードベースをTypeScriptで書き直し、コアモジュールのパッケージ化。\nComposition API、Teleport、Fragmentsのサポート。\n実験的なAPIとして`<script setup>`と`<style vars>`のサポート。\n破壊的な変更として`Vue.*`以下のグローバルAPIをインスタンスAPIに移動、Template Directiveの挙動の変更、ライフサイクルオプション名のリネーム、Filterの削除など。\nまた、Vue 3.0.0時点ではIE 11のサポートは含まれていない。",
+            "tags": [
+                ""
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Evan You // Keynote: Live Free Online Announcement // Vuejs Global Online - YouTube",
+                    "url": "https://www.youtube.com/watch?v=Vp5ANvd88x0"
+                },
+                {
+                    "title": "Introduction | Vue.js",
+                    "url": "https://v3.vuejs.org/guide/migration/introduction.html"
+                }
+            ]
         }
     ]
 }
