@@ -663,6 +663,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-20T14:17:46.147Z",
+            "title": "Managing several displays with the Multi-Screen Window Placement API",
+            "url": "https://web.dev/multi-screen-window-placement/",
+            "content": "Chrome 86でOrigin Trialとして実装されているMulti-Screen Window Placement APIについて。\n複数のスクリーンかの判定、それぞれのスクリーン情報の取得、スクリーン変更の検知、フルスクリーン化するスクリーンの指定についてなど",
+            "tags": [
+                "JavaScript",
+                "Chrome",
+                "article",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
