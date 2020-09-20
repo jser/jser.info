@@ -651,6 +651,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-20T14:05:22.454Z",
+            "title": "How to detect fullscreen mode using CSS – Amit Merchant – A blog on PHP, JavaScript and more",
+            "url": "https://www.amitmerchant.com/how-to-detect-fullscreen-mode-using-css/",
+            "content": "CSS Media Queryを使ってブラウザがフルスクリーンであるかを判定する方法について。\n`display-mode: fullscreen`をMedia Queryを使い判定することでフルスクリーンとなった場合の処理やCSSを実装できる",
+            "tags": [
+                "CSS",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
