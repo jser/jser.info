@@ -597,6 +597,18 @@
                     "url": "https://kea.js.org/docs/guide/typescript/"
                 }
             ]
+        },
+        {
+            "date": "2020-09-20T13:29:00.034Z",
+            "title": "Working with JavaScript Media Queries | CSS-Tricks",
+            "url": "https://css-tricks.com/working-with-javascript-media-queries/",
+            "content": "JavaScriptでのMediaQueryの利用方法について。\n`window.matchMedia`の使い方、`resize`イベントを見る場合とのパフォーマンスの違いについて",
+            "tags": [
+                "JavaScript",
+                "CSS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
