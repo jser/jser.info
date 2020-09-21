@@ -701,6 +701,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-21T23:35:02.641Z",
+            "title": "V8 release v8.6 · V8",
+            "url": "https://v8.dev/blog/v8-release-86",
+            "content": "V8 8.6リリース。\nJavaScriptエンジンのFuzzingツールであるJS-Fuzzerの公開、`Number.prototype.toString`のパフォーマンス改善。\n`Atomics.notify`にリネームされたため`Atomics.wake`の削除、Wasmのパフォーマンス改善など",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
