@@ -676,6 +676,19 @@
                 "WebPlatformAPI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-21T06:28:58.534Z",
+            "title": "Rewriting Facebook's \"Recoil\" React library from scratch in 100 lines",
+            "url": "https://bennetthardwick.com/blog/recoil-js-clone-from-scratch-in-100-lines/",
+            "content": "Recoil的なObserver Patternのステート管理を実装しながら仕組みを見ていく話",
+            "tags": [
+                "JavaScript",
+                "React",
+                "library",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
