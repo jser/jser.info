@@ -689,6 +689,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-21T06:33:51.628Z",
+            "title": "pmndrs/jotai: 👻 Primitive, flexible state management for React",
+            "url": "https://github.com/pmndrs/jotai",
+            "content": "RecoilインスパイアなReact向けのステート管理ライブラリ。\nプリミティブな値をAtomでwrap、unwrapするAPIをもつ。\nUtilsとしてAtomを使ったHigh Level APIを提供する",
+            "tags": [
+                "JavaScript",
+                "React",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
