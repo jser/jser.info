@@ -755,6 +755,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-24T14:39:10.606Z",
+            "title": "Firefox 81.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/81.0/releasenotes/",
+            "content": "Firefox 81リリース。\niframe要素の`sandbox`属性が`allow-downloads`をサポート、`Content-Disposition` HTTPヘッダにおいてクオートで囲まれていないファイル名に対応。\nJavaScriptのMIMEタイプではないWorkerスクリプトは`new Worker()`で読み込めないように変更など",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 81 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/docs/Mozilla/Firefox/Releases/81"
+                },
+                {
+                    "title": "Worker scripts with wrong MIME type will be blocked from loading with Worker() or SharedWorker() (Breaking) | Firefox Site Compatibility",
+                    "url": "https://www.fxsitecompat.dev/docs/2020/worker-scripts-with-wrong-mime-type-will-be-blocked-from-loading-with-worker-or-sharedworker/"
+                }
+            ]
         }
     ]
 }
