@@ -741,6 +741,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-24T13:39:30.313Z",
+            "title": "Release DOMPurify 2.1.0 · cure53/DOMPurify",
+            "url": "https://github.com/cure53/DOMPurify/releases/tag/2.1.0",
+            "content": "DOMpurify 2.1.0リリース。\njQueryのメソッドはデフォルトで対応したため`SAFE_FOR_JQUERY`フラグを削除、mXSSの修正とコード整理など",
+            "tags": [
+                "DOM",
+                "XSS",
+                "library",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
