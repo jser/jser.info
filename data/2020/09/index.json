@@ -729,6 +729,18 @@
                     "url": "https://github.com/reactjs/rfcs/blob/createlement-rfc/text/0000-create-element-changes.md"
                 }
             ]
+        },
+        {
+            "date": "2020-09-24T13:07:46.659Z",
+            "title": "Release 10.5.0 - JSX Reloaded · preactjs/preact",
+            "url": "https://github.com/preactjs/preact/releases/tag/10.5.0",
+            "content": "Preact 10.5.0リリース。\n新しいJSXの変換に対応したRuntimeの追加、 hydrationにおけるSuspend & Resumeの改善など",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
