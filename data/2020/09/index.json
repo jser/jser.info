@@ -775,6 +775,18 @@
                     "url": "https://www.fxsitecompat.dev/docs/2020/worker-scripts-with-wrong-mime-type-will-be-blocked-from-loading-with-worker-or-sharedworker/"
                 }
             ]
+        },
+        {
+            "date": "2020-09-24T15:19:35.715Z",
+            "title": "balazsbotond/urlcat: A URL builder library for JavaScript.",
+            "url": "https://github.com/balazsbotond/urlcat",
+            "content": "URLの結合(join)、パラメータクエリの生成(query)、置換(subst)するライブラリ。\n",
+            "tags": [
+                "JavaScript",
+                "URL",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
