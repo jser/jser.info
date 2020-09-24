@@ -714,10 +714,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-09-24T12:39:26.587Z",
+            "date": "2020-09-24T12:40:24.442Z",
             "title": "Introducing the New JSX Transform – React Blog",
             "url": "https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html",
-            "content": "新しいJSXの変換について。\nReact 17、Babel 7.9.0から対応している。\nコンポーネント内で`import React from \"react\"`が不要となり、パフォーマンスの改善や仕様のシンプル化が目的",
+            "content": "新しいJSXの変換の仕組みについて。\nReact 17、Babel 7.9.0から対応している。\nコンポーネント内で`import React from \"react\"`が不要となり、パフォーマンスの改善や仕様のシンプル化が目的",
             "tags": [
                 "React",
                 "jsx",
