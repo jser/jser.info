@@ -787,6 +787,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-25T09:57:49.420Z",
+            "title": "codemix/ts-sql: A SQL database implemented purely in TypeScript type annotations.",
+            "url": "https://github.com/codemix/ts-sql",
+            "content": "TypeScript 4.1のTemplate Literal Typeを使ってSQL構文からクエリ結果の型を返す型ライブラリ",
+            "tags": [
+                "TypeScript",
+                "SQL",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
