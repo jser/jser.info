@@ -823,6 +823,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-26T07:04:23.904Z",
+            "title": "sumup-oss/performance-observer: Generic interface for PerformanceObserver API.",
+            "url": "https://github.com/sumup-oss/performance-observer",
+            "content": "Performance Observerのラッパーライブラリ。\n指定したメトリクスを取得するAPIを提供する",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
