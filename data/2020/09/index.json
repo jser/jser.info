@@ -835,6 +835,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-26T11:24:38.646Z",
+            "title": "Detached window memory leaks",
+            "url": "https://web.dev/detached-window-memory-leaks/",
+            "content": "`window.open`で開いたウィンドウにおけるメモリリークについて。\n切り離したwindowでメモリリークが起きる原理、heap snapshotや`performance.memory` APIでのメモリの増減の見方。\nまたメモリリークを避ける方法としてリファレンスを消す方法、WeakRefを使う方法、直接のリファレンスを持たない方法についてなど",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
