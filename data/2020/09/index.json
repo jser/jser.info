@@ -801,10 +801,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-09-26T06:42:44.869Z",
+            "date": "2020-09-26T06:43:24.692Z",
             "title": "Content delivery networks (CDNs)",
             "url": "https://web.dev/content-delivery-networks/",
-            "content": "CDNについての記事。\nCDNの仕組み、キャッシュのEvictionとPurging、Private/PublicなリソースでのCache-Control設定、動的/静的なコンテンツ\nにおける設定の考え方。\nキャッシュヒット率(CHR)の計測と改善方法、CDNのパフォーマンス機能としての圧縮/TLS 1.3/minificationについてなど",
+            "content": "CDNについての記事。\nCDNの仕組み、キャッシュのEvictionとPurging、Private/PublicなリソースでのCache-Control設定、動的/静的なコンテンツにおける設定の考え方。\nキャッシュヒット率(CHR)の計測と改善方法、CDNのパフォーマンス機能としての圧縮/TLS 1.3/minificationについてなど",
             "tags": [
                 "network",
                 "cdn",
