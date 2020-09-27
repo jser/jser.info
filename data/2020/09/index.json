@@ -870,6 +870,19 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-09-27T04:47:27.669Z",
+            "title": "Publishing Node modules with TypeScript and ES modules - LogRocket Blog",
+            "url": "https://blog.logrocket.com/publishing-node-modules-typescript-es-modules/",
+            "content": "TypeScriptで書いたライブラリをTree Shakingできるような設定で配布できるようにするチュートリアル。",
+            "tags": [
+                "TypeScript",
+                "node.js",
+                "library",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
