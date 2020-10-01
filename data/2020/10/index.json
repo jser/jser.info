@@ -10,6 +10,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-01T13:39:26.334Z",
+            "title": "mobx/CHANGELOG.md at mobx6 · mobxjs/mobx",
+            "url": "https://github.com/mobxjs/mobx/blob/mobx6/CHANGELOG.md#600",
+            "content": "MobX 6.0.0リリース。\n`decorate`を削除し`makeObservable`と`makeAutoObservable`の追加。\nProxy APIなしでも動作するようになるなど。\nDecoratorを使ったコードをマイグレーションするツールとして`mobx-undecorate`も公開している。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migrating from MobX 4/5 · MobX",
+                    "url": "https://mobx.js.org/migrating-from-4-or-5.html#migrating-from-mobx-45-"
+                }
+            ]
         }
     ]
 }
