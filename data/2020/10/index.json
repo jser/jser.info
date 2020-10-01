@@ -39,6 +39,20 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-01T14:21:42.031Z",
+            "title": "ffmpegwasm/ffmpeg.wasm: FFmpeg for browser and node, powered by WebAssembly",
+            "url": "https://github.com/ffmpegwasm/ffmpeg.wasm",
+            "content": "ffmpegをWebAssemblyとして動かすライブラリ",
+            "tags": [
+                "JavaScript",
+                "video",
+                "Image",
+                "library",
+                "WebAssembly"
+            ],
+            "relatedLinks": []
         }
     ]
 }
