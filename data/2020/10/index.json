@@ -89,6 +89,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-03T02:24:56.695Z",
+            "title": "Release v6.4.0 · GoogleChrome/lighthouse",
+            "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v6.4.0",
+            "content": "Lighthouse 6.4.0リリース。\n`large-javascript-libraries`のAuditにをexperimentalで追加、`unsized-images`のAuditを追加など",
+            "tags": [
+                "Chrome",
+                "performance",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
