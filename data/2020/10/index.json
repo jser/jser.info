@@ -102,6 +102,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-04T15:37:56.148Z",
+            "title": "JQuery to React: How we rewrote the HelloSign Editor - Dropbox",
+            "url": "https://dropbox.tech/application/jquery-to-react--how-we-rewrote-the-hellosign-editor",
+            "content": "jQueryで書かれた署名アプリをReactに移行した話。\n移行する際にUIを再設計するべきか、アプリの構造、UIに対するStateの設計、Storybookを使ったデバッグ環境などについて。",
+            "tags": [
+                "jQuery",
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
