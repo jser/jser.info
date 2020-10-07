@@ -188,6 +188,17 @@
                 "WebAssembly"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-07T13:24:31.125Z",
+            "title": "Node v12.19.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v12.19.0/",
+            "content": "Node v12.19.0リリース。\n`import`フィールドのサポート、cryptoモジュールに`randomInt`関数の追加。\n`module.parent`の非推奨化など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
