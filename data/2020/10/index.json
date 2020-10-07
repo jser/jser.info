@@ -201,10 +201,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-10-07T13:42:18.765Z",
+            "date": "2020-10-07T13:43:27.788Z",
             "title": "New in Chrome 86  |  Web  |  Google Developers",
             "url": "https://developers.google.com/web/updates/2020/10/nic86",
-            "content": "Chrome 86リリース。\nFile System Access API、CSS 擬似クラスの`:focus-visible`のサポート、Document-Policyヘッダなどのサポート。\nOrigin TrialとしてWebHID API、Multi-Screen Window Placement APIなどのサポート。\nWeb Components v0の削除、FTPサポートの非推奨化。",
+            "content": "Chrome 86リリース。\nFile System Access API、CSS 擬似クラスの`:focus-visible`、Document-Policyヘッダなどのサポート。\nOrigin TrialとしてWebHID API、Multi-Screen Window Placement APIなどのサポート。\nWeb Components v0の削除、FTPサポートの非推奨化。",
             "tags": [
                 "Chrome",
                 "ReleaseNote"
