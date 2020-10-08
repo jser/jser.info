@@ -251,7 +251,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-10-08T14:15:28.665Z",
+            "date": "2020-10-08T14:16:42.236Z",
             "title": "awslabs/diagram-maker: A library to display an interactive editor for any graph-like data.",
             "url": "https://github.com/awslabs/diagram-maker",
             "content": "AWSのダイアグラムエディタ。\nライブラリとして利用でき、プラグインで拡張可能になっていて、UIはPreactとReduxを使って書かれている。",
@@ -259,7 +259,12 @@
                 "aws",
                 "JavaScript"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Diagram Maker: Open sourcing IoT visualization | AWS Open Source Blog",
+                    "url": "https://aws.amazon.com/jp/blogs/opensource/diagram-maker-open-sourcing-iot-visualization/"
+                }
+            ]
         }
     ]
 }
