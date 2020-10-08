@@ -223,6 +223,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-08T08:58:51.515Z",
+            "title": "boa-dev/boa: Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.",
+            "url": "https://github.com/boa-dev/boa",
+            "content": "Rustで書かれたJavaScriptエンジン。\nRustのプロジェクトに組み込んだり、JavaScriptインタープリタをWebAssemblyとして動かすことができる",
+            "tags": [
+                "JavaScript",
+                "Rust",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
