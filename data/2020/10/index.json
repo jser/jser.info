@@ -249,6 +249,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-08T14:11:26.420Z",
+            "title": "awslabs/diagram-maker: A library to display an interactive editor for any graph-like data.",
+            "url": "https://github.com/awslabs/diagram-maker",
+            "content": "AWSのダイアグラムエディタ。\nプラグインで拡張可能になっていて、UIはPreactとReduxを使って書かれている。",
+            "tags": [
+                "aws",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
