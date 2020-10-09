@@ -265,6 +265,17 @@
                     "url": "https://aws.amazon.com/jp/blogs/opensource/diagram-maker-open-sourcing-iot-visualization/"
                 }
             ]
+        },
+        {
+            "date": "2020-10-09T12:23:33.525Z",
+            "title": "Release Notes for Safari Technology Preview 114 | WebKit",
+            "url": "https://webkit.org/blog/11300/release-notes-for-safari-technology-preview-114/",
+            "content": "Safari Technology Preview 114リリース。\n`Intl.DateTimeFormat`の`dateStyle`/`timeStayle`/`dayPeriod`のサポート、`Intl.Segmenter`のサポート。\nPaint Timingの有効化、WebGL2の有効化、`loading=lazy`の実装など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
