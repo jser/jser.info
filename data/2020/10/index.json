@@ -290,6 +290,17 @@
                 "WebAssembly"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-10T12:51:47.410Z",
+            "title": "Release v17.0.0 · browserify/browserify",
+            "url": "https://github.com/browserify/browserify/releases/tag/v17.0.0",
+            "content": "Browserify 17.0.0リリース。\nshimライブラリの`events`、`path`、`stream`、`util`をNode.js 10+互換となるようにアップデート。\n`.json`ファイルのrequire時にJSONのバリデーションを行うように",
+            "tags": [
+                "browserify",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
