@@ -276,6 +276,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-10T06:56:40.729Z",
+            "title": "tuananh/camaro: camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around.",
+            "url": "https://github.com/tuananh/camaro",
+            "content": "XMLをJSONに変換するライブラリ。\nC++で書かれていてWebAssemblyにコンパイルしたものを利用するライブラリ",
+            "tags": [
+                "JavaScript",
+                "XML",
+                "JSON",
+                "library",
+                "WebAssembly"
+            ],
+            "relatedLinks": []
         }
     ]
 }
