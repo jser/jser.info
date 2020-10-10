@@ -301,6 +301,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-10T13:54:11.909Z",
+            "title": "RDambrosio016/RSLint: A (WIP) Extremely fast JavaScript linter and Rust crate",
+            "url": "https://github.com/RDambrosio016/RSLint",
+            "content": "Rustで書かれたJavaScript Lintツール。",
+            "tags": [
+                "Rust",
+                "JavaScript",
+                "eslinn"
+            ],
+            "relatedLinks": []
         }
     ]
 }
