@@ -313,6 +313,22 @@
                 "eslinn"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-11T02:10:43.965Z",
+            "title": "Webpack 5 release (2020-10-10) | webpack",
+            "url": "https://webpack.js.org/blog/2020-10-10-webpack-5-release/",
+            "content": "webpack 5リリース。\n破壊的な変更として、自動的なNode.jsのpolyfillの削除、デフォルトの出力コードにES2015が含まれるように、非推奨のオプションの削除やオプション名の変更など。\n機能追加として、Asset modules、JSON Modules、`import.meta`、Worker script、Module Federation、Async modulesのサポート。\nまた、`target`オプションが`browserslist`をサポート、CommonJSのTree Shakingをサポート、コード生成とTree Shakingの改善など",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "To v5 from v4 | webpack",
+                    "url": "https://webpack.js.org/migrate/5/"
+                }
+            ]
         }
     ]
 }
