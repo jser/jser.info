@@ -383,6 +383,18 @@
                     "url": "https://github.com/shivanigithub/http-cache-partitioning/"
                 }
             ]
+        },
+        {
+            "date": "2020-10-12T13:47:37.513Z",
+            "title": "Bringing the browser developer tools to Visual Studio Code - Microsoft Edge Blog",
+            "url": "https://blogs.windows.com/msedgedev/2020/10/01/microsoft-edge-tools-vscode/",
+            "content": "Microsoft Edge Tools for VS Code extensionリリース。\nVSCode内でMSEdgeを使ったプレビュー、デバッグができる。\nヘッドレスモードの対応、Networkパネルの対応などをしている",
+            "tags": [
+                "MSEdge",
+                "VSCode",
+                "plugin"
+            ],
+            "relatedLinks": []
         }
     ]
 }
