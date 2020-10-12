@@ -366,6 +366,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-12T13:34:32.505Z",
+            "title": "Gaining security and privacy by partitioning the cache  |  Web",
+            "url": "https://developers.google.com/web/updates/2020/10/http-cache-partitioning",
+            "content": "Chrome 86でのCache partitioningについて。\n今まではアクセスするリソースのURLのみでCache Keyを構成していたが、今後はアクセス元のサイトなどもCache Keyに利用されるという話。\nアクセス元のサイトとアクセスするリソースのURLのDouble-keying、アクセス元のサイトとiframeのサイトとアクセスするリソースのURLのTriple-keyingのキャッシュについて",
+            "tags": [
+                "Chrome",
+                "HTTP",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "shivanigithub/http-cache-partitioning",
+                    "url": "https://github.com/shivanigithub/http-cache-partitioning/"
+                }
+            ]
         }
     ]
 }
