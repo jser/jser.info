@@ -333,6 +333,27 @@
                     "url": "https://blog.hiroppy.me/entry/webpack5"
                 }
             ]
+        },
+        {
+            "date": "2020-10-12T12:36:39.090Z",
+            "title": "webpack-cli/CHANGELOG.md at master · webpack/webpack-cli",
+            "url": "https://github.com/webpack/webpack-cli/blob/master/CHANGELOG.md#400-2020-10-10",
+            "content": "webpack-cli 4.0.0リリース。\nwebpack 5に対応、Webpack Bundle Analyzerを実行する`--analyze`フラグの追加、`--env`フラグの追加、`init`コマンドの追加など",
+            "tags": [
+                "webpack",
+                "console",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "webpack-cli/packages/webpack-cli at master · webpack/webpack-cli",
+                    "url": "https://github.com/webpack/webpack-cli/tree/master/packages/webpack-cli"
+                },
+                {
+                    "title": "webpack-contrib/webpack-bundle-analyzer: Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap",
+                    "url": "https://github.com/webpack-contrib/webpack-bundle-analyzer"
+                }
+            ]
         }
     ]
 }
