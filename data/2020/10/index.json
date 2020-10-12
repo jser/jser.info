@@ -354,6 +354,18 @@
                     "url": "https://github.com/webpack-contrib/webpack-bundle-analyzer"
                 }
             ]
+        },
+        {
+            "date": "2020-10-12T13:09:56.337Z",
+            "title": "Release v5.9.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v5.9.0",
+            "content": "pnpm 5.9.0リリース。\nYarnのPlug'n'Playをサポート、`symlink`を無効化できる設定の追加など",
+            "tags": [
+                "npm",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
