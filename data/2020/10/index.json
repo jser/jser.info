@@ -510,6 +510,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-17T09:12:27.362Z",
+            "title": "sciter – Multiplatform HTML/CSS UI Engine for Desktop and Mobile Application",
+            "url": "https://sciter.com/",
+            "content": "アプリ組み込み向けのHTML/CSSエンジン。\nバイナリサイズが小さいアプリを作るためのフレームワークで、HTML/CSSのサブセットとスクリプトエンジンをもっている。",
+            "tags": [
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "software"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Open Source Sciter Engine by Andrew Fedoniouk (a.k.a. c-smile) — Kickstarter",
+                    "url": "https://www.kickstarter.com/projects/c-smile/open-source-sciter-engine?ref=thanks-tweet"
+                }
+            ]
         }
     ]
 }
