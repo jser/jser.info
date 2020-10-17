@@ -499,6 +499,17 @@
                     "url": "https://github.com/webpack/webpack/issues/11639"
                 }
             ]
+        },
+        {
+            "date": "2020-10-17T08:00:53.552Z",
+            "title": "7.12.0 Released: TypeScript 4.1, strings as import/export names, and class static blocks · Babel",
+            "url": "https://babeljs.io/blog/2020/10/15/7.12.0",
+            "content": "Babel 7.12.0リリース。\nTypeScript 4.1のサポート、\nStage 2 proposalのClass static blocksのサポート。\nimport/export名をECMAScriptの変更に追従、Import assertionsのパースをプラグインに切り出しなど",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
