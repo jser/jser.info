@@ -542,6 +542,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-17T12:47:26.396Z",
+            "title": "Node v14.14.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v14.14.0/",
+            "content": "Node v14.14.0リリース。\n`fs.rm`の追加、`res.setHeader`などでヘッダを配列として渡せるようになるなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
