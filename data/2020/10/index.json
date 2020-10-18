@@ -564,6 +564,20 @@
                 "links"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-18T03:22:29.989Z",
+            "title": "Video processing with WebCodecs",
+            "url": "https://web.dev/webcodecs/",
+            "content": "Chrome 86でOrigin Trialとして導入されたWebCodecsについて。\n動画と音声のエンコードとデコードができるAPI。\n`VideoTrackReader`、`VideoEncoder`、`VideoDecoder`について",
+            "tags": [
+                "JavaScript",
+                "video",
+                "WebPlatformAPI",
+                "Chrome",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
