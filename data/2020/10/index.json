@@ -589,6 +589,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-18T12:37:38.158Z",
+            "title": "Chromium Blog: Chrome 87 Beta: WebAuthn in DevTools, Pan/Tilt/Zoom, Flow Relative Shorthands and More",
+            "url": "https://blog.chromium.org/2020/10/chrome-87-beta-webauthn-in-devtools.html",
+            "content": "Chrome 87ベータリリース。\nDevToolsにWebAuthnタブを追加、カメラのpan/tilt/zoomのサポート、cross-origin isolationのサポート。\nまた、`isInputPending`、Service WorkerでRangeリクエストのサポート、`postMessage`で渡せるTransferable Streamsのサポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
