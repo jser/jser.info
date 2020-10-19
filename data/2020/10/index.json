@@ -625,6 +625,24 @@
                     "url": "https://github.com/npm/cli/releases/tag/v7.0.0"
                 }
             ]
+        },
+        {
+            "date": "2020-10-19T11:45:14.599Z",
+            "title": "MTG/essentia.js: JavaScript library for music/audio analysis and processing powered by WebAssembly",
+            "url": "https://github.com/MTG/essentia.js",
+            "content": "C++で書かれた音声/音楽処理ライブラリであるEssentiaをWebAssemblyにコンパイルしたJavaScriptラッパーライブラリ。",
+            "tags": [
+                "JavaScript",
+                "WebAssembly",
+                "C++",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Essentia",
+                    "url": "https://essentia.upf.edu/"
+                }
+            ]
         }
     ]
 }
