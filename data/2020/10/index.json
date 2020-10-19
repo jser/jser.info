@@ -469,22 +469,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-10-14T01:53:09.667Z",
-            "title": "Presenting v7.0.0 of the npm CLI - The GitHub Blog",
-            "url": "https://github.blog/2020-10-13-presenting-v7-0-0-of-the-npm-cli/",
-            "content": "npm 7リリース。\n破壊的な変更として、peerDependenciesを自動インストールするように、package-lock.jsonの形式変更とyarn.lockのサポート、`npm audio`の出力内容の変更。\n機能追加として、Workspacesのサポート、`npm exec`の追加など",
-            "tags": [
-                "npm",
-                "ReleaseNote"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "Release v7.0.0 · npm/cli",
-                    "url": "https://github.com/npm/cli/releases/tag/v7.0.0"
-                }
-            ]
-        },
-        {
             "date": "2020-10-15T22:59:57.543Z",
             "title": "Release v5.1.0 · webpack/webpack",
             "url": "https://github.com/webpack/webpack/releases/tag/v5.1.0",
@@ -625,6 +609,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-19T00:29:41.222Z",
+            "title": "Presenting v7.0.0 of the npm CLI - The GitHub Blog",
+            "url": "https://github.blog/2020-10-13-presenting-v7-0-0-of-the-npm-cli/",
+            "content": "npm 7リリース。\n破壊的な変更として、peerDependenciesを自動インストールするように、package-lock.jsonの形式変更とyarn.lockのサポート、`npm audit`の出力内容の変更。\n機能追加として、Workspacesのサポート、`npm exec`の追加など",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v7.0.0 · npm/cli",
+                    "url": "https://github.com/npm/cli/releases/tag/v7.0.0"
+                }
+            ]
         }
     ]
 }
