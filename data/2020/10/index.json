@@ -643,6 +643,19 @@
                     "url": "https://essentia.upf.edu/"
                 }
             ]
+        },
+        {
+            "date": "2020-10-19T11:47:41.797Z",
+            "title": "TimvanScherpenzeel/detect-gpu: Classifies GPUs based on their 3D rendering benchmark score allowing the developer to provide sensible default settings for graphically intensive applications.",
+            "url": "https://github.com/TimvanScherpenzeel/detect-gpu",
+            "content": "WebGLを使った3DレンダリングのベンチマークからGPUの判定、クラス分けをするライブラリ",
+            "tags": [
+                "JavaScript",
+                "WebGL",
+                "library",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
