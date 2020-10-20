@@ -667,6 +667,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-20T05:33:31.924Z",
+            "title": "bytedance/bytemd: A hackable Markdown editor component built with Svelte",
+            "url": "https://github.com/bytedance/bytemd",
+            "content": "Svelteで書かれたmarkdownエディタライブラリ。UIフレームワークなしで動かすことができ、React、Vue向けのバインディングが用意されている",
+            "tags": [
+                "JavaScript",
+                "Markdown",
+                "editor",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
