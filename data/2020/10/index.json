@@ -737,6 +737,17 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-22T13:55:54.234Z",
+            "title": "sysgears/webpack-virtual-modules: Webpack Virtual Modules is a webpack plugin that lets you create, modify, and delete in-memory files in a way that webpack treats them as if they were physically presented in the file system.",
+            "url": "https://github.com/sysgears/webpack-virtual-modules",
+            "content": "webpackでビルド時に特定のパスに特定のコードがあるように見せるwebpack plugin。\nwebpackのビルド中に仮想的なモジュールを追加できる",
+            "tags": [
+                "webpack",
+                "plugin"
+            ],
+            "relatedLinks": []
         }
     ]
 }
