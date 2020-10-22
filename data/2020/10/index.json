@@ -708,6 +708,19 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/82"
                 }
             ]
+        },
+        {
+            "date": "2020-10-22T13:07:18.574Z",
+            "title": "React v17.0 – React Blog",
+            "url": "https://reactjs.org/blog/2020/10/20/react-v17.html",
+            "content": "React 17.0リリース。\n複数のバージョンを同時に動かして段階的なアップグレードを目的としたリリース。\n関連してイベントのdelegateの仕組みの変更、新しいJSXの変換に対応している。\n新しいJSXの変換については0.14.x, 15.x, 16.xへバックポートされている",
+            "tags": [
+                "React",
+                "JavaScript",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
