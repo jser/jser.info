@@ -694,22 +694,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-10-22T11:58:36.934Z",
-            "title": "Firefox 82.0, See All New Features, Updates and Fixes",
-            "url": "https://www.mozilla.org/en-US/firefox/82.0/releasenotes/",
-            "content": "Firefox 82リリース。\nserver-sent eventsのinspectのサポート、Media Session APIのデフォルト有効化、起動時のパフォーマンスの改善など。\nまた、クロスオリジンでの`window.name`は常に空文字列を返すように変更された",
-            "tags": [
-                "Firefox",
-                "ReleaseNote"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "Firefox 82 for developers - Mozilla | MDN",
-                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/82"
-                }
-            ]
-        },
-        {
             "date": "2020-10-22T13:07:18.574Z",
             "title": "React v17.0 – React Blog",
             "url": "https://reactjs.org/blog/2020/10/20/react-v17.html",
@@ -721,6 +705,26 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-22T13:33:30.857Z",
+            "title": "Firefox 82.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/82.0/releasenotes/",
+            "content": "Firefox 82リリース。\nserver-sent eventsのinspectのサポート、Media Session APIのデフォルト有効化、起動時のパフォーマンスの改善など。\nまた、クロスオリジンでの`window.name`は常に空文字列を返すように変更された",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 82 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/82"
+                },
+                {
+                    "title": "Coming through with Firefox 82 - Mozilla Hacks - the Web developer blog",
+                    "url": "https://hacks.mozilla.org/2020/10/coming-through-with-firefox-82/"
+                }
+            ]
         }
     ]
 }
