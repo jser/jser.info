@@ -692,6 +692,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-22T11:58:36.934Z",
+            "title": "Firefox 82.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/82.0/releasenotes/",
+            "content": "Firefox 82リリース。\nserver-sent eventsのinspectのサポート、Media Session APIのデフォルト有効化、起動時のパフォーマンスの改善など。\nまた、クロスオリジンでの`window.name`は常に空文字列を返すように変更された",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 82 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/82"
+                }
+            ]
         }
     ]
 }
