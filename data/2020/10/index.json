@@ -779,6 +779,23 @@
                     "url": "https://github.com/azu/kvs"
                 }
             ]
+        },
+        {
+            "date": "2020-10-23T11:20:00.563Z",
+            "title": "npm public roadmap",
+            "url": "https://github.com/npm/roadmap/projects/1",
+            "content": "npmのロードマップ",
+            "tags": [
+                "npm",
+                "Github",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing the npm public roadmap and a new feedback process - The GitHub Blog",
+                    "url": "https://github.blog/2020-10-22-introducing-the-npm-public-roadmap-and-a-new-feedback-process/"
+                }
+            ]
         }
     ]
 }
