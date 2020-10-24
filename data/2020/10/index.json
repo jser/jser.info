@@ -808,6 +808,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-24T09:09:41.101Z",
+            "title": "Release Notes for Safari Technology Preview 115 | WebKit",
+            "url": "https://webkit.org/blog/11333/release-notes-for-safari-technology-preview-115/",
+            "content": "Safari Technology Preview 115リリース。\nWeb Audio APIをprefixなしに変更、`HTMLMediaElement.setSinkId`のサポート、CSS `math-style`のサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
