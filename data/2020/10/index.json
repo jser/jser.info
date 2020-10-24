@@ -819,6 +819,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-24T13:47:19.246Z",
+            "title": "openplayerjs/openplayerjs: Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads",
+            "url": "https://github.com/openplayerjs/openplayerjs",
+            "content": "動画/音楽プレイヤーライブラリ。\nIE11+のサポート、キャプション、VAST/VPAIDの動画広告のサポート、カスタマイズができるようになっている。\nHLSはhls.js、MPEG-DASHはdash.jsを使いサポートしている",
+            "tags": [
+                "JavaScript",
+                "video",
+                "audio",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
