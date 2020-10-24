@@ -796,6 +796,18 @@
                     "url": "https://github.blog/2020-10-22-introducing-the-npm-public-roadmap-and-a-new-feedback-process/"
                 }
             ]
+        },
+        {
+            "date": "2020-10-24T08:35:43.740Z",
+            "title": "Release v4.0.0 · facebook/create-react-app",
+            "url": "https://github.com/facebook/create-react-app/releases/tag/v4.0.0",
+            "content": "create-react-app 4.0.0リリース。\nReact 17/新しいJSXの変換の対応、TypeScript 4、ESLint 6、Jest 26へアップデート。\nFast Refresh、workboxの対応改善、Web Vitalsレポート対応の追加など",
+            "tags": [
+                "React",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
