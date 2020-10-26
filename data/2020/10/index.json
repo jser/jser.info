@@ -832,6 +832,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-26T12:21:47.403Z",
+            "title": "piscinajs/piscina: A fast, efficient Node.js Worker Thread Pool implementation",
+            "url": "https://github.com/piscinajs/piscina",
+            "content": "Node.js向けのworker poolライブラリ。\nmjsのサポート、AbortControllerを使ったキャンセルのサポート、バックプレッシャーなどをサポートしている",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
