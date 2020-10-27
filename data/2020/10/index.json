@@ -910,6 +910,18 @@
                     "url": "https://github.com/sass/dart-sass"
                 }
             ]
+        },
+        {
+            "date": "2020-10-27T02:18:41.634Z",
+            "title": "Cumulative Layout Shift in Practice | NicJ.net",
+            "url": "https://nicj.net/cumulative-layout-shift-in-practice/",
+            "content": "Cumulative Layout Shift (CLS)について。\nCLSとはどのようなメトリクスなのか、適正なスコアとその計算式、CLSが悪いとどのような問題が起きやすいのかについて。\nRUMとSyntheticでの計測ツールやライブラリ、Chrome Dev Toolsでのデバッグ方法について",
+            "tags": [
+                "browser",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
