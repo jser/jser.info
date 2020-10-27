@@ -877,6 +877,19 @@
                     "url": "https://developer.ibm.com/blogs/nodejs-15-release-blog/"
                 }
             ]
+        },
+        {
+            "date": "2020-10-27T01:37:57.543Z",
+            "title": "Redirection from Internet Explorer to Microsoft Edge for compatibility with modern web sites | Microsoft Docs",
+            "url": "https://docs.microsoft.com/en-us/deployedge/edge-learnmore-neededge",
+            "content": "IEと非互換のサイトをIEで閲覧したときに、MSEdgeへ自動的にリダイレクトされる仕組みがMSEdge 87に入った。\n非互換かどうかはMicrosoftのリスト管理で判定される。また自動的にリダイレクトするかどうかはグループポリシーで設定できる",
+            "tags": [
+                "IE",
+                "MSEdge",
+                "browser",
+                "document"
+            ],
+            "relatedLinks": []
         }
     ]
 }
