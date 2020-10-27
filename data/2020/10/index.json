@@ -890,6 +890,22 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-27T01:47:27.434Z",
+            "title": "Sass: LibSass is Deprecated",
+            "url": "https://sass-lang.com/blog/libsass-is-deprecated",
+            "content": "C++で書かれたLibSass(`node-sass`)が非推奨となった。\nDartで書かれたSass(`sass`)がメインで開発され、LibSassは機能追加や新しい構文のサポートはしないメンテナンスモードとなっている。",
+            "tags": [
+                "Sass",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "sass/libsass: A C/C++ implementation of a Sass compiler",
+                    "url": "https://github.com/sass/libsass"
+                }
+            ]
         }
     ]
 }
