@@ -922,6 +922,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-10-28T08:47:39.107Z",
+            "title": "Node v14.15.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/ja/blog/release/v14.15.0/",
+            "content": "Node.js 14.15.0リリース。\nNode.js 14のLTS(Long Term Support)となるバージョン。\nNode.js 14は2023年4月までサポートされる",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "nodejs/Release: Node.js Release Working Group",
+                    "url": "https://github.com/nodejs/Release"
+                }
+            ]
         }
     ]
 }
