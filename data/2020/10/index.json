@@ -1000,6 +1000,17 @@
                     "url": "https://nextjs.org/docs/advanced-features/i18n-routing"
                 }
             ]
+        },
+        {
+            "date": "2020-10-30T12:39:14.123Z",
+            "title": "JavaScript Standard Style",
+            "url": "https://standardjs.com/changelog.html#1600---2020-10-28",
+            "content": "Standard 16.0.0リリース。\nglobやフォルダ指定の挙動をESLintと合わせるように、`extensions`オプションのサポート、React/JSXに関するルールの追加など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
