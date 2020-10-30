@@ -1002,10 +1002,10 @@
             ]
         },
         {
-            "date": "2020-10-30T12:39:14.123Z",
+            "date": "2020-10-30T12:40:45.208Z",
             "title": "JavaScript Standard Style",
             "url": "https://standardjs.com/changelog.html#1600---2020-10-28",
-            "content": "Standard 16.0.0リリース。\nglobやフォルダ指定の挙動をESLintと合わせるように、`extensions`オプションのサポート、React/JSXに関するルールの追加など",
+            "content": "Standard JS 16.0.0リリース。\nglobやフォルダ指定の挙動をESLintと合わせるように、`extensions`オプションのサポート、React/JSXに関するルールの追加など",
             "tags": [
                 "ESLint",
                 "ReleaseNote"
