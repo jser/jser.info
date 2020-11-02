@@ -20,12 +20,12 @@ npm run build:posts
 # git update
 git add .
 git commit -m "${lastCommit}"
-if [ -z "${GH_TOKEN}" ]; then
+if [ -z "${SHARED_BOT_GITHUB_TOKEN}" ]; then
     git push --quiet "https://github.com/jser/realtime.jser.info.git" gh-pages:gh-pages > /dev/null 2>&1
 else
-    git push --quiet "https://${GH_TOKEN}@github.com/jser/realtime.jser.info.git" gh-pages:gh-pages > /dev/null 2>&1
+    git push --quiet "https://${SHARED_BOT_GITHUB_TOKEN}@github.com/jser/realtime.jser.info.git" gh-pages:gh-pages > /dev/null 2>&1
     # https://github.com/jser/realtime.jser.info/issues/2
-    curl --silent -X POST -H "Accept: application/vnd.github.mister-fantastic-preview+json" -H "Authorization: token $GH_TOKEN" https://api.github.com/repos/jser/realtime.jser.info/pages/builds
+    curl --silent -X POST -H "Accept: application/vnd.github.mister-fantastic-preview+json" -H "Authorization: token $SHARED_BOT_GITHUB_TOKEN" https://api.github.com/repos/jser/realtime.jser.info/pages/builds
 fi
 # pop
 cd -

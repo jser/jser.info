@@ -1,4 +1,4 @@
-# [JSer.info][] [![Build Status](https://travis-ci.org/jser/jser.info.svg?branch=gh-pages)](https://travis-ci.org/jser/jser.info)
+# [JSer.info][] [![Actions Status: test](https://github.com/jser/jser.info/workflows/test/badge.svg)](https://github.com/jser/jser.info/actions?query=workflow%3A"test")
 
 JSer.infoに掲載する記事の元データを管理しているリポジトリです。
 

@@ -30,10 +30,10 @@ git ls-files -cmo "${tmpDir}/jser.github.io/_i18n/ja/_posts/${currentYear}/*draf
 git commit -m "Update ${nextWeekNumber} draft"
 # Git Push
 echo "git push draft"
-if [ -z "${GH_TOKEN}" ]; then
+if [ -z "${SHARED_BOT_GITHUB_TOKEN}" ]; then
     git push --quiet "https://github.com/jser/jser.github.io.git" ${branchName}:${branchName} > /dev/null 2>&1
 else
-    git push --quiet "https://${GH_TOKEN}@github.com/jser/jser.github.io.git" ${branchName}:${branchName} > /dev/null 2>&1
+    git push --quiet "https://${SHARED_BOT_GITHUB_TOKEN}@github.com/jser/jser.github.io.git" ${branchName}:${branchName} > /dev/null 2>&1
 fi
 # pop
 cd -
