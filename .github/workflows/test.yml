@@ -29,3 +29,5 @@ jobs:
           ./tools/update-realtime.sh
           ./tools/update-next-draft.sh
           npm run discord
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
