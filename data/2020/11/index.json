@@ -48,6 +48,19 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-02T14:39:01.710Z",
+            "title": "Release v4.4.0 · slevithan/xregexp",
+            "url": "https://github.com/slevithan/xregexp/releases/tag/v4.4.0",
+            "content": "xRegExp v4.4.0 リリース。\nUnicode 13.0.0にアップデート、TypeScriptに対応、IE11 + core-js 3.6.0+での無限ループの修正",
+            "tags": [
+                "JavaScript",
+                "RegExp",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
