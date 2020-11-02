@@ -1,6 +1,6 @@
 // LICENSE : MIT
 "use strict";
-const { prettyError } = require("@textlint/linter-formatter/lib/linter-formatter/src/formatters/pretty-error");
+const { prettyError } = require("@textlint/linter-formatter/lib/formatters/pretty-error");
 const path = require("path");
 
 function hasError(result) {
@@ -24,25 +24,25 @@ function lint(filePath) {
         configFile: path.join(__dirname, ".textlintrc")
     });
     var list = json.list;
-    var promises = list.map(function(item) {
+    var promises = list.map(function (item) {
         var content = item.content;
         return engine.executeOnText(content, ".md").then(results => results[0]);
     });
-    return Promise.all(promises).then(function(results) {
+    return Promise.all(promises).then(function (results) {
         var isError = false;
-        results.forEach(function(result, index) {
+        results.forEach(function (result, index) {
             if (!hasError(result)) {
                 return;
             }
             isError = true;
             // エラーがある
             var originalData = list[index];
-            result.messages.forEach(function(message) {
+            result.messages.forEach(function (message) {
                 printResult(originalData, filePath, message);
             });
         });
         if (isError) {
-            return Promise.reject("Found textlint Error");
+            return Promise.reject(new Error("Found textlint Error"));
         }
     });
 }
