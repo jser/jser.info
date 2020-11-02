@@ -17,10 +17,10 @@ cd "${tmpDir}/source-data"
 # git update
 git add items.json
 git commit -m "${lastCommit}"
-if [ -z "${SHARED_BOT_GITHUB_TOKEN}" ]; then
+if [ -z "${GH_TOKEN}" ]; then
     git push --force --quiet "https://github.com/jser/source-data.git" gh-pages:gh-pages > /dev/null 2>&1
 else
-    git push --force --quiet "https://${SHARED_BOT_GITHUB_TOKEN}@github.com/jser/source-data.git" gh-pages:gh-pages > /dev/null 2>&1
+    git push --force --quiet "https://${GH_TOKEN}@github.com/jser/source-data.git" gh-pages:gh-pages > /dev/null 2>&1
 fi
 # pop
 cd -

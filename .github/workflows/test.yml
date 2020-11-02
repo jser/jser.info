@@ -30,4 +30,5 @@ jobs:
           ./tools/update-next-draft.sh
           npm run discord
         env:
+          GH_TOKEN: ${{ secrets.SHARED_BOT_GITHUB_TOKEN }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
