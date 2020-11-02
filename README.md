@@ -53,8 +53,9 @@ JSer.infoに関連するリポジトリについての案内です。
 	- [jser/contributing-preview](https://github.com/jser/contributing-preview "jser/contributing-preview")
 	- データの表示をプレビューする補助ツール
 
-関連: [JSer.infoに紹介してもらいたい記事のPull Requestが出来るようになりました - JSer.info](https://jser.info/post/75446735069/jser-info-pull-request/ "JSer.infoに紹介してもらいたい記事のPull Requestが出来るようになりました - JSer.info")
+関連: [JSer.infoに紹介してもらいたい記事のPull Requestが出来るようになりました - JSer.info](https://jser.info/post/75446735069/jser-info-pull-request/)
 
+:memo: Slackから教えてくれるでも問題ありません
 
 ## データを分析したい
 
