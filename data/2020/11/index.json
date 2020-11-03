@@ -73,6 +73,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-03T02:59:33.667Z",
+            "title": "MDN Web Docs evolves! Lowdown on the upcoming new platform - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2020/10/mdn-web-docs-evolves-lowdown-on-the-upcoming-new-platform/",
+            "content": "MDNの今後について。\nアーキテクチャをWikiベースからGitHubベースのJamstackベースに変更。\n初期リリースでは既存のローカライズ済みの記事はアーカイブとなりPRでの変更はできない、今後は主要なページと言語においての機械翻訳やコミュニティでの手動翻訳の対応を検討しているという話。",
+            "tags": [
+                "mdn",
+                "article",
+                "translate"
+            ],
+            "relatedLinks": []
         }
     ]
 }
