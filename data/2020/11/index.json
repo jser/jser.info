@@ -96,6 +96,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-04T13:30:43.076Z",
+            "title": "Tracing TypeScript Compiler. はじめに | by Yosuke Kurami | Oct, 2020 | Medium",
+            "url": "https://quramy.medium.com/tracing-typescript-compiler-4dcb96ab54e1",
+            "content": "TypeScriptのコンパイルパフォーマンスの調査方法について。\n4.1で追加される`--generateTrace`を使ったプロファイルデータの読み方について",
+            "tags": [
+                "TypeScript",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
