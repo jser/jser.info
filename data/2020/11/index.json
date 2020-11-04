@@ -108,6 +108,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-04T14:02:00.309Z",
+            "title": "Announcing TypeScript 4.1 RC | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-1-rc/",
+            "content": "TypeScript 4.1 RCリリース。\n Template Literal Types、Mapped TypesでKeyのRemappingをサポート、再帰的なConditional Typesのサポート。 インデックスアクセス時に`undefined`となる可能性を考慮する`noUncheckedIndexedAccess`オプションの追加。\n`baseUrl`なしで`paths`オプションが利用可能に、`checkJs`は暗黙的に`allowJs`を有効化するように、新しいJSXの変換に対応。\n破棄的な変更として`Promise`の`resolve`の引数がオプショナルではなくなるなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
