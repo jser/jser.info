@@ -158,6 +158,17 @@
                 "GraphQL"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-07T14:30:28.800Z",
+            "title": "Node v15.1.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v15.1.0/",
+            "content": "Node v15.1.0リリース。\n診断ツール向けの`diagnostics_channel`モジュールを実験的に追加、`spawn`イベントの追加。\n`dns`モジュールに`setLocalAddress`の追加`v8`モジュールに`takeCoverage`と`stopCoverage`の追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
