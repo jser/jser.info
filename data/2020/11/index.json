@@ -119,6 +119,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-07T08:15:54.043Z",
+            "title": "Release 3.7.0 - 2020.11.06 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.7.0",
+            "content": "core-js 3.7.0リリース。\nECMAScript/Proposalの仕様に準拠した変更、Node.jsでの`queueMicroTask`の実行順序の問題を修正、一部環境でのバグを修正など",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
