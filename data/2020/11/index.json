@@ -132,6 +132,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-07T08:19:07.833Z",
+            "title": "sql-js/sql.js: A javascript library to run SQLite on the web.",
+            "url": "https://github.com/sql-js/sql.js/",
+            "content": "SQLiteをWebAssemblyにコンパイルしてJavaScriptで動かすライブラリ。\n既存のsqliteファイルをimport/exportできる。",
+            "tags": [
+                "SQLite",
+                "WebAssembly",
+                "library",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
