@@ -147,10 +147,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-11-07T08:36:56.689Z",
+            "date": "2020-11-07T08:37:43.851Z",
             "title": "mattpocock/sextant: A development tool to chart application flows, then implement them in code",
             "url": "https://github.com/mattpocock/sextant",
-            "content": "シーケンス図のGUIエディタで入力したデータフローとGraphQLのPayloadを元にしたTypeScriptの型を生成するツール。",
+            "content": "シーケンス図のGUIエディタでデータフローとGraphQLのPayloadを入力し、対応するTypeScriptの型を生成するツール。",
             "tags": [
                 "JavaScript",
                 "Tools",
