@@ -212,6 +212,18 @@
                     "url": "https://socket.io/docs/migrating-from-2-x-to-3-0/"
                 }
             ]
+        },
+        {
+            "date": "2020-11-09T15:49:23.658Z",
+            "title": "gajus/http-terminator: Gracefully terminates HTTP(S) server.",
+            "url": "https://github.com/gajus/http-terminator",
+            "content": "expressなどのNode.jsの`http.Server`の実装に対してgraceful shutdownを行うライブラリ",
+            "tags": [
+                "node.js",
+                "library",
+                "server"
+            ],
+            "relatedLinks": []
         }
     ]
 }
