@@ -62,7 +62,16 @@ const groupByCategory = (classifier, items) => {
     return groups;
 };
 
-module.exports = function createContent() {
+const groupBy = (array, getKey) => {
+    return array.reduce((obj, cur, idx, src) => {
+        const key = getKey(cur, idx, src);
+        (obj[key] || (obj[key] = [])).push(cur);
+        return obj;
+    }, {});
+}
+
+
+function createContent() {
     return Promise.all([getAllJSON(), fetchPosts(), fetchPostDetails()]).then(([items, posts, postDetails]) => {
         const stat = new JSerStat(items, posts);
         const classifier = new JSerClassifier({
@@ -72,18 +81,38 @@ module.exports = function createContent() {
         const today = moment.utc().toDate();
         // TODO: +9の分余分に取る。データのtimezoneがずれている問題の対処
         const unPublishItems = getUnPublishItems(stat, moment.utc().add(1, "day").toDate());
+        // 記事中のタグ Top 5を取得
+        const allTags = [];
+        unPublishItems.forEach(item => item.tags.forEach(tag => allTags.push(tag)));
+        const countMap = new Map();
+        allTags.forEach(tag => countMap.set(tag, (countMap.get(tag) || 0) + 1));
+        const sortedTagTuple = Array.from(countMap.entries()).sort((a, b) => b[1] - a[1]);
+        const excludedTags = ["JavaScript", "article", "news", "ReleaseNote", "library"].map(a => a.toLowerCase())
+        const tagsTop5 = sortedTagTuple.filter(tagTuple => {
+            return !excludedTags.includes(tagTuple[0].toLowerCase())
+        })
+            .slice(0, 5)
+            .map(tuple => tuple[0]);
         const groups = groupByCategory(classifier, unPublishItems);
         const todayFormat = moment.utc().format("YYYY-MM-DD");
-        const tags = ["JavaScript"];
         return buildTemplate({
             title: `${todayFormat}のJS: `,
             author: "azu",
             category: "JSer",
             date: today,
-            tags,
+            tags: tagsTop5,
             weekNumber: nextWeekNumber,
             groupsByHeader: groups
         });
     });
-};
+}
+
+module.exports = createContent;
+// TEST
+if (require.main) {
+    (async function main() {
+        const content = await createContent();
+        console.log("content", content);
+    })();
+}
 
