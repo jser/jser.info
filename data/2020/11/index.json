@@ -235,6 +235,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-10T01:40:34.253Z",
+            "title": "Distributed Systems with Node.js - Thomas Hunter II",
+            "url": "https://thomashunter.name/distributed-systems-with-nodejs",
+            "content": "2020年11月4日発売\nNode.jsアプリケーションでの分散システムについて。\nNode.jsで書いたアプリケーションのでのobservable, scalable, resilientについて書かれている",
+            "tags": [
+                "node.js",
+                "book",
+                "performance",
+                "server"
+            ],
+            "relatedLinks": []
         }
     ]
 }
