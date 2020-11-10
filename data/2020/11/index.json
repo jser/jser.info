@@ -275,6 +275,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-10T16:57:46.311Z",
+            "title": "ESM",
+            "url": "https://esm.sh/",
+            "content": "esbuildで依存を含めてbundleしたパッケージを配布するnpm CDNサービス。\nnpmパッケージをdenoからES Modulesとして読み込めるようにpolyfillの仕組みも用意されている",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "deno",
+                "cdn",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
