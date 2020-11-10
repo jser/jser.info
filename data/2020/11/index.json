@@ -265,10 +265,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-11-10T02:44:21.525Z",
+            "date": "2020-11-10T02:45:28.963Z",
             "title": "Code-splitting and minimal edge latency: the perfect match | Fastly",
             "url": "https://www.fastly.com/blog/code-splitting-and-minimal-edge-latency-the-perfect-match",
-            "content": "create-react-appで作られたエディタアプリのパフォーマンス改善について。\nコードエディタにmonaco-editorを使っているため、chunkのサイズが大きくなっている。\nscriptに対しては`prefetch`や`preload`は逆効果になる場合もある問題やread-onlyの場合でもmonaco-editorを読み込んでいる問題について。\nread-onlyの場合はPrismJSを使ってシンタックスハイライトだけのコンポーネントにすることでサイズを小さくする話",
+            "content": "create-react-appで作られたエディタアプリのパフォーマンス改善について。\nコードエディタにmonaco-editorを使っているため、メインのJSが大きくなっているためchunkに分離する話。\nまたchunkのようなscriptに対しては`prefetch`や`preload`は逆効果になる場合もある問題やread-onlyの場合でもmonaco-editorを読み込んでいる問題について。\nread-onlyの場合はPrismJSを使ってシンタックスハイライトだけのコンポーネントにすることでサイズを小さくする話",
             "tags": [
                 "React",
                 "performance",
