@@ -314,6 +314,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-11T23:34:29.285Z",
+            "title": "trivago/prettier-plugin-sort-imports: A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.",
+            "url": "https://github.com/trivago/prettier-plugin-sort-imports",
+            "content": "import文の順番をソートするprettier plugin",
+            "tags": [
+                "JavaScript",
+                "plugin"
+            ],
+            "relatedLinks": []
         }
     ]
 }
