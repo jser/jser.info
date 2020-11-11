@@ -303,6 +303,17 @@
                 "search"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-11T14:47:23.081Z",
+            "title": "Node v15.2.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v15.2.0/",
+            "content": "Node v15.2.0リリース。\n`events`にイベント名を指定してリスナーを取得する`getEventListeners`の追加、`fs`の`writeFile`/`readFile`がAbortSignal対応など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
