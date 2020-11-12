@@ -337,6 +337,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-12T13:38:48.842Z",
+            "title": "Version 11 of Angular Now Available | by Mark Techson | Nov, 2020 | Angular Blog",
+            "url": "https://blog.angular.io/version-11-of-angular-now-available-74721b7952f7",
+            "content": "Angular 11リリース。\nフォントの自動インライン化の対応、Component Test Harnessesがすべてのコンポーネントに対応、Language Serviceの対応改善、HMRをCLIの引数で有効化できるように。\nその他には、webpack5の実験的サポートなど",
+            "tags": [
+                "Angular",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "angular/CHANGELOG.md at master · angular/angular",
+                    "url": "https://github.com/angular/angular/blob/master/CHANGELOG.md#1100-2020-11-11"
+                }
+            ]
         }
     ]
 }
