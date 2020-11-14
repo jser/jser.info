@@ -400,6 +400,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-14T13:22:46.844Z",
+            "title": "Angular: ESLintサポートの現状 2020 Autumn | <output type=text>",
+            "url": "https://blog.lacolaco.net/2020/11/angular-state-of-linting-2020/",
+            "content": "AgularにおけるTSLint/ESLintでのLintの今後について。\nTSLintはAngular 12で非推奨となる予定で、ESLintへの対応はコミュニティベースで進んでいるという話\n",
+            "tags": [
+                "Angular",
+                "ESLint"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "angular-eslint/angular-eslint: Monorepo for all the tooling related to using ESLint with Angular",
+                    "url": "https://github.com/angular-eslint/angular-eslint"
+                }
+            ]
         }
     ]
 }
