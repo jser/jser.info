@@ -389,6 +389,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-14T07:49:57.447Z",
+            "title": "Lunuy/iterable-weak: Iterable WeakSet / WeakMap using ES2021 WeakRef",
+            "url": "https://github.com/Lunuy/iterable-weak",
+            "content": "WeakRefを使ったIterableなWeakMap/WeakSetの実装ライブラリ。\nIterateできるように要素を参照するが、WeakRefのFinalizationRegistryを使って参照を解放するようになっている",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
