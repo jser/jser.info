@@ -378,6 +378,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-14T06:00:57.188Z",
+            "title": "What's New In DevTools (Chrome 88)  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2020/11/devtools",
+            "content": "Chrome 88の開発者ツールの変更点について。\nCSS angleのビジュアライズ、AVIFがサポートされていない状態をエミュレートできるように、storage quota sizeのエミュレートに対応。\nPerformanceパネルにWeb Vitalsレーンを追加、ApplicationパネルにCross-Origin Isolatedの状態を表示、network initiatorのコピーに対応。\n実験的な機能としてCSS Flexboxのデバッグ機能、ショートカットカスタマイズを追加など",
+            "tags": [
+                "Chrome",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
