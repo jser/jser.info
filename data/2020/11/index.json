@@ -416,6 +416,17 @@
                     "url": "https://github.com/angular-eslint/angular-eslint"
                 }
             ]
+        },
+        {
+            "date": "2020-11-14T13:24:45.699Z",
+            "title": "angular-eslint/angular-eslint: Monorepo for all the tooling related to using ESLint with Angular",
+            "url": "https://github.com/angular-eslint/angular-eslint",
+            "content": "Angular向けのESLintプラグインセット。\nCodelyzer/TSLintからのマイグレーションを目的にしている",
+            "tags": [
+                "Angular",
+                "ESLint"
+            ],
+            "relatedLinks": []
         }
     ]
 }
