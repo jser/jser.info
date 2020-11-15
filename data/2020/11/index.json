@@ -522,6 +522,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-15T14:28:20.402Z",
+            "title": "davnicwil/react-frontload: Async data loading for React components, on client & server",
+            "url": "https://github.com/davnicwil/react-frontload",
+            "content": "React向けのData Loaderライブラリ。\nコンポーネントでAPIを叩いてデータの取得、取得中の表示を扱える。クライアントとサーバでそれぞれ対応するAPIを用意してhydrationも扱える",
+            "tags": [
+                "React",
+                "library",
+                "server"
+            ],
+            "relatedLinks": []
         }
     ]
 }
