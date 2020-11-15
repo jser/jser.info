@@ -512,10 +512,10 @@
             ]
         },
         {
-            "date": "2020-11-15T14:22:50.886Z",
+            "date": "2020-11-15T14:23:37.093Z",
             "title": "Performance · microsoft/TypeScript Wiki",
             "url": "https://github.com/microsoft/TypeScript/wiki/Performance",
-            "content": "TypeScriptのビルドパフォーマンスについてまとめられているページ。\n`type`と`interface`、Base TypeとUnion Type、Project Reference、tsconfig.jsonの設定による最適化について",
+            "content": "TypeScriptのコンパイルパフォーマンスについてまとめられているページ。\n`type`と`interface`、Base TypeとUnion Type、Project Reference、tsconfig.jsonの設定による最適化について",
             "tags": [
                 "TypeScript",
                 "performance",
