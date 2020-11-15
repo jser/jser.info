@@ -443,6 +443,19 @@
                     "url": "https://www.amazon.co.jp/dp/B08F5HFWBH/"
                 }
             ]
+        },
+        {
+            "date": "2020-11-15T01:12:42.500Z",
+            "title": "felixfbecker/dom-to-svg: Library to convert a given HTML DOM node into an accessible SVG \"screenshot\".",
+            "url": "https://github.com/felixfbecker/dom-to-svg",
+            "content": "`<foreignObject>`を使わずに、DOMからSVGを作成するライブラリ。\nDOM上のWAI-ARIAやリンクなども維持した状態のSVGを作成する",
+            "tags": [
+                "DOM",
+                "SVG",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
