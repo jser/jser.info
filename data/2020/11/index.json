@@ -469,6 +469,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-15T07:44:45.338Z",
+            "title": "Optimize React Apps PageSpeed Insights Score - thetuteur",
+            "url": "https://thetuteur.com/optimize-react-apps-pagespeed-insights-score/",
+            "content": "Reactアプリのパフォーマンス改善。\n未使用のJavaScriptを削除、コンポーネントのLazy Load、TTFBを短縮するためにレスポンスのキャッシュ。\n`react-lazy-load-image-component`を使って画像の遅延ロード、`react-lazy-hydration`を使い初期ロードでのCPU処理を減らす方法。\nまた、CSSの非同期ロード、`critical`を使ってUAごとに対してクリティカルパスCSSの生成などについて",
+            "tags": [
+                "React",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
