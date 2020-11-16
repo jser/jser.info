@@ -291,20 +291,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-11-11T01:09:29.551Z",
-            "title": "Official Google Webmaster Central Blog: Timing for bringing page experience to Google Search",
-            "url": "https://webmasters.googleblog.com/2020/11/timing-for-page-experience.html",
-            "content": "2021年5月からCore Web Vitals(LCP、FID、CLS)のスコアがGoogle検索結果のシグナルに使われる。\nウェブパフォーマンスの悪いサイトが検索結果に出にくくなるかもという話",
-            "tags": [
-                "google",
-                "SEO",
-                "performance",
-                "article",
-                "search"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2020-11-11T14:47:23.081Z",
             "title": "Node v15.2.0 (Current) | Node.js",
             "url": "https://nodejs.org/en/blog/release/v15.2.0/",
@@ -560,6 +546,20 @@
                     "url": "https://github.com/angular-eslint/angular-eslint"
                 }
             ]
+        },
+        {
+            "date": "2020-11-16T00:21:38.783Z",
+            "title": "Official Google Webmaster Central Blog: Timing for bringing page experience to Google Search",
+            "url": "https://webmasters.googleblog.com/2020/11/timing-for-page-experience.html",
+            "content": "2021年5月からCore Web Vitals(LCP、FID、CLS)のスコアがGoogle検索結果のシグナルに使われる。\nウェブパフォーマンスが検索結果のランキングへ影響を与えるようになる",
+            "tags": [
+                "google",
+                "SEO",
+                "performance",
+                "article",
+                "search"
+            ],
+            "relatedLinks": []
         }
     ]
 }
