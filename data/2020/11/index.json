@@ -391,17 +391,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-11-14T07:49:57.447Z",
-            "title": "Lunuy/iterable-weak: Iterable WeakSet / WeakMap using ES2021 WeakRef",
-            "url": "https://github.com/Lunuy/iterable-weak",
-            "content": "WeakRefを使ったIterableなWeakMap/WeakSetの実装ライブラリ。\nIterateできるように要素を参照するが、WeakRefのFinalizationRegistryを使って参照を解放するようになっている",
-            "tags": [
-                "JavaScript",
-                "library"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2020-11-14T13:22:46.844Z",
             "title": "Angular: ESLintサポートの現状 2020 Autumn | <output type=text>",
             "url": "https://blog.lacolaco.net/2020/11/angular-state-of-linting-2020/",
@@ -556,6 +545,18 @@
                 "Next.js",
                 "video",
                 "Conference"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2020-11-16T00:20:27.677Z",
+            "title": "Lunuy/iterable-weak: Iterable WeakSet / WeakMap using ES2021 WeakRef",
+            "url": "https://github.com/Lunuy/iterable-weak",
+            "content": "WeakRefを使ったIterableなWeakMap/WeakSetの実装ライブラリ。\nIterateできるように要素を参照するが、WeakRefのFinalizationRegistryを使って参照を解放するようになっている",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ECMAScript"
             ],
             "relatedLinks": []
         }
