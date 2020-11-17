@@ -572,6 +572,18 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-17T12:46:58.823Z",
+            "title": "BlackFan/client-side-prototype-pollution: Prototype Pollution and useful Script Gadgets",
+            "url": "https://github.com/BlackFan/client-side-prototype-pollution",
+            "content": "Prototype Pollution攻撃の事例を集めたリポジトリ。\nさまざまなライブラリに対してのPrototype Pollutionのコード例をまとめている",
+            "tags": [
+                "JavaScript",
+                "security",
+                "XSS"
+            ],
+            "relatedLinks": []
         }
     ]
 }
