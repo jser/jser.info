@@ -612,6 +612,22 @@
                     "url": "https://developer.mozilla.org/docs/Mozilla/Firefox/Releases/83"
                 }
             ]
+        },
+        {
+            "date": "2020-11-18T20:57:38.036Z",
+            "title": "Electron 11.0.0 | Electron Blog",
+            "url": "https://www.electronjs.org/blog/electron-11-0",
+            "content": "Electron 11.0.0リリース。\nChromium 87/V8 8.7/Node.js 12.18.3へアップデート。\nApple M1のサポート、`app.createThumbnailFromPath()`、`webContents.forcefullyCrashRenderer()`の追加など",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release electron v11.0.0 · electron/electron",
+                    "url": "https://github.com/electron/electron/releases/tag/v11.0.0"
+                }
+            ]
         }
     ]
 }
