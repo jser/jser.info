@@ -596,6 +596,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-18T20:07:06.277Z",
+            "title": "Firefox 83 is upon us - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2020/11/firefox-83-is-upon-us/",
+            "content": "Firefox 83リリース。\n開発者ツールで`scroll`のデバッグ改善、\nCSS `conic-gradient`関数のサポート、WebRenderのサポート対象の追加など",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 83 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/docs/Mozilla/Firefox/Releases/83"
+                }
+            ]
         }
     ]
 }
