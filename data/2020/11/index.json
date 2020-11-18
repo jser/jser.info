@@ -640,6 +640,22 @@
                 "polyfill"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-18T23:40:28.586Z",
+            "title": "New in Chrome 87  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2020/11/nic87",
+            "content": "Chrome 87リリース。\nDevToolsにWebAuthnタブを追加、カメラのpan/tilt/zoomのサポート、Service WorkerでRangeリクエストのサポート。\nCookie Store API、`Intl.Segmenter`、`isInputPending`、`postMessage`にStreamsを渡せるようになるなど。\nまた、FTPをデフォルトで無効化。",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chrome Platform Status",
+                    "url": "https://www.chromestatus.com/features#milestone%3D87"
+                }
+            ]
         }
     ]
 }
