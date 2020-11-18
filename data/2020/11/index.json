@@ -628,6 +628,18 @@
                     "url": "https://github.com/electron/electron/releases/tag/v11.0.0"
                 }
             ]
+        },
+        {
+            "date": "2020-11-18T23:16:18.522Z",
+            "title": "mkay581/cookie-store: A polyfill for the Cookie Store API",
+            "url": "https://github.com/mkay581/cookie-store",
+            "content": "Cookie Store API のPolyfillライブラリ",
+            "tags": [
+                "JavaScript",
+                "library",
+                "polyfill"
+            ],
+            "relatedLinks": []
         }
     ]
 }
