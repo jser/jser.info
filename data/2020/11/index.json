@@ -656,6 +656,17 @@
                     "url": "https://www.chromestatus.com/features#milestone%3D87"
                 }
             ]
+        },
+        {
+            "date": "2020-11-18T23:51:16.418Z",
+            "title": "101arrowz/fflate: High performance (de)compression in an 8kB package",
+            "url": "https://github.com/101arrowz/fflate",
+            "content": "deflate,gzip,zlibのcompress/decompressをサポートしているライブラリ。\nファイルサイズの小ささとパフォーマンスを主な目的としていて、Workerでの非同期処理にも対応している",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
