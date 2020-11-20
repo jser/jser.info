@@ -743,6 +743,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-20T13:17:53.552Z",
+            "title": "ceifa/wasmoon: A real lua VM with JS bindings made with webassembly",
+            "url": "https://github.com/ceifa/wasmoon",
+            "content": "Lua VMをWebAssemblyに変換して、JavaScriptからLuaのコードを実行するライブラリ。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "Lua"
+            ],
+            "relatedLinks": []
         }
     ]
 }
