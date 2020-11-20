@@ -689,6 +689,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-20T11:51:37.817Z",
+            "title": "Prettier 2.2: new JavaScript parsers, TS 4.1 and ESM standalone bundles · Prettier",
+            "url": "https://prettier.io/blog/2020/11/20/2.2.0.html",
+            "content": "Prettier 2.2.リリース。\nJavaScriptで`espree`と`meriyah`のパーサをサポート、TypeScript 4.1サポート、standalone版を同梱するようになるなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
