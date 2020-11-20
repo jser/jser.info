@@ -701,6 +701,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-20T13:09:53.940Z",
+            "title": "microsoft/playwright-test: Build a cross-browser end-to-end test suite with Playwright.",
+            "url": "https://github.com/microsoft/playwright-test",
+            "content": "Playwrightを使ったE2Eテストフレームワーク。\nJestライクなAssertion、PlaywrightとFolioを使ったテスト、Snapshotテストとしてビジュアルテスティングをサポートしている。",
+            "tags": [
+                "E2E",
+                "browser",
+                "test",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "microsoft/folio: A customizable test framework to build your own test frameworks",
+                    "url": "https://github.com/microsoft/folio"
+                }
+            ]
         }
     ]
 }
