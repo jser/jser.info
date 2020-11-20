@@ -755,6 +755,18 @@
                 "Lua"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-20T13:44:15.136Z",
+            "title": "Release Notes for Safari Technology Preview 116 | WebKit",
+            "url": "https://webkit.org/blog/11348/release-notes-for-safari-technology-preview-116/",
+            "content": "Safari Technology Preview 116リリース。\nAudioWorklet APIをデフォルトで有効化、MediaRecorderの改善、Storage Access APIをper frameからper pageに変更など",
+            "tags": [
+                "webkit",
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
