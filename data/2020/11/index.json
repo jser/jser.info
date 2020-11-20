@@ -678,6 +678,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-20T05:28:42.550Z",
+            "title": "Back/forward cache",
+            "url": "https://web.dev/bfcache/",
+            "content": "Chrome 87(Android)からcross-siteにおけるナビゲーションでBFCacheが有効化される。\nBFCacheの動作、BFCacheで表示されたかの判定方法、BFCacheされない条件とBFCacheからの処理の再開方法について。\nまた、Google Analyticsのアクセス解析とBFCache、パフォーマンス計測に対する影響についてなど",
+            "tags": [
+                "Chrome",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
