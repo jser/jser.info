@@ -719,6 +719,18 @@
                     "url": "https://github.com/microsoft/folio"
                 }
             ]
+        },
+        {
+            "date": "2020-11-20T13:12:27.489Z",
+            "title": "microsoft/folio: A customizable test framework to build your own test frameworks",
+            "url": "https://github.com/microsoft/folio",
+            "content": "テストフレームワークを作るためのテストフレームワーク。\nTest Fixture、Annotation APIでFlaky Testsの宣言やリトライ、テストの生成などを行える",
+            "tags": [
+                "JavaScript",
+                "library",
+                "testing"
+            ],
+            "relatedLinks": []
         }
     ]
 }
