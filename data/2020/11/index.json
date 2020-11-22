@@ -809,10 +809,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-11-22T11:10:05.301Z",
+            "date": "2020-11-22T14:44:02.979Z",
             "title": "Release v5.0.0 · typicode/husky",
             "url": "https://github.com/typicode/husky/releases/tag/v5.0.0",
-            "content": "git hook管理ツールのhusky 5.0.0リリース。\nライセンスをMITからLicense Zero Parity + MITに変更。\nGit 2.9+の`core.hooksPath`を使ったGit Hookの仕組みに変更、インストール時に自動でHook有効化はせずに明示的に`husky install`で有効化するように変更など",
+            "content": "git hook管理ツールのhusky 5.0.0リリース。`npm install husky@next`でインストールできる。\nライセンスをMITからLicense Zero Parity + MITに変更。\nGit 2.9+の`core.hooksPath`を使ったGit Hookの仕組みに変更、インストール時に自動でHook有効化はせずに明示的に`husky install`で有効化するように変更など",
             "tags": [
                 "JavaScript",
                 "git ",
