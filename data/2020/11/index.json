@@ -825,6 +825,18 @@
                     "url": "https://patronlicense.com/versions/1.0.0"
                 }
             ]
+        },
+        {
+            "date": "2020-11-24T00:45:07.837Z",
+            "title": "Typescript-TDD/ts-auto-mock: Typescript transformer to unlock automatic mock creation for interfaces and classes",
+            "url": "https://github.com/Typescript-TDD/ts-auto-mock",
+            "content": "TypeScriptの型定義から自動的にモックをつくるTypeScript Plugin。\nttypescriptとts-patchを経由したTypeSriptのtransformとして動作する",
+            "tags": [
+                "TypeScript",
+                "plugin",
+                "test"
+            ],
+            "relatedLinks": []
         }
     ]
 }
