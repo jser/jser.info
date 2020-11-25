@@ -852,6 +852,17 @@
                 "Angular"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-25T13:20:48.630Z",
+            "title": "Node v12.20.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v12.20.0/",
+            "content": "Node.js 12.20.0リリース。\nNode.js 14からのbackportが中心。\n`fs.FSWatcher`に`ref()`と`unref()`を追加、`http.Agent`に`scheduling`オプションの追加、package.jsonでexports patternsのサポートなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
