@@ -876,6 +876,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-26T12:32:18.735Z",
+            "title": "optoolco/tonic: A Low Profile Component Framework. Stable, Minimal, Auditable, and Build-Tool-Free.",
+            "url": "https://github.com/optoolco/tonic",
+            "content": "Web Componentsフレームワーク。\nコンポーネントの作成、`html`メソッドでのJSXライクなテンプレート、Proposでの値渡し、State、ライフサイクルイベントをもつ。\nビルドせずに使える。",
+            "tags": [
+                "WebComponents",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
