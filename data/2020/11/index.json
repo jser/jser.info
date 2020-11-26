@@ -863,6 +863,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-26T11:51:39.213Z",
+            "title": "Release 3.8.0 - 2020.11.26 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.8.0",
+            "content": "core-js 3.8.0リリース。\n`Array#at`、`Number.range`、`Array.filterOut`、`Array#uniqueBy`の追加など",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
