@@ -900,6 +900,20 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-27T13:39:34.714Z",
+            "title": "lukeed/uvu: uvu is an extremely fast and lightweight test runner for Node.js and the browser",
+            "url": "https://github.com/lukeed/uvu",
+            "content": "実行速度を目的にしたテストフレームワーク。\nテストファイル自体が実行でき、Native ES Modulesのサポート、ブラウザでも動作する。\n`test`と`suite`メソッド、`uvu/assert`モジュールを持っている",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "browser",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
