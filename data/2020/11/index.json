@@ -927,6 +927,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-29T15:54:02.458Z",
+            "title": "FormidableLabs/urql: The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.",
+            "url": "https://github.com/FormidableLabs/urql",
+            "content": "GraphQLクライアントライブラリ。\nGraphQLへのリクエスト、キャッシュ、Reactなどのライブラリに対応している。\nExchangesという拡張の仕組みやデバッグ用の開発者ツールを持っている",
+            "tags": [
+                "GraphQL",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
