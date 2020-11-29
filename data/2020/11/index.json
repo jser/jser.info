@@ -939,6 +939,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-29T15:58:30.114Z",
+            "title": "funbox/harold: Compares frontend project bundles",
+            "url": "https://github.com/funbox/harold",
+            "content": "プロジェクトのフロントエンド周りのファイルサイズなどのスナップショットを取り、スナップショット同士を比較できるツール。\nプロジェクトのファイルサイズやビルド時間の変化などを計測できる",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
