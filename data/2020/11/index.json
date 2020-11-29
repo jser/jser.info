@@ -950,6 +950,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-29T16:00:42.136Z",
+            "title": "panva/jose: Universal \"JSON Web Almost Everything\" - JWA, JWS, JWE, JWT, JWK with no dependencies",
+            "url": "https://github.com/panva/jose",
+            "content": "UniversalなJWA, JWS, JWE, JWT, JWKの実装ライブラリ。\nブラウザではWeb Cryptography APIを利用している。",
+            "tags": [
+                "JWT",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
