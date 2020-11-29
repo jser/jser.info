@@ -974,6 +974,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-11-29T16:17:39.627Z",
+            "title": "TypeScriptToLua",
+            "url": "https://typescripttolua.github.io/",
+            "content": "TypeScriptで書いてLuaのコードを出力するツール。\n既存Luaコードに対しては型定義ファイルで対応し、TypeScriptを使った型安全とIDEサポートを得た状態でLuaのコードを生成できる。",
+            "tags": [
+                "TypeScript",
+                "Lua",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
