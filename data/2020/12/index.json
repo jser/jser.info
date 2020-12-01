@@ -1,0 +1,17 @@
+{
+    "list": [
+        {
+            "date": "2020-12-01T02:13:06.784Z",
+            "title": "Release Workbox v6.0.0 · GoogleChrome/workbox",
+            "url": "https://github.com/GoogleChrome/workbox/releases/tag/v6.0.0",
+            "content": "Workbox 6.0.0リリース。\nwebpack 5の対応、Strategy/Pluginの仕組みの変更、`workbox-recipes`パッケージの追加など。\nWorkboxの`skipWaiting`はDeprecatedとなり、Service Workerの`self.skipWaiting()`を使うのを推奨するようになるなど",
+            "tags": [
+                "ServiceWorker",
+                "ReleaseNote",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
