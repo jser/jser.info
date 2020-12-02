@@ -24,6 +24,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-02T13:43:09.136Z",
+            "title": "Release v6.5.0 · GoogleChrome/lighthouse",
+            "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v6.5.0",
+            "content": "Lighthouse v6.5.0リリース。\nLCPとなる要素がPreloadされているかを判定する`preload-lcp-image`のAuditを追加など",
+            "tags": [
+                "Chrome",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
