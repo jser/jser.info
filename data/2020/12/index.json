@@ -82,6 +82,19 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-04T13:03:09.770Z",
+            "title": "Snowpack v3.0 Release Candidate",
+            "url": "https://www.snowpack.dev/posts/2020-12-03-snowpack-3-release-candidate",
+            "content": "snowpack 3.0 RCリリース。\nnpmパッケージの`import`をSkypackのCDN経由でダウンロードするStreaming NPM Importsのサポート、esbuildを使った最適化のサポート。\nDevサーバのルーティングサポート、snowpackのJavaScript　APIの変更など",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
