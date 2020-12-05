@@ -95,6 +95,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-05T06:00:11.216Z",
+            "title": "The npm Blog — Release v7.1.0",
+            "url": "https://blog.npmjs.org/post/636604708661886976/release-v710",
+            "content": "npm 7.1.0リリース。\n`package.json`の`scripts`を書き換える`npm set-script`コマンドの追加、引数なしの`npm exec`にインタラクティブモードの追加など",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
