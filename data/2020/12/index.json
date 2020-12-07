@@ -165,6 +165,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-07T13:10:28.449Z",
+            "title": "Release v1.1.0 · aframevr/aframe",
+            "url": "https://github.com/aframevr/aframe/releases/tag/v1.1.0",
+            "content": "WebXRフレームワークのAFrame v1.1.0リリース。\nWebXR compositor layers、WebXR DOM Overlays、WebXR immersive navigation、WebXR hand trackingのサポート。\nOculus Quest 2のコントローラーのサポートなど",
+            "tags": [
+                "WebXR",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
