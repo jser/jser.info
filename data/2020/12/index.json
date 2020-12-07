@@ -153,6 +153,18 @@
                 "Hypercore"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-07T13:02:18.566Z",
+            "title": "naugtur/debugging-aid: Experimental tools for debugging Node.js apps without pausing",
+            "url": "https://github.com/naugtur/debugging-aid",
+            "content": "Node.jsの`perf_hooks`などを使ったrequireするだけでinstrumentsを仕込めるモジュール集",
+            "tags": [
+                "node.js",
+                "debug",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
