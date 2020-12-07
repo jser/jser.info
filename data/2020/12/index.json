@@ -130,6 +130,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-07T12:35:01.416Z",
+            "title": "Chromium Blog: Chrome 88: Digital Goods, Lighting Estimation in Augmented Reality, and More",
+            "url": "https://blog.chromium.org/2020/12/chrome-88-digital-goods-lighting.html",
+            "content": "Chrome 88 betaリリース。\n`target=_blank`のリンクを暗黙的に`rel=noopener`として扱うように、`addEventListener`に`signal`オプションの追加、CSS `aspect-ratio`のサポート。\n`Permissions-Policy` Headerのサポート、FTPサポートの削除、Web Components v0の削除など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
