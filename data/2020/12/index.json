@@ -201,6 +201,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-09T22:32:40.856Z",
+            "title": "Node v15.4.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v15.4.0/",
+            "content": "Node.js 15.4.0リリース。\n`child_process.execFile`/EventTarget/StreamがAbortSignalをサポート、`response.setHeader`がメソッドチェーンできるように。\nExperimentalとして`worker_threads`モジュールにBroadcastChannelを実装など。\n",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
