@@ -228,6 +228,24 @@
                     "url": "https://developer.chrome.com/blog/welcome/"
                 }
             ]
+        },
+        {
+            "date": "2020-12-09T23:20:53.419Z",
+            "title": "Automating audits with AutoWebPerf",
+            "url": "https://web.dev/autowebperf/",
+            "content": "WebPageTestやPageSpeed Insightsなどを使い、特定のサイトのパフォーマンスを計測したデータをGoogle Sheetsに出力し、パフォーマンスダッシュボードを作成するツール。",
+            "tags": [
+                "Chrome",
+                "performance",
+                "browser",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Added URL connector that runs a single test with a specific URL.",
+                    "url": "https://github.com/GoogleChromeLabs/AutoWebPerf/commit/a39097aea673515b0316dcd6a931deb892e017f5"
+                }
+            ]
         }
     ]
 }
