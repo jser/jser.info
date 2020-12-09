@@ -190,6 +190,17 @@
                 "software"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-09T11:08:24.111Z",
+            "title": "Roadmap 2021 (2020-12-08) | webpack",
+            "url": "https://webpack.js.org/blog/2020-12-08-roadmap-2021/",
+            "content": "webpackの今後のロードマップについて。\nエッジケースへの対応、ESMの対応改善、モジュールとしてのCSSやHTML、エントリポイントとしてのHTML。\nSource Mapのパフォーマンス改善、Nodeの`exports`などの対応、CommonJSのTree Shakingの改善、マルチスレッドの対応など。\nいろいろな項目を検討しているという話",
+            "tags": [
+                "webpack",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
