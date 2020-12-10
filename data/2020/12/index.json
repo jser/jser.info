@@ -246,6 +246,17 @@
                     "url": "https://github.com/GoogleChromeLabs/AutoWebPerf/commit/a39097aea673515b0316dcd6a931deb892e017f5"
                 }
             ]
+        },
+        {
+            "date": "2020-12-10T06:04:10.932Z",
+            "title": "Deno 1.6 Release Notes",
+            "url": "https://deno.land/posts/v1.6",
+            "content": "Deno 1.6リリース。\n`deno compile`でバイナリを出力できるように、`deno lsp`でDenoビルトインのLSPが利用できるように、TypeScript 4.1へアップデート。\nまた、Deno 1.5で初期値が`true`となった`isolatedModules`の設定を変更できないようになるなど",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
