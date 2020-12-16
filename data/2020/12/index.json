@@ -354,6 +354,28 @@
             ],
             "viaURL": "https://blog.willnet.in/entry/2020/12/11/100000",
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-16T14:49:37.326Z",
+            "title": "Welcome Yari: MDN Web Docs has a new platform - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/",
+            "content": "MDNの新しいバージョン(Yari)が公開された。\nGitHubとMarkdownを使ったコンテンツ管理となり、Jamstackアプローチなサイト構成になる。\n翻訳に関しては初期の方針を変更し、日本語/中国語/フランス語のTier 1言語に関しては手動での翻訳を受け付けられるようにする。",
+            "tags": [
+                "mdn",
+                "news",
+                "document"
+            ],
+            "viaURL": "https://blog.willnet.in/entry/2020/12/11/100000",
+            "relatedLinks": [
+                {
+                    "title": "MDN Web Docs",
+                    "url": "https://developer.mozilla.org"
+                },
+                {
+                    "title": "An update on MDN Web Docs’ localization strategy - Mozilla Hacks - the Web developer blog",
+                    "url": "https://hacks.mozilla.org/2020/12/an-update-on-mdn-web-docs-localization-strategy/"
+                }
+            ]
         }
     ]
 }
