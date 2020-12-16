@@ -285,6 +285,25 @@
             ],
             "viaURL": "https://blog.willnet.in/entry/2020/12/11/100000",
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-16T08:02:25.912Z",
+            "title": "Announcing Nexus 1.0: A Major Release for Type-Safe, Code-First GraphQL APIs",
+            "url": "https://www.prisma.io/blog/announcing-the-release-of-nexus-schema-v1-b5eno5g08d0b",
+            "content": "コードファーストなGraphQL APIサーバであるNexus 1.0リリース。\nnullableの扱いを変更、ドキュメントサイトの刷新、JSDoでのドキュメントサポートなど",
+            "tags": [
+                "prisma",
+                "GraphQL",
+                "library",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://blog.willnet.in/entry/2020/12/11/100000",
+            "relatedLinks": [
+                {
+                    "title": "graphql-nexus/nexus: Code-First, Type-Safe, GraphQL Schema Construction",
+                    "url": "https://github.com/graphql-nexus/nexus"
+                }
+            ]
         }
     ]
 }
