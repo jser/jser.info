@@ -340,6 +340,20 @@
                     "url": "https://developer.mozilla.org/docs/Mozilla/Firefox/Releases/84"
                 }
             ]
+        },
+        {
+            "date": "2020-12-16T14:38:34.003Z",
+            "title": "Release 4.0.0 · facebook/flux",
+            "url": "https://github.com/facebook/flux/releases/tag/4.0.0",
+            "content": "flux 4.0.0リリース。\nflux自体はメンテナンスモードとなっている。\nfbjsのアップデート、Babel 7との互換性に関する周ウエイ、React 17をPeerDependenciesに追加",
+            "tags": [
+                "Flux",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://blog.willnet.in/entry/2020/12/11/100000",
+            "relatedLinks": []
         }
     ]
 }
