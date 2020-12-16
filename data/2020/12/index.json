@@ -394,6 +394,19 @@
                     "url": "https://developer.chrome.com/devsummit/"
                 }
             ]
+        },
+        {
+            "date": "2020-12-16T15:12:08.396Z",
+            "title": "AddyOsmani.com - The Import On Interaction Pattern",
+            "url": "https://addyosmani.com/blog/import-on-interaction/",
+            "content": "ユーザーがUIを必要となったタイミングで、リソースを遅延ロードするという話。\nクリックしたタイミングでウィジェットをロードして表示するなど。いろいろなサイトの事例ごとに遅延ロードで取得するリソースのサイズ、インタラクションに関するパフォーマンスの違いについてまとめられている。\nまた、ReactやVueでの実装、静的なものへの置き換えについてなど",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "article"
+            ],
+            "viaURL": "https://blog.willnet.in/entry/2020/12/11/100000",
+            "relatedLinks": []
         }
     ]
 }
