@@ -323,6 +323,23 @@
                     "url": "https://react-query.tanstack.com/guides/migrating-to-react-query-3"
                 }
             ]
+        },
+        {
+            "date": "2020-12-16T08:38:49.685Z",
+            "title": "And now for … Firefox 84 - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2020/12/and-now-for-firefox-84/",
+            "content": "Firefox 84リリース。\nAccessiblity Inspectorに\"Tabbing Order\"の表示を追加、`PerformancePaintTiming`のサポート。\nAppCacheの削除、`http://localhost`などのループバックアドレスから読まれたリソースをMixed Contentとして扱わないように変更など",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://blog.willnet.in/entry/2020/12/11/100000",
+            "relatedLinks": [
+                {
+                    "title": "Firefox 84 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/docs/Mozilla/Firefox/Releases/84"
+                }
+            ]
         }
     ]
 }
