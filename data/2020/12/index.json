@@ -434,6 +434,18 @@
             ],
             "viaURL": "https://blog.willnet.in/entry/2020/12/11/100000",
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-17T02:49:01.364Z",
+            "title": "Publish, ship, and install modern JavaScript for faster applications",
+            "url": "https://web.dev/publish-modern-javascript/",
+            "content": "modern browserとlegacy browser向けにJavaScriptのbundleを分けて配布する際に、ビルドやwebpackでのbundleを最適化するプラグインについての紹介記事",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "viaURL": "https://blog.willnet.in/entry/2020/12/11/100000",
+            "relatedLinks": []
         }
     ]
 }
