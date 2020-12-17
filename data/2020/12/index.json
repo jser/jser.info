@@ -446,6 +446,19 @@
             ],
             "viaURL": "https://blog.willnet.in/entry/2020/12/11/100000",
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-17T02:58:45.083Z",
+            "title": "rafgraph/rollpkg: Convention over configuration way to create packages with Rollup and TypeScript",
+            "url": "https://github.com/rafgraph/rollpkg",
+            "content": "TypeScriptとRollupを使ったパッケージ開発のためツールキット。\nCJS、ESMなどの各種モジュールのビルド、tsconfigやprettierなどのプリセット、ビルド時に開発向けのコードを取り除く仕組みなどをもつ",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "TypeScript"
+            ],
+            "viaURL": "https://blog.willnet.in/entry/2020/12/11/100000",
+            "relatedLinks": []
         }
     ]
 }
