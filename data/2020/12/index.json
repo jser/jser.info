@@ -407,6 +407,19 @@
             ],
             "viaURL": "https://blog.willnet.in/entry/2020/12/11/100000",
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-17T02:34:23.025Z",
+            "title": "Introduction to Event Loop Utilization in Node.js - NodeSource",
+            "url": "https://nodesource.com/blog/event-loop-utilization-nodejs",
+            "content": "`perf_hooks`の`eventLoopUtilization()`を使ったEvent Loop Utilization (ELU)の収集について。\nスケーリングのメトリクスにイベントループの使用率(ELU)を使う話、CPU使用率との比較、モジュールの使い方について",
+            "tags": [
+                "node.js",
+                "article",
+                "performance"
+            ],
+            "viaURL": "https://blog.willnet.in/entry/2020/12/11/100000",
+            "relatedLinks": []
         }
     ]
 }
