@@ -460,6 +460,19 @@
             ],
             "viaURL": "https://blog.willnet.in/entry/2020/12/11/100000",
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-18T05:28:47.451Z",
+            "title": "Release v7.0.0 · GoogleChrome/lighthouse",
+            "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v7.0.0",
+            "content": "Lighthouse 7.0.0リリース。\nNode.js 10のサポート終了。\nPWAカテゴリの変更、アクセシビリティのテストに使う`axe-core`のアップデート、nightlyを`lighthouse@next`としてインストールできるようになる。\nまた、スクリーンショットがフルページとなりレポートのファイルサイズが増加するなど",
+            "tags": [
+                "Chrome",
+                "performance",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
