@@ -473,6 +473,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-19T01:00:19.824Z",
+            "title": "cincheo/jsweet: A Java to JavaScript transpiler.",
+            "url": "https://github.com/cincheo/jsweet",
+            "content": "JavaのコードからTypeScript/JavaScriptのコードに変換するTranspiler",
+            "tags": [
+                "Java",
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
