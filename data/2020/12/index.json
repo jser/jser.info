@@ -497,6 +497,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-19T01:23:02.063Z",
+            "title": "Release v4.0.0 · less/less.js",
+            "url": "https://github.com/less/less.js/releases/tag/v4.0.0",
+            "content": "Less 4.0.0リリース。\n破壊的な変更としてmixinの呼び出し方のチェックをより厳密に変更、`math`オプションの初期値を`parens-division`に変更など。\n`min()`/`max()`のサポート改善、`isdefined()`の追加など",
+            "tags": [
+                "CSS",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
