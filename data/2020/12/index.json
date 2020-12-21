@@ -561,6 +561,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-21T15:34:55.499Z",
+            "title": "Cloudflare Pages",
+            "url": "https://pages.cloudflare.com/",
+            "content": "Cloudflareの静的サイトホスティングサービス。\nNetlifyやVercelのようにコミット/PRごとのレプビューURLの生成、Cloudflare Workersを使ったFaaSの仕組みを持っている",
+            "tags": [
+                "cloudflare",
+                "webservice"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing Cloudflare Pages: the best way to build JAMstack websites",
+                    "url": "https://blog.cloudflare.com/cloudflare-pages/"
+                }
+            ]
         }
     ]
 }
