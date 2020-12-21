@@ -520,6 +520,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-21T14:46:30.422Z",
+            "title": "Announcing Stimulus 2.0 - Announcements - Stimulus Discourse",
+            "url": "https://discourse.stimulusjs.org/t/announcing-stimulus-2-0/1482",
+            "content": "Basecampで使われているStimulus 2.0リリース。\nControllerで`values`と`classes`プロパティを追加、EventListnerの`once`と`passive`のサポートなど。\n`data`属性に`identifier`を含めて使うように変更、`input`要素を`change`から`input`イベントで監視するように変更など",
+            "tags": [
+                "JavaScript",
+                "rails",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v2.0.0 · stimulusjs/stimulus",
+                    "url": "https://github.com/stimulusjs/stimulus/releases/tag/v2.0.0"
+                }
+            ]
         }
     ]
 }
