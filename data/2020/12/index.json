@@ -510,18 +510,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-12-21T00:36:17.860Z",
-            "title": "Conditional JavaScript - JavaScript - Dev Tips",
-            "url": "https://umaar.com/dev-tips/242-considerate-javascript/",
-            "content": "選択的にモジュールをダウンロードする際に利用できるウェブAPIとブラウザのサポートについて。\nメモリ、CPU数、バッテリー、ストレージの空き容量、ネットワーク、saveData",
-            "tags": [
-                "JavaScript",
-                "performance",
-                "article"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2020-12-21T14:46:30.422Z",
             "title": "Announcing Stimulus 2.0 - Announcements - Stimulus Discourse",
             "url": "https://discourse.stimulusjs.org/t/announcing-stimulus-2-0/1482",
@@ -645,6 +633,18 @@
                     "url": "https://www.youtube.com/watch?v=TQQPAU21ZUw&feature=emb_title"
                 }
             ]
+        },
+        {
+            "date": "2020-12-22T05:11:18.676Z",
+            "title": "Conditional JavaScript - JavaScript - Dev Tips",
+            "url": "https://umaar.com/dev-tips/242-considerate-javascript/",
+            "content": "選択的にモジュールをダウンロードする際に利用できるウェブAPIとブラウザのサポートについて。\nメモリ、CPU数、バッテリー、ストレージの空き容量、ネットワーク、saveDataなど",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
