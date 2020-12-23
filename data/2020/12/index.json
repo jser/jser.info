@@ -659,6 +659,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-23T02:36:14.217Z",
+            "title": "msn0/mdn-polyfills: MDN polyfills - from, forEach, filter, find, findIndex, assign, includes, create, entries, of, repeat, startsWith, endsWith, toggleAttribute, bind, MouseEvent, CustomEvent, padEnd, padStart",
+            "url": "https://github.com/msn0/mdn-polyfills",
+            "content": "MDNに載っているJavaScriptやDOM APIのpolyfillをまとめたパッケージ",
+            "tags": [
+                "JavaScript",
+                "mdn",
+                "library",
+                "polyfill"
+            ],
+            "relatedLinks": []
         }
     ]
 }
