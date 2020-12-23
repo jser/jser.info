@@ -685,6 +685,27 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-23T08:43:34.523Z",
+            "title": "CSS Snapshot 2020",
+            "url": "https://www.w3.org/TR/2020/NOTE-css-2020-20201222/",
+            "content": "CSS Snapshot 2020リリース",
+            "tags": [
+                "CSS",
+                "spec",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "CSS Snapshot 2020 日本語訳",
+                    "url": "https://momdo.github.io/css-2020/"
+                },
+                {
+                    "title": "CSS Snapshot 2020が発行されました | フロントエンドBlog | ミツエーリンクス",
+                    "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202012/23_1049.html"
+                }
+            ]
         }
     ]
 }
