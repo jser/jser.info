@@ -706,6 +706,17 @@
                     "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202012/23_1049.html"
                 }
             ]
+        },
+        {
+            "date": "2020-12-23T10:05:26.344Z",
+            "title": "Node v15.5.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v15.5.0/",
+            "content": "Node v15.5.0リリース。\n`child_process`と`stream`がAbortSignalをサポート、`querystring.stringify()`がBigIntをサポートなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
