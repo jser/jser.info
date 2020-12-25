@@ -729,6 +729,23 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-25T23:46:06.896Z",
+            "title": "Release 4.0.0 · fuse-box/fuse-box",
+            "url": "https://github.com/fuse-box/fuse-box/releases/tag/v4.0.0",
+            "content": "FuseBox 4.0リリース。\n破壊的な変更として`homeDir`、`output`、`useSigleBundle`の削除。\n`watch`オプションを`watcher`にリネーム、\n`output`オプションの代わりに`bundles.distRoot`を使うように変更など\n",
+            "tags": [
+                "bundler",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Changelog fuse 3 to 4 · FuseBox",
+                    "url": "https://fuse-box.org/docs/development/changelog-fuse-compiler"
+                }
+            ]
         }
     ]
 }
