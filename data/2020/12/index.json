@@ -746,6 +746,18 @@
                     "url": "https://fuse-box.org/docs/development/changelog-fuse-compiler"
                 }
             ]
+        },
+        {
+            "date": "2020-12-27T13:25:10.959Z",
+            "title": "JavaScript Performance in the Wild 2020 | CatchJS",
+            "url": "https://catchjs.com/Blog/PerformanceInTheWild",
+            "content": "https://tranco-list.eu/ のデータを元に1億のサイトをPuppeteerでクロールして集めたパフォーマンスに関するデータセットについて。\nKaggleでデータセットを公開している。\nHTTPのプロトコルバージョン、サードパーティリソース、ライブラリとそれぞれのメトリクスの関係性などについて。\n2.2%のサイトでjQueryのロードに失敗してエラーが発生していることなどについて",
+            "tags": [
+                "article",
+                "performance",
+                "browser"
+            ],
+            "relatedLinks": []
         }
     ]
 }
