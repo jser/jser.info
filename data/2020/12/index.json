@@ -758,6 +758,18 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-27T14:26:02.592Z",
+            "title": "CSS Containment によるパフォーマンス改善 — HACK The Nikkei",
+            "url": "https://hack.nikkei.com/blog/advent20201219/",
+            "content": "CSS Containmentの`contain: content`によるPaint Timeの改善について。\n",
+            "tags": [
+                "browser",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
