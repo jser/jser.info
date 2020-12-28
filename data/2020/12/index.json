@@ -782,6 +782,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-28T12:18:32.027Z",
+            "title": "jameslittle230/stork: 🔎 Impossibly fast web search, made for static sites.",
+            "url": "https://github.com/jameslittle230/stork",
+            "content": "Rustで書かれたindexerとWebAssemblyを使った検索ライブラリ。\n検索対象のファイルからインデックスファイルを作り、それを元にした検索機能/UIを提供するライブラリ",
+            "tags": [
+                "JavaScript",
+                "Rust",
+                "WebAssembly"
+            ],
+            "relatedLinks": []
         }
     ]
 }
