@@ -794,6 +794,17 @@
                 "WebAssembly"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-28T12:26:35.346Z",
+            "title": "devbridge/js-unused-exports",
+            "url": "https://github.com/devbridge/js-unused-exports",
+            "content": "JavaScriptのファイルから使われてない関数、ファイルを抽出するツール。\n細かい無視オプションやaliasの対応などのオプションをもっている。\n",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
