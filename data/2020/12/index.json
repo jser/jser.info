@@ -698,18 +698,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2020-12-24T15:57:52.410Z",
-            "title": "cross-env is \"finished\" (now in maintenance mode) · Issue #257 · kentcdodds/cross-env",
-            "url": "https://github.com/kentcdodds/cross-env/issues/257",
-            "content": "cross-envがメンテナンスモードとなりアーカイブされた。",
-            "tags": [
-                "node.js",
-                "library",
-                "news"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2020-12-25T23:46:06.896Z",
             "title": "Release 4.0.0 · fuse-box/fuse-box",
             "url": "https://github.com/fuse-box/fuse-box/releases/tag/v4.0.0",
@@ -845,6 +833,18 @@
                     "url": "https://www.w3.org/blog/news/archives/8820"
                 }
             ]
+        },
+        {
+            "date": "2020-12-29T03:00:33.622Z",
+            "title": "cross-env is \"finished\" (now in maintenance mode) · Issue #257 · kentcdodds/cross-env",
+            "url": "https://github.com/kentcdodds/cross-env/issues/257",
+            "content": "cross-envがメンテナンスモードとなりアーカイブされた。\n機能として完成しているため、これ以上機能追加することはないため。セキュリティアップデートと新しいNode.jsへの対応は続けるメンテナンスモードとなった",
+            "tags": [
+                "node.js",
+                "library",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
