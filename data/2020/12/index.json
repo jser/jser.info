@@ -817,6 +817,18 @@
                 "WebPlatformAPI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-29T02:28:45.719Z",
+            "title": "Maximally optimizing image loading for the web in 2021",
+            "url": "https://www.industrialempathy.com/posts/image-optimizations/",
+            "content": "画像の読み込みの最適化についてまとめた記事。\nwidthとheightでのCLSの回避、`content-visibility`、AVIF、`srcset`と`size`属性、Cache-Controlヘッダ、`loading`属性と`decoding`属性。\nプレースホルダー画像を使う方法についてなど",
+            "tags": [
+                "article",
+                "performance",
+                "browser"
+            ],
+            "relatedLinks": []
         }
     ]
 }
