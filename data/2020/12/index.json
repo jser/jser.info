@@ -805,6 +805,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-29T02:24:04.123Z",
+            "title": "Web Performance Calendar » Strategies for Telemetry Exfiltration (aka Beaconing In Practice)",
+            "url": "https://calendar.perfplanet.com/2020/beaconing-in-practice/",
+            "content": "ブラウザからメトリクスデータを送信するときの戦略について。\n`navigator.sendBeacon`/Fetch/XHR/pixel imageでの送信、どのタイミングで送信するかのライフサイクルイベントの到達信頼性についての調査。\nローカルストレージでの再送やService Workerでのバッファ、Reporting APIについてなど。\n",
+            "tags": [
+                "article",
+                "browser",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
