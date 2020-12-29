@@ -829,6 +829,18 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2020-12-29T02:36:50.602Z",
+            "title": "War stories: The move from Flow to TypeScript",
+            "url": "https://react.christmas/2020/2",
+            "content": "約15日でFlowからTypeScriptのマイグレーションした話。\njs-unused-exportsを使った使われてないファイルの削除、flow-to-tsを使った変換、ESLintを使ったフォーマットの修正。\nコードのフリーズとマイグレーションの目標について",
+            "tags": [
+                "flowtype",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
