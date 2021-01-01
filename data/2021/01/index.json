@@ -1,0 +1,15 @@
+{
+    "list": [
+        {
+            "date": "2021-01-01T01:23:50.706Z",
+            "title": "g-plane/typed-query-selector: Better typed `querySelector` and `querySelectorAll`.",
+            "url": "https://github.com/g-plane/typed-query-selector",
+            "content": "Template Literal Typeを使って`document.querySelector`の引数から返す要素の型を推論するライブラリ",
+            "tags": [
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
