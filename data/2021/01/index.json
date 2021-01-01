@@ -10,6 +10,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-01T01:43:06.191Z",
+            "title": "Denoからnpmパッケージを使用するノウハウ",
+            "url": "https://zenn.dev/uki00a/articles/how-to-use-npm-packages-in-deno",
+            "content": "Denoからnpmに公開されたパッケージを利用する方法について。\nskypack、esm.sh、jspm.devを使った方法について。\nまた、JavaScriptで書かれたパッケージを型チェックする仕組みとしての`X-TypeScript-Types`ヘッダと`@deno-types`について",
+            "tags": [
+                "deno",
+                "TypeScript",
+                "npm"
+            ],
+            "relatedLinks": []
         }
     ]
 }
