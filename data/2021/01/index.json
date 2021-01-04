@@ -24,7 +24,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-01-04T10:23:40.424Z",
+            "date": "2021-01-04T10:25:57.300Z",
             "title": "xstyled - A utility-first CSS-in-JS framework built for React. - xstyled",
             "url": "https://xstyled.dev/",
             "content": "React向けのUtility-firstなCSS-in-JSフレームワーク。\nCSS-in-JSライブラリとしてstyled-componentsまたはemotionを使い、TailwindのようなUtilityスタイルを指定できるコンポーネントを提供する目的。\nstyled-systemをインスパイアしている",
@@ -38,6 +38,10 @@
                 {
                     "title": "Styled System",
                     "url": "https://styled-system.com/"
+                },
+                {
+                    "title": "Release 🚀 v2.0.0 · gregberge/xstyled",
+                    "url": "https://github.com/gregberge/xstyled/releases/tag/v2.0.0"
                 }
             ]
         }
