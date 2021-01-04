@@ -56,6 +56,19 @@
                 "WebExtension"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-04T12:45:05.489Z",
+            "title": "Nullstack - Full-stack Javascript Components",
+            "url": "https://nullstack.app/",
+            "content": "同じコンポーネントでブラウザとNode.jsで動くコードを扱うフルスタックフレームワーク。\n`.njs`という拡張子でライフサイクルメソッドとJSXを使ったコンポーネントを書くことで、SSRやHydrateなどを行う。\nサーバで動くコードは`static async`で書き、インスタントメソッドはブラウザ向けの処理となり、`context`オブジェクトで値をやり取りする。\nビルドするとブラウザとサーバのコードをそれぞれbundleしたファイルを出力する。",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "browser",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
