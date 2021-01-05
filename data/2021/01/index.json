@@ -131,6 +131,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-05T15:45:56.569Z",
+            "title": "Node v15.5.1 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v15.5.1/",
+            "content": "Node.js 15.5.1リリース。\nDoSにつながる脆弱性とHTTP Request Smugglingの脆弱性の修正を含むセキュリティアップデート。\nNode.js 10, 12, 14にそれぞれ同様のセキュリティリリースがされている",
+            "tags": [
+                "node.js",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
