@@ -156,6 +156,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-06T01:15:32.760Z",
+            "title": "Wasmer 1.0. By leveraging Wasm for software… | by Syrus Akbary | Wasmer | Jan, 2021 | Medium",
+            "url": "https://medium.com/wasmer/wasmer-1-0-3f86ca18c043",
+            "content": "WebAssembly RuntimeであるWasmer 1.0リリース。\nWasmファイルを`.dll`などにプリコンパイルする`wasmer compile`の追加、クロスコンパイルの対応、エラーレポートの改善など",
+            "tags": [
+                "WebAssembly",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "wasmer/CHANGELOG.md at master · wasmerio/wasmer",
+                    "url": "https://github.com/wasmerio/wasmer/blob/master/CHANGELOG.md#100---2021-01-05"
+                }
+            ]
         }
     ]
 }
