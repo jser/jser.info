@@ -172,6 +172,19 @@
                     "url": "https://github.com/wasmerio/wasmer/blob/master/CHANGELOG.md#100---2021-01-05"
                 }
             ]
+        },
+        {
+            "date": "2021-01-06T01:57:00.527Z",
+            "title": "Yord/shargs: 🦈 shargs is a library for building command-line argument parsers.",
+            "url": "https://github.com/Yord/shargs",
+            "content": "コマンドライン引数パーサライブラリ。\nサブコマンド、スペルミスの訂正、REPLなどに対応している",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "li b",
+                "console"
+            ],
+            "relatedLinks": []
         }
     ]
 }
