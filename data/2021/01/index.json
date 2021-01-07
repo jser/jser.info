@@ -215,6 +215,23 @@
                     "url": "https://github.com/WebReflection/uhooks"
                 }
             ]
+        },
+        {
+            "date": "2021-01-07T03:26:13.434Z",
+            "title": "Release Notes for Safari Technology Preview 118 | WebKit",
+            "url": "https://webkit.org/blog/11439/release-notes-for-safari-technology-preview-118/",
+            "content": "Safari Technology Preview 118リリース。\nWeb InspectorにNetworkリクエストのinterceptをするUIの追加。\nECMAScript Proposalの`Array#at`をサポート、Private Click Measurementの設定をexperimentalから標準UIに移動など",
+            "tags": [
+                "safari",
+                "webkit",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "tc39/proposal-relative-indexing-method: A TC39 proposal to add an .at() method to all the basic indexable classes (Array, String, TypedArray)",
+                    "url": "https://github.com/tc39/proposal-relative-indexing-method"
+                }
+            ]
         }
     ]
 }
