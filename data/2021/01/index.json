@@ -186,6 +186,17 @@
                     "url": "https://github.com/wasmerio/wasmer/blob/master/CHANGELOG.md#100---2021-01-05"
                 }
             ]
+        },
+        {
+            "date": "2021-01-07T03:08:10.977Z",
+            "title": "O1dMate/dns-host: Simple, lightweight DNS server written in pure JavaScript with no external dependencies.",
+            "url": "https://github.com/O1dMate/dns-host",
+            "content": "Node.jsの`dgram`コアパッケージを使ったDNSサーバの実装ライブラリ",
+            "tags": [
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
