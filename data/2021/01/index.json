@@ -197,6 +197,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-07T03:12:36.985Z",
+            "title": "Vanilla Hooks (outside React). Hooks are a pattern, not something… | by Andrea Giammarchi | JavaScript In Plain English | Jan, 2021 | Medium",
+            "url": "https://medium.com/javascript-in-plain-english/vanilla-hooks-outside-react-860471e5f95c",
+            "content": "uhooksを使ってReact HooksライクにDOM APIを使ったTODOアプリを書く話。",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "WebReflection/uhooks: micro hooks: a minimalistic client/server hooks' implementation",
+                    "url": "https://github.com/WebReflection/uhooks"
+                }
+            ]
         }
     ]
 }
