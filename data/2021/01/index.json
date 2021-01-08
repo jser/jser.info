@@ -232,6 +232,17 @@
                     "url": "https://github.com/tc39/proposal-relative-indexing-method"
                 }
             ]
+        },
+        {
+            "date": "2021-01-08T02:06:38.703Z",
+            "title": "Release v7.4.0 · npm/cli",
+            "url": "https://github.com/npm/cli/releases/tag/v7.4.0",
+            "content": "npm 7.4.0リリース。\n`--foreground-scripts`の追加、`npm publish --dry-run`の修正など",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
