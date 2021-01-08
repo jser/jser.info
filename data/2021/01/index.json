@@ -243,6 +243,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-08T08:41:29.836Z",
+            "title": "menduz/typed-url-params: TypeSystem based parser for url parameters",
+            "url": "https://github.com/menduz/typed-url-params",
+            "content": "path-to-regexpのようなルーティング文字列に対する型推論をTemplate Literarl Typeで行うライブラリ",
+            "tags": [
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
