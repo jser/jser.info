@@ -275,6 +275,18 @@
                     "url": "https://github.com/nodeca/js-yaml-js-types"
                 }
             ]
+        },
+        {
+            "date": "2021-01-10T03:41:37.908Z",
+            "title": "mistlog/react-peg: A react style parser generator based on PEG.js",
+            "url": "https://github.com/mistlog/react-peg",
+            "content": "PEG.jsの構文定義をJSXで書けるライブラリ。\nTypeScriptのTSXを使うことで、構文に対する型チェックをしながら、構文定義をコンポーネントのように書けるようにすることが目的。",
+            "tags": [
+                "TypeScript",
+                "jsx",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
