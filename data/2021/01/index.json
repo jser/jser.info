@@ -379,20 +379,15 @@
             ]
         },
         {
-            "date": "2021-01-11T15:12:38.758Z",
+            "date": "2021-01-11T15:13:06.060Z",
             "title": "Checka11y.css - CSS stylesheet to quickly highlight a11y concerns",
             "url": "https://checka11y.jackdomleo.dev/",
-            "content": "CSSでHTMLのアクセシビリティをチェックするスタイルシート",
+            "content": "CSSでHTMLのアクセシビリティをチェックするスタイルシート。\n類似するツールとしてhttps://ffoodd.github.io/a11y.css/ がある。",
             "tags": [
                 "accessibility",
                 "CSS"
             ],
-            "relatedLinks": [
-                {
-                    "title": "a11y.css",
-                    "url": "https://ffoodd.github.io/a11y.css/"
-                }
-            ]
+            "relatedLinks": []
         }
     ]
 }
