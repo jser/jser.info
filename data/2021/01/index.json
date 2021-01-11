@@ -388,6 +388,18 @@
                 "CSS"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-11T15:16:38.039Z",
+            "title": "cloudfour/lighthouse-parade: A Node.js command line tool that crawls a domain and gathers lighthouse performance data for every page.",
+            "url": "https://github.com/cloudfour/lighthouse-parade",
+            "content": "Lighthouseでクロールしてパフォーマンス計測した結果をCSVとしてまとめるツール。\n複数のページの結果をSpreadsheetなどに集めて分析する目的",
+            "tags": [
+                "Chrome",
+                "performance",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
