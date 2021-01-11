@@ -330,6 +330,20 @@
                 "issue"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-11T14:49:01.774Z",
+            "title": "crossorigin 属性の仕様を読み解く",
+            "url": "https://nhiroki.jp/2021/01/07/crossorigin-attribute",
+            "content": "CORSに関するrequest modeとcredentials modeの振る舞いを指定する`crossorigin`属性について。\n`<img>`, `<script>`, `<link rel=preconnect>`における`crossorigin`属性の指定による振る舞いの解説。\nFetch APIでの表現方法について。",
+            "tags": [
+                "HTML",
+                "WHATWG",
+                "JavaScript",
+                "spec",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
