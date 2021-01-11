@@ -300,6 +300,24 @@
                 "Chinese"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-11T12:56:23.917Z",
+            "title": "byte-js/byte: A easy JavaScript Runtime Engine that aims towards productivity",
+            "url": "https://github.com/byte-js/byte",
+            "content": "簡単なコマンドラインツールを作れることを目的にしたV8とRustを使ったJavaScriptのRuntime",
+            "tags": [
+                "Rust",
+                "V8",
+                "console",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "denoland/rusty_v8: V8 javascript bindings for Rust",
+                    "url": "https://github.com/denoland/rusty_v8"
+                }
+            ]
         }
     ]
 }
