@@ -425,6 +425,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-12T13:03:56.907Z",
+            "title": "egoist/tsup: Bundle your TypeScript library with no config, powered by esbuild.",
+            "url": "https://github.com/egoist/tsup",
+            "content": "esbuildを使ったTypeScriptのコードをbundleしてesm,cjs,iife形式のコードを出力するツール",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
