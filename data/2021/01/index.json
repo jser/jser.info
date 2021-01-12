@@ -358,27 +358,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-01-11T15:09:28.972Z",
-            "title": "Slowfil.es – Demonstate and observe slow-loading resources",
-            "url": "https://slowfil.es/",
-            "content": "レイテンシを再現したリソースの配信をテストできるサービス。\nscript要素の`async`属性や`defer`属性の動作のテストなどリソースのレイテンシに関するパフォーマンステストに利用できる。",
-            "tags": [
-                "webservice",
-                "HTTP",
-                "performance"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "slowfil.es – a service for slow assets with high priority | Stefan Judis Web Development",
-                    "url": "https://www.stefanjudis.com/notes/slowfil-es-a-service-for-slow-assets-with-high-priority/"
-                },
-                {
-                    "title": "Oh The Scripts We'll Load - A Performance Talk by Tim Kadlec - YouTube",
-                    "url": "https://www.youtube.com/watch?v=tr6aHw8I32M"
-                }
-            ]
-        },
-        {
             "date": "2021-01-11T15:13:06.060Z",
             "title": "Checka11y.css - CSS stylesheet to quickly highlight a11y concerns",
             "url": "https://checka11y.jackdomleo.dev/",
@@ -412,6 +391,28 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-12T01:56:05.409Z",
+            "title": "Slowfil.es – Demonstate and observe slow-loading resources",
+            "url": "https://slowfil.es/",
+            "content": "レイテンシを再現したリソースの配信をテストできるサービス。\nscript要素の`async`属性や`defer`属性の動作のテストなどリソースのレイテンシに関するパフォーマンステストに利用できる。",
+            "tags": [
+                "webservice",
+                "HTTP",
+                "performance",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "slowfil.es – a service for slow assets with high priority | Stefan Judis Web Development",
+                    "url": "https://www.stefanjudis.com/notes/slowfil-es-a-service-for-slow-assets-with-high-priority/"
+                },
+                {
+                    "title": "Oh The Scripts We'll Load - A Performance Talk by Tim Kadlec - YouTube",
+                    "url": "https://www.youtube.com/watch?v=tr6aHw8I32M"
+                }
+            ]
         }
     ]
 }
