@@ -448,6 +448,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-13T15:57:27.520Z",
+            "title": "tw-in-js/twind: The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.",
+            "url": "https://github.com/tw-in-js/twind",
+            "content": "Tailwind CSSをCSS-in-JSで行うライブラリとツール。\nTemplate Literalを使ったクラスの生成するAPI、SSR向けにCSSファイルの作成、ビルド無しでTailwindクラスを利用するshimライブラリなどを提供する。",
+            "tags": [
+                "CSS",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
