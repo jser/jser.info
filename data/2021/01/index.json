@@ -471,6 +471,17 @@
                 "アンケート"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-14T12:12:01.900Z",
+            "title": "TomerAberbach/grfn: 🦅 A tiny (~400B) utility that executes a dependency graph of async functions as concurrently as possible.",
+            "url": "https://github.com/TomerAberbach/grfn",
+            "content": "Promiseを使った非同期処理のタスクのコントロールフローを管理するライブラリ。\nデバッグ用にコントールフローの図を生成する機能を持っている",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
