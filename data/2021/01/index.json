@@ -482,6 +482,20 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-14T12:45:03.340Z",
+            "title": "Snowpack v3.0",
+            "url": "https://www.snowpack.dev/posts/2021-01-13-snowpack-3-0",
+            "content": "Snowpack 3.0リリース。\nStreaming Importsのサポート、esbuildを使ったbundleの最適化のサポート、JavaScript APIの更新など",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "debug",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
