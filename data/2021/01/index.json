@@ -496,6 +496,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-14T12:55:19.464Z",
+            "title": "natemoo-re/microsite: A fast, opinionated static site generator powered by Snowpack. Build simple static sites with fool-proof performance by leveraging automatic partial hydration.",
+            "url": "https://github.com/natemoo-re/microsite",
+            "content": "SnowpackとPreactを使ったNext.jsライクなディレクトリ構造のルールを持った静的サイトジェネレーター",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "React"
+            ],
+            "relatedLinks": []
         }
     ]
 }
