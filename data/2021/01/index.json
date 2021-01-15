@@ -508,6 +508,19 @@
                 "React"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-15T05:57:21.192Z",
+            "title": "Release v6.0.0 · karma-runner/karma",
+            "url": "https://github.com/karma-runner/karma/releases/tag/v6.0.0",
+            "content": "Karma 6.0.0リリース。\n`customFileHandlers`と`customScriptTypes`の削除、不正なオプションを渡した時にエラーを出すようになるなど",
+            "tags": [
+                "browser",
+                "testing",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
