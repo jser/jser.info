@@ -521,6 +521,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-16T06:16:07.156Z",
+            "title": "Node v15.6.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v15.6.0/",
+            "content": "Node.js 15.6.0リリース。\n`child_process`に`overlapped`オプション、`.fork`がAbortSinalに対応。\n`crypto`モジュールに`randomUUID`メソッドの追加、X509Certificate APIのサポート。\n`server.listen`がAbortSignalをサポート、`http.Agent`の`scheduling`オプションにLIFOアルゴリズムを追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
