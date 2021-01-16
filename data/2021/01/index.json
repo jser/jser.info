@@ -532,6 +532,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-16T07:30:36.311Z",
+            "title": "Announcing TypeScript 4.2 Beta | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-2-beta/",
+            "content": "TypeScript 4.2 Betaリリース。\nTuple TypesでRest Elementをサポート、Type Aliasの型追跡の改善、template literal typesの改善。\n`noPropertyAccessFromIndexSignature`オプションの追加、`abstract new`のサポートなど。\nまた、`--explainFiles`でなぜファイルが含まれるかを表示できるようになるなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
