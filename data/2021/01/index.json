@@ -568,6 +568,23 @@
                 "WebComponents"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-16T08:12:58.806Z",
+            "title": "Catalyst",
+            "url": "https://github.github.io/catalyst/",
+            "content": "GitHubのWeb Componentsライブラリ。\nCustom Elementの登録、Stimulusインスパイアな`data-action`属性を使ったイベントリスナー、Custom Element内からHTMLの要素を紐付けるクエリ機能を持っている。",
+            "tags": [
+                "Github",
+                "WebComponents",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Removing jQuery from GitHub.com frontend - The GitHub Blog",
+                    "url": "https://github.blog/2018-09-06-removing-jquery-from-github-frontend/"
+                }
+            ]
         }
     ]
 }
