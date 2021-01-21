@@ -690,6 +690,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-21T12:20:23.021Z",
+            "title": "forgojs/forgo: An ultra-light UI runtime",
+            "url": "https://github.com/forgojs/forgo",
+            "content": "JSXで書けるUIライブラリ。\nReactとは違いコンポーネント内でもDOM APIを扱う形になっていて、再レンダリングも手動で行う。\nファイルサイズの小ささやフレームワークの抽象を少なくして、DOM APIを知っていれば扱えるようにするのが目的。",
+            "tags": [
+                "React",
+                "jsx",
+                "library",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
