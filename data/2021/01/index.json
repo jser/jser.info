@@ -678,6 +678,18 @@
                     "url": "https://brave.com/brave-integrates-ipfs/"
                 }
             ]
+        },
+        {
+            "date": "2021-01-21T00:21:57.223Z",
+            "title": "How to Solve the Infinite Loop of React.useEffect()",
+            "url": "https://dmitripavlutin.com/react-useeffect-infinite-loop/",
+            "content": "Reactの`useEffect`の中でStateを更新した場合になぜ無限ループが起きるのか、またその修正方法について",
+            "tags": [
+                "React",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
