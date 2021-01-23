@@ -703,6 +703,22 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-23T03:20:37.930Z",
+            "title": "Release v5.17.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v5.17.0",
+            "content": "webpack 5.17.0リリース。\n実験的な機能として、Dynamic Importしているモジュールをアクセスした時にビルドできる`experiments.lazyCompilation`オプションを追加。\n起動時にすべてをビルドしないことで、利用してないエントリポイントがビルドパフォーマンスに影響を与えないようにする目的。",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "liximomo/lazy-compile-webpack-plugin: Boost webpack startup time by lazily compiling dynamic imports",
+                    "url": "https://github.com/liximomo/lazy-compile-webpack-plugin"
+                }
+            ]
         }
     ]
 }
