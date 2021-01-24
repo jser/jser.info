@@ -731,6 +731,23 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-24T12:58:06.503Z",
+            "title": "Migrating Puppeteer to TypeScript  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2021/01/puppeteer-typescript",
+            "content": "PuppeteerのコードベースをJavaScriptからTypeScriptの移行するどのように取り組んでいるかについて",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Upgrading DevTools' architecture to the modern web - YouTube",
+                    "url": "https://www.youtube.com/watch?v=BHogHiiyuQk"
+                }
+            ]
         }
     ]
 }
