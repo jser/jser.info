@@ -748,6 +748,26 @@
                     "url": "https://www.youtube.com/watch?v=BHogHiiyuQk"
                 }
             ]
+        },
+        {
+            "date": "2021-01-24T13:31:32.916Z",
+            "title": "Deno 1.7 Release Notes",
+            "url": "https://deno.land/posts/v1.7",
+            "content": "Deno 1.7リリース。\n`deno compile`のサイズ改善とクロスコンパイルの対応、Data URLのimportをサポート、`deno fmt`のMarkdownサポート。\nSteram APIをWHATWGに準拠するように修正、Web Workerに`permissions`でDeno独自のパーミッションを指定可能に。\n`--location`フラグを使って相対URLのFetchに対応、FetchのリクエストbodyにStreamを指定可能になるなど。\n破壊的な変更としてDeno APIsの変更やUnstable APIとして`Deno.resolveDns`のサポートが含まれる。",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v1.7.0 · denoland/deno",
+                    "url": "https://github.com/denoland/deno/releases/tag/v1.7.0"
+                },
+                {
+                    "title": "Deno 1.7.0 がリリースされたので新機能や変更点の紹介",
+                    "url": "https://zenn.dev/magurotuna/articles/55575eb16ae422"
+                }
+            ]
         }
     ]
 }
