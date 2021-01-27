@@ -875,6 +875,34 @@
                     "url": "https://expressjs.com/ja/api.html#res.render"
                 }
             ]
+        },
+        {
+            "date": "2021-01-27T03:04:03.904Z",
+            "title": "January brings us Firefox 85 - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2021/01/january-brings-us-firefox-85/",
+            "content": "Firefox 85リリース。\nFlashのサポート終了。\nCSSでPrefixなしの`:focus-visible`をサポート、`<link rel=\"preload\">`のサポート。\nES Proposal Stage 3のTop-Level awaitのサポート、`at()`メソッドのサポートなど。\nまた、Network partitioningの導入など\n",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 85.0, See All New Features, Updates and Fixes",
+                    "url": "https://www.mozilla.org/en-US/firefox/85.0/releasenotes/"
+                },
+                {
+                    "title": "Firefox 85 Cracks Down on Supercookies - Mozilla Security Blog",
+                    "url": "https://blog.mozilla.org/security/2021/01/26/supercookie-protections/"
+                },
+                {
+                    "title": "Gaining security and privacy by partitioning the cache  |  Web",
+                    "url": "https://developers.google.com/web/updates/2020/10/http-cache-partitioning#what_is_the_impact_of_this_behavioral_change"
+                },
+                {
+                    "title": "Firefox 85 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/85"
+                }
+            ]
         }
     ]
 }
