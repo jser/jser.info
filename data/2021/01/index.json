@@ -903,6 +903,19 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/85"
                 }
             ]
+        },
+        {
+            "date": "2021-01-27T05:54:40.219Z",
+            "title": "azu/express-lazy-router: Lazy loading for express router",
+            "url": "https://github.com/azu/express-lazy-router",
+            "content": "expressのRouterを遅延ロードするライブラリ。\nts-node-devとか@babel/registerでruntime compileしているケースで、起動時に全コンパイルじゃなくて分散コンパイルできるようにする目的",
+            "tags": [
+                "express",
+                "TypeScript",
+                "library",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
