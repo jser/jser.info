@@ -947,22 +947,6 @@
             ]
         },
         {
-            "date": "2021-01-28T13:16:48.876Z",
-            "title": "Release Notes for Safari Technology Preview 119 | WebKit",
-            "url": "https://webkit.org/blog/11525/release-notes-for-safari-technology-preview-119/",
-            "content": "Safari Technology Preview 119リリース。\nSpeechRecognition APIの有効化、CSS `aspect-ratio`プロパティのサポート、`prefers-contrast: more`のサポートなど。\nWebAssemblyで`memory.copy`、`memory.init`、`memory.fill`をフラグ付きでサポートなど",
-            "tags": [
-                "safari",
-                "ReleaseNote"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "bulk-memory-operations/Overview.md at master · WebAssembly/bulk-memory-operations",
-                    "url": "https://github.com/WebAssembly/bulk-memory-operations/blob/master/proposals/bulk-memory-operations/Overview.md"
-                }
-            ]
-        },
-        {
             "date": "2021-01-28T13:37:05.920Z",
             "title": "WebReflection/linkedom: A triple-linked lists based DOM implementation.",
             "url": "https://github.com/WebReflection/linkedom",
@@ -978,6 +962,26 @@
                 {
                     "title": "WebReflection/basicHTML: A NodeJS based, standard oriented, HTML implementation.",
                     "url": "https://github.com/WebReflection/basicHTML#readme"
+                }
+            ]
+        },
+        {
+            "date": "2021-01-28T14:32:15.471Z",
+            "title": "Release Notes for Safari Technology Preview 119 | WebKit",
+            "url": "https://webkit.org/blog/11525/release-notes-for-safari-technology-preview-119/",
+            "content": "Safari Technology Preview 119リリース。\nSpeechRecognition APIの有効化、CSS `aspect-ratio`プロパティのサポート改善、`prefers-contrast: more`のサポートなど。\nWebAssemblyで`memory.copy`、`memory.init`、`memory.fill`をフラグ付きでサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "bulk-memory-operations/Overview.md at master · WebAssembly/bulk-memory-operations",
+                    "url": "https://github.com/WebAssembly/bulk-memory-operations/blob/master/proposals/bulk-memory-operations/Overview.md"
+                },
+                {
+                    "title": "Media Queries Level 5",
+                    "url": "https://drafts.csswg.org/mediaqueries-5/#prefers-contrast"
                 }
             ]
         }
