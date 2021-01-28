@@ -961,6 +961,25 @@
                     "url": "https://github.com/WebAssembly/bulk-memory-operations/blob/master/proposals/bulk-memory-operations/Overview.md"
                 }
             ]
+        },
+        {
+            "date": "2021-01-28T13:37:05.920Z",
+            "title": "WebReflection/linkedom: A triple-linked lists based DOM implementation.",
+            "url": "https://github.com/WebReflection/linkedom",
+            "content": "Node.js向けのHTML/DOMの実装ライブラリ。\n基本的なユースケースにおけるHTML文字列のパース、DOM APIを一定のパフォーマンスで実現できるものを目指している。\nDOM標準互換を目指すのではなく、basichtmlの置き換えを目的に治している。",
+            "tags": [
+                "HTML",
+                "DOM",
+                "JavaScript",
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "WebReflection/basicHTML: A NodeJS based, standard oriented, HTML implementation.",
+                    "url": "https://github.com/WebReflection/basicHTML#readme"
+                }
+            ]
         }
     ]
 }
