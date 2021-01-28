@@ -928,6 +928,23 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-28T01:16:47.520Z",
+            "title": "When to use HTTPS for local development",
+            "url": "https://web.dev/when-to-use-local-https/",
+            "content": "ローカル開発でもHTTPSが必要なものと`localshot`について。\nまた、ローカルでの開発に使うべきTLDについて",
+            "tags": [
+                "HTTPS",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "How to use HTTPS for local development",
+                    "url": "https://web.dev/how-to-use-local-https/"
+                }
+            ]
         }
     ]
 }
