@@ -945,6 +945,22 @@
                     "url": "https://web.dev/how-to-use-local-https/"
                 }
             ]
+        },
+        {
+            "date": "2021-01-28T13:16:48.876Z",
+            "title": "Release Notes for Safari Technology Preview 119 | WebKit",
+            "url": "https://webkit.org/blog/11525/release-notes-for-safari-technology-preview-119/",
+            "content": "Safari Technology Preview 119リリース。\nSpeechRecognition APIの有効化、CSS `aspect-ratio`プロパティのサポート、`prefers-contrast: more`のサポートなど。\nWebAssemblyで`memory.copy`、`memory.init`、`memory.fill`をフラグ付きでサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "bulk-memory-operations/Overview.md at master · WebAssembly/bulk-memory-operations",
+                    "url": "https://github.com/WebAssembly/bulk-memory-operations/blob/master/proposals/bulk-memory-operations/Overview.md"
+                }
+            ]
         }
     ]
 }
