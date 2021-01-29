@@ -984,6 +984,17 @@
                     "url": "https://drafts.csswg.org/mediaqueries-5/#prefers-contrast"
                 }
             ]
+        },
+        {
+            "date": "2021-01-29T11:37:55.036Z",
+            "title": "Release v7.5.0 · npm/cli",
+            "url": "https://github.com/npm/cli/releases/tag/v7.5.0",
+            "content": "npm 7.5.0リリース。\nnpmパッケージのDiffを取得する`npm diff`コマンドの追加など",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
