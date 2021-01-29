@@ -1006,6 +1006,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-29T12:50:51.523Z",
+            "title": "Chromium Blog: Chrome 89 Beta: Advanced Hardware Interactions, Web Sharing on Desktop, and More",
+            "url": "https://blog.chromium.org/2021/01/chrome-89-beta-advanced-hardware.html",
+            "content": "Chrome 89ベータリリース。\nWebHID API、Web NFC、Web Serial APIのデフォルト有効化、デスクトップでのWeb Sharingの有効化。\nCross-origin opener policy reporting API、Manifastに`display_override`の追加。\n`performance.measureUserAgentSpecificMemory() `の追加、Streams APIがByte Streamsをサポート。\nその他にはTop-Level awaitのサポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
