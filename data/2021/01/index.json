@@ -918,18 +918,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-01-27T12:00:19.608Z",
-            "title": "WebRTC 1.0 is a W3C Recommendation | W3C News",
-            "url": "https://www.w3.org/blog/news/archives/8897",
-            "content": "WebRTC 1.0がW3C Recommendationとなった",
-            "tags": [
-                "W3C",
-                "WebRTC",
-                "news"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2021-01-28T01:16:47.520Z",
             "title": "When to use HTTPS for local development",
             "url": "https://web.dev/when-to-use-local-https/",
@@ -1017,6 +1005,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-01-30T08:44:41.953Z",
+            "title": "WebRTC 1.0 is a W3C Recommendation | W3C News",
+            "url": "https://www.w3.org/blog/news/archives/8897",
+            "content": "WebRTC 1.0がW3C Recommendationとなった",
+            "tags": [
+                "W3C",
+                "WebRTC",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "WebRTC is now a W3C and IETF standard",
+                    "url": "https://web.dev/webrtc-standard-announcement/"
+                }
+            ]
         }
     ]
 }
