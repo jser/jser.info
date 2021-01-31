@@ -1,0 +1,22 @@
+{
+    "list": [
+        {
+            "date": "2021-01-31T15:10:43.610Z",
+            "title": "TOAST UI Chart 4.0 is here! | TOAST UI :: Make Your Web Delicious!",
+            "url": "https://ui.toast.com/weekly-pick/en_20210126",
+            "content": "グラフライブラリのTOAST UI Chart v4.0リリース。\n依存をなくしファイルサイズの削減、レスポンシブサポート、ライブアップデートに対応したグラフの追加、テーマオプションの改善など。\nv3からのマイグレーションガイドも公開している",
+            "tags": [
+                "JavaScript",
+                "chart",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "tui.chart/v4.0-migration-guide-en.md at main · nhn/tui.chart",
+                    "url": "https://github.com/nhn/tui.chart/blob/main/docs/v4.0-migration-guide-en.md"
+                }
+            ]
+        }
+    ]
+}
