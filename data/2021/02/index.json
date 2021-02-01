@@ -61,6 +61,20 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-01T14:05:05.428Z",
+            "title": "alesgenova/post-me: 📩 Use web Workers and other Windows through a simple Promise API",
+            "url": "https://github.com/alesgenova/post-me",
+            "content": "Worker、Window(iframe)間のメッセージングライブラリ。\nPromiseベースのAPIでWindowとWorker間でメッセージのやり取りができる",
+            "tags": [
+                "JavaScript",
+                "webworker",
+                "library",
+                "Promises",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
