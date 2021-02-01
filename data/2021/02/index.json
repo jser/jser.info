@@ -17,6 +17,25 @@
                     "url": "https://github.com/nhn/tui.chart/blob/main/docs/v4.0-migration-guide-en.md"
                 }
             ]
+        },
+        {
+            "date": "2021-02-01T00:46:21.186Z",
+            "title": "Cypress vs Selenium vs Playwright vs Puppeteer speed comparison | Checkly blog",
+            "url": "https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison/",
+            "content": "テストフレームワークの実行速度について比較した記事。\nPuppeteer、Playwright、WebDriverIO、Selenium、Cypressをいくつかのシナリオで比較している。\n",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "E2E",
+                "article",
+                "testing"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Puppeteer vs Selenium vs Playwright, a speed comparison | Checkly blog",
+                    "url": "https://blog.checklyhq.com/puppeteer-vs-selenium-vs-playwright-speed-comparison/"
+                }
+            ]
         }
     ]
 }
