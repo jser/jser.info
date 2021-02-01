@@ -49,6 +49,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-01T13:54:52.801Z",
+            "title": "shinyoshiaki/werift-webrtc: WebRTC Implementation for TypeScript (Node.js)",
+            "url": "https://github.com/shinyoshiaki/werift-webrtc",
+            "content": "Node.jsでのWebRTCの実装。\nSTUN、TURN、ICE、DataChannel、MediaChannelなどの実装",
+            "tags": [
+                "WebRTC",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
