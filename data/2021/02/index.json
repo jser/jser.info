@@ -87,6 +87,25 @@
                 "opinion"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-02T01:49:44.850Z",
+            "title": "Release v5.3.4 · vuejs/vue-devtools",
+            "url": "https://github.com/vuejs/vue-devtools/releases/tag/v5.3.4",
+            "content": "Vue DevTools 5.3.4リリース。\nUniversal XSS脆弱性の修正",
+            "tags": [
+                "Vue",
+                "Chrome",
+                "Extension",
+                "ReleaseNote",
+                "security"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Vue.js devtools Universal XSS (Chrome extension) · Issue #1353 · vuejs/vue-devtools",
+                    "url": "https://github.com/vuejs/vue-devtools/issues/1353"
+                }
+            ]
         }
     ]
 }
