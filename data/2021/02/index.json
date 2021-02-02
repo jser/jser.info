@@ -117,6 +117,20 @@
                 "issue"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-02T02:28:00.369Z",
+            "title": "willmendesneto/perf-marks: The isomorphic, simplest, and lightweight solution for User Timing API in Javascript - 🚀 only 208B 🚀. Tree-shaking and entry points built-in. Simple as that!",
+            "url": "https://github.com/willmendesneto/perf-marks",
+            "content": "User Timing APIのラッパーライブラリ。\nブラウザとNode.js(`perf_hooks`)で利用できる。\nUser Timing APIのラップ、サポートしているかの判定処理、関数のプロファイル機能などを提供する",
+            "tags": [
+                "performance",
+                "JavaScript",
+                "library",
+                "node.js",
+                "browser"
+            ],
+            "relatedLinks": []
         }
     ]
 }
