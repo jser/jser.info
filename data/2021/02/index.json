@@ -89,16 +89,16 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-02-02T01:49:44.850Z",
+            "date": "2021-02-02T01:49:56.907Z",
             "title": "Release v5.3.4 · vuejs/vue-devtools",
             "url": "https://github.com/vuejs/vue-devtools/releases/tag/v5.3.4",
             "content": "Vue DevTools 5.3.4リリース。\nUniversal XSS脆弱性の修正",
             "tags": [
                 "Vue",
-                "Chrome",
                 "Extension",
                 "ReleaseNote",
-                "security"
+                "security",
+                "browser"
             ],
             "relatedLinks": [
                 {
