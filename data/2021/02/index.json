@@ -167,6 +167,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-03T12:44:57.204Z",
+            "title": "Node v15.8.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v15.8.0/",
+            "content": "Node.js 15.8.0リリース。\n`crypto`モジュールに`generatePrime`と`checkPrime`メソッドを追加、npm 7.5.0へアップデート。\n`dgram.createSocket`と`readline.question`がAbortSignalをサポートなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
