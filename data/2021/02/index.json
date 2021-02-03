@@ -144,6 +144,17 @@
                 "ad "
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-03T01:33:49.747Z",
+            "title": "npm 7 is now Generally Available - GitHub Changelog",
+            "url": "https://github.blog/changelog/2021-02-02-npm-7-is-now-generally-available/",
+            "content": "npm 7がlatestとしてリリースされ、`npm install --global npm`でnpm 7がインストールされるようになった",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
