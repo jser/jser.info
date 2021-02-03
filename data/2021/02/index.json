@@ -155,6 +155,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-03T12:18:53.163Z",
+            "title": "Release v6.0.0 · puppeteer/puppeteer",
+            "url": "https://github.com/puppeteer/puppeteer/releases/tag/v6.0.0",
+            "content": "Puppeteer v6.0.0リリース。\n`aria/*` selectorが非表示などスキップされた要素にはマッチしないように変更、TypeScriptの型定義を同梱するようになるなど。\nまた、Chromiumのアップデート、`page.emulateNetworkConditions`の追加、Apple M1のサポートなど",
+            "tags": [
+                "Chrome",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
