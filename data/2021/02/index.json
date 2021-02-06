@@ -202,6 +202,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-06T08:34:03.017Z",
+            "title": "samthor/gumnut: JS parser in Web Assembly / C",
+            "url": "https://github.com/samthor/gumnut",
+            "content": "Cで書かれたJavaScriptパーサをWebAssemblyにコンパイルして扱う、JavaScriptパーサライブラリ。\n",
+            "tags": [
+                "JavaScript",
+                "library",
+                "WebAssembly"
+            ],
+            "relatedLinks": []
         }
     ]
 }
