@@ -178,6 +178,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-06T08:10:22.046Z",
+            "title": "Replay: Record and replay web applications",
+            "url": "https://replay.io/",
+            "content": "リプレイデバッグサービス。\nFirefoxベースのリプレイを記録/再生するためのブラウザをオープンソースとして公開している\nhttps://github.com/RecordReplay/",
+            "tags": [
+                "browser",
+                "webservice",
+                "debug"
+            ],
+            "relatedLinks": []
         }
     ]
 }
