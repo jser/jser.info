@@ -227,6 +227,17 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-07T15:12:39.144Z",
+            "title": "Node By Numbers 2020 - NodeSource",
+            "url": "https://nodesource.com/blog/node-by-numbers-2020",
+            "content": "NodesourceのLinux環境向けのNode.jsの2020年を数字で振り返る記事。\nrpmとdebのダウンロード数、地域、バージョンごとのダウンロード数など。\nセキュリティリリースがあった場合にはダウンロードのスパイクが発生している点についてなど",
+            "tags": [
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
