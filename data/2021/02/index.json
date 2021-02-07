@@ -238,6 +238,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-07T15:15:37.023Z",
+            "title": "davidjbradshaw/eslint-config-auto: Automatically configure ESLint based on project dependencies",
+            "url": "https://github.com/davidjbradshaw/eslint-config-auto",
+            "content": "プロジェクトの`package.json`を元にAirbnbのルールを基本としたESLintルール設定を自動で行うツール",
+            "tags": [
+                "ESLint",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
