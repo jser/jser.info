@@ -249,6 +249,20 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-08T14:20:04.577Z",
+            "title": "SMS OTPの自動入力によるリスクとその対策 - Akaki I/O",
+            "url": "https://akaki.io/2021/sms_otp_autofill",
+            "content": "iOSとAndroidにおけるSMS OTPの自動入力(`autocomplete=\"one-time-code\"`)の動作の検証。\nフィッシングなどの攻撃への利用やDomain-bound codesでの自動入力の検証など",
+            "tags": [
+                "security",
+                "HTML",
+                "article",
+                "iOS",
+                "Android"
+            ],
+            "relatedLinks": []
         }
     ]
 }
