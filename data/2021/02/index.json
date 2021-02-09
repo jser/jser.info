@@ -252,17 +252,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-02-08T14:23:31.467Z",
-            "title": "10 bad TypeScript habits to break this year",
-            "url": "https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/",
-            "content": "TypeScriptでの良くない習慣について。\n何故良くないのかと、どうするべきなのについて書かれている。\n`strict`、`||`、`any`、`as`、Optional、Genricsの名前、審議チェック、`!!`、`!= null`などについて",
-            "tags": [
-                "TypeScript",
-                "article"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2021-02-08T15:02:02.978Z",
             "title": "生 WebGL と TypeScript で Vercel のロゴを作る",
             "url": "https://zenn.dev/ixkaito/articles/webgl-typescript-vercel-logo",
@@ -316,6 +305,17 @@
                 "iOS",
                 "privacy",
                 "ad ",
+                "article"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2021-02-09T03:17:23.670Z",
+            "title": "10 bad TypeScript habits to break this year",
+            "url": "https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/",
+            "content": "TypeScriptでの良くない習慣について。\n何故良くないのかと、どうするべきなのについて書かれている。\n`strict`、`||`、`any`、`as`、Optional、Genricsの名前、真偽値チェック、`!!`、`!= null`などについて",
+            "tags": [
+                "TypeScript",
                 "article"
             ],
             "relatedLinks": []
