@@ -299,6 +299,25 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-09T02:38:05.106Z",
+            "title": "Typicode's blog - Husky 5",
+            "url": "https://blog.typicode.com/husky-5/",
+            "content": "Git Hooksを扱うhusky 5が正式リリース。\n依存なしに変更、ライセンスがMITからLicense Zero's Parity Licenseに変更。\n4.xからのマイグレーションツールも公開している。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "Tools",
+                "git ",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "https://github.com/typicode/husky-4-to-5#usage",
+                    "url": "https://github.com/typicode/husky-4-to-5#usage"
+                }
+            ]
         }
     ]
 }
