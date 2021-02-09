@@ -288,6 +288,17 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-09T02:08:57.449Z",
+            "title": "useEncapsulation | Kyle Shevlin",
+            "url": "https://kyleshevlin.com/use-encapsulation",
+            "content": "React Componentで扱うStateをCustom Hooksで構築するパターンについて。\nCustom HooksにまとめることでStateや操作をカプセル化したり、依存関係がわかりやすくなるなど",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
