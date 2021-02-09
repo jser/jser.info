@@ -133,19 +133,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-02-02T12:51:42.842Z",
-            "title": "Introducing Private Click Measurement, PCM | WebKit",
-            "url": "https://webkit.org/blog/11529/introducing-private-click-measurement-pcm/",
-            "content": "iOS 14.5ベータでSafariとアプリでできるPrivate Click Measurement(PCM)についての解説。\nトラッカーからプライバシーを保護しながら、広告のコンバージョンを遅延して送信する仕組みについて",
-            "tags": [
-                "safari",
-                "iOS",
-                "privacy",
-                "ad "
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2021-02-03T01:33:49.747Z",
             "title": "npm 7 is now Generally Available - GitHub Changelog",
             "url": "https://github.blog/changelog/2021-02-02-npm-7-is-now-generally-available/",
@@ -318,6 +305,20 @@
                     "url": "https://github.com/typicode/husky-4-to-5"
                 }
             ]
+        },
+        {
+            "date": "2021-02-09T02:40:24.526Z",
+            "title": "Introducing Private Click Measurement, PCM | WebKit",
+            "url": "https://webkit.org/blog/11529/introducing-private-click-measurement-pcm/",
+            "content": "iOS 14.5ベータでSafariとアプリでできるPrivate Click Measurement(PCM)についての解説。\nトラッカーからプライバシーを保護しながら、広告のコンバージョンを遅延して送信する仕組みについて",
+            "tags": [
+                "safari",
+                "iOS",
+                "privacy",
+                "ad ",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
