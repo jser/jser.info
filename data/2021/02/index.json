@@ -331,6 +331,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-11T01:43:04.586Z",
+            "title": "Ethan-Arrowood/undici-fetch: A WHATWG Fetch implementation based on @nodejs/undici",
+            "url": "https://github.com/Ethan-Arrowood/undici-fetch",
+            "content": "Node.js向けのFetch APIの実装ライブラリ。\nundiciをベースに実装している。",
+            "tags": [
+                "node.js",
+                "Fetch",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "nodejs/undici: An HTTP/1.1 client, written from scratch for Node.js",
+                    "url": "https://github.com/nodejs/undici"
+                }
+            ]
         }
     ]
 }
