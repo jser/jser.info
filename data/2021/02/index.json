@@ -348,6 +348,18 @@
                     "url": "https://github.com/nodejs/undici"
                 }
             ]
+        },
+        {
+            "date": "2021-02-11T06:15:08.045Z",
+            "title": "Release v4.0.0 · lerna/lerna",
+            "url": "https://github.com/lerna/lerna/releases/tag/v4.0.0",
+            "content": "lerna 4.0.0リリース。\nNode.js 10未満のサポート終了、依存のアップデートなど",
+            "tags": [
+                "JavaScript",
+                "monorepo",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
