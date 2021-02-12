@@ -360,6 +360,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-12T13:19:58.646Z",
+            "title": "vercel/nft: Node.js dependency tracing utility",
+            "url": "https://github.com/vercel/nft",
+            "content": "JavaScriptファイルの依存関係をトレースするライブラリ。\n`node_modules`などを含むモジュールが依存するファイルパスを取得できる",
+            "tags": [
+                "JavaScript",
+                "module",
+                "library",
+                "CommonJS",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
