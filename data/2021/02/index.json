@@ -374,6 +374,17 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-13T04:19:14.181Z",
+            "title": "Announcing TypeScript 4.2 RC | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-2-rc/",
+            "content": "TypeScript 4.2 RCリリース。\nTuple TypesでRest Elementをサポート、Type Aliasの型追跡の改善、オブジェクトではないオペランドに対する`in`演算子のチェックを追加。`noPropertyAccessFromIndexSignature`オプションの追加、`abstract new`のサポート、、`--explainFiles`フラグの追加など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
