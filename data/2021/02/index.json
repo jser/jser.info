@@ -520,6 +520,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-15T15:25:14.318Z",
+            "title": "mizdra/eslint-interactive",
+            "url": "https://github.com/mizdra/eslint-interactive",
+            "content": "ESLintをルールごとにチェックして、ルールごとに`--fix`での修正をインタラクティブにできるコマンドラインツール",
+            "tags": [
+                "ESLint",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "rule ごとに高速に eslint --fix できるツールを作った - mizdra's blog",
+                    "url": "https://www.mizdra.net/entry/2021/02/11/211856"
+                }
+            ]
         }
     ]
 }
