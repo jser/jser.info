@@ -509,6 +509,17 @@
                     "url": "https://github.com/nuxt-contrib/jiti"
                 }
             ]
+        },
+        {
+            "date": "2021-02-15T15:20:44.930Z",
+            "title": "Lazy Load Routes in Vue with webpack Dynamic Comments | CSS-Tricks",
+            "url": "https://css-tricks.com/lazy-load-routes-in-vue-with-webpack-dynamic-comments/",
+            "content": "Vue Routerを使った遅延ロードについての解説記事。\nwebpackでのchunkの分離、`webpackChunkName`でのchunkのファイル名の指定についてなど",
+            "tags": [
+                "Vue",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
