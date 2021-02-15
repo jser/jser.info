@@ -464,6 +464,19 @@
                     "url": "https://markojs.com/docs/marko-5-upgrade/"
                 }
             ]
+        },
+        {
+            "date": "2021-02-15T14:54:22.091Z",
+            "title": "WebdriverIO v7 Released | WebdriverIO",
+            "url": "https://webdriver.io/blog/2021/02/09/webdriverio-v7-released/",
+            "content": "WebdriverIO v7リリース。\nNode.js 10のサポート終了、TypeScriptでの書き直し、Cucumber v7へアップデート、Lightouse連携の改善。\n`browser.checkPWA()`の追加、`@babel/register`や`ts-node`がインストールされている場合に自動的にコンパイルする`autoCompileOpts`の追加など",
+            "tags": [
+                "webdriver",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
