@@ -1,4 +1,4 @@
-name: test
+name: test-and-update
 on: [push, pull_request]
 env:
   CI: true
