@@ -23,6 +23,7 @@ jobs:
       - name: Update
         if: github.ref == 'refs/heads/gh-pages'
         run: |
+          set -ex
           git config --global user.name 'azu'
           git config --global user.email 'azuciao@gmail.com'
           ./tools/update-source-data.sh
