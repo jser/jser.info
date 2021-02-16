@@ -27,6 +27,7 @@ function escapeSpecialChars(str) {
 }
 Handlebars.registerHelper('escape_md', function (text) {
     const markdown_literal = /[\\`\*_\{\}\[\]]/g;
+    // タイトルにhtmlタグが入っているとHTMLとして表示されてしまうため
     return escapeSpecialChars(text.replace(markdown_literal, "\\$&"));
 });
 Handlebars.registerHelper('escape_attr', function (text) {
