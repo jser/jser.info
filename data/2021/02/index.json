@@ -538,7 +538,7 @@
             ]
         },
         {
-            "date": "2021-02-16T02:58:20.627Z",
+            "date": "2021-02-16T03:00:49.218Z",
             "title": "Just(js): On Javascript Performance",
             "url": "https://just.billywhizz.io/blog/on-javascript-performance-01/",
             "content": "Just(js)はどのような最適化をしてTechempowerのベンチマークのスコアをあげていったかについての記事",
@@ -549,7 +549,12 @@
                 "article",
                 "C++"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Round 20 results - TechEmpower Framework Benchmarks",
+                    "url": "https://www.techempower.com/benchmarks/#section=data-r20"
+                }
+            ]
         }
     ]
 }
