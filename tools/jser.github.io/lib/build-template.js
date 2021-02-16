@@ -17,13 +17,21 @@ Handlebars.registerHelper('format_tags', function (tags) {
         return '<span class="jser-tag">' + tag + '</span>';
     }).join(" ");
 });
+function escapeSpecialChars(str) {
+    return str
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+}
 Handlebars.registerHelper('escape_md', function (text) {
     const markdown_literal = /[\\`\*_\{\}\[\]]/g;
-    return text.replace(markdown_literal, "\\$&");
+    return escapeSpecialChars(text.replace(markdown_literal, "\\$&"));
 });
 Handlebars.registerHelper('escape_attr', function (text) {
     const markdown_literal = /["\\`\*_\{\}\[\]]/g;
-    return text.replace(markdown_literal, "\\$&");
+    return escapeSpecialChars(text.replace(markdown_literal, "\\$&"));
 });
 Handlebars.registerHelper('ttp', function (text) {
     return text.replace(/https?:\/\//i, "")
