@@ -573,6 +573,17 @@
                     "url": "https://vitejs.dev/guide/migration.html#config-options-change"
                 }
             ]
+        },
+        {
+            "date": "2021-02-18T07:51:01.056Z",
+            "title": "Node v15.9.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v15.9.0/",
+            "content": "Node.js 15.9.0リリース。\n`fs/promises`に`watch()`を追加、`fs.watch`がAbortSignalをサポート、`timers/promises`で`setInterval`をasync iteratorとして扱えるように",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
