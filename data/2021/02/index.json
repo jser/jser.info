@@ -584,6 +584,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-19T02:45:21.066Z",
+            "title": "Release 3.9.0 - 2021.02.19 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.9.0",
+            "content": "core-js 3.9.0リリース。\nES Proposal Stage 1の`Array#findLast()`、`Array#findLastIndex()`のサポート。",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
