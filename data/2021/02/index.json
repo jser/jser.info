@@ -623,6 +623,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-21T03:53:49.220Z",
+            "title": "Release v2.0.0 · svg/svgo",
+            "url": "https://github.com/svg/svgo/releases/tag/v2.0.0",
+            "content": "SVG最適化ツールであるSVGO 2.0リリース。\n設定ファイルの書式の変更、CLIでinline json configを渡せないように変更、Node.js APIの変更。\nまた、ブラウザ向けのbundleを同梱するようになるなど",
+            "tags": [
+                "SVG",
+                "Tools",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
