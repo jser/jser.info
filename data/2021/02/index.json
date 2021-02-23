@@ -711,6 +711,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-23T13:45:17.136Z",
+            "title": "w3c/browser-statuses: Implementation support information of Web technologies on main desktop and mobile browsers",
+            "url": "https://github.com/w3c/browser-statuses",
+            "content": "Can I Use、Chrome Platform Status、MDN、WebKit Feature Statusのデータをノーマライズしたデータセット。\nAPIごとにブラウザやPolyfillのサポート状況を取得できるライブラリ。",
+            "tags": [
+                "browser",
+                "WebPlatformAPI",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
