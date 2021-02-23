@@ -687,6 +687,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-23T04:50:56.438Z",
+            "title": "Using AbortController as an Alternative for Removing Event Listeners | CSS-Tricks",
+            "url": "https://css-tricks.com/using-abortcontroller-as-an-alternative-for-removing-event-listeners/",
+            "content": "Chrome 88から`addEventListener`がAbort Signalに対応したため、`removeEventListener`を使わずにイベントリスナーを解除できるという話",
+            "tags": [
+                "DOM",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
