@@ -699,6 +699,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-23T04:56:24.831Z",
+            "title": "Listify a JavaScript Array",
+            "url": "https://kentcdodds.com/blog/listify-a-java-script-array",
+            "content": "`Intl.ListFormat`を使うことで、\"A, B, and C\"のような言語に応じたandとorの表現を作成できるという話",
+            "tags": [
+                "JavaScript",
+                "i18n",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
