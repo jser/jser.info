@@ -676,6 +676,17 @@
                     "url": "https://github.com/webpack/webpack/pull/12745"
                 }
             ]
+        },
+        {
+            "date": "2021-02-23T04:19:31.295Z",
+            "title": "7.13.0 Released: Records and Tuples, granular compiler assumptions, and top-level targets · Babel",
+            "url": "https://babeljs.io/blog/2021/02/22/7.13.0",
+            "content": "Babel 7.13.0リリース。\n`targets`の設定をTop-Levelに書くことで各プラグインがその設定を利用するように、仕様のエッジケースを無視してより小さなコードを出力する`assumptions`オプションの追加。\nES Proposal Stage 2のRecordsとTuplesのサポート、Flowの`this`パラメータのサポート、TypeScript 4.2のサポートなど。\nまた、`@babel/runtime`がNode.jsの`exports`フィールドに対応するなど",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
