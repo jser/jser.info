@@ -660,6 +660,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-23T04:08:19.312Z",
+            "title": "Release v5.24.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v5.24.0",
+            "content": "webpack 5.24.0リリース。\nConcatenationするモジュールを探索する際のパフォーマンス改善",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "improve performance of finding modules for concatenation by sokra · Pull Request #12745 · webpack/webpack",
+                    "url": "https://github.com/webpack/webpack/pull/12745"
+                }
+            ]
         }
     ]
 }
