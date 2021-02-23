@@ -647,6 +647,19 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-23T04:02:59.074Z",
+            "title": "Release v1.0.0-rc.1 · video-dev/hls.js",
+            "url": "https://github.com/video-dev/hls.js/releases/tag/v1.0.0-rc.1",
+            "content": "hls.js 1.0.0 RC1リリース。\n破壊的な変更としてAPIの一部変更、Promiseへ依存するようになった。\nLow-Latency HLSサポート、実験的にIMSC1の基本的な機能をサポートなど",
+            "tags": [
+                "HLS",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
