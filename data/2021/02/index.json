@@ -744,6 +744,30 @@
                     "url": "https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/"
                 }
             ]
+        },
+        {
+            "date": "2021-02-24T02:35:08.813Z",
+            "title": "A Fabulous February Firefox — 86! - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2021/02/a-fabulous-february-firefox-86/",
+            "content": "Firefox 86リリース。\nETPのStrict ModeでState Partitioningを導入、Dev Toolsで`iframe`のinspectionを改善。\nCSSでprefixなし`:autofill`のサポート、`Intl.DisplayNames`をデフォルトで有効化など。\nまた、異なるドメインからページをロードした際に`Window.name`が空文字列となるように変更されている",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 86.0, See All New Features, Updates and Fixes",
+                    "url": "https://www.mozilla.org/en-US/firefox/86.0/releasenotes/"
+                },
+                {
+                    "title": "Firefox 86 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/86"
+                },
+                {
+                    "title": "Note Window.name privacy behavior in Firefox 86+ by Rumyra · Pull Request #9129 · mdn/browser-compat-data",
+                    "url": "https://github.com/mdn/browser-compat-data/pull/9129"
+                }
+            ]
         }
     ]
 }
