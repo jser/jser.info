@@ -791,6 +791,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-24T03:06:22.596Z",
+            "title": "February 2021 Security Releases | Node.js",
+            "url": "https://nodejs.org/en/blog/vulnerability/february-2021-security-releases/",
+            "content": "Node.jsのセキュリティアップデートとして10.x、12.x、14.x、15.xがそれぞれリリースされている。\nHTTP2のunknownProtocolを使ったDoSの修正、`--inspect`時のDNS rebindingの修正、OpenSSLのセキュリティアップデート",
+            "tags": [
+                "node.js",
+                "ReleaseNote",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
