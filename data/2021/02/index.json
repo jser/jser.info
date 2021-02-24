@@ -768,6 +768,17 @@
                     "url": "https://github.com/mdn/browser-compat-data/pull/9129"
                 }
             ]
+        },
+        {
+            "date": "2021-02-24T02:39:38.404Z",
+            "title": "Announcing TypeScript 4.2 | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-2/",
+            "content": "TypeScript 4.2リリース。\nTuple TypesでRest Elementをサポート、Type Aliasの型追跡の改善、オブジェクトではないオペランドに対する`in`演算子のチェックを追加。`noPropertyAccessFromIndexSignature`オプションの追加、`abstract new`のサポートなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
