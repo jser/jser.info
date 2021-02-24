@@ -779,6 +779,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-24T02:58:54.992Z",
+            "title": "Streams—The definitive guide",
+            "url": "https://web.dev/streams/",
+            "content": "WHATWG Streamsについての解説記事。\nコンセプト、仕組み、`ReadableStream`/`WritableStream`/`TransformStream`の使い方と`pipeTo`での連携。\nFetch API、Text Encoding、Compression、File System API、Web SocketsなどStreamをサポートしているAPIについても紹介している",
+            "tags": [
+                "WHATWG",
+                "stream",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
