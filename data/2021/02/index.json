@@ -723,6 +723,27 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-24T02:21:13.812Z",
+            "title": "Introducing State Partitioning - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2021/02/introducing-state-partitioning/",
+            "content": "Firefox 86でETPのStrictモードを使っている際に有効化されたState Partitioningについて。\nCookieの保存もサイトごとのdoubled keyとなり、3rd party cookieなども分離される。\nSSOなどを壊さないようにopenerを使った動作に対するヒューリスティックな回避策やStorage Access APIについても書かれている",
+            "tags": [
+                "Firefox",
+                "security",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "State Partitioning - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Privacy/State_Partitioning"
+                },
+                {
+                    "title": "Firefox 86 Introduces Total Cookie Protection - Mozilla Security Blog",
+                    "url": "https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/"
+                }
+            ]
         }
     ]
 }
