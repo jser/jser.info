@@ -815,6 +815,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-27T04:49:24.556Z",
+            "title": "CSS-in-JS support in DevTools  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2021/02/css-in-js",
+            "content": "Chrome 85 DevToolsのCSS-in-JSの対応について。\n今まではCSSOM APIで追加されたルールのスタイルは編集できなかったが、編集できるようになったという話",
+            "tags": [
+                "Chrome",
+                "debug",
+                "CSS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
