@@ -897,6 +897,18 @@
                     "url": "https://www.wynntee.com/projects/serialization/specification/index.html"
                 }
             ]
+        },
+        {
+            "date": "2021-02-28T14:54:48.181Z",
+            "title": "Use CSS Variables instead of React Context | Epic React by Kent C. Dodds",
+            "url": "https://epicreact.dev/css-variables/",
+            "content": "CSS-in-JSを使ったThemeコンポーネントのようなテーマの切り替えをCSS Custom Propertiesで実装してみる話。\n実装の違い、レンダリングフローの違いについて",
+            "tags": [
+                "React",
+                "CSS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
