@@ -845,6 +845,19 @@
                     "url": "https://bundlephobia.com/"
                 }
             ]
+        },
+        {
+            "date": "2021-02-28T12:56:51.420Z",
+            "title": "How Web Content Can Affect Power Usage | WebKit",
+            "url": "https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/",
+            "content": "CPU、GPU、ネットワークなどが電力消費に与える影響について。\nバックグラウンド時にCPU消費をなくす方法、Web InspectorのEnergy Impactの表示について",
+            "tags": [
+                "safari",
+                "webkit",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
