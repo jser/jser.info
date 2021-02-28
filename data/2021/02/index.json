@@ -881,6 +881,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-02-28T13:40:47.823Z",
+            "title": "wynntee/joss: JOSS can serialize almost every JavaScript data type and data structure, so data can be seamlessly exchanged between browsers and servers (Deno or Node.js).",
+            "url": "https://github.com/wynntee/joss",
+            "content": "JOSSというJavaScriptオブジェクトのシリアライズ、デシアライズの仕様とそのリファレンス実装ライブラリ。\nBigInt、循環参照、疎な配列、`-0`などJSONにはない部分もサポートしている。\nブラウザ、Node、Denoで動作する",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "JS Open Serialization Scheme",
+                    "url": "https://www.wynntee.com/projects/serialization/specification/index.html"
+                }
+            ]
         }
     ]
 }
