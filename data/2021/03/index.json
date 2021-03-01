@@ -23,6 +23,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-01T12:10:44.377Z",
+            "title": "CORS 完全手冊（一）：為什麼會發生 CORS 錯誤？ - Huli",
+            "url": "https://blog.huli.tw/2021/02/19/cors-guide-1/",
+            "content": "CORSの概念、対応方法、よくある間違い、CORB/CORP/COEP/COOPなどオリジン関連のルール、セキュリティ的な問題についての連載記事。\nクロスオリジンリクエストはなぜブロックされるのか、CORSの仕様解説、CORSのキャッシュ、CORSの設定ミスなどについて",
+            "tags": [
+                "CORS",
+                "security",
+                "browser",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
