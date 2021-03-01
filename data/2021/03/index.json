@@ -10,6 +10,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-01T05:45:49.561Z",
+            "title": "andrewcourtice/harlem: Simple, unopinionated, lightweight and extensible state management for Vue 3",
+            "url": "https://github.com/andrewcourtice/harlem",
+            "content": "Vue 3向けのステート管理ライブラリ。\npluginでVue DevToolsへの対応や、SSR、Storage保存、トランザクション対応などができる。",
+            "tags": [
+                "Vue",
+                "JavaScript",
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
