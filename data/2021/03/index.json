@@ -66,6 +66,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-01T21:32:12.144Z",
+            "title": "What's New In DevTools (Chrome 90)  |  Web  |  Google Developers",
+            "url": "https://developers.google.com/web/updates/2021/02/devtools",
+            "content": "Chrome 90のDev Toolsの変更点について。\nCSS flexboxのデバッグツールの追加、Core Web Vitalsのオーバーレイ表示、\nIssues tabの改善、CSS color-gamutのエミュレート機能の追加。\nDev Toolsを開いた状態でのデバッグのパフォーマンス改善、`fn.displayName`のサポートを非推奨化など",
+            "tags": [
+                "Chrome",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
