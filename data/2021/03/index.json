@@ -78,6 +78,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-03T02:03:13.439Z",
+            "title": "Gatsby v3 Incremental Builds in OSS, new Gatsby Image, and more | Gatsby",
+            "url": "https://www.gatsbyjs.com/blog/gatsby-v3/",
+            "content": "Gatsby 3.0リリース。\n破壊的変更としてNode.js 12未満のサポート終了、webpack 5/ESLint 7へアップデート、globalの`graphql`ではなくimportして使うように変更、APIの変更など。\nローカルでは実際にアクセスされたページだけをビルドすることで、全体を再構築せずにビルドできるように",
+            "tags": [
+                "React",
+                "GraphQL",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migrating from v2 to v3 | Gatsby",
+                    "url": "https://www.gatsbyjs.com/docs/reference/release-notes/migrating-from-v2-to-v3/"
+                }
+            ]
         }
     ]
 }
