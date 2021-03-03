@@ -118,6 +118,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-03T12:52:55.939Z",
+            "title": "serverless-stack/serverless-stack: Serverless Stack (SST) is a framework that makes it easy to build serverless apps.",
+            "url": "https://github.com/serverless-stack/serverless-stack",
+            "content": "AWS CDKを使ったserverless管理、開発ツール。\nLambdaの開発、デプロイ、ビルドやLintの設定、各種AWSスタックとの連携などを含む",
+            "tags": [
+                "serverless",
+                "aws"
+            ],
+            "relatedLinks": []
         }
     ]
 }
