@@ -95,6 +95,18 @@
                     "url": "https://www.gatsbyjs.com/docs/reference/release-notes/migrating-from-v2-to-v3/"
                 }
             ]
+        },
+        {
+            "date": "2021-03-03T02:33:05.193Z",
+            "title": "jQuery 3.6.0 Released! | Official jQuery Blog",
+            "url": "https://blog.jquery.com/2021/03/02/jquery-3-6-0-released/",
+            "content": "jQuery 3.6.0リリース。\nJSONPのリクエスト時に、エラーレスポンスがJSONを返した場合の挙動を変更。\n`.force()`のバグを修正など\n\n",
+            "tags": [
+                "jQuery",
+                "JSON",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
