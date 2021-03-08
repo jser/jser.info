@@ -205,6 +205,21 @@
                     "url": "https://github.com/electron/remote"
                 }
             ]
+        },
+        {
+            "date": "2021-03-08T13:27:10.114Z",
+            "title": "Release v6.0.0 · pixijs/pixi.js",
+            "url": "https://github.com/pixijs/pixi.js/releases/tag/v6.0.0",
+            "content": "pixi.js 6.0.0リリース。\nTypeScriptの型改善、DeprecatedとなっていたAPIの削除、`alpha`オプションのデフォルト値を`true`に変更、`FAIL_IF_MAJOR_PERFORMANCE_CAVEAT`のデフォルト値を`false`に変更など",
+            "tags": [
+                "JavaScript",
+                "game",
+                "library",
+                "ReleaseNote",
+                "canvas",
+                "WebGL"
+            ],
+            "relatedLinks": []
         }
     ]
 }
