@@ -250,6 +250,23 @@
                     "url": "https://codepen.io/vincent-valentin/full/JjGmxzV"
                 }
             ]
+        },
+        {
+            "date": "2021-03-08T14:24:39.740Z",
+            "title": "nanojsx/nano: 🎯 SSR first, lightweight 1kB JSX library.",
+            "url": "https://github.com/nanojsx/nano",
+            "content": "JSXを使ったSSR firstなUIライブラリ。\n指定したコンポーネントのみをHydrate、Lazy Hydrateができ、ビルトインでRouterやHead周りのコンポーネントを持っている。\nReactライクなライフサイクルメソッドやHooksの処理を持っている。",
+            "tags": [
+                "jsx",
+                "React",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Nano JSX • Lightweight 1kB JSX library",
+                    "url": "https://nanojsx.github.io/"
+                }
+            ]
         }
     ]
 }
