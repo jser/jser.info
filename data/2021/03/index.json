@@ -220,6 +220,18 @@
                 "WebGL"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-08T13:46:43.840Z",
+            "title": "JakePartusch/serverlessui: A command-line utility for deploying serverless applications to AWS. Complete with custom domains, deploy previews, TypeScript support, and more.",
+            "url": "https://github.com/JakePartusch/serverlessui",
+            "content": "AWSへserverlessアプリケーションをデプロイするためのツール。\nCDKを使って静的なサイトとlambdaなどのデプロイを一括で行う",
+            "tags": [
+                "aws",
+                "serverless",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
