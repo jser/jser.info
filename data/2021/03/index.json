@@ -189,6 +189,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-08T13:16:33.228Z",
+            "title": "Electron 12.0.0 | Electron Blog",
+            "url": "https://www.electronjs.org/blog/electron-12-0",
+            "content": "Electron 12.0.0リリース。\nChromium 89、V8 8.9、Node.js 14.16へアップデート。\n`exposeInMainWorld`がオブジェクト以外をサポート、`webFrameMain` APIの追加など。\n`contextIsolation`と`worldSafeExecuteJavaScript`がデフォルトで`true`に変更、`remote`モジュールが非推奨となり`@electron/remote`外部モジュール化",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "electron/remote: Bridge JavaScript objects from the main process to the renderer process in Electron.",
+                    "url": "https://github.com/electron/remote"
+                }
+            ]
         }
     ]
 }
