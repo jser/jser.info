@@ -232,6 +232,24 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-08T14:03:21.540Z",
+            "title": "Hiding Content Responsibly | Kitty Giraudel",
+            "url": "https://kittygiraudel.com/2021/02/17/hiding-content-responsibly/",
+            "content": "コンテンツを非表示を意味するCSSやWAI-ARIAのそれぞれの動作とアクセシビリティ的な挙動についてのまとめ。\nデータ、ビジュアル、レイアウト、セマンティクス、コンテンツ、キーボード、ポインター、スタイルなどの状態について",
+            "tags": [
+                "HTML",
+                "CSS",
+                "accessibility",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "removal techniques and implications",
+                    "url": "https://codepen.io/vincent-valentin/full/JjGmxzV"
+                }
+            ]
         }
     ]
 }
