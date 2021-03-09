@@ -293,10 +293,10 @@
             ]
         },
         {
-            "date": "2021-03-09T12:58:50.829Z",
+            "date": "2021-03-09T12:59:06.962Z",
             "title": "Release v0.9.0 · evanw/esbuild",
             "url": "https://github.com/evanw/esbuild/releases/tag/v0.9.0",
-            "content": "esbuild 0.9.0リリース。\npackage.jsonの`exports`フィールドのサポート、`esbuild.startService()` APIの削除、bannerとfooterを言語ごとに指定できるようになるなど",
+            "content": "esbuild 0.9.0リリース。\npackage.jsonの`exports`フィールドのサポート、`esbuild.startService()` APIの削除、bannerとfooterを言語ごとに指定できるように",
             "tags": [
                 "JavaScript",
                 "Tools",
