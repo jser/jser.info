@@ -291,6 +291,18 @@
                     "url": "https://medium.com/flutter/whats-new-in-flutter-2-0-fe8e95ecc65"
                 }
             ]
+        },
+        {
+            "date": "2021-03-09T12:58:50.829Z",
+            "title": "Release v0.9.0 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.9.0",
+            "content": "esbuild 0.9.0リリース。\npackage.jsonの`exports`フィールドのサポート、`esbuild.startService()` APIの削除、bannerとfooterを言語ごとに指定できるようになるなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "relre"
+            ],
+            "relatedLinks": []
         }
     ]
 }
