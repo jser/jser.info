@@ -303,6 +303,18 @@
                 "relre"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-12T00:33:15.705Z",
+            "title": "Release Notes for Safari Technology Preview 122 | WebKit",
+            "url": "https://webkit.org/blog/11577/release-notes-for-safari-technology-preview-122/",
+            "content": "Safari Technology Preview 122リリース。\n実験フラグ付きでCSS `:focus-visible`とCSS Color 5の実装を追加。\nES ProposalのPrivate method、Top-Level await、RegExp Match Indicesのサポート。\nWorkerで`type: module`をサポート、Paint Timingの有効化など",
+            "tags": [
+                "safari",
+                "webkit",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
