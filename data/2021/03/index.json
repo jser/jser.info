@@ -362,6 +362,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-13T13:39:41.566Z",
+            "title": "Post-Spectre Web Development",
+            "url": "https://w3c.github.io/webappsec-post-spectre-webdev/",
+            "content": "Spectre以後のウェブ開発における脅威モデルと戦略についてのドキュメント。\nIsolation、サブリソース、クロスオリジンを意図した操作についてなど",
+            "tags": [
+                "security",
+                "document"
+            ],
+            "relatedLinks": []
         }
     ]
 }
