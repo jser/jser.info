@@ -349,6 +349,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-13T13:34:18.303Z",
+            "title": "Announcing React Native 0.64 with Hermes on iOS · React Native",
+            "url": "https://reactnative.dev/blog/2021/03/12/version-0.64",
+            "content": "React Native 0.64リリース。\niOSでもJSエンジンのHermesを利用可能に、MetroでInline Requiresがデフォルトで有効化、HermesがES Proxyのサポート、React 17へアップデートなど",
+            "tags": [
+                "React",
+                "iOS",
+                "Android",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
