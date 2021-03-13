@@ -327,6 +327,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-13T03:10:59.404Z",
+            "title": "Chromium Blog: Chrome 90 Beta: AV1 Encoder for WebRTC, New Origin Trials, and More",
+            "url": "https://blog.chromium.org/2021/03/chrome-90-beta-av1-encoder-for-webrtc.html",
+            "content": "Chrome 90 Betaリリース。\nAV1 Encoderのサポート。\nOrigin Trialとして`getCurrentBrowsingContextMedia()`、Breakout Box、WebAssembly Exception Handlingのサポート。\nCSSの`aspect-ratio`とwidthかheightが指定されているときに推論されるように、`:state`、`overflow: clip`のサポート。\nFeature-Policyに代わるPermissions-Policy、`StaticRange`のサポートなど。\n`navigator.plugins`と`navigator.mimeTypes`が空要素を返すようになるなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
