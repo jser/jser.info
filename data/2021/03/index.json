@@ -315,6 +315,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-13T02:37:14.928Z",
+            "title": "Debugging layout shifts",
+            "url": "https://web.dev/debugging-layout-shifts/",
+            "content": "Layout Instability APIでのCumulative Layout Shift (CLS)の計測とCLSの特定とデバッグ方法について",
+            "tags": [
+                "performance",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
