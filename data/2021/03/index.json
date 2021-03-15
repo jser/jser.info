@@ -511,6 +511,18 @@
                     "url": "https://github.com/socketio/engine.io/pull/616"
                 }
             ]
+        },
+        {
+            "date": "2021-03-15T23:19:03.509Z",
+            "title": "The Death of a Node.js Process - Thomas Hunter II",
+            "url": "https://thomashunter.name/posts/2021-03-08-the-death-of-a-nodejs-process",
+            "content": "Node.jsにおけるプロセス終了とエラーについて。\nuncaughtException、unhandledRejectionでのエラーのキャッチと`process.exit`でのプロセス終了方法。\nまた、Signalとそれをハンドリングできるかどうかについてのまとめ",
+            "tags": [
+                "node.js",
+                "article"
+            ],
+            "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
+            "relatedLinks": []
         }
     ]
 }
