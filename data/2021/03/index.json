@@ -451,6 +451,28 @@
             ],
             "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-15T13:49:17.413Z",
+            "title": "Release ES2021 Candidate March 2021 · tc39/ecma262",
+            "url": "https://github.com/tc39/ecma262/releases/tag/es2021-candidate-2021-03",
+            "content": "ECMAScript 2021のリリース候補が公開された。ECMAScript 2021に入る予定の機能は決定され仕様もフリーズされたため、masterブランチはES 2022となった",
+            "tags": [
+                "ECMAScript",
+                "spec",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
+            "relatedLinks": [
+                {
+                    "title": "ECMAScript 2021: the final feature set",
+                    "url": "https://2ality.com/2020/09/ecmascript-2021.html"
+                },
+                {
+                    "title": "proposals/finished-proposals.md at master · tc39/proposals",
+                    "url": "https://github.com/tc39/proposals/blob/master/finished-proposals.md"
+                }
+            ]
         }
     ]
 }
