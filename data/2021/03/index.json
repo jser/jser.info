@@ -397,6 +397,18 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-15T13:30:00.421Z",
+            "title": "レシピサービスのフロントエンドに CSS in JS を採用した話 - クックパッド開発者ブログ",
+            "url": "https://techlife.cookpad.com/entry/2021/03/15/090000",
+            "content": "emotionを使ったCSS-in-JSについて。\nstyled-componentsの記法ではなくString Stylesを採用した理由、stylelintを使ったLint、Jestを使ったスナップショットテストについてなど",
+            "tags": [
+                "React",
+                "CSS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
