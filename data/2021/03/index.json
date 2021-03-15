@@ -490,10 +490,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-03-15T14:27:11.431Z",
+            "date": "2021-03-15T14:31:43.787Z",
             "title": "Socket.IO 4.0.0 | Socket.IO",
             "url": "https://socket.io/blog/socket-io-4-release/",
-            "content": "Socket.IO 4.0.0リリース。\n破壊的な変更としてサーバ側の`io.to()`がimmutableに変更、protocolは互換性を維持している。\n`pingTimeout`のデフォルト値を5秒から20病へ変更、Utilityメソッドの追加、`autoUnref`オプションの追加など",
+            "content": "Socket.IO 4.0.0リリース。\n破壊的な変更としてサーバ側の`io.to()`がimmutableに変更、protocolは互換性を維持している。\n`pingTimeout`のデフォルト値を5秒から20秒へ変更、Utilityメソッドの追加、`autoUnref`オプションの追加など",
             "tags": [
                 "WebSocket",
                 "node.js",
