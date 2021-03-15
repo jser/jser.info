@@ -473,6 +473,21 @@
                     "url": "https://github.com/tc39/proposals/blob/master/finished-proposals.md"
                 }
             ]
+        },
+        {
+            "date": "2021-03-15T13:57:08.891Z",
+            "title": "Beyond Console.log() – Level up Your Debugging Skills - SitePoint",
+            "url": "https://www.sitepoint.com/beyond-console-log-level-up-your-debugging-skills/",
+            "content": "Console APIやChrome DevToolsを使ったデバッグについての記事。\nログフォーマット、Console APIの紹介、Dev Tools上で使える関数、Overrides、VScodeとの連携についてなど",
+            "tags": [
+                "console",
+                "debug",
+                "JavaScript",
+                "article",
+                "Chrome"
+            ],
+            "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
+            "relatedLinks": []
         }
     ]
 }
