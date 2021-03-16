@@ -450,7 +450,12 @@
                 "bundler"
             ],
             "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
-            "relatedLinks": [{ "title": "Through the pipeline: An exploration of front-end bundlers - DEV Community 👩‍💻👨‍💻", "url": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1" }]
+            "relatedLinks": [
+                {
+                    "title": "Through the pipeline: An exploration of front-end bundlers - DEV Community 👩‍💻👨‍💻",
+                    "url": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1"
+                }
+            ]
         },
         {
             "date": "2021-03-15T13:49:17.413Z",
@@ -520,6 +525,19 @@
             "tags": [
                 "node.js",
                 "article"
+            ],
+            "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
+            "relatedLinks": []
+        },
+        {
+            "date": "2021-03-16T19:19:21.937Z",
+            "title": "Mitigate cross-site scripting (XSS) with a strict Content Security Policy (CSP)",
+            "url": "https://web.dev/strict-csp/",
+            "content": "ドメインの許可リストのCSPよりも、strict設定のCSPを推奨するという話。\nnonceとstrict-dynamicベースのCSP設定で防げるXSS、nonceベースとhashベースのCSPの設定、CSPの導入手順について",
+            "tags": [
+                "CSP",
+                "article",
+                "security"
             ],
             "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
             "relatedLinks": []
