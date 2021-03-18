@@ -558,6 +558,18 @@
                     "url": "https://github.com/nodejs/node/issues/37583"
                 }
             ]
+        },
+        {
+            "date": "2021-03-18T14:48:40.829Z",
+            "title": "V8 release v9.0 · V8",
+            "url": "https://v8.dev/blog/v8-release-90",
+            "content": "V8 v9.0リリース。\n`RegExp#insices`の実装、`super`のプロパティアクセスのパフォーマンス改善、JavaScriptからWasmの関数を呼ぶときのパフォーマンスを改善など",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
+            "relatedLinks": []
         }
     ]
 }
