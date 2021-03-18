@@ -541,6 +541,23 @@
             ],
             "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-18T14:19:18.470Z",
+            "title": "Node v15.12.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v15.12.0/",
+            "content": "Node.js 15.12.0リリース。\n`crypto.create{Public,Private}Key`がJWKオブジェクトをサポート、`fs.promises`のwriteFileとreadFileのパフォーマンス改善。\n`AbortSignal.abort()`の実装、`worker`モジュールに`{get,set}EnvironmentData`を追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
+            "relatedLinks": [
+                {
+                    "title": "fs.promises.readFile is 40% slower than fs.readFile · Issue #37583 · nodejs/node",
+                    "url": "https://github.com/nodejs/node/issues/37583"
+                }
+            ]
         }
     ]
 }
