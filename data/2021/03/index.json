@@ -570,6 +570,25 @@
             ],
             "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-19T02:47:27.002Z",
+            "title": "Release v7.3.0 · GoogleChrome/lighthouse",
+            "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v7.3.0",
+            "content": "Lightouse 7.3.0リリース。\n新しいauditとしてcsp-xssを試験的に追加。",
+            "tags": [
+                "performance",
+                "Tools",
+                "ReleaseNote",
+                "Chrome"
+            ],
+            "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
+            "relatedLinks": [
+                {
+                    "title": "new_audit: csp-xss by adamraine · Pull Request #12044 · GoogleChrome/lighthouse",
+                    "url": "https://github.com/GoogleChrome/lighthouse/pull/12044"
+                }
+            ]
         }
     ]
 }
