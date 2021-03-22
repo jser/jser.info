@@ -680,6 +680,23 @@
             ],
             "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-22T13:32:39.414Z",
+            "title": "The #1 tip to familiarize with new JavaScript Codebases",
+            "url": "https://www.kevinpeters.net/the-fastest-way-to-understand-new-code-bases",
+            "content": "`code-complexity`を使ったコードの複雑度分析について。\nComplexityとChurnについて\n",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
+            "relatedLinks": [
+                {
+                    "title": "simonrenoult/code-complexity: Measure the churn/complexity ratio. Higher values mean hotspots where refactorings should happen.",
+                    "url": "https://github.com/simonrenoult/code-complexity"
+                }
+            ]
         }
     ]
 }
