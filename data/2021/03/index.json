@@ -697,6 +697,19 @@
                     "url": "https://github.com/simonrenoult/code-complexity"
                 }
             ]
+        },
+        {
+            "date": "2021-03-22T13:47:55.893Z",
+            "title": "taoqf/node-html-parser: A very fast HTML parser, generating a simplified DOM, with basic element query support.",
+            "url": "https://github.com/taoqf/node-html-parser",
+            "content": "HTMLパーサとDOM APIライブラリ。\nパースした結果のオブジェクトでDOM APIライクな操作ができる。",
+            "tags": [
+                "HTML",
+                "DOM",
+                "library"
+            ],
+            "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
+            "relatedLinks": []
         }
     ]
 }
