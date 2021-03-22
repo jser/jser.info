@@ -668,6 +668,18 @@
                     "url": "https://supabase.io/blog/2020/12/13/supabase-dashboard-performance"
                 }
             ]
+        },
+        {
+            "date": "2021-03-22T13:12:23.583Z",
+            "title": "Charts.css",
+            "url": "https://chartscss.org/",
+            "content": "CSSを使ったグラフライブラリ。\n様々な種類のチャートの表示に対応している。",
+            "tags": [
+                "CSS",
+                "library"
+            ],
+            "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
+            "relatedLinks": []
         }
     ]
 }
