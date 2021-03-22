@@ -608,6 +608,23 @@
                     "url": "https://nodejs.medium.com/source-maps-in-node-js-482872b56116"
                 }
             ]
+        },
+        {
+            "date": "2021-03-22T01:11:36.890Z",
+            "title": "ECMAScript proposal updates @ 2021-03 | ECMAScript Daily",
+            "url": "https://ecmascript-daily.github.io/ecmascript/2021/03/22/ecmascript-proposal-update",
+            "content": "2021年3月のTC39でECMAScript Proposalのステータス変更のまとめ。\nModule FragmentsがStage 1へ、`Array#findLast`がStage2へ、TemporalがStage 3へ更新など",
+            "tags": [
+                "ECMAScript",
+                "news"
+            ],
+            "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
+            "relatedLinks": [
+                {
+                    "title": "JavaScript の Module Fragments について",
+                    "url": "https://sosukesuzuki.dev/posts/stage-0-module-fragments/"
+                }
+            ]
         }
     ]
 }
