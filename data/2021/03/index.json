@@ -754,6 +754,23 @@
             ],
             "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-23T03:25:53.522Z",
+            "title": "Hello from tRPC | tRPC",
+            "url": "https://trpc.io/",
+            "content": "HTTP通信のデータレイヤーライブラリ。\nTypeScriptとyup/zodなどのバリデーターを使ったサーバ側のAPIエンドポイントを定義し、その型をクライアントからも利用できる。\nReact向けのHooks/SSR対応のクライアントライブラリも公開されている。",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "node.js",
+                "library",
+                "TypeScript",
+                "React",
+                "Next.js"
+            ],
+            "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
+            "relatedLinks": []
         }
     ]
 }
