@@ -740,6 +740,20 @@
                     "url": "https://github.com/nodejs/next-10"
                 }
             ]
+        },
+        {
+            "date": "2021-03-23T02:47:41.104Z",
+            "title": "sinon/CHANGELOG.md at master · sinonjs/sinon",
+            "url": "https://github.com/sinonjs/sinon/blob/master/CHANGELOG.md#1000--2021-03-22",
+            "content": "Sinon.js 10.0.0リリース。\nIE 11、Legacy Edge、Legacy Safariのサポートを終了。",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1",
+            "relatedLinks": []
         }
     ]
 }
