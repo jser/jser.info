@@ -783,6 +783,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-25T07:38:15.280Z",
+            "title": "Release v7.7.0 · npm/cli",
+            "url": "https://github.com/npm/cli/releases/tag/v7.7.0",
+            "content": "npm 7.7.0リリース。\nnpm run-scriptと`npm exec`が`--workspace`フラグでworkspacesをサポートなど",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
