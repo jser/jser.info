@@ -794,6 +794,30 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-25T08:10:44.025Z",
+            "title": "Firefox 87.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/87.0/releasenotes/",
+            "content": "Firefox 87.0リリース。\nReferrer Policyのデフォルト値を`strict-origin-when-cross-origin`に変更、トラッカーのスクリプトをローカルで置き換えるSmartBlock。\nDevToolsで`prefers-color-scheme`のシミュレートなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 87 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/87"
+                },
+                {
+                    "title": "Firefox 87 trims HTTP Referrers by default to protect user privacy - Mozilla Security Blog",
+                    "url": "https://blog.mozilla.org/security/2021/03/22/firefox-87-trims-http-referrers-by-default-to-protect-user-privacy/"
+                },
+                {
+                    "title": "Firefox 87 introduces SmartBlock for Private Browsing - Mozilla Security Blog",
+                    "url": "https://blog.mozilla.org/security/2021/03/23/introducing-smartblock/"
+                }
+            ]
         }
     ]
 }
