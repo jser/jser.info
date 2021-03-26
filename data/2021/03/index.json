@@ -818,6 +818,25 @@
                     "url": "https://blog.mozilla.org/security/2021/03/23/introducing-smartblock/"
                 }
             ]
+        },
+        {
+            "date": "2021-03-26T03:06:06.148Z",
+            "title": "TypeScriptの型定義からバリデーションコードを生成するツールを書いた | Web Scratch",
+            "url": "https://efcl.info/2021/03/26/create-validator-ts/",
+            "content": "TypeScriptの型定義からAjvとJSON Schemaを使ったバリデーションコードを生成するツールについて。\nまた、リクエストをバリデーションせずにMongoなどのNoSQLのクエリにわたすと発生するNoSQL Injectionについて",
+            "tags": [
+                "TypeScript",
+                "security",
+                "express",
+                "article",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "azu/create-validator-ts: Create JSON Schema validator from TypeScript.",
+                    "url": "https://github.com/azu/create-validator-ts"
+                }
+            ]
         }
     ]
 }
