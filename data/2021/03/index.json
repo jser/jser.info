@@ -837,6 +837,18 @@
                     "url": "https://github.com/azu/create-validator-ts"
                 }
             ]
+        },
+        {
+            "date": "2021-03-27T02:40:35.368Z",
+            "title": "seek-oss/vanilla-extract: Zero-runtime Stylesheets-in-TypeScript",
+            "url": "https://github.com/seek-oss/vanilla-extract",
+            "content": "CSSをTypeScriptで書いて、スコープ付きのCSS Variablesを含んだCSSファイルに展開するツール。\nBabelとwebpackを使いビルド時にCSSファイルを生成し、HTML側にはクラス名のみが入る。",
+            "tags": [
+                "CSS",
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
