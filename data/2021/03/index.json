@@ -867,6 +867,19 @@
                     "url": "https://jsontypedef.com/"
                 }
             ]
+        },
+        {
+            "date": "2021-03-27T16:27:44.805Z",
+            "title": "JSON Type Definition",
+            "url": "https://jsontypedef.com/",
+            "content": "コードジェネレーター向けにJSONで型定義を表現する仕様。IETF/RFC 8927として策定中。\nJTDはコード生成を意識して作られているのでコンパクトな仕様、エラーに関しても仕様で定義されているため実装に依存しにくいポータブルなものを目指している。JSONまたはYAMLで記述できる。",
+            "tags": [
+                "JSON",
+                "TypeScript",
+                "program",
+                "spec"
+            ],
+            "relatedLinks": []
         }
     ]
 }
