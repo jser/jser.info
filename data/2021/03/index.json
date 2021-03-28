@@ -892,6 +892,18 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-28T06:55:08.482Z",
+            "title": "toplenboren/simple-git-hooks: A simple git hooks manager for small projects",
+            "url": "https://github.com/toplenboren/simple-git-hooks",
+            "content": "Git hooksを管理するnpmモジュール。\n`simple-git-hooks`コマンドを実行するとpackage.jsonや`.simple-git-hooks.js`に定義したGit Hookスクリプトを`.git/hooks/*`にインストールする。",
+            "tags": [
+                "npm",
+                "git ",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
