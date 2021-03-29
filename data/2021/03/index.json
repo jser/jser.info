@@ -904,6 +904,25 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-29T05:21:10.212Z",
+            "title": "Google Developers Japan: Spectre の影響を受けないウェブを作るための概念実証について",
+            "url": "https://developers-jp.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html",
+            "content": "A Spectre proof-of-concept for a Spectre-proof webの翻訳記事。\nSpectreの脆弱性、ブラウザ上でのSpectreのデモ、ブラウザでのSpectre対策としてのプロセス分離について",
+            "tags": [
+                "browser",
+                "security",
+                "CPU",
+                "Chrome",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Google Online Security Blog: A Spectre proof-of-concept for a Spectre-proof web",
+                    "url": "https://security.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html"
+                }
+            ]
         }
     ]
 }
