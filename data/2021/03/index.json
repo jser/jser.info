@@ -923,6 +923,18 @@
                     "url": "https://security.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html"
                 }
             ]
+        },
+        {
+            "date": "2021-03-29T17:21:25.257Z",
+            "title": "Deno Deploy",
+            "url": "https://deno.com/deploy",
+            "content": "Denoを扱うFaaS。\nCloudflare Workersと同じくService Worker APIをベースにしていて、DenoのスクリプトをCDN Edgeで動かせるサービス。",
+            "tags": [
+                "deno",
+                "webservice",
+                "ServiceWorker"
+            ],
+            "relatedLinks": []
         }
     ]
 }
