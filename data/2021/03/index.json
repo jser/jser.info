@@ -954,6 +954,24 @@
                     "url": "https://github.com/naver/billboard.js/releases/tag/3.0.0"
                 }
             ]
+        },
+        {
+            "date": "2021-03-30T04:16:54.277Z",
+            "title": "React State Management Libraries and How to Choose",
+            "url": "https://daveceddia.com/react-state-management/",
+            "content": "Reactのステート管理方法/ライブラリの比較。\n`useState`/`useReducer`、Redux、MobX、Recoil、react-query、XStateについて利点と欠点について書かれている",
+            "tags": [
+                "React",
+                "JavaScript",
+                "library",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "JS 状態管理ライブラリ探索記 – Introduction - to-R Media",
+                    "url": "https://www.to-r.net/media/js-state-libraries-introduction/"
+                }
+            ]
         }
     ]
 }
