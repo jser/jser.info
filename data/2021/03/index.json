@@ -972,6 +972,17 @@
                     "url": "https://www.to-r.net/media/js-state-libraries-introduction/"
                 }
             ]
+        },
+        {
+            "date": "2021-03-30T04:31:25.968Z",
+            "title": "Handling User Permissions in JavaScript | CSS-Tricks",
+            "url": "https://css-tricks.com/handling-user-permissions-in-javascript/",
+            "content": "JavaScriptでパーミッションのビジネスロジックを実装する方法についての記事。\nSingle source of truthであること、変更が簡単であこと、テスト可能で有ることを意識した設計と実装方法について",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
