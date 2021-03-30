@@ -995,6 +995,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-30T06:02:11.968Z",
+            "title": "Making the slowest 'fast' page | Tune The Web",
+            "url": "https://www.tunetheweb.com/blog/making-the-slowest-fast-page/",
+            "content": "Lighthouse/WebVitalで満点な遅いページを作る方法について。\n意図して表示を遅らせることでスコアをあげるという実験。現実的には遅い\"fast\"なサイトは、スコアを上げる以外の意味はないため概念実証としての話。",
+            "tags": [
+                "performance",
+                "article",
+                "opinion"
+            ],
+            "relatedLinks": []
         }
     ]
 }
