@@ -1011,6 +1011,17 @@
                     "url": "https://leaky.page/"
                 }
             ]
+        },
+        {
+            "date": "2021-03-30T22:26:33.321Z",
+            "title": "Node v12.22.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v12.22.0/",
+            "content": "Node.js 12.22.0リリース。\n`--http-parser=legacy`を非推奨化、ES ModulesをStable化、`NAPI_VERSION`を`8`に変更。\n`v8.takeCoverage()`、`v8.stopCoverage()`、`worker.performance.eventLoopUtilization()`の追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
