@@ -1035,6 +1035,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-03-31T14:34:01.195Z",
+            "title": "mistlog/typetype: A programming language designed for typescript type generation",
+            "url": "https://github.com/mistlog/typetype",
+            "content": "TypeScriptの型書くDSLのパーサとジェネレーター。\nConditional Typeを表現する`if`、Mapped Typesを表現する`for`などを使って型定義を書ける。\nパーサはreact-pegを使い、パースしたASTからBabelを通してTSのコードを出力している",
+            "tags": [
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "mistlog/react-peg: A react style parser generator based on PEG.js",
+                    "url": "https://github.com/mistlog/react-peg"
+                }
+            ]
         }
     ]
 }
