@@ -10,6 +10,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-02T00:10:29.856Z",
+            "title": "Announcing TypeScript 4.3 Beta | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-beta/",
+            "content": "TypeScript 4.3 Betaリリース。\nsetterにgetterとは異なる型を指定できるように、`override`キーワードの追加、Template String Typeの改善。\nPrivate Class Elements(fields/methods/accessors)のサポート、Promiseオブジェクトを条件式に渡してしまうミスのチェックを追加。\nその他には、`static` Index Signatureのサポートなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
