@@ -42,6 +42,24 @@
                     "url": "https://github.com/webpack/webpack/pull/12990"
                 }
             ]
+        },
+        {
+            "date": "2021-04-02T13:02:18.125Z",
+            "title": "Release v1.0.0 · video-dev/hls.js",
+            "url": "https://github.com/video-dev/hls.js/releases/tag/v1.0.0",
+            "content": "HLS.js 1.0.0リリース。\nApple Low-Latency HLSのサポート、fmp4 streamのサポート改善、コードベースをTypeScriptに書きなおしなど。\n破壊的な変更として`backBufferLength`のデフォルト値の変更、イベントのシグネチャの変更など",
+            "tags": [
+                "JavaScript",
+                "HLS",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "hls.js/MIGRATING.md at master · video-dev/hls.js",
+                    "url": "https://github.com/video-dev/hls.js/blob/master/MIGRATING.md#migrating-from-hlsjs-0x-to-1x"
+                }
+            ]
         }
     ]
 }
