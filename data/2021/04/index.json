@@ -60,6 +60,18 @@
                     "url": "https://github.com/video-dev/hls.js/blob/master/MIGRATING.md#migrating-from-hlsjs-0x-to-1x"
                 }
             ]
+        },
+        {
+            "date": "2021-04-03T07:57:57.188Z",
+            "title": "egoist/esbuild-register: Transpile JSX, TypeScript and esnext features on the fly with esbuild",
+            "url": "https://github.com/egoist/esbuild-register",
+            "content": "esbuildを使ったruntimeでの変換ツール。\n@babel/registerやts-node/registerのように`--require`に指定して変換処理をする",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
