@@ -88,6 +88,18 @@
                     "url": "https://dev.to/open-wc/developing-without-a-build-1-introduction-26ao"
                 }
             ]
+        },
+        {
+            "date": "2021-04-03T08:46:03.875Z",
+            "title": "Proposal for dropping ie11 support in Vue 3 · Discussion #296 · vuejs/rfcs",
+            "url": "https://github.com/vuejs/rfcs/discussions/296",
+            "content": "Vue 3ではIE 11のサポートをしないというRFC。\n代わりにVue 2.xへ3.xの機能をバックポートすることに注力するというProposal。",
+            "tags": [
+                "Vue",
+                "IE",
+                "proposal"
+            ],
+            "relatedLinks": []
         }
     ]
 }
