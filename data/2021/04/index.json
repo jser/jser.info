@@ -72,6 +72,22 @@
                 "node.js"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-03T08:10:08.097Z",
+            "title": "FicusJS - a set of lightweight functions for developing applications using web components",
+            "url": "https://docs.ficusjs.org/",
+            "content": "Web Componentsでアプリケーションを開発する目的のライブラリセット。\nコンポーネントの作成、`uhtml`/`lit-html`/`htm`などを使ったレンダリング、Storeでのステート管理などの機能を提供する",
+            "tags": [
+                "WebComponents",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Developing Without a Build (1): Introduction - DEV Community 👩‍💻👨‍💻",
+                    "url": "https://dev.to/open-wc/developing-without-a-build-1-introduction-26ao"
+                }
+            ]
         }
     ]
 }
