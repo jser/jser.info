@@ -100,6 +100,24 @@
                 "proposal"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-04T14:14:45.945Z",
+            "title": "Accessible Vue – The Why and How of building inclusive apps in Vue.js",
+            "url": "https://accessible-vue.com/",
+            "content": "ウェブアクセシビリティとVueでの実装についての書籍",
+            "tags": [
+                "Vue",
+                "accessibility",
+                "book"
+            ],
+            "viaURL": "https://github.com/jser/ping/issues/162",
+            "relatedLinks": [
+                {
+                    "title": "Accessible Vue by Marcus Herrmann [Leanpub PDF/iPad/Kindle]",
+                    "url": "https://leanpub.com/accessible-vue"
+                }
+            ]
         }
     ]
 }
