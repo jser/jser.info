@@ -133,6 +133,20 @@
             ],
             "viaURL": "https://github.com/jser/ping/issues/162",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-05T11:38:59.745Z",
+            "title": "Storybook 6.2",
+            "url": "https://storybook.js.org/blog/storybook-6-2/",
+            "content": "Storybook 6.2リリース。\nVue 3とSvelteサポート、Yarn 2のPnp/npm 7/ESMのサポート、webpack 5をopt-inでサポート。\nControlsで関数やReact要素、Blobをサポートなど",
+            "tags": [
+                "JavaScript",
+                "debug",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://github.com/jser/ping/issues/162",
+            "relatedLinks": []
         }
     ]
 }
