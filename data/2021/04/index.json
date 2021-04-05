@@ -173,6 +173,20 @@
             ],
             "viaURL": "https://github.com/jser/ping/issues/162",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-05T22:06:57.860Z",
+            "title": "特定の端末のみで起こる WebView プチフリーズを Tracing を利用して追った話 - SmartNews Engineering Blog",
+            "url": "https://developer.smartnews.com/blog/2021/03/chrome_tracing/",
+            "content": "WebViewのパフォーマンスデバッグについての記事。\nChromeのRemote Inspectを使ってデバイスに接続し、プロファイルやTracingを使ったボトルネックの調査方法について",
+            "tags": [
+                "Chrome",
+                "webview",
+                "performance",
+                "article"
+            ],
+            "viaURL": "https://github.com/jser/ping/issues/162",
+            "relatedLinks": []
         }
     ]
 }
