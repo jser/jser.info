@@ -118,6 +118,21 @@
                     "url": "https://leanpub.com/accessible-vue"
                 }
             ]
+        },
+        {
+            "date": "2021-04-05T01:56:46.881Z",
+            "title": "Release v2.0.0 · js-reporters/js-reporters",
+            "url": "https://github.com/js-reporters/js-reporters/releases/tag/v2.0.0",
+            "content": "JavaScriptのテストフレームワークのレポートの共通インターフェイスを定義する目的のjs-reporters 2.0.0リリース。\n`SummaryReporter`の実装、Proposalの更新など",
+            "tags": [
+                "JavaScript",
+                "test",
+                "library",
+                "ReleaseNote",
+                "spec"
+            ],
+            "viaURL": "https://github.com/jser/ping/issues/162",
+            "relatedLinks": []
         }
     ]
 }
