@@ -219,6 +219,23 @@
             ],
             "viaURL": "https://github.com/jser/ping/issues/162",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-08T08:06:06.521Z",
+            "title": "Evolving the CLS metric",
+            "url": "https://web.dev/evolving-cls/",
+            "content": "CLSのスコア計算のロジックの変更について。\n1秒のギャップで最大5秒のセッションウィンドウでLayout Shiftを検出して、その合計をCLSのスコアとする予定について",
+            "tags": [
+                "performance",
+                "Chrome"
+            ],
+            "viaURL": "https://github.com/jser/ping/issues/162",
+            "relatedLinks": [
+                {
+                    "title": "Feedback wanted: The road to a better layout shift metric for long-lived pages",
+                    "url": "https://web.dev/better-layout-shift-metric/"
+                }
+            ]
         }
     ]
 }
