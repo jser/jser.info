@@ -206,6 +206,19 @@
                     "url": "https://react-hook-form.com/migrate-v6-to-v7/"
                 }
             ]
+        },
+        {
+            "date": "2021-04-08T06:16:23.269Z",
+            "title": "Release v2.20.0 · date-fns/date-fns",
+            "url": "https://github.com/date-fns/date-fns/releases/tag/v2.20.0",
+            "content": "date-fns 2.20.0リリース。\n`eachMinuteOfInterval`, `nextWednesday`, `nextThursday`, `nextFriday`, `nextSaturday`, `nextSunday` の追加など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://github.com/jser/ping/issues/162",
+            "relatedLinks": []
         }
     ]
 }
