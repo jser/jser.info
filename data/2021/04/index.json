@@ -237,6 +237,19 @@
                     "url": "https://web.dev/better-layout-shift-metric/"
                 }
             ]
+        },
+        {
+            "date": "2021-04-08T08:17:58.699Z",
+            "title": "April 2021 Security Releases | Node.js",
+            "url": "https://nodejs.org/en/blog/vulnerability/april-2021-security-releases/",
+            "content": "Node.jsのセキュリティアップデート。\nOpenSSL関係が2件、`y18n`のprototype pollutionに関するアップデート。\nNode.js v10.24.1, v12.22.1, v14.16.1, v15.14.0がそれぞれリリースされている",
+            "tags": [
+                "node.js",
+                "security",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://github.com/jser/ping/issues/162",
+            "relatedLinks": []
         }
     ]
 }
