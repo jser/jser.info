@@ -233,25 +233,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-04-08T09:30:08.386Z",
-            "title": "Release Version 7.0.0 · react-hook-form/react-hook-form",
-            "url": "https://github.com/react-hook-form/react-hook-form/releases/tag/v7.0.0",
-            "content": "React Hook Form 7.0.0リリース。\n`register`の使い方の変更、`valueAsXXX`が`validate`の前に処理されるように、APIの返り値や引数の変更などが含まれている。\nマイグレーション用のツールも合わせて公開されている。",
-            "tags": [
-                "React",
-                "JavaScript",
-                "library",
-                "ReleaseNote"
-            ],
-            "viaURL": "https://github.com/jser/ping/issues/162",
-            "relatedLinks": [
-                {
-                    "title": "Migrate From V6 to V7 | React Hook Form - Simple React forms validation",
-                    "url": "https://react-hook-form.com/migrate-v6-to-v7/"
-                }
-            ]
-        },
-        {
             "date": "2021-04-08T11:54:34.317Z",
             "title": "Cookpad Online Spring Internship 2021 - YouTube",
             "url": "https://www.youtube.com/playlist?list=PLGT7Exkshx4ifQpZkjim4yJN52D00Ej3c",
@@ -344,6 +325,24 @@
                 {
                     "title": "JavaScript for impatient programmers (ES2021 edition)",
                     "url": "https://exploringjs.com/impatient-js/"
+                }
+            ]
+        },
+        {
+            "date": "2021-04-13T13:30:52.307Z",
+            "title": "Release Version 7.0.0 · react-hook-form/react-hook-form",
+            "url": "https://github.com/react-hook-form/react-hook-form/releases/tag/v7.0.0",
+            "content": "React Hook Form 7.0.0リリース。\n`register`の使い方の変更、`valueAs*`が`validate`の前に処理されるように、APIの返り値や引数の変更などが含まれている。\nマイグレーション用のツールも合わせて公開されている。",
+            "tags": [
+                "React",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migrate From V6 to V7 | React Hook Form - Simple React forms validation",
+                    "url": "https://react-hook-form.com/migrate-v6-to-v7/"
                 }
             ]
         }
