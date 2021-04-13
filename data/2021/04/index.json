@@ -293,6 +293,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-13T11:38:41.801Z",
+            "title": "DevTools architecture refresh: migrating DevTools to TypeScript - Chrome Developers",
+            "url": "https://developer.chrome.com/blog/migrating-to-typescript/",
+            "content": "Chrome DevToolsのコードベースを\nClosure Compilerベースの型チェックからTypeScriptに移行する話。\nなぜ移行するのか、TypeScriptの型推論の評価、移行のオプションですべてのTSエラーを修正する方法を選んだ理由、マイグレーションの分析などについて",
+            "tags": [
+                "Chrome",
+                "article",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
