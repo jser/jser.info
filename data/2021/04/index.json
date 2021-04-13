@@ -345,6 +345,19 @@
                     "url": "https://react-hook-form.com/migrate-v6-to-v7/"
                 }
             ]
+        },
+        {
+            "date": "2021-04-13T14:52:11.347Z",
+            "title": "ivanhofer/typesafe-i18n",
+            "url": "https://github.com/ivanhofer/typesafe-i18n",
+            "content": "依存のないi18nライブラリ。\nTypeScriptを使った翻訳漏れのチェック、pluralなどのtransformerサポート、rollupやCLIを使った最適化などサポートしている",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "i18n",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
