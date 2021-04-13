@@ -305,6 +305,18 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-13T12:05:36.266Z",
+            "title": "The definitive guide to profiling React applications",
+            "url": "https://blog.asayer.io/the-definitive-guide-to-profiling-react-applications",
+            "content": "React DevToolsを使ったプロファイルとパフォーマンス改善について。\nDevToolsのFlamegraphなどの各種グラフの読み方、renderやcommitの意味、`Profiler`コンポーネントについて。\n入力に対してデータの取得と更新を行うコードを例にしたプロファイラを使った改善の例など",
+            "tags": [
+                "React",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
