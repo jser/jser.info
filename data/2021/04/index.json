@@ -317,6 +317,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-13T13:03:21.522Z",
+            "title": "Cloudflare Pages is now Generally Available",
+            "url": "https://blog.cloudflare.com/cloudflare-pages-ga/",
+            "content": "Cloudflare PagesがGAとなり一般公開された。\nNetlifyライクな`_redirects`ファイルのサポート。\n今後はGitLab/Bitbucket連携、webhooks、A/B testing、Cloudflare Workersとの連携強化をしていく予定",
+            "tags": [
+                "news",
+                "webservice"
+            ],
+            "relatedLinks": []
         }
     ]
 }
