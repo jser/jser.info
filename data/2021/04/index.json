@@ -328,6 +328,24 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-13T13:24:30.513Z",
+            "title": "ES2021 edition of “JavaScript for impatient programmers”",
+            "url": "https://gist.github.com/rauschma/e9c00fddc17e73fab6ce6c22b2e78e17",
+            "content": "JavaScript for impatient programmersのES2021版がリリース。\nES2021版の変更点について書かれている",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "news",
+                "book"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "JavaScript for impatient programmers (ES2021 edition)",
+                    "url": "https://exploringjs.com/impatient-js/"
+                }
+            ]
         }
     ]
 }
