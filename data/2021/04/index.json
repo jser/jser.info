@@ -358,6 +358,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-14T12:17:56.321Z",
+            "title": "lukejacksonn/servor: Dependency free file server for single page app development",
+            "url": "https://github.com/lukejacksonn/servor",
+            "content": "依存のないローカルサーバライブラリ。\nファイル変更でリロード、起動時にブラウザやエディタで開く、httpsの対応のオレオレ証明生成などに対応している",
+            "tags": [
+                "node.js",
+                "server",
+                "console",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
