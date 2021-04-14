@@ -383,6 +383,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-14T12:46:07.014Z",
+            "title": "Deno 1.9 Release Notes | Deno Blog",
+            "url": "https://deno.com/blog/v1.9",
+            "content": "Deno 1.9リリース。\nHTTP/2なウェブサーバの実装、opcallの改善、Blob URLのサポート。\n`--allow-env`と`--allow-run`で個別の指定ができるように、`--prompt`でインタラクティブにパーミッションの許可ができるように。\n`Deno.listenTls`でALPNのサポート、tsconfig.jsonの`useDefineForClassFields`をデフォルト化など",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
