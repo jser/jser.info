@@ -394,6 +394,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-15T14:24:02.228Z",
+            "title": "New in Chrome 90 - Chrome Developers",
+            "url": "https://developer.chrome.com/blog/new-in-chrome-90/",
+            "content": "Chrome 90リリース。\n`overflow: clip`のサポート、AV1 Encoderサポート、Declarative Shadow DOMのサポートなど。\nFeature PolicyがPermissions Policyにリネーム、アドレスバーのデフォルトプロトコルが`https`に変更など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
