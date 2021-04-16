@@ -436,6 +436,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-16T05:02:46.100Z",
+            "title": "Release v6.0.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v6.0.0",
+            "content": "pnpm 6.0.0リリース。\nNode.js 10のサポート終了、`pre`/`post` scriptを自動で実行しないように、lockfileのフォーマットを変更、`pnpx`が自動的にパッケージをインストールはしないようになるなど。\n`pnpm link`が`--global`をつけたときにglobal modulesとリンクするように、`pnpm fetch`コマンドの追加など",
+            "tags": [
+                "npm",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
