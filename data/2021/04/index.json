@@ -448,6 +448,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-18T02:15:28.506Z",
+            "title": "helmet/CHANGELOG.md at main · helmetjs/helmet",
+            "url": "https://github.com/helmetjs/helmet/blob/main/CHANGELOG.md#450---2021-04-17",
+            "content": "Expressのセキュリティヘッダを扱うhelmet 4.5.0リリース。\nCross-Origin isolationを扱うCOEP、COOP、CORPヘッダに対応など",
+            "tags": [
+                "node.js",
+                "express",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Making your website &quot;cross-origin isolated&quot; using COOP and COEP",
+                    "url": "https://web.dev/coop-coep/"
+                }
+            ]
         }
     ]
 }
