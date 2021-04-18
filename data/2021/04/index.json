@@ -466,6 +466,19 @@
                     "url": "https://web.dev/coop-coep/"
                 }
             ]
+        },
+        {
+            "date": "2021-04-18T03:17:56.327Z",
+            "title": "Real-world CSS vs. CSS-in-JS performance comparison - Tomas Pustelnik's personal website",
+            "url": "https://pustelto.com/blog/css-vs-css-in-js-perf/",
+            "content": "Styled Componentsを使ったCSS-in-JSとCSSのパフォーマンスを比較した記事。\nサイズ、Lighthouseなどを使ったRuntimeのパフォーマンス計測",
+            "tags": [
+                "CSS",
+                "JavaScript",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
