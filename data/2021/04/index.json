@@ -492,6 +492,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-20T01:14:06.429Z",
+            "title": "Never too late for Firefox 88 - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2021/04/never-too-late-for-firefox-88/",
+            "content": "Firefox 88リリース。\n`:user-valid`と`:user-invalid`の実装、`RegExp#indices`の実装、`AbortSignal.abort()`の実装、FTPサポートの無効化など",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 88 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/88"
+                },
+                {
+                    "title": "Firefox 88.0, See All New Features, Updates and Fixes",
+                    "url": "https://www.mozilla.org/en-US/firefox/88.0/releasenotes/"
+                }
+            ]
         }
     ]
 }
