@@ -603,6 +603,22 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-20T22:36:44.554Z",
+            "title": "Node v16.0.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v16.0.0/",
+            "content": "Node.js 16.0.0リリース。\nV8 9.0へアップデート、`timers/promises`の追加、Apple Silicon向けのprebuiltバイナリの配布など。\n`fs.rmdir`の`recursive`オプションの非推奨化、`process.binding`を使ったアクセスの非推奨化、`module.createRequireFromPath`の削除など。\nこれに加えてNode 15での変更であるnpm 7へのアップデートなどが含まれている",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Node.js 16 available now. We are excited to announce the release… | by Node.js | Apr, 2021 | Medium",
+                    "url": "https://nodejs.medium.com/node-js-16-available-now-7f5099a97e70"
+                }
+            ]
         }
     ]
 }
