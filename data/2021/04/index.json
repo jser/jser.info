@@ -579,6 +579,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-20T02:38:43.482Z",
+            "title": "Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript | Product Blog • Sentry",
+            "url": "https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript",
+            "content": "SentryのコードをベースをTypeScriptへマイグレーションした話。\n戦略として教育、新しいコードをTSで書く、既存のコードをTSに変換をしていった。\n徐々に変換していくこと、少しずつ複雑な型にしていくこと、TypeScriptを最新に保つことなどを教訓としてあげている。",
+            "tags": [
+                "article",
+                "TypeScript",
+                "refacoring"
+            ],
+            "relatedLinks": []
         }
     ]
 }
