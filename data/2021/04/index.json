@@ -554,6 +554,18 @@
                     "url": "https://github.com/GoogleChromeLabs/web-vitals-report"
                 }
             ]
+        },
+        {
+            "date": "2021-04-20T02:31:02.196Z",
+            "title": "Waterfaller - find and fix all the slowdowns on your web page to boost speed and core web vital scores",
+            "url": "https://waterfaller.dev/",
+            "content": "Web Vitalsの指標とリソースのロードをウォーターフォールチャートで表示し、なぜSlowdownしてるのかの解説と修正方法を提示してくれるツール。",
+            "tags": [
+                "webservice",
+                "performance",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
