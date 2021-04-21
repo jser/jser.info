@@ -631,6 +631,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-21T13:28:13.580Z",
+            "title": "Release v9.0.0 · puppeteer/puppeteer",
+            "url": "https://github.com/puppeteer/puppeteer/releases/tag/v9.0.0",
+            "content": "Puppeteer 9.0.0リリース。\nChromium 91へアップデート、Apple M1のサポート、`FileChooser.cancel()`が同期処理になるなど",
+            "tags": [
+                "Chrome",
+                "browser",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
