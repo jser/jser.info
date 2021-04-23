@@ -668,6 +668,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-23T12:50:04.210Z",
+            "title": "Chromium Blog: Chrome 91: Handwriting Recognition, WebXR Plane Detection and More",
+            "url": "https://blog.chromium.org/2021/04/chrome-91-handwriting-recognition-webxr.html",
+            "content": "Chrome 91ベータリリース。\nOrigin Trialとして、Service Workerのmanifestの`capture_links`、WebTransport、WebXR Plane Detection API。\nTimerの解像度を仕様準拠の値に変更、WebSockets over HTTP/2のサポート、Service WorkerでES Modulesのサポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "sw-launch/declarative_link_capturing.md at main · WICG/sw-launch",
+                    "url": "https://github.com/WICG/sw-launch/blob/main/declarative_link_capturing.md"
+                }
+            ]
         }
     ]
 }
