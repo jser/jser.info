@@ -306,7 +306,11 @@ function HomePage(props: HomePageProps) {
                                 fontSize: "14px",
                                 marginRight: "0.2em",
                                 borderBottom: "1px solid #ddd"
-                            }}>{tag}</span>) : <span>No Tag</span>}
+                            }}>{tag}</span>) : <span style={{
+                                fontSize: "14px",
+                                marginRight: "0.2em",
+                                borderBottom: "1px solid #ddd"
+                            }}>No Tag</span>}
                         </p>
                         <p style={{
                             margin: 0,
