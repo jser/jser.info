@@ -1,0 +1,35 @@
+name: "Deploy branch to Layer0"
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy-to-layer0:
+    # cancels the deployment for the automatic merge push created when tagging a release
+    if: contains(github.ref, 'refs/tags') == false || github.event_name == 'release'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check for Layer0 deploy token secret
+        if: env.layer0_deploy_token == ''
+        run: |
+          echo You must define the "layer0_deploy_token" secret in GitHub project settings
+          exit 1
+        env:
+          layer0_deploy_token: ${{secrets.layer0_deploy_token}}
+      - name: Extract branch name
+        shell: bash
+        run: echo "BRANCH_NAME=$(echo ${GITHUB_REF#refs/heads/} | sed 's/\//_/g')" >> $GITHUB_ENV
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 14
+      - name: Build
+        run: |
+          yarn install
+          yarn run build:index
+      - name: Deploy to Layer0
+        run: npm run layer0:deploy -- ${{'--branch=$BRANCH_NAME' || ''}} --token=$layer0_deploy_token ${{github.event_name == 'push' && env.BRANCH_NAME == 'main' && '--environment=staging' || ''}} ${{github.event_name == 'release' && '--environment=production' || ''}}
+        env:
+          layer0_deploy_token: ${{secrets.layer0_deploy_token}}
