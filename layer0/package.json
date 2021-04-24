@@ -1,6 +1,4 @@
 {
-  "private": true,
-  "name": "layer0",
   "scripts": {
     "layer0:dev": "layer0 dev",
     "layer0:build": "layer0 build",
@@ -10,6 +8,8 @@
     "start": "next start",
     "build:index": "asocial-bookmark-create-index --indexPropertyName='list' --cwd ../ --outDir ./"
   },
+  "private": true,
+  "name": "jser-info-search",
   "dependencies": {
     "@layer0/next": "^3.2.0",
     "asocial-bookmark": "^1.7.1",

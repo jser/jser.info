@@ -3,7 +3,7 @@ name: "Deploy branch to Layer0"
 on:
   push:
     branches:
-      - master
+      - gh-pages
 
 jobs:
   deploy-to-layer0:
