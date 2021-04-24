@@ -211,7 +211,7 @@ const GlobalStyle = () => {
 const useSearch = (items: BookmarkItem[] = []) => {
     const [query, setQuery] = useState<string>("");
     const [searchResults, setSearchResults] = useState<BookmarkItem[]>(items);
-    const [debouncedQuery] = useDebounce(query, 500);
+    const [debouncedQuery] = useDebounce(query, 300);
     useEffect(() => {
         (async function fetchMain() {
             const searchParams = new URLSearchParams([
