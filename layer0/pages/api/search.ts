@@ -1,7 +1,7 @@
 import nc from "next-connect";
 import memoize from "micro-memoize";
 import regexCombiner from "regex-combiner";
-import indexJSON from "../../index.json";
+const indexJSON = require("../../index.json");
 
 export type SearchQuery = {
     q: string;
@@ -61,7 +61,7 @@ const handler = nc()
                 results: []
             }));
         }
-        const searchResults = indexJSON.filter(item => {
+        const searchResults = (indexJSON as BookmarkItem[]).filter(item => {
             return matchBookmarkItem(item, queries);
         }).slice(0, 30);
         res.end(JSON.stringify({

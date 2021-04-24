@@ -29,7 +29,9 @@ jobs:
         run: |
           yarn install
           yarn run build:index
+        working-directory: layer0/
       - name: Deploy to Layer0
         run: npm run layer0:deploy -- ${{'--branch=$BRANCH_NAME' || ''}} --token=$layer0_deploy_token ${{github.event_name == 'push' && env.BRANCH_NAME == 'main' && '--environment=staging' || ''}} ${{github.event_name == 'release' && '--environment=production' || ''}}
         env:
           layer0_deploy_token: ${{secrets.layer0_deploy_token}}
+        working-directory: layer0/
