@@ -252,7 +252,7 @@ function HomePage(props: HomePageProps) {
         width: "100%"
     }}>
         <Head>
-            <title>My bookmarks</title>
+            <title>JSer.info Archive Search</title>
         </Head>
         <GlobalStyle/>
         <div style={{
