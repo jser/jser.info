@@ -302,11 +302,11 @@ function HomePage(props: HomePageProps) {
                             margin: 0,
                             paddingBottom: "0.2rem",
                         }}>
-                            {item.tags.map(tag => <span key={tag} style={{
+                            {item.tags ? item.tags.map(tag => <span key={tag} style={{
                                 fontSize: "14px",
                                 marginRight: "0.2em",
                                 borderBottom: "1px solid #ddd"
-                            }}>{tag}</span>)}
+                            }}>{tag}</span>) : <span>No Tag</span>}
                         </p>
                         <p style={{
                             margin: 0,
