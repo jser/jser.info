@@ -259,10 +259,12 @@ function HomePage(props: HomePageProps) {
             width: "100%",
             display: "flex",
             alignContent: "center",
+            alignItems: "center"
         }}>
             <a href={"https://github.com/jser/jser.info/tree/gh-pages/layer0"} title={"GitHub"} style={{
                 display: "inline-flex",
                 alignContent: "center",
+                alignItems: "center",
                 paddingRight: "4px"
             }}>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
