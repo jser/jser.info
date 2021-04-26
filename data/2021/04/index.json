@@ -770,7 +770,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-04-26T14:37:35.984Z",
+            "date": "2021-04-26T14:37:48.279Z",
             "title": "Using asynchronous web APIs from WebAssembly",
             "url": "https://web.dev/asyncify/",
             "content": "Emscriptenで非同期を扱うAsyncify、C++とJS間の値を変換するEmbind、JavaScriptを組み合わせてWasmから非同期のWebPlatformAPIを扱う方法について。",
@@ -779,7 +779,12 @@
                 "JavaScript",
                 "article"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "GoogleChromeLabs/asyncify: Standalone Asyncify helper for Binaryen",
+                    "url": "https://github.com/GoogleChromeLabs/asyncify"
+                }
+            ]
         }
     ]
 }
