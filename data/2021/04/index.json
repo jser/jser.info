@@ -709,6 +709,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-26T13:40:31.060Z",
+            "title": "The GraphQL Guide",
+            "url": "https://graphql.guide/",
+            "content": "GraphQLについての書籍と動画。\nJohn ResigとLoren Sands-RamshawによるGraphQLのガイド。\nGraphQLの解説、フロントエンド、バックエンド、React、Vue、Android、iOSについて扱う",
+            "tags": [
+                "GraphQL",
+                "book",
+                "video"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Releasing The GraphQL Guide. John Resig’s book on GraphQL is here! | by Loren Sands-Ramshaw | Apr, 2021 | The GraphQL Guide",
+                    "url": "https://blog.graphql.guide/releasing-the-graphql-guide-d9be04747148"
+                }
+            ]
         }
     ]
 }
