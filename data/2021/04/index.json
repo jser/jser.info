@@ -785,6 +785,22 @@
                     "url": "https://github.com/GoogleChromeLabs/asyncify"
                 }
             ]
+        },
+        {
+            "date": "2021-04-26T14:57:25.392Z",
+            "title": "The great SameSite confusion :: jub0bs.com",
+            "url": "https://jub0bs.com/posts/2021-01-29-great-samesite-confusion/",
+            "content": "cross-site/same-siteとcross-origin/samte-originのち外についての解説記事。\nSame-Site Cookieの動作とメカニズムについて",
+            "tags": [
+                "security",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "same-site/cross-site, same-origin/cross-originをちゃんと理解する",
+                    "url": "https://zenn.dev/agektmr/articles/f8dcd345a88c97"
+                }
+            ]
         }
     ]
 }
