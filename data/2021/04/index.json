@@ -738,6 +738,20 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-26T14:00:31.935Z",
+            "title": "Prisma – The Complete ORM for Node.js & TypeScript",
+            "url": "https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb",
+            "content": "Node.jsとTypeScript向けのORMマッパーであるPrimaがProduction Readyとなった。\nスキーマからTypeScriptの型定義を出力して利用できるPrisma Client、データモデルからPrisma Migrate、GUIでデータの閲覧と変更ができるPrisma Studioを持つ",
+            "tags": [
+                "node.js",
+                "TypeScript",
+                "MySQL",
+                "PostgreSQL",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
