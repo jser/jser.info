@@ -826,6 +826,19 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-28T04:04:10.055Z",
+            "title": "itsjavi/jsx-runtime: Extremely lightweight JSX runtime (<2KB) to write JSX without React in TypeScript or JavaScript.",
+            "url": "https://github.com/itsjavi/jsx-runtime",
+            "content": "JSXで書いて変換するとStandaloneで動作するコードを出力するJSX TransformerとRuntime",
+            "tags": [
+                "jsx",
+                "babel",
+                "Tools",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
