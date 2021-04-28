@@ -839,6 +839,26 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-04-28T14:26:19.461Z",
+            "title": "Fower",
+            "url": "https://fower.vercel.app/",
+            "content": "TailwindcssライクなUtility-firstのCSS in JSライブラリ。\nReactやVue、またスタイルをJavaScriptで生成するためReact Nativeにも対応する。\nUtilityベースのスタイルをPropsとして指定し、TSXや各フレームワーク用のコード補完に対応している。",
+            "tags": [
+                "JavaScript",
+                "CSS",
+                "library",
+                "React",
+                "Vue",
+                "Svelte"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Fower v1.0. After half a year’s efforts, today… | by forsigner | Apr, 2021 | ITNEXT",
+                    "url": "https://itnext.io/fower-v1-0-8df48723de0b"
+                }
+            ]
         }
     ]
 }
