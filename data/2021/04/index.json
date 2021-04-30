@@ -859,6 +859,22 @@
                     "url": "https://itnext.io/fower-v1-0-8df48723de0b"
                 }
             ]
+        },
+        {
+            "date": "2021-04-30T12:22:16.245Z",
+            "title": "7.14.0 Released: New class features enabled by default, TypeScript 4.3, and better CommonJS interop · Babel",
+            "url": "https://babeljs.io/blog/2021/04/29/7.14.0",
+            "content": "Babel 7.14.0リリース。\nStage 4となったclass fieldsをpreset-envがデフォルトでサポート、`importInterop: \"node\"`オプションの追加、TypeScript 4.3のサポート。\nまた、Stage 1のES Proposalである`async do` expressionのサポートなど",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v7.14.0 · babel/babel",
+                    "url": "https://github.com/babel/babel/releases/tag/v7.14.0"
+                }
+            ]
         }
     ]
 }
