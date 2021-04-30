@@ -1,0 +1,20 @@
+{
+    "list": [
+        {
+            "date": "2021-04-30T15:11:48.208Z",
+            "title": "React17のevent delegationの破壊的変更を理解する",
+            "url": "https://zenn.dev/co9xs/articles/react17-event-delegation",
+            "content": "React 17のevent delegationの変更についての記事。\n実際に動作が変わるサンプルを元に、React 17でのevent delegationの仕組みの変化について解説している",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "React v17.0 Release Candidate: 新機能「なし」 – React Blog",
+                    "url": "https://ja.reactjs.org/blog/2020/08/10/react-v17-rc.html"
+                }
+            ]
+        }
+    ]
+}
