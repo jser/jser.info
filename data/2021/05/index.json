@@ -26,6 +26,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-01T15:16:19.919Z",
+            "title": "How to Use ECMAScript Modules in Node.js",
+            "url": "https://dmitripavlutin.com/ecmascript-modules-nodejs/",
+            "content": "Node.jsでもECMAScript modulesの使い方についての記事。\nモジュールモード、モジュールのimportの方法、Dynamic Import、CommonJSなモジュールのimport、`import.meta`についてなど",
+            "tags": [
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
