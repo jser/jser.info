@@ -37,6 +37,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-02T22:44:23.989Z",
+            "title": "Release yargs v17.0.0 · yargs/yargs",
+            "url": "https://github.com/yargs/yargs/releases/tag/v17.0.0",
+            "content": "コマンドライン引数パーサーのyargs 17.0.0リリース。\n破壊的な変更として、Node.js 10のサポート終了、PrivateメソッドにPrivate Fieldsを使うように変更、`reset()`メソッドを非推奨化など。\nNode v14.8.0からTop-Level Awaitをサポートしたため、`yargs()`や`parseAsync`など色々な処理で非同期処理に対応するように変更など",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "deno",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
