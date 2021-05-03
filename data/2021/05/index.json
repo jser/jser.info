@@ -64,6 +64,23 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-03T07:53:26.908Z",
+            "title": "Build an HTTPS-intercepting JavaScript proxy in 30 seconds flat | HTTP Toolkit",
+            "url": "https://httptoolkit.tech/blog/javascript-mitm-proxy-mockttp/",
+            "content": "mockttpを使ったhttpsのサイトをProxyで書き換える方法についての紹介記事",
+            "tags": [
+                "node.js",
+                "library",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "httptoolkit/mockttp: Powerful friendly HTTP mock server & proxy",
+                    "url": "https://github.com/httptoolkit/mockttp"
+                }
+            ]
         }
     ]
 }
