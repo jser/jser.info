@@ -53,19 +53,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-05-03T07:34:50.294Z",
-            "title": "Multithreaded JavaScript",
-            "url": "https://learning.oreilly.com/library/view/multithreaded-javascript/9781098104429/",
-            "content": "2021年11月発売\nJavaScriptでのマルチスレッドについての書籍。\nWeb Worker、Service Worker、SharedWorkerについてなどについて",
-            "tags": [
-                "JavaScript",
-                "webworker",
-                "ServiceWorker",
-                "book"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2021-05-03T07:53:26.908Z",
             "title": "Build an HTTPS-intercepting JavaScript proxy in 30 seconds flat | HTTP Toolkit",
             "url": "https://httptoolkit.tech/blog/javascript-mitm-proxy-mockttp/",
@@ -81,6 +68,19 @@
                     "url": "https://github.com/httptoolkit/mockttp"
                 }
             ]
+        },
+        {
+            "date": "2021-05-03T10:03:54.444Z",
+            "title": "Multithreaded JavaScript",
+            "url": "https://learning.oreilly.com/library/view/multithreaded-javascript/9781098104429/",
+            "content": "2021年11月発売\nJavaScriptでのマルチスレッドについての書籍。\nWeb Worker、Service Worker、SharedWorkerなどについて",
+            "tags": [
+                "JavaScript",
+                "webworker",
+                "ServiceWorker",
+                "book"
+            ],
+            "relatedLinks": []
         }
     ]
 }
