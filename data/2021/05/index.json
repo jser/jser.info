@@ -123,19 +123,6 @@
             ]
         },
         {
-            "date": "2021-05-04T12:10:45.275Z",
-            "title": "Introducing CloudFront Functions – Run Your Code at the Edge with Low Latency at Any Scale | AWS News Blog",
-            "url": "https://aws.amazon.com/jp/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/",
-            "content": "AWS CloudFrontでCDNエッジな処理をJavaScriptでかけるサービス。\nECMAScript 5.1互換なJavaScript、処理時間が1ms以内、メモリは2MB以内、パッケージサイズは10kb以下のファイルサイズ、Network/File IOなし",
-            "tags": [
-                "aws",
-                "JavaScript",
-                "webservice",
-                "cdn"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2021-05-04T12:42:15.816Z",
             "title": "Hosting SQLite databases on Github Pages - (or any static file hoster) - phiresky's blog",
             "url": "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/",
@@ -144,6 +131,20 @@
                 "SQLite",
                 "JavaScript",
                 "WebAssembly",
+                "article"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2021-05-04T12:42:52.919Z",
+            "title": "Introducing CloudFront Functions – Run Your Code at the Edge with Low Latency at Any Scale | AWS News Blog",
+            "url": "https://aws.amazon.com/jp/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/",
+            "content": "AWS CloudFrontでCDNエッジな処理をJavaScriptでかけるサービス。\nECMAScript 5.1互換なJavaScript、処理時間が1ms以内、メモリは2MB以内、パッケージサイズは10kb以下のファイルサイズ、Network/File IOなし",
+            "tags": [
+                "aws",
+                "JavaScript",
+                "webservice",
+                "cdn",
                 "article"
             ],
             "relatedLinks": []
