@@ -117,6 +117,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-04T11:51:08.162Z",
+            "title": "Mantine",
+            "url": "https://mantine.dev/",
+            "content": "ReactコンポーネントとHooksのフレームワーク。\nCSS-in-JSにはJSSを利用している。",
+            "tags": [
+                "React",
+                "library",
+                "UI"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "cssinjs/jss: JSS is an authoring tool for CSS which uses JavaScript as a host language.",
+                    "url": "https://github.com/cssinjs/jss"
+                }
+            ]
         }
     ]
 }
