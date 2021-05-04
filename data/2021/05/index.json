@@ -104,6 +104,19 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-04T08:21:19.491Z",
+            "title": "Hosting SQLite databases on Github Pages - (or any static file hoster) - phiresky's blog",
+            "url": "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/",
+            "content": "WebAssemblyでコンパイルしたSQLiteと参照用のSQLiteファイルを用意し、必要な部分だけを取得できる仕組みを作ったという話。\nDBファイルをすべてメモリへ載せないで使うために、HTTP Rangeリクエストを使って必要なchunkだけを取得するHTTPベースの仮想ファイルシステムを作っている。\nSQLiteのDBのページサイズやスキーマ情報から必要な部分だけをRangeリクエストをで取得している。",
+            "tags": [
+                "SQLite",
+                "JavaScript",
+                "WebAssembly",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
