@@ -81,6 +81,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-04T05:13:45.290Z",
+            "title": "Node.js 10がサポート終了したので、Node.js 12以降だとできるようになることをまとめる",
+            "url": "https://zenn.dev/azu/scraps/bb1106a04ed9e6",
+            "content": "Node.js 12から利用できるようになったNode.jsのAPIや機能、V8アップデートによるECMAScriptサポートについてまとめた記事。",
+            "tags": [
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
