@@ -134,6 +134,18 @@
                     "url": "https://github.com/cssinjs/jss"
                 }
             ]
+        },
+        {
+            "date": "2021-05-04T12:10:38.752Z",
+            "title": "Introducing CloudFront Functions – Run Your Code at the Edge with Low Latency at Any Scale | AWS News Blog",
+            "url": "https://aws.amazon.com/jp/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/",
+            "content": "AWS CloudFrontでCDNエッジな処理をJavaScriptでかけるサービス。\nECMAScript 5.1互換なJavaScript、処理時間が1ms以内、メモリは2MB以内、パッケージサイズは10kb以下のファイルサイズ、Network/File IOなし",
+            "tags": [
+                "aws",
+                "JavaScript",
+                "webservice"
+            ],
+            "relatedLinks": []
         }
     ]
 }
