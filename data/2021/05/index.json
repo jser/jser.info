@@ -106,19 +106,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-05-04T08:24:12.421Z",
-            "title": "Hosting SQLite databases on Github Pages - (or any static file hoster) - phiresky's blog",
-            "url": "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/",
-            "content": "WebAssemblyにコンパイルしたSQLiteと参照用のSQLiteファイルを用意し、必要な部分だけを取得できる仕組みを作ったという話。\nDBファイルをすべてメモリへ載せないで使うために、HTTP Rangeリクエストを使って必要なchunkだけを取得するHTTPベースの仮想ファイルシステムを作っている。\nSQLiteのDBのページサイズやスキーマ情報から必要な部分だけをRangeリクエストをで取得している。",
-            "tags": [
-                "SQLite",
-                "JavaScript",
-                "WebAssembly",
-                "article"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2021-05-04T11:51:08.162Z",
             "title": "Mantine",
             "url": "https://mantine.dev/",
@@ -145,6 +132,19 @@
                 "JavaScript",
                 "webservice",
                 "cdn"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2021-05-04T12:42:15.816Z",
+            "title": "Hosting SQLite databases on Github Pages - (or any static file hoster) - phiresky's blog",
+            "url": "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/",
+            "content": "WebAssemblyにコンパイルしたSQLiteと参照用のSQLiteファイルを用意し、必要な部分だけを取得できる仕組みを作ったという話。\nDBファイルをすべてメモリへ載せないで使うために、HTTP Rangeリクエストを使って必要なchunkだけを取得するHTTPベースの仮想ファイルシステムを作っている。\nSQLiteのDBのページサイズやスキーマ情報から必要な部分だけをRangeリクエストで取得している。",
+            "tags": [
+                "SQLite",
+                "JavaScript",
+                "WebAssembly",
+                "article"
             ],
             "relatedLinks": []
         }
