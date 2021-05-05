@@ -159,6 +159,24 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-05T03:12:14.576Z",
+            "title": "How we use Web Components at GitHub - The GitHub Blog",
+            "url": "https://github.blog/2021-05-04-how-we-use-web-components-at-github/",
+            "content": "GitHubでのWeb Componentsについて。\nRails ViewComponentとCatalystを使ったWeb Componentsの組み込み、GitHub Elementsの公開についてなど",
+            "tags": [
+                "WebComponents",
+                "Github",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "github/github-elements: GitHub's Web Component collection.",
+                    "url": "https://github.com/github/github-elements"
+                }
+            ]
         }
     ]
 }
