@@ -177,6 +177,24 @@
                     "url": "https://github.com/github/github-elements"
                 }
             ]
+        },
+        {
+            "date": "2021-05-06T14:46:45.396Z",
+            "title": "Bootstrap 5 | Bootstrap Blog",
+            "url": "https://blog.getbootstrap.com/2021/05/05/bootstrap-5/",
+            "content": "Bootstrap 5リリース。\nIEのサポート終了、jQueryの削除。\noffcanvasコンポーネント、cardの代替えとなるaccordionコンポーネントの追加。\nFormとLayoutの変更、RTLのサポート、SassのUtility APIの追加など。\n",
+            "tags": [
+                "CSS",
+                "library",
+                "ReleaseNote",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migrating to v5 · Bootstrap v5.0",
+                    "url": "https://getbootstrap.com/docs/5.0/migration/"
+                }
+            ]
         }
     ]
 }
