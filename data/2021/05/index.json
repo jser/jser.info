@@ -207,6 +207,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-07T03:35:08.957Z",
+            "title": "google/zx: A tool for writing better scripts",
+            "url": "https://github.com/google/zx",
+            "content": "シェルスクリプトのような処理をJavaScriptで書けるNode.jsツール。\nTop-Level awaitを使ってシェルコマンドをそのまま使える`$`やHTTP通信するfetchなどが同梱されている。",
+            "tags": [
+                "ShellScript",
+                "node.js",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
