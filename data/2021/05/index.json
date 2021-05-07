@@ -197,10 +197,10 @@
             ]
         },
         {
-            "date": "2021-05-07T02:35:47.442Z",
+            "date": "2021-05-07T02:58:21.559Z",
             "title": "Underscore.js",
             "url": "https://underscorejs.org/#1.13.0",
-            "content": "underscore 1.13.0リリース。\nECMAScript Modulesのサポート。\n1.12.1では`_.template`のパラメータ経由でのCode Injectionができる脆弱性も修正されている。",
+            "content": "underscore 1.13.0リリース。\nECMAScript Modulesのサポート。\n1.12.1では`_.template`の`variable`オプション経由でのCode Injectionができる脆弱性も修正されている。",
             "tags": [
                 "JavaScript",
                 "library",
