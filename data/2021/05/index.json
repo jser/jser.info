@@ -254,6 +254,18 @@
                 "polyfill"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-09T12:41:12.303Z",
+            "title": "Hello, Modules!. JavaScript Modules, also known as ESM… | by Sindre Sorhus | May, 2021 | 🦄 Sindre Sorhus’ blog",
+            "url": "https://blog.sindresorhus.com/hello-modules-d1010b4e777b",
+            "content": "Node.js 10のサポートが終了したことで、ESMへの移行をどのようにするかについての記事。\nESMのメリット、パッケージのメンテナ向けの移行ガイドについて",
+            "tags": [
+                "ECMAScript",
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
