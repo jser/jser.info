@@ -242,6 +242,18 @@
                 "history"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-09T12:30:44.039Z",
+            "title": "jsxtools/cqfill: Polyfill for CSS Container Queries",
+            "url": "https://github.com/jsxtools/cqfill",
+            "content": "CSS Container Queriesのpolyfill。\nPostCSSと組み合わせて利用できる",
+            "tags": [
+                "CSS",
+                "JavaScript",
+                "polyfill"
+            ],
+            "relatedLinks": []
         }
     ]
 }
