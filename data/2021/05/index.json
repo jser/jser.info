@@ -290,6 +290,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-10T14:25:06.015Z",
+            "title": "React と Vue に関する XSS アンチパターン",
+            "url": "https://zenn.dev/yuuhu04/books/xss-anti-pattern-of-react-and-vue",
+            "content": "ReactとVueにおけるXSSのパターンについて書かれた文章。\nReactとVueのエスケープの仕組み、フレームワークが保護しないケースとXSSが発生するパターンについて書かれている",
+            "tags": [
+                "React",
+                "Vue",
+                "XSS",
+                "document"
+            ],
+            "relatedLinks": []
         }
     ]
 }
