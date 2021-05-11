@@ -209,18 +209,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-05-07T03:35:08.957Z",
-            "title": "google/zx: A tool for writing better scripts",
-            "url": "https://github.com/google/zx",
-            "content": "シェルスクリプトのような処理をJavaScriptで書けるNode.jsツール。\nTop-Level awaitを使ってシェルコマンドをそのまま使える`$`やHTTP通信するfetchなどが同梱されている。",
-            "tags": [
-                "ShellScript",
-                "node.js",
-                "Tools"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2021-05-07T12:19:50.589Z",
             "title": "リソースの読み込みを助けるウェブブラウザ API の世界",
             "url": "https://nhiroki.jp/2021/05/06/resource-loading-apis",
@@ -331,6 +319,18 @@
                     "url": "https://sveltesummit.com/"
                 }
             ]
+        },
+        {
+            "date": "2021-05-11T01:55:08.022Z",
+            "title": "google/zx: A tool for writing better scripts",
+            "url": "https://github.com/google/zx",
+            "content": "シェルスクリプトのような処理をJavaScriptで書けるNode.js製のツール。\nTop-Level awaitを使ってシェルコマンドをそのまま使える`$`やHTTP通信するfetchなどが同梱されている。",
+            "tags": [
+                "ShellScript",
+                "node.js",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
