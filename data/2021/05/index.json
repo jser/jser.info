@@ -344,6 +344,17 @@
                 "issue"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-12T12:21:48.026Z",
+            "title": "Node v14.17.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v14.17.0/",
+            "content": "Node v14.17.0リリース。\n試験的に`diagnostics_channel`を追加、`crypto.randomUUID()`の追加。\nまた、Node.js 15で実装されていたコアモジュールにおける`AbortController`と`AbortSignal`の対応をバックポートなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
