@@ -355,6 +355,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-13T12:44:50.488Z",
+            "title": "Writing A Type Safe Store | Lachlan Miller",
+            "url": "https://lachlan-miller.me/articles/advanced-type-a-type-safe-store-for-vue-3",
+            "content": "Vueのステート管理ライブラリであるPiniaのType SafeなStoreの型定義の解説",
+            "tags": [
+                "Vue",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "posva/pinia: 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support",
+                    "url": "https://github.com/posva/pinia/"
+                }
+            ]
         }
     ]
 }
