@@ -374,10 +374,10 @@
             ]
         },
         {
-            "date": "2021-05-13T16:08:37.417Z",
+            "date": "2021-05-13T16:09:16.017Z",
             "title": "Deno 1.10 Release Notes | Deno Blog",
             "url": "https://deno.com/blog/v1.10",
-            "content": "Deno 1.10リリース。\n`deno test`がisolateした状態でparallelにテストを実行、`permissions`の指定に対応、出力の変更、コメントのコードの型チェックに対応など。\n`Worker.postMessage`がstructured clone algorithmに対応、localStorageなどのWeb Storage APIに対応。\n`WebAssembly.Mmoery`が`shared`オプションに対応、`--import-map`へリモートURLを指定できるようになるなど",
+            "content": "Deno 1.10リリース。\n`deno test`がisolateした状態でparallelにテストを実行、`permissions`の指定に対応、出力の変更、コメントのコードの型チェックに対応など。\n`Worker.postMessage`がstructured clone algorithmに対応、localStorageなどのWeb Storage APIに対応。\n`WebAssembly.Memory`が`shared`オプションに対応、`--import-map`へリモートURLを指定できるようになるなど",
             "tags": [
                 "deno",
                 "ReleaseNote"
