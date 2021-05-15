@@ -405,6 +405,26 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-15T01:55:03.716Z",
+            "title": "Angular v12 is now available. It’s that time again, friends — we’re… | by Mark Techson | May, 2021 | Angular Blog",
+            "url": "https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49",
+            "content": "Angular 12リリース。\nView Engineは非推奨となりIvyがデフォルトへと移行、Legacy i18n Message IDsからの移行ツール、インラインSaaSのサポートなど。\nTypeScript 4.2へのアップデート、webpack 5を実験的にサポート、IE11サポートの廃止など",
+            "tags": [
+                "Angular",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 12.0.0 · angular/angular",
+                    "url": "https://github.com/angular/angular/releases/tag/12.0.0"
+                },
+                {
+                    "title": "Angular - Migrating legacy localization IDs",
+                    "url": "https://angular.io/guide/migration-legacy-message-id"
+                }
+            ]
         }
     ]
 }
