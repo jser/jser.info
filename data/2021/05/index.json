@@ -449,6 +449,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-16T19:02:53.453Z",
+            "title": "V8 release v9.1 · V8",
+            "url": "https://v8.dev/blog/v8-release-91",
+            "content": "V8 v9.1リリース。\nTop-level awaitのデフォルトサポート、`#foo in obj`のPrivate brand checksのサポートなど",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
