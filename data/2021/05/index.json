@@ -425,6 +425,19 @@
                     "url": "https://angular.io/guide/migration-legacy-message-id"
                 }
             ]
+        },
+        {
+            "date": "2021-05-16T06:07:18.750Z",
+            "title": "Cross-browser tracking vulnerablity in Tor, Safari, Chrome and Firefox - FingerprintJS",
+            "url": "https://fingerprintjs.com/blog/external-protocol-flooding/",
+            "content": "ブラウザからURLスキームでアプリを開くときの挙動を利用してフィンガープリントできるという話。\n未知のプロトコルを開く際にはダイアログでの確認やユーザインタラクションが必要となっている。\nしかし、それぞれのブラウザで既知のプロトコルや`about:blank`を使ったSOPでの抜け道で、どのアプリがインストールされているかを判定できるという話",
+            "tags": [
+                "browser",
+                "security",
+                "privacy",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
