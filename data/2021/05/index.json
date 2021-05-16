@@ -438,6 +438,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-16T12:34:12.033Z",
+            "title": "coderaiser/simport: Import like with require but using async",
+            "url": "https://github.com/coderaiser/simport",
+            "content": "ESMなNode.jsで`require`、`__filename`、`__dirname`などのshim機能を提供するライブラリ",
+            "tags": [
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
