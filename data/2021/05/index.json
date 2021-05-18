@@ -501,6 +501,19 @@
                     "url": "https://babeljs.io/docs/en/roadmap#babel-2021-roadmap"
                 }
             ]
+        },
+        {
+            "date": "2021-05-18T02:31:30.533Z",
+            "title": "styled-componentsの採用と既存資産を捨てた理由 - Cybozu Inside Out | サイボウズエンジニアのブログ",
+            "url": "https://blog.cybozu.io/entry/2020/06/25/105457",
+            "content": "Sassで書かれていたスタイルをCSS in JSに移行する話。\nstyled-componentsを使って書く場合にスタイリングとJSXを分離するためのルール、Sassの変数を抽出して移行するスクリプトについてなど",
+            "tags": [
+                "CSS",
+                "React",
+                "article",
+                "saas"
+            ],
+            "relatedLinks": []
         }
     ]
 }
