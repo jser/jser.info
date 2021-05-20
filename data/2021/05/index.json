@@ -525,6 +525,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-20T02:31:51.964Z",
+            "title": "Recoil 0.3.0 | Recoil",
+            "url": "https://recoiljs.org/blog/2021/05/14/0.3.0-released/",
+            "content": "Recoil 0.3.0リリース。\nRecoilRootに`override`オプションの追加、selectorに`GetCallback`を追加。\n次の0.4で`snapshot.retain()`していないsnapshotを使うと例外が発生するようになる",
+            "tags": [
+                "React",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
