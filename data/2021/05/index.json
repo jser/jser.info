@@ -538,6 +538,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-20T12:28:15.774Z",
+            "title": "Chromium Blog: Update on User-Agent String Reduction in Chrome",
+            "url": "https://blog.chromium.org/2021/05/update-on-user-agent-string-reduction.html",
+            "content": "ChromeのUser-Agent固定化のロードマップ。\nChrome 92で`navigator.userAgent`などのdeprecated化、reduced UA stringをオプトインで導入、デフォルト化など7段階でのマイグレーションフェーズについて",
+            "tags": [
+                "Chrome",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "User-Agent Reduction - The Chromium Projects",
+                    "url": "https://www.chromium.org/updates/ua-reduction"
+                }
+            ]
         }
     ]
 }
