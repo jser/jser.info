@@ -635,6 +635,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-23T14:49:45.522Z",
+            "title": "Web worker meets worker threads - threads.js",
+            "url": "https://threads.js.org/",
+            "content": "ブラウザのWeb WorkerとNode.jsの`worker_threads`を使ったWorker管理ライブラリ。\nasync functionとObservablesの対応、thread pools、webpack向けのpluginを持っている",
+            "tags": [
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
