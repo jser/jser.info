@@ -683,10 +683,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-05-24T15:01:04.905Z",
+            "date": "2021-05-24T15:02:08.166Z",
             "title": "Introducing WebContainers: Run Node.js natively in your browser",
             "url": "https://blog.stackblitz.com/posts/introducing-webcontainers/",
-            "content": "Node.jsをブラウザで動かせすWebContainersについて。\nNode.jsのランタイムをブラウザで動かし、ブラウザ自体をSandboxとしてNode.jsのコードをセキュアに実行するための仕組み。\nVirtual FSとNetworkingを実装し、各プロセスをWorkerとして起動してメッセージングすることでマルチプロセスのサポートしている。\nPOSIXなシェルとしてjshという実装と、npm/yarnクライアントとしてturboという実装を持っている",
+            "content": "Node.jsをブラウザで動かすWebContainersについて。\nNode.jsのランタイムをブラウザで動かし、ブラウザ自体をSandboxとしてNode.jsのコードをセキュアに実行するための仕組み。\nVirtual FSとNetworkingを実装し、各プロセスをWorkerとして起動してメッセージングすることでマルチプロセスのサポートしている。\nPOSIXなシェルとしてjshという実装と、npm/yarnクライアントとしてturboという実装を持っている",
             "tags": [
                 "node.js",
                 "browser",
