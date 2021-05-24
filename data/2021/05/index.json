@@ -731,6 +731,28 @@
             ],
             "viaURL": "https://zenn.dev/himorishige/articles/9d47f3d8b50342",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-24T15:33:35.988Z",
+            "title": "Migrate to User-Agent Client Hints",
+            "url": "https://web.dev/migrate-to-ua-ch/",
+            "content": "`navigator.userAgent`などがDeprecatedとなり固定化されるため、その代わりとなるUser-Agent Client Hintsについて。\nJavaScriptのAPIとしての`navigator.userAgentData`と`navigator.userAgentData.getHighEntropyValues`。\nHTTPヘッダUA Client Hintを扱う`Accept-CH`と`Sec-CH-UA-*`について。\nまた、Client HintからレガシーなUA文字列を作成するライブラリについてなど",
+            "tags": [
+                "Chrome",
+                "article",
+                "privacy"
+            ],
+            "viaURL": "https://zenn.dev/himorishige/articles/9d47f3d8b50342",
+            "relatedLinks": [
+                {
+                    "title": "Chromium Blog: Update on User-Agent String Reduction in Chrome",
+                    "url": "https://blog.chromium.org/2021/05/update-on-user-agent-string-reduction.html"
+                },
+                {
+                    "title": "GoogleChromeLabs/uach-retrofill: This snippet illustrates how to reconstruct the legacy navigator.userAgent string value from the modern navigator.userAgentData values.",
+                    "url": "https://github.com/GoogleChromeLabs/uach-retrofill"
+                }
+            ]
         }
     ]
 }
