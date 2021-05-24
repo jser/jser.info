@@ -667,6 +667,20 @@
                     "url": "https://typestrong.org/ts-node/"
                 }
             ]
+        },
+        {
+            "date": "2021-05-24T14:03:28.672Z",
+            "title": "オリジナルのJavaScriptライブラリを公開しよう",
+            "url": "https://zenn.dev/yusuke99/books/fcd96342f5cb1b468799",
+            "content": "JavaScriptのライブラリをnpmに公開するチュートリアル。\nライブラリの実装とテスト、npmへの公開、GitHub ActionsでのCIからpublish、Scoped Packagesについてなど",
+            "tags": [
+                "JavaScript",
+                "npm",
+                "Github",
+                "Actions",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
