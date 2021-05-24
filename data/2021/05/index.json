@@ -704,6 +704,20 @@
                     "url": "https://www.youtube.com/watch?v=5F9qH-ea5Qk"
                 }
             ]
+        },
+        {
+            "date": "2021-05-24T15:18:22.337Z",
+            "title": "rtk-incubator/rtk-query: Experimental data fetching and caching addon for Redux Toolkit",
+            "url": "https://github.com/rtk-incubator/rtk-query",
+            "content": "Redux Toolkitを使うデータ取得と状態管理をするQueryライブラリ。\n宣言的なAPIの定義、データの取得、キャッシュやリトライ、Prefetching、React Hooks、Open APIから自動生成などに対応している。\n将来的にはRedux Toolkitに同梱することを目標にしている。",
+            "tags": [
+                "redux",
+                "HTTP",
+                "library",
+                "React"
+            ],
+            "viaURL": "https://zenn.dev/himorishige/articles/9d47f3d8b50342",
+            "relatedLinks": []
         }
     ]
 }
