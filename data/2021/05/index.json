@@ -637,17 +637,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-05-23T14:49:45.522Z",
-            "title": "Web worker meets worker threads - threads.js",
-            "url": "https://threads.js.org/",
-            "content": "ブラウザのWeb WorkerとNode.jsの`worker_threads`を使ったWorker管理ライブラリ。\nasync functionとObservablesの対応、thread pools、webpack向けのpluginを持っている",
-            "tags": [
-                "node.js",
-                "library"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2021-05-24T01:47:40.897Z",
             "title": "Release v10.0.0 · TypeStrong/ts-node",
             "url": "https://github.com/TypeStrong/ts-node/releases/tag/v10.0.0",
@@ -770,6 +759,19 @@
                     "url": "https://nodejs.medium.com/renaming-n-api-to-node-api-27aa8ca30ed8"
                 }
             ]
+        },
+        {
+            "date": "2021-05-25T02:49:06.694Z",
+            "title": "Web worker meets worker threads - threads.js",
+            "url": "https://threads.js.org/",
+            "content": "ブラウザのWeb WorkerとNode.jsの`worker_threads`を使ったWorker管理ライブラリ。\nasync functionとObservablesの対応、thread pools、webpack向けのpluginを持っている",
+            "tags": [
+                "node.js",
+                "library",
+                "webworker"
+            ],
+            "viaURL": "https://zenn.dev/himorishige/articles/9d47f3d8b50342",
+            "relatedLinks": []
         }
     ]
 }
