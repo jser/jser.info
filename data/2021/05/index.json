@@ -798,6 +798,26 @@
             ],
             "viaURL": "https://zenn.dev/himorishige/articles/9d47f3d8b50342",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-26T11:59:58.637Z",
+            "title": "Jest 27: New Defaults for Jest, 2021 edition ⏩ · Jest",
+            "url": "https://jestjs.io/blog/2021/05/25/jest-27",
+            "content": "Jest 27リリース。\nデフォルトが大きく変わるリリースとなっていて、`jest-circus`のデフォルト化、fake timersのデフォルトを`@sinonjs/fake-timers`ベースの`modern`に変更している。\n機能追加として、失敗したテストをインタラクティブに実行できるように、inline snapshotsをprettierの依存なく実行できるようになど。\nまた、`done`の複数回呼び出しをエラーとしたり、Promiseを返すのと`done`の混在を禁止したり、TypeScriptの型を厳密化するといった変更も含まれる",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://zenn.dev/himorishige/articles/9d47f3d8b50342",
+            "relatedLinks": [
+                {
+                    "title": "Release 27.0.0 · facebook/jest",
+                    "url": "https://github.com/facebook/jest/releases/tag/v27.0.0"
+                }
+            ]
         }
     ]
 }
