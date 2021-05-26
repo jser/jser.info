@@ -830,6 +830,24 @@
             ],
             "viaURL": "https://zenn.dev/himorishige/articles/9d47f3d8b50342",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-26T21:47:27.981Z",
+            "title": "Announcing Vendure v1.0 | Vendure E-commerce",
+            "url": "https://www.vendure.io/blog/2021/05/announcing-vendure-v1.0/",
+            "content": "GraphQL/TypeScriptベースのeコマースフレームワークであるVendure v1.0リリース。",
+            "tags": [
+                "node.js",
+                "ReleaseNote",
+                "GraphQL"
+            ],
+            "viaURL": "https://zenn.dev/himorishige/articles/9d47f3d8b50342",
+            "relatedLinks": [
+                {
+                    "title": "vendure-ecommerce/vendure: A headless GraphQL ecommerce framework for the modern web",
+                    "url": "https://github.com/vendure-ecommerce/vendure"
+                }
+            ]
         }
     ]
 }
