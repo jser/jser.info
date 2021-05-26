@@ -818,6 +818,18 @@
                     "url": "https://github.com/facebook/jest/releases/tag/v27.0.0"
                 }
             ]
+        },
+        {
+            "date": "2021-05-26T21:16:45.182Z",
+            "title": "Announcing TypeScript 4.3 | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-3/",
+            "content": "TypeScript 4.3リリース\nsetterにgetterとは異なる型を指定できるように、`override`キーワードの追加、Template String Typeの改善。\nPrivate Class Elements(fields/methods/accessors)のサポート、`static` Index Signatureのサポート。\n`ConstructorParameters`がAbstract classをサポート、Genericsにおける型の絞り込みの改善、Promiseオブジェクトを条件式に渡してしまうミスのチェックを追加。\nその他には、`.tsbuildinfo`のサイズ改善、watch時の初回ビルドの改善など。",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://zenn.dev/himorishige/articles/9d47f3d8b50342",
+            "relatedLinks": []
         }
     ]
 }
