@@ -848,6 +848,25 @@
                     "url": "https://github.com/vendure-ecommerce/vendure"
                 }
             ]
+        },
+        {
+            "date": "2021-05-28T14:29:42.986Z",
+            "title": "vanilla-extract — Zero-runtime Stylesheets-in-TypeScript.",
+            "url": "https://vanilla-extract.style/",
+            "content": "TypeScriptでスタイルをJSとして`.css.ts`に書いて`class`属性に指定したものをコンパイルすると、CSSファイルを生成するフレームワークに依存しないツールキット。\nビルド時に静的に展開されるAPIと実行時に動作するDynamic API、webpackやViteなどの各種ツールに対応したプラグインが用意されている。",
+            "tags": [
+                "CSS",
+                "JavaScript",
+                "TypeScript",
+                "Tools"
+            ],
+            "viaURL": "https://zenn.dev/himorishige/articles/9d47f3d8b50342",
+            "relatedLinks": [
+                {
+                    "title": "🧁🍨 Mark Dalgleish on Twitter: &quot;🧁🎉 Announcing vanilla-extract v1.0! 💪 Locally scoped, type-safe styles, variables + themes. 🦄 Minimal abstraction over CSS. 🛠 Framework agnostic, w/ integrations for webpack, esbuild, Vite + Snowpack. ✅ Now stable + production ready. 🙇‍♂️ Enjoy! https://t.co/Ejaf4anfbj&quot; / Twitter",
+                    "url": "https://twitter.com/markdalgleish/status/1398158090294292482"
+                }
+            ]
         }
     ]
 }
