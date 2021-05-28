@@ -850,10 +850,10 @@
             ]
         },
         {
-            "date": "2021-05-28T14:29:42.986Z",
+            "date": "2021-05-28T14:30:09.886Z",
             "title": "vanilla-extract — Zero-runtime Stylesheets-in-TypeScript.",
             "url": "https://vanilla-extract.style/",
-            "content": "TypeScriptでスタイルをJSとして`.css.ts`に書いて`class`属性に指定したものをコンパイルすると、CSSファイルを生成するフレームワークに依存しないツールキット。\nビルド時に静的に展開されるAPIと実行時に動作するDynamic API、webpackやViteなどの各種ツールに対応したプラグインが用意されている。",
+            "content": "vanilla-extract v1.0リリース。\nTypeScriptでスタイルをJSとして`.css.ts`に書いて`class`属性に指定したものをコンパイルすると、CSSファイルを生成するフレームワークに依存しないツールキット。\nビルド時に静的に展開されるAPIと実行時に動作するDynamic API、webpackやViteなどの各種ツールに対応したプラグインが用意されている。",
             "tags": [
                 "CSS",
                 "JavaScript",
