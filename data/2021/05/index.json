@@ -967,6 +967,19 @@
             ],
             "viaURL": "https://zenn.dev/himorishige/articles/9d47f3d8b50342",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-30T23:55:34.847Z",
+            "title": "New Release: 2.13.0",
+            "url": "https://jshint.com/blog/2021-05-30/release-2-13-0/",
+            "content": "JSHint 2.13.0リリース。\n`export * as ns from`、`import.meta`、Dynamic `import()`、Optional Chaining、Nullish Coalescingのサポートなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://zenn.dev/himorishige/articles/9d47f3d8b50342",
+            "relatedLinks": []
         }
     ]
 }
