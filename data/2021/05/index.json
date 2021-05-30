@@ -954,6 +954,19 @@
             ],
             "viaURL": "https://zenn.dev/himorishige/articles/9d47f3d8b50342",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-30T12:33:46.214Z",
+            "title": "xqq/mpegts.js: HTML5 MPEG2-TS Stream Player",
+            "url": "https://github.com/xqq/mpegts.js",
+            "content": "flv.jsをベースにしたMPEG-2 TS steram playerライブラリ。\nHTTPとWebSocketを使ったMPEG-2 TS streamの再生、低遅延、低スペックマシンでも再生できることを目的にしている。\nflv.jsベースであるため、FLV containerもサポートしている。",
+            "tags": [
+                "JavaScript",
+                "video",
+                "library"
+            ],
+            "viaURL": "https://zenn.dev/himorishige/articles/9d47f3d8b50342",
+            "relatedLinks": []
         }
     ]
 }
