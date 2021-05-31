@@ -980,6 +980,29 @@
             ],
             "viaURL": "https://zenn.dev/himorishige/articles/9d47f3d8b50342",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-05-31T14:05:12.554Z",
+            "title": "Lit 2.0: Meet Lit, all over again! – Lit",
+            "url": "https://lit.dev/blog/2021-04-21-lit-2.0-meet-lit-all-over-again/",
+            "content": "Lit 2.0 RCリリース。\n`lit-html`と`LitELement`を一つにまとめて`lit`パッケージの公開、ウェブサイトの刷新がおコン割れている。\nファイルサイズやパフォーマンスの改善、SSRの対応などが含まれている",
+            "tags": [
+                "JavaScript",
+                "WebComponents",
+                "library",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://zenn.dev/himorishige/articles/9d47f3d8b50342",
+            "relatedLinks": [
+                {
+                    "title": "Lit Launch Event - YouTube",
+                    "url": "https://www.youtube.com/watch?v=f1j7b696L-E"
+                },
+                {
+                    "title": "Introducing &quot;Lit&quot; for Web Components",
+                    "url": "https://zenn.dev/takanorip/articles/640f9fe9c6c8ca"
+                }
+            ]
         }
     ]
 }
