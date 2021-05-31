@@ -1,0 +1,17 @@
+{
+    "list": [
+        {
+            "date": "2021-05-31T23:34:40.459Z",
+            "title": "Release v10.0.0 · puppeteer/puppeteer",
+            "url": "https://github.com/puppeteer/puppeteer/releases/tag/v10.0.0",
+            "content": "puppeteer 10.0.0リリース。\nNode.js 10のサポート終了、起動してから最初のページのロード待ちをするかどうかを決める`waitForInitialPage`オプションの追加など",
+            "tags": [
+                "Chrome",
+                "browser",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
