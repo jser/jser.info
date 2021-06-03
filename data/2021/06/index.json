@@ -24,6 +24,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-03T12:50:06.503Z",
+            "title": "An introduction to WebAssembly for JavaScript Developers",
+            "url": "https://pascalpares.appspot.ovh/webassembly-for-javascript-developers/",
+            "content": "WebAssemblyのJavaScript APIについての解説記事。\nWasmファイルのロード、コンパイル、WasmからJSのコールバック関数の呼び出し、Dynamic Link、グローバル変数、文字列の渡し方、Shared Memory Bufferなどについて",
+            "tags": [
+                "WebAssembly",
+                "node.js",
+                "JavaScript",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
