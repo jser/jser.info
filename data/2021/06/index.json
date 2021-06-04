@@ -37,6 +37,18 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-04T14:30:52.727Z",
+            "title": "What's New In DevTools (Chrome 92) - Chrome Developers",
+            "url": "https://developer.chrome.com/blog/new-in-devtools-92/",
+            "content": "Chrome 92のDevToolsの変更点について。\nCSS gridエディタ、REPL内で`const`の再定義ができるように、Source order viewerの追加。\nCORSのエラーメッセージの改善、NetworkのフィルターにWasm typeを追加、UA Client Hintの対応。\nExperimentsとしてChrome DevTools Protocolを見るProtocol Monitor、Puppeteer Recorderの追加など",
+            "tags": [
+                "Chrome",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
