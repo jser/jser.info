@@ -80,6 +80,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-05T15:42:03.748Z",
+            "title": "kawmra/typist-json: A simple runtime JSON type checker.",
+            "url": "https://github.com/kawmra/typist-json",
+            "content": "スキーマを定義するビルダー関数とチェッカーライブラリ。\n定義したスキーマをTypeScriptの型として利用できる。\n",
+            "tags": [
+                "TypeScript",
+                "JSON",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "TypeScript 向けの軽量ランタイム JSON 型チェッカーを作った",
+                    "url": "https://zenn.dev/kawmra/articles/0aad8dca56f1da"
+                }
+            ]
         }
     ]
 }
