@@ -67,6 +67,19 @@
                     "url": "https://github.com/GoogleChrome/lighthouse/blob/master/docs/v8-perf-faq.md"
                 }
             ]
+        },
+        {
+            "date": "2021-06-05T14:26:49.421Z",
+            "title": "htmlplus/core: HTMLPLUS is a native, framework-less, and lightweight library that is purely developed with Javascript. All HTMLPLUS components are customizable and configurable.",
+            "url": "https://github.com/htmlplus/core",
+            "content": "Web Componentsで作られたUIライブラリ。\nReactとVue向けのバインディングも提供している",
+            "tags": [
+                "WebComponents",
+                "React",
+                "Vue",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
