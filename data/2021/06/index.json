@@ -176,6 +176,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-07T15:31:26.728Z",
+            "title": "Node.js API Table",
+            "url": "https://nodejs-api-table.netlify.app/",
+            "content": "Node.jsのモジュールやAPIがどのバージョンで追加されたのかを一覧できるサイト。",
+            "tags": [
+                "node.js",
+                "API",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Next.js で Node.js の API がいつ入ったのかわかる表を作る",
+                    "url": "https://zenn.dev/sosukesuzuki/articles/f00bc24600f2d8"
+                }
+            ]
         }
     ]
 }
