@@ -213,6 +213,17 @@
                     "url": "https://www.mozilla.org/en-US/firefox/89.0/releasenotes/"
                 }
             ]
+        },
+        {
+            "date": "2021-06-07T16:00:08.187Z",
+            "title": "Chromium Blog: Chrome 92: Web Apps as File Handlers, New JavaScript Features, and More",
+            "url": "https://blog.chromium.org/2021/06/chrome-92-web-apps-as-file-handlers-new.html",
+            "content": "Chrome 92 betaリリース。\nOrigin TrialとしてFile Handling API、Shared Element Transitions。\n`@font-face`の`size-adjust`、V9.2へのアップデート、SharedArrayBuffersがCross Origin Isolateされたページに限定されるなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
