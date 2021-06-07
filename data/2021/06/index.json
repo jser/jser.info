@@ -120,6 +120,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-07T14:03:21.221Z",
+            "title": "EvandroLG/ts-audio: ts-audio is an agnostic library that makes it easy to work with AudioContext and create audio playlists in the browser",
+            "url": "https://github.com/EvandroLG/ts-audio",
+            "content": "AudioContext APIを使った音楽再生ライブラリ。\n複数の音声の連続再生などをサポートしている",
+            "tags": [
+                "JavaScript",
+                "library",
+                "audio",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
