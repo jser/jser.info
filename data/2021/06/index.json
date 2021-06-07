@@ -193,6 +193,26 @@
                     "url": "https://zenn.dev/sosukesuzuki/articles/f00bc24600f2d8"
                 }
             ]
+        },
+        {
+            "date": "2021-06-07T15:46:02.745Z",
+            "title": "Looking fine with Firefox 89 - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2021/06/looking-fine-with-firefox-89/",
+            "content": "Firefox 89リリース。\nMedia Queryの`forced-colors`、フォントロード時の視差を調整する`line-gap-override`/`ascent-override`/`descent-override`の実装。\nTop-level `await`をデフォルトで有効化、64bitマシンでArrayBufferが2GB以上のサイズを扱えるように、`PerformanceEventTiming`のサポートなど。",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 89 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/89"
+                },
+                {
+                    "title": "Firefox 89.0, See All New Features, Updates and Fixes",
+                    "url": "https://www.mozilla.org/en-US/firefox/89.0/releasenotes/"
+                }
+            ]
         }
     ]
 }
