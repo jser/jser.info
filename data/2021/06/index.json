@@ -260,6 +260,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-09T13:43:59.480Z",
+            "title": "Introducing libSquoosh",
+            "url": "https://web.dev/introducing-libsquoosh/",
+            "content": "リサイズなどの画像処理を行うSquooshをライブラリとして利用できるlibSquooshの紹介記事。",
+            "tags": [
+                "node.js",
+                "Image",
+                "library",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "squoosh/libsquoosh at dev · GoogleChromeLabs/squoosh",
+                    "url": "https://github.com/GoogleChromeLabs/squoosh/tree/dev/libsquoosh"
+                }
+            ]
         }
     ]
 }
