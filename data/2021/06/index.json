@@ -278,6 +278,17 @@
                     "url": "https://github.com/GoogleChromeLabs/squoosh/tree/dev/libsquoosh"
                 }
             ]
+        },
+        {
+            "date": "2021-06-13T16:30:34.667Z",
+            "title": "Introducing the Memory Inspector - Chrome Developers",
+            "url": "https://developer.chrome.com/blog/memory-inspector/",
+            "content": "Chrome 91でDevToolsに追加されたMemory Inspectorについての記事。\nArrayBuffersのバイトをエンディアンを選択して見れる。またDWARFを使うことでC++やWasmのメモリも見れることについて",
+            "tags": [
+                "Chrome",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
