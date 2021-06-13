@@ -289,6 +289,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-13T16:49:39.126Z",
+            "title": "Release v7.0.0 · d3/d3",
+            "url": "https://github.com/d3/d3/releases/tag/v7.0.0",
+            "content": "D3.js v7.0.0リリース。\nESMの対応、nullの対応を変更、`d3.selectAll`などでArray-likeをArrayに変換して扱うように。\n機能追加として`d3.mode`、`d3.flatGroup`、`d3.flatRollup`、`transition.selectChild`の追加など",
+            "tags": [
+                "JavaScript",
+                "SVG",
+                "d3.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
