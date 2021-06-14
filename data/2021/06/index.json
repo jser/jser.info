@@ -361,10 +361,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-06-14T13:10:13.798Z",
+            "date": "2021-06-14T13:10:46.171Z",
             "title": "The Plan for React 18 – React Blog",
             "url": "https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html",
-            "content": "React 18のαリリースと変更予定について。\nAutomatic batchingと`flushSync`の追加、SuspenseのSSRサポートと`pipeToNodeWritable`の追加、Concurrentモードのopt-inサポート。\n新しいrender APIである`createDOM`の追加、バグを見つけるためにStrictModeではコンポーネントを2重にレンダリングするようなるなど",
+            "content": "React 18のαリリースと変更予定について。\nAutomatic batchingと`flushSync`の追加、SuspenseのSSRサポートと`pipeToNodeWritable`の追加、Concurrentモードのopt-inサポート。\n新しいrender APIである`createDOM`の追加、バグを見つけるためにStrictModeではコンポーネントを2重にレンダリングするようなるなど。\nまた、ReactのWorking Groupのリポジトリが作成されている。",
             "tags": [
                 "React",
                 "article",
