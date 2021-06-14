@@ -350,17 +350,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-06-14T12:50:41.496Z",
-            "title": "What's coming in ESLint v8.0.0 - ESLint - Pluggable JavaScript linter",
-            "url": "https://eslint.org/blog/2021/06/whats-coming-in-eslint-8.0.0",
-            "content": "ESLint v8.0.0の変更予定について。\n破壊的な変更として、Node 10のサポート終了`meta.hasSuggestions`と`meta.fixable`がそれぞれ必須に、`CLIEngine`の削除など。\nまたES2022のサポート、利用してない`eslint-disable`ディレクトリの`--fix`に対応などを予定している。",
-            "tags": [
-                "ESLint",
-                "article"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2021-06-14T13:10:46.171Z",
             "title": "The Plan for React 18 – React Blog",
             "url": "https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html",
@@ -489,6 +478,17 @@
                     "url": "https://github.com/plotly/plotly.js/releases/tag/v2.0.0"
                 }
             ]
+        },
+        {
+            "date": "2021-06-14T15:36:11.090Z",
+            "title": "What's coming in ESLint v8.0.0 - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2021/06/whats-coming-in-eslint-8.0.0",
+            "content": "ESLint v8.0.0の変更予定について。\n破壊的な変更として、Node 10のサポート終了、`meta.hasSuggestions`と`meta.fixable`がそれぞれ必須に、`CLIEngine`の削除など。\nまたES2022のサポート、利用してない`eslint-disable`ディレクトリの`--fix`に対応などを予定している。",
+            "tags": [
+                "ESLint",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
