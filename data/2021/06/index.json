@@ -418,6 +418,18 @@
                     "url": "https://github.com/snowpackjs/astro"
                 }
             ]
+        },
+        {
+            "date": "2021-06-14T13:51:43.208Z",
+            "title": "Strykerを使ってTypeScriptでMutation Testingする",
+            "url": "https://zenn.dev/daikik/articles/8cd20776991a9c",
+            "content": "Stryker-jsを使ったMutation Testingについて。\n",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
