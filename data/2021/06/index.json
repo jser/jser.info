@@ -305,14 +305,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-06-14T03:12:06.861Z",
+            "date": "2021-06-14T03:12:18.901Z",
             "title": "Release v0.7.0 · nextapps-de/flexsearch",
             "url": "https://github.com/nextapps-de/flexsearch/releases/tag/0.7.0",
             "content": "JavaScriptで書かれた全文検索エンジンのflexsearch 0.7.0リリース。\n一から書き直されている。\nメモリ消費量やパフォーマンスの改善、Bidirectional Contextのサポート、Node.jsの`worker_thread`の対応など。",
             "tags": [
                 "JavaScript",
                 "search",
-                "library"
+                "library",
+                "ReleaseNote"
             ],
             "relatedLinks": [
                 {
