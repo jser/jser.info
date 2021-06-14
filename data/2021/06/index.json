@@ -430,6 +430,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-14T14:08:34.130Z",
+            "title": "Release v0.153.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.153.0",
+            "content": "Flow 0.153.0リリース。\n`this`を使うクラスのメソッドを変数に入れて`this`のbindを解除をエラーとするように、`flow fix`コマンドで自動修正を適用できるように",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Sound Typing for “this” in Flow. In our most recent post, we alluded to… | by Daniel Sainati | Flow | Jun, 2021 | Medium",
+                    "url": "https://medium.com/flow-type/sound-typing-for-this-in-flow-d62db2af969e"
+                }
+            ]
         }
     ]
 }
