@@ -446,6 +446,18 @@
                     "url": "https://medium.com/flow-type/sound-typing-for-this-in-flow-d62db2af969e"
                 }
             ]
+        },
+        {
+            "date": "2021-06-14T14:12:45.200Z",
+            "title": "Securing Your Website With Subresource Integrity | CSS-Tricks",
+            "url": "https://css-tricks.com/securing-your-website-with-subresource-integrity/",
+            "content": "JavaScriptを配布するCDNやS3 bucketなどが書き換えられた場合にウェブサイトへの軽減するためのSubresource Integrity (SRI)の使い方についての記事。",
+            "tags": [
+                "security",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
