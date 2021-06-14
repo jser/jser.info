@@ -321,6 +321,22 @@
                     "url": "https://github.com/nextapps-de/flexsearch/blob/0.7.0/doc/0.7.0.md"
                 }
             ]
+        },
+        {
+            "date": "2021-06-14T10:22:22.822Z",
+            "title": "Deno 1.11 Release Notes | Deno Blog",
+            "url": "https://deno.com/blog/v1.11",
+            "content": "Deno 1.11リリース。\nDocker Imageの追加、Web Crypto APIsの改善と`crypto.randomUUID`のサポート、Fetch APIが`AbortSignal`をサポート。\nまた`deno lint`がStableとなり、`deno compile`でDynamic Importのサポート、`Text{Encoder,Decodeer}Stream`のサポートなど。",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Deno 1.11.0 がリリースされたので新機能や変更点の紹介",
+                    "url": "https://zenn.dev/magurotuna/articles/deno-release-note-1-11-0"
+                }
+            ]
         }
     ]
 }
