@@ -362,22 +362,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-06-14T14:08:34.130Z",
-            "title": "Release v0.153.0 · facebook/flow",
-            "url": "https://github.com/facebook/flow/releases/tag/v0.153.0",
-            "content": "Flow 0.153.0リリース。\n`this`を使うクラスのメソッドを変数に入れて`this`のbindを解除をエラーとするように、`flow fix`コマンドで自動修正を適用できるように",
-            "tags": [
-                "flowtype",
-                "ReleaseNote"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "Sound Typing for “this” in Flow. In our most recent post, we alluded to… | by Daniel Sainati | Flow | Jun, 2021 | Medium",
-                    "url": "https://medium.com/flow-type/sound-typing-for-this-in-flow-d62db2af969e"
-                }
-            ]
-        },
-        {
             "date": "2021-06-14T14:12:45.200Z",
             "title": "Securing Your Website With Subresource Integrity | CSS-Tricks",
             "url": "https://css-tricks.com/securing-your-website-with-subresource-integrity/",
@@ -505,6 +489,22 @@
                 {
                     "title": "Adding Strict Effects to StrictMode · Discussion #19 · reactwg/react-18",
                     "url": "https://github.com/reactwg/react-18/discussions/19"
+                }
+            ]
+        },
+        {
+            "date": "2021-06-15T00:50:37.420Z",
+            "title": "Release v0.153.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.153.0",
+            "content": "Flow 0.153.0リリース。\n`this`を使うクラスのメソッドを変数に入れて`this`のbindの解除をエラーとするように、`flow fix`コマンドで自動修正を適用できるように",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Sound Typing for “this” in Flow. In our most recent post, we alluded to… | by Daniel Sainati | Flow | Jun, 2021 | Medium",
+                    "url": "https://medium.com/flow-type/sound-typing-for-this-in-flow-d62db2af969e"
                 }
             ]
         }
