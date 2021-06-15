@@ -500,6 +500,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-15T00:42:48.142Z",
+            "title": "Release 5.0.0 · Unitech/pm2",
+            "url": "https://github.com/Unitech/pm2/releases/tag/5.0.0",
+            "content": "Nodeのプロセス管理ツールのpm2 5.0.0リリース。\nローカルのシステムモニタリングが新しくなり、サーバメトリクスの表示が追加された。。\npm2.io へ送信するデータをJSON Patchベースの差分にすることで転送量の削減など\n",
+            "tags": [
+                "node.js",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
