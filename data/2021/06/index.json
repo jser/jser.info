@@ -387,28 +387,6 @@
             ]
         },
         {
-            "date": "2021-06-14T13:50:41.913Z",
-            "title": "Introducing Astro: Ship Less JavaScript",
-            "url": "https://astro.build/blog/introducing-astro",
-            "content": "JavaScriptを含まない静的サイトを生成できるSSGツール。\nIsland Architectureのようにインタラクティブな部分だけJavaScriptを含んだコンポーネントを利用できるようになっている。",
-            "tags": [
-                "JavaScript",
-                "Tools",
-                "ReleaseNote",
-                "performance"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "snowpackjs/astro: 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!",
-                    "url": "https://github.com/snowpackjs/astro"
-                },
-                {
-                    "title": "snowpackjs/astro: 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!",
-                    "url": "https://github.com/snowpackjs/astro"
-                }
-            ]
-        },
-        {
             "date": "2021-06-14T13:51:43.208Z",
             "title": "Strykerを使ってTypeScriptでMutation Testingする",
             "url": "https://zenn.dev/daikik/articles/8cd20776991a9c",
@@ -512,6 +490,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-15T00:47:26.788Z",
+            "title": "Introducing Astro: Ship Less JavaScript",
+            "url": "https://astro.build/blog/introducing-astro",
+            "content": "JavaScriptを含まない静的サイトを生成できるSSGツール。\nIsland Architectureのようにインタラクティブな部分だけJavaScriptを含んだコンポーネントを利用できるようになっている。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote",
+                "performance"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "snowpackjs/astro: 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!",
+                    "url": "https://github.com/snowpackjs/astro"
+                }
+            ]
         }
     ]
 }
