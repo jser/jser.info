@@ -508,6 +508,22 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-17T13:04:55.960Z",
+            "title": "Wasmer 2.0, Its a big deal!",
+            "url": "https://wasmer.io/posts/wasmer-2.0",
+            "content": "WebAssembly RuntimeのWasmer　２．０リリース。\nSIMD、Reference Typesへの対応、パフォーマンスの改善など。",
+            "tags": [
+                "WebAssembly",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 2.0.0 · wasmerio/wasmer",
+                    "url": "https://github.com/wasmerio/wasmer/releases/tag/2.0.0"
+                }
+            ]
         }
     ]
 }
