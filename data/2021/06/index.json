@@ -546,14 +546,15 @@
             ]
         },
         {
-            "date": "2021-06-17T13:25:02.375Z",
+            "date": "2021-06-17T13:25:21.633Z",
             "title": "Release v1.0.0 · pmndrs/jotai",
             "url": "https://github.com/pmndrs/jotai/releases/tag/v1.0.0",
-            "content": "ステート管理ライブラリのJotai 1.0.0リリース。\n",
+            "content": "React向けのステート管理ライブラリのJotai 1.0.0リリース。\n",
             "tags": [
                 "JavaScript",
                 "library",
-                "ReleaseNote"
+                "ReleaseNote",
+                "React"
             ],
             "relatedLinks": []
         }
