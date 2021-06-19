@@ -597,6 +597,26 @@
                     "url": "https://nextjs.org/docs/basic-features/eslint"
                 }
             ]
+        },
+        {
+            "date": "2021-06-19T13:55:56.722Z",
+            "title": "Release Notes for Safari Technology Preview 126 with Safari 15 Features | WebKit",
+            "url": "https://webkit.org/blog/11727/release-notes-for-safari-technology-preview-126-with-safari-15-features/",
+            "content": "Safari Technology Preview 126リリース。\nSafari 15相当の変更を含む。\n`autocomplete=one-time-code`の対応、`theme-color`と`media`のサポート。\nJavaScriptではTop-Level `await`、WorkerでのESMサポート、Error Causeのサポートなど。\nMediaSession API、iPadでVP9とWebMのハードウェアアクセラレーションが有効化、WebMでOpusコーデックをサポートなど。\nWebAssemblyのStreaming compilationとReference typesのサポートなど。\nまた、WebGL 2とWeb Share Level 2のサポートなど。\nその他には、iOSとiPadOSでSafariの拡張をサポートし、`declarativeNetRequest` APIの実装など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Safari 15 Beta Release Notes | Apple Developer Documentation",
+                    "url": "https://developer.apple.com/documentation/Safari-Release-Notes/safari-15-beta-release-notes"
+                },
+                {
+                    "title": "tc39/proposal-error-cause: TC39 proposal for accumulating errors",
+                    "url": "https://github.com/tc39/proposal-error-cause"
+                }
+            ]
         }
     ]
 }
