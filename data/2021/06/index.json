@@ -629,6 +629,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-20T13:15:18.325Z",
+            "title": "Tailwind CSS v2.2 – Tailwind CSS",
+            "url": "https://blog.tailwindcss.com/tailwindcss-2-2",
+            "content": "Tailwind CSS v2.2リリース。\nJITモードの変更、CLIの書き直して`--watch`などのサポート。\nJITモードで、`before`/`after`/ `first-letter`/`first-line`などの疑似要素のサポート。\nまた、`selection`や`mark` variantのサポート、`color:`などのtypeをつけることで柔軟な値指定ができるようになるなど",
+            "tags": [
+                "CSS",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v2.2.0 · tailwindlabs/tailwindcss",
+                    "url": "https://github.com/tailwindlabs/tailwindcss/releases/tag/v2.2.0#changes-and-deprecations"
+                }
+            ]
         }
     ]
 }
