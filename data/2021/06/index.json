@@ -659,6 +659,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-21T13:21:39.792Z",
+            "title": "A Visual Guide to NodeJS Streams. In NodeJS, stream module provides the… | by Deepal Jayasekara | Jun, 2021 | Deepal’s Blog",
+            "url": "https://blog.insiderattack.net/a-visual-guide-to-nodejs-streams-9d2d594a9bf5",
+            "content": "Node.jsのStreamについての解説記事。\nReaable. Writable, Duplex, Transform,  Piping Streamについてそれぞれ図とともに動作を紹介している。\nまた、back pressureとhighWaterMarkについて",
+            "tags": [
+                "node.js",
+                "stream",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
