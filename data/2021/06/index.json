@@ -671,6 +671,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-21T13:40:13.773Z",
+            "title": "plexinc/papr: MongoDB TypeScript-aware Models",
+            "url": "https://github.com/plexinc/papr",
+            "content": "Type SafeなMongoDB向けのモデルライブラリ。",
+            "tags": [
+                "TypeScript",
+                "MongoDB",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Papr: Type-safe Node.js models for MongoDB | Plex Labs",
+                    "url": "https://medium.com/plexlabs/papr-type-safe-node-js-models-for-mongodb-c841e8b23429"
+                }
+            ]
         }
     ]
 }
