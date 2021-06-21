@@ -646,6 +646,19 @@
                     "url": "https://github.com/tailwindlabs/tailwindcss/releases/tag/v2.2.0#changes-and-deprecations"
                 }
             ]
+        },
+        {
+            "date": "2021-06-21T12:37:30.282Z",
+            "title": "Release 3.15.0 - 2021.06.21 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.15.0",
+            "content": "core-js 3.15.0リリース。\nRegExpのnamed capture group、`dotAll`フラグのサポート、組み込み用のJavaScriptエンジン向けなどにAnnex Bの機能polyfillを追加など",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
