@@ -699,6 +699,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-22T00:29:31.048Z",
+            "title": "Benchmarking JavaScript Memory Usage - WebPageTest Blog",
+            "url": "https://blog.webpagetest.org/posts/benchmarking-javascript-memory-usage/",
+            "content": "`performance.measureUserAgentSpecificMemory()`でのメモリ使用量の取得と他のメトリクスとメモリ使用量に相関についての記事。\nページロード時においての、JavaScriptのサイズがメモリ使用量と相関関係の調査、各種フレームワークを利用しているサイトごとのメモリ使用量の調査など",
+            "tags": [
+                "JavaScript",
+                "article",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
