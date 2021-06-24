@@ -741,6 +741,18 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-24T13:20:49.855Z",
+            "title": "Release 3.0.0 · developit/mitt",
+            "url": "https://github.com/developit/mitt/releases/tag/3.0.0",
+            "content": "Event EmitterライブラリのMitt 3.0リリース。\n`.off(type)`で同じtypeのすべてのlistenersを消せるように、TypeScriptの型の改善、`exports`フィールドの対応",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
