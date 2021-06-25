@@ -771,6 +771,19 @@
                     "url": "https://storybook.js.org/blog/storybook-for-vite/"
                 }
             ]
+        },
+        {
+            "date": "2021-06-25T00:18:37.710Z",
+            "title": "An updated timeline for Privacy Sandbox milestones",
+            "url": "https://blog.google/products/chrome/updated-timeline-privacy-sandbox-milestones/",
+            "content": "ChromeのPrivacy Sandboxのマイルストーン更新。\nサードパーティCookieの廃止は二段階で、2022後半に移行APIをリリースし、2023年半ばからサードパーティCookieを段階的に廃止していく予定。",
+            "tags": [
+                "Chrome",
+                "security",
+                "privacy",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
