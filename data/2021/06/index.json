@@ -753,6 +753,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-25T00:11:46.726Z",
+            "title": "Storybook 6.3",
+            "url": "https://storybook.js.org/blog/storybook-6-3/",
+            "content": "Storybook 6.3リリース。\nメジャー、アウトラインなどの視覚的なデバッグ機能の追加、`@storybook/testing-vue`と`@storybook/testing-react`でのテストのサポート。\nAngular 12、Lit 2のサポート、webpack 5のサポートのStable化、Viteのサポート。\n`--modern`モードでESMでの実行できるようになるなど",
+            "tags": [
+                "JavaScript",
+                "debug",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Storybook for Vite",
+                    "url": "https://storybook.js.org/blog/storybook-for-vite/"
+                }
+            ]
         }
     ]
 }
