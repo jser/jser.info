@@ -870,6 +870,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-28T13:58:28.317Z",
+            "title": "uhyo/eslint-plugin-import-access",
+            "url": "https://github.com/uhyo/eslint-plugin-import-access",
+            "content": "JSDocの`@package`相当のチェックをするESLintルール",
+            "tags": [
+                "TypeScript",
+                "ESLint",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "eslint-plugin-import-accessではじめるディレクトリ単位カプセル化",
+                    "url": "(https://zenn.dev/uhyo/articles/eslint-plugin-import-access)"
+                }
+            ]
         }
     ]
 }
