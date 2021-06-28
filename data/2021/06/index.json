@@ -807,6 +807,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-28T12:53:38.785Z",
+            "title": "Release 7.6.0 · cypress-io/cypress",
+            "url": "https://github.com/cypress-io/cypress/releases/tag/v7.6.0",
+            "content": "Cypress 7.6.0リリース。\n`.type()`のデフォルトdelayを変更できるように、`cypress open`の改善、`cy.intercept`の`req`に`query`プロパティの追加。\nwebpack 5でハングしないように、`cy.intercept`でのマルチバイトの問題の修正など",
+            "tags": [
+                "E2E",
+                "browser",
+                "testing",
+                "ReleaseNote",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
