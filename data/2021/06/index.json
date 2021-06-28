@@ -834,6 +834,18 @@
                 "jsx"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-28T13:18:57.060Z",
+            "title": "npm/libnpmexec: npm exec (npx) Programmatic API",
+            "url": "https://github.com/npm/libnpmexec",
+            "content": "`npx exec`相当の処理をするライブラリ",
+            "tags": [
+                "npm",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
