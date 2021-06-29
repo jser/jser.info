@@ -919,6 +919,19 @@
                 "module"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-06-29T00:27:39.995Z",
+            "title": "Temporal: getting started with JavaScript’s new date time API",
+            "url": "https://2ality.com/2021/06/temporal-api.html",
+            "content": "ECMAScript Proposal Stage 3のTemporalについての解説記事。\nTimes、Time zones、Calendarsの概念について、基本的なTemporal APIの使い方、ユースケースごとの使い方についてなど",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "proposal",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
