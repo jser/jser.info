@@ -905,6 +905,20 @@
                     "url": "https://efcl.info/2021/06/28/jsprimer-3.0/"
                 }
             ]
+        },
+        {
+            "date": "2021-06-29T00:08:08.531Z",
+            "title": "Release v5.41.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v5.41.0",
+            "content": "webpack 5.41.0リリース。\n`experiments.outputModule: true`の実験フラグで、ECMAScript Modules形式の出力、Dynamic Importを使ったchunk読み込みなどの基本的な実装",
+            "tags": [
+                "webpack",
+                "library",
+                "ReleaseNote",
+                "ECMAScript",
+                "module"
+            ],
+            "relatedLinks": []
         }
     ]
 }
