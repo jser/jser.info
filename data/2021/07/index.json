@@ -37,6 +37,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-04T02:57:23.324Z",
+            "title": "Announcing TypeScript 4.4 Beta | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-4-beta/",
+            "content": "TypeScript 4.4 Betaリリース。 Control Flow Analysisの改善、Index SignaturesにSymbolやTemplate Stringを利用できるように。\nCatch節のデフォルトを`unknown`型にする`useUnknownInCatchVariables`オプションの追加。\noptionalと`undefined`値の区別をする`exactOptionalPropertyTypes`オプションの追加。\ndeclarationの生成や`strict`モードでのビルドパフォーマンスの改善も含まれている",
+            "tags": [
+                "Prototype.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
