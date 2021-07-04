@@ -60,6 +60,18 @@
                 "polyfill"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-04T12:03:13.657Z",
+            "title": "RenderingNG - Chrome Developers",
+            "url": "https://developer.chrome.com/blog/renderingng/",
+            "content": "ChromeのレンダリングエンジンであるBlinkの新しいアーキテクチャであるRenderingNGの主要プロジェクトのまとめ記事。\nCompositeAfterPaint、LayoutNG、BlinkNG、Viz、OffscreenCanvas、VideoNGなどについて",
+            "tags": [
+                "Chrome",
+                "blink",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
