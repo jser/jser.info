@@ -24,6 +24,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-04T02:55:17.966Z",
+            "title": "Release Support caching dependencies and LTS aliases · actions/setup-node",
+            "url": "https://github.com/actions/setup-node/releases/tag/v2.2.0",
+            "content": "`actions/setup-node` 2.2.0リリース。 `lts/*`などのLTS構文のサポート、`cache`オプションで`npm`と`yarn`での依存キャッシュをサポートなど",
+            "tags": [
+                "Github",
+                "Actions",
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
