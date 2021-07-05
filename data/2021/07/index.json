@@ -135,6 +135,17 @@
                     "url": "https://github.com/joeltg/react-dataflow-editor"
                 }
             ]
+        },
+        {
+            "date": "2021-07-05T22:09:01.466Z",
+            "title": "Encoding data for POST requests - JakeArchibald.com",
+            "url": "https://jakearchibald.com/2021/encoding-data-for-post-requests/",
+            "content": "Fetchのbodyに安全にエンコードしたデータを渡す方法について。\n`URLSearchParams`、`FormData`、`blob`、JSONを使った方法について紹介している",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
