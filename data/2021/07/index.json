@@ -148,17 +148,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-07-05T22:14:16.504Z",
-            "title": "vuejs/petite-vue: 5kb subset of Vue optimized for progressive enhancement",
-            "url": "https://github.com/vuejs/petite-vue",
-            "content": "VueサブセットのAPIとテンプレートをもったライブラリ。\nファイルサイズを小さくすることを目的にしている。",
-            "tags": [
-                "Vue",
-                "library"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2021-07-05T22:18:13.021Z",
             "title": "Image To Text Conversion With React And Tesseract.js (OCR) — Smashing Magazine",
             "url": "https://www.smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
@@ -185,6 +174,18 @@
                     "url": "https://vitejs.dev/guide/assets.html#the-public-directory"
                 }
             ]
+        },
+        {
+            "date": "2021-07-05T22:34:31.394Z",
+            "title": "vuejs/petite-vue: 5kb subset of Vue optimized for progressive enhancement",
+            "url": "https://github.com/vuejs/petite-vue",
+            "content": "VueサブセットのAPIとテンプレートをもったライブラリ。\nファイルサイズを小さくすることを目的にしている。",
+            "tags": [
+                "Vue",
+                "library",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
