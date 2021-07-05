@@ -83,6 +83,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-05T18:43:02.971Z",
+            "title": "Migrating from Capybara to Puppeteer - Engineering Blog - Wealthfront",
+            "url": "https://eng.wealthfront.com/2021/06/25/migrating-from-capybara-to-puppeteer/",
+            "content": "E2EテストをCapybaraからPuppeteerに移行した話。\nE2Eテストフレームワークの選択と、移行する目的であった実行時間の短縮について",
+            "tags": [
+                "puppeteer",
+                "Chrome",
+                "testing",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
