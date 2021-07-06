@@ -186,6 +186,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-06T13:38:53.483Z",
+            "title": "How does Node.js load its built-in/native modules? | Joyee Cheung's Blog",
+            "url": "https://joyeecheung.github.io/blog/2021/07/06/how-does-node-js-load-its-builtins-native-modules/",
+            "content": "Node.js内のJavaScriptで書かれたビルトインモジュールは、Node.jsバイナリにどのように保存されて読み込まれているかについて。\nバイナリファイルの読み取り専用のデータセクションに保存されており、bootstrapでV8を使ってコンパイルやSnapshotsを扱う仕組みをもっている。",
+            "tags": [
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
