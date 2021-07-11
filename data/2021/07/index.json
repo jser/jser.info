@@ -248,6 +248,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-11T14:26:05.143Z",
+            "title": "Resource inlining in JavaScript frameworks",
+            "url": "https://web.dev/aurora-resource-inlining/",
+            "content": "Next.jsとAngularのGoogle FontsのCritical CSSのインライン化について。\nFontをロードするCSSをインライン化することでCLSの最適化ができるという話",
+            "tags": [
+                "Next.js",
+                "Angular",
+                "CSS",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
