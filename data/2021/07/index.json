@@ -236,10 +236,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-07-11T14:10:30.191Z",
+            "date": "2021-07-11T14:11:55.947Z",
             "title": "npm audit: Broken by Design — Overreacted",
             "url": "https://overreacted.io/npm-audit-broken-by-design/",
-            "content": "devDependenciesとして使うツールにおけるnpm auditの報告がReDoSの脆弱性になってしまっている問題について。\n本番で動くdependenciesのみをチェックする`npm audit --production`、公開するパッケージをインライン化する方法、エコシステム的な問題提起など",
+            "content": "devDependenciesとして使うツールにおけるnpm auditの報告がReDoSの脆弱性になってしまっている問題について。\n本番で動くdependenciesのみをチェックする`npm audit --production`、公開するパッケージをインライン化する方法とその問題、エコシステムへの問題提起的な記事",
             "tags": [
                 "npm",
                 "node.js",
