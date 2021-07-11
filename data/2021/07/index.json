@@ -222,6 +222,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-11T13:50:33.720Z",
+            "title": "Release v8.0.0 · nestjs/nest",
+            "url": "https://github.com/nestjs/nest/releases/tag/v8.0.0",
+            "content": "Nest.js 8.0.0リリース。\nLoggerクラスの改善、API Versioningのサポートなど",
+            "tags": [
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
