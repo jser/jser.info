@@ -236,20 +236,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-07-11T14:11:55.947Z",
-            "title": "npm audit: Broken by Design — Overreacted",
-            "url": "https://overreacted.io/npm-audit-broken-by-design/",
-            "content": "devDependenciesとして使うツールにおけるnpm auditの報告がReDoSの脆弱性になってしまっている問題について。\n本番で動くdependenciesのみをチェックする`npm audit --production`、公開するパッケージをインライン化する方法とその問題、エコシステムへの問題提起的な記事",
-            "tags": [
-                "npm",
-                "node.js",
-                "library",
-                "opinion",
-                "article"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2021-07-11T14:26:05.143Z",
             "title": "Resource inlining in JavaScript frameworks",
             "url": "https://web.dev/aurora-resource-inlining/",
@@ -259,6 +245,20 @@
                 "Angular",
                 "CSS",
                 "performance",
+                "article"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2021-07-12T02:26:07.656Z",
+            "title": "npm audit: Broken by Design — Overreacted",
+            "url": "https://overreacted.io/npm-audit-broken-by-design/",
+            "content": "devDependenciesとして使うツールにおけるnpm auditの報告のほとんどがReDoSの脆弱性になってしまっている問題について。\n本番で動くdependenciesのみをチェックする`npm audit --production`、公開するパッケージをインライン化する方法とその問題、エコシステムへの問題提起的な記事",
+            "tags": [
+                "npm",
+                "node.js",
+                "library",
+                "opinion",
                 "article"
             ],
             "relatedLinks": []
