@@ -337,6 +337,24 @@
                     "url": "https://github.com/tc39/proposal-decorators"
                 }
             ]
+        },
+        {
+            "date": "2021-07-13T05:25:41.893Z",
+            "title": "Release 8.9.2 · mermaid-js/mermaid",
+            "url": "https://github.com/mermaid-js/mermaid/releases/tag/8.9.2",
+            "content": "mermaid 8.9.2で `%%{init: {<JSON_OBJECT>}}%%` の設定記法を使ったXSS脆弱性とPrototype pollutionの脆弱性が修正されている。",
+            "tags": [
+                "JavaScript",
+                "diagram",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "#1106238 Client-Side DOS via Mermaid Prototype Pollution vulnerability",
+                    "url": "https://hackerone.com/reports/1106238"
+                }
+            ]
         }
     ]
 }
