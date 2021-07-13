@@ -356,6 +356,23 @@
                     "url": "https://hackerone.com/reports/1106238"
                 }
             ]
+        },
+        {
+            "date": "2021-07-13T15:05:21.145Z",
+            "title": "Firefox 90 supports Fetch Metadata Request Headers - Mozilla Security Blog",
+            "url": "https://blog.mozilla.org/security/2021/07/12/firefox-90-supports-fetch-metadata-request-headers/",
+            "content": "Firefox 90でFetch Metadata Request Headersをサポート。\n`Sec-Fetch-Site`などの`Sec-Fetch-*`のリクエストヘッダをサポートしている",
+            "tags": [
+                "Firefox",
+                "security",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Protect your resources from web attacks with Fetch Metadata",
+                    "url": "https://web.dev/fetch-metadata/"
+                }
+            ]
         }
     ]
 }
