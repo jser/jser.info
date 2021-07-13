@@ -395,10 +395,10 @@
             ]
         },
         {
-            "date": "2021-07-13T15:18:50.220Z",
+            "date": "2021-07-13T15:19:06.896Z",
             "title": "Release 2.27.0 · prisma/prisma",
             "url": "https://github.com/prisma/prisma/releases/tag/2.27.0",
-            "content": "Node.js向けのORMであるPrima 2.27.0リリース。\nMongoDBをプレビューサポート、M1 Macのサポート、pnpmでインストールできない問題を修正など",
+            "content": "Node.js向けのORMであるPrisma 2.27.0リリース。\nMongoDBをプレビューサポート、M1 Macのサポート、pnpmでインストールできない問題を修正など",
             "tags": [
                 "TypeScript",
                 "node.js",
