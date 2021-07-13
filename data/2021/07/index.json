@@ -319,6 +319,24 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-13T03:10:38.264Z",
+            "title": "Javascript Decorators",
+            "url": "https://javascriptdecorators.org/",
+            "content": "ECMAScript ProposalのDecoratorsを試せるPlaygroundツール",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "proposal",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "tc39/proposal-decorators: Decorators for ES6 classes",
+                    "url": "https://github.com/tc39/proposal-decorators"
+                }
+            ]
         }
     ]
 }
