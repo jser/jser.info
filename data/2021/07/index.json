@@ -449,6 +449,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-16T08:14:59.662Z",
+            "title": "mrbbot/miniflare: 🔥 Fully-local Cloudflare Workers Simulator",
+            "url": "https://github.com/mrbbot/miniflare",
+            "content": "Cloudflare Workersのローカルで動くシミュレータツール。\nローカル開発時に`wrangler dev`の代わりとして利用できる",
+            "tags": [
+                "cloudflare",
+                "debug"
+            ],
+            "relatedLinks": []
         }
     ]
 }
