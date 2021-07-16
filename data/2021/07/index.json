@@ -460,6 +460,17 @@
                 "debug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-16T21:01:53.607Z",
+            "title": "Release v7.20.0 · npm/cli",
+            "url": "https://github.com/npm/cli/releases/tag/v7.20.0",
+            "content": "npm 7.20.0リリース。\n`package.json`の値を読み書きできる`npm pkg`コマンドの追加、`npm config`に`--location`フラグの追加など",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
