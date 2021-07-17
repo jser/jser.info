@@ -471,6 +471,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-17T00:42:55.510Z",
+            "title": "Release v6.0.0 · riot/riot",
+            "url": "https://github.com/riot/riot/releases/tag/v6.0.0",
+            "content": "Riot.js 6.0.0リリース。\nTypeScriptでcastがエラーとなる問題の修正、より厳密な型定義へ変更など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
