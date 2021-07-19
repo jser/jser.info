@@ -544,6 +544,18 @@
                     "url": "https://www.mongodb.com/blog/post/launched-today-mongodb-5-0-serverless-atlas-evolution-application-data-platform"
                 }
             ]
+        },
+        {
+            "date": "2021-07-19T13:16:10.897Z",
+            "title": "The Road to Ember 4.0",
+            "url": "https://blog.emberjs.com/the-road-to-ember-4-0/",
+            "content": "Ember 4.0のロードマップについて。\nEmber 4は2021年9月20日にリリース予定。\nEmberのメジャーアップデートには新しい機能は含まないため、DeprecatedなAPIの削除、Ember Classicが廃止となりOctaneへのアップデートを推奨。\nまた、IEのサポートを終了予定。",
+            "tags": [
+                "Ember",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
