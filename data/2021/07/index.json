@@ -526,6 +526,24 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-19T12:58:52.314Z",
+            "title": "Release v4.0.0 · mongodb/node-mongodb-native",
+            "url": "https://github.com/mongodb/node-mongodb-native/releases/tag/v4.0.0",
+            "content": "MongoDB Node.js Driver 4.0リリース。\nMongoDB 5.0をサポート。\nTime Series Collectionsをサポート、SecondaryでSnapshotの読み取りをサポートなど",
+            "tags": [
+                "node.js",
+                "MongoDB",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Launched Today: MongoDB 5.0, Serverless Atlas, and the Evolution of our Application Data Platform | MongoDB",
+                    "url": "https://www.mongodb.com/blog/post/launched-today-mongodb-5-0-serverless-atlas-evolution-application-data-platform"
+                }
+            ]
         }
     ]
 }
