@@ -573,6 +573,17 @@
                     "url": "https://k6.io/blog/joining-grafana-labs/"
                 }
             ]
+        },
+        {
+            "date": "2021-07-19T13:55:27.448Z",
+            "title": "The performance effects of too much lazy-loading",
+            "url": "https://web.dev/lcp-lazy-loading/",
+            "content": "HTTP Archiveのデータによる`loading=lazy`はウェブサイトの17%で使われていて、その大部分はWordPressのサイトとなっている。\nWordPressのサイトはLazy LoadingをAbove the foldな画像に対しても行っていたため、Lazy Loadしない場合に比べてLCPが悪化している問題について。",
+            "tags": [
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
