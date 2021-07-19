@@ -556,6 +556,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-19T13:20:52.508Z",
+            "title": "grafana/k6: A modern load testing tool, using Go and JavaScript - https://k6.io",
+            "url": "https://github.com/grafana/k6",
+            "content": "GoとJavaScriptを使った負荷テストツール。\nJavaScriptでスクリプトを書いて、負荷/性能テストができる。",
+            "tags": [
+                "golang",
+                "JavaScript",
+                "TEST"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Our exciting next step - k6 is now part of Grafana Labs!",
+                    "url": "https://k6.io/blog/joining-grafana-labs/"
+                }
+            ]
         }
     ]
 }
