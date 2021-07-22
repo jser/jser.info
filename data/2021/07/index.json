@@ -596,6 +596,23 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-22T08:18:27.953Z",
+            "title": "Tak-Iwamoto/ptera: Ptera is DateTime library for Deno",
+            "url": "https://github.com/Tak-Iwamoto/ptera",
+            "content": "Deno向けの日付操作ライブラリ",
+            "tags": [
+                "deno",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "DenoのDateTimeライブラリPteraをリリースしました",
+                    "url": "https://zenn.dev/tak_iwamoto/articles/8b32b27bd577b1"
+                }
+            ]
         }
     ]
 }
