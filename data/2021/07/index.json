@@ -613,6 +613,18 @@
                     "url": "https://zenn.dev/tak_iwamoto/articles/8b32b27bd577b1"
                 }
             ]
+        },
+        {
+            "date": "2021-07-24T02:07:51.811Z",
+            "title": "ajitid/fzf-for-js: Do fuzzy matching using FZF algorithm in JavaScript",
+            "url": "https://github.com/ajitid/fzf-for-js",
+            "content": "コマンドラインツール向けの曖昧(あいまい)検索であるFZFのアルゴリズムをJavaScriptに移植したライブラリ",
+            "tags": [
+                "JavaScript",
+                "library",
+                "search"
+            ],
+            "relatedLinks": []
         }
     ]
 }
