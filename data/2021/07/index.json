@@ -663,6 +663,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-26T13:20:49.524Z",
+            "title": "tangramxyz/tangram: Tangram is an all-in-one automated machine learning framework.",
+            "url": "https://github.com/tangramxyz/tangram",
+            "content": "機械学習フレームワーク。\nコマンドラインで学習したモデルを作成し、各種言語のFFIなライブラリから予測ができる。\nJavaScriptにWasmビルドを公開している。\nまたモデルのパフォーマンスダッシュボードをブラウザで見れるようになっている。",
+            "tags": [
+                "MachineLearning",
+                "library",
+                "Rust",
+                "JavaScript",
+                "ruby ",
+                "python",
+                "golang"
+            ],
+            "relatedLinks": []
         }
     ]
 }
