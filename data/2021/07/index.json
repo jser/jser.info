@@ -679,6 +679,19 @@
                 "golang"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-26T14:10:35.718Z",
+            "title": "nicoespeon/abracadabra: Automated refactorings for VS Code (JS & TS) ✨ It's magic ✨",
+            "url": "https://github.com/nicoespeon/abracadabra",
+            "content": "JavaScriptとTypeScriptのリファクタリングを補助するVSCode拡張。\nWebStormのようにコードのQuick Fixを提供シている",
+            "tags": [
+                "VSCode",
+                "refacoring",
+                "plugin",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
