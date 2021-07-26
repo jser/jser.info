@@ -739,6 +739,19 @@
                     "url": "https://github.com/microsoft/vscode-js-debug"
                 }
             ]
+        },
+        {
+            "date": "2021-07-26T14:56:18.231Z",
+            "title": "ちいさな Web ブラウザを作ってみよう",
+            "url": "https://browserbook.shift-js.info/",
+            "content": "Rustでウェブブラウザを作りつつ、ブラウザのレンダリングの仕組み、全体の流れ、セキュリティについて学習する教材。",
+            "tags": [
+                "browser",
+                "book",
+                "Rust",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
