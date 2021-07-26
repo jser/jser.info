@@ -625,6 +625,19 @@
                 "search"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-26T00:59:24.095Z",
+            "title": "ES-Community/nsecure: Node.js security CLI / API that allow you to deeply analyze the dependency tree of a given package / directory",
+            "url": "https://github.com/ES-Community/nsecure",
+            "content": "ディレクトリや特定のパッケージのnpmパッケージへの依存を分析するツール。\nコードをパースして、利用しているnpmパッケージのメタデータ、ライセンス、セキュリティ情報などの一覧を取得する",
+            "tags": [
+                "node.js",
+                "npm",
+                "security",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
