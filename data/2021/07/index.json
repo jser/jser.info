@@ -692,6 +692,22 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-26T14:12:53.913Z",
+            "title": "Version 2.0 released : Node-RED",
+            "url": "https://nodered.org/blog/2021/07/20/version-2-0-released",
+            "content": "IoTデバイスなどを扱うビジュアルプログラミング環境のNode-RED 2.0.0リリース。\n",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 2.0.0: Milestone Release · node-red/node-red",
+                    "url": "https://github.com/node-red/node-red/releases/tag/2.0.0"
+                }
+            ]
         }
     ]
 }
