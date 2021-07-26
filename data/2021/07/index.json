@@ -650,6 +650,19 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-26T12:48:53.346Z",
+            "title": "URLPattern brings routing to the web platform",
+            "url": "https://web.dev/urlpattern/",
+            "content": "path-to-regexpのようにURLのパターンマッチを扱う`URLPattern`オブジェクトについて。\n基本的な使い方、キャプチャ、ブラウザサポートとPolyfillについて",
+            "tags": [
+                "JavaScript",
+                "Chrome",
+                "WebPlatformAPI",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
