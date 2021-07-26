@@ -721,6 +721,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-26T14:34:33.828Z",
+            "title": "Easier browser debugging with Developer Tools integration in Visual Studio Code - Microsoft Edge Blog",
+            "url": "https://blogs.windows.com/msedgedev/2021/07/16/easier-debugging-developer-tools-in-visual-studio-code/",
+            "content": "VSCodeからChromeとMSEdgeのDebuggerに接続するvscode-js-debug拡張について。\nDAP(Debug Adapter Protocol)のProtocol Adapterを使い、VScodeからブラウザのデバッグに接続している。",
+            "tags": [
+                "VSCode",
+                "browser",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "microsoft/vscode-js-debug: The VS Code JavaScript debugger",
+                    "url": "https://github.com/microsoft/vscode-js-debug"
+                }
+            ]
         }
     ]
 }
