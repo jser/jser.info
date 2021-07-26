@@ -776,6 +776,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-26T15:22:00.401Z",
+            "title": "davewasmer/devcert: Local HTTPS development made easy",
+            "url": "https://github.com/davewasmer/devcert",
+            "content": "ローカルで開発用のHTTPSサーバの作成を補助するライブラリ。\n任意のドメインに対する証明書の作成、マシンへのルート証明書のインストールなどローカルでHTTPSサーバを起動するのを補助するツール。",
+            "tags": [
+                "node.js",
+                "SSL",
+                "debug",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
