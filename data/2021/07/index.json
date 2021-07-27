@@ -754,19 +754,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-07-26T15:13:52.321Z",
-            "title": "Fastly Launches New Era of Highly-Secure Serverless JavaScript With Zero Cold Starts | Fastly",
-            "url": "https://www.fastly.com/press/press-releases/fastly-launches-new-era-of-highly-secure-serverless-javascript-with-zero",
-            "content": "FastlyのCompute@EdgeがJavaScriptをサポート",
-            "tags": [
-                "WebAssembly",
-                "cdn",
-                "JavaScript",
-                "article"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2021-07-26T15:18:51.999Z",
             "title": "actuallyakash/spacers: 🔳 when you need more __space__",
             "url": "https://github.com/actuallyakash/spacers",
@@ -789,6 +776,24 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-27T01:37:06.480Z",
+            "title": "Fastly Launches New Era of Highly-Secure Serverless JavaScript With Zero Cold Starts | Fastly",
+            "url": "https://www.fastly.com/press/press-releases/fastly-launches-new-era-of-highly-secure-serverless-javascript-with-zero",
+            "content": "FastlyのCompute@EdgeがJavaScriptをサポート",
+            "tags": [
+                "WebAssembly",
+                "cdn",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "JS on Wasm with Nick Fitzgerald (JS Party #183) |> Changelog",
+                    "url": "https://changelog.com/jsparty/183"
+                }
+            ]
         }
     ]
 }
