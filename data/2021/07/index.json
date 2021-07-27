@@ -794,6 +794,20 @@
                     "url": "https://changelog.com/jsparty/183"
                 }
             ]
+        },
+        {
+            "date": "2021-07-27T12:23:45.760Z",
+            "title": "How to Eliminate Render-Blocking Resources: a Deep Dive",
+            "url": "https://sia.codes/posts/render-blocking-resources/",
+            "content": "レンダリングブロッキングの要素となるJavaScriptとCSSについて。\nレンダリングブロックされるとどのようにパフォーマンスへ影響があるのか、WebPageTestを使った確認方法、レンダリングブロッキングの削除方法についてなど",
+            "tags": [
+                "JavaScript",
+                "CSS",
+                "browser",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
