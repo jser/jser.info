@@ -808,6 +808,19 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-29T00:58:27.708Z",
+            "title": "How do Chrome extensions impact browser performance?",
+            "url": "https://www.debugbear.com/blog/chrome-extension-performance-2021",
+            "content": "ブラウザ拡張がウェブサイトのパフォーマンスにどのように影響を与えているかについての記事。\nCPU負荷、初回のレンダリングへの影響、バックグラウンでのCPU処理、、メモリ消費量。\nまたAdBlocker系とデータ量やメモリ消費量の削減について",
+            "tags": [
+                "browser",
+                "Extension",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
