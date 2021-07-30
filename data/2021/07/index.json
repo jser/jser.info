@@ -847,6 +847,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-30T12:12:39.635Z",
+            "title": "Yarn 3.0 🚀🤖 Performances, ESBuild, Better Patches, ... - DEV Community 👩‍💻👨‍💻",
+            "url": "https://dev.to/arcanis/yarn-3-0-performances-esbuild-better-patches-e07",
+            "content": "Yarn 3.0リリース。\nNode.js 10のサポート終了、`.pnp.cjs`にリネーム、`@yarnpkg/pnpify`を3つのパッケージに分解など。\n`exports`フィールドのサポート、pnpライクなハードリンクのサポート、シェル構文のサポート改善、 ESBuildのサポートなど",
+            "tags": [
+                "yarn",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "berry/CHANGELOG.md at master · yarnpkg/berry",
+                    "url": "https://github.com/yarnpkg/berry/blob/master/CHANGELOG.md#300"
+                }
+            ]
         }
     ]
 }
