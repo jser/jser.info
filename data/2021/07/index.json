@@ -863,6 +863,20 @@
                     "url": "https://github.com/yarnpkg/berry/blob/master/CHANGELOG.md#300"
                 }
             ]
+        },
+        {
+            "date": "2021-07-31T00:28:48.145Z",
+            "title": "arcanis/clipanion: Type-safe CLI library with no runtime dependencies",
+            "url": "https://github.com/arcanis/clipanion",
+            "content": "CLI向けのコマンドライン引数パーサライブラリ。\nネストされたコマンドのサポート、typanionと連携したバリデーション、ヘルプのサポートなど。\nYarnで利用されている。",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "console",
+                "library",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
