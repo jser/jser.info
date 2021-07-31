@@ -890,6 +890,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-31T01:25:25.334Z",
+            "title": "Node v16.6.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v16.6.0/",
+            "content": "Node.js 16.6.0リリース。\nV8 9.2へアップデート、`http2`のセキュリティ修正など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "V8 release v9.2 · V8",
+                    "url": "https://v8.dev/blog/v8-release-92"
+                }
+            ]
         }
     ]
 }
