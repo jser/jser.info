@@ -877,6 +877,19 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-07-31T01:22:56.866Z",
+            "title": "Release 3.16.0 - 2021.07.30 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.16.0",
+            "content": "core.js 3.16.0リリース。\nStage 3の`Array#findLast`、Stage 1の`Array#filterOut`と`Array#groupBy`のサポート。\nDenoのサポートなど",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
