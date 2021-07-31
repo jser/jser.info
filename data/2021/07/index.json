@@ -906,6 +906,19 @@
                     "url": "https://v8.dev/blog/v8-release-92"
                 }
             ]
+        },
+        {
+            "date": "2021-07-31T03:53:04.160Z",
+            "title": "Recoil 0.4 | Recoil",
+            "url": "https://recoiljs.org/blog/2021/07/30/0.4.0-release/",
+            "content": "Recoil 0.4リリース。\nキャッシュポリシーを`cachePolicy_UNSTABLE`で設定できるように、トランザクションをする`useRecoilTransaction_UNSTABLE`で利用できるように。\nTypeScriptの型改善など",
+            "tags": [
+                "React",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
