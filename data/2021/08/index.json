@@ -1,0 +1,22 @@
+{
+    "list": [
+        {
+            "date": "2021-08-01T22:49:20.332Z",
+            "title": "Release Version 16.7.0 · jsdom/jsdom",
+            "url": "https://github.com/jsdom/jsdom/releases/tag/16.7.0",
+            "content": "jsdom 16.7.0リリース。\n`AbortSignal.abort()`のサポート、`getBoundingClientRect()`の返り値に`x`と`y`を追加。\n`<textarea>`の改行コードのノーマライゼーションを仕様に準拠するように変更など",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The WHATWG Blog — Newline normalizations in form submission",
+                    "url": "(https://blog.whatwg.org/newline-normalizations-in-form-submission)"
+                }
+            ]
+        }
+    ]
+}
