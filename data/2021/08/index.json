@@ -29,6 +29,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-02T12:48:15.295Z",
+            "title": "Chromium Blog: Chrome 93: Multi-Screen Window Placement, PWAs as URL Handlers, and More",
+            "url": "https://blog.chromium.org/2021/07/chrome-93-multi-screen-window-placement.html",
+            "content": "Chrome 93 betaリリース。\nOrigin Trialとして`Cross-Origin-Embedder-Policy：credentialless`、URL Handlersの追加など。\n`AbortSignal.abort()`メソッドのサポート、Stage 3のError causeと`Object.hasOwn`のサポート。\nClient Hint Headerの`Sec-CH-Prefers-Color-Scheme`の追加やUA Client Hintの更新など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
