@@ -42,10 +42,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-08-02T14:12:43.461Z",
+            "date": "2021-08-03T00:49:54.645Z",
             "title": "1065085 - Implement window.{alert, prompt, confirm} removal from cross-origin iframes - chromium",
             "url": "https://bugs.chromium.org/p/chromium/issues/detail?id=1065085",
-            "content": "Chrome 92でcross origin iframeからのalert/dialog/promptが無効化された。\n回避方法として、Chrome 95まで有効なopt-out Origin Trial、ダイアログUIを自作する方法、postMessageを使って親ドキュメントでダイアログを出す方法など。",
+            "content": "Chrome 92でcross origin iframeからのalert/dialog/promptが無効化された。\n回避方法として、Chrome 96まで有効なReverse Origin Trial、ダイアログUIを自作する方法、postMessageを使って親ドキュメントでダイアログを出す方法など。",
             "tags": [
                 "Chrome",
                 "security",
@@ -72,6 +72,10 @@
                 {
                     "title": "Intent to Remove: Cross origin subframe JS Dialogs",
                     "url": "https://groups.google.com/a/chromium.org/g/blink-dev/c/hTOXiBj3D6A/m/gFXmgIz9AwAJ"
+                },
+                {
+                    "title": "Cross Origin iframe からの alert/confirm/prompt 呼び出しの無効化 | blog.jxck.io",
+                    "url": "https://blog.jxck.io/entries/2021-08-02/3rd-party-iframe-dialog.html"
                 }
             ]
         }
