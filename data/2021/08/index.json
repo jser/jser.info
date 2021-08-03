@@ -1,24 +1,6 @@
 {
     "list": [
         {
-            "date": "2021-08-01T22:49:20.332Z",
-            "title": "Release Version 16.7.0 · jsdom/jsdom",
-            "url": "https://github.com/jsdom/jsdom/releases/tag/16.7.0",
-            "content": "jsdom 16.7.0リリース。\n`AbortSignal.abort()`のサポート、`getBoundingClientRect()`の返り値に`x`と`y`を追加。\n`<textarea>`の改行コードのノーマライゼーションを仕様に準拠するように変更など",
-            "tags": [
-                "JavaScript",
-                "DOM",
-                "library",
-                "ReleaseNote"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "The WHATWG Blog — Newline normalizations in form submission",
-                    "url": "(https://blog.whatwg.org/newline-normalizations-in-form-submission)"
-                }
-            ]
-        },
-        {
             "date": "2021-08-02T12:42:13.660Z",
             "title": "WebView2 and Electron | Electron Blog",
             "url": "https://www.electronjs.org/blog/webview2",
@@ -101,6 +83,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-03T03:37:22.929Z",
+            "title": "Release Version 16.7.0 · jsdom/jsdom",
+            "url": "https://github.com/jsdom/jsdom/releases/tag/16.7.0",
+            "content": "jsdom 16.7.0リリース。\n`AbortSignal.abort()`のサポート、`getBoundingClientRect()`の返り値に`x`と`y`を追加。\n`<textarea>`の改行コードのノーマライゼーションを仕様に準拠するように変更など",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The WHATWG Blog — Newline normalizations in form submission",
+                    "url": "https://blog.whatwg.org/newline-normalizations-in-form-submission"
+                }
+            ]
         }
     ]
 }
