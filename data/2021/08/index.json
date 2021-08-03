@@ -78,6 +78,17 @@
                     "url": "https://blog.jxck.io/entries/2021-08-02/3rd-party-iframe-dialog.html"
                 }
             ]
+        },
+        {
+            "date": "2021-08-03T01:52:35.210Z",
+            "title": "crcn/sift.js: Use Mongodb queries in JavaScript",
+            "url": "https://github.com/crcn/sift.js",
+            "content": "JavaScriptのオブジェクトに対してMongoDB Queryライクな構文や演算子で検索できるライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
