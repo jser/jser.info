@@ -145,6 +145,18 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-07T15:32:00.941Z",
+            "title": "Super Duper Secure Mode | Microsoft Browser Vulnerability Research",
+            "url": "https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/",
+            "content": "V8のCVEのうち45%がJITに関連するものであり、それを防ぐためのJIT lessモードであるSuper Duper Secure Mode（SDSM）について。\nJITのありなしでのパフォーマンスの違いについてなど",
+            "tags": [
+                "MSEdge",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
