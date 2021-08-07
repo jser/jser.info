@@ -101,6 +101,22 @@
                     "url": "https://blog.whatwg.org/newline-normalizations-in-form-submission"
                 }
             ]
+        },
+        {
+            "date": "2021-08-07T13:24:16.756Z",
+            "title": "Release v5.49.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v5.49.0",
+            "content": "webpack 5.49.0リリース。\nimportでhttp(s)なURLをモジュールを読み込める`experiments.buildHttp`オプションの追加。\nダウンロードしたモジュールは`webpack.lock.data/**`以下に保存され、`webpack.lock`でのロックファイルで管理される。",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "add `experiments.buildHttp` by sokra · Pull Request #13925 · webpack/webpack",
+                    "url": "https://github.com/webpack/webpack/pull/13925"
+                }
+            ]
         }
     ]
 }
