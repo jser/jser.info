@@ -117,6 +117,22 @@
                     "url": "https://github.com/webpack/webpack/pull/13925"
                 }
             ]
+        },
+        {
+            "date": "2021-08-07T13:36:19.546Z",
+            "title": "Release v6.12.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v6.12.0",
+            "content": "pnpm 6.12.0リリース。\n`pnpm env use --global <version>`でNode.jsをインストールして利用できるように。\nNode.jsのバージョン管理ツールとしてpnpmを利用できるように",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Using pnpm as a Node.js version manager · Discussion #3434 · pnpm/pnpm",
+                    "url": "https://github.com/pnpm/pnpm/discussions/3434"
+                }
+            ]
         }
     ]
 }
