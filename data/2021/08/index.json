@@ -168,6 +168,18 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-07T15:53:12.021Z",
+            "title": "Replacing Sass · Discussion #44 · Shopify/polaris",
+            "url": "https://github.com/Shopify/polaris/discussions/44",
+            "content": "ShopifyのDesign SystemであるPolarisにおけるCSSフレームワークの選定についての議論。\nSassを置き換えるためにTailwind CSS、CSS Modules、Stitches、vanilla-extractを比較している。\nvanilla-extractを有力候補として選択している。",
+            "tags": [
+                "CSS",
+                "opinion",
+                "issue"
+            ],
+            "relatedLinks": []
         }
     ]
 }
