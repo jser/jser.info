@@ -157,6 +157,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-07T15:50:17.524Z",
+            "title": "Preact 2021 - What if? @Trivago - Google スライド",
+            "url": "https://docs.google.com/presentation/d/1sZyETbDiacqAznlEGEpfyPz0q37Q-12bOB5Mq3OtyKQ/edit#slide=id.p",
+            "content": "Preactの今後についてのスライド。\nIEのサポートを切ってworkaroundsコードの削除、再帰ではなくループを使うことでコールスタックの改善、コマンドパターンでの処理といった新しいレンダラーの構想について。\ndeoptimizationをなくすことでパフォーマンスを改善していく",
+            "tags": [
+                "React",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
