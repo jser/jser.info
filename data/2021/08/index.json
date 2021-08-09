@@ -213,6 +213,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-09T15:22:57.703Z",
+            "title": "Release V1.1.0 - Interrupting Cow · solidjs/solid",
+            "url": "https://github.com/solidjs/solid/releases/tag/v1.1.0",
+            "content": "Solid 1.1.0リリース。\nhydrateに対応した`createUniqueId`の追加、ObservableなどをSignalに変換する`from`の追加。\n`enabledScheduling`でConcurrent RenderingとTransition時の割り込み処理のサポート、`startTransition`の追加など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
