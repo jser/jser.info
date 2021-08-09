@@ -201,6 +201,18 @@
                     "url": "https://github.com/webpack/webpack/projects/9"
                 }
             ]
+        },
+        {
+            "date": "2021-08-09T14:11:13.503Z",
+            "title": "V8 release v9.3 · V8",
+            "url": "https://v8.dev/blog/v8-release-93",
+            "content": "V8 9.3リリース。\nJITコンパイラのSparkplugにBatch Compilationを導入してコンパイル速度の改善。\n`Object.hasOwn`、Error Causeのサポートなど",
+            "tags": [
+                "V8",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
