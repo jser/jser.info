@@ -225,6 +225,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-10T01:37:42.202Z",
+            "title": "Vue 3.2 Released! | The Vue Point",
+            "url": "https://blog.vuejs.org/posts/vue-3.2.html",
+            "content": "Vue 3.2リリース。\n`<script setup>`と`<style>`での`v-bind`をStableに変更、`defineCustomElement`でCustom Elementを作成できるようになる。\nまたRuntimeとCompileのパフォーマンス改善、Node.js環境に依存しないSSRのStream APIの追加など",
+            "tags": [
+                "Vue",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "vue-next/CHANGELOG.md at master · vuejs/vue-next",
+                    "url": "(https://github.com/vuejs/vue-next/blob/master/CHANGELOG.md#320-2021-08-09)"
+                }
+            ]
         }
     ]
 }
