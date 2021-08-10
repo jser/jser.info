@@ -241,6 +241,18 @@
                     "url": "(https://github.com/vuejs/vue-next/blob/master/CHANGELOG.md#320-2021-08-09)"
                 }
             ]
+        },
+        {
+            "date": "2021-08-10T02:54:15.772Z",
+            "title": "JavaScript needs more helper functions for iteration (map, filter, etc.) – where should we put them?",
+            "url": "https://2ality.com/2021/08/iteration-helpers.html",
+            "content": "IterableなオブジェクトをIterationするためのアプローチについての記事",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
