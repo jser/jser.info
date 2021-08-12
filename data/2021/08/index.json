@@ -297,6 +297,17 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/91"
                 }
             ]
+        },
+        {
+            "date": "2021-08-12T21:54:20.102Z",
+            "title": "Blog - Next.js 11.1 | Next.js",
+            "url": "https://nextjs.org/blog/next-11-1",
+            "content": "Next.js 11.1リリース。\nオープンリダイレクタの脆弱性の修正、experimentalでNode.jsのESMをサポート、Rust製のJS/TSコンパイラのSWCを利用できるようになるなど。\n`node-fetch`のkeepAliveをデフォルトで有効化、Source Map/ESLint/`next/image`の改善など",
+            "tags": [
+                "Next.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
