@@ -265,6 +265,18 @@
                     "url": "https://github.com/vuejs/vue-next/blob/master/CHANGELOG.md#320-2021-08-09"
                 }
             ]
+        },
+        {
+            "date": "2021-08-12T04:46:17.248Z",
+            "title": "August 2021 Security Releases | Node.js",
+            "url": "https://nodejs.org/en/blog/vulnerability/aug-2021-security-releases/",
+            "content": "Node.jsのセキュリティアップデート。\nそれぞれ対応するNode v12.22.5 (LTS)、 Node v14.17.5 (LTS)、Node v16.6.2がリリースされている。\nDNSライブラリc-aresのセキュリティ修正、`http2`のstreamを閉じた際のUse after freeの修正。\n`rejectUnauthorized`に`undefined`を渡すと期限切れの証明書を受け付けていた問題の修正など",
+            "tags": [
+                "node.js",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
