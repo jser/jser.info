@@ -411,6 +411,18 @@
                     "url": "https://jlongster.com/future-sql-web"
                 }
             ]
+        },
+        {
+            "date": "2021-08-16T12:40:55.835Z",
+            "title": "<Lazy> rendering in Vue to improve performance | by Martin Malinda | Vue.js Developers | Aug, 2021 | Medium",
+            "url": "https://medium.com/js-dojo/lazy-rendering-in-vue-to-improve-performance-dcccd445d5f",
+            "content": "Vueでの遅延レンダリングを使ったパフォーマンス改善について。\nレンダリングのタイミングをずらす、Intersection Observerを使ってviewportに入るタイミングでレンダリング、無限リストの実装についてなど",
+            "tags": [
+                "Vue",
+                "article",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
