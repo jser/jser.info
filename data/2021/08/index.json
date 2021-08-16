@@ -357,6 +357,18 @@
                     "url": "https://github.com/neomjs/neo"
                 }
             ]
+        },
+        {
+            "date": "2021-08-16T01:59:10.275Z",
+            "title": "Release v6.0.0 · vueuse/vueuse",
+            "url": "https://github.com/vueuse/vueuse/releases/tag/v6.0.0",
+            "content": "vueuse 6.0.0リリース。\nVue 3.2の`effectScope` APIに対応、`createSharedComposable`/`toReactive`/`useEventBus`の追加。\n`useStorage`にonErrorコールバックの追加など",
+            "tags": [
+                "Vue",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
