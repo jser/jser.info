@@ -381,6 +381,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-16T04:23:30.477Z",
+            "title": "microlinkhq/keyv: Simple key-value storage with support for multiple backends.",
+            "url": "https://github.com/microlinkhq/keyv",
+            "content": "redis/mongo/SQLite/MySQL/PostgreSQLなどの各種バックエンドに対応したKVSライブラリ。\n",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
