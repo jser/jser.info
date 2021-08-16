@@ -369,6 +369,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-16T04:20:42.306Z",
+            "title": "craigmichaelmartin/pure-orm: A Node.js SQL toolkit for writing native SQL queries yielding pure business objects",
+            "url": "https://github.com/craigmichaelmartin/pure-orm",
+            "content": "ORMライブラリ。\nBusiness Object(BO)とData Access Object(DAO)を使ってDBとのデータをやり取りする。\nDAOはクエリビルダーではなく、生に近いSQL構文を利用する",
+            "tags": [
+                "DB",
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
