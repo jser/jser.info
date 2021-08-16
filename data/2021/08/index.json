@@ -455,6 +455,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-16T23:05:38.735Z",
+            "title": "CSS Grid tooling in DevTools - Chrome Developers",
+            "url": "https://developer.chrome.com/blog/css-grid-tooling/",
+            "content": "Chrome DevToolsのCSS Gridのデバッグ機能と追加されたCDP(chrome devtools protocol)について。\nDevToolsのGridのオーバーレイ表示を永続化、DOMの変更を即時反映、ComputedなStyleでの要素検索を実現するために、CDPに対して新しいコマンドを実装したという話。",
+            "tags": [
+                "CSS",
+                "Chrome",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
