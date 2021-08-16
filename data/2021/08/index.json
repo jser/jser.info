@@ -431,10 +431,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-08-16T22:44:51.202Z",
+            "date": "2021-08-16T22:47:04.052Z",
             "title": "Modern web apps without JavaScript bundling or transpiling",
             "url": "https://world.hey.com/dhh/modern-web-apps-without-javascript-bundling-or-transpiling-a20f2755",
-            "content": "Rails 7.0でwebpacker(webpack)ではなくimport-mapベースのbundlerを使わないアプローチをデフォルトにすることを検討しているという話。",
+            "content": "Rails 7.0でwebpacker(webpack)ではなくimportmapベースのbundlerを使わないアプローチをデフォルトにすることを検討しているという話。",
             "tags": [
                 "rails",
                 "JavaScript",
