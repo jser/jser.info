@@ -437,6 +437,19 @@
                 "Svelte"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-16T13:52:53.622Z",
+            "title": "Don’t attach tooltips to document.body - Atif Afzal",
+            "url": "https://atfzl.com/don-t-attach-tooltips-to-document-body",
+            "content": "`document.body`直下にツールチップ表示用の要素を追加すると、多くの要素のスタイル更新処理が行われパフォーマンスの問題となった話。\nどのようにレイアウト計算の影響を確認したか、ツールチップを表示用の要素をラップすることでスタイル更新の影響範囲を小さくした話",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "CSS",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
