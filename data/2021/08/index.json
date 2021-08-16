@@ -395,7 +395,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-08-16T12:03:58.861Z",
+            "date": "2021-08-16T12:04:10.678Z",
             "title": "jlongster/absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)",
             "url": "https://github.com/jlongster/absurd-sql",
             "content": "sql.jsのIndexedDBバックエンド",
@@ -405,7 +405,12 @@
                 "IndexedDB",
                 "library"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "A future for SQL on the web",
+                    "url": "https://jlongster.com/future-sql-web"
+                }
+            ]
         }
     ]
 }
