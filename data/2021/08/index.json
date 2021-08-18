@@ -468,6 +468,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-18T23:51:53.588Z",
+            "title": "SpeedVitals - Optimize your Website for Web Vitals",
+            "url": "https://speedvitals.com/",
+            "content": "ウェブサイトのパフォーマンス計測をしてCore Web Vitalsの改善方法を提示するウェブサービス。\n計測結果からLCPのスコアの改善方法、レイアウトシフトの視覚化など改善に関する情報を提示する",
+            "tags": [
+                "webservice",
+                "performance"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing SpeedVitals Alpha Version! - SpeedVitals",
+                    "url": "https://blog.speedvitals.com/introducing-speedvitals/#more-20"
+                }
+            ]
         }
     ]
 }
