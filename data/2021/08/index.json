@@ -497,10 +497,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-08-19T00:00:49.378Z",
+            "date": "2021-08-19T00:02:06.780Z",
             "title": "The State Of Mobile First and Desktop First - Ahmad Shadeed",
             "url": "https://ishadeed.com/article/the-state-of-mobile-first-and-desktop-first/",
-            "content": "CSSを書くときにMobileとDesktop向けちらを先に書くかについて。\nMobileとDesktopのどちらかを先に書いて、もう一方をMedia Queryで上書きしたときのコード料の違いについて。\nまた、ベースとそれぞれを書いた場合やFlexboxやContainer Queryといった最近の機能を使って書いた場合についてなど",
+            "content": "CSSを書くときにMobileとDesktop向けのどちらを先に書くかについて。\nMobileとDesktopのどちらかを先に書いて、もう一方をMedia Queryで上書きしたときのコード量や拡張性の違いについて。\nまた、ベースとそれぞれを書いた場合やFlexboxやContainer Queryといった最近の機能を使って書いた場合についてなど",
             "tags": [
                 "CSS",
                 "article"
