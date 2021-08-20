@@ -506,6 +506,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-20T13:52:04.397Z",
+            "title": "Announcing React Native 0.65 · React Native",
+            "url": "https://reactnative.dev/blog/2021/08/17/version-065",
+            "content": "React Native 0.65リリース。\nHermes 0.8にアップグレードし、Hadesというガベージコレクタの実装、ECMAScript i18n APIのサポート、Apple M1のサポートなど。\n",
+            "tags": [
+                "React",
+                "iOS",
+                "Android"
+            ],
+            "relatedLinks": []
         }
     ]
 }
