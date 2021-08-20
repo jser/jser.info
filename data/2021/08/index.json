@@ -518,6 +518,19 @@
                 "Android"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-20T13:57:15.328Z",
+            "title": "Release v4.0.0 · mdn/browser-compat-data",
+            "url": "https://github.com/mdn/browser-compat-data/releases/tag/v4.0.0",
+            "content": "MDNなどで使われるウェブ技術の互換性リストであるbrowser-compat-data 4.0.0リリース。\nスキーマに`preview`と`accepts_flags`の追加、Denoを追加、XPathとXSLTのデータが不完全であるため削除など",
+            "tags": [
+                "mdn",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
