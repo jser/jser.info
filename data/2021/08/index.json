@@ -556,6 +556,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-22T14:11:56.757Z",
+            "title": "Release Notes for Safari Technology Preview 130 | WebKit",
+            "url": "https://webkit.org/blog/11958/release-notes-for-safari-technology-preview-130/",
+            "content": "フラグ付きで`Array.prototype.findLast`と`Array.prototype.findLastIndex`のサポート、WebAudioでWebM/Opusコンテナのサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
