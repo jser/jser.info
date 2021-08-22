@@ -531,6 +531,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-22T06:19:59.006Z",
+            "title": "Release v9.1.0 · mochajs/mocha",
+            "url": "https://github.com/mochajs/mocha/releases/tag/v9.1.0",
+            "content": "Mocha 9.1.0リリース。\n`--fail-zero`、`--node-option`のサポート、`JSON`レポーターの追加など",
+            "tags": [
+                "node.js",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
