@@ -567,6 +567,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-23T11:52:32.596Z",
+            "title": "Testing | Next.js",
+            "url": "https://nextjs.org/docs/testing",
+            "content": "Next.jsにおけるテストについてのドキュメント。\nCypressを使ったE2EテストとJest + React Testing Libraryを使ったテストの方法について紹介している。",
+            "tags": [
+                "Next.js",
+                "React",
+                "testing",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Delba de Oliveira on Twitter: &quot;We've just released the first iteration of the Next.js Testing Docs: https://t.co/jhe7zSigt3 🧪 We wanted to provide a starting point for those looking to set up Next.js with 3 commonly used testing tools: @cypress_io, @fbjest and React @TestingLib.&quot; / Twitter",
+                    "url": "https://twitter.com/delba_oliveira/status/1427307677709967362"
+                }
+            ]
         }
     ]
 }
