@@ -585,6 +585,18 @@
                     "url": "https://twitter.com/delba_oliveira/status/1427307677709967362"
                 }
             ]
+        },
+        {
+            "date": "2021-08-23T12:54:41.575Z",
+            "title": "'return await promise' vs 'return promise' in JavaScript",
+            "url": "https://dmitripavlutin.com/return-await-promise-javascript/",
+            "content": "`return await promise`と`return promise`で動作が異なるケースについて。\n`try...catch`で囲まれている場合には、`await`によってthrowされると結果が異なる",
+            "tags": [
+                "Promises",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
