@@ -597,6 +597,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-24T02:47:55.577Z",
+            "title": "johnsoncodehk/volar: ⚡ Fast Vue Language Support Extension",
+            "url": "https://github.com/johnsoncodehk/volar",
+            "content": "Vue 3をサポートするVSCode向けの拡張機能。\n`.vue`ファイルのTypeScriptの型チェックやテンプレートのlanguage serverを提供する",
+            "tags": [
+                "Vue",
+                "TypeScript",
+                "VSCode",
+                "plugin"
+            ],
+            "relatedLinks": []
         }
     ]
 }
