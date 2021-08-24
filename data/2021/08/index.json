@@ -615,6 +615,17 @@
                     "url": "https://deno.com/blog/deno-on-mdn"
                 }
             ]
+        },
+        {
+            "date": "2021-08-24T04:49:10.899Z",
+            "title": "複数リポジトリ間におけるeslint・prettierの設定共通化 - LIVESENSE ENGINEER BLOG",
+            "url": "https://made.livesense.co.jp/entry/2021/08/24/083000",
+            "content": "ESLintの設定を社内で共有管理するために、scoped packagesとして公開して利用方法について",
+            "tags": [
+                "ESLint",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
