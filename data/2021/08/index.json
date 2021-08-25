@@ -626,6 +626,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-25T00:10:40.565Z",
+            "title": "The npm registry is deprecating TLS 1.0 and TLS 1.1 | The GitHub Blog",
+            "url": "https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/",
+            "content": "npm registryでTLS 1.0とTLS 1.1を非推奨化し、2021年9月29日でサポートを終了する予定。\nNode.js 0.10.0未満のバージョンを使っているケースやカスタムしたバイナリを使っているケースが対象となるがすでに99%はTLS 1.2を利用しているとのこと。",
+            "tags": [
+                "npm",
+                "Github",
+                "security",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
