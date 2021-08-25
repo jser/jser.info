@@ -652,6 +652,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-25T02:38:13.170Z",
+            "title": "Why WASM is not the future of Babylon.js | by Babylon.js | Aug, 2021 | Medium",
+            "url": "https://babylonjs.medium.com/why-wasm-is-not-the-future-of-babylon-js-5832b09c9b10",
+            "content": "WebAssemblyはC++などのネイティブな言語をコンパイルして利用するのが目的であるため、TypeScriptで書かれたBabylon.jsをWasmにする正当な理由がまだないという話。\nWasmとJS間のコミュニケーションコストやデバッグが難しい、メモリ管理なども含むためサイズが大きくなるなどの問題点について。\nまた、Babylon.jsの物理エンジンなどの一部領域ではWasmをすでに利用していることなどについても書かれている。",
+            "tags": [
+                "WebAssembly",
+                "article",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
