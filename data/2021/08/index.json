@@ -687,6 +687,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-26T12:21:30.274Z",
+            "title": "unjs/unplugin: Unified plugin system for Vite, Rollup, and Webpack",
+            "url": "https://github.com/unjs/unplugin",
+            "content": "Vite/Rollup/webpack pluginを同じコードから作成するライブラリ",
+            "tags": [
+                "vite",
+                "rollup",
+                "webpack",
+                "plugin",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
