@@ -676,6 +676,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-26T00:10:28.641Z",
+            "title": "Node v16.8.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v16.8.0/",
+            "content": "Node.js 16.8.0リリース。\n`stream.Duplex.from`、 `stream.Readable.isDisturbed(stream)`の追加。\n`util`モジュールに`toUSVString`の追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
