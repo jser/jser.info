@@ -712,6 +712,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-27T14:26:34.899Z",
+            "title": "Chromium Blog: Chrome 94 Beta: WebCodecs, WebGPU, Scheduling, and More",
+            "url": "https://blog.chromium.org/2021/08/chrome-94-beta-webcodecs-webgpu.html",
+            "content": "Chrome 94 Betaリリース。\nOrigin Trialとして、HTTP status code 103 Early Hintsを実験的にサポート。\nWebCodecs、`scheduler.postTask()`、`MediaStreamTrackGenerator`/`MediaStreamTrackProcessor`のサポート。\nSelf Profiling APIのサポートなど。\nまた、WebSQLがサードパーティコンテキストでは非推奨となり、`navigator.plugins`/ `navigator.mimeTypes`は固定された値を返すように変更されるなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
