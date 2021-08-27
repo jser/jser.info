@@ -701,6 +701,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-27T03:04:12.577Z",
+            "title": "Announcing TypeScript 4.4 | TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-4/",
+            "content": "TypeScript 4.4リリース。\nControl Flow Analysisの改善、Index SignaturesにSymbolやTemplate Stringを利用できるように。\nCatch節のデフォルトを`unknown`型にする`useUnknownInCatchVariables`オプションの追加。\noptionalと`undefined`値の区別をする`exactOptionalPropertyTypes`オプションの追加。\nまた、ES Proposal Stage 3のclass static blockをサポート。\n`tsc --help`の表示を改善、ビルドパフォーマンスの改善も含まれている",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
