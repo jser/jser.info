@@ -723,6 +723,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-27T14:35:25.881Z",
+            "title": "Private Network Access update: Introducing a deprecation trial - Chrome Developers",
+            "url": "https://developer.chrome.com/blog/private-network-access-update/",
+            "content": "Chromeでのnon-secureなウェブサイトからPrivate Network Accessを制限するロードマップについて。\nChrome 94でnon-secureなウェブサイトからPrivate Networkへのリクエストを送れなくなり、逆Origin Trialを開始している。\nChrome 102で逆Origin Trialを終了し、完全に制限される。",
+            "tags": [
+                "Chrome",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
