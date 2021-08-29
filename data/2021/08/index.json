@@ -768,6 +768,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-29T01:06:50.986Z",
+            "title": "Announcing SWR 1.0 – SWR",
+            "url": "https://swr.vercel.app/blog/swr-v1",
+            "content": "データ取得するReact HooksライブラリのSWR 1.0リリース。\n`fallback`オプションの追加、Immutable Modeの追加、`provider`オプションの追加、`useSWRConfig`の追加。\nまた、Middlewareの対応、一部APIの変更、デフォルトの`fetcher`を定義しないように変更するなど",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
