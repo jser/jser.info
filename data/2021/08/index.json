@@ -737,7 +737,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-08-29T00:42:56.351Z",
+            "date": "2021-08-29T00:44:12.447Z",
             "title": "Gotta pack 'em all! | Packemon",
             "url": "https://packemon.dev/",
             "content": "ライブラリ向けのビルドツール。\nNode.js(mjs,cjs)、ブラウザ(ESM、UMD)向けのビルドを一括でできる。\nまた、設定に応じたpackage.jsonの書き換え、Babelを使ったESM向けのコード変換、mjsで利用できない機能をビルド時にチェック、パッケージのメタデータのバリデーションなどができる。",
@@ -750,7 +750,12 @@
                 "Tools",
                 "library"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "azu/packemon-demo: Packemon demo package",
+                    "url": "https://github.com/azu/packemon-demo"
+                }
+            ]
         }
     ]
 }
