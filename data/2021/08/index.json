@@ -756,6 +756,18 @@
                     "url": "https://github.com/azu/packemon-demo"
                 }
             ]
+        },
+        {
+            "date": "2021-08-29T01:01:41.966Z",
+            "title": "5alidz/tiny-schema-validator: JSON schema validator",
+            "url": "https://github.com/5alidz/tiny-schema-validator",
+            "content": "Schemaを定義してバリデーションができるbuilderライブラリ。\n作成したSchemaオブジェクトはTypeScriptの型としても利用できる。",
+            "tags": [
+                "TypeScript",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
