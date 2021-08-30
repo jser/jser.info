@@ -838,6 +838,18 @@
                     "url": "https://github.com/cryptagon/portal-windows"
                 }
             ]
+        },
+        {
+            "date": "2021-08-30T13:17:06.813Z",
+            "title": "Why lab and field data can be different (and what to do about it)",
+            "url": "https://web.dev/lab-and-field-data-differences/",
+            "content": "PageSpeed Insightsなどに表示されている定点観測データであるLab dataとRUMであるField dataについて。\nそれぞれのデータの違い、計測方法、キャッシュの状態、AMP/SXG、BFCacheなどの影響について。\nLabとFieldがどちらもある場合は、Field dataがよりユーザーの体験に近いことについて。",
+            "tags": [
+                "Chrome",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
