@@ -821,6 +821,23 @@
                     "url": "https://thecodebarbarian.com/introducing-mongoose-6.html"
                 }
             ]
+        },
+        {
+            "date": "2021-08-30T13:08:18.191Z",
+            "title": "Introducing Portal Windows for Electron",
+            "url": "https://blog.tandem.chat/portal-windows/",
+            "content": "Tandemで利用しているElectronで他のウィンドウをミラーリングするライブラリについて。\n他のアプリのウィンドウをReactコンポーネントとして描画、スクリーンシェアなどに利用できる。",
+            "tags": [
+                "React",
+                "Electron",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "cryptagon/portal-windows: Render and position native windows as simply as you render and position tooltips in your React app.",
+                    "url": "https://github.com/cryptagon/portal-windows"
+                }
+            ]
         }
     ]
 }
