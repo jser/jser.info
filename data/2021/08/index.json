@@ -867,6 +867,18 @@
                     "url": "https://github.com/WICG/app-history"
                 }
             ]
+        },
+        {
+            "date": "2021-08-30T14:10:09.674Z",
+            "title": "NAN to Node-API Migration: A Short Story - NodeSource",
+            "url": "https://nodesource.com/blog/NAN-to-Node-API-migration-a-short-story",
+            "content": "Node.jsのnative addonを開発時に利用するNANとNode-API(N-API)について。\nNode-APIはV8に依存しないnative addon開発のために追加され、NANからNode-APIに移行しながら、Node-APIの使い方について見ていく記事。",
+            "tags": [
+                "node.js",
+                "C++",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
