@@ -780,6 +780,25 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-08-30T11:48:38.670Z",
+            "title": "Release 27.1.0 · facebook/jest",
+            "url": "https://github.com/facebook/jest/releases/tag/v27.1.0",
+            "content": "Jest 27.1.9リリース。\n`snapshotFormat`オプションの追加、Node.js 16で追加された`node:` prefixのモジュールをサポートなど",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Modules: CommonJS modules | Node.js v16.8.0 Documentation",
+                    "url": "https://nodejs.org/api/modules.html#modules_core_modules"
+                }
+            ]
         }
     ]
 }
