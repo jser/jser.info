@@ -27,6 +27,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-01T11:00:48.543Z",
+            "title": "August 31 2021 Security Releases | Node.js",
+            "url": "https://nodejs.org/en/blog/vulnerability/aug-2021-security-releases2/",
+            "content": "Node.jsのセキュリティアップデート。\nOpenSSLとnpm 6.x系の脆弱性の修正が含まれていて、Node.js v12.22.6 (LTS)とNode.js v14.17.6 (LTS)がリリースされている。",
+            "tags": [
+                "node.js",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "npmにも影響があるnode-tarのパストラバーサルの脆弱性 CVE-2021-32804 | yamory Blog",
+                    "url": "https://yamory.io/blog/cve-2021-32804-node-tar-reproduce/"
+                }
+            ]
         }
     ]
 }
