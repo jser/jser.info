@@ -16,6 +16,17 @@
                     "url": "https://json-ld.org/"
                 }
             ]
+        },
+        {
+            "date": "2021-09-01T10:54:48.061Z",
+            "title": "Electron 14.0.0 | Electron Blog",
+            "url": "https://www.electronjs.org/blog/electron-14-0",
+            "content": "Electron 14.0.0リリース。\nChromium 93、Node.js 14.17.0、V8 9.3にアップデート。\n破壊的な変更として`app.allowRendererProcessReuse`オプションの削除、`worldSafeExecuteJavaScript`オプションを削除してデフォルト化。\n`remote`モジュールを削除し、`@electron/remote`という外部モジュール化など。\n",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
