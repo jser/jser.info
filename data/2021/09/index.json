@@ -81,6 +81,19 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-04T11:34:13.044Z",
+            "title": "Release v3.0.0 · node-fetch/node-fetch",
+            "url": "https://github.com/node-fetch/node-fetch/releases/tag/v3.0.0",
+            "content": "node-fetch 3.0.0リリース。\nESMのサポート、Node.js 12未満のサポート終了、`timeout`オプションの削除、`highWaterMark`オプションの追加など",
+            "tags": [
+                "node.js",
+                "Fetch",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
