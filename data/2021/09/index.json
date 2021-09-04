@@ -68,6 +68,19 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-04T04:52:47.159Z",
+            "title": "ECMAScript proposal updates @ 2021-08 | ECMAScript Daily",
+            "url": "https://ecmascript-daily.github.io/ecmascript/2021/09/04/ecmascript-proposal-update",
+            "content": "2021年8月のTC39ミーティングでのECMAScript Proposalの変更まとめ。\nClass Static Block、`hasOwn`、`.at()`がそれぞれStage 4となり、ES2022に入ることが決まった。",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "article",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
