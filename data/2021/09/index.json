@@ -118,6 +118,24 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-06T11:20:57.443Z",
+            "title": "Stitches 1.0.0 — Stitches",
+            "url": "https://stitches.dev/blog/stitches-1.0.0",
+            "content": "CSS-in-JSフレームワークであるStitches 1.0.0リリース。\n",
+            "tags": [
+                "CSS",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v1.0.0 · modulz/stitches",
+                    "url": "https://github.com/modulz/stitches/releases/tag/v1.0.0"
+                }
+            ]
         }
     ]
 }
