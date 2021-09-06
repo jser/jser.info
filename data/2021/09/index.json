@@ -163,6 +163,17 @@
                 "polyfill"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-06T12:02:16.187Z",
+            "title": "microsoft/ts-gyb: Generating native code interfaces from TypeScript",
+            "url": "https://github.com/microsoft/ts-gyb",
+            "content": "TypeScriptのinterfaceからmustache templatesを使ってコード生成するツール。\nTypeScriptのinterfaceから別の言語のboilerplateを生成する目的のツール。",
+            "tags": [
+                "TypeScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
