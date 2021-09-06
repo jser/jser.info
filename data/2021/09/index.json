@@ -136,6 +136,19 @@
                     "url": "https://github.com/modulz/stitches/releases/tag/v1.0.0"
                 }
             ]
+        },
+        {
+            "date": "2021-09-06T11:40:15.235Z",
+            "title": "bundle - a quick npm package size checker",
+            "url": "https://bundle.js.org/",
+            "content": "ブラウザ上でskypack.devとesbuild-wasmを使ってコードをbundleして、bundle sizeをチェックするツール。",
+            "tags": [
+                "JavaScript",
+                "cdn",
+                "Tools",
+                "browser"
+            ],
+            "relatedLinks": []
         }
     ]
 }
