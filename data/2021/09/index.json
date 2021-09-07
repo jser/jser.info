@@ -198,6 +198,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-07T01:23:17.446Z",
+            "title": "sachinchoolur/replace-jquery: Automatically finds jQuery methods from existing projects and generates vanilla js alternatives.",
+            "url": "https://github.com/sachinchoolur/replace-jquery",
+            "content": "jQueryのメソッドをjQuery非依存のコードに書き換えるツール。\n指定したjQueryのメソッドのみを置き換えることもできる。",
+            "tags": [
+                "JavaScript",
+                "jQuery",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
