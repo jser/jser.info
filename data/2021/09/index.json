@@ -230,6 +230,20 @@
                     "url": "https://v8.dev/blog/v8-release-93"
                 }
             ]
+        },
+        {
+            "date": "2021-09-08T14:09:20.707Z",
+            "title": "Release 3.0.1 · prisma/prisma",
+            "url": "https://github.com/prisma/prisma/releases/tag/3.0.1",
+            "content": "Prisma 3.0.1リリース。3からSemverにそったリリースとなった。\nReferential Actions、Named Constraints、Microsoft SQL/Azure SQL、Node-APIなどがGAとなった。\n破壊的な変更として`prisma db seed`の仕組みの変更、`null`をクエリに指定できなくして`JsonNull`/`DbNull`/`AnyNull`のいずれかを使うようにする変更も含まれる。",
+            "tags": [
+                "database",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://mag.osdn.jp/21/09/09/164400",
+            "relatedLinks": []
         }
     ]
 }
