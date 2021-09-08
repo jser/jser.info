@@ -210,6 +210,26 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-08T00:07:54.690Z",
+            "title": "Node v16.9.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v16.9.0/",
+            "content": "Node v16.9.0リリース。\nプロジェクトごとにnpm/yarn/pnpmなどのパッケージマネージャを切り替えてインストールできるCorepackのサポート。\nV8 9.3へアップデートし`Object.hasOwn`とError Causeをサポート、`stream.compose`の追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Corepack | Node.js v16.9.0 Documentation",
+                    "url": "https://nodejs.org/dist/latest-v16.x/docs/api/corepack.html"
+                },
+                {
+                    "title": "V8 release v9.3 · V8",
+                    "url": "https://v8.dev/blog/v8-release-93"
+                }
+            ]
         }
     ]
 }
