@@ -323,6 +323,20 @@
                     "url": "https://developers-jp.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html"
                 }
             ]
+        },
+        {
+            "date": "2021-09-09T23:42:28.004Z",
+            "title": "Release Workbox v6.3.0 · GoogleChrome/workbox",
+            "url": "https://github.com/GoogleChrome/workbox/releases/tag/v6.3.0",
+            "content": "Workbox 6.3.0リリース。\n`integrity`属性が指定されているリソースに対するprecachingの修正、IDBの書き込みに`{ durability: 'relaxed' }`を使うように。\nBroadcastCacheUpdateに`notifyAllClients`オプションの追加、`Vary:`ヘッダに対するデバッグログを追加など",
+            "tags": [
+                "ServiceWorker",
+                "library",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://mag.osdn.jp/21/09/09/164400",
+            "relatedLinks": []
         }
     ]
 }
