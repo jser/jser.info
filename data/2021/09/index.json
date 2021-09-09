@@ -305,6 +305,24 @@
                     "url": "https://www.mozilla.org/en-US/firefox/92.0/releasenotes/"
                 }
             ]
+        },
+        {
+            "date": "2021-09-09T13:41:48.282Z",
+            "title": "Spook.js",
+            "url": "https://www.spookjs.com/",
+            "content": "leaky.page が同じページ内での話だったの対して、ウェブサイト間や拡張機能間まで話を広げたSpectreについての論文。\nChromeはメモリを圧迫するとeTLD+1の範囲でプロセスがまとまる。まとまったプロセス内でV8の癖を使って投機的実行攻撃して別サイトのメモリデータを読み込むという話。",
+            "tags": [
+                "Chrome",
+                "security",
+                "paper"
+            ],
+            "viaURL": "https://mag.osdn.jp/21/09/09/164400",
+            "relatedLinks": [
+                {
+                    "title": "Google Developers Japan: Spectre の影響を受けないウェブを作るための概念実証について",
+                    "url": "https://developers-jp.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html"
+                }
+            ]
         }
     ]
 }
