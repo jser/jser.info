@@ -269,6 +269,21 @@
             ],
             "viaURL": "https://mag.osdn.jp/21/09/09/164400",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-09T11:55:49.915Z",
+            "title": "Nightwatch v2.0-alpha is Released | Nightwatch.js Blog",
+            "url": "https://nightwatchjs.org/blog/nightwatch-v2-alpha-is-released.html",
+            "content": "Nightwatch v2.0-alphaリリース。\n`selenium-webdriver`を利用するように、WebDriver Actions APIのサポート、Chrome Dev Tools Protocolのサポート。\n`.ensure` assertionの追加、`perform()`などでWebDriver objectを直接扱えるように、Async/Awaitの対応改善など",
+            "tags": [
+                "E2E",
+                "JavaScript",
+                "library",
+                "ReleaseNote",
+                "Selenium"
+            ],
+            "viaURL": "https://mag.osdn.jp/21/09/09/164400",
+            "relatedLinks": []
         }
     ]
 }
