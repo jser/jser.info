@@ -284,6 +284,27 @@
             ],
             "viaURL": "https://mag.osdn.jp/21/09/09/164400",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-09T12:05:15.034Z",
+            "title": "Time for a review of Firefox 92 - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2021/09/time-for-a-review-of-firefox-92/",
+            "content": "Firefox 92リリース。\nCSSの`accent-color`と`size-adjust`をサポート、Stage 4 `Object.hasOwn`のサポートなど。\nまた、`selectionchange`イベントで`input`や`textarea`内の選択範囲の変更も検知するようになるなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://mag.osdn.jp/21/09/09/164400",
+            "relatedLinks": [
+                {
+                    "title": "Firefox 92 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/92"
+                },
+                {
+                    "title": "Firefox 92.0, See All New Features, Updates and Fixes",
+                    "url": "https://www.mozilla.org/en-US/firefox/92.0/releasenotes/"
+                }
+            ]
         }
     ]
 }
