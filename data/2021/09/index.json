@@ -350,6 +350,19 @@
             ],
             "viaURL": "https://mag.osdn.jp/21/09/09/164400",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-13T11:52:09.878Z",
+            "title": "Migrating Notion's marketing site to Next.js",
+            "url": "https://www.notion.so/blog/migrating-notion-marketing-to-next-js",
+            "content": "Notion マーケティングサイトをNext.jsへ移行した話。\nReactで書かれたアプリケーションのコードとマーケティングサイトのコードを共有することで組み込みのデモがうごかせるようになった話。\nルーティングでの切り替えとテスト、CSSの対応などについて",
+            "tags": [
+                "React",
+                "Next.js",
+                "article"
+            ],
+            "viaURL": "https://mag.osdn.jp/21/09/09/164400",
+            "relatedLinks": []
         }
     ]
 }
