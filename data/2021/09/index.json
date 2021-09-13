@@ -377,6 +377,19 @@
             ],
             "viaURL": "https://mag.osdn.jp/21/09/09/164400",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-13T12:16:11.250Z",
+            "title": "JavaScript Eventing Deep Dive",
+            "url": "https://web.dev/eventing-deepdive/",
+            "content": "Event Capturing/Event Bubbling phaseの動きについての記事。\nそれぞれphaseにおいてEventの流れを止める`stopPropagation()`、`stopImmediatePropagation()`、`preventDefault()`の動作についての解説。",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "article"
+            ],
+            "viaURL": "https://mag.osdn.jp/21/09/09/164400",
+            "relatedLinks": []
         }
     ]
 }
