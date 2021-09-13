@@ -407,6 +407,29 @@
                     "url": "https://www.shuwasystem.co.jp/book/9784798065335.html"
                 }
             ]
+        },
+        {
+            "date": "2021-09-13T12:54:29.515Z",
+            "title": "Journey with Icons Continues",
+            "url": "https://antfu.me/posts/journey-with-icons-continues",
+            "content": "Viteでアイコンコンポーネントをオンデマンドでビルドして利用できるunplugin-iconsについて。\nアイコンのデータにはIconifyを使い、アイコンコンポーネントをロードした際にVite側でSVGベースのアイコンコンポーネントを作成して返す仕組みについて。",
+            "tags": [
+                "JavaScript",
+                "React",
+                "Vue",
+                "article"
+            ],
+            "viaURL": "https://mag.osdn.jp/21/09/09/164400",
+            "relatedLinks": [
+                {
+                    "title": "Iconify - Unified icons framework",
+                    "url": "https://iconify.design/"
+                },
+                {
+                    "title": "antfu/unplugin-icons: 🤹 Access thousands of icons as components on-demand universally.",
+                    "url": "https://github.com/antfu/unplugin-icons"
+                }
+            ]
         }
     ]
 }
