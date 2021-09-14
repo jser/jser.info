@@ -430,6 +430,23 @@
                     "url": "https://github.com/antfu/unplugin-icons"
                 }
             ]
+        },
+        {
+            "date": "2021-09-14T00:19:49.503Z",
+            "title": "Introducing Flow Enums. As announced in an earlier post, Flow… | by George Zahariev | Flow | Sep, 2021 | Medium",
+            "url": "https://medium.com/flow-type/introducing-flow-enums-16d4239b3180",
+            "content": "FlowTypeに導入された`enum`について",
+            "tags": [
+                "flowtype",
+                "article"
+            ],
+            "viaURL": "https://mag.osdn.jp/21/09/09/164400",
+            "relatedLinks": [
+                {
+                    "title": "TypeScript Enums vs. Flow Enums. The Flow team recently announced Flow… | by George Zahariev | Flow | Sep, 2021 | Medium",
+                    "url": "https://medium.com/flow-type/typescript-enums-vs-flow-enums-83da2ca4a9b4"
+                }
+            ]
         }
     ]
 }
