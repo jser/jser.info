@@ -447,6 +447,23 @@
                     "url": "https://medium.com/flow-type/typescript-enums-vs-flow-enums-83da2ca4a9b4"
                 }
             ]
+        },
+        {
+            "date": "2021-09-14T00:59:15.725Z",
+            "title": "フロントエンドのテストは皆のためのもの | POSTD",
+            "url": "https://postd.cc/frontend-testing-is-for-everyone/",
+            "content": "Front-End Testing is For Everyoneの翻訳記事。\nテストがチェックする範囲とチェックするツールについてまとめたもの。\nユニットテスト、結合テスト、E2Eテスト、アクセシビリティテスト、ビジュアルリグレッションテスト、パフォーマンステストについて書かれている。",
+            "tags": [
+                "testing",
+                "article"
+            ],
+            "viaURL": "https://mag.osdn.jp/21/09/09/164400",
+            "relatedLinks": [
+                {
+                    "title": "Front-End Testing is For Everyone | CSS-Tricks",
+                    "url": "https://css-tricks.com/front-end-testing-is-for-everyone/"
+                }
+            ]
         }
     ]
 }
