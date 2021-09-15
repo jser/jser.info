@@ -464,6 +464,18 @@
                     "url": "https://css-tricks.com/front-end-testing-is-for-everyone/"
                 }
             ]
+        },
+        {
+            "date": "2021-09-15T14:35:54.288Z",
+            "title": "Chromium Blog: User-Agent Reduction Origin Trial and Dates",
+            "url": "https://blog.chromium.org/2021/09/user-agent-reduction-origin-trial-and-dates.html",
+            "content": "ChromeのUser-Agent変更のスケジュール。\nChrome 95からOrigin Trialを使ったオプトインで導入、Chrome 100から徐々に削減していき、からChrome 113でUAと関連APIのデータの削減が完了する予定。",
+            "tags": [
+                "Chrome",
+                "article"
+            ],
+            "viaURL": "https://mag.osdn.jp/21/09/09/164400",
+            "relatedLinks": []
         }
     ]
 }
