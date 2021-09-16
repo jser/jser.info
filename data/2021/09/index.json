@@ -491,6 +491,25 @@
             ],
             "viaURL": "https://mag.osdn.jp/21/09/09/164400",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-16T12:30:35.288Z",
+            "title": "Vueの再描画されたコンポーネントをハイライトするChrome拡張を作った",
+            "url": "https://zenn.dev/yuichkun/articles/e4e8c7e633439c",
+            "content": "React DevToolsのように描画された要素をハイライトするVue向けのデバッグ拡張について",
+            "tags": [
+                "Vue",
+                "debug",
+                "Tools",
+                "article"
+            ],
+            "viaURL": "https://mag.osdn.jp/21/09/09/164400",
+            "relatedLinks": [
+                {
+                    "title": "yuichkun/vue-devtool-flash-updates: A handy tool that highlights re-rendered components.",
+                    "url": "https://github.com/yuichkun/vue-devtool-flash-updates"
+                }
+            ]
         }
     ]
 }
