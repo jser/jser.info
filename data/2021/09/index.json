@@ -510,6 +510,21 @@
                     "url": "https://github.com/yuichkun/vue-devtool-flash-updates"
                 }
             ]
+        },
+        {
+            "date": "2021-09-18T05:27:53.335Z",
+            "title": "Material-UI is now MUI! - MUI",
+            "url": "https://mui.com/blog/material-ui-is-now-mui/",
+            "content": "マテリアルデザインのReact実装として開始したMaterial-UIがMUIへとリネームされた。\nこれに伴ってパッケージが`@material-ui`から`@mui`へと変更され、ウェブサイトもリニューアルされた。",
+            "tags": [
+                "UI",
+                "JavaScript",
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://mag.osdn.jp/21/09/09/164400",
+            "relatedLinks": []
         }
     ]
 }
