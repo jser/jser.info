@@ -525,6 +525,19 @@
             ],
             "viaURL": "https://mag.osdn.jp/21/09/09/164400",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-18T05:35:59.298Z",
+            "title": "Vue2のプロジェクトをVue3へマイグレーションする",
+            "url": "https://zenn.dev/azukiazusa/articles/c8d76eb56f5fd8",
+            "content": "vue-cliを使っているプロジェクトをVue2からVue3へのマイグレーションするチュートリアル。\n`@vue/compat`、`eslint-plugin-vue`導入し、それぞれのAPIの変更に対応し、`@vue/comat`を取り除くまでの流れを解説している。",
+            "tags": [
+                "Vue",
+                "article",
+                "tutorial"
+            ],
+            "viaURL": "https://mag.osdn.jp/21/09/09/164400",
+            "relatedLinks": []
         }
     ]
 }
