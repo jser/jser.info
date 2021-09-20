@@ -562,6 +562,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-20T15:05:26.125Z",
+            "title": "Small Bundles, Fast Pages: What To Do With Too Much JavaScript | Calibre",
+            "url": "https://calibreapp.com/blog/bundle-size-optimization",
+            "content": "JavaScriptのbundle sizeを小さく保つにどうするかについての記事。\nbundle sizeとパフォーマンスへの影響、bundle sizeの可視化、特定のパッケージの利用をESLintで禁止する方法、遅延ロード、Modern Browser向けのビルド分離などについて",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
