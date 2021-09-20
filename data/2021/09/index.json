@@ -590,6 +590,20 @@
                     "url": "https://zenn.dev/magurotuna/articles/deno-release-note-1-14-0"
                 }
             ]
+        },
+        {
+            "date": "2021-09-20T15:21:41.203Z",
+            "title": "typicode/xv: A simple, fast and small test runner with native ESM support",
+            "url": "https://github.com/typicode/xv",
+            "content": "ESMを扱うテストフレームワーク。\n各テストケースを`export`構文でexportして、そのテストケースを実行した結果を表示するCLIを提供する",
+            "tags": [
+                "node.js",
+                "ECMAScript",
+                "module",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
