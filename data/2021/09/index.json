@@ -697,6 +697,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-22T22:52:00.380Z",
+            "title": "Node v16.10.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v16.10.0/",
+            "content": "Node v16.10.0リリース。\nコネクションごとに最大のリクエスト数を制限する`server.maxRequestsPerSocket`オプションの追加。\n`$HOME/.node_modules`などを探索しない`--no-global-search-paths`フラグの追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
