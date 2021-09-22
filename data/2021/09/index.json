@@ -684,6 +684,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-22T11:40:46.029Z",
+            "title": "Announcing Lit 2 stable release – Lit",
+            "url": "https://lit.dev/blog/2021-09-21-announcing-lit-2/",
+            "content": "Lit 2リリース。\nclassベースのDirectives API、非同期Directives、Reactive Controllersの追加。\n要素全体に対して影響を与えられるElement expressions、タグ名などに変数を使えるStatic expressionsの追加。\nまた、実験的にSSRのサポートなど",
+            "tags": [
+                "WebComponents",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
