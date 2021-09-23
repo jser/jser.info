@@ -708,6 +708,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-23T07:23:45.090Z",
+            "title": "Electron 15.0.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-15-0/",
+            "content": "Electron 15.0.0リリース。\nElectron 15から8週間ごとのメジャーアップデートとなる。\nChromium 94、Node.js 16.5.0、V8 9.4へアップデート、`nativeWindowOpen`のデフォルト値を`true`へ変更、`safeStorage` APIの追加など",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release electron v15.0.0 · electron/electron",
+                    "url": "https://github.com/electron/electron/releases/tag/v15.0.0"
+                },
+                {
+                    "title": "safeStorage | Electron",
+                    "url": "https://www.electronjs.org/docs/latest/api/safe-storage/"
+                }
+            ]
         }
     ]
 }
