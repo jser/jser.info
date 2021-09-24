@@ -763,6 +763,32 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-24T12:28:12.547Z",
+            "title": "es-module-shims/CHANGELOG.md at 1.0.0 · guybedford/es-module-shims",
+            "url": "https://github.com/guybedford/es-module-shims/blob/1.0.0/CHANGELOG.md",
+            "content": "ES Module Shims 1.0.0リリース。\nlexerがWasmを利用していたため`unsafe-eval`のCSP設定が必要となっていたが、asm.jsビルドを使いデフォルトでCSPに対応した。\nまた、パフォーマンスについてはほぼ同等で、Safariに関してはasm.js版の方が早くなっている。",
+            "tags": [
+                "ECMAScript",
+                "module",
+                "polyfill",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "feat: make the CSP asm.js build the main entry by guybedford · Pull Request #193 · guybedford/es-module-shims",
+                    "url": "https://github.com/guybedford/es-module-shims/pull/193"
+                },
+                {
+                    "title": "feat: asm.js build by guybedford · Pull Request #86 · guybedford/es-module-lexer",
+                    "url": "https://github.com/guybedford/es-module-lexer/pull/86"
+                },
+                {
+                    "title": "content-security-policy/CSP.md at master · WebAssembly/content-security-policy",
+                    "url": "https://github.com/WebAssembly/content-security-policy/blob/master/proposals/CSP.md"
+                }
+            ]
         }
     ]
 }
