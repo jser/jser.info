@@ -789,6 +789,18 @@
                     "url": "https://github.com/WebAssembly/content-security-policy/blob/master/proposals/CSP.md"
                 }
             ]
+        },
+        {
+            "date": "2021-09-24T12:46:35.630Z",
+            "title": "vite/packages/plugin-react at main · vitejs/vite",
+            "url": "https://github.com/vitejs/vite/tree/main/packages/plugin-react",
+            "content": "ViteのReact Plugin。\n`@vitejs/plugin-react-refresh`を置き換えるプラグイン",
+            "tags": [
+                "React",
+                "vite",
+                "plugin"
+            ],
+            "relatedLinks": []
         }
     ]
 }
