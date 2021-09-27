@@ -844,6 +844,23 @@
                 "GraphQL"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-27T12:11:44.070Z",
+            "title": "Get Your Head Straight - Speaker Deck",
+            "url": "https://speakerdeck.com/csswizardry/get-your-head-straight",
+            "content": "パフォーマンスの問題を見つけるために`<head>`の中身を表示するct.cssについてのスライド。\n`<script>`や`<style>`について3rd partyであるかやブロッキングしてるかなどを可視化してくれる",
+            "tags": [
+                "performance",
+                "slide",
+                "CSS"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "🧠 ct.css – Let’s take a look inside your <head>",
+                    "url": "https://csswizardry.com/ct/"
+                }
+            ]
         }
     ]
 }
