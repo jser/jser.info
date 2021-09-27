@@ -829,6 +829,21 @@
                     "url": "https://eslint.org/docs/8.0.0/user-guide/migrating-to-8.0.0"
                 }
             ]
+        },
+        {
+            "date": "2021-09-27T10:52:05.051Z",
+            "title": "Fullstack app with TypeScript, Next.js, Prisma & GraphQL",
+            "url": "https://www.prisma.io/blog/fullstack-nextjs-graphql-prisma-oklidw1rhw",
+            "content": "Next.js/Prisma/GraphQLを使ったアプリケーション開発についてのチュートリアル。",
+            "tags": [
+                "node.js",
+                "tutorial",
+                "article",
+                "prisma",
+                "Next.js",
+                "GraphQL"
+            ],
+            "relatedLinks": []
         }
     ]
 }
