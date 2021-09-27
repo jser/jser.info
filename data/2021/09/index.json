@@ -861,6 +861,23 @@
                     "url": "https://csswizardry.com/ct/"
                 }
             ]
+        },
+        {
+            "date": "2021-09-27T13:04:10.275Z",
+            "title": "BuilderIO/partytown: Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉",
+            "url": "https://github.com/BuilderIO/partytown",
+            "content": "サードパーティスクリプトをWorker内で動かしてメインスレッドのブロッキングを防ぐライブラリ。\nWorker内でのDOM操作をProxyして、同期XHRで通信し、その通信をService Workerでインターセプトしてメインスレッドと非同期でやり取りした結果をWorkerに返している。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "performance"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing Partytown 🎉: Run Third-Party Scripts From a Web Worker - DEV Community 👩‍💻👨‍💻",
+                    "url": "https://dev.to/adamdbradley/introducing-partytown-run-third-party-scripts-from-a-web-worker-2cnp"
+                }
+            ]
         }
     ]
 }
