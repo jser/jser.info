@@ -878,6 +878,24 @@
                     "url": "https://dev.to/adamdbradley/introducing-partytown-run-third-party-scripts-from-a-web-worker-2cnp"
                 }
             ]
+        },
+        {
+            "date": "2021-09-27T13:28:03.706Z",
+            "title": "Stimulus 3",
+            "url": "https://world.hey.com/hotwired/stimulus-3-c438d432",
+            "content": "Stimulus 3 リリース。\nパッケージ名が`stimulus`から`@hotwired/stimulus`へと変更された。\nAction Parametersのサポート、デフォルト値のサポート、`debug`オプションの追加など",
+            "tags": [
+                "JavaScript",
+                "rails",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Comparing v2.0.0...v3.0.0 · hotwired/stimulus",
+                    "url": "https://github.com/hotwired/stimulus/compare/v2.0.0...v3.0.0"
+                }
+            ]
         }
     ]
 }
