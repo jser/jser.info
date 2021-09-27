@@ -896,6 +896,27 @@
                     "url": "https://github.com/hotwired/stimulus/compare/v2.0.0...v3.0.0"
                 }
             ]
+        },
+        {
+            "date": "2021-09-27T13:54:58.875Z",
+            "title": "Introducing Gatsby 4 | Gatsby",
+            "url": "https://www.gatsbyjs.com/gatsby-4/",
+            "content": "Gatsby 4ベータリリース。\nHTMLの生成を実際にアクセスするときまで遅延するDeferred Static Generation(DSG)のサポート、SSRのサポート、parallel queryでのビルド時間の改善など",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Matteo Frana on Twitter: &quot;@chatsidhartha Can you explain me briefly the differences between Gatsby DSG and ISR? Thank you! I'm looking forward to testing Gatsby 4.&quot; / Twitter",
+                    "url": "https://twitter.com/matfrana/status/1442225069158248449"
+                },
+                {
+                    "title": "Run Gatsby 4 with DSG and SSR on Netlify today | Netlify",
+                    "url": "https://www.netlify.com/blog/2021/09/16/run-gatsby-4-with-dsg-and-ssr-on-netlify-today/"
+                }
+            ]
         }
     ]
 }
