@@ -928,6 +928,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-09-30T11:31:44.334Z",
+            "title": "Chrome user device characteristics report - Chrome Developers",
+            "url": "https://developer.chrome.com/en/blog/device-characteristics/",
+            "content": "Chromeの使用統計データから、RAM、コア数、ネットワークの接続種類、WebGLのハードウェアサポートについてのデータを国ごとにまとめたレポート。\nAndroid、Windows、ChromeOSにおいての統計データがまとめられている",
+            "tags": [
+                "Chrome",
+                "article",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chrome User Device Characteristics - Google ドキュメント",
+                    "url": "https://docs.google.com/document/d/1BPz0UnQGotX0dACmJbHbbXFJa38jxmKhhNQ2RLj5Gms/edit"
+                }
+            ]
         }
     ]
 }
