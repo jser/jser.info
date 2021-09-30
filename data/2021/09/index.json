@@ -945,6 +945,24 @@
                     "url": "https://docs.google.com/document/d/1BPz0UnQGotX0dACmJbHbbXFJa38jxmKhhNQ2RLj5Gms/edit"
                 }
             ]
+        },
+        {
+            "date": "2021-09-30T11:55:17.623Z",
+            "title": "Explore JavaScript Dependencies With Lighthouse Treemap",
+            "url": "https://sia.codes/posts/lighthouse-treemap/",
+            "content": "Lighthouse v7.5.0で追加されたLighthouse Treemapについて。\nSource Mapを使ってページのファイルサイズを一覧できる",
+            "tags": [
+                "Chrome",
+                "debug",
+                "article",
+                "performance"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v7.5.0 · GoogleChrome/lighthouse",
+                    "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v7.5.0"
+                }
+            ]
         }
     ]
 }
