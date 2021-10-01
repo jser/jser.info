@@ -1,0 +1,15 @@
+{
+    "list": [
+        {
+            "date": "2021-10-01T07:18:36.033Z",
+            "title": "Release Notes for Safari Technology Preview 133 | WebKit",
+            "url": "https://webkit.org/blog/11975/release-notes-for-safari-technology-preview-133/",
+            "content": "Safari Technology Preview 133リリース。\nCSSの`calc()`内で`sin()`, `cos()`, `tan()`, `e`, `pi`のサポート。\nCSS Cascade Layersを実験的にサポート、ES Proposal Stage3の`Temporal`をフラグ付きで実装。\n`BroadcastChannel`の有効化、COOPとCOEPヘッダーをサポートし`self.crossOriginIsolated`時に`SharedArrayBuffer`を利用できるようになるなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
