@@ -10,6 +10,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-10-02T04:41:37.114Z",
+            "title": "dolanmiu/docx: Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.",
+            "url": "https://github.com/dolanmiu/docx",
+            "content": "JavaScriptでdocxファイルを生成するライブラリ。\nビルダー関数で組み立ててコンテンツを作成できる。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
