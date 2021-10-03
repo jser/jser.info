@@ -21,6 +21,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-10-03T13:48:02.505Z",
+            "title": "Announcing TypeScript 4.5 Beta - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-5-beta/",
+            "content": "TypeScript 4.5 Betaリリース。\n`module: node12`でのESMサポート、`.mjs`と`.cjs`に対応する拡張子として`.mts`と`.cts`の追加、`package.json`の`exports`フィールドに対応。\nTypeScriptがビルトインで持つ`lib`の型定義を`dependencies`としてロックできるように。\n`Awaited`型の追加、Top-Level awaitに対応した`module: es2022`のサポート、Condition Typesにおいて一部末尾最適化するように。\nimport名に対する`type` modifierのサポート、ES ProposalのPrivate Field Presence Checks、Import Assertionsのサポートなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
