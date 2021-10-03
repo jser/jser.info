@@ -64,6 +64,23 @@
                 "opinion"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-10-03T14:21:54.858Z",
+            "title": "Accessible Palette: Create color systems with consistent lightness and contrast",
+            "url": "https://accessiblepalette.com/",
+            "content": "コントラスト比などのアクセシビリティに考慮した色を選ぶカラーパレットツール。\n",
+            "tags": [
+                "accessibility",
+                "color",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Accessible Palette: stop using HSL for color systems | Wildbit",
+                    "url": "https://wildbit.com/blog/2021/09/16/accessible-palette-stop-using-hsl-for-color-systems"
+                }
+            ]
         }
     ]
 }
