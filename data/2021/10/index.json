@@ -81,6 +81,18 @@
                     "url": "https://wildbit.com/blog/2021/09/16/accessible-palette-stop-using-hsl-for-color-systems"
                 }
             ]
+        },
+        {
+            "date": "2021-10-03T14:24:08.225Z",
+            "title": "Can I include a tag to a tag? Based on HTML Spec WHATWG",
+            "url": "https://caninclude.glitch.me/",
+            "content": "HTMLの要素同士の入れ子関係が許容されているかをチェックできるツール。",
+            "tags": [
+                "HTML",
+                "Tools",
+                "spec"
+            ],
+            "relatedLinks": []
         }
     ]
 }
