@@ -93,6 +93,20 @@
                 "spec"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-10-03T14:26:52.919Z",
+            "title": "ESLint rules for migrating projects from CommonJS to ESM",
+            "url": "https://gist.github.com/Jaid/164668c0151ae09d2bc81be78a203dd5",
+            "content": "CommonJSではなくECMAScript Modulesを使うときに関係するESLintルールと設定まとめ。\n",
+            "tags": [
+                "ESLint",
+                "ECMAScript",
+                "module",
+                "CommonJS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
