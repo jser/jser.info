@@ -162,6 +162,19 @@
                 "DOM"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-10-06T14:34:15.840Z",
+            "title": "Safe DOM manipulation with the Sanitizer API",
+            "url": "https://web.dev/sanitizer/",
+            "content": "Sanitizer APIのProposalについて。\nHTML文字列をサニタイズするAPIと`Element#setHTML`での設定方法について。\nDomPurifyなどとは異なりサニタイズしたHTML文字列ではなく、HTMLElementを返すAPIを持つ",
+            "tags": [
+                "WebPlatformAPI",
+                "security",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
