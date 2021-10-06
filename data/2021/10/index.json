@@ -131,6 +131,24 @@
                 "opinion"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-10-06T13:40:03.719Z",
+            "title": "Core:Manipulation: Add basic TrustedHTML support by mgol · Pull Request #4927 · jquery/jquery",
+            "url": "https://github.com/jquery/jquery/pull/4927",
+            "content": "jQueryにTrusted Typesのサポートが実装された。\njQuery 4.0に含まれる予定",
+            "tags": [
+                "jQuery",
+                "XSS",
+                "security",
+                "issue"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Have Trusted Types API built directly into the jQuery Core Files · Issue #4409 · jquery/jquery",
+                    "url": "https://github.com/jquery/jquery/issues/4409"
+                }
+            ]
         }
     ]
 }
