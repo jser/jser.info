@@ -149,6 +149,19 @@
                     "url": "https://github.com/jquery/jquery/issues/4409"
                 }
             ]
+        },
+        {
+            "date": "2021-10-06T14:25:52.478Z",
+            "title": "google/safevalues",
+            "url": "https://github.com/google/safevalues",
+            "content": "Trutsted TypesベースのHTML、JavaScript、URLの文字列処理をするヘルパーライブラリ",
+            "tags": [
+                "JavaScript",
+                "security",
+                "library",
+                "DOM"
+            ],
+            "relatedLinks": []
         }
     ]
 }
