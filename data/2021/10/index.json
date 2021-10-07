@@ -175,6 +175,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-10-07T05:39:09.907Z",
+            "title": "lukeed/tsm: TypeScript Module Loader",
+            "url": "https://github.com/lukeed/tsm",
+            "content": "Node.jsの`--loader`や`--require`に対応したTypeScriptのloaderライブラリ。\nts-nodeのように扱える。内部的にはesbuildを使っている",
+            "tags": [
+                "TypeScript",
+                "ECMAScript",
+                "module",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
