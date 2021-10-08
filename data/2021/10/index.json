@@ -204,6 +204,18 @@
                     "url": "https://github.com/nodejs/node/issues/40168"
                 }
             ]
+        },
+        {
+            "date": "2021-10-08T15:37:37.648Z",
+            "title": "Release v4.0.0 · immutable-js/immutable-js",
+            "url": "https://github.com/immutable-js/immutable-js/releases/tag/v4.0.0",
+            "content": "immutable-js v4.0.0リリース。\nMITライセンスへ変更、TypeScriptとFlowの型を改善、ドキュメントの更新。\n破壊的な変更として、`merge`と`mergeDeep`の挙動変更、`Iterable`をCollectionにリネーム、APIの削除や追加などが含まれる。\nまた、CollectionがECMAScriptのIterable protocolの実装となるように変更など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
