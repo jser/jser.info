@@ -264,6 +264,19 @@
                     "url": "https://blog.jqueryui.com/2021/10/jquery-maintainers-update-and-transition-jquery-ui-as-part-of-overall-modernization-efforts/"
                 }
             ]
+        },
+        {
+            "date": "2021-10-09T15:12:26.629Z",
+            "title": "jQuery maintainers continue modernization initiative with deprecation of jQuery Mobile - OpenJS Foundation",
+            "url": "https://openjsf.org/blog/2021/10/07/deprecation-of-jquery-mobile/",
+            "content": "jQuery Mobileは2021-10-07をもってDeprecatedとなった。\n同じくjQuery UIもメンテナンスモードとなった。",
+            "tags": [
+                "jQuery",
+                "mobile",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
