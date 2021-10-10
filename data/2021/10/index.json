@@ -277,6 +277,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-10-10T06:13:58.607Z",
+            "title": "Have Single-Page Apps Ruined the Web? | Transitional Apps with Rich Harris, NYTimes - YouTube",
+            "url": "https://www.youtube.com/watch?v=860d8usGC0o",
+            "content": "SPAとMPAについて。\nSPAにはパフォーマンスなどの欠点があるが、MPAにはナビゲーションやステートなどの欠点がある。\nアプリケーションはSPAとMPAで二分されるものではなく、Next.jsやSvelteKitなどは両方の長所をとるアプローチをしていて、それをTransitionalAppsと呼ぼう的な話",
+            "tags": [
+                "JavaScript",
+                "opinion",
+                "video"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Rich Harris on Twitter: &quot;i recorded a talk for https://t.co/aMw9AtvdSC — https://t.co/GETYZ6JW47 — about whether you should build multi-page apps (MPAs) or single-page apps (SPAs). spoiler: the answer is 'neither'. or 'both', depending on your definitions. here's the condensed tweet thread version:&quot; / Twitter",
+                    "url": "https://twitter.com/Rich_Harris/status/1446601175197880325"
+                }
+            ]
         }
     ]
 }
