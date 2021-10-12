@@ -334,6 +334,23 @@
                     "url": "https://eslint.org/docs/user-guide/migrating-to-8.0.0"
                 }
             ]
+        },
+        {
+            "date": "2021-10-12T03:41:33.458Z",
+            "title": "Release v5.0.0 · typescript-eslint/typescript-eslint",
+            "url": "https://github.com/typescript-eslint/typescript-eslint/releases/tag/v5.0.0",
+            "content": "TypeScript ESLint 5.0.0リリース。\nESLint 8へアップデート、Node 10のサポート終了。\n`eslint-recommended`のルールを更新、ルールの変更、ASTの更新など",
+            "tags": [
+                "ESLint",
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESLint v8.0.0 released - ESLint - Pluggable JavaScript linter",
+                    "url": "https://eslint.org/blog/2021/10/eslint-v8.0.0-released"
+                }
+            ]
         }
     ]
 }
