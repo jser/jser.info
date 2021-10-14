@@ -353,7 +353,7 @@
             ]
         },
         {
-            "date": "2021-10-14T14:03:30.715Z",
+            "date": "2021-10-14T14:24:00.842Z",
             "title": "Announcing Parcel v2!",
             "url": "https://parceljs.org/blog/v2/",
             "content": "Parcel v2リリース。\nプラグインの仕組みを刷新、Tree Shakingをデフォルト化、SWCベースのJavaScriptコンパイラに変更、ModernとLegacyビルドの出し分け、Image optimizerの追加。\nbundleのインライン化、ライブラリ向けのビルドのサポート、開発時はリクエストされたタイミングで遅延ビルドできるようになるなど。\nその他にもSource MapライブラリをRustで書き直してパフォーマンス改善やファイル監視の仕組みの改善などが含まれている",
@@ -362,7 +362,12 @@
                 "bundler",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Migration",
+                    "url": "https://parceljs.org/getting-started/migration/"
+                }
+            ]
         }
     ]
 }
