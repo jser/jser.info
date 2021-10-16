@@ -390,6 +390,22 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-10-16T14:39:32.201Z",
+            "title": "Deno 1.15 Release Notes | Deno Blog",
+            "url": "https://deno.com/blog/v1.15",
+            "content": "Deno 1.15リリース。\nWeb Crypto APIの更新、FFIの改善、`deno uninstall`コマンドの追加、`deno lint --watch`の追加。\n`Deno.test`がネストしたテストケースをサポート、V8 9.5へアップデート、Node.js互換のモジュールを利用できる`--compat`フラグの追加など",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Deno v1.15で導入されたNode.js互換モードについて",
+                    "url": "https://zenn.dev/uki00a/articles/node-compat-mode-introduced-in-deno-v1-15"
+                }
+            ]
         }
     ]
 }
