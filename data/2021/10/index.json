@@ -406,6 +406,18 @@
                     "url": "https://zenn.dev/uki00a/articles/node-compat-mode-introduced-in-deno-v1-15"
                 }
             ]
+        },
+        {
+            "date": "2021-10-16T15:28:46.392Z",
+            "title": "Sairyss/domain-driven-hexagon: Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.",
+            "url": "https://github.com/Sairyss/domain-driven-hexagon",
+            "content": "ドメイン駆動設計(DDD)についてのガイド。\n主にDDDに関係する用語、設計、TypeScriptでのサンプルを用いた技術的な戦術についての解説をまとめたもの。",
+            "tags": [
+                "DDD",
+                "document",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
