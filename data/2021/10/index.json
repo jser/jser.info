@@ -420,10 +420,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-10-17T15:40:46.959Z",
+            "date": "2021-10-17T15:48:46.120Z",
             "title": "Nuxt - Introducing Nuxt 3 Beta",
             "url": "https://nuxtjs.org/announcements/nuxt3-beta/",
-            "content": "Nuxt 3 betaリリース。\n",
+            "content": "Nuxt 3 betaリリース。\nVue 3とViteへの対応。\n新しいサーバエンジンのNitro Engineを導入することで、通常のNode.jsサーバ、Serverless、Service Workerなど様々な形でデプロイできるようになっている。",
             "tags": [
                 "Vue",
                 "Next.js",
