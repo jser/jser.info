@@ -466,6 +466,23 @@
             ],
             "viaURL": "https://oss.capital/",
             "relatedLinks": []
+        },
+        {
+            "date": "2021-10-18T13:30:43.456Z",
+            "title": "Release v7.0.0 · pinojs/pino",
+            "url": "https://github.com/pinojs/pino/releases/tag/v7.0.0",
+            "content": "pino 7.0.0リリース。\nログの処理を別Threadなどに渡せる`pino.transport()`の追加、`pino.multistream()`の追加、TypeScriptの型を同梱するようになるなど",
+            "tags": [
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Welcome to pino@7.0.0 - and the era of worker_thread transport - NearForm",
+                    "url": "https://www.nearform.com/blog/pino7-0-0-pino-transport-worker_thread-transport/"
+                }
+            ]
         }
     ]
 }
