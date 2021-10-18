@@ -483,6 +483,24 @@
                     "url": "https://www.nearform.com/blog/pino7-0-0-pino-transport-worker_thread-transport/"
                 }
             ]
+        },
+        {
+            "date": "2021-10-18T14:55:18.976Z",
+            "title": "RF21 – Naman Goel – Rethinking CSS - Introducing Stylex - YouTube",
+            "url": "https://www.youtube.com/watch?v=ur-sGzUWId4",
+            "content": "FacebookのAtomic CSSの実装であるStylexについての動画。\nStylexはReact-Nativeライクなスタイルの書き方をするツールキット、Atomic CSSによって線形的に増えるCSSの量を非線形にできる。\n2021年末にベータ版をリリースする予定。",
+            "tags": [
+                "facebook",
+                "React",
+                "CSS",
+                "video"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Facebook CSS-in-JS Solution Stylex Introduced at React Finland 2021",
+                    "url": "https://www.infoq.com/news/2021/10/facebook-css-js-stylex/"
+                }
+            ]
         }
     ]
 }
