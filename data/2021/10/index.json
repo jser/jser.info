@@ -561,6 +561,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-10-22T02:19:29.705Z",
+            "title": "Chromium Blog: Chrome 96 Beta: Conditional Focus, Priority Hints, and More",
+            "url": "https://blog.chromium.org/2021/10/chrome-96-beta-conditional-focus.html",
+            "content": "Chrome 96 betaリリース。\nChromeバージョン 100をテストできるフラグの追加。\nOrigin TrialとしてConditional Focus、Priority Hintsの追加。\nBFCacheがDeskopでも有効化、CSS `:autofill`擬似クラスとMedia Queryの`prefers-contrast`をサポート。\nHTTPS DNS Recordsのサポート、WebAssemblyのCSP対応で`wasm-unsafe-eval`をサポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
