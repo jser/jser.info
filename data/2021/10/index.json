@@ -572,6 +572,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-10-22T02:22:55.944Z",
+            "title": "Optimizing resource loading with Priority Hints",
+            "url": "https://web.dev/priority-hints/",
+            "content": "Chrome 96 betaでのOrigin Trialで実装されたPriority Hintsについて。\n`importance`属性を使ってリソースロードの優先度のHintを定義できる。",
+            "tags": [
+                "Chrome",
+                "browser",
+                "article",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
