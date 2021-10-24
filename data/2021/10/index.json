@@ -609,6 +609,26 @@
                 "Chrome"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-10-24T13:54:48.983Z",
+            "title": "unjs/unstorage: 🌍 💾 Universal Storage Layer",
+            "url": "https://github.com/unjs/unstorage",
+            "content": "localForgeなどのようにdriverを切り替え可能なKVSライブラリ。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "localForage/localForage: 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.",
+                    "url": "https://github.com/localForage/localForage"
+                },
+                {
+                    "title": "azu/kvs: Lightweight key-value storage library for Browser, Node.js, and In-Memory.",
+                    "url": "https://github.com/azu/kvs"
+                }
+            ]
         }
     ]
 }
