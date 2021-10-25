@@ -679,6 +679,26 @@
                     "url": "https://web.dev/reporting-api-migration/#migration-steps"
                 }
             ]
+        },
+        {
+            "date": "2021-10-25T15:35:20.794Z",
+            "title": "Yarn 3.1 🎃👻 Corepack, ESM, pnpm, Optional Packages ... - DEV Community 👩‍💻👨‍💻",
+            "url": "https://dev.to/arcanis/yarn-31-corepack-esm-pnpm-optional-packages--3hak",
+            "content": "Yarn 3.1リリース。\n`yarn init -2`でCorepackの対応、PnPでのEMSサポート、`nodeLinker: pnpm`のサポート。\n`optionalDependencies`で指定したアーキテクチャだけをダウンロードする`supportedArchitectures`の設定を追加、`wrokspaces`コマンドに`--since`フラグの追加",
+            "tags": [
+                "yarn",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "berry/CHANGELOG.md at master · yarnpkg/berry",
+                    "url": "https://github.com/yarnpkg/berry/blob/master/CHANGELOG.md#310"
+                },
+                {
+                    "title": "Different strategy for installing platform-specific binaries · Issue #789 · evanw/esbuild",
+                    "url": "https://github.com/evanw/esbuild/issues/789#issuecomment-901467782"
+                }
+            ]
         }
     ]
 }
