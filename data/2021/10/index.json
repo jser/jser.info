@@ -631,14 +631,15 @@
             ]
         },
         {
-            "date": "2021-10-25T11:56:49.457Z",
+            "date": "2021-10-25T11:57:05.571Z",
             "title": "Security issue: compromised npm packages of ua-parser-js (0.7.29, 0.8.0, 1.0.0) - Questions about deprecated npm package ua-parser-js · Issue #536 · faisalman/ua-parser-js",
             "url": "https://github.com/faisalman/ua-parser-js/issues/536",
             "content": "マルウェアを含むua-parser-js 0.7.29/0.8.0/1.0.0が公開されていたため、\nそれぞれpatch versionとして0.7.30/0.8.1/1.0.1がリリースされた。",
             "tags": [
                 "npm",
                 "security",
-                "issue"
+                "issue",
+                "news"
             ],
             "relatedLinks": [
                 {
