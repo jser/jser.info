@@ -658,6 +658,27 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-10-25T13:22:39.637Z",
+            "title": "Monitor your web application with the Reporting API",
+            "url": "https://web.dev/reporting-api/",
+            "content": "Chrome 96から利用できる`Reporting-Endpoints`について。\n`Report-To`はDeprecatedとなり`Reporting-Endpoints`を使うようになる。\nCSPエラー、ネットワークエラー、ポリシーエラーのレポート先を指定できる",
+            "tags": [
+                "Chrome",
+                "browser",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Reporting API: Isolate reports per-document and support the Reporting-Endpoints header - Chrome Platform Status",
+                    "url": "https://www.chromestatus.com/feature/5712172409683968"
+                },
+                {
+                    "title": "Migrate to Reporting API v1",
+                    "url": "https://web.dev/reporting-api-migration/#migration-steps"
+                }
+            ]
         }
     ]
 }
