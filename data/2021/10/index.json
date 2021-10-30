@@ -767,6 +767,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-10-30T15:44:19.293Z",
+            "title": "7.16.0 Released: ESLint 8 and TypeScript 4.5 · Babel",
+            "url": "https://babeljs.io/blog/2021/10/29/7.16.0",
+            "content": "Babel 7.16.0リリース。\n`@babel/preset-env`がClass static blocksを含むように、TypeScript 4.5のサポート。\npipeline operatorのHack topic tokenのオプションをサポート、ESLint 8のサポートなど",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
