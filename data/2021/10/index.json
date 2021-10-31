@@ -790,6 +790,23 @@
                 "toool"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-10-31T13:32:10.996Z",
+            "title": "mizchi/mints",
+            "url": "https://github.com/mizchi/mints",
+            "content": "TypeScriptのコードから型を取り除くツール。\nファイルサイズの小さいTypeScript to JavaScriptのツールの作成を目的にしている。",
+            "tags": [
+                "TypeScript",
+                "Tools",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "mints: 5.7kb の TypeScript コンパイラを作った",
+                    "url": "https://zenn.dev/mizchi/articles/minimum-tsc-mints"
+                }
+            ]
         }
     ]
 }
