@@ -778,6 +778,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-10-31T01:17:19.857Z",
+            "title": "dominikg/tsconfck: A utility to find and parse tsconfig files without depending on typescript",
+            "url": "https://github.com/dominikg/tsconfck",
+            "content": "`tsconfig.json`の探索や設定内容を取得するライブラリ。\n`extends`した内容も取得できる。",
+            "tags": [
+                "TypeScript",
+                "library",
+                "toool"
+            ],
+            "relatedLinks": []
         }
     ]
 }
