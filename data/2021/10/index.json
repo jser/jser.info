@@ -807,6 +807,18 @@
                     "url": "https://zenn.dev/mizchi/articles/minimum-tsc-mints"
                 }
             ]
+        },
+        {
+            "date": "2021-10-31T13:38:27.341Z",
+            "title": "Photoshop's journey to the web",
+            "url": "https://web.dev/ps-on-the-web/",
+            "content": "Photoshopをウェブで動かすためにGoogleとAdobeが取り組んだことについて。\nEmscriptenを使ってC++をWebAssemblyにコンパイルしたが、マルチスレッド/デバッグ/高性能なストレージが不足していたためそれを補う機能開発。\nまたWebComponentとLitを使ったUIについて",
+            "tags": [
+                "Chrome",
+                "WebAssembly",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
