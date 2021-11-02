@@ -61,6 +61,19 @@
                 "privacy"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-02T02:45:06.710Z",
+            "title": "Release AVA 4 Release Candidate 1 · avajs/ava",
+            "url": "https://github.com/avajs/ava/releases/tag/v4.0.0-rc.1",
+            "content": "AVA 4 RC1リリース。\n破壊的な変更としてNode 10のサポート終了、スナップショットファイルの形式変更、`t.cb()`と`t.end()`の削除など。\n`worker_threads`の対応、親ディレクトリの`ava.config`ファイルを探索するように、ESMの対応など",
+            "tags": [
+                "node.js",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
