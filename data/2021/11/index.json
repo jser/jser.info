@@ -85,6 +85,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-03T11:35:18.300Z",
+            "title": "Release v11.0.0 · puppeteer/puppeteer",
+            "url": "https://github.com/puppeteer/puppeteer/releases/tag/v11.0.0",
+            "content": "puppeteer 11.0.0リリース。\nOut of Processなiframeのwaitをサポートする`Page.waitForFrame()`と`frame.isOOPFrame()`の追加。\nHTTP Requestのinitiatorを取得できるようになるなど",
+            "tags": [
+                "Chrome",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
