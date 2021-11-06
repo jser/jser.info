@@ -109,6 +109,27 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-06T06:23:50.633Z",
+            "title": "React Router v6 | Remix",
+            "url": "https://remix.run/blog/react-router-v6",
+            "content": "React Router v6リリース。\nReact Hooksベースで再実装、`<Route>`のネストの改善、`<Link to>`の値に相対パスの解釈を`<Route path>`を基準にするように変更など",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "React Router v6 | Remix",
+                    "url": "https://remix.run/blog/react-router-v6#upgrading-to-react-router-v6"
+                },
+                {
+                    "title": "React Router | Upgrading from v5",
+                    "url": "https://reactrouter.com/docs/en/v6/upgrading/v5"
+                }
+            ]
         }
     ]
 }
