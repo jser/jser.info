@@ -184,7 +184,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-11-06T07:05:22.306Z",
+            "date": "2021-11-06T07:07:44.060Z",
             "title": "Malware found in coa and rc, two npm packages with 23M weekly downloads - The Record by Recorded Future",
             "url": "https://therecord.media/malware-found-in-coa-and-rc-two-npm-packages-with-23m-weekly-downloads/",
             "content": "`coa`と`rc`パッケージにマルウェアが含まれていたバージョンがpublishされていた問題について。\n現在は無効化されているが、それぞれ次のバージョンが問題となっている。\n\n- coa: 2.0.3, 2.0.4, 2.1.1, 2.1.3, 3.0.1, 3.1.3\n- rc: 1.2.9, 1.3.9, 2.3.9",
@@ -195,12 +195,12 @@
             ],
             "relatedLinks": [
                 {
-                    "title": "Last release contains malicious code · Issue #99 · veged/coa",
-                    "url": "https://github.com/veged/coa/issues/99"
+                    "title": "Embedded malware in coa · GHSA-73qr-pfmq-6rp8 · GitHub Advisory Database",
+                    "url": "https://github.com/advisories/GHSA-73qr-pfmq-6rp8"
                 },
                 {
-                    "title": "Version 1.2.9 contains malicious code · Issue #131 · dominictarr/rc",
-                    "url": "https://github.com/dominictarr/rc/issues/131"
+                    "title": "Embedded malware in rc · GHSA-g2q5-5433-rhrf · GitHub Advisory Database",
+                    "url": "https://github.com/advisories/GHSA-g2q5-5433-rhrf"
                 }
             ]
         }
