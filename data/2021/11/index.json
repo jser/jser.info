@@ -130,6 +130,17 @@
                     "url": "https://reactrouter.com/docs/en/v6/upgrading/v5"
                 }
             ]
+        },
+        {
+            "date": "2021-11-06T06:29:56.198Z",
+            "title": "Announcing TypeScript 4.5 RC - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-5-rc/",
+            "content": "TypeScript 4.5 RCリリース。\n4.5 betaで導入されていたESM対応の`module: node12`はリリースが延期となった。",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
