@@ -214,6 +214,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-06T07:55:20.899Z",
+            "title": "Record, replay and measure user flows - Chrome Developers",
+            "url": "https://developer.chrome.com/docs/devtools/recorder/",
+            "content": "Chrome 97の開発者ツールにプレビュー実装されたRecorder panelについて。\nユーザー操作を記録し再生できる。またユーザーフローとPerformanceを組み合わせられる。\n記録した内容は編集したり、Puppeteerスクリプトとして出力できる。",
+            "tags": [
+                "Chrome",
+                "article",
+                "debug"
+            ],
+            "relatedLinks": []
         }
     ]
 }
