@@ -141,6 +141,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-06T06:41:45.070Z",
+            "title": "What's new in PageSpeed Insights",
+            "url": "https://web.dev/whats-new-pagespeed-insights/",
+            "content": "新しいPageSpeed Insightsの画面解説。\n計測データとCrUXデータ(Lab)が混在していたが、CrUXのデータはOrigin Summaryというタブに分離された。\nCore Web Vitalsのスコア表示などが含まれる予定",
+            "tags": [
+                "google",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
