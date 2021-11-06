@@ -97,6 +97,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-06T05:54:38.121Z",
+            "title": "Recoil 0.5 | Recoil",
+            "url": "https://recoiljs.org/blog/2021/11/03/0.5.0-release",
+            "content": "Recoil 0.5リリース。\nキャッシュをクリアできる`useRecoilRefresher_UNSTABLE()`の追加。\n`onSet`のコールバックに`isReset`を追加、`getLoadable()`/`getPromise()`/`getInfo_UNSTABLE()`の追加など",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
