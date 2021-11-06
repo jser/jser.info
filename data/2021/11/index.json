@@ -153,6 +153,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-06T06:50:13.985Z",
+            "title": "urin/qrono: 🕥 Just right date time library",
+            "url": "https://github.com/urin/qrono",
+            "content": "Immutableな日付操作ライブラリ。\nUTCとローカル時間のみを扱うことで、夏時間のあいまいな時間を正確に扱う。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "こういうのでいいんだよ、な JavaScript日付時刻ライブラリ Qrono",
+                    "url": "https://zenn.dev/urin/articles/6ca9cf8174fd92"
+                }
+            ]
         }
     ]
 }
