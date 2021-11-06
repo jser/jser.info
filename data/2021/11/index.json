@@ -203,6 +203,17 @@
                     "url": "https://github.com/advisories/GHSA-g2q5-5433-rhrf"
                 }
             ]
+        },
+        {
+            "date": "2021-11-06T07:41:51.552Z",
+            "title": "V8 release v9.7 · V8",
+            "url": "https://v8.dev/blog/v8-release-97",
+            "content": "V8 v9.7リリース。\nArrayとTypedArrayに`findLast`と`findLastIndex`の実装。",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
