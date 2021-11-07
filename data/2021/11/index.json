@@ -226,6 +226,18 @@
                 "debug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-07T13:50:03.821Z",
+            "title": "TypeScriptのJSDocサポートでできること、できないこと",
+            "url": "https://zenn.dev/qnighy/articles/56917d9bf9077b",
+            "content": "TypeScriptのJSDocによる型アノテーションについての解説。\nTypeScriptとJSDocの型アノテーションでの表現力の違い、JSDocでの型アノテーションの書き方について",
+            "tags": [
+                "TypeScript",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
