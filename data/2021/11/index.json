@@ -249,6 +249,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-08T10:40:44.083Z",
+            "title": "Release v4.0.0 · markedjs/marked",
+            "url": "https://github.com/markedjs/marked/releases/tag/v4.0.0",
+            "content": "markded 4.0.0リリース。\nESMの対応、default exportを削除したため`import { markded } from \"marked\"`のnamed importを利用するに変更など",
+            "tags": [
+                "Markdown",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
