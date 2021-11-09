@@ -302,6 +302,21 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-09T02:22:39.663Z",
+            "title": "インクリメンタルに新しい技術を取り入れる方法。TypeScriptへの移行を例にしたプロセス",
+            "url": "https://tech.plaid.co.jp/karte-blocks-incremental-development/",
+            "content": "JavaScriptをTypeScriptを段階的に移行する方法について。\n最初からしっかりとした型をつける方法とゆるい型に変換してから型をつける方法の比較、マイグレーションの順番、型を使ったAPIバリデーション、VueからReactへの段階的な移行など。\nインクリメンタルな移行するときのポイントについて。\n",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "node.js",
+                "React",
+                "Vue",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
