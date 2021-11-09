@@ -329,18 +329,6 @@
                 "article"
             ],
             "relatedLinks": []
-        },
-        {
-            "date": "2021-11-09T02:33:29.153Z",
-            "title": "Performance Tracing · microsoft/TypeScript Wiki",
-            "url": "https://github.com/microsoft/TypeScript/wiki/Performance-Tracing",
-            "content": "TypeScriptの`generateTrace`フラグを使ったトレースデータのプロファイルについて。\n型チェック時のボトルネック調査方法",
-            "tags": [
-                "TypeScript",
-                "performance",
-                "debug"
-            ],
-            "relatedLinks": []
         }
     ]
 }
