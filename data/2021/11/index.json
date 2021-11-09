@@ -290,6 +290,18 @@
                 "cheatsheet"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-09T02:15:25.616Z",
+            "title": "A Comprehensive Guide To Error Handling In Node.js - Honeybadger Developer Blog",
+            "url": "https://www.honeybadger.io/blog/errors-nodejs/",
+            "content": "Node.jsのエラーハンドリングについての記事。\n例外、コールバック、Promise、EventEmitterそれぞれにおけるエラーのハンドリング。\nカスタムエラーでの分類、Operational ErrorとProgrammer Errorの違い。\nまたOperation Errorが発生したときの対処方法とProgrammer Errorの防止策について",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
