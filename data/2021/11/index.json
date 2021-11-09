@@ -262,6 +262,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-09T01:36:58.514Z",
+            "title": "Shopify/hydrogen: React-based framework for building dynamic, Shopify-powered custom storefronts.",
+            "url": "https://github.com/Shopify/hydrogen",
+            "content": "Shopifyのストアフロントを作成するReactベースのフレームワーク。\nViteとReactをベースにしていて、React ServerSide Componentsを利用している。",
+            "tags": [
+                "React",
+                "vite",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce — Smashing Magazine",
+                    "url": "https://www.smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/"
+                }
+            ]
         }
     ]
 }
