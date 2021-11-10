@@ -329,6 +329,17 @@
                 "cheatsheet"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-10T06:54:45.107Z",
+            "title": "Node v17.1.0 (Current) | Node.js",
+            "url": "https://nodejs.org/uk/blog/release/v17.1.0/",
+            "content": "Node.js 17.1.0リリース。\nES ModulesのImport AssertionによるJSONのimportができるように。\n\n```js\nimport fooData from './foo.json' assert { type: 'json' };\n```",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
