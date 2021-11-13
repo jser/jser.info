@@ -340,6 +340,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-13T07:39:34.276Z",
+            "title": "Bundle Scanner - Identify NPM libraries included in Javascript files",
+            "url": "https://bundlescanner.com/",
+            "content": "指定したURLでどのようなJavaScriptファイルがあり、そのJavaScriptファイルから利用されているnpmモジュールを抽出するツール。",
+            "tags": [
+                "npm",
+                "Tools",
+                "webservice"
+            ],
+            "relatedLinks": []
         }
     ]
 }
