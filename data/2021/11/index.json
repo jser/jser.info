@@ -395,6 +395,17 @@
                     "url": "https://github.com/airbnb/javascript/issues/2478"
                 }
             ]
+        },
+        {
+            "date": "2021-11-14T03:48:04.902Z",
+            "title": "Mastering TypeScript Template Literal Types | by Jose Granja | Nov, 2021 | Better Programming",
+            "url": "https://betterprogramming.pub/mastering-typescript-template-literal-types-f4131a94ffb1",
+            "content": "Typescript 4.1 で追加されたTemplate Literal Typeについての解説記事。\n基本的な使い方、制限、Utility Type、`infer`と組み合わせた型を推論する書き方やMapped Typesとの組み合わせについてなど",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
