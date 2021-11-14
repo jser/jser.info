@@ -406,6 +406,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-14T12:00:18.669Z",
+            "title": "koskimas/kysely: A type-safe typescript SQL query builder",
+            "url": "https://github.com/koskimas/kysely",
+            "content": "TypeScriptで書かれたSQLクエリビルダー。\nPostgreSQLとMySQLに対応したクエリの作成と実行ができる。\nSchemaを型として定義し、その型を元にクエリを構築できる。",
+            "tags": [
+                "TypeScript",
+                "PostgreSQL",
+                "MySQL",
+                "library",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
