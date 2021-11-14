@@ -378,6 +378,23 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-14T01:07:14.312Z",
+            "title": "Release eslint-config-airbnb-v19.0.0 · airbnb/javascript",
+            "url": "https://github.com/airbnb/javascript/releases/tag/eslint-config-airbnb-v19.0.0",
+            "content": "eslint-config-airbnb 19.0.0リリース。\nESLint 8のサポート",
+            "tags": [
+                "ESLint",
+                "config",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "eslint v8 support · Issue #2478 · airbnb/javascript",
+                    "url": "https://github.com/airbnb/javascript/issues/2478"
+                }
+            ]
         }
     ]
 }
