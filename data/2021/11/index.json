@@ -456,6 +456,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-15T14:29:56.824Z",
+            "title": "Less Absolute Positioning With Modern CSS - Ahmad Shadeed",
+            "url": "https://ishadeed.com/article/less-absolute-positioning-modern-css/",
+            "content": "CSSの`position: absolute`を使わなくても同等の表現ができるという紹介。\nGridを使った要素の重ね、`order`を使った表示順の変更、`aspect-ratio`を使った画像のアスペクト比の指定など。\nまた`position: absolute`を使った方が良いユースケースについて",
+            "tags": [
+                "CSS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
