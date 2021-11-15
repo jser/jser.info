@@ -432,6 +432,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-15T14:02:46.303Z",
+            "title": "SharedArrayBuffer と過渡期な cross-origin isolation の話",
+            "url": "https://blog.agektmr.com/2021/11/cross-origin-isolation.html",
+            "content": "`SharedArrayBuffer`や高分解能Timerを利用するためにはcross origin isolationな状態が必要となる。\ncross origin isolationな状態にするための条件であるHTTPヘッダについての解説。",
+            "tags": [
+                "browser",
+                "Chrome",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
