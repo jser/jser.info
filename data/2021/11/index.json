@@ -467,6 +467,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-16T14:42:59.738Z",
+            "title": "Release Notes for Safari Technology Preview 135 | WebKit",
+            "url": "https://webkit.org/blog/12040/release-notes-for-safari-technology-preview-135/",
+            "content": "Safari Technology Preview 135リリース。\nCSSの`accent-color`のサポート、`flex-basis: content`のサポート。\n`loading`属性を使った画像の遅延ロードをサポート。\n120Hzのディスプレイでは120Hzでスクロールアニメーションが動くように",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
