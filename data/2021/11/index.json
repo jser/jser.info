@@ -496,6 +496,18 @@
                     "url": "https://web.dev/lighthouse-user-flows/"
                 }
             ]
+        },
+        {
+            "date": "2021-11-16T15:02:39.221Z",
+            "title": "wrangler 2.0 — a new developer experience for Cloudflare Workers",
+            "url": "https://blog.cloudflare.com/wrangler-v2-beta/",
+            "content": "Cloudflare WorkersのCLIであるwrangler 2.0リリース。\n`wrangler dev <filename>`で設定なしでデプロイ、開発できるように、`--public <path>`での静的アセットの指定をサポート。\n`--local`でMiniflareベースのオフラインで動くローカルモードをサポート",
+            "tags": [
+                "cloudflare",
+                "webworker",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
