@@ -478,6 +478,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-16T14:59:10.902Z",
+            "title": "Release v9.0.0 · GoogleChrome/lighthouse",
+            "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v9.0.0",
+            "content": "Lighthouse v9.0.0リリース。\nNode 12のサポート終了、いくつかのauditを削除。\nページ遷移を含むAUditをとるAudit User Flowsをサポートなど",
+            "tags": [
+                "Chrome",
+                "performance",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Lighthouse user flows",
+                    "url": "https://web.dev/lighthouse-user-flows/"
+                }
+            ]
         }
     ]
 }
