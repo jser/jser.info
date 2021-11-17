@@ -521,6 +521,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-17T14:58:38.250Z",
+            "title": "Electron 16.0.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-16-0",
+            "content": "Electron 16.0.0リリース。\nChromium 96、Node.js 16.9.1、V8 9.6へアップデート。\nWebHID APIのサポート、native modulesをビルドするためにnode-gypを使っているプロジェクトでは`--force-process-config`が必要となる変更になど",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
