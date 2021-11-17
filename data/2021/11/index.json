@@ -532,6 +532,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-17T15:00:21.915Z",
+            "title": "Announcing Serverless Framework v3 Beta",
+            "url": "https://www.serverless.com/blog/serverless-framework-v3-beta",
+            "content": "Serverless Framework v3 Betaリリース。\n`serverless`コマンドの出力の改善、`--verbose`のサポート、非推奨だったAPIの削除など",
+            "tags": [
+                "serverless",
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Serverless Framework - Upgrading to v3",
+                    "url": "https://www.serverless.com/framework/docs/guides/upgrading-v3"
+                }
+            ]
         }
     ]
 }
