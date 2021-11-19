@@ -549,6 +549,17 @@
                     "url": "https://web.dev/lighthouse-user-flows/"
                 }
             ]
+        },
+        {
+            "date": "2021-11-19T14:21:31.149Z",
+            "title": "Announcing TypeScript 4.5 - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-5/",
+            "content": "TypeScript 4.5リリース。\nTypeScriptがビルトインで持つ`lib`の型定義を`dependencies`としてロックできるように。\n`Awaited`型の追加、Top-Level awaitに対応した`module: es2022`のサポート、Condition Typesにおいて一部末尾最適化するように。\nimport名に対する`type` modifierのサポート、ES ProposalのPrivate Field Presence Checks、Import Assertionsのサポートなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
