@@ -560,6 +560,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-20T15:29:16.992Z",
+            "title": "React 18 is now in beta · Discussion #112 · reactwg/react-18",
+            "url": "https://github.com/reactwg/react-18/discussions/112",
+            "content": "React 18 betaリリース。\n`useSyncExternalStore`(`useMutableSource`をリネーム)、`useId`、`useInsertionEffect`の追加など",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
