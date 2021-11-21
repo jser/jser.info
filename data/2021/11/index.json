@@ -571,6 +571,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-21T05:01:02.402Z",
+            "title": "divriots/browser-vite: Vite in the browser.",
+            "url": "https://github.com/divriots/browser-vite",
+            "content": "ViteをブラウザのService Workersで動かすプロジェクト",
+            "tags": [
+                "vite",
+                "ServiceWorker",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
