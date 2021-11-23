@@ -654,6 +654,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-23T13:38:33.652Z",
+            "title": "Migrating from Puppeteer to Playwright | Checkly",
+            "url": "https://www.checklyhq.com/guides/puppeteer-to-playwright/",
+            "content": "PuppeteerからPlaywrightの移行方法についての記事。\nAPIの対応表、マイグレーション方法、Playwrightのauto-waiting、二つの違いについてなど",
+            "tags": [
+                "browser",
+                "testing",
+                "Tools",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
