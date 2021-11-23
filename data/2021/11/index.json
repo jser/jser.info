@@ -642,6 +642,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-23T13:33:35.036Z",
+            "title": "Release v6.0.0 · sindresorhus/execa",
+            "url": "https://github.com/sindresorhus/execa/releases/tag/v6.0.0",
+            "content": "execa 6.0.0リリース。\nESMのみのサポートに変更、default exportを削除しnamed exportに変更など",
+            "tags": [
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
