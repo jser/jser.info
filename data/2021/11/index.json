@@ -630,6 +630,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-23T11:54:08.903Z",
+            "title": "What's New In DevTools (Chrome 96) - Chrome Developers",
+            "url": "https://developer.chrome.com/blog/new-in-devtools-96/",
+            "content": "Chrome96の開発者ツールの変更点について。\nCSS Overviewパネルの追加、`prefers-contrast`とAuto Dark Themeのエミュレート機能の追加。\nNetworkパネルにPayloadタブの追加、試験的にReporting APIパネルを追加など",
+            "tags": [
+                "Chrome",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
