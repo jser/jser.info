@@ -695,6 +695,23 @@
                     "url": "https://blog.emberjs.com/ember-3-28-released"
                 }
             ]
+        },
+        {
+            "date": "2021-11-23T14:05:43.288Z",
+            "title": "d-kimuson/type-predicates-generator: generating predicates and assertion function by type definitions.",
+            "url": "https://github.com/d-kimuson/type-predicates-generator",
+            "content": "TypeScriptのコードからtype predicatesをするassertion関数を生成するツール",
+            "tags": [
+                "TypeScript",
+                "library",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "TypeScriptの型定義から型ガードを自動生成する type-predicates-generator の紹介",
+                    "url": "https://zenn.dev/kimuson/articles/type_predicates_generator"
+                }
+            ]
         }
     ]
 }
