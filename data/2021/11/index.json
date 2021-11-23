@@ -667,6 +667,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-23T13:41:10.015Z",
+            "title": "Bun - fast JavaScript & CSS bundler",
+            "url": "https://bun.sh/",
+            "content": "Zigで書かれたJavaScript/TypeScript/CSSに対応したTranspiler/Bundlerツール",
+            "tags": [
+                "babel",
+                "webpack",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
