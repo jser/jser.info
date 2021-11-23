@@ -607,6 +607,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-23T08:04:39.209Z",
+            "title": "Remix v1 | Remix",
+            "url": "https://remix.run/blog/remix-v1",
+            "content": "ReactベースのウェブフレームワークであるRemix v1リリース。\nCLI、ルーティング、ライフサイクルメソッド、React Hooksなどを提供する。\nクライアントサーバモデルで、サーバが返すデータをフィルターし、最小限のデータにすることを目的にした`loader`関数などを持つ。\nfly.ioやCloudflare Workersなどサーバ側をEdgeで動かすことを目的にしている。",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
