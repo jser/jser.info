@@ -724,6 +724,18 @@
                 "LLVM"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-26T12:15:38.405Z",
+            "title": "Prettier 2.5: TypeScript 4.5 and MDX v2 comment syntax! · Prettier",
+            "url": "https://prettier.io/blog/2021/11/25/2.5.0.html",
+            "content": "Prettier 2.5リリース。\nTypeScript 4.5のサポート、MDX v2のコメント構文をサポート、HTMLの`class`属性を複数行に整形していたのを1行に戻す変更など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
