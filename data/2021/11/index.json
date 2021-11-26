@@ -749,6 +749,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-26T12:41:30.116Z",
+            "title": "Release v9.1.0 · GoogleChrome/lighthouse",
+            "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v9.1.0",
+            "content": "Lighthouse v9.1.0リリース。\nNext.js向けのauditを追加など",
+            "tags": [
+                "Chrome",
+                "performance",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "feat: Add Stack Pack for Next.js by kyliau · Pull Request #66 · GoogleChrome/lighthouse-stack-packs",
+                    "url": "https://github.com/GoogleChrome/lighthouse-stack-packs/pull/66"
+                }
+            ]
         }
     ]
 }
