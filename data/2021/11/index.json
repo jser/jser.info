@@ -736,6 +736,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-26T12:38:02.919Z",
+            "title": "Release 8.4 “President Camio” · postcss/postcss",
+            "url": "https://github.com/postcss/postcss/releases/tag/8.4.0",
+            "content": "PostCSS 8.4リリース。\nWarningとErrorにRangeを指定できるように、プラグインが指定されていない場合にパース処理を実際にアクセスするまで遅延させるように。\nパッケージサイズの削減など",
+            "tags": [
+                "CSS",
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
