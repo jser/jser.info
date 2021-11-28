@@ -778,6 +778,19 @@
                 "Rust"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-28T03:20:28.783Z",
+            "title": "Release 12.0.0 · puppeteer/puppeteer",
+            "url": "https://github.com/puppeteer/puppeteer/releases/tag/v12.0.0",
+            "content": "Puppeteer 12.0.0リリース。\nChromium 97.0.4692.0へアップデート、Firefoxで`userDataDir`の指定をサポートなど",
+            "tags": [
+                "Chrome",
+                "Firefox",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
