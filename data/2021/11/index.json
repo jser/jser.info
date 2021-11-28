@@ -791,6 +791,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-28T07:58:46.776Z",
+            "title": "Deno のこれまでとこれから JSConf JP 2021",
+            "url": "https://kt3k.github.io/talk_jsconfjp2021/#1",
+            "content": "Denoの設計や採用事例についてのスライド。\nまた現在進めているNode.js互換モードについて。",
+            "tags": [
+                "deno",
+                "node.js",
+                "slide"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Improve Node Compat Mode · Issue #12577 · denoland/deno",
+                    "url": "https://github.com/denoland/deno/issues/12577"
+                }
+            ]
         }
     ]
 }
