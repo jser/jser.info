@@ -808,6 +808,28 @@
                     "url": "https://github.com/denoland/deno/issues/12577"
                 }
             ]
+        },
+        {
+            "date": "2021-11-30T00:51:39.645Z",
+            "title": "Release v6.4.0 · storybookjs/storybook",
+            "url": "https://github.com/storybookjs/storybook/releases/tag/v6.4.0",
+            "content": "Storybook 6.4.0リリース。\nInteractions stories、ESLintプラグインの追加など",
+            "tags": [
+                "JavaScript",
+                "debug",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "storybook/addons/interactions at next · storybookjs/storybook",
+                    "url": "https://github.com/storybookjs/storybook/tree/next/addons/interactions"
+                },
+                {
+                    "title": "storybookjs/eslint-plugin-storybook: Official ESLint plugin for Storybook",
+                    "url": "https://github.com/storybookjs/eslint-plugin-storybook"
+                }
+            ]
         }
     ]
 }
