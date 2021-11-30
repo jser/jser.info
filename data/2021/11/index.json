@@ -871,20 +871,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2021-11-30T02:17:54.597Z",
-            "title": "berstend/node-safe: 🤠 Make using Node.js safe again with Deno-like permissions",
-            "url": "https://github.com/berstend/node-safe",
-            "content": "macOSのsandbox機能を利用してDenoライクなSandboxの仕組みを実装したNodeの実行ツール。\n`--allow-read`、`--allow-net`など距離ストを指定してのスクリプト実行やnpm/yarn/npxにも対応している。",
-            "tags": [
-                "node.js",
-                "macOS",
-                "security",
-                "Tools",
-                "deno"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2021-11-30T02:42:17.649Z",
             "title": "Tamagui — React Native + Web UI kit",
             "url": "https://tamagui.dev/",
@@ -894,6 +880,21 @@
                 "CSS",
                 "Design",
                 "Tools",
+                "library"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2021-11-30T02:42:43.004Z",
+            "title": "berstend/node-safe: 🤠 Make using Node.js safe again with Deno-like permissions",
+            "url": "https://github.com/berstend/node-safe",
+            "content": "macOSのsandbox機能を利用してDenoライクなSandboxの仕組みを実装したNodeの実行ツール。\n`--allow-read`、`--allow-net`など距離ストを指定してのスクリプト実行やnpm/yarn/npxにも対応している。",
+            "tags": [
+                "node.js",
+                "macOS",
+                "security",
+                "Tools",
+                "deno",
                 "library"
             ],
             "relatedLinks": []
