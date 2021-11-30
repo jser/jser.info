@@ -898,6 +898,24 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-30T03:16:23.363Z",
+            "title": "New – Real-User Monitoring for Amazon CloudWatch | AWS News Blog",
+            "url": "https://aws.amazon.com/jp/blogs/aws/cloudwatch-rum/",
+            "content": "CloudWatchでRUMを取得できるサービスがリリースされた。\nJavaScriptのタグを埋め込むことで、Web Vitalsなどのメトリクスデータなどを取得できる。",
+            "tags": [
+                "aws",
+                "webservice",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "aws-observability/aws-rum-web: Amazon CloudWatch RUM Web Client",
+                    "url": "https://github.com/aws-observability/aws-rum-web"
+                }
+            ]
         }
     ]
 }
