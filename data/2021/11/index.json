@@ -883,6 +883,19 @@
                 "deno"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-30T02:38:04.441Z",
+            "title": "Tamagui — React Native + Web UI kit",
+            "url": "https://tamagui.dev/",
+            "content": "React NativeとWebに対応したスタイリングライブラリ。\nPropsでスタイルを渡し、コンパイル時にはAtomic CSSが生成されて、コンポーネントにはクラス名が指定される。",
+            "tags": [
+                "React",
+                "CSS",
+                "desin",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
