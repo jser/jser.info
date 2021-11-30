@@ -855,6 +855,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-30T01:51:12.682Z",
+            "title": "Publish ESM and CJS in a single package",
+            "url": "https://antfu.me/posts/publish-esm-and-cjs",
+            "content": "CommonJSとESMのデュアルフォーマットでのパッケージ公開について。\n`package.json`の`exports`フィールドでの使い分け、tsupとunbuildのビルドについて。\nESMでは利用できないCommonJSの`__dirname`などの補完方法について",
+            "tags": [
+                "node.js",
+                "CommonJS",
+                "ECMAScript",
+                "module",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
