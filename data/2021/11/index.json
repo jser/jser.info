@@ -842,6 +842,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-11-30T01:11:20.862Z",
+            "title": "CI 環境でのユニットテストの実行時間を2倍速くした話 (Jest + Mongo DB + Circle CI) - ミツモア Tech blog",
+            "url": "https://engineering.meetsmore.com/entry/2021/01/21/134930",
+            "content": "Jestでのユニットテストの実行時間の削減についての記事。\nテストの並列化、変更したファイルのみをテスト、Worker単位でのDBの初期化、CIでキャッシュについて",
+            "tags": [
+                "node.js",
+                "jest",
+                "testing",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
