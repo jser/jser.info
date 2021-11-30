@@ -830,6 +830,18 @@
                     "url": "https://github.com/storybookjs/eslint-plugin-storybook"
                 }
             ]
+        },
+        {
+            "date": "2021-11-30T00:59:34.161Z",
+            "title": "Release v5.0.0 · chalk/chalk",
+            "url": "https://github.com/chalk/chalk/releases/tag/v5.0.0",
+            "content": "Chalk 5.0.0リリース。\npure ESMに変更、default exportからnamed exportへ変更。\nまた、`keyword()`/`hsl()`/`hsv()`/`hwb()`/`ansi()`を削除、Template Literalを`chalk-template`パッケージに移行など",
+            "tags": [
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
