@@ -12,6 +12,17 @@
                 "software"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-01T15:12:30.320Z",
+            "title": "Node v17.2.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v17.2.0/",
+            "content": "Node.js 17.2.0リリース。\n`async_hooks`モジュールに`asyncWrapProviders`を追加、AbortSignalに`reason`を追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
