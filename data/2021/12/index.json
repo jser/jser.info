@@ -23,6 +23,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-04T14:04:52.478Z",
+            "title": "Rust + Node-APIでクロスプラットフォーム向けnpmパッケージを公開する - 別にしんどくないブログ",
+            "url": "https://shisama.hatenablog.com/entry/2021/12/03/054437",
+            "content": "napi-rsを使ったRustで書いたコードをNode.jsのnative modulesとして利用する方法について。\nアーキテクチャごとのバイナリをpublishしoptionalDependenciesとして定義することで、`postinstall`を不要にする方法について。",
+            "tags": [
+                "Rust",
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
