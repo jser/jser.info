@@ -65,6 +65,31 @@
                 "HTTP"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-06T06:55:31.501Z",
+            "title": "JSConf JP 2021 Track A - YouTube",
+            "url": "https://www.youtube.com/playlist?list=PL42hYWKFRfN7cg6c3uM4_tAxbybVzG3ao",
+            "content": "JSConf JP 2021の動画一覧",
+            "tags": [
+                "JavaScript",
+                "Conference",
+                "video"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "JSConf JP 2021 Track B - YouTube",
+                    "url": "https://www.youtube.com/playlist?list=PL42hYWKFRfN7XWswj9wcC0j4191KNJuO3"
+                },
+                {
+                    "title": "JSConf JP 2021 Track C - YouTube",
+                    "url": "https://www.youtube.com/playlist?list=PL42hYWKFRfN4l-KXE-2xzy95dRKPtCg0V"
+                },
+                {
+                    "title": "JSConf JP",
+                    "url": "https://jsconf.jp/2021/"
+                }
+            ]
         }
     ]
 }
