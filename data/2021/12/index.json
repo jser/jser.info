@@ -114,6 +114,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-07T15:44:15.462Z",
+            "title": "重いサイトを軽くしろ！年末年始は #WebSpeedHackathon 2021 に挑戦しよう | CyberAgent Developers Blog",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/32747/",
+            "content": "ウェブパフォーマンスを改善するハッカソン教材",
+            "tags": [
+                "performance",
+                "example",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "CyberAgentHack/web-speed-hackathon-2021",
+                    "url": "https://github.com/CyberAgentHack/web-speed-hackathon-2021"
+                }
+            ]
         }
     ]
 }
