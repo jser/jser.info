@@ -131,6 +131,18 @@
                     "url": "https://github.com/CyberAgentHack/web-speed-hackathon-2021"
                 }
             ]
+        },
+        {
+            "date": "2021-12-08T02:54:46.118Z",
+            "title": "BuilderIO/mitosis: Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.",
+            "url": "https://github.com/BuilderIO/mitosis",
+            "content": "JSXベースコンポーネントを定義し、それをReact/Angular/Vue/Solid/Svelteなどの各種フレームワークを使ったコードへと変換できるツール。\nUIフレームワークの中間言語",
+            "tags": [
+                "jsx",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
