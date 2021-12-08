@@ -207,6 +207,18 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-08T03:53:01.478Z",
+            "title": "WebAssembly and Back Again: Fine-Grained Sandboxing in Firefox 95 - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2021/12/webassembly-and-back-again-fine-grained-sandboxing-in-firefox-95/",
+            "content": "Firefox 95に含まれるRLBoxというWebAssemblyを使ったSandboxの仕組みについて。\nプロセスの分離はオーバヘッドが大きくなりやすい。分離したいコードをWasmに変換し、Wasmをwasm2cでC言語に変換してネイティブコードへ変換し利用する。\nWasmを経由することで指定外のメモリ空間にアクセスできないことを保証している。",
+            "tags": [
+                "WebAssembly",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
