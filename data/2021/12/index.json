@@ -185,13 +185,14 @@
             ]
         },
         {
-            "date": "2021-12-08T03:32:04.953Z",
+            "date": "2021-12-08T03:32:18.759Z",
             "title": "plentico/plenti: Static Site Generator with Go backend and Svelte frontend",
             "url": "https://github.com/plentico/plenti",
-            "content": "Svelteを使った静的サイトジェネレータ",
+            "content": "SvelteとGo言語を使った静的サイトジェネレータ",
             "tags": [
                 "Svelte",
-                "Tools"
+                "Tools",
+                "golang"
             ],
             "relatedLinks": []
         }
