@@ -143,6 +143,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-08T03:12:27.023Z",
+            "title": "Web Performance Calendar » HTTP compression",
+            "url": "https://calendar.perfplanet.com/2021/http-compression/",
+            "content": "ロスレスデータ圧縮の圧縮レベルと速度のバランスについて。\ngzip、brotli、zstd、圧縮レベルのトレードオフについて。\nまた、バイナリコンテンツの2重圧縮の問題などについて",
+            "tags": [
+                "HTTP",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
