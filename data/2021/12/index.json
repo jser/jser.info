@@ -219,6 +219,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-09T01:08:50.115Z",
+            "title": "capricorn86/happy-dom: A jsdom alternative with support for server side rendering of web components.",
+            "url": "https://github.com/capricorn86/happy-dom",
+            "content": "JSDOMのようにNode.jsでDOM APIを利用できるようにする目的のライブラリ。\nサーバサイドレンダリング向けのパッケージも公開されている。",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
