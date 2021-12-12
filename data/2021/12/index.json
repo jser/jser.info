@@ -300,6 +300,18 @@
                     "url": "https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-3-3a36240861e4"
                 }
             ]
+        },
+        {
+            "date": "2021-12-12T14:24:12.895Z",
+            "title": "Release 5.0.0 – ESM support, CSS Selectors Level 4 · css/csso",
+            "url": "https://github.com/css/csso/releases/tag/v5.0.0",
+            "content": "CSS minifyのCSSO 5.0.0リリース。\nCSS Selectors Level 4のサポート、ESMto\nCJSでのdual moduleに変更など",
+            "tags": [
+                "CSS",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
