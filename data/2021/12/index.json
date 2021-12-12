@@ -268,6 +268,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-12T13:49:40.262Z",
+            "title": "Release Notes for Safari Technology Preview 136 | WebKit",
+            "url": "https://webkit.org/blog/12137/release-notes-for-safari-technology-preview-136/",
+            "content": "Safari Technology Preview 136リリース。\n`contain: paint`、`revert-layer`、`flex-basis: content`のサポート。\n`Temporal.Instant`の実装、WebExtensionのManigest V3をサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote",
+                "WebExtension"
+            ],
+            "relatedLinks": []
         }
     ]
 }
