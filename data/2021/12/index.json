@@ -348,6 +348,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-14T22:56:52.481Z",
+            "title": "New WebKit Features in Safari 15.2 | WebKit",
+            "url": "https://webkit.org/blog/12140/new-webkit-features-in-safari-15-2/",
+            "content": "Safari 15.2の変更点について。\nWasmで利用可能なメモリが4GBに拡張、COOP/COEP HTTPヘッダをサポートし、crossOriginIsolated時はSharedArrayBuffer/Wasmスレッドが利用可能に。\nCanvasで`colorSpace: \"display-p3\"`をサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote",
+                "WebAssembly"
+            ],
+            "relatedLinks": []
         }
     ]
 }
