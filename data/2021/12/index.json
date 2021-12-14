@@ -360,6 +360,18 @@
                 "WebAssembly"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-14T23:21:30.636Z",
+            "title": "Debug memory leaks with the Microsoft Edge Detached Elements tool - Microsoft Edge Blog",
+            "url": "https://blogs.windows.com/msedgedev/2021/12/09/debug-memory-leaks-detached-elements-tool-devtools/",
+            "content": "MSEdgeの開発者ツールのDetached Elementsについて。\nDOMツリーから切り離された要素を一覧でき、DOMのメモリリークをデバッグできる機能。\n",
+            "tags": [
+                "MSEdge",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
