@@ -336,6 +336,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-14T22:22:07.728Z",
+            "title": "Release v5.0.0 · facebook/create-react-app",
+            "url": "https://github.com/facebook/create-react-app/releases/tag/v5.0.0",
+            "content": "create-react-app v5.0.0リリース。\nwebpack 5、Jest 27、ESLint 8、PostCSS 8へのアップデート。\ntailwind.config.jsのサポート、依存のバージョン固定を削除、Node 10と12のサポート終了など",
+            "tags": [
+                "React",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
