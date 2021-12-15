@@ -302,18 +302,6 @@
             ]
         },
         {
-            "date": "2021-12-12T14:24:12.895Z",
-            "title": "Release 5.0.0 – ESM support, CSS Selectors Level 4 · css/csso",
-            "url": "https://github.com/css/csso/releases/tag/v5.0.0",
-            "content": "CSS minifyのCSSO 5.0.0リリース。\nCSS Selectors Level 4のサポート、ESMto\nCJSでのdual moduleに変更など",
-            "tags": [
-                "CSS",
-                "Tools",
-                "ReleaseNote"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2021-12-12T14:26:50.322Z",
             "title": "GitHub Actions: GitHub-hosted runners now run Node.js 16 by default | GitHub Changelog",
             "url": "https://github.blog/changelog/2021-12-10-github-actions-github-hosted-runners-now-run-node-js-16-by-default/",
@@ -370,6 +358,18 @@
                 "MSEdge",
                 "debug",
                 "article"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2021-12-15T00:07:03.058Z",
+            "title": "Release 5.0.0 – ESM support, CSS Selectors Level 4 · css/csso",
+            "url": "https://github.com/css/csso/releases/tag/v5.0.0",
+            "content": "CSS minifyのCSSO 5.0.0リリース。\nCSS Selectors Level 4のサポート、ESMとCJSでのdual moduleに変更など",
+            "tags": [
+                "CSS",
+                "Tools",
+                "ReleaseNote"
             ],
             "relatedLinks": []
         }
