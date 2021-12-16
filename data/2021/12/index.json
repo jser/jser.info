@@ -372,6 +372,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-16T14:10:41.527Z",
+            "title": "Release v8.3.0 · npm/cli",
+            "url": "https://github.com/npm/cli/releases/tag/v8.3.0",
+            "content": "npm 8.3.0リリース。\n`overrides`フィールドでのパッケージの依存バージョンの上書きをサポートなサポートなど",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "rfcs/0036-overrides.md at main · npm/rfcs",
+                    "url": "https://github.com/npm/rfcs/blob/main/accepted/0036-overrides.md"
+                }
+            ]
         }
     ]
 }
