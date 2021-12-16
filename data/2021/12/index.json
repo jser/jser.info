@@ -388,6 +388,18 @@
                     "url": "https://github.com/npm/rfcs/blob/main/accepted/0036-overrides.md"
                 }
             ]
+        },
+        {
+            "date": "2021-12-16T14:15:29.421Z",
+            "title": "Release 3.20.0 - 2021.12.16 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.20.0",
+            "content": "core-js 3.20.0リリース。\n`structuredClone`と`DOMException`の実装、Stage 3の`Array.prototype.groupByToMap`のサポート。\nStage 1の`String.cooked`、Stage 0の`Function.prototype.unThis`と`Function.{isCallable, isConstructor}`のサポートなど",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
