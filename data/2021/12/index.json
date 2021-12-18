@@ -400,6 +400,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-18T02:49:17.476Z",
+            "title": "Turborepo",
+            "url": "https://turborepo.org/",
+            "content": "monorepoのビルドツール。\nインクリメンタルビルド、ビルドキャッシュ、リモートキャッシングなどの機能を持っている。\n",
+            "tags": [
+                "Tools",
+                "monorepo",
+                "npm"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "vercel/turborepo: The High-performance Build System for JavaScript & TypeScript Codebases",
+                    "url": "https://github.com/vercel/turborepo"
+                }
+            ]
         }
     ]
 }
