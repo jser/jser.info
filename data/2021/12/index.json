@@ -421,6 +421,17 @@
                     "url": "https://vercel.com/blog/vercel-acquires-turborepo"
                 }
             ]
+        },
+        {
+            "date": "2021-12-18T14:03:30.823Z",
+            "title": "Deno 1.17 Release Notes",
+            "url": "https://deno.com/blog/v1.17",
+            "content": "Deno 1.17リリース。\nImport assertionsのサポート、リモートモジュールの型チェックをスキップする`--no-check=remote`の追加、`AbortSignal#throwIfAborted`のサポート。\nUnstableとして`Deno.connectTls()`がALPNの指定をサポート、timerがプログラムの終了をブロックさせなくする`Deno.unrefTimer`の追加など",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
