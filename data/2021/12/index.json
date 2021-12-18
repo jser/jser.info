@@ -423,10 +423,10 @@
             ]
         },
         {
-            "date": "2021-12-18T14:03:30.823Z",
+            "date": "2021-12-18T14:08:22.066Z",
             "title": "Deno 1.17 Release Notes",
             "url": "https://deno.com/blog/v1.17",
-            "content": "Deno 1.17リリース。\nImport assertionsのサポート、リモートモジュールの型チェックをスキップする`--no-check=remote`の追加、`AbortSignal#throwIfAborted`のサポート。\nUnstableとして`Deno.connectTls()`がALPNの指定をサポート、timerがプログラムの終了をブロックさせなくする`Deno.unrefTimer`の追加など",
+            "content": "Deno 1.17リリース。\nImport assertionsのサポート、リモートモジュールの型チェックをスキップする`--no-check=remote`の追加、`AbortSignal#throwIfAborted`のサポート。\nまた、`Deno.test`のoverloads APIを追加、`--watch`フラグで外部ファイルのWatchをサポート。\nUnstableとして`Deno.connectTls()`がALPNの指定をサポート、timerがプログラムの終了をブロックさせなくする`Deno.unrefTimer`の追加など。",
             "tags": [
                 "deno",
                 "ReleaseNote"
