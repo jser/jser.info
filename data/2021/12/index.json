@@ -491,6 +491,24 @@
                 "Android"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-19T13:56:25.142Z",
+            "title": "quick-lint/quick-lint-js: quick-lint-js finds bugs in JavaScript programs",
+            "url": "https://github.com/quick-lint/quick-lint-js",
+            "content": "C++で書かれたJavaScriptsのLintツール",
+            "tags": [
+                "JavaScript",
+                "ESLint",
+                "C++",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Faster, easier, friendlier: how quick-lint-js will take over ESLint",
+                    "url": "https://quick-lint-js.com/blog/version-1.0/"
+                }
+            ]
         }
     ]
 }
