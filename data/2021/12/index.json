@@ -443,6 +443,18 @@
                 "Survey"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-19T03:38:39.698Z",
+            "title": "Web Performance Calendar » CSS me not",
+            "url": "https://calendar.perfplanet.com/2021/css-me-not/",
+            "content": "CSSファイルの肥大化を避けるために不要なCSSを検知する方法について。\nCSSファイルの読み込みをToggleするブックマークレット、Chrome開発者ツールのCoverageツール、UnCSSで各セレクタに`background-image`のログを仕込む方法について。",
+            "tags": [
+                "CSS",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
