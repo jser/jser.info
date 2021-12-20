@@ -521,6 +521,19 @@
                     "url": "https://quick-lint-js.com/blog/version-1.0/"
                 }
             ]
+        },
+        {
+            "date": "2021-12-20T10:48:07.691Z",
+            "title": "Deep-copying in JavaScript using structuredClone",
+            "url": "https://web.dev/structured-clone/",
+            "content": "`structuredClone`でのdeep cloneについて。\nshallow cloneとの比較、`structuredClone`でコピーできないデータの制限について。",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "API",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
