@@ -534,6 +534,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-21T06:53:25.996Z",
+            "title": "Ember 4.0 released",
+            "url": "https://blog.emberjs.com/ember-4-0-released/",
+            "content": "Ember 4.0リリース。\n新しい機能追加ではなく、非推奨の機能を削除するメジャーアップデート。\n3.xで非推奨となったAPIの削除、Ember CLIに`--ci-provider`のフラグを追加しデフォルトをGitHub Actionsに変更など",
+            "tags": [
+                "Ember",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
