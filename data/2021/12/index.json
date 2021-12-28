@@ -568,6 +568,19 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-28T14:09:28.079Z",
+            "title": "zthxxx/react-dev-inspector: jump to local IDE code directly from browser React component by just a simple click",
+            "url": "https://github.com/zthxxx/react-dev-inspector",
+            "content": "Reactコンポーネントにデバッグ情報を埋め込んで、ブラウザから直接エディタでコンポーネントを開くツール。\nBabelやwebpack、Viteなどのプラグインとして変換できる",
+            "tags": [
+                "React",
+                "debug",
+                "Tools",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
