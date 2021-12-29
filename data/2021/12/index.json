@@ -606,6 +606,19 @@
                 "polyfill"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-29T15:35:30.646Z",
+            "title": "Rust + wasmでJS向けの形態素解析ライブラリを作ってnpmで公開する",
+            "url": "https://zenn.dev/higumachan/articles/a42f1ee50bbb8d",
+            "content": "wasm-packを使ってRustライブラリをWasmに変換して利用するNode.jsライブラリを公開する方法について",
+            "tags": [
+                "Rust",
+                "npm",
+                "WebAssembly",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
