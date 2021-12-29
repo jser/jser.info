@@ -593,6 +593,19 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2021-12-29T15:10:23.305Z",
+            "title": "unjs/mlly: 🤝 Missing ECMAScript module utils for Node.js",
+            "url": "https://github.com/unjs/mlly",
+            "content": "ECMAScript ModulesのUtilityライブラリ。\n`resolve`や`import()`でインポートできるモジュール名の判定、CommonJSで利用できた`__dirname`などのpolyfill",
+            "tags": [
+                "ECMAScript",
+                "node.js",
+                "library",
+                "polyfill"
+            ],
+            "relatedLinks": []
         }
     ]
 }
