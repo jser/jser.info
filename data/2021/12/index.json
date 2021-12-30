@@ -668,13 +668,15 @@
             ]
         },
         {
-            "date": "2021-12-30T09:45:51.905Z",
+            "date": "2021-12-30T09:46:10.665Z",
             "title": "Node.js と ID について - Qiita",
             "url": "https://qiita.com/martinheidegger/items/425112e84f7c12148d90",
             "content": "衝突しないIDやIDの生成についての記事。\nUUIDv4は衝突しないが、ID自体が長く、ソートに対応していない。\n時間軸を短く区切った時に衝突しにくくソート可能なUUIDv6とULIDについて。\nまた、人にとって読みやすいIDの生成やユーザーが定義するIDについて",
             "tags": [
                 "node.js",
-                "article"
+                "article",
+                "JavaScript",
+                "algorithm"
             ],
             "relatedLinks": []
         }
