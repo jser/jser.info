@@ -637,6 +637,17 @@
                     "url": "https://github.com/qnighy/node-cjs-interop"
                 }
             ]
+        },
+        {
+            "date": "2021-12-30T01:44:01.096Z",
+            "title": "CSS in 2022 – Bram.us",
+            "url": "https://www.bram.us/2021/12/27/css-in-2022/",
+            "content": "2022年にブラウザがサポートしそうなCSSの機能紹介。\nContainer Queries、Cascade Layers、Color Functions、新しいViewport Units、`:has()`、` overscroll-behavior`。\nSubgrid、`accent-color`、Media Queryでの比較演算子など。\nまた、実験的な段階ものとしてNesting、`@scope`、`@when`、`@else`、Scroll-Linked Animations、`@property`などについても紹介している。",
+            "tags": [
+                "CSS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
