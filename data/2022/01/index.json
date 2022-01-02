@@ -18,6 +18,17 @@
                     "url": "https://jasmine.github.io/tutorials/upgrading_to_Jasmine_4.0"
                 }
             ]
+        },
+        {
+            "date": "2022-01-02T00:22:40.795Z",
+            "title": "What's new in Svelte: January 2022",
+            "url": "https://svelte.dev/blog/whats-new-in-svelte-january-2022",
+            "content": "開発中のSvelteKitの変更点について。\n`precompress`オプションでのbrotli圧縮のサポート、`config.kit.prerender.concurrency`オプションを追加、CSSをJSより優先してpreloadするように。\nVite 2.7へのアップデート、設定を変更したときにサーバを自動的に再起動するようになるなど",
+            "tags": [
+                "Svelte",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
