@@ -41,6 +41,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-04T14:38:47.501Z",
+            "title": "helmet/CHANGELOG.md at main · helmetjs/helmet",
+            "url": "https://github.com/helmetjs/helmet/blob/main/CHANGELOG.md#500---2022-01-02",
+            "content": "helmet 5.0.0リリース。\nECMAScript Modules対応、\n`contentSecurityPolicy`オプションのデフォルト値を変更。\nCOEP、COOP、CORP、Origin-Agent-Clusterヘッダをデフォルトで有効化",
+            "tags": [
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
