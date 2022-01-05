@@ -101,6 +101,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-05T15:25:25.248Z",
+            "title": "DioxusLabs/dioxus: Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.",
+            "url": "https://github.com/dioxuslabs/dioxus",
+            "content": "RustでReactライクな宣言的なUI表現を持ったUIフレームワーク。\nRSX!マクロを使った宣言的なUI表現、React HooksライクなAPIを持つ。\nブラウザ向けにはWasmに変換し利用し、デスクトップやモバイルなどはWebViewとネイティブのRustを元に動作する。",
+            "tags": [
+                "Rust",
+                "React",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introduction - Dioxus Documentation",
+                    "url": "https://dioxuslabs.com/guide/"
+                }
+            ]
         }
     ]
 }
