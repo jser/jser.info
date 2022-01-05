@@ -53,6 +53,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-05T05:08:02.784Z",
+            "title": "Release AVA 4 · avajs/ava",
+            "url": "https://github.com/avajs/ava/releases/tag/v4.0.0",
+            "content": "AVA 4リリース。\n`worker_threads`を使った並列実行をデフォルト化、\nShared workersをStableに変更。\n親ディレクトリの`ava.config.*`ファイルを探索するように、Snapshotのフォーマット変更、前回失敗したテストファイルを最初にテストするように、ESMサポートなど。",
+            "tags": [
+                "node.js",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
