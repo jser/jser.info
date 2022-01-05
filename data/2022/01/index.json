@@ -79,10 +79,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-01-05T14:50:21.386Z",
+            "date": "2022-01-05T14:52:41.619Z",
             "title": "ブラウザバック時の表示を最適化する Yahoo!ニュースの取り組み事例 - Yahoo! JAPAN Tech Blog",
             "url": "https://techblog.yahoo.co.jp/entry/2022010530253635/",
-            "content": "ブラウザバックかどうかを判定して処理する方法とBFCacheを使ってブラウザバックかを判定して処理する方法について。\nバック時のスクロール位置の保存、BFCacheが有効となる条件、BFCacheにおけるログの問題などについて",
+            "content": "ブラウザバックかどうかを判定して処理する方法とBFCacheを使ってブラウザバックされたかを判定して処理する方法について。\nバック時のスクロール位置の保存、BFCacheが有効となる条件、BFCacheにおけるログの問題などについて",
             "tags": [
                 "JavaScript",
                 "article",
