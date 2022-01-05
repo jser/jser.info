@@ -66,6 +66,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-05T07:18:48.325Z",
+            "title": "Ember 4.1 Released",
+            "url": "https://blog.emberjs.com/ember-4-1-released/",
+            "content": "Ember 4.1リリース。\n`@ember/service`が`service`をexportするように、`RouterService`に`refresh`を追加、`@cached`の有効化など。\nまた、`AutoLocation`クラスを非推奨化など",
+            "tags": [
+                "Ember",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
