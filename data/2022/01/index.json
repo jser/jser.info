@@ -89,6 +89,18 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-05T15:03:48.317Z",
+            "title": "Release 1.2.0-beta.0 · vercel/swr",
+            "url": "https://github.com/vercel/swr/releases/tag/1.2.0-beta.0",
+            "content": "React向けのQueryライブラリであるSWR 1.2.0 betaリリース。\n`mutate`に即時的な更新をする`optimisticData`とエラーが発生した場合にロールバックする`rollbackOnError`オプションの追加など",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
