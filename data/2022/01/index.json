@@ -141,6 +141,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-06T08:07:02.443Z",
+            "title": "solid/CHANGELOG.md at main · solidjs/solid",
+            "url": "https://github.com/solidjs/solid/blob/main/CHANGELOG.md#130---2021-1-5",
+            "content": "Solid 1.3.0リリース。\n`renderToStream` APIを追加し、HTML Streamingの対応、Error BoundariesをSSR時でも機能するように。\n`hydrate`関数が`renderId`をサポートし、複数のSolidアプリをそれぞれhydrateできるように、`createReaction` APIの追加など。\nまた実験的なAPIとして、`enableExternalSource`、`refetchResources`の追加など",
+            "tags": [
+                "JavaScript",
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
