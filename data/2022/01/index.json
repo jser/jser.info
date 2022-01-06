@@ -129,6 +129,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-06T07:59:46.038Z",
+            "title": "parcel/CHANGELOG.md at v2 · parcel-bundler/parcel",
+            "url": "https://github.com/parcel-bundler/parcel/blob/v2/CHANGELOG.md#210---2021-01-05",
+            "content": "Parcel 2.1.0リリース。\n`node_modules`をデフォルトでtranspileするように変更。\nSharedArrayBufferを使ったグラフデータ構造に書き換えパフォーマンスの改善、開発時は遅延コンパイルすることでパフォーマンス改善、HMRのバグ修正など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
