@@ -11,23 +11,23 @@
   "private": true,
   "name": "jser-info-search",
   "dependencies": {
-    "@layer0/next": "^3.2.0",
+    "@layer0/next": "^4.8.3",
     "asocial-bookmark": "^1.7.1",
     "micro-memoize": "^4.0.9",
-    "next": "^10.1.3",
-    "next-connect": "^0.10.1",
+    "next": "^12.0.7",
+    "next-connect": "^0.11.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "regex-combiner": "^1.0.1",
-    "use-debounce": "^6.0.1"
+    "use-debounce": "^7.0.1"
   },
   "devDependencies": {
-    "@layer0/cli": "^3.2.0",
-    "@layer0/core": "^3.2.0",
-    "@layer0/devtools": "^3.2.0",
-    "@layer0/prefetch": "^3.2.0",
-    "@layer0/react": "^3.2.0",
-    "@types/react": "^17.0.3",
-    "typescript": "^4.2.4"
+    "@layer0/cli": "^4.8.3",
+    "@layer0/core": "^4.8.3",
+    "@layer0/devtools": "^4.8.3",
+    "@layer0/prefetch": "^4.8.3",
+    "@layer0/react": "^4.8.3",
+    "@types/react": "^17.0.38",
+    "typescript": "^4.5.4"
   }
 }
