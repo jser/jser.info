@@ -198,6 +198,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-07T15:26:21.984Z",
+            "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
+            "url": "https://www.smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
+            "content": "Core Web Vitalsの改善とCrUXのメトリクスのデータの掘り下げの記事。\nLCPなどを改善したが、CrUXのデータが改善されなかった点を掘り下げていき、特定地域のデータによって統計データが歪んでいたことを特定した方法について。\nCDNがカバーしきれてない地域などが問題となっていたため、`SaveData`ヘッダと`prefers-reduced-data`を元にWeb Fontのロードを減らした話。",
+            "tags": [
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
