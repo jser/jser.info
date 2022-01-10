@@ -276,6 +276,23 @@
                     "url": "https://www.youtube.com/watch?v=H0BHL2lo89M"
                 }
             ]
+        },
+        {
+            "date": "2022-01-10T14:17:36.890Z",
+            "title": "Web Performance Calendar » JS Self-Profiling API In Practice",
+            "url": "https://calendar.perfplanet.com/2021/js-self-profiling-api-in-practice/",
+            "content": "JavaScript Self-Profiling APIについての解説記事。\nサンプリングされたプロファイルを取るAPIとなっていて、RUMのような実際のエンドユーザーでの実行結果を取得できる。\nDocument Policyでの有効化、APIの使い方、ユースケース、プロファイルのデータ形式と取得データの制限などについて。\nCORSに対応していないCross-Origin ScriptsのJavaScript関数は、プロファイル上では見えないことやJS以外のデータがプロファイルに入らない点などについて。",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "WICG/js-self-profiling: Proposal for a programmable JS profiling API for collecting JS profiles from real end-user environments",
+                    "url": "https://github.com/WICG/js-self-profiling"
+                }
+            ]
         }
     ]
 }
