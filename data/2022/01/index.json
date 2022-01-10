@@ -209,6 +209,25 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-10T05:22:05.814Z",
+            "title": "2021 JavaScript Rising Stars",
+            "url": "https://risingstars.js.org/2021/en",
+            "content": "JavaScript関係のツールやライブラリなどの2021年のGitHub Starでのランキング。\n各カテゴリごとのランキングやコメントも合わせて紹介されている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "Tools",
+                "article",
+                "Github"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "JavaScript ライジングスター 2021",
+                    "url": "https://risingstars.js.org/2021/ja"
+                }
+            ]
         }
     ]
 }
