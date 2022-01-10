@@ -293,6 +293,23 @@
                     "url": "https://github.com/WICG/js-self-profiling"
                 }
             ]
+        },
+        {
+            "date": "2022-01-10T14:27:22.316Z",
+            "title": "mozilla/glean: Modern cross-platform telemetry",
+            "url": "https://github.com/mozilla/glean",
+            "content": "Kotlin/Swift/Python/JavaScript(ブラウザとブラウザ拡張とNode.js)/Qtに対応したクロスプラットフォームなTelemetry SDK",
+            "tags": [
+                "kotlin",
+                "swift",
+                "python",
+                "node.js",
+                "library",
+                "performance",
+                "Mozilla",
+                "Rust"
+            ],
+            "relatedLinks": []
         }
     ]
 }
