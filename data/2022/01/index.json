@@ -239,6 +239,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-10T13:06:42.482Z",
+            "title": "New JavaScript features • JavaScript for impatient programmers (ES2022 edition)",
+            "url": "https://exploringjs.com/impatient-js/ch_new-javascript-features.html#new-in-es2022",
+            "content": "JavaScript for impatient programmers (ES2022 edition)リリース。\nES2022のPrivate/Public Fields、Top-level await、Error Cause。\nArrayとStringの`.at()`メソッド、RegExp match indices、`Object.hasOwn()`メソッドについて追加されている。",
+            "tags": [
+                "ECMAScript",
+                "book"
+            ],
+            "relatedLinks": []
         }
     ]
 }
