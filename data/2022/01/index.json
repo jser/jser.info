@@ -327,6 +327,17 @@
                     "url": "https://github.com/nodejs/node/releases/tag/v14.18.3"
                 }
             ]
+        },
+        {
+            "date": "2022-01-11T02:26:14.480Z",
+            "title": "Chromium Blog: Chrome 98 Beta: Color Gradient Vector Fonts, Region Capture Origin Trial, and More",
+            "url": "https://blog.chromium.org/2022/01/chrome-98-beta-color-gradient-vector.html",
+            "content": "Chrome 98 betaリリース。\nCOLRv1 Color Gradient Vector Fontsのサポート、Chromeのバージョン100をテストできるフラグの追加。\nOrigin Trialとして、Region Captureの追加。\nその他では、`contains-intrinsic-size: auto`のサポート、`AudioContext.outputLatency`のサポート、`color-scheme`での`only`のサポート。\n`structuredClone()`のサポート、SubresourcesからPrivate Networkへのアクセス時にPreflight Requestが求められるように変更など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
