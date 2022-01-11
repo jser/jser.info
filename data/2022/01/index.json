@@ -310,6 +310,23 @@
                 "Rust"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-11T02:09:33.375Z",
+            "title": "January 10th 2022 Security Releases | Node.js",
+            "url": "https://nodejs.org/en/blog/vulnerability/jan-2022-security-releases/",
+            "content": "Node.jsのセキュリティ修正が12.x, 14.x, 16.x, 17.x それぞれでリリースされている。\nSubject Alternative Name (SAN)に関する修正が2つ含まれていて、この修正は`--security-revert`フラグで戻すことができる。\nまた、Relative Distinguished Namesの扱いに関する修正や`console.table`のPrototype Pollutionの修正が含まれている",
+            "tags": [
+                "node.js",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 2022-01-10, Version 14.18.3 'Fermium' (LTS), @richardlau · nodejs/node",
+                    "url": "https://github.com/nodejs/node/releases/tag/v14.18.3"
+                }
+            ]
         }
     ]
 }
