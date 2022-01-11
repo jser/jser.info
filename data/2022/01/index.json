@@ -338,6 +338,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-11T02:56:34.237Z",
+            "title": "Frontend Web Performance: The Essentials [0] | by Matthew Costello | Dec, 2021 | Medium",
+            "url": "https://medium.com/@matthew.costello/frontend-web-performance-the-essentials-0-61fea500b180",
+            "content": "ウェブパフォーマンスやブラウザのレンダリングについての記事。\nChrome開発者ツールでLayout, Paint, Compositeとはどのようなレンダリングステップで行われているのかみていく記事。\nCSS Animationを例に、Chrome開発者ツールでそれぞれのレンダリングステップを可視化する方法について書かれている",
+            "tags": [
+                "browser",
+                "performance",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
