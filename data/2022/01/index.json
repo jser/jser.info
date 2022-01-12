@@ -363,6 +363,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-12T11:32:28.083Z",
+            "title": "Release v5.66.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v5.66.0",
+            "content": "webpack 5.66.0リリース。\nNode.jsのESMからCJSをimportする際にnamed importできる形式で出力できる`libraryTarget: commonjs-static`を追加。\nCSSのネイティブサポートを目的とする実験的なフラグとして`experiments.css`を追加など",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "webpack 5.66.0 add library type: commonjs-static",
+                    "url": "https://gist.github.com/azu/eed67b26171fbb0643024ce3e1c85b35"
+                }
+            ]
         }
     ]
 }
