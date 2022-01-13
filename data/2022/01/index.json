@@ -379,6 +379,28 @@
                     "url": "https://gist.github.com/azu/eed67b26171fbb0643024ce3e1c85b35"
                 }
             ]
+        },
+        {
+            "date": "2022-01-13T01:27:15.738Z",
+            "title": "Announcing Parcel CSS: A new CSS parser, compiler, and minifier written in Rust!",
+            "url": "https://parceljs.org/blog/parcel-css/",
+            "content": "Parcel 2.2.0で、Rustで書かれたCSS parser/compiler/minifierが導入された。\nパフォーマンスやCSSのminifyのサイズなどが改善されている。",
+            "tags": [
+                "JavaScript",
+                "CSS",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v2.2.0 · parcel-bundler/parcel",
+                    "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.2.0"
+                },
+                {
+                    "title": "Parcel CSS: A New CSS Parser, Transformer, and Minifier, a New CSS Parser | CSS-Tricks - CSS-Tricks",
+                    "url": "https://css-tricks.com/parcel-css/"
+                }
+            ]
         }
     ]
 }
