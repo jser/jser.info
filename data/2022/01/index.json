@@ -412,6 +412,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-14T01:42:01.552Z",
+            "title": "Release v13.0.0 · facebook/relay",
+            "url": "https://github.com/facebook/relay/releases/tag/v13.0.0",
+            "content": "reply 13.0.0リリース。\nreplay-compilerをRustで書き直して、パフォーマンスの改善やディレクティブの追加。\nrelay-configの削除など",
+            "tags": [
+                "GraphQL",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing the new Relay compiler | Relay",
+                    "url": "https://relay.dev/blog/2021/12/08/introducing-the-new-relay-compiler/"
+                }
+            ]
         }
     ]
 }
