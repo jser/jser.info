@@ -453,6 +453,23 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-15T12:45:12.923Z",
+            "title": "A brief introduction of vite-plugin-federation | by Vueshenzhen | Jan, 2022 | Medium",
+            "url": "https://medium.com/@vueshenzhen/a-brief-introduction-of-vite-plugin-federation-9e998b2e43b",
+            "content": "ViteでwebpackのModule Federationをするプラグインについて。\nwebpack側をremoteにして、webpackとの統合もできる。",
+            "tags": [
+                "vite",
+                "plugin",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "originjs/vite-plugin-federation: Module Federation for vite & rollup",
+                    "url": "https://github.com/originjs/vite-plugin-federation"
+                }
+            ]
         }
     ]
 }
