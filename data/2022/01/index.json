@@ -470,6 +470,18 @@
                     "url": "https://github.com/originjs/vite-plugin-federation"
                 }
             ]
+        },
+        {
+            "date": "2022-01-16T23:13:11.764Z",
+            "title": "fox1t/turborepo-remote-cache: open-source implementation of the Turborepo custom remote cache server.",
+            "url": "https://github.com/fox1t/turborepo-remote-cache",
+            "content": "Turboのremote cacheサーバのオープンソース実装",
+            "tags": [
+                "monorepo",
+                "node.js",
+                "server"
+            ],
+            "relatedLinks": []
         }
     ]
 }
