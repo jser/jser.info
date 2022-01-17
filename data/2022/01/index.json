@@ -482,6 +482,18 @@
                 "server"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-17T02:46:05.891Z",
+            "title": "An update from the Faker team | Faker",
+            "url": "https://fakerjs.dev/update.html",
+            "content": "Faker.jsはコミュニティでのメンテナンスとなり`@faker-js/faker`としてForkされた。\nForkではVersion 6 alphaの開発を進めていて、TypeScriptに書き直し、ドキュメントサイトの公開されている。\nまた、Open Collectiveを使ったFundingについて",
+            "tags": [
+                "JavaScript",
+                "library",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
