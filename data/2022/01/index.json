@@ -549,6 +549,22 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-17T05:32:05.158Z",
+            "title": "ngneat/elf: 🧙‍♀️ A Reactive Store with Magical Powers",
+            "url": "https://github.com/ngneat/elf",
+            "content": "RxJSを使ったステート管理ライブラリ。\nAngularのAkitaの人が作っている。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Welcome to elf Discussions! · Discussion #5 · ngneat/elf",
+                    "url": "https://github.com/ngneat/elf/discussions/5#discussioncomment-1437521"
+                }
+            ]
         }
     ]
 }
