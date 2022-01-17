@@ -507,6 +507,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-17T03:10:12.940Z",
+            "title": "Reactを取り巻く状態管理の潮流を学ぼう。HooksやServer Componentsなどの登場で何が変わるか - エンジニアHub｜Webエンジニアのキャリアを考える！",
+            "url": "https://eh-career.com/engineerhub/entry/2022/01/13/090000",
+            "content": "Reactの状態管理についての記事。\nReact外で管理するRedux/XState、React中で管理するRecoil、フロントの状態を一時的なキャッシュとして扱うQuery系のSWRやreact-queryについて",
+            "tags": [
+                "React",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
