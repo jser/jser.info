@@ -565,6 +565,19 @@
                     "url": "https://github.com/ngneat/elf/discussions/5#discussioncomment-1437521"
                 }
             ]
+        },
+        {
+            "date": "2022-01-17T07:04:01.128Z",
+            "title": "Release Rhino 1.7.14 · mozilla/rhino",
+            "url": "https://github.com/mozilla/rhino/releases/tag/Rhino1_7_14_Release",
+            "content": "JavaでのJavaScript実装であるRhino 17.14リリース。\nPromiseの実装、BigIntの実装、Template Literalの実装、`String.raw`の実装、`globalThis`の実装、`**`演算子の実装など。\nまた、ES2019でのJSON supersetの変更やプロパティ名のショートハンドの対応なども含まれている。",
+            "tags": [
+                "Java",
+                "JavaScript",
+                "library"
+            ],
+            "viaURL": "https://github.com/jser/ping/issues/167",
+            "relatedLinks": []
         }
     ]
 }
