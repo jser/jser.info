@@ -578,6 +578,20 @@
             ],
             "viaURL": "https://github.com/jser/ping/issues/167",
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-17T09:02:43.895Z",
+            "title": "Announcing NAPI-RS v2 | NAPI-RS Docs",
+            "url": "https://napi.rs/blog/announce-v2",
+            "content": "RustでNodeのNative Modulesを書けるNAPI-RS v2リリース。\n`#[napi]`マクロ、TypeScriptの型定義とJavaScriptのバインディングファイルの生成、`async fn`の対応など",
+            "tags": [
+                "Rust",
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://github.com/jser/ping/issues/167",
+            "relatedLinks": []
         }
     ]
 }
