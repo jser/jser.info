@@ -414,23 +414,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-01-14T01:42:01.552Z",
-            "title": "Release v13.0.0 · facebook/relay",
-            "url": "https://github.com/facebook/relay/releases/tag/v13.0.0",
-            "content": "reply 13.0.0リリース。\nreplay-compilerをRustで書き直して、パフォーマンスの改善やディレクティブの追加。\nrelay-configの削除など",
-            "tags": [
-                "GraphQL",
-                "library",
-                "ReleaseNote"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "Introducing the new Relay compiler | Relay",
-                    "url": "https://relay.dev/blog/2021/12/08/introducing-the-new-relay-compiler/"
-                }
-            ]
-        },
-        {
             "date": "2022-01-14T12:38:14.542Z",
             "title": "Understanding JavaScript Promises",
             "url": "https://ebooks.humanwhocodes.com/promises",
@@ -617,6 +600,24 @@
             ],
             "viaURL": "https://github.com/jser/ping/issues/167",
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-18T02:40:38.188Z",
+            "title": "Release v13.0.0 · facebook/relay",
+            "url": "https://github.com/facebook/relay/releases/tag/v13.0.0",
+            "content": "relay 13.0.0リリース。\nrelay-compilerをRustで書き直して、パフォーマンスの改善やディレクティブの追加。\nrelay-configの削除など",
+            "tags": [
+                "GraphQL",
+                "library",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://github.com/jser/ping/issues/167",
+            "relatedLinks": [
+                {
+                    "title": "Introducing the new Relay compiler | Relay",
+                    "url": "https://relay.dev/blog/2021/12/08/introducing-the-new-relay-compiler/"
+                }
+            ]
         }
     ]
 }
