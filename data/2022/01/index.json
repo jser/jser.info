@@ -631,6 +631,19 @@
             ],
             "viaURL": "https://github.com/jser/ping/issues/167",
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-18T23:59:35.295Z",
+            "title": "WebAppPentestGuidelines/graphQLGuideLine",
+            "url": "https://github.com/WebAppPentestGuidelines/graphQLGuideLine",
+            "content": "GraphQLにおける脆弱性の診断ガイド。\nよくある問題としてIntrospection Queryが有効となっているケース、DoSとなるクエリ、レースコンディションなどについて解説している。\nまた診断や調査に使えるツールの紹介など",
+            "tags": [
+                "GraphQL",
+                "security",
+                "document"
+            ],
+            "viaURL": "https://github.com/jser/ping/issues/167",
+            "relatedLinks": []
         }
     ]
 }
