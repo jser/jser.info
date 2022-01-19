@@ -644,6 +644,23 @@
             ],
             "viaURL": "https://github.com/jser/ping/issues/167",
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-19T12:14:20.877Z",
+            "title": "Node v17.4.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v17.4.0/",
+            "content": "Node.js 17.4.0リリース。\nEventEmitterとAsyncResourceを連携する`EventEmitterAsyncResource`を追加、ReadableStreamに`map`と`filter`を追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://github.com/jser/ping/issues/167",
+            "relatedLinks": [
+                {
+                    "title": "addaleax/eventemitter-asyncresource: AsyncResource integration for EventEmitter",
+                    "url": "https://github.com/addaleax/eventemitter-asyncresource"
+                }
+            ]
         }
     ]
 }
