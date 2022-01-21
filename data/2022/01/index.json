@@ -701,6 +701,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-21T13:27:23.072Z",
+            "title": "Release Notes for Safari Technology Preview 138 | WebKit",
+            "url": "https://webkit.org/blog/12176/release-notes-for-safari-technology-preview-138/",
+            "content": "Safari Technology Preview 138リリース。\n`:focus-visible`、Media Queryの`resolution`、CSS Containmentをデフォルトで有効化。\nService Workerの`NavigationPreloadManager`を有効化、Service Workerを経由したファイルダウンロードをサポートなど",
+            "tags": [
+                "safari",
+                "webkit",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
