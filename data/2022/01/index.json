@@ -713,6 +713,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-21T13:41:49.504Z",
+            "title": "Vue 3 as the New Default | The Vue Point",
+            "url": "https://blog.vuejs.org/posts/vue-3-as-the-new-default.html",
+            "content": "2022年2月7日にVue 3が`vue@next`から`vue@latest`へと変更され、`vue`パッケージのStableバージョンとなる。\nこの変更に合わせてCDNでのlastestの参照先、ドキュメント、GitHubリポジトリも変更される。",
+            "tags": [
+                "Vue",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
