@@ -690,6 +690,17 @@
                     "url": "https://sicp.comp.nus.edu.sg/"
                 }
             ]
+        },
+        {
+            "date": "2022-01-21T12:57:33.179Z",
+            "title": "Deno 1.18 Release Notes",
+            "url": "https://deno.com/blog/v1.18",
+            "content": "Deno 1.18リリース。\nWeb Cryptography APIの実装、`deno.json`を自動で参照するように、Error Causeをスタックトレースに反映。\n`Deno.test`のstep APIがstableに、FFI APIの改善、V8 snapshotsの圧縮方法をV8 zlibからlzとzstdに変更して起動速度の改善など",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
