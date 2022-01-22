@@ -724,6 +724,17 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-22T04:14:28.978Z",
+            "title": "Release v5.67.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v5.67.0",
+            "content": "webpack 5.67.0リリース。\nAssertModuleに`outputPath`オプションの追加。\n`output.trustedTypes: true`の場合は`eval-source-map`でもTrusted Typesに対応したコードを出力するようになど",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
