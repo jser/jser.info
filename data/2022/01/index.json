@@ -795,6 +795,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-23T13:02:58.420Z",
+            "title": "Mocking With Undici Like a Pro",
+            "url": "https://fusebit.io/blog/undici-mocking/",
+            "content": "Node.js向けのHTTPクライアントのUndiciのモックサポートについての記事。\n`MockAgent`使ったモックについて",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
