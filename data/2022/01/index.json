@@ -824,6 +824,17 @@
                     "url": "https://www.npmjs.com/package/@typescript/analyze-trace"
                 }
             ]
+        },
+        {
+            "date": "2022-01-24T23:34:59.340Z",
+            "title": "TypeScript: Cheat Sheets",
+            "url": "https://www.typescriptlang.org/cheatsheets",
+            "content": "TypeScriptの構文や型についてのチートシート。\nControl Flow Analysis、Interface、Type、 Classについて",
+            "tags": [
+                "TypeScript",
+                "cheatsheet"
+            ],
+            "relatedLinks": []
         }
     ]
 }
