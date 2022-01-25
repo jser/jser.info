@@ -848,6 +848,20 @@
             ],
             "viaURL": "https://jserinfo.slack.com/archives/C017HJ3EJ6M/p1643105089012700",
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-25T10:45:39.687Z",
+            "title": "DataDog/build-plugin: Track your build performances like never before.",
+            "url": "https://github.com/DataDog/build-plugin",
+            "content": "どのloader/plugin/依存関係などでビルド時間がかかっているかを表示するwebpackとesbuildのプラグイン。\nDatadogと連携する機能も持っている。",
+            "tags": [
+                "webpack",
+                "bundler",
+                "performance",
+                "plugin"
+            ],
+            "viaURL": "https://jserinfo.slack.com/archives/C017HJ3EJ6M/p1643105089012700",
+            "relatedLinks": []
         }
     ]
 }
