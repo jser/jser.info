@@ -919,6 +919,19 @@
                     "url": "https://github.com/facebookexperimental/Recoil/releases/tag/0.6.0"
                 }
             ]
+        },
+        {
+            "date": "2022-01-29T14:18:59.905Z",
+            "title": "Release v2.0.0 · nightwatchjs/nightwatch",
+            "url": "https://github.com/nightwatchjs/nightwatch/releases/tag/v2.0.0",
+            "content": "Nightwatch 2.0リリース。\nPlugin APIの追加、`nightwatch.conf.cjs`のサポート、chai expectのアップデート。\nAssertion/Element Commnd/Mouse ActionsのAPIの追加や`--devtools`フラグの追加など",
+            "tags": [
+                "E2E",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
