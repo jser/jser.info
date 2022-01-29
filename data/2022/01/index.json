@@ -891,6 +891,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-01-29T08:13:54.852Z",
+            "title": "How React server components work: an in-depth guide",
+            "url": "https://blog.plasmic.app/posts/how-react-server-components-work/",
+            "content": "React server components (RSC)の仕組みについての解説記事。\nReact server componentsとは何か、コンポーネントのシリアライズの仕組み、コンポーネントの取得とSuspense、RSCのデータ形式などについて",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
