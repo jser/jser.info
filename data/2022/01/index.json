@@ -880,6 +880,17 @@
                     "url": "https://github.com/emberjs/rfcs/pull/724"
                 }
             ]
+        },
+        {
+            "date": "2022-01-29T01:19:49.238Z",
+            "title": "ESLint v8.8.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2022/01/eslint-v8.8.0-released",
+            "content": "ESLint 8.8.0リリース。\nLint結果に`eslint-disable`で抑制されたメッセージを取得できる`suppressedMessages`プロパティの追加",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
