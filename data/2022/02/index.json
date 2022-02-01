@@ -11,6 +11,18 @@
                 "rlee"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-01T02:44:52.869Z",
+            "title": "How Prime Video updates its app for more than 8,000 device types - Amazon Science",
+            "url": "https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types",
+            "content": "Prime Videoアプリの特定の部分にWebAssemblyを利用したという話。\nレガシーデバイスやブラウザではWasmが利用できないため、JavaScript VMとWasm VMどちらでも実行できるようにしていて、そのアーキテクチャにどのように移行していったのかについて。",
+            "tags": [
+                "JavaScript",
+                "WebAssembly",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
