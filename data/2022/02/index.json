@@ -23,6 +23,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-01T02:46:48.161Z",
+            "title": "V8 release v9.9 · V8",
+            "url": "https://v8.dev/blog/v8-release-99",
+            "content": "V8 v9.9リリース。\nIntl.Locale APIにプロパティ追加、`Intl.supportedValuesOf`の追加など",
+            "tags": [
+                "V8",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
