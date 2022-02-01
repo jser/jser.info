@@ -34,6 +34,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-01T03:05:23.755Z",
+            "title": "100万行の大規模なJavaScript製システムをTypeScriptに移行するためにやったこと | CyberAgent Developers Blog",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/34364/",
+            "content": "JSDocを使ったTypeScriptへの移行について。\n依存関係を見て優先度をつけてのTypeScript化、`checkJs`オプションを使ったJavaScriptにJSDocベースの型付け、チームの知識共有についてなど",
+            "tags": [
+                "TypeScript",
+                "article",
+                "refactoring"
+            ],
+            "relatedLinks": []
         }
     ]
 }
