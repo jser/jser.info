@@ -1,0 +1,16 @@
+{
+    "list": [
+        {
+            "date": "2022-02-01T02:11:34.378Z",
+            "title": "Release v7.0.0-alpha.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v7.0.0-alpha.0",
+            "content": "pnpm 7.0.0 αリリース。\n破壊的な変更として、`pnpm -r exec|run|add`の対象にRootを含まないように変更、`--filter`がglobを扱うように変更。\n`npm run <script>`に対して`--`なしで引数を渡せるように、Side effects cacheがデフォルトで有効化、`pnpm dlx`のaliasとして`pnpx`の追加など",
+            "tags": [
+                "npm",
+                "pnpm",
+                "rlee"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
