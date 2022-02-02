@@ -46,6 +46,17 @@
                 "refactoring"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-02T03:09:22.301Z",
+            "title": "Node v14.19.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v14.19.0/",
+            "content": "Node.js 14.19.0リリース。\nCorepackを14.xにもbackport、ICU 70.1へアップデート、native addonのロードを無効にできる`--no-addons`フラグの追加、ルート証明書のアップデートなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
