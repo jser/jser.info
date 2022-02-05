@@ -117,6 +117,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-05T11:10:07.842Z",
+            "title": "Release v27.5.0 · facebook/jest",
+            "url": "https://github.com/facebook/jest/releases/tag/v27.5.0",
+            "content": "Jest v27.5.0リリース。\n`expect.closeTo`の追加、`mockFn.mock.lastCall`の追加など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
