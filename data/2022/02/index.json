@@ -153,6 +153,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-07T13:56:25.015Z",
+            "title": "MDX 2 | MDX",
+            "url": "https://mdxjs.com/blog/v2/",
+            "content": "MDX 2リリース。\n破壊的な変更として、ESM形式のみのサポート、`@mdx-js/*`パッケージの各種変更などが含まれる。\nHTMLタグ内のMarkdown記法のサポート、`{}`でのJavaScript式のサポートなど",
+            "tags": [
+                "Markdown",
+                "jsx",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migrating from v1 to v2 | MDX",
+                    "url": "https://mdxjs.com/migrating/v2/"
+                }
+            ]
         }
     ]
 }
