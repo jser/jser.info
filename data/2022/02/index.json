@@ -194,6 +194,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-08T04:22:52.865Z",
+            "title": "Electron 17.0.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-17-0",
+            "content": "Electron 17.0.0リリース。\nChromium 98、Node.js 16.13.0、V8 9.8へアップデート。\n`webContents.getMediaSourceId()`の追加。\nまた、`desktopCapturer.getSource`がmain processのみから利用できるようになり、rendererからは削除された。",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
