@@ -182,6 +182,18 @@
                 "HTML"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-08T04:15:57.350Z",
+            "title": "fetch() In Node.js Core: Why You Should Care",
+            "url": "https://fusebit.io/blog/node-fetch/",
+            "content": "Node.js 17.5に実験フラグ付きでFetch APIが実装されたことについて。\nUnidiciベースの`fetch()`がなぜNode Coreに追加されたのかについて。\nNode.jsにおけるHTTPスタックの今後やユーザーがあまり意識せずにHTTP/2と3をサポートする方法における議論の一部としてUnidici/Fetchが扱われている",
+            "tags": [
+                "node.js",
+                "Fetch",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
