@@ -205,6 +205,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-08T15:32:27.925Z",
+            "title": "A list of every web API in Deno",
+            "url": "https://deno.com/blog/every-web-api-in-deno",
+            "content": "Denoが実装しているWeb APIの紹介記事",
+            "tags": [
+                "deno",
+                "article",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
