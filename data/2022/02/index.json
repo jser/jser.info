@@ -230,6 +230,17 @@
                 "architecture"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-09T12:32:34.258Z",
+            "title": "Node v16.14.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v16.14.0/",
+            "content": "Node.js 16.14.0リリース。\nNode.js 17からのbackportが中心。\nimport assertions構文でのJSON importのサポート、`asyncWrapProviders`の公開、`EventEmitterAsyncResource`の追加。\n`AbortSignal.timeout()`の追加、`timers/promises`に`scheduler` APIの追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
