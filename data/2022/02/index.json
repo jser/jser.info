@@ -217,6 +217,19 @@
                 "WebPlatformAPI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-09T03:58:34.968Z",
+            "title": "SOLID: The Software Design and Architecture Handbook",
+            "url": "https://solidbook.io/",
+            "content": "ソフトウェアアーキテクチャについての書籍。\nコードにはTypeScriptを使っていて、TDD、OOP、DDDについて扱っている。",
+            "tags": [
+                "JavaScript",
+                "book",
+                "DDD",
+                "architecture"
+            ],
+            "relatedLinks": []
         }
     ]
 }
