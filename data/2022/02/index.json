@@ -253,6 +253,19 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-10T04:11:25.187Z",
+            "title": "Release 5.0.0 · google/zx",
+            "url": "https://github.com/google/zx/releases/tag/5.0.0",
+            "content": "zx 5.0.0リリース。\nYAMLのサポート、\n`.ts`のビルトインサポートを削除、Node.js 16未満のサポート終了など",
+            "tags": [
+                "ShellScript",
+                "JavaScript",
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
