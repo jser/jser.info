@@ -299,6 +299,17 @@
                     "url": "https://github.com/npm/rfcs/pull/343"
                 }
             ]
+        },
+        {
+            "date": "2022-02-11T06:15:04.827Z",
+            "title": "Node v17.5.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v17.5.0/",
+            "content": "Node.js 17.5.0リリース。\n`--experimental-fetch`フラグ付きでUnidiベースのFetch APIの実装を追加、Streamにiterator-helper proposalの実装など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
