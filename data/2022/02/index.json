@@ -310,6 +310,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-11T06:22:26.637Z",
+            "title": "Release Notes for Safari Technology Preview 140 | WebKit",
+            "url": "https://webkit.org/blog/12255/release-notes-for-safari-technology-preview-140/",
+            "content": "Safari Technology Preview 140リリース。\nCSSの`:has()`擬似クラスのサポート、`FetchEvent.handled`のサポート、`form.requestSubmit()`の有効化。\nscript要素がサポートしているtypeを判定する\n`HTMLScriptElement.supports(type)`の実装など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Add FetchEvent.handled (#1397) by tingshao · Pull Request #1496 · w3c/ServiceWorker",
+                    "url": "https://github.com/w3c/ServiceWorker/pull/1496"
+                },
+                {
+                    "title": "HTMLScriptElement.supports() - Web APIs | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Web/API/HTMLScriptElement/supports"
+                }
+            ]
         }
     ]
 }
