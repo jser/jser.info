@@ -283,6 +283,22 @@
                     "url": "https://github.com/parcel-bundler/parcel/pull/7576"
                 }
             ]
+        },
+        {
+            "date": "2022-02-11T03:58:35.253Z",
+            "title": "Release v8.5.0 · npm/cli",
+            "url": "https://github.com/npm/cli/releases/tag/v8.5.0",
+            "content": "npm 8.5.0リリース。\nworkspace内でのnpm installなどのコマンドがコンテキストに基づいて実行されるように変更など",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "RFC: npm workspaces: auto switch context based on cwd by ruyadorno · Pull Request #343 · npm/rfcs",
+                    "url": "https://github.com/npm/rfcs/pull/343"
+                }
+            ]
         }
     ]
 }
