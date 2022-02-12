@@ -34,7 +34,7 @@ jobs:
         working-directory: layer0/
       - name: Deploy to Layer0
         run: |
-          npm run layer0:deploy -- ${{'--branch=$BRANCH_NAME' || ''}} --token=$deploy_token  \
+          npm run layer0:deploy -- ${{'--branch=$BRANCH_NAME' || ''}} --token=$layer0_deploy_token  \
           ${{github.event_name == 'push' && '--environment=default' || ''}} \
           ${{github.event_name == 'pull_request' && '--environment=staging' || ''}} \
           ${{github.event_name == 'release' && '--environment=production' || ''}}
