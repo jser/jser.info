@@ -1246,10 +1246,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@layer0/cli@^4.8.3":
-  version "4.8.3"
-  resolved "https://registry.yarnpkg.com/@layer0/cli/-/cli-4.8.3.tgz#a9f871cd6a721881df6a2ec0b1b6a913338caa56"
-  integrity sha512-wp5JY9oosRmHsvuprRx7II/t8XoKVU4MMCUOF2xu4MeuQsBBb/bD4KZb6ArzYYeMAIcF15ulPfmVp8QhzvkkxA==
+"@layer0/cli@^4.10.2":
+  version "4.10.2"
+  resolved "https://registry.yarnpkg.com/@layer0/cli/-/cli-4.10.2.tgz#6bc4deb472ff2980a2ac0cb1968d92dfee7a5d56"
+  integrity sha512-oBI4pURrwXxdAw3O2MlK77KBYv1cpTbVeYOcAPXKoBg4rFNWXgBKLI52WCfDfKF8r7nyAErLlAuUV272HJfhsw==
   dependencies:
     axios "^0.21.2"
     chalk "^2.4.2"
@@ -1287,10 +1287,10 @@
     yauzl "^2.10.0"
     yazl "^2.5.1"
 
-"@layer0/core@^4.8.3":
-  version "4.8.3"
-  resolved "https://registry.yarnpkg.com/@layer0/core/-/core-4.8.3.tgz#2488fd9ac171ac4abbefad50c1c733363fb86487"
-  integrity sha512-ymdYms5uT1zM80Pq8m0/8ikeWsmRzOf9+/RSkDyy7Qu/94J+94bG/yQag7n7QkCOPql6939KbvaUv121r/Pf5g==
+"@layer0/core@^4.10.2":
+  version "4.10.2"
+  resolved "https://registry.yarnpkg.com/@layer0/core/-/core-4.10.2.tgz#6a7bead697e85bea2dcb6449da8a6745a88836f7"
+  integrity sha512-a0va/Wo9Diy211hZhy8EINOz5r8aY5LCrIye2GI8zsRIF8mAiIxfsuxCRnAXKHyPpNipYX8FFIBUG7G+xAPVQQ==
   dependencies:
     "@babel/parser" "^7.16.2"
     "@babel/traverse" "^7.16.0"
@@ -1320,17 +1320,17 @@
     qs "^6.10.1"
     resolve-package-path "^4.0.3"
     semver "^7.3.5"
-    shelljs "^0.8.4"
+    shelljs "^0.8.5"
     slash "^3.0.0"
     tcp-port-used "^1.0.2"
     ts-loader "^8.2.0"
     unixify "^1.0.0"
     uuid "^8.3.2"
 
-"@layer0/devtools@^4.8.3":
-  version "4.8.3"
-  resolved "https://registry.yarnpkg.com/@layer0/devtools/-/devtools-4.8.3.tgz#c65d0a0c166e992acee01798938620730871b19a"
-  integrity sha512-YcNcWoquXDVV4v9JW1TKPx8BkTLjf+UVT0FntncQfc9lL2q1iwsV4QvVpdi9704Ve9NL3DQvdsS8xfSbtTt2Lw==
+"@layer0/devtools@^4.10.2":
+  version "4.10.2"
+  resolved "https://registry.yarnpkg.com/@layer0/devtools/-/devtools-4.10.2.tgz#04b32d6a1843bc24d93ba6154cf7363c62974162"
+  integrity sha512-asv8r/b/uLuEzWiDWkXyYlx7Q21TKmGoBBNhWJEZF4k0y1bnahMGIzA9SKd0ytdFEzOANMnTw5rQQr8l3HguxQ==
   dependencies:
     clsx "^1.1.1"
     lodash "^4.17.20"
@@ -1354,12 +1354,12 @@
     webpack "^4.0.0"
     webpack-sources "^2.2.0"
 
-"@layer0/prefetch@^4.8.3":
-  version "4.8.3"
-  resolved "https://registry.yarnpkg.com/@layer0/prefetch/-/prefetch-4.8.3.tgz#4b2db5c91be1101d64e31c4a15b4260978cc417d"
-  integrity sha512-0DWMmQMrL+ay0qpYlhQEz1ZcnxBZ0xJZpGMCQPDnooujeDMkUGReFVETQ37el7o0LBodxzuwOMApPaBSYkv4+w==
+"@layer0/prefetch@^4.10.2":
+  version "4.10.2"
+  resolved "https://registry.yarnpkg.com/@layer0/prefetch/-/prefetch-4.10.2.tgz#ded5c29cd6ab171d8612c1fd447d09e9dbe9456e"
+  integrity sha512-PgxWnbGX+oZaPao08a7Dj2MkdqUUOzsClXkvdL3O6SYslY1FqsmJ/WjUh5VK1M0grDcTxFFP8s8JDWxg178OAw==
   dependencies:
-    "@layer0/core" "^4.8.3"
+    "@layer0/core" "^4.10.2"
     cheerio "^1.0.0-rc.3"
     json-query "^2.2.2"
     workbox-cacheable-response "^5.1.2"
@@ -1369,10 +1369,10 @@
     workbox-routing "^5.1.2"
     workbox-strategies "^5.1.2"
 
-"@layer0/react@^4.8.3":
-  version "4.8.3"
-  resolved "https://registry.yarnpkg.com/@layer0/react/-/react-4.8.3.tgz#15a2084cec955ab2992cb39d2be4889b94870611"
-  integrity sha512-84gE4QCr72OZcIAV3zsVaME2t8w+jRmlEzjllsmmydE8HxwdhsYx+Seb6sLoIIgjdC90AAipwHyVqh7aKiM7uQ==
+"@layer0/react@^4.10.2":
+  version "4.10.2"
+  resolved "https://registry.yarnpkg.com/@layer0/react/-/react-4.10.2.tgz#b2a5112385d81f40d58a337f799bae849b159fa3"
+  integrity sha512-ZkEckq3k2Cy4pw1V+nWyR8OAKsLzuIwoSFHN111JoO2IbqUCcsnzhptjJs6W6HhCy/jJ+60DT5f0Qg6zlcRh4Q==
   dependencies:
     react-merge-refs "^1.1.0"
 
@@ -7035,10 +7035,10 @@ shell-quote@1.7.3:
   resolved "https://registry.yarnpkg.com/shell-quote/-/shell-quote-1.7.3.tgz#aa40edac170445b9a431e17bb62c0b881b9c4123"
   integrity sha512-Vpfqwm4EnqGdlsBFNmHhxhElJYrdfcxPThu+ryKS5J8L/fhAwLazFZtq+S+TWZ9ANj2piSQLGj6NQg+lKPmxrw==
 
-shelljs@^0.8.4:
-  version "0.8.4"
-  resolved "https://registry.yarnpkg.com/shelljs/-/shelljs-0.8.4.tgz#de7684feeb767f8716b326078a8a00875890e3c2"
-  integrity sha512-7gk3UZ9kOfPLIAbslLzyWeGiEqx9e3rxwZM0KE6EL8GlGwjym9Mrlx5/p33bWTu9YG6vcS4MBxYZDHYr5lr8BQ==
+shelljs@^0.8.5:
+  version "0.8.5"
+  resolved "https://registry.yarnpkg.com/shelljs/-/shelljs-0.8.5.tgz#de055408d8361bed66c669d2f000538ced8ee20c"
+  integrity sha512-TiwcRcrkhHvbrZbnRcFYMLl30Dfov3HKqzp5tO5b4pt6G/SezKcYhmDg15zXVBswHmctSAQKznqNW2LO5tTDow==
   dependencies:
     glob "^7.0.0"
     interpret "^1.0.0"
