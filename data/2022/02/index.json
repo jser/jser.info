@@ -342,6 +342,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-12T12:18:32.433Z",
+            "title": "Announcing TypeScript 4.6 RC - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-6-rc/",
+            "content": "TypeScript 4.6 RCリリース。\n再帰型、インターフェースへのインデックスアクセス、関数の引数における型推論の改善。\n`--target es2022`のサポート、`checkJs`が有効時のJavaScriptの構文エラーのチェックを改善。\n`--generateTrace`で出力できるビルドのトレースデータを分析するための`@typescript/analyze-trace`パッケージの公開など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
