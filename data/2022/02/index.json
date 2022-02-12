@@ -353,6 +353,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-12T14:44:34.973Z",
+            "title": "vite/CHANGELOG.md at main · vitejs/vite",
+            "url": "https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#280-2022-02-09",
+            "content": "Vite 2.8.0リリース。\n`vite preview`のデフォルトportの変更、Workerとしてbundleする対象を`URL`使ったものへと変更、設定に`worker`オプションを追加など。\nまた、パッケージのファイルサイズの削減など",
+            "tags": [
+                "vite",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
