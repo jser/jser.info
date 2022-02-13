@@ -364,6 +364,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-13T11:47:51.838Z",
+            "title": "Implementing DDD, CQRS and… by Alex Lawrence [PDF/iPad/Kindle]",
+            "url": "https://leanpub.com/implementing-ddd-cqrs-and-event-sourcing",
+            "content": "JavaScriptで書かれたDDD/CQRS/Event Sourcingについての書籍。\nドメイン駆動設計の理論的な話から、JavaScript/Node.jsを使った実装について。\nEvent Sourcingでは、ブラウザ上のUIと`EventSource`を使ったRead Modelについても扱っている",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "DDD",
+                "book"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Why my book uses Node.js and JavaScript - Alex Lawrence",
+                    "url": "https://www.alex-lawrence.com/posts/why-my-book-uses-nodejs-and-javascript/"
+                }
+            ]
         }
     ]
 }
