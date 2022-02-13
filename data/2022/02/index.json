@@ -395,6 +395,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-13T22:15:24.173Z",
+            "title": "hikerpig/pintora: An extensible text-to-diagrams library that works in both browser and node.js",
+            "url": "https://github.com/hikerpig/pintora",
+            "content": "Mermaid.jsやPlantUMLのようにテキストでダイアグラムを書くライブラリ。\nSequence Diagram、Component Diagram、Activity Diagram、Mind Mapなどの形式に対応していて、プラグインでカスタマイズできる\n",
+            "tags": [
+                "JavaScript",
+                "library",
+                "graphic"
+            ],
+            "relatedLinks": []
         }
     ]
 }
