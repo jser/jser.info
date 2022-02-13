@@ -382,6 +382,19 @@
                     "url": "https://www.alex-lawrence.com/posts/why-my-book-uses-nodejs-and-javascript/"
                 }
             ]
+        },
+        {
+            "date": "2022-02-13T11:53:52.725Z",
+            "title": "Release v28.0.0-alpha.0 · facebook/jest",
+            "url": "https://github.com/facebook/jest/releases/tag/v28.0.0-alpha.0",
+            "content": "Jest 28αリリース。\n27で`jest-circus`がデフォルトとなったため、JSDOMとjasmin2のenviromentをデフォルトでは含めないように変更。\n`package.json`の`exports`フィールドに対応など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
