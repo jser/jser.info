@@ -463,6 +463,18 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/97"
                 }
             ]
+        },
+        {
+            "date": "2022-02-14T13:14:02.871Z",
+            "title": "How the Angular Compiler Works. The Angular Compiler (which we call… | by Alex Rickabaugh | Feb, 2022 | Angular Blog",
+            "url": "https://blog.angular.io/how-the-angular-compiler-works-42111f9d2549",
+            "content": "Angular Compilerがどのように動いているかについての解説記事。\nどのようにAngular componentのテンプレートの型チェックをして変換しているのかについて。\n",
+            "tags": [
+                "Angular",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
