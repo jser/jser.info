@@ -419,6 +419,23 @@
                 "refactoring"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-14T12:23:28.346Z",
+            "title": "Aslemammad/react-worker-components-plugin: ⚡ Something like react server components, but web workers instead of a server",
+            "url": "https://github.com/Aslemammad/react-worker-components-plugin",
+            "content": "importしたReactコンポーネントをreact-worker-componentsを使ってWebWorkerで動かすように変換するViteプラグイン",
+            "tags": [
+                "React",
+                "vite",
+                "plugin"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "dai-shi/react-worker-components: React Worker Components simplify using Web Workers",
+                    "url": "https://github.com/dai-shi/react-worker-components"
+                }
+            ]
         }
     ]
 }
