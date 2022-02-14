@@ -436,6 +436,17 @@
                     "url": "https://github.com/dai-shi/react-worker-components"
                 }
             ]
+        },
+        {
+            "date": "2022-02-14T12:29:10.129Z",
+            "title": "ESLint v8.9.0 released - ESLint - Pluggable JavaScript linter",
+            "url": "https://eslint.org/blog/2022/02/eslint-v8.9.0-released",
+            "content": "ESLint 8.9.0リリース。\n`env`に`es2016`/`es2018`/`es2019`/`es2022`オプションの追加、ES3のコードでは`\"use strict\"`を無視するように変更など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
