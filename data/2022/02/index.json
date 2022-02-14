@@ -447,6 +447,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-14T12:35:27.322Z",
+            "title": "Firefox 97.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/97.0/releasenotes/",
+            "content": "Firefox 97リリース。\nCSSの`cap`と`ic` unitをサポート、`@scroll-timeline`と`animation-timeline`のサポート、CSS cascade layersをデフォルトで有効化。\n`AbortController.abort()`/`AbortSignal.throwIfAborted()`/`AbortSignal.reason`プロパティのサポートなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 97 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/97"
+                }
+            ]
         }
     ]
 }
