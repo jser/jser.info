@@ -301,17 +301,6 @@
             ]
         },
         {
-            "date": "2022-02-11T06:15:04.827Z",
-            "title": "Node v17.5.0 (Current) | Node.js",
-            "url": "https://nodejs.org/en/blog/release/v17.5.0/",
-            "content": "Node.js 17.5.0リリース。\n`--experimental-fetch`フラグ付きでUnidiベースのFetch APIの実装を追加、Streamにiterator-helper proposalの実装など",
-            "tags": [
-                "node.js",
-                "ReleaseNote"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2022-02-11T06:22:26.637Z",
             "title": "Release Notes for Safari Technology Preview 140 | WebKit",
             "url": "https://webkit.org/blog/12255/release-notes-for-safari-technology-preview-140/",
@@ -486,6 +475,17 @@
                 "JavaScript",
                 "Chrome",
                 "article"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2022-02-14T13:43:14.841Z",
+            "title": "Node v17.5.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v17.5.0/",
+            "content": "Node.js 17.5.0リリース。\n`--experimental-fetch`フラグ付きでundiciベースのFetch APIの実装を追加、Streamにiterator-helper proposalの実装など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
             ],
             "relatedLinks": []
         }
