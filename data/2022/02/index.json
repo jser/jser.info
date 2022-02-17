@@ -553,6 +553,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-17T13:23:25.846Z",
+            "title": "textareaをカスタマイズできるReact用のライブラリを作成しました",
+            "url": "https://zenn.dev/inokawa/articles/946ba7be927f44",
+            "content": "textarea要素に対してオーバーレイする要素をおいて、テキストの装飾やイベントを設定できるReactライブラリについて",
+            "tags": [
+                "JavaScript",
+                "React",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "inokawa/rich-textarea: A small customizable textarea for React to colorize, highlight, decorate texts, offer autocomplete and much more.",
+                    "url": "https://github.com/inokawa/rich-textarea"
+                }
+            ]
         }
     ]
 }
