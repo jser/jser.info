@@ -524,6 +524,23 @@
                 "accessibility"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-17T12:38:35.216Z",
+            "title": "The File System Access API with Origin Private File System | WebKit",
+            "url": "https://webkit.org/blog/12257/the-file-system-access-api-with-origin-private-file-system/",
+            "content": "Safariに実装されたFile System Acccess APIについて。\nOriginごとに分離されたPrivateなファイルシステムとなっていて、ブラウザ外からはアクセスできない。\nFile System Access APIの基本的な使い方について",
+            "tags": [
+                "safari",
+                "JavaScript",
+                "IndexedDB"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "File System Access API - Web APIs | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API"
+                }
+            ]
         }
     ]
 }
