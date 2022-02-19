@@ -570,6 +570,17 @@
                     "url": "https://github.com/inokawa/rich-textarea"
                 }
             ]
+        },
+        {
+            "date": "2022-02-19T05:52:42.436Z",
+            "title": "Deno 1.19 Release Notes",
+            "url": "https://deno.com/blog/v1.19",
+            "content": "Deno 1.19リリース。\n`Deno.File`を`Deno.FsFile`にリネームし、`Deno.File`をdeprecatedに変更。\n依存関係をリポジトリ内のファイルとして管理する`deno vendor`コマンドの追加、`Deno.FsFile`や`Deno.Conn`などがWeb Streamsに対応。\n`CompressionStream`/`DecompressionStream`のサポート、`console.log`が循環参照の表示に対応、`Deno.listen`がUnix socketsに対応など。\nまた、unstableなAPIとして、`Deno.getUid`、`Deno.networkInterfaces`の追加など。",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
