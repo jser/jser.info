@@ -618,6 +618,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-20T13:42:02.530Z",
+            "title": "Blog - Next.js 12.1 | Next.js",
+            "url": "https://nextjs.org/blog/next-12-1",
+            "content": "Next.js 12.1リリース。\nAPIサーバで`unstable_revalidate`を使ってISRのページをrevalidateできるように、`next/jest`の追加、SWCの改善とMinifyの対応。\n試験的な機能として`outputStandalone`オプションでNext.jsをサーバで動かすのに必要なファイルのみを出力できるように、React 18の対応など",
+            "tags": [
+                "Next.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
