@@ -605,6 +605,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-20T11:52:23.065Z",
+            "title": "Release v1.2.0 · remix-run/remix",
+            "url": "https://github.com/remix-run/remix/releases/tag/v1.2.0",
+            "content": "Remix v1.2.0リリース。\n`serverBuildTarget`オプションを追加しデプロイターケットごとに最適化した出力となるように、`server`オプションでカスタムサーバを指定できるように。\nNodeのビルトインモジュールを使っている場合にshimが入るように、`serverDependenciesToBundle`でCJS向けの出力する際にESMパッケージをbundleできるようになるなど",
+            "tags": [
+                "React",
+                "server",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
