@@ -640,6 +640,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-21T14:11:31.447Z",
+            "title": "jimmywarting/native-file-system-adapter: File system, based on the spec reference implementation",
+            "url": "https://github.com/jimmywarting/native-file-system-adapter/",
+            "content": "File System Access APIのpolyfillライブラリ。\n対象をアダプタで切り替えることができ、Node.jsやDenoやIndexedDBなどをサポートしている。",
+            "tags": [
+                "node.js",
+                "library",
+                "polyfill"
+            ],
+            "relatedLinks": []
         }
     ]
 }
