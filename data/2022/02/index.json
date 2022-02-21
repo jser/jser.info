@@ -629,6 +629,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-21T13:47:59.850Z",
+            "title": "Yarn 3.2 🚢🔮 Libc, Yarn Explain, Next Major, ... - DEV Community 👩‍💻👨‍💻",
+            "url": "https://dev.to/arcanis/yarn-32-libc-yarn-explain-next-major--o22",
+            "content": "Yarn 3.2リリース。\n`optionalDependencies`に`libc`フィールドの追加、`yarn explain`コマンドの追加、UIの改善など。\n次のメジャーアップデートであるYarn 4.xの変更予定についても書かれている",
+            "tags": [
+                "yarn",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
