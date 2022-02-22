@@ -654,13 +654,14 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-02-22T02:21:43.536Z",
+            "date": "2022-02-22T03:00:01.346Z",
             "title": "ghiscoding/lerna-lite: automate your workspace version & publish by using conventional-changelog-commits",
             "url": "https://github.com/ghiscoding/lerna-lite",
             "content": "lernaから`version`/`publish`/`run`コマンドを取り出したfork。\n",
             "tags": [
                 "monorepo",
-                "Tools"
+                "Tools",
+                "library"
             ],
             "relatedLinks": [
                 {
