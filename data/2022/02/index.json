@@ -652,6 +652,22 @@
                 "polyfill"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-22T02:21:43.536Z",
+            "title": "ghiscoding/lerna-lite: automate your workspace version & publish by using conventional-changelog-commits",
+            "url": "https://github.com/ghiscoding/lerna-lite",
+            "content": "lernaから`version`/`publish`/`run`コマンドを取り出したfork。\n",
+            "tags": [
+                "monorepo",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Lerna is largely unmaintained · Issue #2703 · lerna/lerna",
+                    "url": "https://github.com/lerna/lerna/issues/2703#issuecomment-1036971049"
+                }
+            ]
         }
     ]
 }
