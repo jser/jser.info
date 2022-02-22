@@ -669,6 +669,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-22T13:24:42.243Z",
+            "title": "Release v6.32.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v6.32.0",
+            "content": "pnpm 6.32.0リリース。\nインストールスクリプトを実行できるパッケージを指定する`onlyBuiltDependencies`の追加、`overrides`フィールドが`pnpm add`に対して反映されるようになるなど",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
