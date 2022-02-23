@@ -680,6 +680,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-23T07:34:15.313Z",
+            "title": "Astro 0.23 Release Notes | Astro",
+            "url": "https://astro.build/blog/astro-023/",
+            "content": "Astro 0.23リリース。\nHTML以外のビルドに対応、`set:html`と`set:text`ディレクティブの追加、`PUBLIC_` prefixの環境変数はフロントエンドへ公開するように変更。\nまた、次のバージョンではコンポーネント内のテキストを自動的にHTMLエスケープするよう変更予定。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
