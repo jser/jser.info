@@ -732,6 +732,23 @@
                 "debug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-27T20:16:41.532Z",
+            "title": "Release v1.8.0-rc.0 · reduxjs/redux-toolkit",
+            "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v1.8.0-rc.0",
+            "content": "Redux Toolkit v1.8.0-rc.0リリース。\n`@rtk-incubator/action-listener-middleware`パッケージを追加、`configureStore`の型定義の改善など",
+            "tags": [
+                "redux",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "New experimental &quot;action listener middleware&quot; package available · Discussion #1648 · reduxjs/redux-toolkit",
+                    "url": "https://github.com/reduxjs/redux-toolkit/discussions/1648"
+                }
+            ]
         }
     ]
 }
