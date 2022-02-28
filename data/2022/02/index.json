@@ -812,6 +812,17 @@
                     "url": "https://www.xata.io/blog/introducing-screenshot/"
                 }
             ]
+        },
+        {
+            "date": "2022-02-28T12:15:01.424Z",
+            "title": "leafac/caxa: 📦 Package Node.js applications into executable binaries 📦",
+            "url": "https://github.com/leafac/caxa",
+            "content": "Node.jsアプリケーションを単一の実行バイナリにパッケージングするツール。\nNode.jsとアプリを含む自己解凍型アーカイブとして扱うことで、`fs`などへのpatchをせずにパッケージングしている",
+            "tags": [
+                "node.js",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
