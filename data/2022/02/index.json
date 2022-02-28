@@ -794,6 +794,24 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-02-28T12:01:42.316Z",
+            "title": "xataio/screenshot: A zero-dependency browser-native way to take screenshots powered by the native web MediaDevices API.",
+            "url": "https://github.com/xataio/screenshot",
+            "content": "`MediaDevices.getDisplayMedia`を使ったスクリーンショットライブラリ。\n画面の表示そのものをキャプチャ画像として取得できる",
+            "tags": [
+                "JavaScript",
+                "library",
+                "Image",
+                "browser"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Xata | New Open Source Library: Announcing @xata.io/screenshot",
+                    "url": "https://www.xata.io/blog/introducing-screenshot/"
+                }
+            ]
         }
     ]
 }
