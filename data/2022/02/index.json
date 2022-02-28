@@ -771,6 +771,17 @@
                     "url": "https://github.com/oakserver/oak/pull/479"
                 }
             ]
+        },
+        {
+            "date": "2022-02-28T11:49:16.739Z",
+            "title": "microsoft/TypeScript-Compiler-Notes: A repo containing notes about the TypeScript Compiler codebase",
+            "url": "https://github.com/microsoft/TypeScript-Compiler-Notes",
+            "content": "TypeScriptのコンパイラーについてのメモをまとめたリポジトリ。\n重要な変更のPRのまとめ、コンパイルプロセスの解説やContributeする方法ついてなど書かれている",
+            "tags": [
+                "TypeScript",
+                "document"
+            ],
+            "relatedLinks": []
         }
     ]
 }
