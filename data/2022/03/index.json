@@ -1,0 +1,15 @@
+{
+    "list": [
+        {
+            "date": "2022-03-03T22:51:12.774Z",
+            "title": "Release v5.70.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v5.70.0",
+            "content": "webpack v5.70.0リリース。\nESMにおける`require.context`相当の機能として`import.meta.webpackContext`を追加。\nESMサポートの対象にNode.js 12を追加など",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
