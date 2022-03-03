@@ -10,6 +10,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-03T23:11:11.051Z",
+            "title": "Release v0.14.24 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/v0.14.24",
+            "content": "esbuild v0.14.24リリース。\ntargetに`es2022`をサポート、`define`オプションインデックス指定の場合も置換できるように、`--mangle-quoted`の追加など",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
