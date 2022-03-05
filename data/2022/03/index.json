@@ -38,6 +38,17 @@
                     "url": "https://developer.mozilla.org/"
                 }
             ]
+        },
+        {
+            "date": "2022-03-05T13:33:45.381Z",
+            "title": "Release Notes for Safari Technology Preview 141 | WebKit",
+            "url": "https://webkit.org/blog/12434/release-notes-for-safari-technology-preview-141/",
+            "content": "Safari Technology Preview 141リリース。\nCSS `overflow: clip`の有効化、import assertion構文をフラグ付きで実装、CSPの`wasm-unsafe-eval`を実装など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
