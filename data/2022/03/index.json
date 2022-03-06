@@ -98,6 +98,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-06T13:30:42.556Z",
+            "title": "Release v28.0.0-alpha.7 · facebook/jest",
+            "url": "https://github.com/facebook/jest/releases/tag/v28.0.0-alpha.7",
+            "content": "Jest v28.0.0-alpha.7リリース。\n複数のマシンでテストを分割して実行できる`--shared`フラグの実装など",
+            "tags": [
+                "jest",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "feat: implement `--shard` option by marionebl · Pull Request #12546 · facebook/jest",
+                    "url": "https://github.com/facebook/jest/pull/12546"
+                }
+            ]
         }
     ]
 }
