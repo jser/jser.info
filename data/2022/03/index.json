@@ -89,13 +89,13 @@
             ]
         },
         {
-            "date": "2022-03-06T07:29:51.530Z",
+            "date": "2022-03-06T07:29:58.177Z",
             "title": "Announcing TypeScript 4.6 - TypeScript",
             "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/",
             "content": "TypeScript 4.6リリース。\nDestructuringとUnionの組み合わせ、再帰型、インターフェースへのインデックスアクセス、関数の引数における型推論の改善。\n`--target es2022`のサポート、`checkJs`が有効時のJavaScriptの構文エラーのチェックを改善。",
             "tags": [
                 "TypeScript",
-                "serverless"
+                "ReleaseNote"
             ],
             "relatedLinks": []
         }
