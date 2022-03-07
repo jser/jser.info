@@ -144,6 +144,23 @@
                 "node.js"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-07T01:51:22.682Z",
+            "title": "nodeshift/nodejs-reference-architecture: The Red Hat and IBM Node.js Reference architecture. The teams 'opinion' on what components our customers and internal teams should use when building Node.js applications and guidance for how to be successful in production with those components.",
+            "url": "https://github.com/nodeshift/nodejs-reference-architecture",
+            "content": "Node.jsプロジェクトのアーキテクチャやライブラリの選定などについてのリファレンスをまとめたガイドライン。\nDockerやnpm周りの設定、ジャンルごとのライブラリやフレームワーク、運用回りのロギングやトレースなど一通りの内容がまとめられている",
+            "tags": [
+                "node.js",
+                "document",
+                "Docker"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Node.js Reference Architecture | Node.JS Reference Architecture",
+                    "url": "https://nodeshift.dev/nodejs-reference-architecture/"
+                }
+            ]
         }
     ]
 }
