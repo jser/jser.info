@@ -161,6 +161,24 @@
                     "url": "https://nodeshift.dev/nodejs-reference-architecture/"
                 }
             ]
+        },
+        {
+            "date": "2022-03-07T13:36:24.954Z",
+            "title": "フロントエンドのデザインパターン",
+            "url": "https://zenn.dev/morinokami/books/learning-patterns-1",
+            "content": "patterns.dev の翻訳本。\nReactやJavaScriptにおけるデザインパターンの解説",
+            "tags": [
+                "JavaScript",
+                "architecture",
+                "book",
+                "React"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Patterns.dev - Modern Web App Design Patterns",
+                    "url": "https://www.patterns.dev/"
+                }
+            ]
         }
     ]
 }
