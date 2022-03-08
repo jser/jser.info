@@ -195,6 +195,17 @@
                     "url": "https://blog.chromium.org/2021/09/user-agent-reduction-origin-trial-and-dates.html"
                 }
             ]
+        },
+        {
+            "date": "2022-03-08T23:55:26.725Z",
+            "title": "How to Upgrade to the React 18 Release Candidate – React Blog",
+            "url": "https://reactjs.org/blog/2022/03/08/react-18-upgrade-guide.html",
+            "content": "React 18 RCリリース。\nIEのサポートを終了。\nReactDOMの`render` APIをDeprecatedとし、`createRoot` APIの利用を推奨するように。\nSSR APIの`renderToNodeStream`を非推奨化し、Suspenseをサポートした`renderToPipeableStream`と`renderToReadableStream`を追加。\n`setState`のステート更新を自動的にバッジ処理するようにし、オプトアウト用の`flushSync`APIを追加。\nまた、ReduxなどのReact外でステート管理するライブラリ向けに`userId`/`useSyncExternalStore`/`useInsertionEffect` APIを追加。\n開発時は`<StrictMode>`でunmountとmountでの再マウントをテストするように挙動を変更。\n`global.IS_REACT_ACT_ENVIRONMENT`でテスト環境かどうかを設定できるように。",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
