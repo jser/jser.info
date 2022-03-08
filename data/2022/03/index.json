@@ -179,6 +179,22 @@
                     "url": "https://www.patterns.dev/"
                 }
             ]
+        },
+        {
+            "date": "2022-03-08T03:16:00.390Z",
+            "title": "Chromium Blog: Chrome 100 Beta: Reduced User-Agent Strings, Multi-Screen Window Placement, and More",
+            "url": "https://blog.chromium.org/2022/03/chrome-100-beta-reduced-user-agent.html",
+            "content": "Chrome 100 betaリリース。\nChrome 100がUA文字列を削減する前の最後のバージョン隣、101から段階的にUA文字列を削減していく。\nMulti-Screen Window Placement APIの追加、\nOrigin TrialとしてMedia Source ExtensionsをWorkerで動かせるように。\n`AbortSignal.prototype.throwIfAborted()`の追加、`HIDDevice forget()`の追加など。",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chromium Blog: User-Agent Reduction Origin Trial and Dates",
+                    "url": "https://blog.chromium.org/2021/09/user-agent-reduction-origin-trial-and-dates.html"
+                }
+            ]
         }
     ]
 }
