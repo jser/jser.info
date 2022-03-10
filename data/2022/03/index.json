@@ -218,6 +218,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-10T02:14:54.559Z",
+            "title": "Node v17.7.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v17.7.0/",
+            "content": "Node.js v17.7.0リリース。\n`net.Socket`と`net.Server`に`noDelay`/`keepAlive`/`keepAliveInitialDelay`オプションの追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
