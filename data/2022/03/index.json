@@ -240,6 +240,17 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-10T18:36:37.200Z",
+            "title": "daisyUI — Tailwind CSS Components",
+            "url": "https://daisyui.com/",
+            "content": "UIコンポーネントの見た目を提供するTailwindプラグイン。\nクラス名にコンポーネントの指定することでUIを定義し、カスタムはクラス名にTailwindのUtilityを指定することで行う",
+            "tags": [
+                "CSS",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
