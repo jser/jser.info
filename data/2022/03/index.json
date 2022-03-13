@@ -272,6 +272,23 @@
                     "url": "https://github.com/typed-ember/glint"
                 }
             ]
+        },
+        {
+            "date": "2022-03-13T11:35:36.954Z",
+            "title": "A Proposal For Type Syntax in JavaScript - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/",
+            "content": "TypeScriptチームが、実行時には消去可能なコメントとしての型構文をECMAScriptのProposalとして提案するという話",
+            "tags": [
+                "TypeScript",
+                "ECMAScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "giltayar/proposal-types-as-comments: ECMAScript proposal for type syntax that is erased - Stage 0",
+                    "url": "https://github.com/giltayar/proposal-types-as-comments"
+                }
+            ]
         }
     ]
 }
