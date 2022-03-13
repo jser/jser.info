@@ -301,6 +301,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-13T13:25:11.321Z",
+            "title": "JavaScript naming conflicts: How existing code can force proposed features to be renamed",
+            "url": "https://2ality.com/2022/03/naming-conflicts.html",
+            "content": "ECMAScriptの新しいProposalが既存のWebを壊すbreak the webがどのように起きるかについての解説記事。\nビルトインのprototoypeの変更、プロパティ名の競合、グローバル名の衝突、withによる衝突など",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "issue"
+            ],
+            "relatedLinks": []
         }
     ]
 }
