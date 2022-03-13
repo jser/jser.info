@@ -251,6 +251,27 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-13T11:06:38.895Z",
+            "title": "Typed Ember is now the Ember TypeScript Core Team!",
+            "url": "https://blog.emberjs.com/typed-ember-is-now-the-ember-type-script-core-team/",
+            "content": "EmberのTypeScriptサポートをコアのサブチームとして進めるという話。\nEmber CLIへの統合、Glintでのテンレプーと型チェック、Ember自体の型定義の改善、RFCのTypeScriptへの影響調査などを行うチーム",
+            "tags": [
+                "Ember",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "0724-road-to-typescript",
+                    "url": "https://emberjs.github.io/rfcs/0724-road-to-typescript.html"
+                },
+                {
+                    "title": "typed-ember/glint: TypeScript powered tooling for Glimmer templates",
+                    "url": "https://github.com/typed-ember/glint"
+                }
+            ]
         }
     ]
 }
