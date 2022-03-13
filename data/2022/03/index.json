@@ -291,13 +291,14 @@
             ]
         },
         {
-            "date": "2022-03-13T11:57:20.267Z",
+            "date": "2022-03-13T11:57:25.878Z",
             "title": "Release v8.0.0 · vueuse/vueuse",
             "url": "https://github.com/vueuse/vueuse/releases/tag/v8.0.0",
             "content": "vueuse v8.0.0リリース。\n`@vueuse/core/nuxt`を削除し、代わりに`@vueuse/nuxt`を公開。\n`useTimeoutPoll`/`useDateFormat`/`useGamepad`/`useFileSystemAccess`/`useChangeCase`の追加など",
             "tags": [
                 "Vue",
-                "library"
+                "library",
+                "ReleaseNote"
             ],
             "relatedLinks": []
         }
