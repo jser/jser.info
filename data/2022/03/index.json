@@ -349,6 +349,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-15T03:47:30.625Z",
+            "title": "WebGPU — All of the cores, none of the canvas — surma.dev",
+            "url": "https://surma.dev/things/webgpu/",
+            "content": "WebGPUについて解説記事。\nWebGLはOpenGLのラッパーであるが、WebGPUは独自の抽象化レイヤーを持っている、またWGSLというWebGPUのシェーディング言語について",
+            "tags": [
+                "WebGPU",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
