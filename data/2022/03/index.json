@@ -337,6 +337,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-15T03:39:20.136Z",
+            "title": "New WebKit Features in Safari 15.4 | WebKit",
+            "url": "https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/",
+            "content": "Safari 15.4の変更点について。\n`<dialog>`要素のサポート、CSSの`:has()`擬似クラス、Cascade Layers、CSS Containmentのサポート。\nViewport Unitsとして`lvh`や`svh`などのサポート、`:focus-visible`擬似クラスのサポート、`calc()`でのmath functionのサポート。\n非標準な`-webkit-` prefixをいくつかのCSSプロパティから削除。\nBroadcastChannel、`window.scroll`の`scroll-behavior`プロパティ、`structuredClone`、File System Access APIのサポート。\nES2022の`at()`メソッドと`Object.hasOwn()`メソッド、Stage 3のProposalである`findLast()`メソッドのサポートなど。\n`Intl`の実装を仕様に準拠するように更新、Web App Manifestの対応改善、`navigationPreload`のサポートなど。\n`requestVideoFrameCallback()`のサポート、CSP Lv3のサポート改善、XSS Auditorの削除など",
+            "tags": [
+                "webkit",
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
