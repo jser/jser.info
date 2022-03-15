@@ -325,6 +325,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-15T02:55:14.115Z",
+            "title": "Release v1.20.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.20.0",
+            "content": "playwright v1.20.0リリース。\nスクリーンショットAPIにアニメーションの無効化、特定の箇所を隠す`mask`オプションの追加。\n`expect().toMatchSnapshot()`がanomymouse snapshotsのサポート、`maxDiffPixels`と`maxDiffPixelRatio`オプションの追加。\nテストの設定に`fullyParallel`モートを追加など",
+            "tags": [
+                "browser",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
