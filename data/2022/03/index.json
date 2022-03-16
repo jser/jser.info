@@ -360,6 +360,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-16T05:40:41.046Z",
+            "title": "Prettier 2.6: new singleAttributePerLine option and new JavaScript features! · Prettier",
+            "url": "https://prettier.io/blog/2022/03/16/2.6.0.html",
+            "content": "Prettier 2.6.リリース。\nTypeScript 4.6のサポート、`parser`オプションに`acorn`を追加、`--no-plugin-search`フラグの追加、`.swcrc`をファイルを考慮するように修正など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
