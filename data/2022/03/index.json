@@ -399,6 +399,17 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-20T15:19:00.224Z",
+            "title": "Deno 1.20 Release Notes",
+            "url": "https://deno.com/blog/v1.20",
+            "content": "Deno 1.20リリース。\nパフォーマンスの改善、`Accept-Encoding`を見て自動的にHTTP Response Bodyを圧縮するように。\n`deno bench`コマンド、`deno task`コマンド、`deno.json`が`importMap`オプションをサポート。\n`deno test`に`--trace-ops`フラグをつけた時のみデバッグ用の詳細な情報を表示するように変更。\n破壊的な変更として、WorkerとTestに対してパーミッションのデフォルト値が\"inherit\"だったのを\"none\"に変更など",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
