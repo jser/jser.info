@@ -410,6 +410,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-21T13:11:44.279Z",
+            "title": "An update on the New Architecture Rollout · React Native",
+            "url": "https://reactnative.dev/blog/2022/03/15/an-update-on-the-new-architecture-rollout",
+            "content": "React Native 0.68.0では新しいArchitecture Templateが導入される。\nopt-inで導入でき、JavaScriptエンジンとしてHermesが有効化される。",
+            "tags": [
+                "React",
+                "Native",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
