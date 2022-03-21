@@ -444,6 +444,18 @@
                     "url": "https://fakerjs.dev/update.html"
                 }
             ]
+        },
+        {
+            "date": "2022-03-21T14:27:21.455Z",
+            "title": "A11yAutomation",
+            "url": "https://a11y-automation.dev/",
+            "content": "アクセシビリティの問題について項目ごとに開設とLint/自動テスト/手動テストでのチェック方法、関連するWCAGなどドキュメントがまとめられているサイト",
+            "tags": [
+                "accessibility",
+                "document",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
