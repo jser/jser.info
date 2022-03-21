@@ -456,6 +456,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-21T14:43:01.087Z",
+            "title": "Upgrading Next.js for instant performance improvements – Vercel",
+            "url": "https://vercel.com/blog/upgrading-nextjs-for-instant-performance-improvements",
+            "content": "Next.jsのデモアプリのNext.jsをアップデートしながら変更点を紹介しながらパフォーマンスがどのぐらい変わるかを紹介している記事。\n`getStaticProps`を使った初期データの取得の改善、`next/image`での画像最適化、Dynamic Routes/API Routesの利用、NextAuthの利用など。\nまた`next/dynamic`を使った動的インポート、Fontのインライン化や開発パフォーマンスの向上などについて",
+            "tags": [
+                "Next.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
