@@ -422,6 +422,28 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-21T13:40:05.219Z",
+            "title": "Release v6.0.0 · faker-js/faker",
+            "url": "https://github.com/faker-js/faker/releases/tag/v6.0.0",
+            "content": "Faker 6.0.0リリース。\nFakerがコミュニティでのメンテナンスになってから最初のメジャリリース。\nパッケージは`@faker-js/faker`として公開されている。ESMのサポート、TypeScriptの型定義の同梱など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migrating from Faker v5 to v6 | Faker",
+                    "url": "https://fakerjs.dev/migration-guide-v5/"
+                },
+                {
+                    "title": "An update from the Faker team | Faker",
+                    "url": "https://fakerjs.dev/update.html"
+                }
+            ]
         }
     ]
 }
