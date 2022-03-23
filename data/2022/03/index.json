@@ -479,6 +479,22 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-23T00:39:29.905Z",
+            "title": "Node v17.8.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v17.8.0/",
+            "content": "Node.js 17.8.0リリース。\n`PerformanceObserver`で`http`トレースができるようになるなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "http: trace http(s) client by perf_hooks by theanarkh · Pull Request #42345 · nodejs/node",
+                    "url": "https://github.com/nodejs/node/pull/42345"
+                }
+            ]
         }
     ]
 }
