@@ -495,6 +495,17 @@
                     "url": "https://github.com/nodejs/node/pull/42345"
                 }
             ]
+        },
+        {
+            "date": "2022-03-23T13:41:10.401Z",
+            "title": "Parcel v2.4.0",
+            "url": "https://parceljs.org/blog/v2-4-0/",
+            "content": "Parcel v2.4.0リリース。\n@parcel/cssがデフォルト化された。\nそれに伴い、cssnano/autoprefixer/PostCSSの設定などが無視されるなどの変更が含まれる。",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
