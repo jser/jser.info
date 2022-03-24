@@ -524,6 +524,25 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-24T14:37:58.518Z",
+            "title": "tajo/ladle: 🥄 Develop, test and document your React components faster.",
+            "url": "https://github.com/tajo/ladle",
+            "content": "ViteベースのStorybookの代替実装",
+            "tags": [
+                "JavaScript",
+                "React",
+                "debug",
+                "Tools",
+                "vite"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing Ladle | Ladle",
+                    "url": "https://www.ladle.dev/blog/introducing-ladle/"
+                }
+            ]
         }
     ]
 }
