@@ -497,17 +497,6 @@
             ]
         },
         {
-            "date": "2022-03-23T13:41:10.401Z",
-            "title": "Parcel v2.4.0",
-            "url": "https://parceljs.org/blog/v2-4-0/",
-            "content": "Parcel v2.4.0リリース。\n@parcel/cssがデフォルト化された。\nそれに伴い、cssnano/autoprefixer/PostCSSの設定などが無視されるなどの変更が含まれる。",
-            "tags": [
-                "JavaScript",
-                "Tools"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2022-03-24T00:41:22.729Z",
             "title": "PgTyped - Node.jsで型安全にSQLを管理するには | HiCustomer Lab - HiCustomer Developer's Blog",
             "url": "https://tech.hicustomer.jp/posts/type-safe-sql-library-for-nodejs/",
@@ -523,6 +512,18 @@
                     "url": "https://github.com/adelsz/pgtyped"
                 }
             ]
+        },
+        {
+            "date": "2022-03-24T00:48:57.542Z",
+            "title": "Parcel v2.4.0",
+            "url": "https://parceljs.org/blog/v2-4-0/",
+            "content": "Parcel v2.4.0リリース。\n@parcel/cssがデフォルト化された。\nそれに伴い、cssnano/autoprefixer/PostCSSの設定などが無視されるなどの変更が含まれる。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
