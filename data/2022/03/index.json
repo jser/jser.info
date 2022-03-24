@@ -543,6 +543,25 @@
                     "url": "https://www.ladle.dev/blog/introducing-ladle/"
                 }
             ]
+        },
+        {
+            "date": "2022-03-24T14:45:13.241Z",
+            "title": "Introducing Ladle | Ladle",
+            "url": "https://www.ladle.dev/blog/introducing-ladle/",
+            "content": "ViteベースのStorybook代替実装であるLadleについて。\nビルド時間の短縮などのパフォーマンスの改善などが主な目的で作られている",
+            "tags": [
+                "JavaScript",
+                "React",
+                "Tools",
+                "debug",
+                "vite"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "tajo/ladle: 🥄 Develop, test and document your React components faster.",
+                    "url": "https://github.com/tajo/ladle"
+                }
+            ]
         }
     ]
 }
