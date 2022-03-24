@@ -506,6 +506,23 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-24T00:41:22.729Z",
+            "title": "PgTyped - Node.jsで型安全にSQLを管理するには | HiCustomer Lab - HiCustomer Developer's Blog",
+            "url": "https://tech.hicustomer.jp/posts/type-safe-sql-library-for-nodejs/",
+            "content": "SQLからTypeScriptの型とコードを生成するPgTypedについて。\n",
+            "tags": [
+                "PostgreSQL",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "adelsz/pgtyped: pgTyped - Typesafe SQL in TypeScript",
+                    "url": "https://github.com/adelsz/pgtyped"
+                }
+            ]
         }
     ]
 }
