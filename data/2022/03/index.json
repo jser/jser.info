@@ -670,6 +670,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-03-29T03:01:42.026Z",
+            "title": "ブラウザ自動操作技術の深層へ、直接触れて学ぶ WebDriver と Chrome DevTools Protocol - Speaker Deck",
+            "url": "https://speakerdeck.com/hgsgtk/webdriver-cdp-using-php",
+            "content": "WebDriver APIとChrome DevTools Protocol(CDP)についてのスライド。\nそれぞれのAPIを使ってブラウザ操作を自動化する処理をどのように書くのかについて",
+            "tags": [
+                "testing",
+                "webdriver",
+                "Chrome",
+                "slide",
+                "php"
+            ],
+            "relatedLinks": []
         }
     ]
 }
