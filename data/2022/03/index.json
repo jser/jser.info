@@ -717,6 +717,17 @@
                     "url": "https://profiler.firefox.com/"
                 }
             ]
+        },
+        {
+            "date": "2022-03-31T09:06:16.554Z",
+            "title": "What's New In DevTools (Chrome 100) - Chrome Developers",
+            "url": "https://developer.chrome.com/blog/new-in-devtools-100/",
+            "content": "Chrome 100の開発社ツールの変更点について。\n`@support`のサポート、Recorderで`data-test`属性などのサポート、記録済みのセレクタの変更をサポート。\n\"Droppped frames\"を\"Partially presented frames\"という表現に変更など",
+            "tags": [
+                "Chrome",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
