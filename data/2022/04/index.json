@@ -16,6 +16,18 @@
                     "url": "https://github.com/remix-run/react-router/discussions/8753"
                 }
             ]
+        },
+        {
+            "date": "2022-04-02T13:32:04.297Z",
+            "title": "When does React render your component?",
+            "url": "https://www.zhenghao.io/posts/react-rerender",
+            "content": "Reactコンポーネントがいつレンダリングされるかについて書かれた記事。\nReactコンポーネントが再レンダリングされる条件、PropsとChildコンポーネントのレンダリング、Contextと再レンダリングについてなど",
+            "tags": [
+                "React",
+                "article",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
