@@ -28,6 +28,22 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-02T14:55:11.028Z",
+            "title": "Chromium Blog: Chrome 101: Federated Credential Management Origin Trial, Media Capabilities for WebRTC, and More",
+            "url": "https://blog.chromium.org/2022/03/chrome-101-federated-credential.html",
+            "content": "Chrome 101ベータリリース。\nUA文字列の削減の開始。\nOrigin TrialとしてFedCMの追加、Priority Hintsがデフォルトで有効化。\n`AudioContext.outputLatency`の実装、CSSの`ont-palette`プロパティの実装、MediaCapabilities APIがWebRTCをサポート。\nThird-Party contextでのWebSQLのサポートを削除など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chromium Blog: User-Agent Reduction Origin Trial and Dates",
+                    "url": "https://blog.chromium.org/2021/09/user-agent-reduction-origin-trial-and-dates.html"
+                }
+            ]
         }
     ]
 }
