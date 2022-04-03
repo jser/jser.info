@@ -46,18 +46,6 @@
             ]
         },
         {
-            "date": "2022-04-03T01:23:49.072Z",
-            "title": "ECMAScript proposal updates @ 2022-03 | ECMAScript Daily",
-            "url": "https://ecmascript-daily.github.io/ecmascript/2022/04/03/ecmascript-proposal-update",
-            "content": "2022年3月のTC39 MeetingでのECMAScript ProposalのStage変更まとめ。\nType AnnotationsがStage 1に、DecoratorがStage 3となった。",
-            "tags": [
-                "ECMAScript",
-                "proposal",
-                "news"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2022-04-03T04:46:06.112Z",
             "title": "Announcing React Native 0.68 · React Native",
             "url": "https://reactnative.dev/blog/2022/03/30/version-068",
@@ -81,6 +69,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-03T05:52:05.039Z",
+            "title": "ECMAScript proposal updates @ 2022-03 | ECMAScript Daily",
+            "url": "https://ecmascript-daily.github.io/ecmascript/2022/04/03/ecmascript-proposal-update",
+            "content": "2022年3月のTC39 MeetingでのECMAScript ProposalのStage変更まとめ。\nType AnnotationsがStage 1に、DecoratorがStage 3となった。",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Updates from the 89th TC39 meeting - DEV Community 👩‍💻👨‍💻",
+                    "url": "https://dev.to/hemanth/updates-from-the-89th-tc39-meeting-5bkf"
+                }
+            ]
         }
     ]
 }
