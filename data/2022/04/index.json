@@ -69,6 +69,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-03T04:53:30.113Z",
+            "title": "Release 0.7.0 · facebookexperimental/Recoil",
+            "url": "https://github.com/facebookexperimental/Recoil/releases/tag/0.7.0",
+            "content": "Recoil 0.7.0リリース。\n`atom()`と`atomFamily()`に`default`オプションを追加、Snapshotに`getStoreID()`メソッドの追加など",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
