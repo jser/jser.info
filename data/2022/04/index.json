@@ -56,6 +56,19 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-03T04:46:06.112Z",
+            "title": "Announcing React Native 0.68 · React Native",
+            "url": "https://reactnative.dev/blog/2022/03/30/version-068",
+            "content": "React Native 0.68リリース。\n依存関係のアップデート、opt-inでNew Architectureへの対応に対応。\nReact 18の対応は含まれていない。",
+            "tags": [
+                "React",
+                "iOS",
+                "Android",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
