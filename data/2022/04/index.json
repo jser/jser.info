@@ -109,6 +109,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-04T14:43:52.749Z",
+            "title": "vite/CHANGELOG.md at main · vitejs/vite",
+            "url": "https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#290-2022-03-30",
+            "content": "Vite 2.9.0リリース。\n依存関係のscanとpre-bundleの処理を改善、実験的にCSSのSource Mapのサポート、Web WorkerのSource Mapサポートの改善。\nGlob Importsに`{ as: 'raw' }`を追加し、`{ assert: { type: 'raw' }}`は非推奨化。\nPlugin向けの変更として、ClientとServer間をWebSocketsでやりとりできるAPIの追加など",
+            "tags": [
+                "vite",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
