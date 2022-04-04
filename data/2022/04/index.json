@@ -120,6 +120,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-04T14:52:49.666Z",
+            "title": "Shakerphobia",
+            "url": "https://shakerphobia.netlify.app/",
+            "content": "npmパッケージ時からimportするものを指定し、Tree Shaking後のbundle sizeを計測するツール",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "bundler"
+            ],
+            "relatedLinks": []
         }
     ]
 }
