@@ -98,6 +98,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-04T13:10:11.766Z",
+            "title": "Understanding Layout Algorithms",
+            "url": "https://www.joshwcomeau.com/css/understanding-layout-algorithms/",
+            "content": "CSSのレイアウトアルゴリズム(レイアウトモード)について。\nそれぞれのレイアウトアルゴリズムによって同じプロパティでもどのように処理されるかは異なる。プロパティはレイアウアウトアルゴリズムという関数に渡される引数のようなものという話。",
+            "tags": [
+                "CSS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
