@@ -144,6 +144,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-05T02:30:29.215Z",
+            "title": "Electron 18.0.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-18-0",
+            "content": "Electron 18.0.0リリース。\nChromium 100、Node.js 16.13.2、V8 10.0へアップデート。\nElectron 15で`nativeWindowOpen: true`がデフォルトとなったため、これを無効化するためだけに残されていた`nativeWindowOpen`オプションが削除された。",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
