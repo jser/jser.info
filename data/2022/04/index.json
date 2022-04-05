@@ -132,6 +132,18 @@
                 "bundler"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-05T02:23:45.024Z",
+            "title": "Locale Aware Sorting in JavaScript",
+            "url": "https://elijahmanor.com/byte/js-locale-sort",
+            "content": "`Intl.Collator`を使ったローカライズされた文字列のソートについて",
+            "tags": [
+                "i18n",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
