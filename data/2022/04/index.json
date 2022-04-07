@@ -178,6 +178,19 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-07T13:59:03.390Z",
+            "title": "Announcing Rome Formatter",
+            "url": "https://rome.tools/blog/2022/04/05/rome-formatter-release",
+            "content": "Rustに書き直されたRomeのFormatterがリリースされた。\nPrettierの挙動をベースにしていて、opt-inで構文エラーのコードに対する整形も対応している。",
+            "tags": [
+                "JavaScript",
+                "Rust",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
