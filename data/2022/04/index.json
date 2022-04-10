@@ -235,6 +235,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-10T12:22:38.973Z",
+            "title": "Release Notes for Safari Technology Preview 143 | WebKit",
+            "url": "https://webkit.org/blog/12563/release-notes-for-safari-technology-preview-143/",
+            "content": "Safari Technology Preview 143リリース。\nCSS Container Queriesの改善、CSS Cascade Layersの改善。Web Animation APIの改善。\nPermissions APIをデフォルトで有効化、`inert`属性をデフォルトで有効化。",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "HTMLElement.inert - Web API | MDN",
+                    "url": "https://developer.mozilla.org/ja/docs/Web/API/HTMLElement/inert"
+                }
+            ]
         }
     ]
 }
