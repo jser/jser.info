@@ -262,6 +262,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-10T13:09:28.719Z",
+            "title": "AgnosticUI/agnosticui: AgnosticUI is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and Svelte.",
+            "url": "https://github.com/agnosticui/agnosticui",
+            "content": "UIコンポーネントフレームワーク。\nプレーンなJSからも利用でき、React/Angular/Svelte/Vueなどの各種UIフレームワーク向けのパッケージも公開されている。",
+            "tags": [
+                "UI",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
