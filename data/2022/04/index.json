@@ -224,6 +224,17 @@
                     "url": "https://community.redwoodjs.com/t/redwood-1-0-0-rc-final-is-available/2902"
                 }
             ]
+        },
+        {
+            "date": "2022-04-10T11:36:40.873Z",
+            "title": "Announcing TypeScript 4.7 Beta - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-7-beta/",
+            "content": "TypeScript 4.7 betaリリース。\nNode.jsのECMAScript Moduleサポートを再び有効化、`moduleDetection`オプションの追加。\nCompuatedプロパティに対するコントロールフロー解析の改善、オブジェクトにおける関数の型推論の改善。Genericsの型を指定したaliasを定義できる Instantiation Expressionsをサポート。\n`infer`に対する`extends`での推論条件の追加をサポート、型が共変(`in`)/反変(`out`)/不変(`in out`)なのかを指定できるアノテーションを追加。\nモジュール解決持の探索方法をカスタマイズする`moduleSuffixes`オプションの追加、`import type`とReference Commentで`resolution-mode`を指定できるように。",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
