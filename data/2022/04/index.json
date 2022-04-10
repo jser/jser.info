@@ -251,6 +251,17 @@
                     "url": "https://developer.mozilla.org/ja/docs/Web/API/HTMLElement/inert"
                 }
             ]
+        },
+        {
+            "date": "2022-04-10T13:05:56.169Z",
+            "title": "04.01.2022 - TypeScript/How the compiler compiles",
+            "url": "https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles",
+            "content": "TypeScript CompilerがどうやってTypeScritのコードをコンパイル、エラーを報告しているかについての解説記事",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
