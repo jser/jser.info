@@ -203,6 +203,27 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-10T02:10:44.364Z",
+            "title": "Announcing RedwoodJS 1.0 and $1M Funding",
+            "url": "https://tom.preston-werner.com/2022/04/04/redwood-v1-and-funding.html",
+            "content": "React/GraphQL/Prisma/Jest/Storybookを組み合わせたアプリケーションフレームワークであるRedwoodJS 1.0リリース。\n",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote",
+                "React",
+                "GraphQL",
+                "prisma",
+                "jest"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Redwood 1.0.0-rc.final is Available 🚀 - Announcements / Releases and Upgrade Guides - RedwoodJS Community",
+                    "url": "https://community.redwoodjs.com/t/redwood-1-0-0-rc-final-is-available/2902"
+                }
+            ]
         }
     ]
 }
