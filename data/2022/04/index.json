@@ -285,6 +285,28 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-11T10:07:43.457Z",
+            "title": "Making of: The Sanitizer API (Nullcon 2022) - Google スライド",
+            "url": "https://docs.google.com/presentation/d/1eLmIZkY7auD8xT-Q6AzBKM_ASFHH8Z5fMyfeoSbSH-k/view#slide=id.g82761e80df_0_1948",
+            "content": "Sanitizer APIについてのスライド。 \nDOM XSSを防ぐSanitizer APIがサニタイズしたHTML文字列を返すAPIではない理由、`setHTML` APIについて",
+            "tags": [
+                "DOM",
+                "API",
+                "security",
+                "slide"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Sanitizer API creating mock context-element can cause XSS when used in different context · Issue #42 · WICG/sanitizer-api",
+                    "url": "https://github.com/WICG/sanitizer-api/issues/42"
+                },
+                {
+                    "title": "1669945 - Sanitizer bypass if the sanitized markup is assigned to srcdoc",
+                    "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1669945"
+                }
+            ]
         }
     ]
 }
