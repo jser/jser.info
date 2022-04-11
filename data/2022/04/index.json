@@ -273,6 +273,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-11T09:21:20.718Z",
+            "title": "Turborepo 1.2 | Turborepo",
+            "url": "https://turborepo.org/blog/turbo-1-2-0",
+            "content": "Turborepot 1.2リリイース。\n対象をフィルターできる`--filter`フラグの追加、`--dry-run`フラグの追加。\nパフォーマンスの改善、キャッシュの整合性をHMACで検証できる`signature`オプションの追加など",
+            "tags": [
+                "monorepo",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
