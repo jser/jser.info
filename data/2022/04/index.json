@@ -320,6 +320,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-11T23:24:15.658Z",
+            "title": "ECMAScript proposal “Change Array by copy”: four new non-destructive Array methods",
+            "url": "https://2ality.com/2022/04/change-array-by-copy.html",
+            "content": "ECMAScript Proposal Stage 3のChange Array by copyについて。\nArrayのメソッドには破壊的なメソッドが混ざっていたが、それに対応する非破壊的なメソッドを追加するProposal",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
