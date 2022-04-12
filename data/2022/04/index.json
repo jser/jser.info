@@ -356,6 +356,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-12T22:58:17.877Z",
+            "title": "antfu/vue-starport: 🛰 Shared component across routes with animations",
+            "url": "https://github.com/antfu/vue-starport",
+            "content": "ページをまたいでで同じコンポーネントを表示、遷移アニメーションを行うVueコンポーネント。\n共有するコンポーネントをRootに引き上げることで、ページ間で同じコンポーネントのインスタンスを維持している。",
+            "tags": [
+                "Vue",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
