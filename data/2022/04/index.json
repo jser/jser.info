@@ -344,6 +344,18 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-12T22:46:47.169Z",
+            "title": "Release 2.0.0-beta.0 · vercel/swr",
+            "url": "https://github.com/vercel/swr/releases/tag/2.0.0-beta.0",
+            "content": "SWR 2.0.0-beta.0リリース。\nリモートの副作用のあるリクエストを扱う`useSWRMutation`の追加。\n破壊的な変更としてFetcherには複数の引数として展開しないように変更など",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
