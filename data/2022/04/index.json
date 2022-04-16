@@ -415,6 +415,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-16T08:26:38.296Z",
+            "title": "Release v1.4.0 · remix-run/remix",
+            "url": "https://github.com/remix-run/remix/releases/tag/v1.4.0",
+            "content": "Remix v1.4.0リリース。\n`remix`という単独のパッケージを参照させる\"magic imports\"という仕組みのために、`node_modules`を直接編集してたがpnpmなどで動かない問題があった。\nそのため、それぞれのパッケージを参照するようにするためのマイグレーションスクリプトの公開とそれに関連する変更が含まれている。",
+            "tags": [
+                "JavaScript",
+                "Remix",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
