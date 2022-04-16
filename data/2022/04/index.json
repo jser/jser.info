@@ -428,6 +428,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-16T08:29:35.646Z",
+            "title": "Shopify/javy: JS to WebAssembly toolchain",
+            "url": "https://github.com/Shopify/javy",
+            "content": "JavaScriptのコードを実行するWebAssembly。\nJavaScriptエンジンにはQuickJSを利用している。\nShopifyで利用されている。",
+            "tags": [
+                "JavaScript",
+                "WebAssembly",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
