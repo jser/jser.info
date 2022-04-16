@@ -392,6 +392,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-16T08:18:41.893Z",
+            "title": "New React 18 features and changes - Xebia",
+            "url": "https://xebia.com/new-react-18-features-and-changes/",
+            "content": "React 18の変更点についての解説。\nConcurrent renderer、createRoot/hydrateRootとonRecoverableErrorについて。\nAutomatic batchingとflushSync。\n新しく追加されたHooks APIであるuseTransition/useDeferredValue、useId、useSyncExternalStore、useInsertionEffectについて",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
