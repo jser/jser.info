@@ -464,6 +464,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-16T14:24:46.507Z",
+            "title": "从 Turborepo 看 Monorepo 工具的任务编排能力 · Issue #13 · worldzhao/blog",
+            "url": "https://github.com/worldzhao/blog/issues/13",
+            "content": "monorepoにおける依存関係の管理、タスクのスケジューリング、バージョン管理について。\nタスクの並列実行、トポロジカルソース、TurborepoとRushのアプローチ、クラウドキャッシュについての解説。",
+            "tags": [
+                "monorepo",
+                "article",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
