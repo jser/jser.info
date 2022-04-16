@@ -379,6 +379,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-16T08:15:08.277Z",
+            "title": "Release 3.22.0 - 2022.04.15 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.22.0",
+            "content": "core-js v3.22.0リリース。\nChange Array by copy proposalの仕様追従、`atob`/`btoa`の修正、compat dataの更新など",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
