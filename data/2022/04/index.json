@@ -403,6 +403,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-16T08:23:13.907Z",
+            "title": "なぜ我々はsession.cookieを変更しなければならなかったのか - BASEプロダクトチームブログ",
+            "url": "https://devblog.thebase.in/entry/2022/04/13/114714",
+            "content": "Public Suffix Listへの追加申請と、ブラウザに同梱されるタイミングの話。\nブラウザの復元機能によって、変更前と変更後の同名Cookieが存在してしまう問題とブラウザごとの挙動の違いについて。",
+            "tags": [
+                "browser",
+                "privacy",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
