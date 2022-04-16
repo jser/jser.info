@@ -442,18 +442,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-04-16T08:33:24.971Z",
-            "title": "facebook/lexical: Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
-            "url": "https://github.com/facebook/lexical",
-            "content": "テキストエディタを作るためのJavaScritフレームワーク。\nエディタの状態をdouble-bufferingで管理している。\n状態の変更をdiff/patchで表示に反映させる。\nまたcontentEditableを使っているが、外部からの変更をMutationObserverで監視し、エディタの状態を更新している。",
-            "tags": [
-                "JavaScript",
-                "editor",
-                "library"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2022-04-16T08:50:03.971Z",
             "title": "Building a dialog component",
             "url": "https://web.dev/building-a-dialog-component/",
@@ -462,6 +450,18 @@
                 "HTML",
                 "article",
                 "accessibility"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2022-04-16T08:50:55.308Z",
+            "title": "facebook/lexical: Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+            "url": "https://github.com/facebook/lexical",
+            "content": "テキストエディタを作るためのJavaScriptフレームワーク。\nエディタの状態をdouble-bufferingで管理している。\n状態の変更をdiff/patchで表示に反映させる。\nまたcontentEditableを使っているが、外部からの変更をMutationObserverで監視し、エディタの状態を更新している。",
+            "tags": [
+                "JavaScript",
+                "editor",
+                "library"
             ],
             "relatedLinks": []
         }
