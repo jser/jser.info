@@ -478,10 +478,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-04-17T00:29:57.779Z",
+            "date": "2022-04-17T00:37:27.419Z",
             "title": "Release v8.0.0 · reduxjs/react-redux",
             "url": "https://github.com/reduxjs/react-redux/releases/tag/v8.0.0",
-            "content": "React-Redux v8.0.0リリース。\nコードベースをTypeScritに書き換え、APIの互換性は維持している。\n`useSyncExternalStore`を使ったReact 18の対応、TypeScriptの型定義から`DefaultRootState`を削除、`connectAdvanced`の削除など",
+            "content": "React-Redux v8.0.0リリース。\nコードベースをTypeScriptに書き換え、APIの互換性は維持している。\n`useSyncExternalStore`を使ったReact 18の対応、TypeScriptの型定義から`DefaultRootState`を削除、`connectAdvanced`の削除など",
             "tags": [
                 "React",
                 "redux",
