@@ -517,6 +517,28 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-18T12:38:25.173Z",
+            "title": "Release v13.1.0 · testing-library/react-testing-library",
+            "url": "https://github.com/testing-library/react-testing-library/releases/tag/v13.1.0",
+            "content": "react-testing-library 13.1.0リリース。\nReact 18のHooksをテストするための`renderHook` APIを追加。",
+            "tags": [
+                "React",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "feat: Add `renderHook` by eps1lon · Pull Request #991 · testing-library/react-testing-library",
+                    "url": "https://github.com/testing-library/react-testing-library/pull/991"
+                },
+                {
+                    "title": "testing-library/react-hooks-testing-library: 🐏 Simple and complete React hooks testing utilities that encourage good testing practices.",
+                    "url": "https://github.com/testing-library/react-hooks-testing-library#a-note-about-react-18-support"
+                }
+            ]
         }
     ]
 }
