@@ -539,6 +539,18 @@
                     "url": "https://github.com/testing-library/react-hooks-testing-library#a-note-about-react-18-support"
                 }
             ]
+        },
+        {
+            "date": "2022-04-18T13:12:09.861Z",
+            "title": "Release 2.0.0-beta.1 · vercel/swr",
+            "url": "https://github.com/vercel/swr/releases/tag/2.0.0-beta.1",
+            "content": "SWR 2.0.0-beta.1リリース。\n`useSWR`が`isLoading`を返すように、`keepPreviousData`オプションの追加など",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
