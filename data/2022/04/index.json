@@ -585,6 +585,19 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-21T12:40:13.239Z",
+            "title": "Release v7.0.0 · inikulin/parse5",
+            "url": "https://github.com/inikulin/parse5/releases/tag/v7.0.0",
+            "content": "HTMLパーサのparse5 7.0.0リリース。\nESMモジュール化、TypeScriptで書き直し型定義を同梱するように、`parse5-serializer-stream`の削除など。\nまた、パフォーマンスが改善されている",
+            "tags": [
+                "HTML",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
