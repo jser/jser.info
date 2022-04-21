@@ -634,6 +634,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-21T20:56:24.727Z",
+            "title": "How Jotai Specifies Package Entry Points · Daishi Kato's blog",
+            "url": "https://blog.axlight.com/posts/how-jotai-specifies-package-entry-points/",
+            "content": "`exports`フィールドについての記事。\n`default`と`import`指定を使ったESMとCJSの対応、一部ツールのための`package.json`や`module`指定のfallback、TypeScriptの`.d.ts`の対応などについて。\n",
+            "tags": [
+                "node.js",
+                "library",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
