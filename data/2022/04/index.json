@@ -636,7 +636,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-04-21T22:00:16.965Z",
+            "date": "2022-04-21T22:00:28.223Z",
             "title": "Release v4.2.0 · reduxjs/redux",
             "url": "https://github.com/reduxjs/redux/releases/tag/v4.2.0",
             "content": "Redux v4.2.0リリース。\n`@reduxjs/toolkit`への移行を促すために、`createStore` APIをDeprecatedにして、`legacy_createStore` APIを追加。",
@@ -649,6 +649,10 @@
                 {
                     "title": "Mark `createStore` as deprecated · Issue #4325 · reduxjs/redux",
                     "url": "https://github.com/reduxjs/redux/issues/4325"
+                },
+                {
+                    "title": "Why Redux Toolkit is How To Use Redux Today | Redux",
+                    "url": "https://redux.js.org/introduction/why-rtk-is-redux-today"
                 }
             ]
         }
