@@ -598,6 +598,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-21T12:42:58.960Z",
+            "title": "Release packemon@2.0.0 · milesj/packemon",
+            "url": "https://github.com/milesj/packemon/releases/tag/packemon%402.0.0",
+            "content": "ライブラリ向けのモジュールbundlerであるpackemon　2.0.0リリース。\nIE向けのビルドを削除、Node 14未満のサポート終了、\nSWCのサポートなど",
+            "tags": [
+                "npm",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
