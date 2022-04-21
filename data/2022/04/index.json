@@ -624,18 +624,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-04-21T20:50:25.079Z",
-            "title": "Release v4.2.0 · reduxjs/redux",
-            "url": "https://github.com/reduxjs/redux/releases/tag/v4.2.0",
-            "content": "Redux v4.2.0リリース。\n`@reduxjs/toolkit`への移行を促すために、`createStore` APIをDeprecatedにして、`legacy_createStore` APIを追加。",
-            "tags": [
-                "redux",
-                "library",
-                "ReleaseNote"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2022-04-21T20:56:24.727Z",
             "title": "How Jotai Specifies Package Entry Points · Daishi Kato's blog",
             "url": "https://blog.axlight.com/posts/how-jotai-specifies-package-entry-points/",
@@ -646,6 +634,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-21T22:00:16.965Z",
+            "title": "Release v4.2.0 · reduxjs/redux",
+            "url": "https://github.com/reduxjs/redux/releases/tag/v4.2.0",
+            "content": "Redux v4.2.0リリース。\n`@reduxjs/toolkit`への移行を促すために、`createStore` APIをDeprecatedにして、`legacy_createStore` APIを追加。",
+            "tags": [
+                "redux",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Mark `createStore` as deprecated · Issue #4325 · reduxjs/redux",
+                    "url": "https://github.com/reduxjs/redux/issues/4325"
+                }
+            ]
         }
     ]
 }
