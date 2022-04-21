@@ -610,6 +610,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-21T12:45:34.423Z",
+            "title": "Release 3.12.0 · prisma/prisma",
+            "url": "https://github.com/prisma/prisma/releases/3.12.0",
+            "content": "Prisma 3.12.0リリース。\nMongoDBがGenerally Availableとなった",
+            "tags": [
+                "prisma",
+                "MongoDB",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
