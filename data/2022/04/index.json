@@ -671,6 +671,19 @@
                     "url": "https://github.com/denoland/deno/issues/11016"
                 }
             ]
+        },
+        {
+            "date": "2022-04-22T23:15:10.896Z",
+            "title": "Release v2.5.0 · parcel-bundler/parcel",
+            "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.5.0",
+            "content": "Parcel v2.5.0リリース。\nWebExtension Manifest v3をサポート、`__dirname`と`__filename`の変換を修正、`process.env`に対する`in`演算子をサポートなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
