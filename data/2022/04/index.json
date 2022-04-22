@@ -655,6 +655,22 @@
                     "url": "https://redux.js.org/introduction/why-rtk-is-redux-today"
                 }
             ]
+        },
+        {
+            "date": "2022-04-22T21:17:43.298Z",
+            "title": "Deno 1.21 Release Notes",
+            "url": "https://deno.com/blog/v1.21",
+            "content": "Deno 1.21リリース。\n明示的に型チェックをする`deno check`コマンドを追加し、次のリリースで`deno run`の型チェックはデフォルトでは無効にする予定。\n`globalThis.reportError`と`error`イベントをサポート、`deno repl`に`--eval-file`フラグを追加。\n`deno fmt`と`deno lint`がデフォルトでキャッシュされるように。\nUnstableなAPIとして、`Deno.spawn`/`Deno.spawnChild`/`Deno.spawnSync`の追加。\n`deno test`のBDDライクな`describe`や`it`などのメソッドを追加、STDに`spy`/`stub`/`assertSnapshot`/`FakeTime`を追加など",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Implement new two-tier subprocess API · Issue #11016 · denoland/deno",
+                    "url": "https://github.com/denoland/deno/issues/11016"
+                }
+            ]
         }
     ]
 }
