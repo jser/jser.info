@@ -716,6 +716,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-24T13:07:52.947Z",
+            "title": "unjs/nitro: ⚗️ Build and deploy universal JavaScript servers",
+            "url": "https://github.com/unjs/nitro",
+            "content": "Nuxt 3で利用されているサーバエンジン。\nディレクトリベースのルーティング、Vercel/AWS Lambada/Cloudflare Workersなどのプロバイダにデプロイできるサーバコード生成機能を持つ",
+            "tags": [
+                "server",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
