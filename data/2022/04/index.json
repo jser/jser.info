@@ -728,6 +728,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-24T14:11:33.136Z",
+            "title": "How We Migrated from Javascript and Flow to TypeScript at Osome - DEV Community 👩‍💻👨‍💻",
+            "url": "https://dev.to/frolovdev/how-we-migrated-from-javascript-and-flow-to-typescript-at-osome-4661",
+            "content": "JavaScriptとFlowTypeからTypeScriptへのマイグレーションをした話。\ndepcruiseでの依存グラフのチェック、Flow to TSとTS Migrateを使った移行、型がついたコードのカバレッジを調べるツールについて",
+            "tags": [
+                "TypeScript",
+                "flowtype",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
