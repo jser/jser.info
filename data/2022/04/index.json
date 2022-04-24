@@ -686,10 +686,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-04-23T14:32:43.690Z",
+            "date": "2022-04-24T01:11:55.010Z",
             "title": "Node.js 18 is now available! | Node.js",
             "url": "https://nodejs.org/en/blog/announcements/v18-release-announce/",
-            "content": "Node.js 18.0.0リリース。\n2022年10月にLTSとなる予定のメジャー馬０ジョン。\n`fetch` API、Web Streams API、`Blob`/`broadcastChannel` APIなどウェブ標準をサポート。\n`node:test`モジュールの追加、`--node-snapshot-main`の追加、V8 10.1へアップデートなど。\nまた、`server.headersTimeout`と`server.requestTimeout`のデフォルト値の変更など",
+            "content": "Node.js 18.0.0リリース。\n2022年10月にLTSとなる予定のメジャーバージョン。\n`fetch` API、Web Streams API、`Blob`/`broadcastChannel` APIなどウェブ標準をサポート。\n`node:test`モジュールの追加、`--node-snapshot-main`の追加、V8 10.1へアップデートなど。\nまた、`server.headersTimeout`と`server.requestTimeout`のデフォルト値の変更など",
             "tags": [
                 "node.js",
                 "ReleaseNote"
