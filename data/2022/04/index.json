@@ -763,6 +763,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-26T03:15:47.231Z",
+            "title": "Jest 28: Shedding weight and improving compatibility 🫶 · Jest",
+            "url": "https://jestjs.io/blog/2022/04/25/jest-28",
+            "content": "Jest 28リリース。\nテストを分割して実行できる`--shard`オプションの追加、`exports`フィールドの対応、fakeTimersの改善、GitHub Actionsのreporters対応。\n`testEnvironmentOptions`をインラインコメントで定義できるように、`fetch`などのグローバル対応、ESM対応の改善など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
