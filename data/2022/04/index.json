@@ -751,6 +751,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-26T03:11:19.560Z",
+            "title": "eolme/i18nano: Lightweight translation module with functionality similar to react-i18next",
+            "url": "https://github.com/eolme/i18nano",
+            "content": "React向けのi18nコンポーネント。\n言語ごとのファイルをDynamic Importでロードできるようになっている",
+            "tags": [
+                "React",
+                "i18n",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
