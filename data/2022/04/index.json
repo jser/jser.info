@@ -776,6 +776,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-30T03:02:13.810Z",
+            "title": "Release 4.18.0 · expressjs/express",
+            "url": "https://github.com/expressjs/express/releases/tag/4.18.0",
+            "content": "express 4.18.0リリース。\n`res.download`に`root`オプションの追加、cookieに`priority`オプションの追加。\nまた、`res.status`にNumber以外を渡すケースををDeprecatedに変更など",
+            "tags": [
+                "node.js",
+                "express",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
