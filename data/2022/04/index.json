@@ -827,6 +827,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-30T13:14:50.258Z",
+            "title": "Remotion 3.0 | Remotion",
+            "url": "https://www.remotion.dev/blog/3-0",
+            "content": "Reactで動画を作成するRemotion 3.0リリース。\nエンコーディングのパフォーマンス改善、動画をレンダリングできる`renderMedia` API、エラー表示の改善、React 18のサポートなど",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
