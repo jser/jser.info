@@ -789,6 +789,21 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-30T03:56:52.320Z",
+            "title": "tdewolff/minify: Go minifiers for web formats",
+            "url": "https://github.com/tdewolff/minify",
+            "content": "Go言語での実装されたHTML/JSON/JS/SVG/XMLのminifyツール。\nPythonとNode.js向けのバインディングが用意されている",
+            "tags": [
+                "HTML",
+                "JavaScript",
+                "JSON",
+                "SVG",
+                "golang",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
