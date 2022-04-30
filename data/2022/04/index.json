@@ -804,6 +804,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-30T04:02:56.799Z",
+            "title": "shuding/tilg: A magical React Hook that helps you debug components.",
+            "url": "https://github.com/shuding/tilg",
+            "content": "React ComponnetのレンダリングやライフサイクルをデバッグできるHooksライブラリ。\nコンポーネントのPropsやStateの変化をログに出し、なぜ再レンダリングされたかをみれるライブラリ",
+            "tags": [
+                "React",
+                "debug",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
