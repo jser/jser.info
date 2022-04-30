@@ -1,0 +1,15 @@
+{
+    "list": [
+        {
+            "date": "2022-04-30T23:40:23.998Z",
+            "title": "Release 18.1.0 (April 26, 2022) · facebook/react",
+            "url": "https://github.com/facebook/react/releases/tag/v18.1.0",
+            "content": "React v18.1.0リリース。\nバグ修正が主な変更。\n`use-subscription`のshimの実装が`use-sync-external-store`をラップしただけの実装へと変更された。",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
