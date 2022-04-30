@@ -816,6 +816,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-04-30T04:41:28.450Z",
+            "title": "Chromium Blog: Chrome 102: Window Controls Overlay, a Host of Finished Origin Trials, PWAs as File Handlers and More",
+            "url": "https://blog.chromium.org/2022/04/chrome-102-window-controls-overlay-host.html",
+            "content": "Chrome 102 betaリリース。\nWindow Controls Overlay、`inert`属性、Navigation API、`hidden=until-found`のサポート。\nOrigin Private File System extension(OPFS)のAccessHandle APIのサポート。\nWebHIDに`exclusionFilters`オプションの追加、Private IPへのサブリソースリクエスト時にPreflightの発生と警告が出るように、WebRTCのSDP Plan Bを削除。",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
