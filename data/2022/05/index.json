@@ -102,6 +102,19 @@
                     "url": "https://zenn.dev/luma/articles/nodejs-new-cli-tool-notios"
                 }
             ]
+        },
+        {
+            "date": "2022-05-01T06:11:07.230Z",
+            "title": "Release v10.0.0 · mochajs/mocha",
+            "url": "https://github.com/mochajs/mocha/releases/tag/v10.0.0",
+            "content": "Mocha v10.0.0リリース。\nNode.js 12のサポート終了、IE11のサポート終了、AMD/RequireJSのサポート終了、Growlサポートの終了、`bin/mocha`を`bin/mocha.js`にリネームなど",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
