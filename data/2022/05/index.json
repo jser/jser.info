@@ -10,6 +10,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-01T01:43:39.644Z",
+            "title": "Release v7.0.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v7.0.0",
+            "content": "pnpm v7.0.0リリース。\nNode.js 12のサポート終了、root packageは`pnpm -r exec`などの対象からデフォルトで除外するように変更。`--filter`がglobをサポート、`@types/*`を自動的にhoistしないようになるなど。",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
