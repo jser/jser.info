@@ -44,6 +44,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-01T02:09:12.207Z",
+            "title": "Release v8.8.0 · npm/cli",
+            "url": "https://github.com/npm/cli/releases/tag/v8.8.0",
+            "content": "npm v8.8.0リリース。\n`file:`で指定されたプロジェクト外への依存をsymlinkではなくコピーでインストールできる`--install-links`フラグが追加された。",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
