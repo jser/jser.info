@@ -73,6 +73,18 @@
                     "url": "https://github.com/cypress-io/cypress/releases/tag/v9.6.0"
                 }
             ]
+        },
+        {
+            "date": "2022-05-01T05:40:06.567Z",
+            "title": "Non-interactive Elements with the inert attribute | WebKit",
+            "url": "https://webkit.org/blog/12578/non-interactive-elements-with-the-inert-attribute/",
+            "content": "`inert`属性についての解説記事。\n今まではfocusは`tabindex`、クリックは`pointer-events`、選択範囲は`user-select`、`aria-hidden`などの各種対応が必要だったが、まとめて不活性として設定できる属性。",
+            "tags": [
+                "browser",
+                "HTML",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
