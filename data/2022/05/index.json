@@ -55,6 +55,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-01T05:31:33.367Z",
+            "title": "Cypress 9.6.0: Easily test multi-domain workflows with cy.origin",
+            "url": "https://cypress.io/blog/2022/04/25/cypress-9-6-0-easily-test-multi-domain-workflows-with-cy-origin/",
+            "content": "Cypress 9.6.0リリース。\nCypressはブラウザ内でテストを実行するためマルチドメインに関わるテストはSame Origin Policyで上手く行かないケースがあった。\nこれを解決するために`cy.origin` APIがフラグ付きで実装された。",
+            "tags": [
+                "browser",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 9.6.0 · cypress-io/cypress",
+                    "url": "https://github.com/cypress-io/cypress/releases/tag/v9.6.0"
+                }
+            ]
         }
     ]
 }
