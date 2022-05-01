@@ -32,6 +32,18 @@
                 "Github"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-01T02:05:37.615Z",
+            "title": "Release v3.0.0 · capricorn86/happy-dom",
+            "url": "https://github.com/capricorn86/happy-dom/releases/tag/v3.0.0",
+            "content": "Happy DOM 3.0.0リリース。\nTargetをES5からES2022に変更、WindowをVM contextとなるように変更など",
+            "tags": [
+                "DOM",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
