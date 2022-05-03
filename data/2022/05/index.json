@@ -141,6 +141,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-03T14:28:29.592Z",
+            "title": "Node v18.1.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v18.1.0/",
+            "content": "Node.js 18.1.0リリース。\n`WebAssembly.compileStreaming()`と`WebAssembly.instantiateStreaming()`の実装。\n`node:test`を使ったテストを実行する`node --test`フラグの追加",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
