@@ -141,6 +141,17 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-03T02:13:00.975Z",
+            "title": "Node.js 18 Introduces Prefix-Only Core Modules",
+            "url": "https://fusebit.io/blog/node-18-prefix-only-modules/",
+            "content": "`node:test`のようにnode prefixを付けたコアモジュールを扱う理由についての解説記事。\n新しい名前を追加するときの対応コスト、Typosquattingのような攻撃を回避するため。",
+            "tags": [
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
