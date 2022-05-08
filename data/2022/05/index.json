@@ -177,6 +177,19 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-08T14:16:56.819Z",
+            "title": "WinterCG - Web-interoperable Runtimes Community Group",
+            "url": "https://wintercg.org/",
+            "content": "サーバやCDN Edge RuntimeのAPI標準化についてのワーキンググループ。\nDeno、Cloudflare、Vercel、Node.jsが参加している。",
+            "tags": [
+                "deno",
+                "node.js",
+                "cloudflare",
+                "community"
+            ],
+            "relatedLinks": []
         }
     ]
 }
