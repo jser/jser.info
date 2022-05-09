@@ -179,19 +179,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-05-08T14:16:56.819Z",
-            "title": "WinterCG - Web-interoperable Runtimes Community Group",
-            "url": "https://wintercg.org/",
-            "content": "サーバやCDN Edge RuntimeのAPI標準化についてのワーキンググループ。\nDeno、Cloudflare、Vercel、Node.jsが参加している。",
-            "tags": [
-                "deno",
-                "node.js",
-                "cloudflare",
-                "community"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2022-05-09T01:34:48.788Z",
             "title": "httptoolkit/mockrtc: Powerful friendly WebRTC mock peer & proxy",
             "url": "https://github.com/httptoolkit/mockrtc",
@@ -239,6 +226,28 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-09T23:53:27.522Z",
+            "title": "WinterCG",
+            "url": "https://wintercg.org/",
+            "content": "サーバやCDN Edge RuntimeのAPI標準化についてのワーキンググループ。\nDeno、Cloudflare、Vercel、Node.jsが参加している。",
+            "tags": [
+                "deno",
+                "node.js",
+                "cloudflare",
+                "community"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "A Community Group for Web-interoperable JavaScript runtimes",
+                    "url": "https://blog.cloudflare.com/introducing-the-wintercg/"
+                },
+                {
+                    "title": "Announcing the Web-interoperable Runtimes Community Group",
+                    "url": "https://deno.com/blog/announcing-wintercg"
+                }
+            ]
         }
     ]
 }
