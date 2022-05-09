@@ -227,6 +227,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-09T09:03:51.975Z",
+            "title": "yisibl/resvg-js: A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.",
+            "url": "https://github.com/yisibl/resvg-js",
+            "content": "Rust製のresvgベースのSVGライブラリ。\nNode.js向けのNative ModulesとWebAssembly版が用意されている。",
+            "tags": [
+                "Rust",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
