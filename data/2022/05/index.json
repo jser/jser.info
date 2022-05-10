@@ -248,6 +248,23 @@
                     "url": "https://deno.com/blog/announcing-wintercg"
                 }
             ]
+        },
+        {
+            "date": "2022-05-10T15:44:39.110Z",
+            "title": "kawamataryo/suppress-ts-errors: CLI tool to add comments to suppress type errors in TypeScript",
+            "url": "https://github.com/kawamataryo/suppress-ts-errors",
+            "content": "TypeScriptでコンパイルエラーとなる箇所に`@ts-expect-error`を追加できるツール。\n`strict: true`への移行時などに暫定的に型エラーを無視するためのツール",
+            "tags": [
+                "TypeScript",
+                "Tools",
+                "Vue"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "TypeScriptを&quot;strict: true&quot;で使いたい全ての人へ〜suppress-ts-errorsの紹介",
+                    "url": "https://zenn.dev/ryo_kawamata/articles/suppress-ts-errors"
+                }
+            ]
         }
     ]
 }
