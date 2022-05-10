@@ -265,6 +265,18 @@
                     "url": "https://zenn.dev/ryo_kawamata/articles/suppress-ts-errors"
                 }
             ]
+        },
+        {
+            "date": "2022-05-10T15:47:53.562Z",
+            "title": "Release 14.0.0 · puppeteer/puppeteer",
+            "url": "https://github.com/puppeteer/puppeteer/releases/tag/v14.0.0",
+            "content": "Puppeteer v14.0.0リリース。\nNode.js 12のサポート終了。\nM1 Mac向けのChromiumをダウンロードする`PUPPETEER_EXPERIMENTAL_CHROMIUM_MAC_ARM=1`フラグの追加、ESMのサポートなど",
+            "tags": [
+                "puppeteer",
+                "ReleaseNote",
+                "Chrome"
+            ],
+            "relatedLinks": []
         }
     ]
 }
