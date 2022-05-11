@@ -289,6 +289,23 @@
                 "translate"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-11T02:46:13.921Z",
+            "title": "Performance insights: Get actionable insights on your website's performance - Chrome Developers",
+            "url": "https://developer.chrome.com/docs/devtools/performance-insights/",
+            "content": "Chrome 102でDevToolsに導入されるPerformance insightsパネルについて。\nパフォーマンスとWeb Vitalsに関連する内容を整理して表示するパネル。",
+            "tags": [
+                "Chrome",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Performance insights panel | DevTools Tips - YouTube",
+                    "url": "https://www.youtube.com/watch?v=5PFmGeCZDvw"
+                }
+            ]
         }
     ]
 }
