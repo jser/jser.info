@@ -306,6 +306,22 @@
                     "url": "https://www.youtube.com/watch?v=5PFmGeCZDvw"
                 }
             ]
+        },
+        {
+            "date": "2022-05-11T11:45:01.062Z",
+            "title": "Release v1.22.19 · yarnpkg/yarn",
+            "url": "https://github.com/yarnpkg/yarn/releases/tag/v1.22.19",
+            "content": "yarn v1.22.19リリース。\nnpmのWebAuthn対応との互換性を修正",
+            "tags": [
+                "yarn",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Enhanced 2FA experience for your npm account | The GitHub Blog",
+                    "url": "https://github.blog/2022-05-10-enhanced-2fa-experience-for-your-npm-account/"
+                }
+            ]
         }
     ]
 }
