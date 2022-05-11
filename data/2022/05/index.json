@@ -333,6 +333,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-11T13:31:32.865Z",
+            "title": "wrangler 2.0 — a new developer experience for Cloudflare Workers",
+            "url": "https://blog.cloudflare.com/wrangler-v2-beta/",
+            "content": "Cloudflare WorkersのCLIであるwrangler 2.0がリリース。\n`wrangler.toml`の設定ファイルなしでも動作するように、`--local`でminiflareを使ってローカルでのエミュレートに対応、`wrangler dev`でのデバッグの対応など",
+            "tags": [
+                "cloudflare",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "10 things I love about Wrangler v2.0",
+                    "url": "https://blog.cloudflare.com/10-things-i-love-about-wrangler/"
+                }
+            ]
         }
     ]
 }
