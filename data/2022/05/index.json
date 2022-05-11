@@ -349,6 +349,19 @@
                     "url": "https://blog.cloudflare.com/10-things-i-love-about-wrangler/"
                 }
             ]
+        },
+        {
+            "date": "2022-05-11T14:31:11.380Z",
+            "title": "Release v1.2.0 - support of yarn/pnpm `workspace:` protocol · ghiscoding/lerna-lite",
+            "url": "https://github.com/ghiscoding/lerna-lite/releases/tag/v1.2.0",
+            "content": "lerna-lite v1.2.0リリース。\n`workspace:` protocolのサポート",
+            "tags": [
+                "JavaScript",
+                "monorepo",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
