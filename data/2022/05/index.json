@@ -374,6 +374,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-12T12:55:17.871Z",
+            "title": "Release v8.10.0 · npm/cli",
+            "url": "https://github.com/npm/cli/releases/tag/v8.10.0",
+            "content": "npm v8.10.0リリース。\n`--omit-lockfile-registry-resolved`フラグの追加。",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
