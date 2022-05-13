@@ -396,6 +396,17 @@
                 "WebAssembly"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-13T03:11:17.489Z",
+            "title": "wooorm/starry-night: Syntax highlighting, like GitHub",
+            "url": "https://github.com/wooorm/starry-night",
+            "content": "textmate構文をサポートしたSyntax highlighterライブラリ。\ngithub/linguistの定義などを利用して、ファイルサイズは大きいがGitHubやエディタと同じようなハイライトを作成する目的",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
