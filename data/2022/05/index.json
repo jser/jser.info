@@ -472,10 +472,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-05-13T07:15:37.750Z",
+            "date": "2022-05-13T08:10:26.202Z",
             "title": "Release v1.22.0 · microsoft/playwright",
             "url": "https://github.com/microsoft/playwright/releases/tag/v1.22.0",
-            "content": "playwright v1.22.0リリース。\nPlaywrigt TestにComponent Testingを試験的に実装、WAI-ARIA roleなどで要素を選択できるRole selectorの対応。\nまたScreenshot Assertionの安定性のためにデフォルトではアニメーションの無効化などの変更が含まれている。",
+            "content": "playwright v1.22.0リリース。\nPlaywright TestにComponent Testingを試験的に実装、WAI-ARIA roleなどで要素を選択できるRole selectorの対応。\nまたScreenshot Assertionの安定性のためにデフォルトではアニメーションの無効化などの変更が含まれている。",
             "tags": [
                 "browser",
                 "testing",
