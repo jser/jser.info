@@ -485,25 +485,25 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-05-13T19:48:28.197Z",
-            "title": "esbuild-kit/tsx: Node.js runtime enhanced with esbuild for loading TypeScript & ESM",
-            "url": "https://github.com/esbuild-kit/tsx",
-            "content": "esbuildを使ってTypeScriptをRuntimeに変換しながら実行できるツール。\nESMとCJSをそれぞれ扱うloaderを持っていて、package.jsonの`type`フィールドによって自動でloaderを切り換えて扱える",
-            "tags": [
-                "TypeScript",
-                "jsx",
-                "node.js",
-                "library"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2022-05-13T20:37:33.509Z",
             "title": "dflex-js/dflex: The sophisticated Drag and Drop library you've been waiting for 🥳",
             "url": "https://github.com/dflex-js/dflex",
             "content": "UIフレームワークに依存しないD&Dライブラリ",
             "tags": [
                 "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2022-05-13T21:18:28.763Z",
+            "title": "esbuild-kit/tsx: Node.js runtime enhanced with esbuild for loading TypeScript & ESM",
+            "url": "https://github.com/esbuild-kit/tsx",
+            "content": "esbuildを使ってTypeScript実行しながら変換するツール。\nESMとCJSをそれぞれ扱うloaderを持っていて、package.jsonの`type`フィールドによって自動でloaderを切り換えて扱える",
+            "tags": [
+                "TypeScript",
+                "jsx",
+                "node.js",
                 "library"
             ],
             "relatedLinks": []
