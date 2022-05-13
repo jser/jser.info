@@ -448,6 +448,17 @@
                     "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-7-beta/"
                 }
             ]
+        },
+        {
+            "date": "2022-05-13T07:09:36.476Z",
+            "title": "Release v1.4.0 - Level Up! · solidjs/solid",
+            "url": "https://github.com/solidjs/solid/releases/tag/v1.4.0",
+            "content": "Solid v1.4.0リリース。\n`createStore`でトップレベルの配列の変更を検知できるように、Deferred Streamingのリリース、Resource Readsの安定化。\nまた、Custom Renderersを複数組み合わせて利用できるようになるなど",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
