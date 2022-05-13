@@ -432,6 +432,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-13T07:00:23.596Z",
+            "title": "Announcing TypeScript 4.7 RC - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-7-rc/",
+            "content": "TypeScript 4.7 RCリリース。\nBetaからの変更として、Node.jsはEOLとなったため、`target`の指定は`node16`へと変更された。",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Announcing TypeScript 4.7 Beta - TypeScript",
+                    "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-7-beta/"
+                }
+            ]
         }
     ]
 }
