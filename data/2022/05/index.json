@@ -483,6 +483,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-13T19:48:28.197Z",
+            "title": "esbuild-kit/tsx: Node.js runtime enhanced with esbuild for loading TypeScript & ESM",
+            "url": "https://github.com/esbuild-kit/tsx",
+            "content": "esbuildを使ってTypeScriptをRuntimeに変換しながら実行できるツール。\nESMとCJSをそれぞれ扱うloaderを持っていて、package.jsonの`type`フィールドによって自動でloaderを切り換えて扱える",
+            "tags": [
+                "TypeScript",
+                "jsx",
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
