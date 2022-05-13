@@ -407,6 +407,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-13T03:21:59.013Z",
+            "title": "Improving the HTTP Archive pipeline and dataset by 10x - Announcements - HTTP Archive",
+            "url": "https://discuss.httparchive.org/t/improving-the-http-archive-pipeline-and-dataset-by-10x/2372",
+            "content": "HTTP Archiveのアーキテクチャが変更され、データセットが10倍となるというアナウンス。\nデータ量が増えるためBigQueryのクエリ費用も増える可能性がある。またホームページからセカンダリページのクロールにも対応していく予定。",
+            "tags": [
+                "HTTP",
+                "web ",
+                "BigQuery",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
