@@ -385,6 +385,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-13T03:05:36.973Z",
+            "title": "i-net-software/JWebAssembly: Java bytecode to WebAssembly compiler",
+            "url": "https://github.com/i-net-software/JWebAssembly",
+            "content": "Java bytecodeをWebAssemblyにコンパイルするコンパイラー。\nJavaをブラウザで実行する目的",
+            "tags": [
+                "Java",
+                "WebAssembly"
+            ],
+            "relatedLinks": []
         }
     ]
 }
