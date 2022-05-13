@@ -507,6 +507,25 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-13T22:53:06.867Z",
+            "title": "Meta Open Source is transferring Jest to the OpenJS Foundation",
+            "url": "https://engineering.fb.com/2022/05/11/open-source/jest-openjs-foundation/",
+            "content": "JestがOpenJS Foundationに移管される。\nMeta社以外の人のContributionsが多くなったため。",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "OpenSource",
+                "article",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Jest Project Moves to OpenJS Foundation with Meta Open Source Contribution - OpenJS Foundation",
+                    "url": "https://openjsf.org/blog/2022/05/11/openjs-foundation-welcomes-jest/"
+                }
+            ]
         }
     ]
 }
