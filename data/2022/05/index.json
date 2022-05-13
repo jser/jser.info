@@ -459,6 +459,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-13T07:11:24.996Z",
+            "title": "Release v7.1.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v7.1.0",
+            "content": "pnpm v7.1.0リリース。\n`package.json`の`libc`フィールドのサポートなど",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
