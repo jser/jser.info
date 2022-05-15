@@ -526,6 +526,17 @@
                     "url": "https://openjsf.org/blog/2022/05/11/openjs-foundation-welcomes-jest/"
                 }
             ]
+        },
+        {
+            "date": "2022-05-15T07:28:51.934Z",
+            "title": "Release Notes for Safari Technology Preview 145 | WebKit",
+            "url": "https://webkit.org/blog/12629/release-notes-for-safari-technology-preview-145/",
+            "content": "Safari Technology Preview 145リリース。\nContainer Queriesのサポート改善、`<dialog>`要素のダークモード対応、`setTimeout(fn, 0)`とした時に自動的に追加される1msのclampを削除。\nService Workersに`WindowClient.navigate()`と`WindowClient.openWindow()`の実装など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
