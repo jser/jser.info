@@ -552,10 +552,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-05-16T21:17:42.295Z",
+            "date": "2022-05-16T21:17:59.836Z",
             "title": "New WebKit Features in Safari 15.5 | WebKit",
             "url": "https://webkit.org/blog/12669/new-webkit-features-in-safari-15-5/",
-            "content": "Safari 15.5リリース。\nHTMLの`inert`属性のサポート、CSPで`worker-src`ディレクティブのサポート。\nその他には`background-attachement: fixed`のバグ修正、`position: sticky`のバグ修正、HLS再生時のバグ修正、WebGLのmultisamplingにバグ修正など",
+            "content": "Safari 15.5リリース。\nHTMLの`inert`属性のサポート、CSPで`worker-src`ディレクティブのサポート。\nその他には`background-attachement: fixed`のバグ修正、`position: sticky`のバグ修正、HLS再生時のバグ修正、WebGLのmultisamplingのバグ修正など",
             "tags": [
                 "safari",
                 "ReleaseNote"
