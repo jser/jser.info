@@ -582,6 +582,18 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-16T22:03:19.771Z",
+            "title": "バンドル最適化マニアクス at tfconf - Speaker Deck",
+            "url": "https://speakerdeck.com/mizchi/bandoruzui-shi-hua-maniakusu-at-tfconf",
+            "content": "TreeShakingとDead Code Eliminationについてスライド。\nBundler(rollup)とMinifier(terser)がどのように定数展開や不要なコードを削除しているのかについて",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
