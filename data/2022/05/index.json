@@ -496,19 +496,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-05-13T21:18:28.763Z",
-            "title": "esbuild-kit/tsx: Node.js runtime enhanced with esbuild for loading TypeScript & ESM",
-            "url": "https://github.com/esbuild-kit/tsx",
-            "content": "esbuildを使ってTypeScript実行しながら変換するツール。\nESMとCJSをそれぞれ扱うloaderを持っていて、package.jsonの`type`フィールドによって自動でloaderを切り換えて扱える",
-            "tags": [
-                "TypeScript",
-                "jsx",
-                "node.js",
-                "library"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2022-05-13T22:53:06.867Z",
             "title": "Meta Open Source is transferring Jest to the OpenJS Foundation",
             "url": "https://engineering.fb.com/2022/05/11/open-source/jest-openjs-foundation/",
@@ -592,6 +579,19 @@
                 "JavaScript",
                 "performance",
                 "slide"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2022-05-16T22:06:52.525Z",
+            "title": "esbuild-kit/tsx: Node.js runtime enhanced with esbuild for loading TypeScript & ESM",
+            "url": "https://github.com/esbuild-kit/tsx",
+            "content": "esbuildを使ってTypeScript変換しながら実行するツール。\nESMとCJSをそれぞれ扱うloaderを持っていて、package.jsonの`type`フィールドによって自動でloaderを切り換えて扱える",
+            "tags": [
+                "TypeScript",
+                "jsx",
+                "node.js",
+                "library"
             ],
             "relatedLinks": []
         }
