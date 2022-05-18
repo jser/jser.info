@@ -607,6 +607,18 @@
                 "Conference"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-18T13:42:11.063Z",
+            "title": "markdoc/markdoc: A powerful, flexible, Markdown-based authoring framework.",
+            "url": "https://github.com/markdoc/markdoc",
+            "content": "Markdownベースのドキュメントオーサリングライブラリ。\nパーサ、バリデーション、カスタムタグなどを拡張に対応している。\nmarkdown-itのtokenize結果をもとにASTを組み立て、それをレンダリングするRendererを持つ",
+            "tags": [
+                "Markdown",
+                "document",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
