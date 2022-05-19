@@ -619,6 +619,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-19T14:40:12.242Z",
+            "title": "Deno 1.22 Release Notes",
+            "url": "https://deno.com/blog/v1.22",
+            "content": "Deno 1.22.0リリース。\nデフォルトの型チェックの対象が依存関係を含まないローカルのみとなる。\n`Deno.emit()`を削除、Worker内でも`Deno`名前空間がデフォルトで有効化、`--no-config`フラグの追加。\n`Navigator.userAgent`のサポート、`Response.json()`静的メソッドの追加など",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v1.22.0 · denoland/deno",
+                    "url": "https://github.com/denoland/deno/releases/tag/v1.22.0"
+                }
+            ]
         }
     ]
 }
