@@ -664,6 +664,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-20T12:17:16.440Z",
+            "title": "Release v4.0.0 · capricorn86/happy-dom",
+            "url": "https://github.com/capricorn86/happy-dom/releases/tag/v4.0.0",
+            "content": "Happy DOM v4.0.0リリース。\nVoid Elementのシリアライズバグを修正。\n`<img />`を`<img>`にシリアライズ、一方でSVG要素は`<circle />`を`<circle></circle>`へとシリアライズするように修正。",
+            "tags": [
+                "DOM",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
