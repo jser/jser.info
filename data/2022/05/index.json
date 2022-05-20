@@ -653,6 +653,17 @@
                     "url": "https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#from-version-64x-to-650"
                 }
             ]
+        },
+        {
+            "date": "2022-05-20T12:12:18.479Z",
+            "title": "7.18.0 Released: Destructuring private elements and TypeScript 4.7 · Babel",
+            "url": "https://babeljs.io/blog/2022/05/19/7.18.0",
+            "content": "Babel v7.18.0リリース。\nTypeScript 4.7のoptional variance(`in`/`out`)、instantiation expressionsなどに対応。\nStage 2のPrivate destructuringのサポート、`regenerator-runtime`を自動的にinline化する変更など",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
