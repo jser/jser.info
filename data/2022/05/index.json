@@ -700,6 +700,19 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-21T06:25:36.793Z",
+            "title": "The Surprising Truth About Pixels and Accessibility: should I use pixels or rems?",
+            "url": "https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/",
+            "content": "`px`と`rem`について。\n`px`指定はブラウザのデフォルトフォントサイズの影響を受けないが`rem`は影響を受ける。\n使う場所による違い、デフォルトフォントサイズを大きくして確認する方法、ルートのフォントサイズを小さくする問題についてなど",
+            "tags": [
+                "CSS",
+                "fonts",
+                "accessibility",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
