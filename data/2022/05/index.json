@@ -688,6 +688,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-21T05:43:29.115Z",
+            "title": "honojs/hono: Ultrafast web framework for Cloudflare Workers. Fast, but not only fast.",
+            "url": "https://github.com/honojs/hono",
+            "content": "Cloudflare Workers向けのルーティングライブラリ",
+            "tags": [
+                "cloudflare",
+                "library",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
