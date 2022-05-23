@@ -732,6 +732,17 @@
                     "url": "https://github.com/microsoft/playwright/releases/tag/v1.22.0"
                 }
             ]
+        },
+        {
+            "date": "2022-05-23T12:09:51.103Z",
+            "title": "Node v18.2.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v18.2.0/",
+            "content": "Node.js 18.2.0リリース。\nOpenSSLのセキュリティ修正、`http.Server`に`closeAllConnections`と`closeIdleConnections`を追加。\n`perf_hooks`に`PerformanceResourceTiming`のサポートを追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
