@@ -756,6 +756,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-23T12:42:35.203Z",
+            "title": "adriancooney/puppeteer-heap-snapshot: API and CLI tool to fetch and query Chome DevTools heap snapshots.",
+            "url": "https://github.com/adriancooney/puppeteer-heap-snapshot",
+            "content": "Puppeteerを使いサイトへアクセスして、Heap Snapshotを取得し、そのSnapshotから特定のプロパティ名にマッチするオブジェクトを取り出すスクレイピングライブラリ。",
+            "tags": [
+                "puppeteer",
+                "library",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Web Scraping via Javascript Runtime Heap Snapshots - Adrian Cooney's Blog",
+                    "url": "https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots"
+                }
+            ]
         }
     ]
 }
