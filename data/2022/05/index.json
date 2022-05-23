@@ -743,6 +743,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-23T12:21:44.321Z",
+            "title": "nvh95/jest-preview: Debug your Jest tests. Effortlessly.🛠🖼",
+            "url": "https://github.com/nvh95/jest-preview",
+            "content": "Jestで実行中のテストに`debug()`関数を仕込むことで、実行中のテストが作成したHTMLをブラウザでプレビューしながらデバッグできるライブラリ。\n",
+            "tags": [
+                "jest",
+                "browser",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
