@@ -784,6 +784,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-24T02:32:12.381Z",
+            "title": "Release v7.0.0 · faker-js/faker",
+            "url": "https://github.com/faker-js/faker/releases/tag/v7.0.0",
+            "content": "Faker v7.0.0リリース。\ndefault exportを削除、ES2020をサポートしている環境をターゲットに変更、Node.js 12のサポート終了など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
