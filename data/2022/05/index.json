@@ -773,6 +773,17 @@
                     "url": "https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots"
                 }
             ]
+        },
+        {
+            "date": "2022-05-24T02:16:56.369Z",
+            "title": "Release electron v19.0.0 · electron/electron",
+            "url": "https://github.com/electron/electron/releases/tag/v19.0.0",
+            "content": "Electron v19.0.0リリース。\nChromium 102、V8 10.2、Node.js 16.14.2にアップデート。\nElectron 20からpreload scriptsは自動的にsandboxで実行される。\nそのため、`nodeIntegration: true` かつ `sandbox`が無指定の場合に警告が出るようになった。",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
