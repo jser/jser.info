@@ -796,6 +796,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-24T03:04:56.663Z",
+            "title": "Blog - Layouts RFC | Next.js",
+            "url": "https://nextjs.org/blog/layouts-rfc",
+            "content": "Next.jsの新しいLayout RFCを解説する記事。\n`app/`というディレクトリでopt-inする形となり、`layout.js`と`page.js`というファイル名の命名規則使ったルーティングとレイアウトの仕組みについて。\nまた、この新しいLayout RFCではReact Server Componentsがデフォルトとなることについてなど",
+            "tags": [
+                "Next.js",
+                "article",
+                "proposal"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "RFC: Layouts · Discussion #37136 · vercel/next.js",
+                    "url": "https://github.com/vercel/next.js/discussions/37136"
+                }
+            ]
         }
     ]
 }
