@@ -813,6 +813,23 @@
                     "url": "https://github.com/vercel/next.js/discussions/37136"
                 }
             ]
+        },
+        {
+            "date": "2022-05-24T14:46:15.487Z",
+            "title": "Migrating millions of lines of code to TypeScript",
+            "url": "https://stripe.com/blog/migrating-to-typescript",
+            "content": "AirtableのcodemodをベースにFlowTypeからTypeScriptへの切り替えをおこなった話。\nマイグレーションスクリプト、Lintやテストの下準備などを行いコードロックした1日でコードベースをまとめて移行したという話。",
+            "tags": [
+                "flowtype",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The continual evolution of Airtable’s codebase: Migrating a million lines of code to TypeScript | by Caleb Meredith | The Airtable Engineering Blog | Medium",
+                    "url": "https://medium.com/airtable-eng/the-continual-evolution-of-airtables-codebase-migrating-a-million-lines-of-code-to-typescript-612c008baf5c"
+                }
+            ]
         }
     ]
 }
