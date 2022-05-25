@@ -830,6 +830,26 @@
                     "url": "https://medium.com/airtable-eng/the-continual-evolution-of-airtables-codebase-migrating-a-million-lines-of-code-to-typescript-612c008baf5c"
                 }
             ]
+        },
+        {
+            "date": "2022-05-25T03:12:44.451Z",
+            "title": "Shopify/remote-ui",
+            "url": "https://github.com/Shopify/remote-ui",
+            "content": "UIの定義をWeb WorkerなどのUIスレッド以外で行い、メッセージパッシングして受け取ったオブジェクトからレンダリングすることでSandboxに利用できるツールキット。\nDOMライクなAPIやReact/Vue向けのAPIが用意されていて、ユーザーにUIツリーの定義を書いてもらい、それをレンダリングするホスト環境を別途実装できる。\nShopifyやStripe Appsで利用されている。",
+            "tags": [
+                "JavaScript",
+                "React",
+                "Vue",
+                "webworker",
+                "security",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Remote Rendering: Shopify’s Take on Extensible UI — Development (2022)",
+                    "url": "https://shopify.engineering/remote-rendering-ui-extensibility"
+                }
+            ]
         }
     ]
 }
