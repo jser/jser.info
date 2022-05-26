@@ -898,10 +898,10 @@
             ]
         },
         {
-            "date": "2022-05-26T13:59:35.528Z",
+            "date": "2022-05-26T14:05:38.520Z",
             "title": "Release v8.11.0 · npm/cli",
             "url": "https://github.com/npm/cli/releases/tag/v8.11.0",
-            "content": "npm v8.11.0リリース。\n`npm birthday`をDeprecatedに変更。\n`npm pkg`コマンドがあるため`npm set-script`をDeprecatedに変更。。\n`--global`と`--local`フラグをそれぞれDeprecatedとなり、`--location=global/local`の利用を推奨するようになるなど。",
+            "content": "npm v8.11.0リリース。\n`npm birthday`をDeprecatedに変更。\n`npm pkg`コマンドがあるため`npm set-script`をDeprecatedに変更。\n`--global`と`--local`フラグをそれぞれDeprecatedとなり、`--location=global/local`の利用を推奨するようになるなど。",
             "tags": [
                 "npm",
                 "ReleaseNote"
