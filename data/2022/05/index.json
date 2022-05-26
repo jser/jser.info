@@ -907,6 +907,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-26T14:46:18.010Z",
+            "title": "Parcel v2.6.0",
+            "url": "https://parceljs.org/blog/v2-6-0/",
+            "content": "Parcel 2.6.0リリース。\nReactのError overlayに対応、HMRとSource Mapが一緒に動作するように修正。\nCSSモジュールにローカルスコープ変数の概念を追加、未使用のCSS変数をツリーシェイクできるように。\nまた`var(--name from \"./vars.modulecss\")`のようにファイルから変数をimportする独自の構文を追加など。\nその他には、importがglobでのインポートできるようになるなど",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
