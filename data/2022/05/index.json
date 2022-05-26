@@ -862,6 +862,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-26T13:30:00.840Z",
+            "title": "Announcing TypeScript 4.7 - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/",
+            "content": "TypeScript 4.7リリース。\nNode.jsのECMAScript Moduleをサポート、`.mts`/`.cts`のサポート。\n`moduleDetection`オプションの追加。 Compuatedプロパティに対するコントロールフロー解析の改善、オブジェクトにおける関数の型推論の改善。\nGenericsの型を指定したaliasを定義できる Instantiation Expressionsをサポート、inferに対するextendsでの推論条件の追加をサポート。\n型が共変(in)/反変(out)/不変(in out)なのかを指定できるアノテーションを追加、モジュール解決時の探索方法をカスタマイズする`moduleSuffixes`オプションの追加。\n`import type`/`import()`/Reference Commentでresolution-modeを指定できるようになるなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "TypeScript 4.7 と Native Node.js ESM | by Yosuke Kurami | May, 2022 | Medium",
+                    "url": "https://quramy.medium.com/typescript-4-7-%E3%81%A8-native-node-js-esm-189753a19ba8"
+                }
+            ]
         }
     ]
 }
