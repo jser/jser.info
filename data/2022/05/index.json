@@ -878,6 +878,24 @@
                     "url": "https://quramy.medium.com/typescript-4-7-%E3%81%A8-native-node-js-esm-189753a19ba8"
                 }
             ]
+        },
+        {
+            "date": "2022-05-26T13:43:35.469Z",
+            "title": "Release v10.8.0 · TypeStrong/ts-node",
+            "url": "https://github.com/TypeStrong/ts-node/releases/tag/v10.8.0",
+            "content": "ts-node v10.8.0リリース。\nTypeScript 4.7で追加されたECMAScript Modules in Node.jsのサポート。\nimport時の拡張子をマッピングする`experimentalResolver`オプションの追加。\nNode.jsの`--experimental-specifier-resolution`フラグに対応する`experimentalSpecifierResolution`オプションの追加など",
+            "tags": [
+                "TypeScript",
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Announcing TypeScript 4.7 - TypeScript",
+                    "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/"
+                }
+            ]
         }
     ]
 }
