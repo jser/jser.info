@@ -919,6 +919,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-29T15:26:43.087Z",
+            "title": "Ember 4.4 Released",
+            "url": "https://blog.emberjs.com/ember-released-4-4/",
+            "content": "Ember 4.4リリース。\n`{{unique-id}}`の有効化、`ember generate`で生成されるテストテンプレートのモジュールを変更可能に、`hasListeners`を公開APIに変更など",
+            "tags": [
+                "Ember",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
