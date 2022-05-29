@@ -930,6 +930,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-29T15:35:52.222Z",
+            "title": "Component toolkit for creating live-running code editing experiences | Sandpack",
+            "url": "https://sandpack.codesandbox.io/",
+            "content": "CodeSandboxのライブコーディング向けのブラウザSandbox環境(エディタ/プレビュー)を作れるライブラリ。\nReact向けのコンポーネント、各種ライブラリ向けのテンプレート、書いたコードをCodesandbox上で開く機能を持っている。",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "library",
+                "React"
+            ],
+            "relatedLinks": []
         }
     ]
 }
