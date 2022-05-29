@@ -943,6 +943,17 @@
                 "React"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-05-29T15:47:31.311Z",
+            "title": "Chromium Blog: Chrome 103 Beta: Early Navigation Hints, a Host of Completed Origin Trials, and More",
+            "url": "https://blog.chromium.org/2022/05/chrome-103-beta-early-navigation-hints.html",
+            "content": "Chrome 103 Betaリリース。\nOrigin TrialとしてFederated Credentials Managementのサポート。\n103 Early Hints HTTPのサポート、`AbortSignal.timeout()`のサポート、Elementに対して`aria*`プロパティの追加。\n`deflate-raw`の圧縮型式をサポート、Form要素が`rel`属性のサポート。\nまた、Sandbox iframeでのcustom protocolのナビゲーションをブロックと`allow-top-navigation-to-custom-protocols`の追加など。",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
