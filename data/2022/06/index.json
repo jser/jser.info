@@ -1,0 +1,15 @@
+{
+    "list": [
+        {
+            "date": "2022-05-31T15:00:01.098Z",
+            "title": "google/wireit: Wireit upgrades your npm scripts to make them smarter and more efficient.",
+            "url": "https://github.com/google/wireit",
+            "content": "Turborepoのようにnpm run-scriptsの依存関係を定義し、実行結果をキャッシュできるツール。\n差分があった時だけビルドするインクリメンタルビルド、ファイル変更を監視してのビルド、CIでのキャッシュの永続化の仕組みをもつ",
+            "tags": [
+                "npm",
+                "Tools"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
