@@ -57,6 +57,18 @@
                     "url": "https://nolanlawson.com/2022/05/29/state-is-hard-why-spas-will-persist/"
                 }
             ]
+        },
+        {
+            "date": "2022-06-01T13:49:52.073Z",
+            "title": "jridgewell/trace-mapping: Trace the original position through a source map",
+            "url": "https://github.com/jridgewell/trace-mapping",
+            "content": "source-mapパッケージと互換性のあるAPIを提供するライブラリ。\nsource-mapパッケージとは異なりWebAssemblyを利用せずに書かれている。",
+            "tags": [
+                "sourcemap",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
