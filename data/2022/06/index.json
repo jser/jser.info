@@ -21,6 +21,20 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-01T03:46:06.786Z",
+            "title": "Release v5.0.0 · mdn/browser-compat-data",
+            "url": "https://github.com/mdn/browser-compat-data/releases/tag/v5.0.0",
+            "content": "browser-compat-data 5.0.0リリース。\nESMの対応、TypeScriptの対応。\n`matches`の削除、`__meta`オブジェクトの追加、`upstream`フィールドの追加、`impl_url`の追加など",
+            "tags": [
+                "JavaScript",
+                "JSON",
+                "library",
+                "mdn",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
