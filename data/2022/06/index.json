@@ -97,6 +97,17 @@
                     "url": "https://github.com/pkgjs/parseargs"
                 }
             ]
+        },
+        {
+            "date": "2022-06-03T12:08:02.999Z",
+            "title": "Angular v14 is now available!. We are excited to announce the release… | by Emma Twersky | Jun, 2022 | Angular Blog",
+            "url": "https://blog.angular.io/angular-v14-is-now-available-391a6db736af",
+            "content": "Angular 14リリース。\nプレビュー機能としてstandalone componentsの追加、Angular Formsの型付けの改善、エラーメッセージをproduction buildではエラーコードのみに変更。\nTypeScript 4.7のサポート、Angular CLIの改善など",
+            "tags": [
+                "Angular",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
