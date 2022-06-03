@@ -81,6 +81,22 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-03T11:46:31.279Z",
+            "title": "Node v18.3.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v18.3.0/",
+            "content": "Node.js 18.3.0リリース。\n`util`モジュールに`parseArgs`を追加、`http`モジュールに`uniqueHeaders`オプションを追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "pkgjs/parseargs: Polyfill of proposal for `util.parseArgs()`",
+                    "url": "https://github.com/pkgjs/parseargs"
+                }
+            ]
         }
     ]
 }
