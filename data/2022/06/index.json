@@ -121,6 +121,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-05T07:21:32.209Z",
+            "title": "Web Browser Engineering",
+            "url": "https://browser.engineering/",
+            "content": "Pythonでブラウザのレンダリングエンジンを作りながらWebページの仕組みについて学ぶ本。\nHTMLのパース、レイアウト、CSSのパース、クリックの処理、Browser ChromeのUI実装、HTTPリクエストの処理、DOM APIの実装、CookieとSameSiteの実装。\nSkiaを使ったレンダリングとブレンディング、スケジューリング、アニメーションなどについて扱う",
+            "tags": [
+                "browser",
+                "python",
+                "book"
+            ],
+            "viaURL": "https://shuheikagawa.com/blog/2022/06/03/toy-browser/",
+            "relatedLinks": [
+                {
+                    "title": "Why Python? | Web Browser Engineering",
+                    "url": "https://browser.engineering/blog/why-python.html"
+                }
+            ]
         }
     ]
 }
