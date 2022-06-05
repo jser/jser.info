@@ -151,6 +151,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-05T15:23:07.893Z",
+            "title": "Introducing Opportunities & Experiments: Taking the Guesswork out of Performance - WebPageTest Blog",
+            "url": "https://blog.webpagetest.org/posts/introducing-opportunities-and-experiments/",
+            "content": "WebPageTestにOpportunitiesとExperimentsと言う機能が追加された。\nOpportunitiesはパフォーマンスやアクセシビリティを改善する項目をサジェストし実際に適用して結果がどうなるかを計測できる機能。\nExperimentsはEdgeのProxyを通して一時的にサイトを書き換えて再計測できる。\n",
+            "tags": [
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
