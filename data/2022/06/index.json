@@ -246,6 +246,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-06T13:32:57.894Z",
+            "title": "cyco130/vavite: Develop server-side applications with Vite",
+            "url": "https://github.com/cyco130/vavite",
+            "content": "Viteをサーバサイドに組み込むためのExpressなどに対応したMiddlewareやViteプラグイン。\nViteを使ってサーバサイドのコードのTranspile、Live Reload、SSRなどに対応するための仕組みをを提供する。\nまた、本番ビルド時には開発用のDevServerの参照を消すVite Pluginも提供している。",
+            "tags": [
+                "vite",
+                "node.js",
+                "server",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
