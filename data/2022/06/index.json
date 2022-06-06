@@ -213,6 +213,17 @@
                     "url": "https://twitter.com/filrakowski/status/1532281407942365184"
                 }
             ]
+        },
+        {
+            "date": "2022-06-06T12:58:35.569Z",
+            "title": "Processing Arrays non-destructively: `for-of` vs. `.reduce()` vs. `.flatMap()`",
+            "url": "https://2ality.com/2022/05/processing-arrays-non-destructively.html",
+            "content": "Arrayのfilter/map/some/every/reduce/flatMapメソッドやfor ofなど、どれを使うべきかについて。\nそれぞれの機能の紹介といつ使うべきかについて",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
