@@ -259,6 +259,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-06T13:37:24.959Z",
+            "title": "npm security update: Attack campaign using stolen OAuth tokens | The GitHub Blog",
+            "url": "https://github.blog/2022-05-26-npm-security-update-oauth-tokens/",
+            "content": "HerokuとTravis CIからのGitHub OAuth Tokenの流出から、npmが管理していたプライベートリポジトリからAWSへのアクセスキーが盗まれ、npmの一部情報漏洩した。\n2015年のユーザー情報(ユーザー名/メールアドレス/パスワードハッシュ)、2021年のプライベートnpmパッケージのメタデータ、2022年の全てのプライベートパッケージの名前とバージョンが漏洩した。",
+            "tags": [
+                "npm",
+                "security",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
