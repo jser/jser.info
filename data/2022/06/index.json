@@ -197,6 +197,22 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-06T12:54:24.882Z",
+            "title": "vue/CHANGELOG.md at main · vuejs/vue",
+            "url": "https://github.com/vuejs/vue/blob/main/CHANGELOG.md#270-alpha1-2022-05-31",
+            "content": "Vue.js 2.7αリリース。\nVue 2.xの最後のminorリリース候補となり、Vue 2.7の正式リリースから18ヶ月後の2023年末にはVue 2.xはEOLとなる予定。\nComposition APIのフルサポート、ESMビルドに`ref`などのnamed exportを追加など",
+            "tags": [
+                "Vue",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Filip Rakowski 🇺🇦 on Twitter: &quot;Vue 2 end of life at the end of 2023 #vuejs https://t.co/luvk1lt3U6&quot; / Twitter",
+                    "url": "https://twitter.com/filrakowski/status/1532281407942365184"
+                }
+            ]
         }
     ]
 }
