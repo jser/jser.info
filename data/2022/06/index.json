@@ -320,6 +320,18 @@
                     "url": "https://developer.apple.com/documentation/safari-release-notes/safari-16-release-notes"
                 }
             ]
+        },
+        {
+            "date": "2022-06-10T11:45:47.467Z",
+            "title": "Release v1.5.0 · ghiscoding/lerna-lite",
+            "url": "https://github.com/ghiscoding/lerna-lite/releases/tag/v1.5.0",
+            "content": "lerna-lite 1.5.0リリース。\nロックファイルを更新する`--sync-workspace-lock`フラグを追加など",
+            "tags": [
+                "JavaScript",
+                "npm",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
