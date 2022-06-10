@@ -332,6 +332,24 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-10T12:05:24.756Z",
+            "title": "Fastify v4 GA. After two years we are excited to… | by Fastify | Jun, 2022 | Medium",
+            "url": "https://medium.com/@fastifyjs/fastify-v4-ga-59f2103b5f0e",
+            "content": "Fastify 4.0.0リリース。\n`reply.send`を呼び出すの必須に、`setErrorHandler`の処理順の一貫性を改善、Pino v8へアップデート、`fastify.listen`の可変長引数を非推奨化など",
+            "tags": [
+                "node.js",
+                "server",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v4.0.0 · fastify/fastify",
+                    "url": "https://github.com/fastify/fastify/releases/tag/v4.0.0"
+                }
+            ]
         }
     ]
 }
