@@ -361,6 +361,17 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-11T06:36:45.231Z",
+            "title": "ranyitz/qnm: cli utility for querying the node_modules directory",
+            "url": "https://github.com/ranyitz/qnm",
+            "content": "node_modulesにインストールされているパッケージのバージョンや最新のバージョンや公開日などの情報を表示できるコマンドラインツール。\nまた、パッケージのサイズや依存している個数なども表示できる",
+            "tags": [
+                "npm",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
