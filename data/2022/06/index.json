@@ -396,6 +396,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-12T11:43:43.825Z",
+            "title": "First-party cookie recipes",
+            "url": "https://web.dev/first-party-cookie-recipes/",
+            "content": "First-Party Cookieを設定する際のCookieの属性の指定について。\n通常のFirst-Party Cookieとサブドメインを持つサイトのパターンについてそれぞれ解説が書かれている。\n`__Host` prefix、`Secure`属性、`Domain`属性を指定しないこと、`Path`属性、`HttpOnly`属性、`SameSite`属性についてなど",
+            "tags": [
+                "browser",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
