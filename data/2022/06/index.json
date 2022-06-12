@@ -384,6 +384,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-12T11:25:52.176Z",
+            "title": "PlasmoHQ/plasmo: The browser extension framework",
+            "url": "https://github.com/PlasmoHQ/plasmo",
+            "content": "ブラウザ拡張向けのフレームワーク。\nReactとTypeScriptのサポート、Manifest V3、Live Reloading、`.env`のサポート、各拡張Storeへのデプロイの対応など",
+            "tags": [
+                "browser",
+                "Extension",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
