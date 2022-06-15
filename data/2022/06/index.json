@@ -468,6 +468,19 @@
                 "Remix"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-15T03:30:39.605Z",
+            "title": "Release 7.0.0 · google/zx",
+            "url": "https://github.com/google/zx/releases/tag/7.0.0",
+            "content": "zx 7.0.0リリース。\nTypeScriptでの書き直し、`within()`、`echo()` APIの追加。\n`--eval`フラグのサポート、REPLのサポートなど",
+            "tags": [
+                "shell",
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
