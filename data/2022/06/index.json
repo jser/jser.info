@@ -443,6 +443,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-15T00:30:09.822Z",
+            "title": "Release 10.8.0 · preactjs/preact",
+            "url": "https://github.com/preactjs/preact/releases/tag/10.8.0",
+            "content": "Preact 10.8.0リリース。\nVitestとの互換性のためにSubpackagesへ`exports`フィールドを追加、`createRoot`/`hydrateRoot` APIのReactとの互換性を改善など",
+            "tags": [
+                "JavaScript",
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
