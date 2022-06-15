@@ -481,6 +481,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-15T03:42:07.177Z",
+            "title": "Release 18.2.0 (June 14, 2022) · facebook/react",
+            "url": "https://github.com/facebook/react/releases/tag/v18.2.0",
+            "content": "React v18.2.0リリース。\n`onRecoverableError`の第二引数にcomponent stackの情報を渡すように。\nHydrate時にブラウザの拡張機能などによってHTMLが変更されているとレンダリングが壊れる問題を修正など",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
