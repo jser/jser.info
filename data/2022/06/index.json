@@ -455,6 +455,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-15T03:27:23.779Z",
+            "title": "Release v1.6.0 · remix-run/remix",
+            "url": "https://github.com/remix-run/remix/releases/tag/v1.6.0",
+            "content": "Remix v1.6.0リリース。\n`remix`パッケージをDeprecatedとして、`@remix-run/*`の個別のパッケージからImportすることを推奨するように。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote",
+                "Remix"
+            ],
+            "relatedLinks": []
         }
     ]
 }
