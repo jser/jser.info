@@ -506,6 +506,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-16T12:58:03.434Z",
+            "title": "Deno 1.23 Release Notes",
+            "url": "https://deno.com/blog/v1.23",
+            "content": "Deno 1.23.0リリース。\n`deno run`などでデフォルトでタイプチェックをしないように変更、`Deno.sleepSync`を削除、`deno task`が`--cwd`フラグをサポート。\n`deno task`がcat/xargs/redirectをサポート、CompressionStreamとDecompressionStreamが`\"deflate-raw\"`をサポート。\nTypeScript 4.7をサポートなど",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v1.23.0 · denoland/deno",
+                    "url": "https://github.com/denoland/deno/releases/tag/v1.23.0"
+                }
+            ]
         }
     ]
 }
