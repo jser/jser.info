@@ -493,6 +493,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-16T12:44:52.929Z",
+            "title": "Release v0.14.44 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.14.44",
+            "content": "esbuild 0.14.44リリース。\n`copy` loaderのサポート、package.jsonで定義したself-referencesのサポート。\n`tsconfig.json`の`alwaysStrict`がある場合に`\"use strcit\"`を追加するようになるなど",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
