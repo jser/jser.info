@@ -522,6 +522,18 @@
                     "url": "https://github.com/denoland/deno/releases/tag/v1.23.0"
                 }
             ]
+        },
+        {
+            "date": "2022-06-17T00:39:01.596Z",
+            "title": "taozhi8833998/node-sql-parser: Parse simple SQL statements into an abstract syntax tree (AST) with the visited tableList and convert it back to SQL",
+            "url": "https://github.com/taozhi8833998/node-sql-parser",
+            "content": "SQLパーサ/ジェネレータライブラリ。\nBigQuery、DB2、Hive、MariaDB、MySQL、PostgresQL、SQLiteなどのSQLに対応している",
+            "tags": [
+                "JavaScript",
+                "SQL",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
