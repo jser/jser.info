@@ -547,6 +547,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-18T12:21:41.948Z",
+            "title": "A build system for the JavaScript ecosystem | moon",
+            "url": "https://moonrepo.dev/",
+            "content": "Rustで書かれたJavaScriptなmonorepo向けのプロジェクト管理ツール。\nパッケージの依存グラフに基づいたタスクの実行、\nキャッシュ、リモートキャッシュ、インクリメンタルビルドなどの機能を提供する",
+            "tags": [
+                "monorepo",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
