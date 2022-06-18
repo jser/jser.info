@@ -534,6 +534,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-18T00:24:07.218Z",
+            "title": "Release v2.0.0 · redwoodjs/redwood",
+            "url": "https://github.com/redwoodjs/redwood/releases/tag/v2.0.0",
+            "content": "Redwood 2.0.0リリース。\n`import/order`のLintルールの変更、独自のインフラにデプロイする場合の設定の変更、`useRequireAuth`の挙動を変更など",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
