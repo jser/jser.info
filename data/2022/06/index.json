@@ -558,6 +558,19 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-19T04:45:31.616Z",
+            "title": "Release 2.0.0-beta.4 · vercel/swr",
+            "url": "https://github.com/vercel/swr/releases/tag/2.0.0-beta.4",
+            "content": "SWR 2.0.0-beta.4リリース。\n`preload`関数の追加、`SWRConfig`で設定をoverrideできるようになるなど",
+            "tags": [
+                "React",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
