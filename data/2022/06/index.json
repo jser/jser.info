@@ -596,6 +596,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-19T16:12:14.386Z",
+            "title": "Release v0.14.46 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.14.46",
+            "content": "esbuild v0.14.46リリース。\n構文ごとに機能のサポートを無効化するかを指定できるように、TypeScript 4.7のサポート、`--define`がoptional chianingをサポートなど",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
