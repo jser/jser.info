@@ -571,6 +571,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-19T08:13:12.477Z",
+            "title": "Release Inferno v8.0.0 · infernojs/inferno",
+            "url": "https://github.com/infernojs/inferno/releases/tag/v8.0.0",
+            "content": "Inferno v8.0.0リリース。\n`componentDidAppear`と`componentWillDisappear`の追加、`href=javascript:`に警告を表示するように。\n破棄的な変更としてIEのサポート終了、`inferno-component`パッケージの削除、`inferno-devtools`パッケージの削除など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
