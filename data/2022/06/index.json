@@ -649,6 +649,18 @@
                     "url": "https://jsconfbp.com/"
                 }
             ]
+        },
+        {
+            "date": "2022-06-20T14:20:51.504Z",
+            "title": "Using web streams on Node.js",
+            "url": "https://2ality.com/2022/06/web-streams-nodejs.html",
+            "content": "Node.jsでのWeb Streamについての記事。\n基本的な使い方、Asynchronous Iterationとの組み合わせ、Streamへの変換、ReadableStream/WritableStream/TranformStream。\nStreamのbackpressure、バイナリを扱うByte Stream、`node:stream`が公開するヘルパー関数についてなど",
+            "tags": [
+                "node.js",
+                "stream",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
