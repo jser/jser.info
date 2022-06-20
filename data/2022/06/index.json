@@ -687,6 +687,17 @@
                     "url": "https://github.com/lerna/lerna/discussions/3140"
                 }
             ]
+        },
+        {
+            "date": "2022-06-20T15:37:24.543Z",
+            "title": "Vue 2.7 is Now in Beta | The Vue Point",
+            "url": "https://blog.vuejs.org/posts/vue-2-7-beta.html",
+            "content": "Vue 2.7 Betaリリース。\nVue 3からのバックポートとして`defineComponent()``h()`、`useSlot()`、`useAttrs()`、`useCssModules()`のサポート。\nまたESMビルドにはnamed exportとして提供されることについてや、Vue 3との動作の違いについてなど",
+            "tags": [
+                "Vue",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
