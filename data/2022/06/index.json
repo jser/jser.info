@@ -608,6 +608,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-20T13:24:51.800Z",
+            "title": "Notes on maintaining an internal React component library | Gabe's blog",
+            "url": "https://www.gabe.pizza/notes-on-component-libraries/",
+            "content": "社内でReactコンポーネントライブラリを作るときのプラクティスについての記事。\n間違った状態を受け入れる型を避ける、子となるコンポーネント自体にmarginを持たせない、コンポーネントのwidthは幅全体を占めるようにする。\nコンポーネントのPropsとして`className`や`style`は公開しないようにする、ElementのPropsを継承しないようにする。\n相互依存するコンポーネントにはReact Contextを使う、一緒に利用するコンポーネントはオブジェクトとしてまとめてexportする。\nメジャーアップデートと共にcodemodを提供する、開発者がどのように使ってるかを分析、ビジュアルリグレッションテストを設定するなど",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
