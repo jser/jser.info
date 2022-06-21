@@ -698,6 +698,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-21T02:47:46.824Z",
+            "title": "coder-mike/microvium: A compact, embeddable scripting engine for applications and microcontrollers for executing programs written in a subset of the JavaScript language.",
+            "url": "https://github.com/coder-mike/microvium",
+            "content": "組み込み向けのJavaScriptエンジン。\n64kBのメモリ制限やJavaScriptの機能も制限されているが、小さなメモリフットプリントで動くの目的としている",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
