@@ -721,6 +721,17 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-21T02:59:39.358Z",
+            "title": "AbortController is your friend",
+            "url": "https://whistlr.info/2022/abortcontroller-is-your-friend/",
+            "content": "AbortControllerについての記事。\nAbortControllerとAbortSignalの使い方について。\n`addEventListner`との組み合わせ、複雑な処理の停止、React Hooksでの利用、AbortSignalのヘルパー処理についてなど",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
