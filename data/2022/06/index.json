@@ -743,6 +743,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-24T01:16:53.460Z",
+            "title": "[webkit-dev] WebKit is now on GitHub",
+            "url": "https://lists.webkit.org/pipermail/webkit-dev/2022-June/032312.html",
+            "content": "WebKitのリポジトリがGitHubへ移行する",
+            "tags": [
+                "webkit",
+                "Github",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.",
+                    "url": "https://github.com/WebKit/WebKit"
+                }
+            ]
         }
     ]
 }
