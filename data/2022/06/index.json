@@ -772,6 +772,28 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-25T03:54:13.502Z",
+            "title": "CodeMirror 6.0",
+            "url": "https://marijnhaverbeke.nl/blog/codemirror-6.html",
+            "content": "CodeMirror 6がStableリリースされた。\n`codemirror`パッケージのStableが6となり、CodeMirror 5のリポジトリはLegacyとなった。",
+            "tags": [
+                "JavaScript",
+                "editor",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "codemirror/codemirror5: In-browser code editor (version 5, legacy)",
+                    "url": "https://github.com/codemirror/codemirror5"
+                },
+                {
+                    "title": "CodeMirror",
+                    "url": "https://codemirror.net/"
+                }
+            ]
         }
     ]
 }
