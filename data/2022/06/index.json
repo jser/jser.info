@@ -871,6 +871,20 @@
                 "debug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-27T15:36:31.750Z",
+            "title": "Release v2.0.0 · foliojs/fontkit",
+            "url": "https://github.com/foliojs/fontkit/releases/tag/v2.0.0",
+            "content": "fontkit v2.0.0リリース。\nNode.js特有の機能に対する依存を削除し、ブラウザでも利用できるよう変更。\nBufferの代わりにUint8Array/TextEncoder/TextDecoderを利用するなど",
+            "tags": [
+                "fonts",
+                "JavaScript",
+                "library",
+                "ReleaseNote",
+                "browser"
+            ],
+            "relatedLinks": []
         }
     ]
 }
