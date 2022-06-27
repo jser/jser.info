@@ -818,6 +818,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-27T14:51:11.111Z",
+            "title": "astoilkov/main-thread-scheduling: Fast and consistently responsive apps using a single function call",
+            "url": "https://github.com/astoilkov/main-thread-scheduling",
+            "content": "Main Threadでの処理をUIの表示や操作をブロックせずに行うためのスケジューリングライブラリ。\nScheduling APIを意識したAPIとなっている。\n`requestIdleCallback()`や`postMessage()`などを使いキューを管理する。\nまた、`navigator.scheduling.isInputPending()`を使いユーザー入力をブロックしないようにタスクを実行できる。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
