@@ -897,6 +897,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-27T16:01:09.108Z",
+            "title": "Announcing TypeScript 4.8 Beta - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-8-beta/",
+            "content": "TypeScript 4.8 Betaリリース。\n`unknown`は`{} | null | undefined`と同様になり関連するコントロールフロー分析の改善、Template String Typesでの`infer`の改善。\n`--build`/`-watch`/`--incremental`におけるビルドパフォーマンスの改善、オブジェクトリテラルや配列リテラルを`==`や`===`で比較した場合にエラーとなるように。\nBinding patternの型推論の改善、`--watch`の安定性の改善など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
