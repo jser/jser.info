@@ -885,6 +885,18 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-27T15:38:13.136Z",
+            "title": "Release v14.0.0 · angular-eslint/angular-eslint",
+            "url": "https://github.com/angular-eslint/angular-eslint/releases/tag/v14.0.0",
+            "content": "Angular ESLint v14.0.0リリース。\nAngular 14のサポート、Node.js 12のサポート終了、インラインテンプレートをLintする際のVirtual filenameの変更など",
+            "tags": [
+                "Angular",
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
