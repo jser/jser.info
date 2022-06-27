@@ -829,6 +829,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-27T15:13:13.899Z",
+            "title": "JavaScript Primer 4.0.0: ECMAScript 2022に対応したJS本 | Web Scratch",
+            "url": "https://efcl.info/2022/06/19/jsprimer-4/",
+            "content": "JavaScript Primer 4.0.0リリース。\nES2022の対応とSandpackを使ったエディタが組み込まれた。",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "book",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v4.0.0: ES2022 · asciidwango/js-primer",
+                    "url": "https://github.com/asciidwango/js-primer/releases/tag/v4.0.0"
+                }
+            ]
         }
     ]
 }
