@@ -908,6 +908,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-27T16:09:06.923Z",
+            "title": "timocov/dts-bundle-generator: Tool to generate a single bundle of dts",
+            "url": "https://github.com/timocov/dts-bundle-generator",
+            "content": "TypeScriptの型定義をbundleするツール",
+            "tags": [
+                "TypeScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
