@@ -794,6 +794,19 @@
                     "url": "https://codemirror.net/"
                 }
             ]
+        },
+        {
+            "date": "2022-06-27T00:29:12.936Z",
+            "title": "Release 2.5.0 · socketio/socket.io",
+            "url": "https://github.com/socketio/socket.io/releases/tag/2.5.0",
+            "content": "Socket.IO 2.5.0リリース。\nセキュリティ修正として`maxHttpBufferSize`のデフォルト値を100MBから1MBに変更など",
+            "tags": [
+                "WebSocket",
+                "library",
+                "ReleaseNote",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
