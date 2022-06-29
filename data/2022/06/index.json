@@ -946,6 +946,17 @@
                 "apple"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-06-29T11:48:02.137Z",
+            "title": "Blog - Next.js 12.2 | Next.js",
+            "url": "https://nextjs.org/blog/next-12-2",
+            "content": "Next.js 12.2リリース。\nMiddlewareがStableに、On-Demand ISRのStableに。\nAPI RouteとSSRをCloudflare Workersを使ったEdgeで動かす`runtime`オプションを追加など。\n`next/image`の改善、SWCプラグインのサポート、React 18のサポート改善など",
+            "tags": [
+                "Next.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
