@@ -69,6 +69,20 @@
                     "url": "https://react-spectrum.adobe.com/internationalized/date/index.html"
                 }
             ]
+        },
+        {
+            "date": "2022-07-02T07:23:11.826Z",
+            "title": "Release v1.23.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.23.0",
+            "content": "playwright v1.23.0リリース。\nharファイルを使ったNetwork Replay機能の追加、`<select multiple>`に対応する`toHavevalues()`の追加、テキストマッチの`ignoreCase`オプションを追加など",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
