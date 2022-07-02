@@ -37,6 +37,19 @@
                     "url": "https://webkit.org/blog/10218/full-third-party-cookie-blocking-and-more/"
                 }
             ]
+        },
+        {
+            "date": "2022-07-02T06:39:49.767Z",
+            "title": "Release v6.0.0 · capricorn86/happy-dom",
+            "url": "https://github.com/capricorn86/happy-dom/releases/tag/v6.0.0",
+            "content": "Happy DOM v6.0.0リリース。\n複数windowに関する問題を修正、`Document.createRange()`/`Document.getSelection()`、`Text.splitText()`のサポートなど",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
