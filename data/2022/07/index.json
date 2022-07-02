@@ -50,6 +50,25 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-02T06:54:54.374Z",
+            "title": "Date and Time Pickers for All – React Spectrum Blog",
+            "url": "https://react-spectrum.adobe.com/blog/date-and-time-pickers-for-all.html",
+            "content": "React AriaとReact Spectrumで日付入力のUIをサポート。\nアクセシビリティ、国際化、カスタマイズ性などを持った日付フィールド/カレンダーのUIコンポーネントを提供する。\nまた併せて複数のカレンダーシステムやロケールをサポートした日付ライブラリも公開している。",
+            "tags": [
+                "JavaScript",
+                "React",
+                "library",
+                "ReleaseNote",
+                "accessibility"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "@internationalized/date – Internationalized",
+                    "url": "https://react-spectrum.adobe.com/internationalized/date/index.html"
+                }
+            ]
         }
     ]
 }
