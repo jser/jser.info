@@ -140,6 +140,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-02T15:34:49.896Z",
+            "title": "codemix/deprank: Use PageRank to find the most important files in your codebase.",
+            "url": "https://github.com/codemix/deprank",
+            "content": "dependency-cruiserを使って依存グラフを作りページランクを出すツール。",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "viaURL": "https://zenn.dev/mikana0918/articles/344861f49f7190",
+            "relatedLinks": []
         }
     ]
 }
