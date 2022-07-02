@@ -16,6 +16,27 @@
                     "url": "https://github.com/denoland/fresh/releases/tag/1.0.0"
                 }
             ]
+        },
+        {
+            "date": "2022-07-02T06:29:46.928Z",
+            "title": "Release Notes for Safari Technology Preview 148 | WebKit",
+            "url": "https://webkit.org/blog/12992/release-notes-for-safari-technology-preview-148/",
+            "content": "Safari Technology Preview 148リリース。\nCSSでは`:has()`擬似クラスのサポート改善、`text-indent`プロパティで`each-line`をサポート、`:modal`擬似クラスのサポートなど。\n`<link>`要素の`nonce`属性のサポート。\nITPでCookieのcapをScript-Writeable Storageと同じlast user interactionから7days、interactionない場合は24hで消えるように変更。",
+            "tags": [
+                "webkit",
+                "ReleaseNote",
+                "safari"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "text-indent - CSS: Cascading Style Sheets | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-indent"
+                },
+                {
+                    "title": "Full Third-Party Cookie Blocking and More | WebKit",
+                    "url": "https://webkit.org/blog/10218/full-third-party-cookie-blocking-and-more/"
+                }
+            ]
         }
     ]
 }
