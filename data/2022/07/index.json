@@ -101,6 +101,18 @@
                     "url": "https://www.prisma.io/docs/guides/upgrade-guides/upgrading-versions/upgrading-to-prisma-4"
                 }
             ]
+        },
+        {
+            "date": "2022-07-02T07:30:58.351Z",
+            "title": "Release v7.4.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v7.4.0",
+            "content": "pnpm v7.4.0リリース。\n依存関係にpatchファイルをあてる`patchedDependencies`フィールドと`pnpm patch`コマンドの追加。\nproductionの依存だけをインストールして、デプロイ用にコピーする`pnpm deploy`コマンドの追加など",
+            "tags": [
+                "npm",
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
