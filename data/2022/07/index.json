@@ -152,6 +152,21 @@
             ],
             "viaURL": "https://zenn.dev/mikana0918/articles/344861f49f7190",
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-03T12:21:10.019Z",
+            "title": "ブラウザ, Node, Cloudflareでも動くDenoモジュール開発",
+            "url": "https://zenn.dev/dajiaji/articles/c5340c38d11d4d",
+            "content": "Deno向けのコードをベースにして、dntを使ってNode.js向けのパッケージを作成、Cloudflare Workersでの動作テストをするパッケージの開発について。\n",
+            "tags": [
+                "deno",
+                "node.js",
+                "cloudflare",
+                "library",
+                "article"
+            ],
+            "viaURL": "https://zenn.dev/mikana0918/articles/344861f49f7190",
+            "relatedLinks": []
         }
     ]
 }
