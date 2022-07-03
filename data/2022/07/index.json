@@ -152,18 +152,6 @@
             ],
             "viaURL": "https://zenn.dev/mikana0918/articles/344861f49f7190",
             "relatedLinks": []
-        },
-        {
-            "date": "2022-07-03T08:04:12.814Z",
-            "title": "[2203.04374] Code Red: The Business Impact of Code Quality -- A Quantitative Study of 39 Proprietary Production Codebases",
-            "url": "https://arxiv.org/abs/2203.04374",
-            "content": "コードの品質が開発時間にどのように影響するかを調べた論文。\nメトリクスとしてCodeSceneのCode HealthとJiraのTicketの時間を使っている。(この論文自体もCodeSceneが協力してるの注意)\n高品質なコードは、低品質なコードより欠陥が15倍少なく、開発速度が2倍以上異なる。",
-            "tags": [
-                "paper",
-                "program"
-            ],
-            "viaURL": "https://zenn.dev/mikana0918/articles/344861f49f7190",
-            "relatedLinks": []
         }
     ]
 }
