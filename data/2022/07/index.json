@@ -167,6 +167,20 @@
             ],
             "viaURL": "https://zenn.dev/mikana0918/articles/344861f49f7190",
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-04T12:30:36.575Z",
+            "title": "jestでDBありのテストを高速化する | kohsweblog",
+            "url": "https://blog.koh.dev/2022-07-02-jest-speedup/",
+            "content": "Jestで実行するテストのパフォーマンス改善についての記事。\nローカルではmaxWorkers、CIはshardを使いテストを並列に実行することで、実行時間を短くする方法について",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "performance",
+                "article"
+            ],
+            "viaURL": "https://zenn.dev/mikana0918/articles/344861f49f7190",
+            "relatedLinks": []
         }
     ]
 }
