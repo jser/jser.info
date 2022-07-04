@@ -181,6 +181,20 @@
             ],
             "viaURL": "https://zenn.dev/mikana0918/articles/344861f49f7190",
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-04T13:06:03.316Z",
+            "title": "縦書きHTMLにおける文字の向きはどのように定まるか - ドワンゴ教育サービス開発者ブログ",
+            "url": "https://blog.nnn.dev/entry/2022/07/01/180000",
+            "content": "縦書きHTMLの表示についての記事。\nCSSの`writing-mode`と`text-orientation`での文字の向きの扱い、フォントとVertical_Orientationごとの表示の差異、ブラウザの実装の差異などについて",
+            "tags": [
+                "HTML",
+                "CSS",
+                "fonts",
+                "article"
+            ],
+            "viaURL": "https://zenn.dev/mikana0918/articles/344861f49f7190",
+            "relatedLinks": []
         }
     ]
 }
