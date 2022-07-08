@@ -195,6 +195,20 @@
             ],
             "viaURL": "https://zenn.dev/mikana0918/articles/344861f49f7190",
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-08T13:41:02.624Z",
+            "title": "samchon/typescript-json: Runtime type checkers and 5x faster JSON.stringify()",
+            "url": "https://github.com/samchon/typescript-json",
+            "content": "ttypescriptなどを使ったコード変換とRuntimeを合わせたJSONライブラリ。\nTypeScriptの型を使ったRuntimeでの型チェック、`JSON.stringify`相当の処理を提供する",
+            "tags": [
+                "TypeScript",
+                "JSON",
+                "Tools",
+                "library"
+            ],
+            "viaURL": "https://zenn.dev/mikana0918/articles/344861f49f7190",
+            "relatedLinks": []
         }
     ]
 }
