@@ -239,6 +239,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-11T07:49:50.532Z",
+            "title": "oven-sh/bun: Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.",
+            "url": "https://github.com/oven-sh/bun",
+            "content": "JavaScriptCoreとZig言語を使って書かれたJavaScriptのRuntime。\nBundler/TSのTranspiler/Task Runerを同梱し、npm互換のパッケージマネージャーやNode-API(N-API)互換の実装、FetchなどのWeb APIの実装をもつ。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "Bun "
+            ],
+            "relatedLinks": []
         }
     ]
 }
