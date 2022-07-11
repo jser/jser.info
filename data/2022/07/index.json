@@ -227,6 +227,18 @@
                     "url": "https://web.dev/inp/"
                 }
             ]
+        },
+        {
+            "date": "2022-07-11T06:39:21.473Z",
+            "title": "Announcing support for WASI on Cloudflare Workers",
+            "url": "https://blog.cloudflare.com/announcing-wasi-on-workers/",
+            "content": "Cloudflare WorkersでWASIに対応したWebAssemblyファイルを実行するライブラリがサポートされたことについて",
+            "tags": [
+                "cloudflare",
+                "WebAssembly",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
