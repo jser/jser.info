@@ -209,6 +209,24 @@
             ],
             "viaURL": "https://zenn.dev/mikana0918/articles/344861f49f7190",
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-11T00:08:00.467Z",
+            "title": "応答性を示す新しい指標「INP」 | フロントエンドBlog | ミツエーリンクス",
+            "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202207/06_1002.html",
+            "content": "ユーザー操作に対するインタラクションにかかった時間を計測するメトリクスであるINP(Interaction to Next Paint)について。\nFIDとは異なりページのロード後に関する値を計測する。\nCrUX、LighthouseのTimespanモード、Web Vitalsでの計測データの取り方についてなど",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "article"
+            ],
+            "viaURL": "https://zenn.dev/mikana0918/articles/344861f49f7190",
+            "relatedLinks": [
+                {
+                    "title": "Interaction to Next Paint (INP)",
+                    "url": "https://web.dev/inp/"
+                }
+            ]
         }
     ]
 }
