@@ -275,6 +275,21 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-11T15:02:09.747Z",
+            "title": "oguimbal/pg-mem: An in memory postgres DB instance for your unit tests",
+            "url": "https://github.com/oguimbal/pg-mem",
+            "content": "In-memoryのPostgresエミュレーターライブラリ。\nPostgresを使ったテストで利用する目的",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "PostgreSQL",
+                "library",
+                "testing",
+                "deno"
+            ],
+            "relatedLinks": []
         }
     ]
 }
