@@ -262,6 +262,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-11T14:56:03.407Z",
+            "title": "Blogged Answers: How I Estimate NPM Package Market Share (and how Redux usage compares to other libraries) · Mark's Dev Blog",
+            "url": "https://blog.isquaredsoftware.com/2022/07/npm-package-market-share-estimates/",
+            "content": "npmパッケージのシェアを読み取るかについて、Reactとステート管理ライブラリを例に解説している記事。\nnpmパッケージのダウンロード数、GitHubの依存数を絶対数として見た時の問題点や相対的に見る方法についてなど",
+            "tags": [
+                "npm",
+                "React",
+                "redux",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
