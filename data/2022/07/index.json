@@ -323,6 +323,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-13T12:35:45.206Z",
+            "title": "Executing shell commands from Node.js",
+            "url": "https://2ality.com/2022/07/nodejs-child-process.html",
+            "content": "Node.jsの`node:child_process`モジュールでのコマンドの実行についての解説。\nspawnとexecの解説、spawnとexecの違い、Streamでの出力の読み取り、AbortControllerを使ったプロセスの終了、同期と非同期についてなど",
+            "tags": [
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
