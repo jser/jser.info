@@ -347,6 +347,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-13T13:10:29.948Z",
+            "title": "vite/CHANGELOG.md at v3.0.0 · vitejs/vite",
+            "url": "https://github.com/vitejs/vite/blob/v3.0.0/packages/vite/CHANGELOG.md",
+            "content": "Vite 3.0.0リリース。\nデフォルトのビルドターゲットをESMとDynamic Import/`import.meta`をサポートしてるブラウザに変更、オプションの変更や削除、デフォルトportを5173に変更。\nminifyに利用する`terser`パッケージへの依存をオプショナルへ変更、`import.meta.glob`の仕様変更、Wasmファイルのimport方法を変更など",
+            "tags": [
+                "vite",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
