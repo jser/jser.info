@@ -311,6 +311,18 @@
                     "url": "https://docs.google.com/presentation/d/1Yhch7KkNC5wbkcsc9p5XkWouEha2hex65l6Pca_SqkM/edit#slide=id.g11cbab926eb_0_0"
                 }
             ]
+        },
+        {
+            "date": "2022-07-13T06:59:47.199Z",
+            "title": "NestJS製GraphQLサーバの起動が遅かったので調査した話 - もうずっといなかぐらし",
+            "url": "https://katainaka0503.hatenablog.com/entry/2022/07/09/190340",
+            "content": "GraphQLのスキーマからTypeScriptのファイルを生成するツールのボトルネックを調べて修正した話。\n`0x`を使ったボトルネック分析、`ts-morph`でのTypeScript ASTの変換のパフォーマンス問題の修正についてなど\n",
+            "tags": [
+                "TypeScript",
+                "Tools",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
