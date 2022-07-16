@@ -386,6 +386,23 @@
                     "url": "https://dev.to/jakobjingleheimer/custom-esm-loaders-who-what-when-where-why-how-4i1o"
                 }
             ]
+        },
+        {
+            "date": "2022-07-16T23:57:49.663Z",
+            "title": "luxon/CHANGELOG.md at master · moment/luxon",
+            "url": "https://github.com/moment/luxon/blob/master/CHANGELOG.md#300-2022-07-09",
+            "content": "luxon 3.0.0リリース。\n",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Add condition for system setZone by davkub · Pull Request #1206 · moment/luxon",
+                    "url": "https://github.com/moment/luxon/pull/1206"
+                }
+            ]
         }
     ]
 }
