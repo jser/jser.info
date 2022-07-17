@@ -415,6 +415,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-17T11:28:15.732Z",
+            "title": "tuplo/numberfmt: Number formatting using a text pattern and native Intl.NumberFormat()",
+            "url": "https://github.com/tuplo/numberfmt",
+            "content": "`Intl.NumberFormat`ベースの数値の整形ライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
