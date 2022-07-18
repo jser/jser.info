@@ -461,6 +461,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-18T21:26:47.114Z",
+            "title": "Hermes as the Default · React Native",
+            "url": "https://reactnative.dev/blog/2022/07/08/hermes-as-the-default",
+            "content": "React Native 0.7.0でHermesがデフォルトとなることについて。\nJavaScriptCoreとHermesの比較、ABI非互換性の問題、HermesへのECMAScript i18n APIサポートについてなど",
+            "tags": [
+                "React",
+                "Native",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
