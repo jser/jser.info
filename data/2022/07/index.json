@@ -426,6 +426,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-18T12:48:32.574Z",
+            "title": "Release v5.8.0 · nodejs/undici",
+            "url": "https://github.com/nodejs/undici/releases/tag/v5.8.0",
+            "content": "undici 5.8.0リリース。\nCRL injectionとCookie扱いに関するセキュリティ修正",
+            "tags": [
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
