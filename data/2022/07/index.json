@@ -438,6 +438,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-18T13:10:15.136Z",
+            "title": "Version 3.0 released : Node-RED",
+            "url": "https://nodered.org/blog/2022/07/14/version-3-0-released",
+            "content": "Node-RED 3.0 リリース。\nエディタのアップデート、aceに代わってmonaco editorがデフォルト化、`runtimeState`オプションの追加、`diagnostics`オプションの追加など",
+            "tags": [
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
