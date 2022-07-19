@@ -485,6 +485,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-19T11:52:21.498Z",
+            "title": "ESLint v8.20.0 released - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2022/07/eslint-v8.20.0-released/",
+            "content": "ESLint 8.20.0リリース。\npreprocessorsにおけるパースエラーなどをLintエラーとして報告するようになるなど",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
