@@ -496,6 +496,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-19T22:44:19.992Z",
+            "title": "Cloudscape – Cloudscape Design System",
+            "url": "https://cloudscape.design/",
+            "content": "AWSで使われているデザインシステム。\nデザインシステムの原則を書いたドキュメント、Reactコンポーネント、利用する時のパターンから構成されている。",
+            "tags": [
+                "aws",
+                "Design",
+                "accessibility",
+                "document"
+            ],
+            "relatedLinks": []
         }
     ]
 }
