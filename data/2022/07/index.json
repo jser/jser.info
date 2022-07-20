@@ -511,10 +511,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-07-20T01:07:21.896Z",
+            "date": "2022-07-20T01:12:56.189Z",
             "title": "Vite 3 が採用した CJS Proxy による Dual Package 構成",
             "url": "https://zenn.dev/teppeis/articles/2022-07-npm-dual-pacakge-cjs-proxy",
-            "content": "Viteが利用してるCJSとESMをdual packagesを対応する手法について。\nCJSからESMを扱うために、非同期な関数のexportはDynamic Importsを含むラッパーを公開し、同期的な関数のexportはesbuildなどでbundle済みのものを公開する",
+            "content": "Viteが利用してるCJSとESMをdual packagesに対応する手法について。\nCJSからESMを扱うために、非同期な関数のexportはDynamic Importsを含むラッパーを公開し、同期的な関数のexportはesbuildなどでbundle済みのものを公開する",
             "tags": [
                 "ECMAScript",
                 "vite",
