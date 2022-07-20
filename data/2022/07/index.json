@@ -539,6 +539,17 @@
                     "url": "https://github.com/leaverou/rety"
                 }
             ]
+        },
+        {
+            "date": "2022-07-20T01:20:04.834Z",
+            "title": "Defensive CSS",
+            "url": "https://defensivecss.dev/",
+            "content": "CSSで幅を超えたときにデザインが崩れる問題への対応をまとめたサイト。\nFlexbox、画像サイズ、折り返し文字列。アイコンと文字の被り、背景画像の繰り返し、Viewportのサイズなどの問題について",
+            "tags": [
+                "CSS",
+                "document"
+            ],
+            "relatedLinks": []
         }
     ]
 }
