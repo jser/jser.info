@@ -522,6 +522,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-20T01:15:10.719Z",
+            "title": "rety: Live coding without the stress",
+            "url": "https://rety.verou.me/",
+            "content": "コーディングの動きを記録し、リプレイできるライブラリ。\nプレゼンテーションなどでライブコーディング的なデモを行う用途で作られている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "presentation"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "LeaVerou/rety: Record typing on one or more editors and replay it at will, to simulate live coding",
+                    "url": "https://github.com/leaverou/rety"
+                }
+            ]
         }
     ]
 }
