@@ -550,6 +550,17 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-20T02:43:33.147Z",
+            "title": "yaakov123/hagana: NodeJS runtime protection for supply chain attacks",
+            "url": "https://github.com/yaakov123/hagana",
+            "content": "Node.jsの`fs`や`child_process`モジュールなどを上書きして、アクセスできるネットワークや実行できるコマンドなどを制限するライブラリ。\nデフォルトでは`node_modules`以下に含まれるサードパーティのライブラリに対して制限を追加する",
+            "tags": [
+                "node.js",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
