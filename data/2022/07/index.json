@@ -613,6 +613,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-23T09:36:59.856Z",
+            "title": "Release v7.6.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v7.6.0",
+            "content": "pnpm v7.6.0リリース。\n`node-linker`が有効時はデフォルトでONとなる`prefer-symlinked-executables`オプションの追加、`pnpm deploy`のバグ修正など",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
