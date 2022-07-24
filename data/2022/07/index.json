@@ -663,6 +663,19 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-24T15:01:01.595Z",
+            "title": "5t3ph/css-browser-support: Query for CSS brower support data, combined from caniuse and MDN, including version support started and global support percentages.",
+            "url": "https://github.com/5t3ph/css-browser-support",
+            "content": "特定のCSSの機能をどのブラウザがサポートしているかを検索できるライブラリ。\nデータにはMDNとCan I useを利用している",
+            "tags": [
+                "CSS",
+                "mdn",
+                "browser",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
