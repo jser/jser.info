@@ -624,6 +624,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-24T13:26:54.680Z",
+            "title": "Release v1.24.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.24.0",
+            "content": "playwright v1.24.0リリース。\n設定でウェブサーバを複数定義できるように、`test.describe`のタイトルを省略できるように、Component Testに`beforeMount`と`afterMount`のHookを追加など",
+            "tags": [
+                "playwright",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
