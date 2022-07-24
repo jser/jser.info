@@ -635,6 +635,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-24T14:43:49.891Z",
+            "title": "Payload launches 1.0 | Blog | Payload CMS",
+            "url": "https://payloadcms.com/blog/payload-launches-version-1",
+            "content": "Headless CMSのPayload 1.0リリース。",
+            "tags": [
+                "CMS",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "payloadcms/payload: Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB",
+                    "url": "https://github.com/payloadcms/payload"
+                }
+            ]
         }
     ]
 }
