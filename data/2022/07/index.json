@@ -692,6 +692,20 @@
                     "url": "https://github.com/webpack/webpack/pull/15991"
                 }
             ]
+        },
+        {
+            "date": "2022-07-25T13:55:19.983Z",
+            "title": "Release 3.24.0 - 2022.07.25 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.24.0",
+            "content": "core-js v3.24.0リリース。\nIterator helpers prosapoの仕様追従、新しいサポートターゲットとしてBun/Hermes/Oculus Browserの追加など",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "library",
+                "ReleaseNote",
+                "Bun"
+            ],
+            "relatedLinks": []
         }
     ]
 }
