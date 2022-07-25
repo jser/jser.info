@@ -676,6 +676,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-25T13:51:38.902Z",
+            "title": "Release v5.74.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v5.74.0",
+            "content": "webpack v5.74.0リリース。\n`resolve.extensionAlias`オプションの追加、Static Blockを含むES2022のコードをサポート、`ProvidePlugin`におけるTree Shakingのサポート。\nwatchのパフォーマンスの改善など",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Improve watch performance by using stable identities for Snapshot iterables by gluxon · Pull Request #15991 · webpack/webpack",
+                    "url": "https://github.com/webpack/webpack/pull/15991"
+                }
+            ]
         }
     ]
 }
