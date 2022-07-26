@@ -718,6 +718,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-26T03:49:52.749Z",
+            "title": "Avoiding <img> layout shifts: aspect-ratio vs width & height attributes - JakeArchibald.com",
+            "url": "https://jakearchibald.com/2022/img-aspect-ratio/",
+            "content": "`<img>`とaspect-ratioの指定についての記事。\nCSSの`aspect-ratio`プロパティ、widthとheightを使ったaspect-ratioのhintについてなど",
+            "tags": [
+                "HTML",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
