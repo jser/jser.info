@@ -729,6 +729,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-26T12:59:48.672Z",
+            "title": "Release v9.0.0 · vueuse/vueuse",
+            "url": "https://github.com/vueuse/vueuse/releases/tag/v9.0.0",
+            "content": "vueuse v9.0.0リリース。\n`isSupported`を`Ref<boolean>`に変更、型名を`Use` prefixに統一。\n多くのUse関数の引数に関数を渡せるように、`@vueuse/math`パッケージの追加など",
+            "tags": [
+                "Vue",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
