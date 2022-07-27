@@ -752,6 +752,19 @@
                 "serverless"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-27T15:36:22.126Z",
+            "title": "Release v1.2.0 · video-dev/hls.js",
+            "url": "https://github.com/video-dev/hls.js/releases/tag/v1.2.0",
+            "content": "hls.js v1.2.0リリース。\nIE 11のサポート終了、CMAF CCのサポート、バグ修正や安定性の向上など",
+            "tags": [
+                "HLS",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
