@@ -741,6 +741,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-27T15:32:52.422Z",
+            "title": "Node v18.7.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v18.7.0/",
+            "content": "Node.js 18.7.0リリース。\n`process.exit(code)`の`code`に数値以外を渡すケースをDeprecatedに変更、`CustomEvent`の実装、http serverに`dropRequest`イベントを実装など",
+            "tags": [
+                "node.js",
+                "serverless"
+            ],
+            "relatedLinks": []
         }
     ]
 }
