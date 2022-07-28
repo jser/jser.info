@@ -788,6 +788,19 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-07-28T12:41:02.987Z",
+            "title": "losfair/blueboat: All-in-one, multi-tenant serverless JavaScript runtime.",
+            "url": "https://github.com/losfair/blueboat",
+            "content": "Cloudflare WorkersのようなV8 Isolatesでマルチテナント実行できるJavaScript実行環境。\nエンジンはRustで書かれていて、実行するJSスクリプトはFetch APIやRequest/Responseのようなウェブ標準互換のAPIが利用できる。",
+            "tags": [
+                "JavaScript",
+                "serverless",
+                "cloudflare",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
