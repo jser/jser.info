@@ -1,0 +1,16 @@
+{
+    "list": [
+        {
+            "date": "2022-07-31T23:39:18.896Z",
+            "title": "ehmicky/safe-json-value: ⛑️ JSON serialization should never fail",
+            "url": "https://github.com/ehmicky/safe-json-value",
+            "content": "例外を投げないJSONのシリアライズを提供するライブラリ。\nシリアライズできないときは`error`プロパティにエラーを入れ、例外となる値は結果から除外するなどしている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "JSON"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
