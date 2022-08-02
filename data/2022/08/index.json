@@ -59,6 +59,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-02T00:21:57.098Z",
+            "title": "Release electron v20.0.0 · electron/electron",
+            "url": "https://github.com/electron/electron/releases/tag/v20.0.0",
+            "content": "Electron v20.0.0リリース。\n`nodeIntegration: true`と`sandbox: false`の組み合わせを設定しない限り、RenderersがデフォルトSandbox化されるように変更など",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
