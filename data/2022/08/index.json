@@ -82,6 +82,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-03T02:52:12.146Z",
+            "title": "Release Inferno v8.0.0 · infernojs/inferno",
+            "url": "https://github.com/infernojs/inferno/releases/tag/v8.0.0",
+            "content": "Inferno v8.0.0リリース。\nコンポーネントのライフサイクルメソッドに`componentWillMove`/`componentDidAppear`/`componentWillDisappear`を追加、`javascript:`へのリンクに対して警告を追加、TypeScriptの型定義の改善など",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
