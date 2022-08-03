@@ -95,6 +95,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-03T02:55:14.670Z",
+            "title": "Release v16.0.0 · puppeteer/puppeteer",
+            "url": "https://github.com/puppeteer/puppeteer/releases/tag/v16.0.0",
+            "content": "Puppeteer v16.0.0リリース。\nCDP(Chrome DevTools Protocol)のauto-attachメカニズムを使うことで、PageやFrameへの接続の安定性を改善するなど",
+            "tags": [
+                "puppeteer",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
