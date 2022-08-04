@@ -122,6 +122,18 @@
                     "url": "https://github.com/npm/cli/releases/tag/v8.16.0"
                 }
             ]
+        },
+        {
+            "date": "2022-08-04T12:14:00.663Z",
+            "title": "Release v2.7.0 · parcel-bundler/parcel",
+            "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.7.0",
+            "content": "Parcel v2.7.0リリース。\nプラグイン設定ファイルの拡張子`.cjs`が利用できるように、React Freshで`@emotion/react`をサポートなど",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
