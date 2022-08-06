@@ -145,6 +145,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-06T10:58:36.028Z",
+            "title": "Release bun v0.1.7 · oven-sh/bun",
+            "url": "https://github.com/oven-sh/bun/releases/tag/bun-v0.1.7",
+            "content": "Bun 0.1.7リリース。\n`bun init`コマンドの追加、`bun install`がprivate npm registryのサポート、`bun installl`がプロジェクトルートの`prepare`などのlifecycle hookに対応など",
+            "tags": [
+                "Bun",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
