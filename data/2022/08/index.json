@@ -227,6 +227,17 @@
                     "url": "https://nodejs.org/api/util.html#utilparseargsconfig"
                 }
             ]
+        },
+        {
+            "date": "2022-08-08T13:56:56.200Z",
+            "title": "Checking if a JavaScript native function is monkey patched · mmazzarolo.com",
+            "url": "https://mmazzarolo.com/blog/2022-07-30-checking-if-a-javascript-native-function-was-monkey-patched/",
+            "content": "JavaScriptでネイティブ関数がmonkey patchによって上書きされているかを判定する方法について。",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
