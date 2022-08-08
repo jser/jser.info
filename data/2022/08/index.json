@@ -199,6 +199,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-08T12:53:49.387Z",
+            "title": "500ms to 1.7ms In React: A Journey And A Checklist | Orizens",
+            "url": "https://orizens.com/blog/500ms-to-1-7ms-in-react-a-journey-and-a%20checklist/",
+            "content": "Reactアプリのパフォーマンスをどう改善していくかについて。\nコンポーネントの分割、メモ化、プロファイラーを使ったCustom Hooksの問題の追い方について",
+            "tags": [
+                "React",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
