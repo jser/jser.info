@@ -211,6 +211,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-08T13:38:18.134Z",
+            "title": "Parsing command line arguments with `util.parseArgs()` in Node.js",
+            "url": "https://2ality.com/2022/08/node-util-parseargs.html",
+            "content": "Node.js 18.3.0で追加された`utils`モジュールの`parseArgs`関数について",
+            "tags": [
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Util | Node.js v18.7.0 Documentation",
+                    "url": "https://nodejs.org/api/util.html#utilparseargsconfig"
+                }
+            ]
         }
     ]
 }
