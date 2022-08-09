@@ -238,6 +238,19 @@
                     "url": "https://github.blog/changelog/2022-08-03-introducing-the-new-npm-dependency-selector-syntax/"
                 }
             ]
+        },
+        {
+            "date": "2022-08-09T04:03:04.445Z",
+            "title": "LINE MUSIC のパフォーマンスを向上させた Vue3 マイグレーション",
+            "url": "https://engineering.linecorp.com/ja/blog/vue3-migration-with-improved-line-music-performance/",
+            "content": "Vue 2.xからVue 3へのアップグレード方法とbundle sizeの変化についての記事。",
+            "tags": [
+                "Vue",
+                "performance",
+                "article",
+                "refactoring"
+            ],
+            "relatedLinks": []
         }
     ]
 }
