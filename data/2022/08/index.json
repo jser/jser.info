@@ -251,6 +251,23 @@
                 "refactoring"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-09T23:36:09.615Z",
+            "title": "Astro 1.0 | Astro",
+            "url": "https://astro.build/blog/astro-1/",
+            "content": "Astro 1.0リリース。\nSSR Buildsの追加、画像の最適化をする`<Image>`と`<Picture>`の追加、MDXサポート、Vite 3.0へアップグレード",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Astro 1.0 Beta Release | Astro",
+                    "url": "https://astro.build/blog/astro-1-beta-release/"
+                }
+            ]
         }
     ]
 }
