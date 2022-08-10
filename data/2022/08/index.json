@@ -268,6 +268,18 @@
                     "url": "https://astro.build/blog/astro-1-beta-release/"
                 }
             ]
+        },
+        {
+            "date": "2022-08-10T12:41:00.851Z",
+            "title": "Release v0.15.0 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.15.0",
+            "content": "esbuild v0.15.0リリース。\nYarnのpnpをサポート",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
