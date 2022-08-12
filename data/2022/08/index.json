@@ -291,6 +291,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-12T10:44:30.380Z",
+            "title": "Release Notes for Safari Technology Preview 151 | WebKit",
+            "url": "https://webkit.org/blog/13093/release-notes-for-safari-technology-preview-151/",
+            "content": "Safari Technology Preview 151リリース。\nCSSの`color-mix()`関数のサポート、media queryの`scan`をサポート、`:dir`擬似クラスのサポート。\niframeのlazy loadingをデフォルト化、XHRのabortを仕様に準拠するように修正など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
