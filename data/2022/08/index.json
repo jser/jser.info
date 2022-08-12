@@ -280,6 +280,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-12T08:41:16.977Z",
+            "title": "Announcing TypeScript 4.8 RC - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-8-rc/",
+            "content": "TypeScript 4.8 RCリリース。\n`strictNullChecks`が有効時に`unknown`は`{} | null | undefined`と同様になり関連するコントロールフロー分析の改善、Template String Typesでの`infer`の改善。 `--build`/`-watch`/`--incremental`におけるビルドパフォーマンスの改善、オブジェクトリテラルや配列リテラルを`==`や`===`で比較した場合にエラーとなるように。\nBinding patternの型推論の改善、`--watch`の安定性の改善など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
