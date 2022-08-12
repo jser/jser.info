@@ -302,6 +302,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-12T11:15:25.270Z",
+            "title": "Objects, Functions, and Type Narrowing | Learning TypeScript",
+            "url": "https://www.learningtypescript.com/articles/objects-functions-and-type-narrowing?s=t",
+            "content": "TypeScriptのNarrowingについて。\n変数オブジェクトのプロパティ、関数呼び出し、関数の引数における型のNarrowingの挙動について",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
