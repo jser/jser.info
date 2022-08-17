@@ -375,6 +375,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-17T13:06:56.425Z",
+            "title": "Big Changes Ahead for Deno",
+            "url": "https://deno.com/blog/changes",
+            "content": "Denoの今後について。\nFFIの改善、`npm:` URLを使ってnpmモジュールをインストールできるようになり互換性の向上、コードからドキュメントを自動生成できるようになるアップデートを予定している",
+            "tags": [
+                "deno",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
