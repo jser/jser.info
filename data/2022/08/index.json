@@ -340,6 +340,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-17T02:03:14.446Z",
+            "title": "Node v16.17.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v16.17.0/",
+            "content": "Node.js 16.17.0リリース。\n`util.parseArgs`、ESM Loader Hooks API、`node:test`モジュール、Web Crypto APIの互換性改善のbackport",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
