@@ -398,6 +398,18 @@
                 "history"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-18T03:15:23.273Z",
+            "title": "Release 3.0.0-alpha.0 · prettier/prettier",
+            "url": "https://github.com/prettier/prettier/releases/tag/3.0.0-alpha.0",
+            "content": "prettier 3.0.0-alpha.0リリース。\nESMの対応、Node.js 12のサポート終了、Public APIの非同期か、`trailingComma`のデフォルト値が`all`へ変更など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
