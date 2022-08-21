@@ -447,6 +447,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-21T13:16:59.398Z",
+            "title": "Buf | Connect-Web: It's time for Protobuf and gRPC to be your first choice in the browser",
+            "url": "https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser",
+            "content": "gRPCのクライアントライブラリであるconnect-webについて。\nProtocol BufferからTypeScriptのクライアントコードを生成して利用できる。",
+            "tags": [
+                "grpc",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "bufbuild/connect-web: Simple, reliable, interoperable. A better gRPC-Web.",
+                    "url": "https://github.com/bufbuild/connect-web"
+                }
+            ]
         }
     ]
 }
