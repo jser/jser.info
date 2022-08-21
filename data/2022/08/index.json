@@ -434,6 +434,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-21T12:50:53.883Z",
+            "title": "Release v2.7.0 · cloudflare/miniflare",
+            "url": "https://github.com/cloudflare/miniflare/releases/tag/v2.7.0",
+            "content": "miniflare 2.7.0リリース。\n`fetch`リクエストをモックするAPIの追加、Durable ObjectをflushするAPIの追加など",
+            "tags": [
+                "cloudflare",
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
