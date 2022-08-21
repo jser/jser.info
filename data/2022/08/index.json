@@ -422,6 +422,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-21T12:42:48.142Z",
+            "title": "Release v1.9.0-alpha.0 · reduxjs/redux-toolkit",
+            "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v1.9.0-alpha.0",
+            "content": "Redux Toolkit v1.9.0-alpha.0リリース。\n`merge` mutationの追加、`createReducer`にオブジェクトを渡すスタイルをDeprecatedへ変更、`createAsyncThunk.withTypes()`の追加など",
+            "tags": [
+                "redux",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
