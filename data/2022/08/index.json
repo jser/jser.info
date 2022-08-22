@@ -488,6 +488,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-22T14:40:13.286Z",
+            "title": "Running WordPress in the Browser",
+            "url": "https://wasmlabs.dev/articles/wordpress-in-the-browser/",
+            "content": "WebAssemblyを使ってWordPressをブラウザで動かす話。\nPHPとSQLiteをそれぞれEmscriptenを使ってWasmへとコンパイルし、WordPressを動かす。\nService Workerを使ったループバックの実装についてなど",
+            "tags": [
+                "wordpress",
+                "SQLite",
+                "WebAssembly",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
