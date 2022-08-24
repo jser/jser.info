@@ -529,6 +529,18 @@
                     "url": "https://medium.com/vanguards-of-code/lodash-is-dead-long-live-radash-d9d52abf428b"
                 }
             ]
+        },
+        {
+            "date": "2022-08-24T12:58:21.030Z",
+            "title": "Typescipt is terrible for library developers: We spend a disproportionate amount of time on types",
+            "url": "https://erock.prose.sh/typescript-terrible-for-library-developers",
+            "content": "ライブラリにおけるTypeScriptの型の複雑さについて。\nデバッグ、複雑さ、テスト、メンテナンスの難しさについて",
+            "tags": [
+                "TypeScript",
+                "article",
+                "opinion"
+            ],
+            "relatedLinks": []
         }
     ]
 }
