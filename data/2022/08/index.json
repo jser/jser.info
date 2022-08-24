@@ -513,6 +513,22 @@
                 "company"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-24T02:32:22.353Z",
+            "title": "rayepps/radash: Functional utility library - modern, simple, typed, powerful",
+            "url": "https://github.com/rayepps/radash",
+            "content": "lodashのようなユーティリティコレクションライブラリ。\nそれぞれの関数が独立していて、シンプルなコードとして読めるように書かれている",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Lodash is dead. Long live Radash. | by Ray Epps | Vanguards of Code | Aug, 2022 | Medium",
+                    "url": "https://medium.com/vanguards-of-code/lodash-is-dead-long-live-radash-d9d52abf428b"
+                }
+            ]
         }
     ]
 }
