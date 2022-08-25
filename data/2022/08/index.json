@@ -586,6 +586,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-25T06:31:46.224Z",
+            "title": "Using :has() as a CSS Parent Selector and much more | WebKit",
+            "url": "https://webkit.org/blog/13096/css-has-pseudo-class/",
+            "content": "CSSの`:has()`擬似クラスについて。\n親セレクターとしての利用、Gridの利用、`>`との違い、sibling combinators(`~`と`+`)との組み合わせなどについて",
+            "tags": [
+                "CSS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
