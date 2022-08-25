@@ -555,10 +555,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-08-25T02:56:56.210Z",
+            "date": "2022-08-25T03:01:07.501Z",
             "title": "Node v18.8.0 (Current) | Node.js",
             "url": "https://nodejs.org/en/blog/release/v18.8.0/",
-            "content": "Node.js 18.8.0リリース。\nV8 snapshotを利用してユーザーランドでのスナップショットを作成/復元できる`--build-snapshot`と`--snapshot-blob`の追加。現時点ではCJS/ESMはサポートしてないため、一つのファイルのみを扱える。",
+            "content": "Node.js 18.8.0リリース。\nユーザーランドでのスナップショットを作成/復元できる`--build-snapshot`と`--snapshot-blob`の追加。現時点ではCJS/ESMはサポートしてないため、一つのファイルのみを扱える。",
             "tags": [
                 "node.js",
                 "ReleaseNote"
