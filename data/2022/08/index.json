@@ -575,6 +575,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-25T06:25:38.076Z",
+            "title": "Release v1.25.0 · denoland/deno",
+            "url": "https://github.com/denoland/deno/releases/tag/v1.25.0",
+            "content": "Deno v1.25.0リリース。\n`deno init`コマンドの追加、Unstableな機能として`npm:` prefixでnpmパッケージをロードできるようになるなど",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
