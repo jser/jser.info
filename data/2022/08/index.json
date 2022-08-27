@@ -620,6 +620,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-27T15:49:52.308Z",
+            "title": "jQuery 3.6.1 Maintenance Release | Official jQuery Blog",
+            "url": "https://blog.jquery.com/2022/08/26/jquery-3-6-1-maintenance-release/",
+            "content": "jQuery 3.6.1リリース。\nfocusの問題の修正、`addClass`に空文字がある場合の問題の修正、CSS Property ValueをCSSの仕様に準拠してホワイトスペースをトリムするように修正など",
+            "tags": [
+                "jQuery",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
