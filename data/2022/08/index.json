@@ -609,6 +609,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-27T15:31:59.215Z",
+            "title": "ESLint v8.23.0 released - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2022/08/eslint-v8.23.0-released/",
+            "content": "ESLint 8.23.0リリース。\nopt-inで新しい設定ファイルである`eslint.config.js`が利用できるように。\n`no-fallthrough`と`no-warning-comments`にオプションを追加など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
