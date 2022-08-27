@@ -642,6 +642,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-27T16:23:25.672Z",
+            "title": "Why your website should be under 14kB in size | endtimes.dev",
+            "url": "https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/",
+            "content": "TCP slow startにより14600 bytes(約14kb)でラウンドトリップが発生するため、14kbより大きい場合にラウンドトリップ分の遅延が起きるという話。\nHTTP/3 QUICでもほぼ同じサイズでの輻輳制御が推奨されている。",
+            "tags": [
+                "HTTP",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
