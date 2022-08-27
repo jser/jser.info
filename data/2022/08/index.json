@@ -597,6 +597,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-27T02:57:50.409Z",
+            "title": "Jest 29: Snapshot format changes · Jest",
+            "url": "https://jestjs.io/blog/2022/08/25/jest-29",
+            "content": "Jest 29リリース。\nNode 12のサポート終了、`snapshotFormat`オプションの変更、`jsdom`のアップデート",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
