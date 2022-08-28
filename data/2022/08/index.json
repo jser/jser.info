@@ -654,6 +654,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-28T07:19:00.168Z",
+            "title": "Release v1.5.0 - Batch to the Future · solidjs/solid",
+            "url": "https://github.com/solidjs/solid/releases/tag/v1.5.0",
+            "content": "Solid v1.5.0リリース。\n`batch`での処理を修正、`createResource`に`ssrLoadFrom`オプションの追加とResourceに対してロード状態を表現する`state`フィールドを追加。\nSSRのパフォーマンス改善、パッケージの`exports`フィールドに対応など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "DOM",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
