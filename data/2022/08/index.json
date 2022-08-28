@@ -667,6 +667,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-28T11:53:27.318Z",
+            "title": "Installing and running Node.js bin scripts",
+            "url": "https://2ality.com/2022/08/installing-nodejs-bin-scripts.html",
+            "content": "Node.jsパッケージでインストールするコマンドについての記事。\nインストール方法、どこへインストールされるか、ローカルのパッケージのリンク、npxとキャッシュについてなど",
+            "tags": [
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
