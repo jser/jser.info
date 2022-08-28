@@ -678,6 +678,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-28T15:26:38.363Z",
+            "title": "httptoolkit/brotli-wasm: A reliable compressor and decompressor for Brotli, supporting node & browsers via wasm",
+            "url": "https://github.com/httptoolkit/brotli-wasm",
+            "content": "Node.jsとブラウザをサポートしてBrotliのCompress/Decompressライブラリ。\nWebAssemblyを利用している",
+            "tags": [
+                "JavaScript",
+                "library",
+                "WebAssembly"
+            ],
+            "relatedLinks": []
         }
     ]
 }
