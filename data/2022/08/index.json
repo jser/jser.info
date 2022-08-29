@@ -690,6 +690,23 @@
                 "WebAssembly"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-29T14:43:14.648Z",
+            "title": "apify/crawlee: Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.",
+            "url": "https://github.com/apify/crawlee",
+            "content": "ウェブサイトのクローラーフレームワーク。\nリンクを辿るクローリング、ページから情報を取得するスクレイピングを行うライブラリ。\n実際のブラウザを模倣する動作、セッションプール、Cheerio/Puppeteer/Playwrightを使ったスクレピングなどクローラー向けの機能セットをもつ",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Crawlee: the web scraping and browser automation library | Apify Blog",
+                    "url": "https://blog.apify.com/announcing-crawlee-the-web-scraping-and-browser-automation-library/"
+                }
+            ]
         }
     ]
 }
