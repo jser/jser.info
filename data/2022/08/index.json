@@ -722,7 +722,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-08-30T02:09:30.168Z",
+            "date": "2022-08-30T02:11:00.687Z",
             "title": "SpiderMonkey Newsletter (Firefox 104-105) | SpiderMonkey JavaScript/WebAssembly Engine",
             "url": "https://spidermonkey.dev/blog/2022/08/29/newsletter-firefox-104-105.html",
             "content": "Firefox 104と105でのSpinderMonkeyの変更点について。\nStage 3のShadowRealmsの実装、Stage 4の `findLast`と`findLastIndex`の実装、Intlの`formatRange`などで引数の大小に関する仕様変更に追従など。\nまた、モジュールの実装の改善を進め、Workerでの`type: module`の実装やImport Mapsの実装に取り組んでいる。",
@@ -731,7 +731,6 @@
                 "JavaScript",
                 "article"
             ],
-            "viaURL": "https://uit-inside.linecorp.com/episode/129",
             "relatedLinks": []
         }
     ]
