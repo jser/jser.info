@@ -710,18 +710,6 @@
             ]
         },
         {
-            "date": "2022-08-30T01:55:47.166Z",
-            "title": "nadeesha/ts-prune: Find unused exports in a typescript project. 🛀",
-            "url": "https://github.com/nadeesha/ts-prune",
-            "content": "TypeScriptのコードから使用されていないexporsを検出するツール",
-            "tags": [
-                "TypeScript",
-                "Tools"
-            ],
-            "viaURL": "https://uit-inside.linecorp.com/episode/129",
-            "relatedLinks": []
-        },
-        {
             "date": "2022-08-30T02:11:00.687Z",
             "title": "SpiderMonkey Newsletter (Firefox 104-105) | SpiderMonkey JavaScript/WebAssembly Engine",
             "url": "https://spidermonkey.dev/blog/2022/08/29/newsletter-firefox-104-105.html",
@@ -732,6 +720,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-08-30T02:11:27.384Z",
+            "title": "nadeesha/ts-prune: Find unused exports in a typescript project. 🛀",
+            "url": "https://github.com/nadeesha/ts-prune",
+            "content": "TypeScriptのコードから使用されていないexporsを検出するツール",
+            "tags": [
+                "TypeScript",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ep.129『不要な export をまとめて掃除！みんながほしかった CLI ts-prune』 | UIT INSIDE - LINE UIT の開発者による「最新のフロントエンド」をキャッチアップできる Podcast",
+                    "url": "https://uit-inside.linecorp.com/episode/129"
+                }
+            ]
         }
     ]
 }
