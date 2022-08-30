@@ -736,6 +736,18 @@
                     "url": "https://uit-inside.linecorp.com/episode/129"
                 }
             ]
+        },
+        {
+            "date": "2022-08-30T02:38:52.623Z",
+            "title": "New Recipes for 3rd Party Cookies – text/plain",
+            "url": "https://textslashplain.com/2022/07/27/new-recipes-for-cookies/",
+            "content": "サードパーティクッキーに関する流れで提案されているCookies周りの仕様について。\nOriginとSubFrameの組み合わせでCookieの保存先を分割する`Partitioned`属性、Storage Access API、IdP向けのFedCM API。\nまた、Cookieはストレージの中でも特殊で、HTTPOnlyやCookieをデバイスから盗む攻撃を防止するTLS Token Bindingなど特別な機能があることについてなど",
+            "tags": [
+                "browser",
+                "privacy",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
