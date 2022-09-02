@@ -1,0 +1,17 @@
+{
+    "list": [
+        {
+            "date": "2022-09-02T13:25:35.656Z",
+            "title": "frehner/modern-guide-to-packaging-js-library",
+            "url": "https://github.com/frehner/modern-guide-to-packaging-js-library",
+            "content": "JavaScriptライブラリを公開するときのガイド。\nESM/CJS/UMD形式の公開、Tree Shakingに対応する、minifyをしない、Source Mapをつける、外部ライブラリをコピーして含めないなど。\nまたpackage.jsonのフィールドについての解説など",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "library",
+                "document"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
