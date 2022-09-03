@@ -12,6 +12,18 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-03T00:28:46.805Z",
+            "title": "bluwy/whyframe: Develop components in isolation",
+            "url": "https://github.com/bluwy/whyframe",
+            "content": "iframe内にマークアップを描画するライブラリ。\nSvelte、Vue、Reactなど各種UIフレームワークに対応している",
+            "tags": [
+                "JavaScript",
+                "library",
+                "UI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
