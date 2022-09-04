@@ -86,6 +86,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-04T10:18:47.749Z",
+            "title": "[v3.0 Release branch] by lukastaegert · Pull Request #4549 · rollup/rollup",
+            "url": "https://github.com/rollup/rollup/pull/4549",
+            "content": "Rollup 3.0の変更点について。\nNode.js 12のサポート終了、ブラウザ向けのパッケージを`@rollup/browser`に分離、非推奨のメソッドの削除。\n`output.interop`に`compat`を追加、`--bundleConfigAsCjs`フラグの追加など",
+            "tags": [
+                "rollup",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
