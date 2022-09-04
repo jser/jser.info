@@ -108,6 +108,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-04T10:53:33.063Z",
+            "title": "package-manager-best-practices/npm.md at main · ossf/package-manager-best-practices",
+            "url": "https://github.com/ossf/package-manager-best-practices/blob/main/published/npm.md",
+            "content": "npmのセキュリティに関するベストプラクティスについてのドキュメント。\nCIの構成、依存関係の管理、ロックファイル、パッケージのリリース、レジストリについてなど",
+            "tags": [
+                "npm",
+                "security",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "npm Best Practices for the Supply-Chain - Open Source Security Foundation",
+                    "url": "https://openssf.org/blog/2022/09/01/npm-best-practices-for-the-supply-chain/"
+                }
+            ]
         }
     ]
 }
