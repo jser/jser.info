@@ -171,6 +171,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-04T15:19:39.141Z",
+            "title": "flomesh-io/pipy: Pipy is a programmable proxy for the cloud, edge and IoT.",
+            "url": "https://github.com/flomesh-io/pipy",
+            "content": "C++で書かれたプログラマブルなProxy。\nスクリプティング言語としてJavaScriptで記述できる",
+            "tags": [
+                "JavaScript",
+                "proxy",
+                "C++",
+                "software"
+            ],
+            "relatedLinks": []
         }
     ]
 }
