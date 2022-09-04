@@ -184,6 +184,19 @@
                 "software"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-04T15:42:17.040Z",
+            "title": "Release v5.0.0 · avajs/ava",
+            "url": "https://github.com/avajs/ava/releases/tag/v5.0.0",
+            "content": "AVA v5.0.0 preリリース。\nNode.js 12以下のサポート終了、TypeScript 4.7未満のサポート終了など",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
