@@ -160,6 +160,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-04T14:44:57.817Z",
+            "title": "Release v7.10.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v7.10.0",
+            "content": "pnpm v7.10.0リリース。\n`resolution-mode`に`time-based`の追加、`pnpm env remove`の追加など",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
