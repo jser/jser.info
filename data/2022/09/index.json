@@ -75,6 +75,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-04T09:25:56.908Z",
+            "title": "Anonymous iframe origin trial: Easily embed iframes in COEP environments - Chrome Developers",
+            "url": "https://developer.chrome.com/blog/anonymous-iframe-origin-trial/",
+            "content": "`Cross-Origin-Embedder-Policy: require-corp`と`Cross-Origin-Opener-Policy: same-origin`のレスポンスヘッダを返すサイトではないと、クロスオリジン分離してiframeとして埋め込めない。\nこの問題を解決するために、iframe要素に`anonymous`属性について",
+            "tags": [
+                "browser",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
