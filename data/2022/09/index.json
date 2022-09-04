@@ -137,6 +137,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-04T13:48:53.969Z",
+            "title": "Release v0.23.0 · vitest-dev/vitest",
+            "url": "https://github.com/vitest-dev/vitest/releases/tag/v0.23.0",
+            "content": "vitest v0.23.0リリース。\nCJSとの互換性の改善、`retry`オプションの追加、`vitest bench`コマンドの追加、coverageのjson reporterの追加など",
+            "tags": [
+                "vite",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
