@@ -50,6 +50,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-04T08:54:54.881Z",
+            "title": "Modern alternatives to BEM - daverupert.com",
+            "url": "https://daverupert.com/2022/08/modern-alternatives-to-bem/",
+            "content": "CSSに`@layer`やWeb Componentsなどの新しい概念が増えたことで、CSSの設計がどのように変わっていくかについて。",
+            "tags": [
+                "CSS",
+                "architecture",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
