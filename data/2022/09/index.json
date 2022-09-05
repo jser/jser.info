@@ -99,17 +99,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-09-04T10:33:13.534Z",
-            "title": "Chromium Blog: Chrome 106 Beta: New CSS Features, WebCodecs and WebXR Improvements, and More",
-            "url": "https://blog.chromium.org/2022/09/chrome-106-beta-new-css-features.html",
-            "content": "Chrome 106 Betaリリース。\nOrigin Trialsとしてiframeの`anonymous`属性、Pop-Up APIの追加。\nAndroid WebViewでのClient Hintsをサポート、CSSの単位として`ic`をサポート、`Intl.NumberFormat` v3 APIをサポート、`WebCodecs`の`dequeue`イベントのサポートなど。\nCookieのドメイン属性の非ASCII文字を削除、HTTP/2 Pushのサポートの削除など",
-            "tags": [
-                "Chrome",
-                "ReleaseNote"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2022-09-04T10:53:33.063Z",
             "title": "package-manager-best-practices/npm.md at main · ossf/package-manager-best-practices",
             "url": "https://github.com/ossf/package-manager-best-practices/blob/main/published/npm.md",
@@ -244,6 +233,17 @@
                 "ECMAScript",
                 "module",
                 "article"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2022-09-05T15:00:22.664Z",
+            "title": "Chromium Blog: Chrome 106 Beta: New CSS Features, WebCodecs and WebXR Improvements, and More",
+            "url": "https://blog.chromium.org/2022/09/chrome-106-beta-new-css-features.html",
+            "content": "Chrome 106 Betaリリース。\nOrigin Trialsとしてiframeの`anonymous`属性、Pop-Up APIの追加。\nAndroid WebViewでのClient Hintsをサポート、CSSの単位として`ic`をサポート、`Intl.NumberFormat` v3 APIをサポート、`WebCodecs`の`dequeue`イベントのサポートなど。\nCookieのドメイン属性の非ASCII文字を削除、HTTP/2 Pushのサポートの削除など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
             ],
             "relatedLinks": []
         }
