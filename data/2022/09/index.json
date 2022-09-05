@@ -210,6 +210,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-05T14:23:48.851Z",
+            "title": "BetterTyped/hyper-fetch: ⚡ Backend agnostic fetching framework for any javascript environment - queues, caching, persistence, builders, commands, offline and more!",
+            "url": "https://github.com/BetterTyped/hyper-fetch",
+            "content": "UniversalなFetchライブラリ。\nBuilder APIで特定のエンドポイントを叩くコマンドを作成して利用する。\nキャッシュ、キュー管理、キャンセル、Prefetchingなどをサポートしている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "Fetch"
+            ],
+            "relatedLinks": []
         }
     ]
 }
