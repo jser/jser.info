@@ -222,6 +222,17 @@
                 "Fetch"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-05T14:39:55.832Z",
+            "title": "Implementing Promisable setTimeout | yield code(); - Dmitry Kudryavtsev",
+            "url": "https://yieldcode.blog/post/implementing-promisable-set-timeout",
+            "content": "`setTimeout`のPromise版の実装とAbortControllerを使ったキャンセルについて。\nまた、Node.jsの`timers/promises`について。",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
