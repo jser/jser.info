@@ -259,6 +259,18 @@
                 "npm"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-06T15:33:13.614Z",
+            "title": "Announcing React Native 0.70 · React Native",
+            "url": "https://reactnative.dev/blog/2022/09/05/version-070",
+            "content": "React Native, 0.70.0リリース。\nHermesがデフォルトエンジンへと変更、iOSとAndroidでのCodegenの設定の統合、Androiのビルド環境の改善など",
+            "tags": [
+                "React",
+                "Native",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
