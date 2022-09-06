@@ -271,6 +271,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-06T15:49:21.472Z",
+            "title": "7.19.0 Released: Stage 3 decorators and more RegExp features! · Babel",
+            "url": "https://babeljs.io/blog/2022/09/05/7.19.0",
+            "content": "Babel 7.19.0リリース。\ndecoratorsとrecordAndTupleのデフォルト設定を変更、Stage 3のdecoratorsに対応するversionの追加、Duplicate named capturing groupsのサポートなど",
+            "tags": [
+                "babel",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
