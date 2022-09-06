@@ -246,6 +246,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-06T14:17:43.181Z",
+            "title": "雰囲気でパッケージマネージャーを作ろう",
+            "url": "https://zenn.dev/sa2knight/articles/d473ca2894b659",
+            "content": "npmのレジストリからパッケージをインストールするパッケージマネージャーを作りながら、パッケージマネージャーについて学ぶ記事",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "article",
+                "npm"
+            ],
+            "relatedLinks": []
         }
     ]
 }
