@@ -324,6 +324,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-07T23:34:24.124Z",
+            "title": "Release v2.8.0 · cloudflare/miniflare",
+            "url": "https://github.com/cloudflare/miniflare/releases/tag/v2.8.0",
+            "content": "miniflare 2.8.0リリース。\nVitestのサポート、`getMiniflareWaitUntil()`の追加、Web Streamsの互換性を修正、Queuesのエミュレートをサポートなど",
+            "tags": [
+                "cloudflare",
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
