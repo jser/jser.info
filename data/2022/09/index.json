@@ -312,6 +312,18 @@
                     "url": "https://preactjs.com/blog/introducing-signals/"
                 }
             ]
+        },
+        {
+            "date": "2022-09-07T23:27:28.566Z",
+            "title": "Release v2.1.0 · nuxt/content",
+            "url": "https://github.com/nuxt/content/releases/tag/v2.1.0",
+            "content": "Nuxt Content 2.1.0リリース\nDocument Drivenモードの追加、`<Markdown>`が非推奨となり代わりとなる`<ContentSlot />`の追加など",
+            "tags": [
+                "Vue",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
