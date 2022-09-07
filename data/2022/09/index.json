@@ -294,6 +294,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-07T12:58:53.128Z",
+            "title": "preactjs/signals",
+            "url": "https://github.com/preactjs/signals",
+            "content": "PreactやReactで利用できるステート管理ライブラリ。\nRefのような値を含むシグナルオブジェクトを扱い、Propsとして渡しても途中のコンポーネントは再レンダリングはしないで、値が変化したときにそのSignalを利用しているコンポーネントを再描画できるようにレンダリングの処理をHookする。\n",
+            "tags": [
+                "JavaScript",
+                "React",
+                "library",
+                "performance"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing Signals | Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.",
+                    "url": "https://preactjs.com/blog/introducing-signals/"
+                }
+            ]
         }
     ]
 }
