@@ -283,6 +283,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-07T12:31:40.448Z",
+            "title": "Bytecode Alliance",
+            "url": "https://bytecodealliance.org/articles/wasmtime-10-performance",
+            "content": "WebAssemblyのコンパイラであるCraneliftとランタイムであるWasmtimeについて。\nどのようにWasmの実行を最適化するかについて",
+            "tags": [
+                "WebAssembly",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
