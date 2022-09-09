@@ -354,6 +354,17 @@
                     "url": "https://github.com/WICG/webcomponents/blob/gh-pages/proposals/Imperative-Shadow-DOM-Distribution-API.md"
                 }
             ]
+        },
+        {
+            "date": "2022-09-09T10:48:48.218Z",
+            "title": "Blog - Next.js 12.3 | Next.js",
+            "url": "https://nextjs.org/blog/next-12-3",
+            "content": "Next.js 12.3リリース。\nTypeScriptの自動インストールに対応、`.env`などの変更にFast Refreshが対応、`next/future/image`コンポーネントの改善。\n実験的なオプションとして`unoptimized`の追加、SWCでコードを圧縮する`swcMinify`の追加など",
+            "tags": [
+                "Next.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
