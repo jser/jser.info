@@ -365,6 +365,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-09T10:54:03.225Z",
+            "title": "Node v18.9.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v18.9.0/",
+            "content": "Node.js 18.9.0リリース。\n`diagnostics_channel`がprocess/workerをサポート、`os.machine()`メソッドの追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
