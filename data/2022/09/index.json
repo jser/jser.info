@@ -406,6 +406,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-11T12:22:44.363Z",
+            "title": "GradeJS | Production Webpack Bundle Analyzer",
+            "url": "https://gradejs.com/",
+            "content": "URLのサイトのwebpackのproduction buildから、どのライブラリとバージョンが含まれているかを分析するツール",
+            "tags": [
+                "webpack",
+                "Tools",
+                "webservice"
+            ],
+            "relatedLinks": []
         }
     ]
 }
