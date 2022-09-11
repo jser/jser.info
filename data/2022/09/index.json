@@ -376,6 +376,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-11T12:09:20.152Z",
+            "title": "hand-dot/react-inspector: Easily detect React components source code from Chrome!",
+            "url": "https://github.com/hand-dot/react-inspector",
+            "content": "クリックしたReactコンポーネントのソースコードをエディタで開くChrome拡張",
+            "tags": [
+                "React",
+                "debug",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "React開発を快適にするChrome拡張を公開したので見てください！",
+                    "url": "https://zenn.dev/hand_dot/articles/a1523d8b0449ad"
+                }
+            ]
         }
     ]
 }
