@@ -469,6 +469,24 @@
                     "url": "https://developer.apple.com/documentation/safari-release-notes/safari-16-release-notes"
                 }
             ]
+        },
+        {
+            "date": "2022-09-13T01:08:44.157Z",
+            "title": "facebookincubator/memlab: A testing framework for finding JavaScript memory leaks and analyzing heap snapshots",
+            "url": "https://github.com/facebookincubator/memlab",
+            "content": "ウェブアプリケーションのメモリリークをシナリオベースで見つけるデバッグツール。\nシナリオを定義し、Puppeteerを使ったブラウザアクセスした前後のヒープスナップショットからメモリリークしているオブジェクトを見つけるツールとビューア。",
+            "tags": [
+                "JavaScript",
+                "debug",
+                "Tools",
+                "puppeteer"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "MemLab: An open source framework for finding JavaScript memory leaks",
+                    "url": "https://engineering.fb.com/2022/09/12/open-source/memlab/"
+                }
+            ]
         }
     ]
 }
