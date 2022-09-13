@@ -442,6 +442,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-13T00:56:20.416Z",
+            "title": "Release v9.0.0-pre.0 · npm/cli",
+            "url": "https://github.com/npm/cli/releases/tag/v9.0.0-pre.0",
+            "content": "npm v9.0.0-pre.0リリース。\nNode.js 12のサポート終了。\nworkspacesでsemverのrangeを指定できるように、`npm birthday`コマンド、`npm bin`コマンドの削除、`npm pkg`コマンドがあるため`npm set-script`を削除。\nローカルパッケージをsymbolic linkではなくパッケージとしてインストールする`install-links`オプションのデフォルト値を`true`に変更など\n",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
