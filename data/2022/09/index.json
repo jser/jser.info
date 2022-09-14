@@ -487,6 +487,18 @@
                     "url": "https://engineering.fb.com/2022/09/12/open-source/memlab/"
                 }
             ]
+        },
+        {
+            "date": "2022-09-14T23:50:41.094Z",
+            "title": "Redwood 3.0.0 is now available! - Announcements / Releases and Upgrade Guides - RedwoodJS Community",
+            "url": "https://community.redwoodjs.com/t/redwood-3-0-0-is-now-available/3989",
+            "content": "Redwood v3.0.0リリース。\nNode.js 12のサポート終了、プリレンダリングの対応、TypeScriptのStrict Modeに対応、Fastify v4/Jest 29/Prisma v4へのアップデート。\nまた、WebAuthでのログイン/サインアップのサポートなど。",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
