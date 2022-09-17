@@ -499,6 +499,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-17T05:11:54.016Z",
+            "title": "Announcing the Official TypeScript Types Public Preview",
+            "url": "https://blog.emberjs.com/announcing-official-typescript-types-public-preview/",
+            "content": "Ember 4.8.0 Beta 2以降ではTypeScriptの型定義が同梱される。\nプレビュー期間では`import 'ember-source/types';`で読み込み、安定したら完全に切り替え、semverポリシーに則って公開される",
+            "tags": [
+                "Ember",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
