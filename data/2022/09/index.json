@@ -511,6 +511,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-18T07:50:03.483Z",
+            "title": "skovhus/jest-codemods: Codemods for migrating to Jest https://github.com/facebook/jest 👾",
+            "url": "https://github.com/skovhus/jest-codemods",
+            "content": "Jestへの移行を補助するcodemod集。\nAva,Chai,expect.js,jasmine,mocha.should.js,tape,sinon.js からの移行ツールが用意されている。",
+            "tags": [
+                "jest",
+                "JavaScript",
+                "testing",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
