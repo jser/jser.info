@@ -524,6 +524,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-19T11:49:22.020Z",
+            "title": "Release v9.4.0 · TypeStrong/ts-loader",
+            "url": "https://github.com/TypeStrong/ts-loader/releases/tag/v9.4.0",
+            "content": "ts-loader v9.4.0リリース。\n`.cjs`, `.mjs`, `.cts`, `.mts`のサポートなど",
+            "tags": [
+                "TypeScript",
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
