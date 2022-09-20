@@ -613,6 +613,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-20T14:34:59.003Z",
+            "title": "anonrig/fast-querystring: A faster alternative to legacy node:querystring module",
+            "url": "https://github.com/anonrig/fast-querystring",
+            "content": "`querystring`と同様のAPIをもつクエリストリングを扱うライブラリ",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
