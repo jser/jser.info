@@ -640,10 +640,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-09-20T14:59:24.939Z",
+            "date": "2022-09-20T15:00:41.651Z",
             "title": "Infobip - Shift Conference (2022) - Google スライド",
             "url": "https://docs.google.com/presentation/d/1r3cen2_8CyJX8xBLGxfgPQzkyrBcHTKOujfNHbWexig/edit#slide=id.g15408d936a2_0_3766",
-            "content": "最近実装やRFCが出ているnpm関係のセキュリティ機能とソフトウェアサプライチェーンについてスライド。\n`--before`での指定日以前のバージョンのインストール、Package Distributions、`npm query`コマンド。\nまたバリデーションの強化として`npm audit signatures`、sigstoreの対応、Audit policiesについてなど",
+            "content": "最近実装やRFCが出ているnpm関係のセキュリティ機能とソフトウェアサプライチェーンについてスライド。\n`--before`での指定日以前のバージョンのインストール、Package Distributions、`npm query`コマンド。\nまた、バリデーションの強化として`npm audit signatures`、sigstoreの対応、Audit policiesについてなど",
             "tags": [
                 "npm",
                 "security",
