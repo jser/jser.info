@@ -601,6 +601,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-20T14:32:48.151Z",
+            "title": "tinylibs/tinybench: 🔎 A simple, tiny and lightweight benchmarking library!",
+            "url": "https://github.com/tinylibs/tinybench",
+            "content": "ベンチマークライブラリ。\nコールバック関数内で指定した処理の実行時間を比較できる。",
+            "tags": [
+                "JavaScript",
+                "benchmark",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
