@@ -562,6 +562,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-20T13:47:53.214Z",
+            "title": "ts-safeql/safeql: Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.",
+            "url": "https://github.com/ts-safeql/safeql",
+            "content": "TypeScriptで書いたSQL文に対して実際のデータベースと接続したLintするESLintプラグイン。\nPostgreSQL, Prisma, Sequelize, pg, postgresなどの対応している。",
+            "tags": [
+                "SQL",
+                "ESLint",
+                "Tools",
+                "library",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
