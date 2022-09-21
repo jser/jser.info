@@ -661,6 +661,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-21T13:49:10.999Z",
+            "title": "parcel-bundler/lightningcss: An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",
+            "url": "https://github.com/parcel-bundler/lightningcss",
+            "content": "Parcelで利用されているCSSのParser, Transformer, Minifier。\nRustで書かれている",
+            "tags": [
+                "Rust",
+                "CSS",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
