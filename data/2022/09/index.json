@@ -673,6 +673,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-21T13:53:44.013Z",
+            "title": "Release v1.26.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.26.0",
+            "content": "playwright v1.26.0リリース。\nAssertionへのオプションの追加、`--pass-with-no-tests`フラグ、`--ignore-snapshots`フラグの追加など。\nまた、`waitUntil: domcontentloaded`のiframeに対する挙動が変更されている",
+            "tags": [
+                "playwright",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
