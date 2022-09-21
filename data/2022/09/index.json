@@ -650,6 +650,17 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-21T03:35:55.873Z",
+            "title": "Bytecode Alliance",
+            "url": "https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready",
+            "content": "WebAssemblyのruntimeであるWasmtime 1.0リリース",
+            "tags": [
+                "WebAssembly",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
