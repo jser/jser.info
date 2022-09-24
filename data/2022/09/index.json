@@ -707,6 +707,17 @@
                 "security"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-24T13:02:46.477Z",
+            "title": "Announcing TypeScript 4.9 Beta - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-beta/",
+            "content": "TypeScript 4.9 betaリリース。\n型キャストはせずに型の一致をチェックできる`satisfies`演算子の追加、`in`演算子での型の絞り込みの改善、`== NaN`をコンパイルエラーに変更など。\n`--watch`でのファイル監視のデフォルトを`useFsEvents`に変更、`exports`フィールドの`typeVersions`の優先度を修正など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
