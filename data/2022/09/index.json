@@ -695,6 +695,18 @@
                 "plugin"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-24T06:16:16.622Z",
+            "title": "September 22nd 2022 Security Releases | Node.js",
+            "url": "https://nodejs.org/en/blog/vulnerability/september-2022-security-releases/",
+            "content": "Node.jsのセキュリティ修正としてv14.20.1 (LTS)、v16.17.1 (LTS)、v18.9.1 (Current)がリリースされた。\n`--inspect`におけるDNS rebinding、HTTP Request Smuggling、WebCryptoのWeak randomnessの問題の修正など",
+            "tags": [
+                "node.js",
+                "ReleaseNote",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
