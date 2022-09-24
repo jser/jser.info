@@ -734,6 +734,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-24T13:48:45.922Z",
+            "title": "Japa - A simple yet powerful testing framework for Node.js",
+            "url": "https://japa.dev/docs",
+            "content": "Node.js向けのテストフレームワーク。\n`node`コマンドでテストが実行できる。\n基本的なテスト機能に加え、パラメタライズドテスト、テストへのタグ付けとフィルタリングなどをもつ。\nまたプラグインの仕組みをサポートしており、失敗したテストのみを再実行やTypeScriptの型チェックのテストなどをプラグインでサポートしている。",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
