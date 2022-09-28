@@ -759,6 +759,27 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-28T23:31:05.372Z",
+            "title": "Introducing workerd: the Open Source Workers runtime",
+            "url": "https://blog.cloudflare.com/workerd-open-source-workers-runtime/",
+            "content": "Cloudflare WorkersのJavaScript/WebAssembly runtimeであるworkerdが公開された。\nMiniflareでJSを使って実装していた部分もworkerdを使うものが公開されている。\nworkerd自体はSandboxではないが、SSRF防止するためのBindingとFetchの仕組みなども持っている。",
+            "tags": [
+                "cloudflare",
+                "ReleaseNote",
+                "C++"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v3.0.0-next.1 · cloudflare/miniflare",
+                    "url": "https://github.com/cloudflare/miniflare/releases/tag/v3.0.0-next.1"
+                },
+                {
+                    "title": "cloudflare/workerd",
+                    "url": "https://github.com/cloudflare/workerd"
+                }
+            ]
         }
     ]
 }
