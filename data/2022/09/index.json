@@ -794,15 +794,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-09-28T23:36:10.463Z",
+            "date": "2022-09-28T23:36:21.282Z",
             "title": "Release Add support for engines.node and Volta · actions/setup-node",
             "url": "https://github.com/actions/setup-node/releases/tag/v3.5.0",
             "content": "GitHub Actionsのsetup-node 3.5.0リリース。\n`package.json`の`engines.node`とVoltaで指定したNode.jsのバージョンをサポート",
             "tags": [
-                "githuba",
                 "Actions",
                 "node.js",
-                "ReleaseNote"
+                "ReleaseNote",
+                "Github"
             ],
             "relatedLinks": []
         }
