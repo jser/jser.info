@@ -780,6 +780,18 @@
                     "url": "https://github.com/cloudflare/workerd"
                 }
             ]
+        },
+        {
+            "date": "2022-09-28T23:35:08.819Z",
+            "title": "The Anatomy of an Isolate Cloud",
+            "url": "https://deno.com/blog/anatomy-isolate-cloud",
+            "content": "Deno DeployのIsolationのアプローチについて。\nV8のプロセスが独立していて、Runnerがリクエストに対して起動中のプロセス or プロセスを起動して実行する。\n基本的にはV8 Sandboxに依存していて、fsやnetの制限を設けている",
+            "tags": [
+                "deno",
+                "V8",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
