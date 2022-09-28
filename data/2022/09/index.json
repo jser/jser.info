@@ -805,6 +805,19 @@
                 "Github"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-28T23:44:55.322Z",
+            "title": "Introducing Ezno",
+            "url": "https://kaleidawave.github.io/posts/introducing-ezno/",
+            "content": "Rustで実装しているTypeScript互換の型チェッカーとコンパイラであるEnzoについて。\n",
+            "tags": [
+                "Rust",
+                "TypeScript",
+                "article",
+                "opinion"
+            ],
+            "relatedLinks": []
         }
     ]
 }
