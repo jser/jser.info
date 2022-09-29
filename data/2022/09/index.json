@@ -844,6 +844,18 @@
                 "serverless"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-29T02:49:58.428Z",
+            "title": "Release v0.5.0 · facebook/lexical",
+            "url": "https://github.com/facebook/lexical/releases/tag/v0.5.0",
+            "content": "lexical v0.5.0リリース。\nNotionライクなDraggable Blocksのサポート、LexicalTablePluginの安定化、Shdow Rootの対応など。\n一部のAPIには破壊的な変更も含まれている",
+            "tags": [
+                "JavaScript",
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
