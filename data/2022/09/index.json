@@ -883,6 +883,22 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-29T03:00:24.963Z",
+            "title": "Learn HTML",
+            "url": "https://web.dev/learn/html/",
+            "content": "HTMLについてを学習できるチュートリアル。",
+            "tags": [
+                "HTML",
+                "tutorial"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing Learn HTML",
+                    "url": "https://web.dev/introducing-learn-html/"
+                }
+            ]
         }
     ]
 }
