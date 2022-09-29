@@ -858,13 +858,14 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-09-29T02:51:38.016Z",
+            "date": "2022-09-29T02:53:09.583Z",
             "title": "Shell scripting with Node.js",
             "url": "https://exploringjs.com/nodejs-shell-scripting/",
-            "content": "Node.jsでシェルスクリプリングを扱う書籍",
+            "content": "Node.jsでshell scriptingを扱う書籍",
             "tags": [
                 "node.js",
-                "book"
+                "book",
+                "ShellScript"
             ],
             "relatedLinks": []
         }
