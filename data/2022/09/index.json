@@ -868,6 +868,21 @@
                 "ShellScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-09-29T02:59:39.196Z",
+            "title": "SPAセキュリティ超入門 | ドクセル",
+            "url": "https://www.docswell.com/s/ockeghem/K2PPNK-phpconf2022",
+            "content": "SPAにおいてよく起きるセキュリティの問題についてのスライド。\nクライアントサイドでのみバリデーションしている場合の認可制御不備、任意のHTMLを描画してしまうことによるXSS、CSRFについてなど",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "XSS",
+                "SQL",
+                "security",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
