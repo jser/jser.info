@@ -34,6 +34,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-02T14:58:50.704Z",
+            "title": "Astro 1.4.0 Release | Astro",
+            "url": "https://astro.build/blog/astro-140/",
+            "content": "Astro 1.4.0リリース。\n`Astro.cookies`の追加、pnpmの対応改善、CSSの詳細度がpublic/import/styleタグで同じ場合の優先度の決定。\nVueでのJSXのサポートなど",
+            "tags": [
+                "astro",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
