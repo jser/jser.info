@@ -57,6 +57,19 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-02T16:01:35.833Z",
+            "title": "Optimize long tasks",
+            "url": "https://web.dev/optimize-long-tasks/",
+            "content": "50ms以上かかるlong tasksを分解し、ユーザーの入力を表示を妨げないように最適化する方法についての記事。\nタスクの分解と`navigator.scheduling.isInputPending()`での実行タイミングの判定、`schedulerpostTask` APIについて",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
