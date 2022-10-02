@@ -23,6 +23,17 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-02T09:31:31.068Z",
+            "title": "Deno 1.26 Release Notes",
+            "url": "https://deno.com/blog/v1.26",
+            "content": "Deno 1.26リリース。\nCache APIのサポート、`--allow-sys`フラグの追加、`node_modules`ディレクトリを扱う`--node-modules-dir`フラグの追加し`--compat`フラグを削除。\nまたNode.jsコアモジュールへの互換性の改善、`Deno.serve()` APIなどパフォーマンス改善、TypeScrtipt 4.8へのアップデートなど",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
