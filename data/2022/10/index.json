@@ -116,6 +116,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-04T14:23:20.210Z",
+            "title": "tools/CHANGELOG.md at main · rome/tools",
+            "url": "https://github.com/rome/tools/blob/main/CHANGELOG.md#0100",
+            "content": "Rome 0.10.0リリース。\nパフォーマンスの改善、ignoreにGlobを利用できるように、FormatterとLinterの対応ルールの追加など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
