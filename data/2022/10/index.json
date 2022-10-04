@@ -105,6 +105,17 @@
                 "issue"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-04T14:20:43.982Z",
+            "title": "Release v9.0.0-pre.3 · npm/cli",
+            "url": "https://github.com/npm/cli/releases/tag/v9.0.0-pre.3",
+            "content": "npm v9.0.0-pre.3リリース。\n`package.json`に`files`がある場合に、`npm pack`はrootにあるgitignoreとnpmignoreを無視するように変更など",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
