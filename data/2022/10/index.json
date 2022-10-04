@@ -94,6 +94,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-04T13:03:23.549Z",
+            "title": "watch: add initial implementation for `node --watch` by MoLow · Pull Request #44366 · nodejs/node",
+            "url": "https://github.com/nodejs/node/pull/44366",
+            "content": "Node.jsに`--watch`フラグが追加された。\nnodemonのようにファイルが変更されたらプロセスを再起動する",
+            "tags": [
+                "node.js",
+                "issue"
+            ],
+            "relatedLinks": []
         }
     ]
 }
