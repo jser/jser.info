@@ -82,6 +82,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-04T12:57:19.231Z",
+            "title": "Client-side WebAssembly WordPress with no server – Make WordPress Core",
+            "url": "https://make.wordpress.org/core/2022/09/23/client-side-webassembly-wordpress-with-no-server/",
+            "content": "WordPressのWebAssemblyビルドについて。\nPHPをWasmにビルドしWordpressを実行する。\nブラウザからのリクエストはService WorkerでProxyする。\nWordpressをブラウザで確認できるので、Wordpressの開発や確認がしやすくなる目的",
+            "tags": [
+                "wordpress",
+                "WebAssembly",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
