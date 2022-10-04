@@ -70,6 +70,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-04T12:47:30.894Z",
+            "title": "Postgres WASM by Snaplet and Supabase",
+            "url": "https://supabase.com/blog/postgres-wasm",
+            "content": "PostgreSQLのWebAssemblyビルドについて\nPostgreSQLそのものをWasmへとビルドするのは難しかったため、VMを作りそれをx86エミュレータで実行する。\nまた、WebSocketsを使ったProxyや起動時間の最適化やイメージサイズの削減についてなど",
+            "tags": [
+                "PostgreSQL",
+                "WebAssembly",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
