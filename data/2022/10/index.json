@@ -12,19 +12,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-10-02T09:28:25.289Z",
-            "title": "Closing a 30 pixel gap between native and web - Microsoft Edge Blog",
-            "url": "https://blogs.windows.com/msedgedev/2022/09/27/closing-pixel-gap-native-web-window-controls-overlay/",
-            "content": "Window Controls Overlayについて。\nブラウザウィンドウのタイトルバーの領域もPWAアプリで利用できる仕組み",
-            "tags": [
-                "Chrome",
-                "MSEdge",
-                "UI",
-                "browser"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2022-10-02T09:31:31.068Z",
             "title": "Deno 1.26 Release Notes",
             "url": "https://deno.com/blog/v1.26",
@@ -178,6 +165,20 @@
                     "url": "https://www.electronjs.org/blog/v8-memory-cage"
                 }
             ]
+        },
+        {
+            "date": "2022-10-05T02:56:51.634Z",
+            "title": "Closing a 30 pixel gap between native and web - Microsoft Edge Blog",
+            "url": "https://blogs.windows.com/msedgedev/2022/09/27/closing-pixel-gap-native-web-window-controls-overlay/",
+            "content": "Window Controls Overlayについて。\nブラウザウィンドウのタイトルバーの領域もPWAアプリで利用できる仕組み",
+            "tags": [
+                "Chrome",
+                "MSEdge",
+                "UI",
+                "browser",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
