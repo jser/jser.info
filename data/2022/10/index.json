@@ -162,6 +162,22 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-05T02:52:59.474Z",
+            "title": "Electron 21.0.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-21-0",
+            "content": "Electron 21.0.0リリース。\nChromium 106、Node.js 16.16.0、V8 10.6へのアップデート。\n`webFrameMain.origin`と`WebContents.ipc`の追加、NSPanelライクな動作のサポートなど。\nまたV8 Memory Cageが有効化され、off-heapを示すArrayBuffersは許可されなくなった。",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Electron and the V8 Memory Cage | Electron",
+                    "url": "https://www.electronjs.org/blog/v8-memory-cage"
+                }
+            ]
         }
     ]
 }
