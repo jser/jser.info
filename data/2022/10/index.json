@@ -185,7 +185,7 @@
             "date": "2022-10-06T01:25:20.055Z",
             "title": "Release 2.0.0-rc.0 · vercel/swr",
             "url": "https://github.com/vercel/swr/releases/tag/2.0.0-rc.0",
-            "content": "SWR 2.0.0-rc.0リリース。\n破壊的変更としてmutationにおけるエラーが他のmutationやuseSWRに反映されないように変更。また、mutationがエラーをthrowするかを抑制できる`throwOnError`オプションを追加など,
+            "content": "SWR 2.0.0-rc.0リリース。\n破壊的変更としてmutationにおけるエラーが他のmutationやuseSWRに反映されないように変更。また、mutationがエラーをthrowするかを抑制できる`throwOnError`オプションを追加など",
             "tags": [
                 "React",
                 "JavaScript",
