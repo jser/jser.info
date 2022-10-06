@@ -180,6 +180,19 @@
                 "proposal"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-06T01:25:20.055Z",
+            "title": "Release 2.0.0-rc.0 · vercel/swr",
+            "url": "https://github.com/vercel/swr/releases/tag/2.0.0-rc.0",
+            "content": "SWR 2.0.0-rc.0リリース。\nmutationにおけるエラーをthrowするように変更し、それを抑制できる`throwOnError`オプションを追加など",
+            "tags": [
+                "React",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
