@@ -241,10 +241,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-10-09T12:19:23.195Z",
+            "date": "2022-10-09T12:23:16.357Z",
             "title": "Chrome 107 beta - Chrome Developers",
             "url": "https://developer.chrome.com/blog/chrome-107-beta/",
-            "content": "Chrome 107 betaリリース。\n`grid-template`でのtransitionのサポート、Screen Capture APIの改善、Resource Timingに`renderBlockingStatus`を追加。\nPermissions policyのorigin指定に`*`を利用可能に、`<form>`要素が`rel`属性のサポートなど。\nOrigin TrialsとしてDeclarative PendingBeacon API、Permissions policyのunloadのサポートなど。\nまた`Expect-CT` HTTPヘッダのサポートの削除など",
+            "content": "Chrome 107 betaリリース。\n`grid-template`でのtransitionのサポート、Screen Capture APIの改善、Resource Timingに`renderBlockingStatus`を追加。\nPermissions policyのorigin指定に`*`を利用可能に、`<form>`要素が`rel`属性のサポートなど。\nOrigin TrialsとしてDeclarative PendingBeacon API、Permissions policyのunloadのサポートなど。\nまた`Expect-CT` HTTPヘッダを非推奨化など",
             "tags": [
                 "Chrome",
                 "ReleaseNote"
