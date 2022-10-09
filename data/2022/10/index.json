@@ -216,6 +216,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-09T10:30:50.402Z",
+            "title": "ESLint v8.25.0 released - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2022/10/eslint-v8.25.0-released/",
+            "content": "ESLint v8.25.0リリース。\n新しい設定ファイルでは、`.eslintignore`ファイルはサポートしなくなり、設定ファイル内の`ignores`フィールドで無視するファイルを指定するようになる変更。",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
