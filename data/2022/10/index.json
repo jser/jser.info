@@ -267,6 +267,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-09T13:09:45.908Z",
+            "title": "Release v7.0.0 · capricorn86/happy-dom",
+            "url": "https://github.com/capricorn86/happy-dom/releases/tag/v7.0.0",
+            "content": "Happy DOM v7.0.0リリース。\n`CSSStyleDeclaration`のサポート改善、`Window.getComputedStyle()`のサポート改善、`CSSStyleSheet`のサポート改善など",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
