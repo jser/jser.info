@@ -227,6 +227,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-09T10:57:41.573Z",
+            "title": "Intl.Segmenter で和文の改行をいい感じにしてみる",
+            "url": "https://zenn.dev/notfounds/articles/58c465d4029dc1",
+            "content": "`Intl.Segmenter`を使った分かち書きを考慮した改行の実装について。\nまた、CSS,JSをエンジンの実装による違いとHydrationでの差異を無視する方法について",
+            "tags": [
+                "ECMAScript",
+                "i18n",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
