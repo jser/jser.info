@@ -292,6 +292,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-10T11:56:39.975Z",
+            "title": "Volar 1.0 \"Nika\" Released! | The Vue Point",
+            "url": "https://blog.vuejs.org/posts/volar-1.0.html",
+            "content": "Volar 1.0リリース。\n`<template lang=\"pug\">`のbuilt-inサポートを終了しプラグイン化。\n`vue-tsc`が`--watch`と`--declaration --emitDeclarationOnly`をサポート。\nコアモジュールをVueなどのフレームワークに依存しなくなるなど",
+            "tags": [
+                "Vue",
+                "VSCode",
+                "Extension",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
