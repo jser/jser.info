@@ -305,6 +305,25 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-11T13:19:18.164Z",
+            "title": "vercel/satori: Enlightened library to convert HTML and CSS to SVG",
+            "url": "https://github.com/vercel/satori",
+            "content": "HTMLとCSSからSVGを生成するライブラリ。\nyoga-layoutを使いCSSのサブセットを実装していて、ブラウザのレンダリングエンジンを使わずにSVGへと変換できる",
+            "tags": [
+                "HTML",
+                "CSS",
+                "SVG",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing OG Image Generation: Fast, dynamic social card images at the Edge – Vercel",
+                    "url": "https://vercel.com/blog/introducing-vercel-og-image-generation-fast-dynamic-social-card-images"
+                }
+            ]
         }
     ]
 }
