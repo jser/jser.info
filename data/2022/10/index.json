@@ -326,19 +326,6 @@
             ]
         },
         {
-            "date": "2022-10-11T13:21:57.707Z",
-            "title": "stepci/stepci: API Testing and Monitoring made simple",
-            "url": "https://github.com/stepci/stepci",
-            "content": "言語に依存しないWeb APIの」テストツール。\nyamlでAPIのテストの定義を書き、テストを実行できる。",
-            "tags": [
-                "JavaScript",
-                "API",
-                "testing",
-                "Tools"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2022-10-11T13:25:06.339Z",
             "title": "fp-ts/core",
             "url": "https://github.com/fp-ts/core",
@@ -347,6 +334,19 @@
                 "functional",
                 "JavaScript",
                 "library"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2022-10-11T13:29:27.139Z",
+            "title": "stepci/stepci: API Testing and Monitoring made simple",
+            "url": "https://github.com/stepci/stepci",
+            "content": "言語に依存しないWeb APIのテストツール。\nyamlでAPIのテストの定義を書き、テストを実行できる。",
+            "tags": [
+                "JavaScript",
+                "API",
+                "testing",
+                "Tools"
             ],
             "relatedLinks": []
         }
