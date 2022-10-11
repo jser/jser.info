@@ -349,6 +349,22 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-11T14:52:48.528Z",
+            "title": "Release v3.0.0 · rollup/rollup",
+            "url": "https://github.com/rollup/rollup/releases/tag/v3.0.0",
+            "content": "Rollup v3.0.0リリース。\n破壊的な変更として、プラグインのAPIの変更、オプションの変更、デフォルトで`import()`を維持するように変更、chunkのアルゴリズムの変更など。\nまた、デフォルトでNode.jsのESMサポートとの相互運用性を改善、import assertionsのサポート、など",
+            "tags": [
+                "rollup",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "rollup.js migration",
+                    "url": "https://rollupjs.org/guide/en/#migration"
+                }
+            ]
         }
     ]
 }
