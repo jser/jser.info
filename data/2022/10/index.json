@@ -365,6 +365,19 @@
                     "url": "https://rollupjs.org/guide/en/#migration"
                 }
             ]
+        },
+        {
+            "date": "2022-10-12T21:57:16.774Z",
+            "title": "Release v6.0.0 · lerna/lerna",
+            "url": "https://github.com/lerna/lerna/releases/tag/v6.0.0",
+            "content": "lerna v6.0.0リリース。\n`lerna run`にNxを使うように、`lerna add-caching`コマンドの追加、`lerna repair`コマンドの追加など",
+            "tags": [
+                "monorepo",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
