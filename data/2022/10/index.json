@@ -380,10 +380,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-10-15T13:23:05.828Z",
+            "date": "2022-10-15T13:23:16.457Z",
             "title": "Release v29.2.0 · facebook/jest",
             "url": "https://github.com/facebook/jest/releases/tag/v29.2.0",
-            "content": "Jest v29.2.0リリース。\nテストの実行順序のランダム化などに関連するSeed値を設定できるように、`readInitialConfig` APIの追加など。",
+            "content": "Jest v29.2.0リリース。\nSeed値を設定できるように、`readInitialConfig` APIの追加など。",
             "tags": [
                 "jest",
                 "testing",
