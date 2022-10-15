@@ -391,6 +391,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-15T13:26:54.234Z",
+            "title": "Releases · puppeteer/puppeteer",
+            "url": "https://github.com/puppeteer/puppeteer/releases/tag/v19.0.0",
+            "content": "Puppeteer v19.0.0リリース。\nダウンロードしたブラウザを`~/.cache/puppeteer`に保存するように変更、`puppeteer.devices`の削除など",
+            "tags": [
+                "puppeteer",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
