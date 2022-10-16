@@ -407,6 +407,22 @@
                     "url": "https://blog.nrwl.io/lerna-reborn-whats-new-in-v6-10aec6e9091c"
                 }
             ]
+        },
+        {
+            "date": "2022-10-16T11:51:24.065Z",
+            "title": "Astro 1.5.0 Release | Astro",
+            "url": "https://astro.build/blog/astro-150/",
+            "content": "Astro 1.5.0リリース。\nAdaptorが`astro preview`をサポートできるように、`@astrojs/node`が`mode: 'standarlone'`をサポート。\nAPIContextに`site`/`generator`/`url`/`clientAddress`/`props`/`redirect`フィールドを追加など",
+            "tags": [
+                "astro",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "[ci] release by fredkbot · Pull Request #5046 · withastro/astro",
+                    "url": "https://github.com/withastro/astro/pull/5046"
+                }
+            ]
         }
     ]
 }
