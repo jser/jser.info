@@ -434,6 +434,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-18T15:55:47.665Z",
+            "title": "marcj/TypeRunner: High-performance TypeScript compiler",
+            "url": "https://github.com/marcj/TypeRunner",
+            "content": "C++で書かれたTypeScriptの型チェッカーのPoC",
+            "tags": [
+                "TypeScript",
+                "C++",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
