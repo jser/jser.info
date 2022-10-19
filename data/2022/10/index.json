@@ -446,6 +446,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-19T02:39:31.908Z",
+            "title": "nachoaldamav/ultra: JavaScript package manager",
+            "url": "https://github.com/nachoaldamav/ultra",
+            "content": "pnpmライクなnpmパッケージマネジャー。\nロックファイルとキャッシュファイルがあるときのインストールパフォーマンスを目的としている。",
+            "tags": [
+                "npm",
+                "pnpm",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
