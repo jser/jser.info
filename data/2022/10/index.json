@@ -530,6 +530,17 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-19T03:16:40.456Z",
+            "title": "Node v18.11.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v18.11.0/",
+            "content": "Node v18.11.0リリース。\n`node --watch`でのファイル変更とプロセスの再起動に対応など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
