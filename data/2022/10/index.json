@@ -460,17 +460,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-10-19T02:41:15.251Z",
-            "title": "Releases · oven-sh/bun",
-            "url": "https://github.com/oven-sh/bun/releases/tag/bun-v0.2.0",
-            "content": "Bub v0.2.0リリース。\n`bun --hot`でのHot Realodingの対応、`Bun.spawn`の追加、ReadableStreamのサポート改善、`package.json`の`imports`フィールドのサポートなど",
-            "tags": [
-                "Bun",
-                "ReleaseNote"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2022-10-19T02:54:21.084Z",
             "title": "Vue2 Vue3 マイグレーション 令和最新 最強 - Google スライド",
             "url": "https://docs.google.com/presentation/d/e/2PACX-1vS1Drke3qV5WoYkpwk06FL3Zr0VZz7s4usDrJlM4AozNmxcfOM1xHCS9sxK1idD6O7v7vAKEy7NMVLv/pub#slide=id.p",
@@ -538,6 +527,17 @@
             "content": "Node v18.11.0リリース。\n`node --watch`でのファイル変更とプロセスの再起動に対応など",
             "tags": [
                 "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2022-10-19T03:23:17.207Z",
+            "title": "Release Bun v0.2.0 · oven-sh/bun",
+            "url": "https://github.com/oven-sh/bun/releases/tag/bun-v0.2.0",
+            "content": "Bub v0.2.0リリース。\n`bun --hot`でのHot Relaodingの対応、`Bun.spawn`の追加、ReadableStreamのサポート改善、`package.json`の`imports`フィールドのサポートなど",
+            "tags": [
+                "Bun",
                 "ReleaseNote"
             ],
             "relatedLinks": []
