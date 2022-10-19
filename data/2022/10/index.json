@@ -458,6 +458,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-19T02:41:15.251Z",
+            "title": "Releases · oven-sh/bun",
+            "url": "https://github.com/oven-sh/bun/releases/tag/bun-v0.2.0",
+            "content": "Bub v0.2.0リリース。\n`bun --hot`でのHot Realodingの対応、`Bun.spawn`の追加、ReadableStreamのサポート改善、`package.json`の`imports`フィールドのサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
