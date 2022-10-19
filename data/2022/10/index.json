@@ -493,6 +493,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-19T03:09:15.856Z",
+            "title": "リリースから5年、Webフロントエンドの経年劣化と向き合う - Speaker Deck",
+            "url": "https://speakerdeck.com/keiya01/ririsukara5nian-webhurontoendonojing-nian-lie-hua-toxiang-kihe-u",
+            "content": "SPA + SSRで作られていたメディア系サイトをMPAへリファクタリングする話。\nreact-router v3とReduxを外しながら、A/Bテストでメトリクスを取りながら移行。\nまた、開発環境の改善についてなど",
+            "tags": [
+                "React",
+                "JavaScript",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
