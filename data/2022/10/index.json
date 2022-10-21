@@ -552,6 +552,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-21T01:03:55.434Z",
+            "title": "Release v9.0.0 · npm/cli",
+            "url": "https://github.com/npm/cli/releases/tag/v9.0.0",
+            "content": "npm v9.0.0リリース。\nNode.js 12のサポート終了、認証方法を扱う`--auth-type`のデフォルトを`\"web\"`に変更。\n`package.json`に`files`フィールドが定義されている場合はルートにある`.gitignore`や`.npmignore`を無視するように変更。\nエラーとクラッシュのログを区別し、`--json`をつけた場合でもクラッシュのログはJSONとして出力しないように変更。\n`npm access`、`npm birthday`、`npm set-script`、`npm bin`コマンドの削除など",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "enhancement: cli should distinguish between stdout and stderr · Issue #4724 · npm/cli",
+                    "url": "https://github.com/npm/cli/issues/4724"
+                }
+            ]
         }
     ]
 }
