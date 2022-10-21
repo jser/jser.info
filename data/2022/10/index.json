@@ -580,6 +580,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-21T14:13:25.083Z",
+            "title": "Node v19.0.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v19.0.0/",
+            "content": "Node.js v19.0.0リリース。\n開発バージョンとなる奇数バージョン。\n`node --watch`の追加、HTTP/1.1で`keepAlive`がデフォルト化、WebCryptoがStableへと変更。\n依存関係をV8 10.7、llhttp 8.1.0、npm 8.19.2へアップデート。\nESM版`--require`フラグである`--import`フラグの追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Node.js 19 is now available! | Node.js",
+                    "url": "https://nodejs.org/en/blog/announcements/v19-release-announce/"
+                }
+            ]
         }
     ]
 }
