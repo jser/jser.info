@@ -568,6 +568,18 @@
                     "url": "https://github.com/npm/cli/issues/4724"
                 }
             ]
+        },
+        {
+            "date": "2022-10-21T14:02:05.583Z",
+            "title": "Release v1.6.0 - Castle in the Sky · solidjs/solid",
+            "url": "https://github.com/solidjs/solid/releases/tag/v1.6.0",
+            "content": "Solid v1.6.0リリース。\nPartial Hydrationのサポート、コンポーネントにPropsとして渡すSpread Syntaxの改善など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
