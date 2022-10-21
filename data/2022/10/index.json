@@ -541,6 +541,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-21T00:53:52.237Z",
+            "title": "Release Notes for Safari Technology Preview 156 | WebKit",
+            "url": "https://webkit.org/blog/13394/release-notes-for-safari-technology-preview-156/",
+            "content": "Safari Technology Preview 156リリース。\n`Intl.DurationFormat`の実装、`Temporal` APIの改善、`import.meta.resolve()`Import Mapsの実装。\n`Clear-Site-Data` HTTPヘッダのサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
