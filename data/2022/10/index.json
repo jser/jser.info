@@ -596,6 +596,18 @@
                     "url": "https://nodejs.org/en/blog/announcements/v19-release-announce/"
                 }
             ]
+        },
+        {
+            "date": "2022-10-22T01:19:19.636Z",
+            "title": "oscartbeaumont/rspc: A blazingly fast and easy to use TRPC-like server for Rust.",
+            "url": "https://github.com/oscartbeaumont/rspc",
+            "content": "RustとTypeScript間のIPCをtRPCライクに型付けありで行えるライブラリ。\nReactやSolid、Tauriに対応したクライアントライブラリも提供している。",
+            "tags": [
+                "Rust",
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
