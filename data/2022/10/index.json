@@ -608,6 +608,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-24T12:58:08.030Z",
+            "title": "Tailwind CSS v3.2: Dynamic breakpoints, multi-config, and container queries, oh my! - Tailwind CSS",
+            "url": "https://tailwindcss.com/blog/tailwindcss-v3-2",
+            "content": "Tailwind CSS 3.2リリース。\n`@config`でのconfigの読み込みをサポート。\n`@supports`相当の`support-[]` variantを追加、WAI-ARIA属性に対応するvariantの追加、Data属性に対応するvariantの追加、`max-*` variantの追加。\nプラグインにmatchVariant APIを追加、Container Queryに対応するプラグインの追加など",
+            "tags": [
+                "CSS",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v3.2.0 · tailwindlabs/tailwindcss",
+                    "url": "https://github.com/tailwindlabs/tailwindcss/releases/tag/v3.2.0"
+                }
+            ]
         }
     ]
 }
