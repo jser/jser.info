@@ -643,6 +643,17 @@
                     "url": "https://www.ietf.org/archive/id/draft-cutler-httpbis-partitioned-cookies-00.html"
                 }
             ]
+        },
+        {
+            "date": "2022-10-24T13:36:14.684Z",
+            "title": "Release v3.0.0 · svg/svgo",
+            "url": "https://github.com/svg/svgo/releases/tag/v3.0.0",
+            "content": "SVGO v3リリース。\nNode 12のサポート終了、設定やプラグインのAPIの変更などが含まれる",
+            "tags": [
+                "SVG",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
