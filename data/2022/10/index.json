@@ -654,6 +654,21 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-24T13:44:51.831Z",
+            "title": "Release 3.26.0 - 2022.10.24 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.26.0",
+            "content": "core-js v3.26.0リリース。\nStage 2のwell-formed unicode stringsの実装、iterator helpers proposalの仕様変更に追従、`self`のpolyfillを追加など",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "proposal",
+                "library",
+                "polyfill",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
