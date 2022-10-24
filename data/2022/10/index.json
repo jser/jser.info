@@ -625,6 +625,24 @@
                     "url": "https://github.com/tailwindlabs/tailwindcss/releases/tag/v3.2.0"
                 }
             ]
+        },
+        {
+            "date": "2022-10-24T13:20:13.054Z",
+            "title": "No spooky cookies - Chrome Developers",
+            "url": "https://developer.chrome.com/en/blog/no-spooky-cookies/",
+            "content": "Partitioned Cookieについて。\n`Partitioned`属性を付与したCookieはトップレベルのサイトごとに分離されて保存、送信されるようになる。\nサードパーティクッキーの段階的な廃止の一部となる仕組み",
+            "tags": [
+                "Chrome",
+                "browser",
+                "privacy",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Cookies Having Independent Partitioned State specification",
+                    "url": "https://www.ietf.org/archive/id/draft-cutler-httpbis-partitioned-cookies-00.html"
+                }
+            ]
         }
     ]
 }
