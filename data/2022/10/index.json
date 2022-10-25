@@ -704,6 +704,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-25T14:07:07.571Z",
+            "title": "Cloudflare Workers and micro-frontends: made for one another",
+            "url": "https://blog.cloudflare.com/better-micro-frontends/",
+            "content": "Cloudflare WorkersとQwikを使ったMicroFrontendのサンプル実装。\n各フラグメントを返すWorkerがあり、メインのWorkerからフラグメントのWorkerにリクエストする形で取得したものを結合してSSRする。\n各フラグメントとなるWorkerは独立してデプロイできるようになっている。",
+            "tags": [
+                "MicroFrontend",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Cloudflare Workersとマイクロフロントエンド",
+                    "url": "https://zenn.dev/laiso/articles/972b9d82030542"
+                }
+            ]
         }
     ]
 }
