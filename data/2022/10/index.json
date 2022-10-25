@@ -680,6 +680,17 @@
                 "issue"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-25T12:54:13.583Z",
+            "title": "WebKit Features in Safari 16.1 | WebKit",
+            "url": "https://webkit.org/blog/13399/webkit-features-in-safari-16-1/",
+            "content": "Safari 16.1の変更点について。\nWeb Pushのサポート、AVIF形式のサポート、PassKeysのサポート、Scroll to Text Fragmentのサポート。\n`getDisplayMedia()`で特定のウィンドウをキャプチャできるようになるなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
