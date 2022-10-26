@@ -744,6 +744,19 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-26T12:50:25.745Z",
+            "title": "Blog - Next.js 13 | Next.js",
+            "url": "https://nextjs.org/blog/next-13",
+            "content": "Next.js 13リリース。\n破壊的な変更としてReact 18へアップデート、Node.js 12のサポート終了、SWC Minifierのデフォルト化、`next/image`の実装を変更、`next/link`の下に`<a>`が不要に。\n試験的な機能として`app/`ディレクトリでのLayouts RFC、Turbopack、`@next/font`でのウェブフォントの対応など",
+            "tags": [
+                "Next.js",
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
