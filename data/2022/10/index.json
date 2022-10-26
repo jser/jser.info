@@ -21,6 +21,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-26T15:29:43.074Z",
+            "title": "vite/CHANGELOG.md at main · vitejs/vite",
+            "url": "https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#320-2022-10-26",
+            "content": "Vite 3.2.0リリース。\nLibrary Modeで複数のエントリーポイントをサポート、`build.modulePreload`オプションの追加、ErrorOverlayのスタイルをカスタマイズできるようになるなど",
+            "tags": [
+                "vite",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
