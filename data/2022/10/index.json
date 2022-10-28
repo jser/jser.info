@@ -43,6 +43,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-28T14:49:37.065Z",
+            "title": "Deno 1.27: Major IDE Improvements",
+            "url": "https://deno.com/blog/v1.27",
+            "content": "Deno v1.27リリース。\nnpmパッケージの`@types`を利用できるように、Node-APIのサポート、Lockファイルのフォーマット変更など。\n`navigator.language` Web APIの実装、V8 10.8へ更新など",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
