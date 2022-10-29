@@ -54,6 +54,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-29T11:01:06.514Z",
+            "title": "Release v7.0.0 · pixijs/pixijs",
+            "url": "https://github.com/pixijs/pixijs/releases/tag/v7.0.0",
+            "content": "PixiJS v7.0.0リリース。\nIEのサポート終了、polyfillの削除、InteractionManagerを削除しEventSystemをデフォルト化、`peerDependencies`を利用しないように変更など\n",
+            "tags": [
+                "JavaScript",
+                "canvas",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "v7 Migration Guide · pixijs/pixijs Wiki",
+                    "url": "https://github.com/pixijs/pixijs/wiki/v7-Migration-Guide"
+                }
+            ]
         }
     ]
 }
