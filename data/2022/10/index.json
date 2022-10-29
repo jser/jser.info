@@ -72,6 +72,19 @@
                     "url": "https://github.com/pixijs/pixijs/wiki/v7-Migration-Guide"
                 }
             ]
+        },
+        {
+            "date": "2022-10-29T19:28:38.386Z",
+            "title": "Release v3.0.279 · mozilla/pdf.js",
+            "url": "https://github.com/mozilla/pdf.js/releases/tag/v3.0.279",
+            "content": "pdf.js v3.0.279リリース。\nメジャーアップデートとなるリリースでEditor modeの追加、DeprecatedとなっているAPIの削除など",
+            "tags": [
+                "PDF",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
