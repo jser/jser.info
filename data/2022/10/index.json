@@ -98,6 +98,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-31T12:29:59.352Z",
+            "title": "Release v1.9.0-rc.0 · reduxjs/redux-toolkit",
+            "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v1.9.0-rc.0",
+            "content": "Redux Toolkit v1.9.0-rc.0リリース。\n`autoBatchEnhancer`の追加、`fetchBaseQuery`でglobal optionを渡せるようになるなど",
+            "tags": [
+                "redux",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
