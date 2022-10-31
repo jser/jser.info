@@ -109,6 +109,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-31T13:04:02.613Z",
+            "title": "dudykr/stc: Speedy TypeScript type checker",
+            "url": "https://github.com/dudykr/stc",
+            "content": "Rustで書かれたTypeScriptの型チェッカー",
+            "tags": [
+                "TypeScript",
+                "Rust"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Open-sourcing the new TypeScript type checker",
+                    "url": "https://kdy1.dev/posts/2022/10/open-sourcing-stc"
+                }
+            ]
         }
     ]
 }
