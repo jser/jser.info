@@ -85,6 +85,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-10-31T00:25:56.353Z",
+            "title": "sqlite3 wasm docs: About the sqlite3 WASM/JS Subproject",
+            "url": "https://sqlite.org/wasm/doc/trunk/about.md",
+            "content": "sqlite3をWebAssemblyとJavaScriptを使ってブラウザで動かすことを目的にした公式にサブプロジェクト。\n",
+            "tags": [
+                "SQLite",
+                "JavaScript",
+                "WebAssembly",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
