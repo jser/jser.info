@@ -1,0 +1,15 @@
+{
+    "list": [
+        {
+            "date": "2022-11-01T21:57:31.546Z",
+            "title": "Announcing TypeScript 4.9 RC - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-rc/",
+            "content": "TypeScript 4.9 RCリリース。\n型キャストはせずに型の一致をチェックできる`satisfies`演算子の追加、`in`演算子での型の絞り込みの改善、`accessor`キーワードのサポート、`== NaN`をコンパイルエラーに変更など。\n`--watch`でのファイル監視のデフォルトを`useFsEvents`に変更、値と型を同じ`exports`フィールドの`typeVersions`の優先度を修正など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
