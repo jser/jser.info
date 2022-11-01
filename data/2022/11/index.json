@@ -10,6 +10,30 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-01T23:57:52.821Z",
+            "title": "Mixing It Up: Remix Joins Shopify to Push the Web Forward — Development (2022)",
+            "url": "https://shopify.engineering/remix-joins-shopify",
+            "content": "ShopifyがRemixを買収し、RemixはShopifyの下で開発を継続する。\nShopifyのHydrogenにもRemixのdata loadingパターンを組み込むなどの変更をしていく予定。\nまた、同時にVanilla ExtractのCreatorであるMark DalgleishもRemixに参加する予定となっている。",
+            "tags": [
+                "Remix",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Remixing Shopify | Remix",
+                    "url": "https://remix.run/blog/remixing-shopify"
+                },
+                {
+                    "title": "Roadmap • Hydrogen: Shopify’s headless commerce framework",
+                    "url": "https://hydrogen.shopify.dev/roadmap/"
+                },
+                {
+                    "title": "🧁 Mark Dalgleish on Twitter: &quot;I'm super excited to announce that next week I'm joining the @remix_run team at @Shopify.&quot; / Twitter",
+                    "url": "https://twitter.com/markdalgleish/status/1587519372771217409"
+                }
+            ]
         }
     ]
 }
