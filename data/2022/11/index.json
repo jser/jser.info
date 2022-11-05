@@ -46,6 +46,23 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-05T10:35:37.253Z",
+            "title": "React Router-ing Remix | Remix",
+            "url": "https://remix.run/blog/react-routering-remix",
+            "content": "React RouterにRemixのData APIを移動した話。\n破壊的な変更なしにどのように処理を移動しているかについて。Feature Flagを使いビルド時に処理を削って互換性を担保しつつ、新しい機能を試せるようにしていることについてなど。",
+            "tags": [
+                "React",
+                "Remix",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "React Router 6.4 Release | Remix",
+                    "url": "https://remix.run/blog/react-router-v6.4"
+                }
+            ]
         }
     ]
 }
