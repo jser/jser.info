@@ -169,6 +169,19 @@
                     "url": "https://github.com/ember-cli/ember-cli/releases/tag/v4.9.0-beta.0"
                 }
             ]
+        },
+        {
+            "date": "2022-11-08T14:28:51.720Z",
+            "title": "Announcing Rome v10 — first stable release of our fast linter and formatter for JavaScript and TypeScript",
+            "url": "https://rome.tools/blog/2022/11/08/rome-10.html",
+            "content": "Rome v10リリース。\nRustに書き換えてからの初のStableリリース。\nPrettierライクなFormatterとESLintライクなルールを含むLinterが利用できる",
+            "tags": [
+                "JavaScript",
+                "Rust",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
