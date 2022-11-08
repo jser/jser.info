@@ -123,6 +123,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-08T13:53:57.380Z",
+            "title": "個人ブログの Next.js v13 移行でやったことまとめ",
+            "url": "https://zenn.dev/panda_program/scraps/6c66f160636969",
+            "content": "Next.js 13にアップデートについての記事。\n`pages/`から`app/`への移行をした場合のコンポーネントの変更、外部ツールの対応などについて",
+            "tags": [
+                "Next.js",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
