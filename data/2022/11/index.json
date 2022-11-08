@@ -111,6 +111,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-08T13:20:12.830Z",
+            "title": "Release Notes for Safari Technology Preview 157 | WebKit",
+            "url": "https://webkit.org/blog/13575/release-notes-for-safari-technology-preview-157/",
+            "content": "Safari Technology Preview 157リリース。\nCSSの`@font-feature-settings`のサポート、ES2022のclass static initialization blocksのサポート、WebCodecs APIのサポート改善。\n`Sec-Fetch-Site` HTTPヘッダのサポート、Aレコードを使ったthird-party CNAME Cloakingに対するCookieの7日間制限を実装など。",
+            "tags": [
+                "safari",
+                "webkit",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
