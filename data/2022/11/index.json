@@ -135,6 +135,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-08T13:59:53.827Z",
+            "title": "Release v21.0.0 · hapijs/hapi",
+            "url": "https://github.com/hapijs/hapi/releases/tag/v21.0.0",
+            "content": "hapi 21.0.0リリース。\nNode.js 12のサポート終了、JSONPのサポート終了し、Node.js 18のサポートの追加など。\nまたhapiのプラグインなどはhapi v20+以上のみをサポートするようになる変更も含まれている",
+            "tags": [
+                "node.js",
+                "server",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "21.0.0 Release Notes · Issue #4386 · hapijs/hapi",
+                    "url": "https://github.com/hapijs/hapi/issues/4386"
+                }
+            ]
         }
     ]
 }
