@@ -153,6 +153,22 @@
                     "url": "https://github.com/hapijs/hapi/issues/4386"
                 }
             ]
+        },
+        {
+            "date": "2022-11-08T14:20:11.044Z",
+            "title": "Deprecate array prototype extensions",
+            "url": "https://rfcs.emberjs.com/id/0848-deprecate-array-prototype-extensions/",
+            "content": "Ember.jsでの配列のprototype拡張をしないようにするProposal。\nEmber.js 4.9.0ではprototype拡張をデフォルトで無効とする変更を入れる予定となっている",
+            "tags": [
+                "Ember",
+                "proposal"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release Release 4.9.0-beta.0 · ember-cli/ember-cli",
+                    "url": "https://github.com/ember-cli/ember-cli/releases/tag/v4.9.0-beta.0"
+                }
+            ]
         }
     ]
 }
