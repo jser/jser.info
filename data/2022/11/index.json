@@ -182,6 +182,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-09T02:44:09.529Z",
+            "title": "Changelog | Cypress Documentation",
+            "url": "https://docs.cypress.io/guides/references/changelog#11-0-0",
+            "content": "Cypress 11.0.0リリース。\nコンポーネントテストのStable化、V8スナップショットを使った起動パフォーマンスの改善、`cy.*Cookie()` APIでドメインを指定できるように。\n破壊的な変更として、コンポーネントのテストに関連するAPIや設定の変更など",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "testing",
+                "E2E",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
