@@ -196,6 +196,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-09T03:07:39.423Z",
+            "title": "Nov 3 2022 Security Releases | Node.js",
+            "url": "https://nodejs.org/en/blog/vulnerability/november-2022-security-releases/",
+            "content": "Node.jsのセキュリティアップデートとしてそれぞれのバージョンが更新された\n\n- Node.js v14.21.1 (LTS)\n- Node.js v16.18.1 (LTS)\n- Node.js v18.12.1 (LTS)\n- Node.js v19.0.1 (Current)\n",
+            "tags": [
+                "node.js",
+                "seuc",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
