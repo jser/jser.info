@@ -227,6 +227,18 @@
                     "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.8.0"
                 }
             ]
+        },
+        {
+            "date": "2022-11-11T15:48:04.379Z",
+            "title": "Node.js Security Best Practices | Node.js",
+            "url": "https://nodejs.org/en/docs/guides/security/",
+            "content": "Node.jsのセキュリティベストプラクティス。\nDoS攻撃対策、`--inspect`を本番で利用しない、パッケージの公開、タイミング攻撃、サードパーティモジュールとpolicy-integrity、npm経由のサプライチェーン攻撃についてなど",
+            "tags": [
+                "node.js",
+                "security",
+                "document"
+            ],
+            "relatedLinks": []
         }
     ]
 }
