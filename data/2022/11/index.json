@@ -208,6 +208,25 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-11T15:43:42.607Z",
+            "title": "Parcel v2.8.0",
+            "url": "https://parceljs.org/blog/v2-8-0/",
+            "content": "Parcel 2.8.0リリース。\n大規模なアプリケーションでのビルド時間とバンドルサイズの削減、HMRのincrementl buildのパフォーマンス改善、Tree Shakingの改善によるバンドルサイズの削減など",
+            "tags": [
+                "parcel",
+                "bundler",
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v2.8.0 · parcel-bundler/parcel",
+                    "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.8.0"
+                }
+            ]
         }
     ]
 }
