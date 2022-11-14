@@ -239,6 +239,19 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-14T11:46:14.479Z",
+            "title": "Release v98 · ije/esm.sh",
+            "url": "https://github.com/ije/esm.sh/releases/tag/v98",
+            "content": "ES Module CDNの esm.sh がTree Shakingをサポート",
+            "tags": [
+                "ECMAScript",
+                "module",
+                "cdn",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
