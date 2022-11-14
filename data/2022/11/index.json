@@ -252,6 +252,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-14T11:57:10.723Z",
+            "title": "Client-side prototype pollution | Web Security Academy",
+            "url": "https://portswigger.net/web-security/prototype-pollution",
+            "content": "Prototype PollutionというJavaScriptにおける脆弱性について。\nPrototype Pollutionの見つけ方、Prototype Pollutionを使った攻撃や対策について",
+            "tags": [
+                "browser",
+                "security",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
