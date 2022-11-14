@@ -264,6 +264,17 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-14T14:50:24.594Z",
+            "title": "Deno 1.28: Featuring 1.3 Million New Modules",
+            "url": "https://deno.com/blog/v1.28",
+            "content": "Deno v1.28リリース。\nnpmパッケージのインストールと実行ができる`npm:`をStableに変更、ロックファイルの自動検出に対応。\nまた、unstable APIとして`Deno.Command`を追加、V8 10.9へのアップデートなど",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
