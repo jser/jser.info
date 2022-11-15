@@ -286,6 +286,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-15T15:38:00.624Z",
+            "title": "Gatsby 5: The Fastest Gatsby Yet | Gatsby",
+            "url": "https://www.gatsbyjs.com/blog/gatsby-5/",
+            "content": "Gatsby 5リリース。\nSlice APIの追加、React Server Componentsを使ったPartial Hydrationの対応、Script Componentのサポートなど",
+            "tags": [
+                "React",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migrating from v4 to v5 | Gatsby",
+                    "url": "https://www.gatsbyjs.com/docs/reference/release-notes/migrating-from-v4-to-v5/"
+                }
+            ]
         }
     ]
 }
