@@ -275,6 +275,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-15T13:37:05.603Z",
+            "title": "Node v19.1.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v19.1.0/",
+            "content": "Node.js v19.1.0リリース。\n`node:test`が`mock`オブジェクトをサポート、`fs.watch`に`recursive`オプションを追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
