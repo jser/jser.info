@@ -303,6 +303,17 @@
                     "url": "https://www.gatsbyjs.com/docs/reference/release-notes/migrating-from-v4-to-v5/"
                 }
             ]
+        },
+        {
+            "date": "2022-11-16T01:42:20.268Z",
+            "title": "The evolution of scalable CSS",
+            "url": "https://frontendmastery.com/posts/the-evolution-of-scalable-css/",
+            "content": "大規模プロジェクトでもスケールするCSSのプラクティスの変遷についての記事。\n大規模のCSSの管理が難しい問題として名前空間が、名前をつけるのが難しい、リファクタリングやデバッグが難しい問題について。\nこれに対するアーキテクチャとしてOOCS、SMACSS、BEM、CSS-in-JS、Atomic CSS、Tailwindなどが解決している問題について。\n",
+            "tags": [
+                "CSS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
