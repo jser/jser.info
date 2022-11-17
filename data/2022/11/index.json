@@ -345,6 +345,17 @@
                     "url": "https://nuxt.com/docs/getting-started/upgrade"
                 }
             ]
+        },
+        {
+            "date": "2022-11-17T01:04:56.142Z",
+            "title": "Announcing TypeScript 4.9 - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-9/",
+            "content": "TypeScript 4.9リリース。\n型キャストはせずに型の一致をチェックできる`satisfies`演算子の追加、`in`演算子での型の絞り込みの改善、`accessor`キーワードのサポート、`== NaN`をコンパイルエラーに変更など。\n`--watch`でのファイル監視のデフォルトを`useFsEvents`に変更、値と型を同じ`exports`フィールドの`typeVersions`の優先度を修正など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
