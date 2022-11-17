@@ -372,6 +372,20 @@
                     "url": "https://github.com/angular/angular/releases/tag/15.0.0"
                 }
             ]
+        },
+        {
+            "date": "2022-11-17T01:54:47.725Z",
+            "title": "LernaとGithub Actionsでmonorepoライブラリのリリースを楽にする - Link and Motivation Developers' Blog",
+            "url": "https://link-and-motivation.hatenablog.com/entry/2022/11/16/190305",
+            "content": "lernaを使ってmonorepoでライブラリをpublishする方法について",
+            "tags": [
+                "JavaScript",
+                "Github",
+                "Actions",
+                "library",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
