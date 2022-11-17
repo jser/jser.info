@@ -314,6 +314,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-17T00:44:43.502Z",
+            "title": "Release v11.1.0 · cypress-io/cypress",
+            "url": "https://github.com/cypress-io/cypress/releases/tag/v11.1.0",
+            "content": "Cypress v11.1.0リリース。\nNext.js v13のサポート、Vue2の`mount()`で`extensions.directives`をサポートなど",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
