@@ -356,6 +356,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-17T01:47:27.024Z",
+            "title": "Angular v15 is now available!. Over the past year we removed Angular’s… | by Minko Gechev | Nov, 2022 | Angular Blog",
+            "url": "https://blog.angular.io/angular-v15-is-now-available-df7be7f2f4c8",
+            "content": "Angular 15リリース。\nStandalone APIをStable化、Node.js 12のサポート終了など",
+            "tags": [
+                "Angular",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v15.0.0 · angular/angular",
+                    "url": "https://github.com/angular/angular/releases/tag/15.0.0"
+                }
+            ]
         }
     ]
 }
