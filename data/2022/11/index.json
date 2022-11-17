@@ -328,6 +328,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-17T01:03:32.686Z",
+            "title": "Announcing 3.0 • Nuxt",
+            "url": "https://nuxt.com/v3",
+            "content": "Nuxt 3リリース。\nVue 3、TypeScript、Viteのサポート、webpack 5のサポート、サーバーエンジンのNitroとポータブルな出力の対応など。\nまたIEのサポートを終了、Node.js 12のサポートを終了など",
+            "tags": [
+                "Vue",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Upgrade Guide • Nuxt",
+                    "url": "https://nuxt.com/docs/getting-started/upgrade"
+                }
+            ]
         }
     ]
 }
