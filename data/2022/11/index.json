@@ -386,6 +386,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-17T01:58:20.146Z",
+            "title": "Release Notes for Safari Technology Preview 158 | WebKit",
+            "url": "https://webkit.org/blog/13584/release-notes-for-safari-technology-preview-158/",
+            "content": "Safari Technology Preview 158リリース。\nCSSの`font-size-adjust`プロパティの実装、フラグ付きで`contain-intrinsic-size`プロパティの実装、WebCodecsをデフォルトで有効化など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
