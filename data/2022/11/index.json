@@ -415,6 +415,18 @@
                     "url": "https://blog.maximeheckel.com/posts/the-study-of-shaders-with-react-three-fiber/"
                 }
             ]
+        },
+        {
+            "date": "2022-11-20T15:49:23.246Z",
+            "title": "ECMAScript proposal: RegExp flag `/v` makes character classes and character class escapes more powerful",
+            "url": "https://2ality.com/2022/11/regexp-v-flag.html",
+            "content": "ECMAScript Proposal Stage 3のRegExpの`v`フラグについての解説。\n文字クラスとUnicode Property Escape、文字クラスの集合操作、case-insensitiveマッチの改善について",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
