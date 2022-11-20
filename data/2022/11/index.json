@@ -464,6 +464,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-20T16:06:12.400Z",
+            "title": "Automate an isolated browser instance with just a few lines of code",
+            "url": "https://blog.cloudflare.com/introducing-workers-browser-rendering-api/",
+            "content": "Cloudflare WorkersからPuppeteerが利用できるRendering APIを導入予定という話。\ngVisorで管理されたBrowser Renderingを行うサンドボックス内でレンダリングを行いその結果を取得できる",
+            "tags": [
+                "cloudflare",
+                "puppeteer",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
