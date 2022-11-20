@@ -476,6 +476,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-20T16:11:00.503Z",
+            "title": "Release v1.28 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.28.0",
+            "content": "playwright v1.28.0リリース。\nVSCodeからテストコードの生成を補助するPlaywright Toolsの追加、`test.describe.configure` APIの追加など",
+            "tags": [
+                "playwright",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
