@@ -427,6 +427,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-20T15:59:13.434Z",
+            "title": "コードジャンプ可能な CSS Modules を実現する happy-css-modules の紹介 - mizdra's blog",
+            "url": "https://www.mizdra.net/entry/2022/11/14/102506",
+            "content": "Typed CSS Modulesとコードジャンプの問題について。\nTypeScriptのDeclaration Mapを使い、型定義ファイルではなくソースコードであるCSSそのものへジャンプする実装について",
+            "tags": [
+                "CSS",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
