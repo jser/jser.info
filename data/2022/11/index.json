@@ -524,6 +524,24 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-21T13:25:29.790Z",
+            "title": "Permissions-Policy Research - Google ドキュメント",
+            "url": "https://docs.google.com/document/d/14xHANU3n43PfJR_dCpEwVCiVYv12BAfGqOICNvd79R4/edit#",
+            "content": "Feature-PolicyとPermissions-Policyの対応や標準化についての調査ドキュメント。\nMDNのドキュメントのために調査されている。",
+            "tags": [
+                "browser",
+                "Chrome",
+                "spec",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Intent to document: Permissions-Policy · Issue #22347 · mdn/content",
+                    "url": "https://github.com/mdn/content/issues/22347"
+                }
+            ]
         }
     ]
 }
