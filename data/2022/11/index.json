@@ -542,6 +542,18 @@
                     "url": "https://github.com/mdn/content/issues/22347"
                 }
             ]
+        },
+        {
+            "date": "2022-11-21T14:00:05.428Z",
+            "title": "Expiration Cap Removed From JavaScript Cookies In WebKit Browsers | Simo Ahava's blog",
+            "url": "https://www.simoahava.com/privacy/first-party-cookies-webkit-revisited/",
+            "content": "SafariのCookieの有効期限について。\nブラウザを利用した日で7日間未使用の場合の削除、ITPでのトラッキング分類された場合に24時間で削除、CNAME Cloakingでの7日間制限などについて",
+            "tags": [
+                "browser",
+                "safari",
+                "privacy"
+            ],
+            "relatedLinks": []
         }
     ]
 }
