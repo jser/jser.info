@@ -583,6 +583,22 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-23T00:30:58.831Z",
+            "title": "1Password/typeshare: Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.",
+            "url": "https://github.com/1Password/typeshare",
+            "content": "アノテーションしたRustのコードからTypeScript/Swift/Kotlinの型定義を生成できるツール",
+            "tags": [
+                "Rust",
+                "TypeScript",
+                "kotlin",
+                "swift",
+                "golang",
+                "library",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
