@@ -599,6 +599,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-23T06:33:37.093Z",
+            "title": "Prettier 2.8: improve --cache CLI option and TypeScript 4.9 satisfies operator! · Prettier",
+            "url": "https://prettier.io/blog/2022/11/23/2.8.0.html",
+            "content": "Prettier 2.8リリース。\nTypeScript 4.9 `satisfies` operatorのサポート、`--cache-location`オプションの追加など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
