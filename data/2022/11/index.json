@@ -611,6 +611,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-11-28T13:22:52.740Z",
+            "title": "es-meta/esmeta: ECMAScript Specification (ECMA-262) Metalanguage",
+            "url": "https://github.com/es-meta/esmeta",
+            "content": "ECMAScript仕様書のメタ言語ツール。\nECMAScriptの言語/仕様書のパーサとインタープリタを実装したメタツール。\n仕様書のアルゴリズムをステップ実行したり、デバッガーでBreak Pointを貼ったり、仕様書における内部状態を可視化できる。",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
