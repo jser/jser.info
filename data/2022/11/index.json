@@ -641,13 +641,14 @@
             ]
         },
         {
-            "date": "2022-11-28T14:07:12.301Z",
+            "date": "2022-11-28T14:07:19.863Z",
             "title": "Wasmはなぜセキュアなのか？",
             "url": "https://zenn.dev/0kate/articles/83e48c177ff709",
             "content": "Wamerの実装を読みながら、WebAssemblyのセキュリティ機能がどのように実現されているについて",
             "tags": [
                 "WebAssembly",
-                "article"
+                "article",
+                "security"
             ],
             "relatedLinks": []
         }
