@@ -56,6 +56,18 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-06T01:05:05.920Z",
+            "title": "Sass製SVG爆速表示ライブラリのご紹介 - dwango on GitHub",
+            "url": "https://dwango.github.io/articles/2022-12_nicolive_svg/",
+            "content": "CSSを使ってSVGを切り替える方法とそれを実装したライブラリについて。\nCSSの`mask-image`を使った方法と`animationstart`で切り替える方法についての比較",
+            "tags": [
+                "CSS",
+                "SVG",
+                "Cargo"
+            ],
+            "relatedLinks": []
         }
     ]
 }
