@@ -68,6 +68,18 @@
                 "Cargo"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-06T01:28:21.420Z",
+            "title": "Image Formats for the Web | DebugBear",
+            "url": "https://www.debugbear.com/blog/image-formats",
+            "content": "ウェブ向けの画像フォーマットとどれを使うべきかについて。\nGIF/PNG/JPG/WebP/AVIF/SVGそれぞれの特性と推奨事項。また、AVIFは非可逆圧縮と可逆圧縮どちらもサポートしているが、可逆圧縮の結果はあまり良くない点についてなど",
+            "tags": [
+                "Image",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
