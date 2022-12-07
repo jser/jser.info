@@ -126,6 +126,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-07T04:03:26.704Z",
+            "title": "Prerender pages in Chrome for instant page navigations - Chrome Developers",
+            "url": "https://developer.chrome.com/en/blog/prerender-pages/",
+            "content": "Chromeの新しいprerenderについて。\nアドレスバーでURLを入力する場合も信頼度に基づいてPrerenderを投機的に行う。\nまたSpeculation Rules APIでのprerenderのルール定義、prerenderをサーバ側で無効化する方法、prerenderされたかを判定する方法についてなど",
+            "tags": [
+                "Chrome",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
