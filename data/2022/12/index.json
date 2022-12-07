@@ -115,6 +115,17 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-07T03:52:50.601Z",
+            "title": "New in Chrome 108 - Chrome Developers",
+            "url": "https://developer.chrome.com/blog/new-in-chrome-108/",
+            "content": "Chrome 108の変更点について。\nviewportのunitとして`dvh`/`lvh`/`svh`を追加、Variable fontsのCOLRv1をサポート。\nFileSystemSyncAccessHandleのAPIを同期メソッドに変更、Permissions PolicyのOrigin指定に`*`(wildcard)を利用できるようになるなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
