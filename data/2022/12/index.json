@@ -104,6 +104,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-07T03:30:26.589Z",
+            "title": "An introduction to the LibJS JavaScript engine - Google スライド",
+            "url": "https://docs.google.com/presentation/d/1-chE3GTNFnNRwZqk4Bf3GCPV_nINfKG-NUTM4IeEnVc/edit#slide=id.p",
+            "content": "SerenityOS向けにスクラッチでJavaScriptエンジンを書いたというスライド。\nECMA-262の仕様を満たすJITなしのAST/Bytecodeインタープリタをどのように実装していったかについて",
+            "tags": [
+                "JavaScript",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
