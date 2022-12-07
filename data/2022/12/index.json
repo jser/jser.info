@@ -138,6 +138,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-07T04:49:05.982Z",
+            "title": "Speeding up the JavaScript ecosystem - one library at a time",
+            "url": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem/",
+            "content": "不必要な型変換や関数内に関数を作らないことで多くのライブラリはパフォーマンスが改善するという話。\n実際のPostCSSプラグインやSVGOなどのコードを例に、どのような場所がパフォーマンスに影響していたかについて",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
