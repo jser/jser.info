@@ -252,6 +252,23 @@
                 "program"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-10T15:41:59.570Z",
+            "title": "Announcing SWR 2.0 – SWR",
+            "url": "https://swr.vercel.app/blog/swr-v2",
+            "content": "SWR 2.0リリース。\n破壊的な変更として、Fetcherの引数の変更、キャッシュの内部構造の変更、ビルドターゲットをES2018に変更。\n`useSWRMutation`の追加、Optimistic UIに関するオプションを追加、SWR DevToolsに対応。\n`preload` APIの追加、状態として`isLoading`を追加、`keepPreviousData`オプションの追加、React 18の対応改善など",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "SWR 2.0 の発表 – SWR",
+                    "url": "https://swr.vercel.app/ja/blog/swr-v2"
+                }
+            ]
         }
     ]
 }
