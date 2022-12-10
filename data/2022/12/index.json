@@ -239,6 +239,19 @@
                 "software"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-10T15:36:10.533Z",
+            "title": "DanielXMoore/Civet: The CoffeeScript of TypeScript",
+            "url": "https://github.com/DanielXMoore/Civet",
+            "content": "CoffeeScriptからTypeScriptへコンパイルできるCoffeeScriptコンパイラ。\nCoffeeScript2と互換性のある構文とES2015以降のサポート、TypeScriptの型アノテーションのサポートを目的に作られている。",
+            "tags": [
+                "CoffeeScript",
+                "TypeScript",
+                "Tools",
+                "program"
+            ],
+            "relatedLinks": []
         }
     ]
 }
