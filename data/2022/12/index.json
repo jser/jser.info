@@ -174,6 +174,22 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-10T13:43:47.195Z",
+            "title": "Bun v0.3.0",
+            "url": "https://bun.sh/blog/bun-v0.3.0",
+            "content": "Bun 0.3.0リリース。\n高負荷時メモリ消費量の改善、GCでのクラッシュを修正など安定性の向上。\nNode.js互換性として、`child_process`モジュール、`Error.captureStackTrace()` APIなどの追加。\n`console`をAsyncIterableに変更、`import`してるモジュールを自動的にnpmからインストールするように。\nNext.jsライクなルーティングをファイルシステムに対して行う`FileSystemRouter` APIの追加、`expect()`のmatchersの追加など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release Bun v0.3.0 · oven-sh/bun",
+                    "url": "https://github.com/oven-sh/bun/releases/tag/bun-v0.3.0"
+                }
+            ]
         }
     ]
 }
