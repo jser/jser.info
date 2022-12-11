@@ -316,6 +316,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-11T11:01:21.693Z",
+            "title": "Interaction to Next Paint (INP)",
+            "url": "https://web.dev/inp/",
+            "content": "Interaction to Next Paint(INP)という操作してからの応答時間を測るパフォーマンスのメトリクスについて。\nINPが200msより大きいなら改善が必要、インタラクションにはどのようなものがあるかやFirst Input Delay(FID)との違いについて。\nまた、ブラウザでの計測方法やラボデータについて",
+            "tags": [
+                "Chrome",
+                "browser",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
