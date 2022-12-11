@@ -281,6 +281,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-11T06:30:40.790Z",
+            "title": "Announcing Rome v11",
+            "url": "https://rome.tools/blog/2022/12/06/rome11/",
+            "content": "Rome v11リリース。\nTypeScript 4.9のサポート、`semicolons`オプションの追加、Lintルールの追加とLintのグループを追加など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
