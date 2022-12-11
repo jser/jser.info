@@ -329,6 +329,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-11T11:26:52.420Z",
+            "title": "Building data-centric apps with a reactive relational database",
+            "url": "https://riffle.systems/essays/prelude/",
+            "content": "UIの状態をブラウザ上のDB(SQLite)に全て持たせることで、アプリ開発を簡素化する研究。\nSQLiteをデータベースではなく、データストアとして利用する",
+            "tags": [
+                "JavaScript",
+                "SQLite",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
