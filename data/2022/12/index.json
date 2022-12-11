@@ -304,6 +304,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-11T10:38:24.590Z",
+            "title": "Release v0.16.0 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.16.0",
+            "content": "esbuild v0.16.0リリース。\n破壊的な変更として`esbuild-<arch>`のパッケージを`@esbuild/<arch>`へと変更、`define`パラメータのバリデーションを追加。\nSVGのようにファイルをbase64する必要がない場合はしないように変更、`</script>`を自動エスケープするように変更、`--legal-comments`のデフォルトを`none`に変更など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
