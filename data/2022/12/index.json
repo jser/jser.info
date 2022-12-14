@@ -358,6 +358,17 @@
                     "url": "https://indieweb.social/@anniesullie/109479127815952360"
                 }
             ]
+        },
+        {
+            "date": "2022-12-14T04:19:09.429Z",
+            "title": "jQuery 3.6.2 Released! | Official jQuery Blog",
+            "url": "https://blog.jquery.com/2022/12/13/jquery-3-6-2-released/",
+            "content": "jQuery 3.6.2リリース。\nCSS Variablesのバグ修正、`<template>`に対する`.contains()`の修正。\nCSSセレクタの`:has()`の仕様の問題でjQuery 1.3以降に影響があったが、仕様とChromeが修正された。",
+            "tags": [
+                "jQuery",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
