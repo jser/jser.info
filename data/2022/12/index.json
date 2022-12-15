@@ -380,6 +380,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-15T00:33:23.774Z",
+            "title": "Announcing SvelteKit 1.0",
+            "url": "https://svelte.dev/blog/announcing-sveltekit-1.0",
+            "content": "SvelteKit 1.0リリース。\n",
+            "tags": [
+                "Svelte",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migration guide · Discussion #5774 · sveltejs/kit",
+                    "url": "https://github.com/sveltejs/kit/discussions/5774"
+                }
+            ]
         }
     ]
 }
