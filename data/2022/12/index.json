@@ -396,6 +396,18 @@
                     "url": "https://github.com/sveltejs/kit/discussions/5774"
                 }
             ]
+        },
+        {
+            "date": "2022-12-16T14:11:32.440Z",
+            "title": "Find the most expensive CSS selectors",
+            "url": "https://devtoolstips.org/tips/en/find-expensive-selectors/",
+            "content": "MSEdgeのDevToolsで、CSSセレクタの処理時間やマッチ回数を見る方法について",
+            "tags": [
+                "CSS",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
