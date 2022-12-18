@@ -450,6 +450,19 @@
                     "url": "https://chromatic-ui.notion.site/Storybook-7-migration-guide-dbf41fa347304eb2a5e9c69b34503937"
                 }
             ]
+        },
+        {
+            "date": "2022-12-18T15:21:11.218Z",
+            "title": "Web Performance Calendar » Web Performance APIs Appreciation Post",
+            "url": "https://calendar.perfplanet.com/2022/web-performance-apis-appreciation-post/",
+            "content": "新しめのウェブパフォーマンスAPIについての紹介記事。\nRender blocking status、Offscreen Canvas、OfflineAudioContext。\nAsync Image Decoding、`Image.decode()`、`loading=lazy`、`fetchpriority`、103 Early Hintsなどについて",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
