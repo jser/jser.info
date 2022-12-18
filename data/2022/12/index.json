@@ -432,6 +432,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-18T15:03:40.606Z",
+            "title": "Storybook 7.0 beta",
+            "url": "https://storybook.js.org/blog/7-0-beta/",
+            "content": "Storybook 7.0 betaリリース。\nwebpack4、IE11、Node.js 14のサポート終了、`storiesOf` APIをデフォルトで無効化など。\nCSF3のデフォルト化、Viteのサポート、Test runnerとCode Coverageのサポートなど",
+            "tags": [
+                "JavaScript",
+                "debug",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Storybook 7 migration guide",
+                    "url": "https://chromatic-ui.notion.site/Storybook-7-migration-guide-dbf41fa347304eb2a5e9c69b34503937"
+                }
+            ]
         }
     ]
 }
