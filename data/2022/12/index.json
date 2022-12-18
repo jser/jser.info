@@ -463,6 +463,28 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-18T15:37:31.677Z",
+            "title": "RUM Archive - Homepage",
+            "url": "https://rumarchive.com/",
+            "content": "Akamai mPulseの匿名化RUMデータセットのアーカイブを公開しているサイト。\n匿名化されたブラウザ情報やWeb Vitalsなどのウェブパフォーマンスに関するRUMデータをBigQueryに公開している。\n大規模なRUMデータセットをBigQueryで分析できる。",
+            "tags": [
+                "browser",
+                "performance",
+                "cdn",
+                "webservice"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Web Performance Calendar » An Introduction to the RUM Archive",
+                    "url": "https://calendar.perfplanet.com/2022/an-introduction-to-the-rum-archive/"
+                },
+                {
+                    "title": "rum-archive/rum-archive: RUM Archive",
+                    "url": "https://github.com/rum-archive/rum-archive"
+                }
+            ]
         }
     ]
 }
