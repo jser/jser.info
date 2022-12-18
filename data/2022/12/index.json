@@ -408,6 +408,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-18T14:23:57.008Z",
+            "title": "bluwy/publint: Lint packaging errors",
+            "url": "https://github.com/bluwy/publint",
+            "content": "npmパッケージのLintツール。\n`package.json`における`main`や`exports`フィールドがさまざまな環境で互換性のある書き方になっているかをチェックできるツール",
+            "tags": [
+                "node.js",
+                "Tools",
+                "npm"
+            ],
+            "relatedLinks": []
         }
     ]
 }
