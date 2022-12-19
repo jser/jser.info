@@ -485,6 +485,17 @@
                     "url": "https://github.com/rum-archive/rum-archive"
                 }
             ]
+        },
+        {
+            "date": "2022-12-19T12:45:52.704Z",
+            "title": "Release v1.29.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.29.0",
+            "content": "playwright v1.29.0リリース。\n`route.fetch()`の追加、`locator.all()`の追加、`expect().toPass`の追加。\nテスト失敗時にページ全体のスクリーンショットを撮る`fullPage`オプションの追加など",
+            "tags": [
+                "playwright",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
