@@ -496,6 +496,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-19T13:48:30.641Z",
+            "title": "Node v19.3.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v19.3.0/",
+            "content": "Node.js v19.3.0リリース。\nNode.jsでのnpmのアップデートにおける\"Major Update\"を定義し、npm 9.2.0にアップデート。\n",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Integrating with node · npm/cli Wiki",
+                    "url": "https://github.com/npm/cli/wiki/Integrating-with-node"
+                }
+            ]
         }
     ]
 }
