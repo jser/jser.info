@@ -524,6 +524,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-20T02:54:08.977Z",
+            "title": "Prisma Client Just Became a Lot More Flexible",
+            "url": "https://www.prisma.io/blog/client-extensions-preview-8t3w27xkrxxn",
+            "content": "PrismaにPrisma Client extensionsという拡張の仕組みがプレビュー実装された。\n`PrismaClient`に対して、メソッドの追加、フィルター処理の追加、クエリに対する処理の追加などができる拡張の仕組み",
+            "tags": [
+                "TypeScript",
+                "database",
+                "library",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
