@@ -512,6 +512,18 @@
                     "url": "https://github.com/npm/cli/wiki/Integrating-with-node"
                 }
             ]
+        },
+        {
+            "date": "2022-12-20T02:39:46.996Z",
+            "title": "Release v0.16.10 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.16.10",
+            "content": "esbuild v0.16.10リリース。\n`--legal-comments`のデフォルト値を元に戻し、ライセンスとそのライセンスコメントの起源となるファイル名をコメントに含めるように変更。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
