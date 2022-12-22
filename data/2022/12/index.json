@@ -537,6 +537,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-22T12:57:17.491Z",
+            "title": "TypeScript 4.9のas const satisfiesが便利。型チェックとwidening防止を同時に行う",
+            "url": "https://zenn.dev/moneyforward/articles/typescript-as-const-satisfies",
+            "content": "wideningを避ける`as const`と型推論の結果を保つ`satisfiers`演算子を組み合わせた、`as const satisfies`について",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
