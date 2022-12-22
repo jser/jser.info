@@ -573,10 +573,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-12-22T22:55:57.504Z",
+            "date": "2022-12-22T22:58:09.941Z",
             "title": "Blog - Next.js 13.1 | Next.js",
             "url": "https://nextjs.org/blog/next-13-1",
-            "content": "Next.js 13.1リリース。\n`app`ディレクトリの改善、`next-transpile-modules`をビルトインに変更、試験的に`modularizeImports`オプションの追加、Turbopackの改善など",
+            "content": "Next.js 13.1リリース。\n`app`ディレクトリの改善、外部ライブラリdata`next-transpile-modules`を本体に統合、試験的に`modularizeImports`オプションの追加、Turbopackの改善など",
             "tags": [
                 "Next.js",
                 "relre"
