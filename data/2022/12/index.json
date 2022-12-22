@@ -560,6 +560,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-22T22:38:11.751Z",
+            "title": "Deno 1.29: Custom npm registry support",
+            "url": "https://deno.com/blog/v1.29",
+            "content": "Deno v1.29リリース。\n`NPM_CONFIG_REGISTRY`でnpmレジストリを指定できるように、`deno install`コマンドを追加、REPLでの`npm:`サポート。\n`deno check --remote`を`--all`に変更、`--inspect-wait`フラグの追加、TypeScript 4.9のサポート。\nStdに`testing/types`モジュールの追加など",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
