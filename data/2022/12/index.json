@@ -571,6 +571,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-22T22:55:57.504Z",
+            "title": "Blog - Next.js 13.1 | Next.js",
+            "url": "https://nextjs.org/blog/next-13-1",
+            "content": "Next.js 13.1リリース。\n`app`ディレクトリの改善、`next-transpile-modules`をビルトインに変更、試験的に`modularizeImports`オプションの追加、Turbopackの改善など",
+            "tags": [
+                "Next.js",
+                "relre"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "martpie/next-transpile-modules: [DEPRECATED] Next.js plugin to transpile code from node_modules",
+                    "url": "https://github.com/martpie/next-transpile-modules"
+                }
+            ]
         }
     ]
 }
