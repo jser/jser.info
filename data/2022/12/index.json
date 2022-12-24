@@ -612,6 +612,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-24T06:45:30.135Z",
+            "title": "Bun v0.4",
+            "url": "https://bun.sh/blog/bun-v0.4.0",
+            "content": "Bun 0.4リリース。\n`bunx`コマンドを追加、`#!/usr/bin/env node`をbunで実行する`--bun`フラグを追加、Node.jsとの互換性の向上など。\n",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
