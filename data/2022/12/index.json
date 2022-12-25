@@ -637,6 +637,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-25T11:30:22.821Z",
+            "title": "Web Performance Calendar » HTTP/3 Prioritization Demystified",
+            "url": "https://calendar.perfplanet.com/2022/http-3-prioritization-demystified/",
+            "content": "各ブラウザのHTTP/3のPriorityの実装について調べた記事。\nブラウザとリソースの組み合わせでの優先度の違い、`priority`ヘッダと`PRIORITY_UPDATE`フレームの実装の違い。\n`fetchpriority`属性でブラウザ間の違いを減られる点について",
+            "tags": [
+                "HTTP2",
+                "browser",
+                "article",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
