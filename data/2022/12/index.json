@@ -661,6 +661,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-26T01:23:05.184Z",
+            "title": "Release 3.27.0 - 2022.12.26 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.27.0",
+            "content": "core-js v3.27.0リリース。\nStage 3のIterator Helpers/Set methods /Well-Formed Unicode Strings/Explicit resource managementの実装。\nStage 2のString.dedentの実装など",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
