@@ -650,6 +650,17 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2022-12-26T01:17:36.320Z",
+            "title": "Release v7.20.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v7.20.0",
+            "content": "pnpm v7.20.0リリース。\n`pnpm config <get|set|delete|list>`コマンドの追加など",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
