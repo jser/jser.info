@@ -688,7 +688,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-12-28T05:18:51.133Z",
+            "date": "2022-12-28T05:19:13.531Z",
             "title": "Twemojiが2023年になると表示されなくなる(かもしれない)問題に対処する",
             "url": "https://zenn.dev/yhatt/articles/60ce0c3ca79994",
             "content": "MaxCDNが2022年で廃止となるため、twemojiなどMaxCDNをデフォルトで利用するライブラリが動かなくなるという話",
@@ -697,7 +697,12 @@
                 "news",
                 "twitter"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Clarify MaxCDN URLs now that MaxCDN is retiring · Issue #556 · twitter/twemoji",
+                    "url": "https://github.com/twitter/twemoji/issues/556"
+                }
+            ]
         }
     ]
 }
