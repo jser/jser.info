@@ -573,22 +573,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2022-12-22T22:58:09.941Z",
-            "title": "Blog - Next.js 13.1 | Next.js",
-            "url": "https://nextjs.org/blog/next-13-1",
-            "content": "Next.js 13.1リリース。\n`app`ディレクトリの改善、外部ライブラリdata`next-transpile-modules`を本体に統合、試験的に`modularizeImports`オプションの追加、Turbopackの改善など",
-            "tags": [
-                "Next.js",
-                "relre"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "martpie/next-transpile-modules: [DEPRECATED] Next.js plugin to transpile code from node_modules",
-                    "url": "https://github.com/martpie/next-transpile-modules"
-                }
-            ]
-        },
-        {
             "date": "2022-12-23T02:13:03.717Z",
             "title": "JavaScript for hackers by Gareth Heyes [Leanpub PDF/iPad/Kindle]",
             "url": "https://leanpub.com/javascriptforhackers/",
@@ -701,6 +685,22 @@
                 {
                     "title": "Clarify MaxCDN URLs now that MaxCDN is retiring · Issue #556 · twitter/twemoji",
                     "url": "https://github.com/twitter/twemoji/issues/556"
+                }
+            ]
+        },
+        {
+            "date": "2022-12-28T05:24:05.483Z",
+            "title": "Blog - Next.js 13.1 | Next.js",
+            "url": "https://nextjs.org/blog/next-13-1",
+            "content": "Next.js 13.1リリース。\n`app`ディレクトリの改善、外部ライブラリの`next-transpile-modules`を本体に統合、試験的に`modularizeImports`オプションの追加、Turbopackの改善など",
+            "tags": [
+                "Next.js",
+                "relre"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "martpie/next-transpile-modules: [DEPRECATED] Next.js plugin to transpile code from node_modules",
+                    "url": "https://github.com/martpie/next-transpile-modules"
                 }
             ]
         }
