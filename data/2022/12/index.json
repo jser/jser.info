@@ -703,6 +703,19 @@
                     "url": "https://github.com/martpie/next-transpile-modules"
                 }
             ]
+        },
+        {
+            "date": "2022-12-28T05:26:14.232Z",
+            "title": "Release v100 · ije/esm.sh",
+            "url": "https://github.com/ije/esm.sh/releases/tag/v100",
+            "content": "ESMとしてnpmパッケージを扱えるPackage CDNのesm.sh v100リリース。\nWebサイトのアップデート、playgroundの追加。",
+            "tags": [
+                "ECMAScript",
+                "cdn",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
