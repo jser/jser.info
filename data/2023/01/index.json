@@ -58,6 +58,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-01T14:01:42.664Z",
+            "title": "Vue.js",
+            "url": "https://v2.vuejs.org/lts/",
+            "content": "Vue 2のサポート終了は2023年12月31日。\nサポート終了後はセキュリティ修正を提供しない、拡張LTSはAngularJSと同じく外部企業に依頼する形となる予定",
+            "tags": [
+                "Vue",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "2022 Year In Review | The Vue Point",
+                    "url": "https://blog.vuejs.org/posts/2022-year-in-review.html"
+                }
+            ]
         }
     ]
 }
