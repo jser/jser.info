@@ -23,6 +23,29 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-01T11:52:17.286Z",
+            "title": "Prototype Pollution in JSON5 via Parse Method · CVE-2022-46175 · GitHub Advisory Database",
+            "url": "https://github.com/advisories/GHSA-9c47-m6qq-7p4h",
+            "content": "JSON5にprototype pollutionの脆弱性があり、2.2.2と1.0.2で修正された。\n",
+            "tags": [
+                "JSON",
+                "JavaScript",
+                "library",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v2.2.2 · json5/json5",
+                    "url": "https://github.com/json5/json5/releases/tag/v2.2.2"
+                },
+                {
+                    "title": "Release v1.0.2 · json5/json5",
+                    "url": "https://github.com/json5/json5/releases/tag/v1.0.2"
+                }
+            ]
         }
     ]
 }
