@@ -74,6 +74,17 @@
                     "url": "https://blog.vuejs.org/posts/2022-year-in-review.html"
                 }
             ]
+        },
+        {
+            "date": "2023-01-04T01:33:59.996Z",
+            "title": "Release v0.16.13 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.16.13",
+            "content": "esbuild v0.16.13リリース。\n`--metafile`でbundle時のメタデータを出力し、メタデータを可視化できるビューアサイトの実装など",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
