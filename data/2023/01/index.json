@@ -86,6 +86,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-05T14:23:08.359Z",
+            "title": "First-class Support for TypeScript · React Native",
+            "url": "https://reactnative.dev/blog/2023/01/03/typescript-first",
+            "content": "React Native 0.71でTypeScriptの型定義が同梱され、新しいテンプレートもデフォルトでTypeScriptを利用するようになった",
+            "tags": [
+                "React",
+                "Native",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
