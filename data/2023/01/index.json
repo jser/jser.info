@@ -111,19 +111,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-01-06T03:17:17.069Z",
-            "title": "Gluon",
-            "url": "https://gluonjs.org/",
-            "content": "ChromeとFirefoxをWebViewの代わりにデスクトップアプリを作るフレームワーク。\nデスクトップブラウザの起動オプションで単独のアプリらしく起動させる。\nバックエンドにはNode.jsとDenoが利用でき、アプリと連携できるAPIが用意されている。",
-            "tags": [
-                "browser",
-                "node.js",
-                "deno",
-                "Tools"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2023-01-06T03:25:35.098Z",
             "title": "Interop 2022: end of year update",
             "url": "https://web.dev/interop-2022-wrapup/",
@@ -154,6 +141,20 @@
                 "JavaScript",
                 "monorepo",
                 "ReleaseNote"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2023-01-06T03:35:52.231Z",
+            "title": "Gluon",
+            "url": "https://gluonjs.org/",
+            "content": "ChromeとFirefoxをWebViewの代わりにデスクトップアプリを作るフレームワーク。\nデスクトップブラウザの起動オプションで単独のアプリらしく起動させる。\nバックエンドにはNode.jsとDenoが利用でき、アプリと連携できるAPIが用意されている。",
+            "tags": [
+                "browser",
+                "node.js",
+                "deno",
+                "Tools",
+                "library"
             ],
             "relatedLinks": []
         }
