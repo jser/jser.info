@@ -98,6 +98,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-06T02:59:51.460Z",
+            "title": "Node v18.13.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v18.13.0/",
+            "content": "Node.js v18.13.0リリース。\n`File` APIの実装、`node:test`モジュールに`mock` APIの追加、v8 snapshot compressionを無効化して起動速度の向上など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
