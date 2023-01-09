@@ -157,6 +157,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-09T15:21:52.551Z",
+            "title": "Node v19.4.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v19.4.0/",
+            "content": "Node.js v19.4.0リリース。\n`buffer.isUtf8`の追加、どれぐらいの並列数を扱えるかを返す`os.availableParallelism`の追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
