@@ -263,6 +263,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-13T01:45:32.731Z",
+            "title": "React Native 0.71: TypeScript by Default, Flexbox Gap, and more... · React Native",
+            "url": "https://reactnative.dev/blog/2023/01/12/version-071",
+            "content": "React Native 0.71リリース。\nTypeScriptがデフォルトでサポートされ、`@types/react-native`は不要となった。\nFlexboxの`gap`プロパティのサポート、`aria-*` propsのサポート、PointerEventsをopt-inでサポートなど。\n`propTypes`のサポートを一時的に復活、Hermesの改善など",
+            "tags": [
+                "React",
+                "Native",
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Road to 0.71.0 · Discussion #41 · reactwg/react-native-releases",
+                    "url": "https://github.com/reactwg/react-native-releases/discussions/41#discussioncomment-4089256"
+                }
+            ]
         }
     ]
 }
