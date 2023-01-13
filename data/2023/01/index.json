@@ -240,6 +240,17 @@
                     "url": "https://web.dev/learn/accessibility/"
                 }
             ]
+        },
+        {
+            "date": "2023-01-13T01:01:37.395Z",
+            "title": "Release Notes for Safari Technology Preview 161 | WebKit",
+            "url": "https://webkit.org/blog/13686/release-notes-for-safari-technology-preview-161/",
+            "content": "Safari Technology Preview 161リリース。\n実験的にAudioSession Web API、WebCodecs AV1 のサポート。\nFullscreen APIに`-webkit-` prefixがつかなくなるように変更など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
