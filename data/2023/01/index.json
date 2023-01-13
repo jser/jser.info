@@ -364,10 +364,10 @@
             ]
         },
         {
-            "date": "2023-01-13T07:27:51.727Z",
+            "date": "2023-01-13T11:33:14.597Z",
             "title": "rimraf/CHANGELOG.md at main · isaacs/rimraf",
             "url": "https://github.com/isaacs/rimraf/blob/main/CHANGELOG.md#v40",
-            "content": "rimraf 4.0リリース。\nglobサポートを削除、Promiseを返すように変更、Node 14未満のサポート終了、TypeScriptでの書き直し。\nまたWindowsでのパフォーマンスの改善など",
+            "content": "rimraf 4.0リリース。\nglobサポートを削除、Promiseを返すように変更、Node 14未満のサポート終了、TypeScriptでの書き直し。\nまたCJSとESMの両方に対応し、Windowsでのパフォーマンスの改善など",
             "tags": [
                 "node.js",
                 "library",
