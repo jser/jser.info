@@ -251,6 +251,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-13T01:12:42.869Z",
+            "title": "Release v3.10.0 · rollup/rollup",
+            "url": "https://github.com/rollup/rollup/releases/tag/v3.10.0",
+            "content": "Rollup v3.10.0リリース。\noptional chainingに対するTree Shakingのサポートなど",
+            "tags": [
+                "rollup",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
