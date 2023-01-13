@@ -341,6 +341,27 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-13T02:35:11.626Z",
+            "title": "Node.js にプロセスレベルの Permission が入りそうな話 - from scratch",
+            "url": "https://yosuke-furukawa.hatenablog.com/entry/2023/01/12/160406",
+            "content": "Node.jsで実装が進められているPermission Modelの実装について",
+            "tags": [
+                "node.js",
+                "security",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "src,process: initial permission model implementation by RafaelGSS · Pull Request #44004 · nodejs/node",
+                    "url": "https://github.com/nodejs/node/pull/44004"
+                },
+                {
+                    "title": "Permission Model · Issue #791 · nodejs/security-wg",
+                    "url": "https://github.com/nodejs/security-wg/issues/791"
+                }
+            ]
         }
     ]
 }
