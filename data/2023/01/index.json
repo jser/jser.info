@@ -207,7 +207,7 @@
             "date": "2023-01-12T15:28:34.574Z",
             "title": "Release v1.10.0 · remix-run/remix",
             "url": "https://github.com/remix-run/remix/releases/tag/remix%401.10.0",
-            "content": "Remix 1.10.0リリース。\n`@remix-run/router`というReact Routerとの共通基盤となるパーッケージ(バイナリ)を使い再構築。\n`shouldRevalidate`関数のサポート、`useNavigation`/`useRevalidator`/`useRouteLoaderData` Hook APIの追加など",
+            "content": "Remix 1.10.0リリース。\n`@remix-run/router`というReact Routerとの共通基盤となるパッケージ(バイナリ)を使い再構築。\n`shouldRevalidate`関数のサポート、`useNavigation`/`useRevalidator`/`useRouteLoaderData` Hook APIの追加など",
             "tags": [
                 "Remix",
                 "ReleaseNote"
