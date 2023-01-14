@@ -386,6 +386,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-14T14:30:49.055Z",
+            "title": "giusepperaso/structura.js: A very fast and lightweight Typescript library to create immutable states with a mutable syntax",
+            "url": "https://github.com/GiuseppeRaso/structura.js",
+            "content": "ImmerライクなImmutable処理のAPIを提供するライブラリ。\nFreezeをTypeScriptの型で表現することによって、オーバヘッドを減らしている。\n",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
