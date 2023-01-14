@@ -397,6 +397,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-14T14:34:50.967Z",
+            "title": "Release v0.17.0 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.17.0",
+            "content": "esbuild v0.17.0リリース。\nincremental buildに関する処理を`context` APIに移動。\n`watch`と`serve`を同時に利用できるように、またServer Send Eventを使ったLive Reloadに対応、開発サーバがHTTPSに対応など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
