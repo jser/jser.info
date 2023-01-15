@@ -448,6 +448,21 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-15T15:40:03.447Z",
+            "title": "azu/eslint-cjs-to-esm: ESLint wrapper for migration from CJS to ESM.",
+            "url": "https://github.com/azu/eslint-cjs-to-esm",
+            "content": "CommonJSとESMへと変換するのを補助ツール。\nESLintをラップしていて、CJS to ESM関係のルールをビルトインしている。\nimportしてるパスへの`.js`の追加や`require`/`exports`などのCJSでしか使えない機能の禁止など",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "ECMAScript",
+                "CommonJS",
+                "Tools",
+                "ESLint"
+            ],
+            "relatedLinks": []
         }
     ]
 }
