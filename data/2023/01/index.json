@@ -420,6 +420,22 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-15T03:13:10.618Z",
+            "title": "Release v0.197.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.197.0",
+            "content": "Flow v0.197.0リリース。\nLocal Type Inferenceをopt-inで利用できるように。",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing: Local Type Inference for Flow | by Michael Matson Vitousek | Flow | Medium",
+                    "url": "https://medium.com/flow-type/introducing-local-type-inference-for-flow-6af65b7830aa"
+                }
+            ]
         }
     ]
 }
