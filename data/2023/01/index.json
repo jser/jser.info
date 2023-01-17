@@ -463,6 +463,18 @@
                 "ESLint"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-17T00:40:46.313Z",
+            "title": "moon v0.22 - New pipeline, hashing, and caching, with Turborepo migration | moon",
+            "url": "https://moonrepo.dev/blog/v0.22",
+            "content": "monorepo管理ツールのmoon 0.22リリース。\nパイプラインの並列性を制御できるように、プロジェクトグラフのキャッシュと依存のインストールミスが減るように。\nTurborepoからのマイグレーションコマンドを追加など",
+            "tags": [
+                "monorepo",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
