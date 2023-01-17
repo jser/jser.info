@@ -475,6 +475,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-17T06:50:06.605Z",
+            "title": "Safe Data Fetching in Modern JavaScript",
+            "url": "https://www.builder.io/blog/safe-data-fetching",
+            "content": "Fetch APIについての記事。\nFetch APIのエラーハンドリング、Axiosライクなエラーハンドリング、JSONをPOSTするときのハマりどころ、Fetchのラッパーについて",
+            "tags": [
+                "JavaScript",
+                "Fetch",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
