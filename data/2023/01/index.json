@@ -522,6 +522,17 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/109"
                 }
             ]
+        },
+        {
+            "date": "2023-01-18T04:11:37.770Z",
+            "title": "`*.d.ts` ファイルをコミットする前に知ってほしい4つのこと",
+            "url": "https://zenn.dev/qnighy/articles/9a6a0041f2a1aa",
+            "content": "TypeScriptの`.d.ts`をソースコードとして含める必要がないケースについて。\nまた、含める場合にtsconfigの`typeRoot`や`types`は使わずに、コードからimportする方法や`includes`を使う方法について",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
