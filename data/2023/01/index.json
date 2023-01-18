@@ -545,6 +545,17 @@
                 "node.js"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-18T23:50:29.937Z",
+            "title": "Bun v0.5 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v0.5.0",
+            "content": "Bun 0.5.0リリース。\n`workspaces`のインストールをサポート。\nNode.jsとの互換性として`node:dns`、`node:tls`、`node:net`、`node:readline`のサポート。\nモジュール解決時の識別子の優先度を変更など",
+            "tags": [
+                "Bun",
+                "rlee"
+            ],
+            "relatedLinks": []
         }
     ]
 }
