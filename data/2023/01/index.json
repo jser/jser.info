@@ -487,6 +487,25 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-18T03:41:25.808Z",
+            "title": "shuding/react-wrap-balancer: Simple React Component That Makes Titles More Readable",
+            "url": "https://github.com/shuding/react-wrap-balancer",
+            "content": "タイトル文字列の折り返しを読みやすくするためのReactコンポーネント",
+            "tags": [
+                "JavaScript",
+                "React",
+                "CSS",
+                "library",
+                "english"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Improving readability with React Wrap Balancer – Vercel",
+                    "url": "https://vercel.com/blog/react-wrap-balancer#innovation-in-text-wrapping"
+                }
+            ]
         }
     ]
 }
