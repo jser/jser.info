@@ -533,6 +533,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-18T04:17:18.116Z",
+            "title": "azu/tsconfig-to-dual-package: Node.js dual package tool that add package.json to tsconfig's `outDir`",
+            "url": "https://github.com/azu/tsconfig-to-dual-package",
+            "content": "TypeScriptでCJSとESMのDual packageを作成するためのツール。\n`tsc`のビルド結果があるディレクトリに対して、CJSとESMに対応した`package.json`を追加することでDual packageを作成する",
+            "tags": [
+                "TypeScript",
+                "library",
+                "node.js"
+            ],
+            "relatedLinks": []
         }
     ]
 }
