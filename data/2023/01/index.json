@@ -556,6 +556,22 @@
                 "rlee"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-20T14:13:11.666Z",
+            "title": "Release v1.11.0 · remix-run/remix",
+            "url": "https://github.com/remix-run/remix/releases/tag/remix%401.11.0",
+            "content": "Remix 1.11.0リリース。\n`defer`を使ったレスポンス待ちを減らせるように、`@remix-run/css-bundle`でのCSSファイルのロード、CSS Modules、Vanilla Extractのサポート。\nFlat Routesをopt-inで利用できるように",
+            "tags": [
+                "Remix",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Flat Routes · Discussion #4482 · remix-run/remix",
+                    "url": "https://github.com/remix-run/remix/discussions/4482"
+                }
+            ]
         }
     ]
 }
