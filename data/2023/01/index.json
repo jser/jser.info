@@ -628,6 +628,18 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-22T22:16:06.489Z",
+            "title": "Brooooooklyn/canvas: High performance skia binding to Node.js. Zero system dependencies and pure npm packages without any postinstall scripts nor node-gyp.",
+            "url": "https://github.com/Brooooooklyn/canvas",
+            "content": "native addonsを使ったskia backendのCanvas APIの実装ライブラリ。\nアーキテクチャに合わせたoptionalDependenciesでprebuildのSkiaを含めたバイナリがダウンロードされるため、システムに対して事前に依存をインストールを追加する必要がない",
+            "tags": [
+                "node.js",
+                "canvas",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
