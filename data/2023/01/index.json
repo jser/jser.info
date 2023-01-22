@@ -601,6 +601,19 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-22T13:33:15.123Z",
+            "title": "Why Is My Jest Test Suite So Slow? | by Steven Lemon | Jan, 2023 | Bits and Pieces",
+            "url": "https://blog.bitsrc.io/why-is-my-jest-suite-so-slow-2a4859bb9ac0",
+            "content": "Jestのテストのパフォーマンスのボトルネックの調べ方について。\n起動時間、`jsdom`のロード、キャッシュ、テストファイルのロード、実際のテストの実行時間について。\nNode.jsのプロファイラーを使ってどこに問題があるかを調べる方法について",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "article",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
