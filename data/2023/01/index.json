@@ -589,6 +589,18 @@
                     "url": "https://github.com/vercel/next.js/issues/29559#issuecomment-938431883"
                 }
             ]
+        },
+        {
+            "date": "2023-01-22T13:15:30.804Z",
+            "title": "Why Not document.write()? – CSS Wizardry – Web Performance Optimisation",
+            "url": "https://csswizardry.com/2023/01/why-not-document-write/",
+            "content": "`document.write()`がなぜ遅いかについて。\n",
+            "tags": [
+                "JavaScript",
+                "article",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
