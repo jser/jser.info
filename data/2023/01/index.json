@@ -657,6 +657,18 @@
                     "url": "https://github.com/immerjs/immer/issues/1015"
                 }
             ]
+        },
+        {
+            "date": "2023-01-22T23:34:39.829Z",
+            "title": "Q1 Roadmap · Issue #17475 · denoland/deno",
+            "url": "https://github.com/denoland/deno/issues/17475",
+            "content": "Denoの2023 Q1のロードマップ。\n`deno.json`に直接import mapを埋め込めるように、`type=module`の`package.json`をサポート、`node:` prefixのサポート。\ndeno.land/x での semver指定のサポート、`deno bundle`をDeprecateにし、`deno pack`の追加など",
+            "tags": [
+                "deno",
+                "issue",
+                "proposal"
+            ],
+            "relatedLinks": []
         }
     ]
 }
