@@ -572,6 +572,23 @@
                     "url": "https://github.com/remix-run/remix/discussions/4482"
                 }
             ]
+        },
+        {
+            "date": "2023-01-22T13:11:12.530Z",
+            "title": "Next.js製アプリケーションのコンパイルを約100倍高速化した話",
+            "url": "https://zenn.dev/mkt/articles/543669021d9a1e",
+            "content": "Next.jsのビルド速度の問題を`.next/trace`のトレースデータを見て分析する方法について",
+            "tags": [
+                "Next.js",
+                "article",
+                "performance"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "NextJs compiling extremely slow · Issue #29559 · vercel/next.js",
+                    "url": "https://github.com/vercel/next.js/issues/29559#issuecomment-938431883"
+                }
+            ]
         }
     ]
 }
