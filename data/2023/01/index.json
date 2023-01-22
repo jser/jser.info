@@ -614,6 +614,20 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-22T14:27:49.300Z",
+            "title": "Fixing a Memory Leak in a Production Node.js App",
+            "url": "https://kentcdodds.com/blog/fixing-a-memory-leak-in-a-production-node-js-app",
+            "content": "Node.jsのアプリケーションでメモリリークが発生し、実際にどのようにデバッグして問題を見つけていったかという記事。\n動画では`shiki`が使う`vscode-oniguruma`のメモリ解放処理を呼んでいないことが原因だと判断し、Workerで処理するように変更した。\nしかし、実際には`express-http-proxy`がリクエストURLを保持していて、Image CDNのURLが長いためメモリを圧迫していた。",
+            "tags": [
+                "node.js",
+                "JavaScript",
+                "debug",
+                "article",
+                "video"
+            ],
+            "relatedLinks": []
         }
     ]
 }
