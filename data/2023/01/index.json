@@ -642,13 +642,14 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-01-22T22:33:25.213Z",
+            "date": "2023-01-22T22:33:33.058Z",
             "title": "Release v2.0.0-alpha.1 · reduxjs/redux-toolkit",
             "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.0.0-alpha.1",
             "content": "Redux Toolkit v2.0.0-alpha.1リリース。\nESM形式とCJS形式のDual Packageへの変更、`thunk`関数を`redux-thunk`パッケージへ移動。\nv2正式版にはImmer 10を含める予定など",
             "tags": [
                 "library",
-                "redux"
+                "redux",
+                "ReleaseNote"
             ],
             "relatedLinks": [
                 {
