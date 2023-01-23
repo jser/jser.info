@@ -680,6 +680,18 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-23T03:20:14.978Z",
+            "title": "Optimize Time to First Byte",
+            "url": "https://web.dev/optimize-ttfb/",
+            "content": "Time to First Byte (TTFB)の改善について。\n`Serving-Timing`ヘッダを使い詳細化、CDNの利用、ページのリダイレクトを避ける、SSR時にStreaming Server Renderingを行う。\nService Workerを使ったキャッシュ戦略、103 Early Hintsについてなど",
+            "tags": [
+                "performance",
+                "browser",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
