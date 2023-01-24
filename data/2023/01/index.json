@@ -558,22 +558,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-01-20T14:13:11.666Z",
-            "title": "Release v1.11.0 · remix-run/remix",
-            "url": "https://github.com/remix-run/remix/releases/tag/remix%401.11.0",
-            "content": "Remix 1.11.0リリース。\n`defer`を使ったレスポンス待ちを減らせるように、`@remix-run/css-bundle`でのCSSファイルのロード、CSS Modules、Vanilla Extractのサポート。\nFlat Routesをopt-inで利用できるように",
-            "tags": [
-                "Remix",
-                "ReleaseNote"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "Flat Routes · Discussion #4482 · remix-run/remix",
-                    "url": "https://github.com/remix-run/remix/discussions/4482"
-                }
-            ]
-        },
-        {
             "date": "2023-01-22T13:11:12.530Z",
             "title": "Next.js製アプリケーションのコンパイルを約100倍高速化した話",
             "url": "https://zenn.dev/mkt/articles/543669021d9a1e",
@@ -732,6 +716,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-24T13:21:37.775Z",
+            "title": "Release v1.11.0 · remix-run/remix",
+            "url": "https://github.com/remix-run/remix/releases/tag/remix%401.11.0",
+            "content": "Remix 1.11.0リリース。\n`defer`を使ってレスポンス待ちを減らせるように、`@remix-run/css-bundle`でのCSSファイルのロード、CSS Modules、Vanilla Extractのサポート。\nFlat Routesをopt-inで利用できるように",
+            "tags": [
+                "Remix",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Flat Routes · Discussion #4482 · remix-run/remix",
+                    "url": "https://github.com/remix-run/remix/discussions/4482"
+                }
+            ]
         }
     ]
 }
