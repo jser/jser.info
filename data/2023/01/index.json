@@ -704,6 +704,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-24T09:45:40.145Z",
+            "title": "Safari 16.3 Release Notes | Apple Developer Documentation",
+            "url": "https://developer.apple.com/documentation/safari-release-notes/safari-16_3-release-notes",
+            "content": "Safari 16.3リリース。\n`fetch()`で`Content-Encoding: gzip`のコンテンツをダウンロードしたとき問題を修正、`Cross-Origin-Embedder-Policy`のバグを修正。\nCSPに`prefetch-src`ディレクティブの追加など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "WebKit Features in Safari 16.3 | WebKit",
+                    "url": "https://webkit.org/blog/13691/webkit-features-in-safari-16-3/"
+                }
+            ]
         }
     ]
 }
