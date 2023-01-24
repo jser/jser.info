@@ -720,6 +720,18 @@
                     "url": "https://webkit.org/blog/13691/webkit-features-in-safari-16-3/"
                 }
             ]
+        },
+        {
+            "date": "2023-01-24T13:16:49.719Z",
+            "title": "Release v29.4.0 · facebook/jest",
+            "url": "https://github.com/facebook/jest/releases/tag/v29.4.0",
+            "content": "Jest v29.4.0リリース。\n`equal`のアルゴリズムをカスタマイズできる`expect.addEqualityTesters()`の追加、オブジェクトのプロパティをモックする`jest.replaceProperty()`の追加など",
+            "tags": [
+                "JavaScript",
+                "jest",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
