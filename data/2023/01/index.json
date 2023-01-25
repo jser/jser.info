@@ -732,6 +732,18 @@
                     "url": "https://github.com/remix-run/remix/discussions/4482"
                 }
             ]
+        },
+        {
+            "date": "2023-01-25T00:35:53.094Z",
+            "title": "Astro 2.0 | Astro",
+            "url": "https://astro.build/blog/astro-2/",
+            "content": "Astro 2.0リリース。\nContent Collections APIの追加、SSGとSSRを組み合わせられるように、エラー表示の改善、HMRの改善、Vite 4.0へのアップデートなど",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
