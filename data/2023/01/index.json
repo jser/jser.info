@@ -755,6 +755,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-26T12:17:10.283Z",
+            "title": "Deno 1.30: Built-in Node modules",
+            "url": "https://deno.com/blog/v1.30",
+            "content": "Deno v1.30リリース。\n`node:` prefixのサポート、`deno.json`にImport Mapsを定義できるように、`Deno.env.has(name)`の追加。\n`deno fmt`にセミコロンの設定を追加など",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
