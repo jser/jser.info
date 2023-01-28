@@ -849,6 +849,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-28T13:34:48.821Z",
+            "title": "jakebailey/hereby: A simple Node.js task runner",
+            "url": "https://github.com/jakebailey/hereby",
+            "content": "TypeScriptのリポジトリで利用しているタスクランナー。\nESMで書いたタスクの定義ファイルを元にタスクを実行できる。gulpの代わりに利用されている。",
+            "tags": [
+                "TypeScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
