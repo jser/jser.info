@@ -837,6 +837,18 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-28T13:21:04.624Z",
+            "title": "Release v0.17.5 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.17.5",
+            "content": "esbuild v0.17.5リリース。\nTypeScript 5.0 betaの`const`parameterとenumのサポートなど",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
