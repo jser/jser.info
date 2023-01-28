@@ -800,6 +800,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-28T12:48:30.621Z",
+            "title": "cyclic-software/s3fs: Drop in replacement for the Node.js fs library backed by AWS S3",
+            "url": "https://github.com/cyclic-software/s3fs",
+            "content": "AWS S3をバックエンドにした`fs`互換のAPIを持ったライブラリ",
+            "tags": [
+                "aws",
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
