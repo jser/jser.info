@@ -777,6 +777,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-28T12:32:32.927Z",
+            "title": "A Cure for React useState Hell?",
+            "url": "https://www.builder.io/blog/use-reducer",
+            "content": "useStateの代わりにuseReducerを使いStateの処理をまとめるという話",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
