@@ -788,6 +788,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-28T12:46:44.855Z",
+            "title": "The very first beta release of Eleventy v2.0 — Eleventy",
+            "url": "https://www.11ty.dev/blog/eleventy-v2-beta/",
+            "content": "Eleventy 2.0 Betaリリース。\n破壊的な変更として、Node.js 14未満のサポート終了、MarkdownでIndent Code Blockをデフォルトで無効化、非推奨のオプションを削除など。\nパッケージサイズの削減、ビルド時間の改善、`--incremental`の追加。\nまた`.webc`のWebComponentをサポートするプラグインの追加など。\n",
+            "tags": [
+                "JavaScript",
+                "template",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
