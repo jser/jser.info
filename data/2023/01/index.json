@@ -872,6 +872,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-01-31T04:42:34.926Z",
+            "title": "Replace Create React App recommendation with Vite by t3dotgg · Pull Request #5487 · reactjs/reactjs.org",
+            "url": "https://github.com/reactjs/reactjs.org/pull/5487#issuecomment-1409720741",
+            "content": "Create React App(CRA)がメンテナンスされていないが、今後どうするかというIssue。\nCRAの存在理由とCRAノコマンドを維持して、内部的に他のフレームワークのランチャーとして機能させるProposal。",
+            "tags": [
+                "React",
+                "proposal",
+                "issue"
+            ],
+            "relatedLinks": []
         }
     ]
 }
