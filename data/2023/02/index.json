@@ -1,10 +1,10 @@
 {
     "list": [
         {
-            "date": "2023-02-01T04:55:23.545Z",
+            "date": "2023-02-01T10:47:18.557Z",
             "title": "Release v2.0.0 · pmndrs/jotai",
             "url": "https://github.com/pmndrs/jotai/releases/tag/v2.0.0",
-            "content": "Jotai 2.0.0リリース。\n`createStore` APIをexpose。\n破壊的な変更として、Async atomsではPromiseを返すのではなく`await`しないといけないように、`initialValues`を`store`で渡すように変更など",
+            "content": "Jotai 2.0.0リリース。\n`createStore` APIをexpose。\n破壊的な変更として、`get()`が自動でPromiseをresolveしないように、`initialValues`を`store`で渡すように変更など",
             "tags": [
                 "JavaScript",
                 "library",
