@@ -60,6 +60,18 @@
                     "url": "https://bocoup.com/blog/interop-2023"
                 }
             ]
+        },
+        {
+            "date": "2023-02-03T00:26:51.427Z",
+            "title": "ECMAScript proposal updates @ 2023-01 | ECMAScript Daily",
+            "url": "https://ecmascript-daily.github.io/ecmascript/2023/02/03/ecmascript-proposal-update",
+            "content": "2023年1月のTC39ミーティングでのProposalのステータス変更のまとめ。\nArrayにImmutableメソッドを追加するProposalがStage 4へ。\nNode.jsのAsyncStorage APIとよく似ているAsync Contextが提案された。",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
