@@ -84,6 +84,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-03T13:22:50.838Z",
+            "title": "Node v18.14.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v18.14.0/",
+            "content": "Node.js v18.14.0リリース。\nnpm 9.3.1を同梱するように変更。\nnpm 8から9は破壊的な変更を含むが、アップデートによるパッケージのテストに失敗がないこと、ロックファイルが自動で変更されないことなどを条件にNode.jsのminor updateで取り込まれる。",
+            "tags": [
+                "node.js",
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Integrating with node · npm/cli Wiki",
+                    "url": "https://github.com/npm/cli/wiki/Integrating-with-node"
+                }
+            ]
         }
     ]
 }
