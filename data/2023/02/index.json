@@ -101,6 +101,19 @@
                     "url": "https://github.com/npm/cli/wiki/Integrating-with-node"
                 }
             ]
+        },
+        {
+            "date": "2023-02-04T13:46:36.787Z",
+            "title": "tanekloc/tmsg: Type-safe i18n library for TypeScript apps. Based on and largely compatible with MessageFormat.",
+            "url": "https://github.com/tanekloc/tmsg",
+            "content": "messageformatの機能をサポートしたi18nライブラリ。\n型でテンプレートをパースすることで、テンプレートにない値を渡すとコンパイルエラーにできる",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "library",
+                "i18n"
+            ],
+            "relatedLinks": []
         }
     ]
 }
