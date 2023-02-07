@@ -156,6 +156,17 @@
                     "url": "https://github.com/nodejs/node/pull/46410"
                 }
             ]
+        },
+        {
+            "date": "2023-02-07T12:14:19.205Z",
+            "title": "ElementInternals and Form-Associated Custom Elements | WebKit",
+            "url": "https://www.webkit.org/blog/13711/elementinternals-and-form-associated-custom-elements/",
+            "content": "Custom Elementの`ElementInternals`について。\nCustom Elementで`aria-*`属性を固定してしまう問題を`#internals.aria*`での回避、Form Validationを扱える`#internals.setFormValue`など。",
+            "tags": [
+                "WebComponents",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
