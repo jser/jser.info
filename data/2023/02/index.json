@@ -126,6 +126,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-07T11:19:38.206Z",
+            "title": "What's New In DevTools (Chrome 110) - Chrome Developers",
+            "url": "https://developer.chrome.com/en/blog/new-in-devtools-110/",
+            "content": "Chrome 110の変更点について。\nロード時にPerformanceタブをクリアするように、User Flowの改善、Source表示をデフォルトで整形するように、VueやTSXなどのシンタックスハイライトに対応。\nAuto Completeの改善など",
+            "tags": [
+                "Chrome",
+                "debug",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
