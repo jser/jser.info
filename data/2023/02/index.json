@@ -138,6 +138,24 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-07T11:37:43.555Z",
+            "title": "deps: replace url parser with Ada by anonrig · Pull Request #46410 · nodejs/node",
+            "url": "https://github.com/nodejs/node/pull/46410",
+            "content": "Node.jsの`URL`をada-urlというC++で実装したものに切り替える。\n現在のURLの実装と比較してパフォーマンスが改善されている。",
+            "tags": [
+                "node.js",
+                "URL",
+                "issue",
+                "performance"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "deps: replace url parser with Ada by anonrig · Pull Request #46410 · nodejs/node",
+                    "url": "https://github.com/nodejs/node/pull/46410"
+                }
+            ]
         }
     ]
 }
