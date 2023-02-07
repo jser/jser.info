@@ -167,6 +167,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-07T14:50:50.441Z",
+            "title": "Node v19.6.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v19.6.0/",
+            "content": "Node.js v19.6.0リリース。\n`--experimental-loader`で読み込んだLoaderが、後ろで読み込むLoaderに対して適用されるように。\nnpm 9.4.0へアップデートし`--install-strategy=linked`をサポート",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
