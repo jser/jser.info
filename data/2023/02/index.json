@@ -194,6 +194,22 @@
                     "url": "https://github.com/npm/rfcs/blob/main/accepted/0042-isolated-mode.md"
                 }
             ]
+        },
+        {
+            "date": "2023-02-07T15:04:37.049Z",
+            "title": "On building the enterprise-grade Node.js applications | Code Flashbacks",
+            "url": "https://www.codeflashbacks.com/announcing-the-enterprise-node-js-service-template/",
+            "content": "Node.jsでのエンタープライズアプリケーションを作る際のテンプレートプロジェクトについて。\nFastify、DDD、E2Eテスト、グローバルのエラー処理、分散トレース向けの`x-request-id`の設定、テスト、Type Safeな設定管理、Prismaを使ったDB管理などを含む",
+            "tags": [
+                "node.js",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "lokalise/node-service-template: Batteries-included starter template for Node.js backend services",
+                    "url": "https://github.com/lokalise/node-service-template"
+                }
+            ]
         }
     ]
 }
