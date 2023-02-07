@@ -178,6 +178,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-07T14:53:10.905Z",
+            "title": "Release v9.4.0 · npm/cli",
+            "url": "https://github.com/npm/cli/releases/tag/v9.4.0",
+            "content": "npm v9.4.0リリース。\npnpmライクなインストール戦略である`--install-strategy=linked`をサポート。\nIsolated modeと言われていたRFCの実装。",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "rfcs/0042-isolated-mode.md at main · npm/rfcs · GitHub",
+                    "url": "https://github.com/npm/rfcs/blob/main/accepted/0042-isolated-mode.md"
+                }
+            ]
         }
     ]
 }
