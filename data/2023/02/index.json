@@ -210,6 +210,17 @@
                     "url": "https://github.com/lokalise/node-service-template"
                 }
             ]
+        },
+        {
+            "date": "2023-02-08T22:12:48.795Z",
+            "title": "Release Notes for Safari Technology Preview 163 | WebKit",
+            "url": "https://webkit.org/blog/13839/release-notes-for-safari-technology-preview-163/",
+            "content": "Safari Technology Preview 163リリース。\nCSS GridのMasonry layoutをデフォルトで有効化、`StorageManager.estimate()`のサポート、Web Crypto APIがEd25519をサポート。\n非標準な`HTMLHeadElement.profile`や`HTMLFrameElement.location`などを削除",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
