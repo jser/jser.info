@@ -233,6 +233,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-09T14:57:19.619Z",
+            "title": "Bringing Javascript to WebAssembly for Shopify Functions (2023)",
+            "url": "https://shopify.engineering/javascript-in-webassembly-for-shopify-functions",
+            "content": "JavaScriptをWasmにして実行する仕組みについて。\nQuickJSを使いJavaScriptをByteCodeにした`script.wasm`を作成し、`QuickJS.wasm`と動的にリンクして大部分を共有している。\n\nShopify Functionで利用されるが、非同期処理の制限や5ms未満での実行制限がある。現在はRustで作成したWasmより3枚ていど遅いが、今後はSpiderMonkeyの利用やJITについてやっていく。",
+            "tags": [
+                "WebAssembly",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Shopify/javy: JS to WebAssembly toolchain",
+                    "url": "https://github.com/Shopify/javy"
+                }
+            ]
         }
     ]
 }
