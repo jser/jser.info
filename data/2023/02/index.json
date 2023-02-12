@@ -250,6 +250,24 @@
                     "url": "https://github.com/Shopify/javy"
                 }
             ]
+        },
+        {
+            "date": "2023-02-12T13:29:13.605Z",
+            "title": "What's new in Lighthouse 10 - Chrome Developers",
+            "url": "https://developer.chrome.com/blog/lighthouse-10-0/",
+            "content": "Lighthouse 10リリース。\nスコアからTTIが削除され、CLSにスコアが移行する。\nAuditとしてBFCacheの検証、ペースト禁止の検証の追加。\nLighthouseの結果であるJSONの構造の変更など",
+            "tags": [
+                "browser",
+                "performance",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v10.0.0 · GoogleChrome/lighthouse",
+                    "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v10.0.0"
+                }
+            ]
         }
     ]
 }
