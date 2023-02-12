@@ -268,6 +268,17 @@
                     "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v10.0.0"
                 }
             ]
+        },
+        {
+            "date": "2023-02-12T15:02:13.135Z",
+            "title": "Electron 23.0.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-23-0",
+            "content": "Electron 23.0.0リリース。\nChromium 110、Node.js 18.12.1、V8 11.0へのアップデート。\nWindows 7/8/8.1のサポートを終了、`scroll-touch-*`イベントの削除。\n機能追加としてWebUSB APIのサポートなど",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
