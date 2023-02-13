@@ -279,6 +279,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-13T07:16:21.848Z",
+            "title": "upgradejs/depngn: A CLI tool to find out if your dependencies support a given version of node.",
+            "url": "https://github.com/upgradejs/depngn",
+            "content": "インストールされている依存関係の`engines`フィールドを見て、指定したNode.jsバージョンが条件を満たすかを一覧できるツール",
+            "tags": [
+                "node.js",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
