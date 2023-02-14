@@ -320,6 +320,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-14T04:36:39.391Z",
+            "title": "Release 3.28.0 - 2023.02.14 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.28.0",
+            "content": "core-js v3.28.0リリース。\nStage4となったChange Array by copy proposalをStableに移動。\nStage3の`JSON.parse` source text access、`ArrayBuffer.prototype.transfer`、Explicit Resource Managementを追加。\nStage 2のSymbol Predicatesを実装、Stage 1の`Number.range`を`Iterator.range`に変更など",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
