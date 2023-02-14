@@ -307,6 +307,19 @@
                     "url": "https://github.com/jquense/yup/issues/1906"
                 }
             ]
+        },
+        {
+            "date": "2023-02-14T01:37:29.716Z",
+            "title": "Release DOMPurify 3.0.0 · cure53/DOMPurify",
+            "url": "https://github.com/cure53/DOMPurify/releases/tag/3.0.0",
+            "content": "DOMpurify 3.0.0リリース。\nIEのサポートを終了、`ALLOW_SELF_CLOSE_IN_ATTRP`オプションの追加など",
+            "tags": [
+                "DOM",
+                "security",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
