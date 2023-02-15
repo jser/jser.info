@@ -428,6 +428,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-15T04:20:03.751Z",
+            "title": "slashd-analytics/run: Run user-provided code in a Web Worker",
+            "url": "https://github.com/slashd-analytics/run",
+            "content": "Web Workerを一種のSandboxとして使い、任意のJSコードを実行するライブラリ",
+            "tags": [
+                "JavaScript",
+                "webworker",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
