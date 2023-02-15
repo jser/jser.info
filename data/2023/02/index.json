@@ -392,6 +392,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-15T04:14:07.024Z",
+            "title": "Nextra 2 – Next.js Static Site Generator – The Guild",
+            "url": "https://the-guild.dev/blog/nextra-2",
+            "content": "Next.jsベースの静的サイトジェネレータであるNextra 2リリース。\nMDX2のサポート、Markdownのインポート、Next 13に対応、リモートのMarkdownファイルを読み込んでレンダリングできるように、FlexSearchを使った全文検索のサポートなど",
+            "tags": [
+                "Next.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
