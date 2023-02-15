@@ -346,6 +346,18 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-15T03:53:21.007Z",
+            "title": "Speculation Rules API によるプリレンダリングのためのメトリクス設計",
+            "url": "https://nhiroki.jp/2023/02/13/metrics-for-prerendering",
+            "content": "Speculation Rules APIのPreRenderingについて。\nPrerenderした場合の`navigationStart`は事前実行のタイミングとなるため、`activationStart`というメトリクスが追加された点。\nまた、Predenderが実際に利用されているかの判定方法について",
+            "tags": [
+                "Chrome",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
