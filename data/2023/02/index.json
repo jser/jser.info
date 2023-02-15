@@ -358,6 +358,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-15T03:57:37.242Z",
+            "title": "Improved type safety in Storybook 7",
+            "url": "https://storybook.js.org/blog/improved-type-safety-in-storybook-7/",
+            "content": "Storybook 7でのTypeScriptの型について。\n`StroyObj`タイプや`satisfies`演算子を使ってexportするコンポーネントの定義に型を付ける話",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
