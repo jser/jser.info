@@ -465,6 +465,22 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-15T14:49:13.128Z",
+            "title": "Firefox 110.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/110.0/releasenotes/",
+            "content": "Firefox 110リリース。\nContainer Queriesのサポート、Errorの`stack`プロパティがシリアライズされた際に含まれるように変更。\nReadableStreamがAsync Iterableとして利用できるようになるなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 110 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/110"
+                }
+            ]
         }
     ]
 }
