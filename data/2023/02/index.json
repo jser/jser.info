@@ -369,6 +369,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-15T04:00:30.244Z",
+            "title": "Introducing historical web performance data via the CrUX History API - Chrome Developers",
+            "url": "https://developer.chrome.com/en/blog/chrome-ux-report-history-api/",
+            "content": "CrUX History APIで1週間間隔のデータを6ヶ月間分の履歴が確認できるようになった。\nWebVitalsのデータを各ページレベルでも取得できるようになっている",
+            "tags": [
+                "Chrome",
+                "browser",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
