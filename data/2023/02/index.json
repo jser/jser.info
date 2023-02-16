@@ -499,6 +499,19 @@
                     "url": "https://codesandbox.io/blog/announcing-sandpack-2"
                 }
             ]
+        },
+        {
+            "date": "2023-02-16T23:36:25.239Z",
+            "title": "Announcing Sandpack 2.0 and a Node.js runtime for any browser",
+            "url": "https://codesandbox.io/blog/announcing-sandpack-2",
+            "content": "Sandpack 2.0リリース。\nブラウザ上でNode.jsのコードを実行するNodeboxの追加。\nWebContainersとの違いとして、Nodeboxはサンプルコードの実行を意図しているので、完全なNode.jsのエミュレータではない点。一方で`SharedArrayBuffer`を使わないことで色々な環境でも動作するようになっている。",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "browser",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
