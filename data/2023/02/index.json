@@ -512,6 +512,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-17T01:54:40.181Z",
+            "title": "Release v0.200.0 · facebook/flow",
+            "url": "https://github.com/facebook/flow/releases/tag/v0.200.0",
+            "content": "Flow v0.200.0リリース。\ngenerics-escapeの問題の改善、型チェックの厳密化、数値と日付の比較を許可しないように変更など。\n`flow autofix`に`missing-local-annot`を追加など",
+            "tags": [
+                "flowtype",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
