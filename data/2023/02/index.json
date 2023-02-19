@@ -523,6 +523,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-19T10:22:01.087Z",
+            "title": "Release v9.5.0 · npm/cli",
+            "url": "https://github.com/npm/cli/releases/tag/v9.5.0",
+            "content": "npm v9.5.0リリース。\n`npm publish --provenance`のサポート。現時点ではGitHub Actionsのみの限定的なサポートで、OICDを使ったCIからのpublishをサポートするための仕組み。",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Automated publishing of npm packages from CI/CD · Issue #625 · npm/statusboard",
+                    "url": "https://github.com/npm/statusboard/issues/625"
+                },
+                {
+                    "title": "RFC for linking packages to their source and build by feelepxyz · Pull Request #626 · npm/rfcs",
+                    "url": "https://github.com/npm/rfcs/pull/626"
+                }
+            ]
         }
     ]
 }
