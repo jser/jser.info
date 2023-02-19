@@ -555,6 +555,19 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-19T11:56:29.357Z",
+            "title": "Release v3.0.0 · honojs/hono",
+            "url": "https://github.com/honojs/hono/releases/tag/v3.0.0",
+            "content": "Hono 3.0.0リリース。\n`req`を`Request`オブジェクトを拡張した`HonoRequest`オブジェクトに変更、StaticRouterの廃止、Validatorの変更。\nzodと組み合わせてrouterからレスポンスの型定義を作成できる`jsonT`とそれを利用するクライアントの`hono/client`の追加。\nwintercgのRuntime Keysの名前を返す`runtime()`の追加など",
+            "tags": [
+                "JavaScript",
+                "server",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
