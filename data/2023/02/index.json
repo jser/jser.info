@@ -620,7 +620,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-02-19T14:17:41.483Z",
+            "date": "2023-02-19T14:17:43.450Z",
             "title": "Safari 16.4 Beta Release Notes | Apple Developer Documentation",
             "url": "https://developer.apple.com/documentation/safari-release-notes/safari-16_4-release-notes",
             "content": "Safari 16.4 Betaリリース。\nCSS Typed Object Model APIのサポート、Constructable Stylesheetsのサポート。\nDeclarative Shadow DOM、EmentInternals、Imperative Slot APIのサポート。\nRegExp lookbehind assertions、`import.meta.resolve`、`Atomics.waitAsync`、Import Mapsのサポートなど。\niframeの`loading=lazy`、`Clear-Site-Data` HTTPヘッダーのサポート。\nAudioSession Web APIのサブセットをサポート、Web Codecs APIの一部をサポート。\nWebAssembly SIMD、OffscreenCanvas(2Dのみ)、Compression Streams APIのサポート。\nFetch Metadata Request Headers、Scroll to Text Fragmentのサポート。\nScreen Orientation API、Screen Wake Lock API、UserActivation APIのサポート。\nホーム画面に追加されたWebアプリ限定でプッシュ通知、Badge APIをサポート。\nWeb Inspectorの改善、WebDriverでのShadow Rootsのサポート、CookieのSameSite属性をサポート。\nLockdownモードでキャッシュ系のAPIを無効化など\n",
