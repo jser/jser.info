@@ -605,6 +605,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-19T13:26:40.919Z",
+            "title": "Release v5.0.0-alpha.0 · chaijs/chai",
+            "url": "https://github.com/chaijs/chai/releases/tag/v5.0.0-alpha.0",
+            "content": "chai v5.0.0-alpha.0リリース。\nPure ESMのパッケージに変更。\nNode.js 16未満のサポート終了、IEのサポート終了など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
