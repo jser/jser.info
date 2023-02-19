@@ -580,6 +580,19 @@
                 "Survey"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-19T13:13:27.589Z",
+            "title": "My talk on CSS runtime performance | Read the Tea Leaves",
+            "url": "https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/",
+            "content": "CSSのRuntime Performanceについての動画。\nCSS Selectorの動作とコスト、レイアウトのパフォーマンスとCSS Containment、デバッグ方法について",
+            "tags": [
+                "CSS",
+                "performance",
+                "article",
+                "video"
+            ],
+            "relatedLinks": []
         }
     ]
 }
