@@ -634,6 +634,18 @@
                     "url": "https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/"
                 }
             ]
+        },
+        {
+            "date": "2023-02-20T03:36:03.780Z",
+            "title": "Popover API - JavaScript不要、HTMLのみでポップオーバーUI",
+            "url": "https://zenn.dev/yusukehirao/articles/popover-api-and-attributes",
+            "content": "HTMLの`popover`属性について。\n",
+            "tags": [
+                "HTML",
+                "accessibility",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
