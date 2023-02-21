@@ -657,6 +657,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-21T15:04:55.560Z",
+            "title": "Release v8.0.0-alpha.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v8.0.0-alpha.0",
+            "content": "pnpm v8.0.0-alpha.0リリース。\npeerDependenciesを自動インストールする`auto-install-peers`を`true`へ変更、`publishConfig.linkDirectory`を`true`に変更。\n`resolution-mode`のデフォルト値を`lowest-direct`に変更、lockfileをv6に変更など",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
