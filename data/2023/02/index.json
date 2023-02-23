@@ -690,6 +690,19 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-23T10:59:17.249Z",
+            "title": "What’s New With Lerna 6.5?. In case you missed it, Lerna version… | by Zack DeRose | Feb, 2023 | Nx Devtools",
+            "url": "https://blog.nrwl.io/whats-new-with-lerna-6-5-4a4f69371504",
+            "content": "Learna 6.5リリース。\n`lerna publish from-git`が冪等性を持つように、`lerna run <command>,<command>`で複数のスクリプトを実行できるように。\n`private: true`のパッケージも公開できる`leana publish --include-private`の追加など",
+            "tags": [
+                "JavaScript",
+                "monorepo",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
