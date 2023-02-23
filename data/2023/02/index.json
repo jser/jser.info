@@ -679,6 +679,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-23T10:29:04.967Z",
+            "title": "Learn Privacy",
+            "url": "https://web.dev/learn/privacy/",
+            "content": "ウェブサイトとPrivacyについてのチュートリアル。\n必要なデータだけを使う、サーバからのデータの削除とクライアントのデータをClear-Site-Dataでの削除、third-party scriptとcookie、Fingerprintingなど",
+            "tags": [
+                "privacy",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
