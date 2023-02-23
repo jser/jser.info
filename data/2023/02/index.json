@@ -715,6 +715,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-23T11:56:00.418Z",
+            "title": "Node v19.7.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v19.7.0/",
+            "content": "Node.js v19.7.0リリース。\nnpm 9.5.0へアップデート、`util.aborted()`の追加、`--test-coverage`のサポート、Single Executableバイナリをサポートする初期実装を追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
