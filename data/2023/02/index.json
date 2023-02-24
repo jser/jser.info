@@ -783,6 +783,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-24T14:47:15.375Z",
+            "title": "Deno 1.31: package.json support",
+            "url": "https://deno.com/blog/v1.31",
+            "content": "Deno v1.31リリース。\n`package.json`をサポートし`scripts`や`dependencies`を扱えるように、Node-APIのサポートをStableに変更。\nDenoのランタイムにNode.jsの互換レイヤーを同梱するように変更。\n`deno bundle`コマンドを非推奨化、`deno fmt`のフラグから`--options-` prefixなしのオプション名を指定できるようになるなど",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
