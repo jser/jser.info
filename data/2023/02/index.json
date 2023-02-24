@@ -737,6 +737,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-24T13:14:31.289Z",
+            "title": "Bun v0.5.7 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v0.5.7",
+            "content": "Bun 0.5.7リリース。\n`FormData`のサポート、GitとGitHubの依存をサポート、デフォルトで`setTimeout`がNode.jsと同じTimeoutオブジェクトを返すように変更。\n`fetch` APIが`AbortSignal`をサポート、`bun wiptest`コマンドを`bun test`にリネームなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
