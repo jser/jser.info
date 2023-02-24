@@ -748,6 +748,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-24T13:17:56.871Z",
+            "title": "Chrome’s Headless mode gets an upgrade: introducing `--headless=new` - Chrome Developers",
+            "url": "https://developer.chrome.com/articles/new-headless/",
+            "content": "Chromeの新しいHeadlessモードについて。\n`chrome --headless=new`で実行でき、Puppeteerなどからもopt-inで利用できる。\n今まではヘッドレス用の実装が分かれていたためメンテナンスの問題があったが、新しい実装ではヘッドレスありなしが統合される形となった。",
+            "tags": [
+                "Chrome",
+                "article",
+                "puppeteer"
+            ],
+            "relatedLinks": []
         }
     ]
 }
