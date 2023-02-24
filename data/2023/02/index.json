@@ -726,6 +726,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-24T13:01:19.096Z",
+            "title": "Blog - Next.js 13.2 | Next.js",
+            "url": "https://nextjs.org/blog/next-13-2",
+            "content": "Next.js 13.2リリース。\nNext SEOをインスパイアしたMetadata APIをサポート、Route Handlers APIのサポート、MDXをServer Side Componentで利用できるように。\nRustで書き直されたMDXパーサを利用できるように、`<Link>`の`href`が型安全に、エラーオーバレイの改善、Turbopackの改善。\nTurbopackが一部のwebpack loaderのサポート、Vercel Cache APIを利用したNext.js Cacheのサポートなど",
+            "tags": [
+                "Next.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
