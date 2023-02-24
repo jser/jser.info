@@ -760,6 +760,18 @@
                 "puppeteer"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-24T13:28:40.026Z",
+            "title": "Typescript Runtime Validators and DX, a type-checking performance analysis of zod/superstruct/yup/typebox - DEV Community",
+            "url": "https://dev.to/nicklucas/typescript-runtime-validators-and-dx-a-type-checking-performance-analysis-of-zodsuperstructyuptypebox-5416",
+            "content": "TypeScriptのスキーマバリデーションライブラリであるZod/Yup/Superstruct/Typebox/Light Typeのコンパイル時間のベンチマーク比較。",
+            "tags": [
+                "TypeScript",
+                "article",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
