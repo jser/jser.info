@@ -794,6 +794,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-25T07:29:04.502Z",
+            "title": "JavaScript Import maps, Part 1: Introduction | SpiderMonkey JavaScript/WebAssembly Engine",
+            "url": "https://spidermonkey.dev/blog/2023/02/23/javascript-import-maps-part-1-introduction.html",
+            "content": "Import Mapsについての記事。\nECMAScriptではModule Specifierで指定した文字列をどう解決するかがランタイムに任されている点。\nNode.jsとBrowserのModules解決の違い、Import Mapsでのランタイムの違いの吸収について",
+            "tags": [
+                "JavaScript",
+                "module",
+                "ECMAScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
