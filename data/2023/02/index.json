@@ -826,6 +826,18 @@
                     "url": "https://docs.cypress.io/guides/component-testing/third-party-definitions"
                 }
             ]
+        },
+        {
+            "date": "2023-02-27T15:43:30.440Z",
+            "title": "Release v0.29.0 · vitest-dev/vitest",
+            "url": "https://github.com/vitest-dev/vitest/releases/tag/v0.29.0",
+            "content": "vitest v0.29.0リリース。\n試験的に依存関係をbundleして読み込むことでパフォーマンスを改善する`deps.experimentalOptimizer`オプションを追加。\nまた、`--no-threads`オプション使っている場合は、`--single-thread`や`deps.experimentalOptimizer`を代わりに使うことを推奨している。",
+            "tags": [
+                "vite",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
