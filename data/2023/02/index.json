@@ -807,6 +807,25 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-27T15:39:49.897Z",
+            "title": "Changelog | Cypress Documentation",
+            "url": "https://docs.cypress.io/guides/references/changelog#12.7.0",
+            "content": "Cypress 12.7.0リリース。\n`cy.setCookie`で`HostOnly`のCookieを設定できるように、Cypress Component Testingsと連携するためのAPIを公開など",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "browser",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Integrating with Cypress Component Testing | Cypress Documentation",
+                    "url": "https://docs.cypress.io/guides/component-testing/third-party-definitions"
+                }
+            ]
         }
     ]
 }
