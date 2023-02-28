@@ -838,6 +838,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-02-28T10:42:51.076Z",
+            "title": "Release 7.2.0 · google/zx",
+            "url": "https://github.com/google/zx/releases/tag/7.2.0",
+            "content": "zx 7.2.0リリース。\n`retry()`と`spinner()`ヘルパーの追加など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
