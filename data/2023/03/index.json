@@ -25,6 +25,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-01T23:05:46.847Z",
+            "title": "moon v0.25 - Deno tier 2 support, CI insights, custom project languages, and more | moonrepo",
+            "url": "https://moonrepo.dev/blog/v0.25",
+            "content": "moon v0.25リリース。\nDenoのサポート、オフラインモードのサポート、プロジェクトレベルでTypeScriptの設定を上書きできるように、GitHub Actionsの追加など",
+            "tags": [
+                "monorepo",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
