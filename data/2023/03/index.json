@@ -12,6 +12,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-01T21:59:59.806Z",
+            "title": "Buf | Connect for Node.js is now available",
+            "url": "https://buf.build/blog/connect-node-beta",
+            "content": "gRPC/Protocol Buffersを扱うConnect for Node.jsがリリースされた。",
+            "tags": [
+                "node.js",
+                "ProtocolBuffers",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
