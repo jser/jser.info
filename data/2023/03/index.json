@@ -37,6 +37,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-03T14:41:49.144Z",
+            "title": "Announcing TypeScript 5.0 RC - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-0-rc/",
+            "content": "TypeScript 5.0 RCリリース。\nECMAScript Stage 3のDecoratorを実装、`const` type perameterの追加、`tsconfig.json`で複数の`extends`に対応、enumとunion型の改善。\n`--moduleResolution bundler`の追加と関連するオプションの追加、`exports`フィールのConditionを指定できる`--customConditions`の追加。\n`import`時に`type`修飾子を削除しそれ以外を残す`--verbatimModuleSyntax`オプションの追加、JSDocで`@satisfies`をサポートなど。\nまた、TypeScriptのコードベースをnamespaceからmoudleに移行し、パフォーマンス/メモリ/パッケージサイズの改善。\n`--target ES3`や`--out`などのオプションを非推奨に変更し、`--forceConsistentCasingInFileNames`をデフォルトでtrueに変更するといった変更も含まれている",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
