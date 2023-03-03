@@ -63,10 +63,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-03-03T15:24:59.975Z",
+            "date": "2023-03-03T15:25:15.627Z",
             "title": "クライアントの Cookie などのデータを削除する Clear Site Data という仕様について | blog.bokken.io",
             "url": "https://blog.bokken.io/articles/2023-02-28/about-clear-site-data.html",
-            "content": "`Clear-Site-Data` HTTPヘッダについて",
+            "content": "`Clear-Site-Data` HTTPレスポンスヘッダについて",
             "tags": [
                 "browser",
                 "article"
