@@ -95,6 +95,17 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-06T12:24:50.915Z",
+            "title": "kaleidawave/ezno: A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance",
+            "url": "https://github.com/kaleidawave/ezno",
+            "content": "Rustで書かれたTypeScriptコンパイラ、型チェッカー。\t",
+            "tags": [
+                "TypeScript",
+                "Rust"
+            ],
+            "relatedLinks": []
         }
     ]
 }
