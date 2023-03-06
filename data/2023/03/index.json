@@ -117,6 +117,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-06T23:37:44.376Z",
+            "title": "Release v111 · ije/esm.sh",
+            "url": "https://github.com/ije/esm.sh/releases/tag/v111",
+            "content": "esm.sh v111リリース。\n`deprecated`メッセージに対応、バージョン指定せずにリクエストした場合のTTLを10分に変更など\n",
+            "tags": [
+                "JavaScript",
+                "cdn",
+                "module"
+            ],
+            "relatedLinks": []
         }
     ]
 }
