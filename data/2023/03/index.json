@@ -106,6 +106,17 @@
                 "Rust"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-06T23:30:01.818Z",
+            "title": "Experiments with the JavaScript Garbage Collector - DEV Community",
+            "url": "https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3",
+            "content": "WeakRefsの一部である`FinalizationRegistry`で登録したオブジェクトはいつGCによって回収されるのかについて。",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
