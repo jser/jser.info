@@ -129,6 +129,18 @@
                 "module"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-07T12:48:24.915Z",
+            "title": "Release v29.5.0 · facebook/jest",
+            "url": "https://github.com/facebook/jest/releases/tag/v29.5.0",
+            "content": "Jest v29.5.0リリース。\n`randomize`オプションでテストをランダムな順番で実行できるように、`workerThreads`オプションの追加、エラー出力のフォーマッターがError Causeのサポートなど\n",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
