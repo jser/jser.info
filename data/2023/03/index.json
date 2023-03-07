@@ -141,6 +141,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-07T14:41:46.338Z",
+            "title": "Release v2.1.0 · vercel/swr",
+            "url": "https://github.com/vercel/swr/releases/tag/v2.1.0",
+            "content": "SWR v2.1.0リリース。\nリアルタイムデータソースをSubscribeできる`useSWRSubscription`の追加、`useSWRInfinite`に`parallel`オプションを追加など",
+            "tags": [
+                "JavaScript",
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
