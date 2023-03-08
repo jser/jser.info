@@ -168,6 +168,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-08T12:04:49.295Z",
+            "title": "Node v18.15.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/ja/blog/release/v18.15.0/",
+            "content": "Node.js v18.15.0リリース。\n`--test-coverge`の追加、`fs.statfs`の追加、プロセスで使用可能なメモリの量を取得する`process.constrainedMemory()`の追加、`buffer.isAscii`の追加",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
