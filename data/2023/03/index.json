@@ -179,6 +179,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-08T12:29:39.436Z",
+            "title": "New in Chrome 111 - Chrome Developers",
+            "url": "https://developer.chrome.com/blog/new-in-chrome-111/",
+            "content": "Chrome 111リリース。\nCSS Color Level 4のサポート、`:nth-child()`が擬似クラスセレクターのサポート、Style Container Queriesのサポート。\nStreaming declarative shadow DOM、View Transitions APIのサポート。\nOrigin TrialとしてDocument Picture-in-Pictureのサポート。\nWeb Payment APIに関する非推奨なAPIの削除など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "What's New in DevTools (Chrome 111) - Chrome Developers",
+                    "url": "https://developer.chrome.com/blog/new-in-devtools-111/"
+                }
+            ]
         }
     ]
 }
