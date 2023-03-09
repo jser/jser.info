@@ -206,6 +206,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-09T13:59:54.710Z",
+            "title": "open-draft/event-contract: Type-safe, implementation-agnostic event contract framework.",
+            "url": "https://github.com/open-draft/event-contract",
+            "content": "Type-Safeでイベントを実装するフレームワーク。\n`EventTarget`を使った`transport`が用意されていて、任意の仕組みでイベントを実装できる。\n`schema`によってzodを使ったRuntimeのType Checkもできるようになっている。",
+            "tags": [
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
