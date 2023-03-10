@@ -233,6 +233,21 @@
                     "url": "https://github.com/w3c/csswg-drafts/issues/8378"
                 }
             ]
+        },
+        {
+            "date": "2023-03-10T14:23:44.873Z",
+            "title": "proto - A multi-language toolchain manager | moonrepo",
+            "url": "https://moonrepo.dev/proto",
+            "content": "Node.js,Deno,Bun,Go言語などに対応したバージョン管理ツール。\n",
+            "tags": [
+                "node.js",
+                "deno",
+                "Bun",
+                "golang",
+                "console",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
