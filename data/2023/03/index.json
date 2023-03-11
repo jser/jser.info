@@ -260,6 +260,31 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-11T01:20:52.989Z",
+            "title": "Announcing Rspack - Rspack",
+            "url": "https://www.rspack.dev/blog/announcement.html",
+            "content": "Rustで書かれたwebpack互換のbundler。\nwebpackを使うプロジェクトとの互換性や移行性を考慮していて、オプションやloaderも互換性ある形で実装している。\n出力するランタイムコードもwebpackの出力との互換性を考慮していて、プラグインもJSで書けるようになっている。\nまた、webpackチームとも連携していて、webpackとの統合も計画している。",
+            "tags": [
+                "webpack",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migration from webpack - Rspack",
+                    "url": "https://www.rspack.dev/guide/migrate-from-webpack.html"
+                },
+                {
+                    "title": "Loader compat - Rspack",
+                    "url": "https://www.rspack.dev/guide/loader-compat.html"
+                },
+                {
+                    "title": "Plugin compat - Rspack",
+                    "url": "https://www.rspack.dev/guide/plugin-compat.html"
+                }
+            ]
         }
     ]
 }
