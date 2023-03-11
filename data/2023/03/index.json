@@ -250,10 +250,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-03-11T01:16:03.675Z",
+            "date": "2023-03-11T01:16:14.188Z",
             "title": "Rspack",
             "url": "https://www.rspack.dev/",
-            "content": "Rustで書かれたwebpack互換のbundler。\nwebpackを使うプロジェクトとの互換性や移行性を考慮していて、オプションやloaderも互換性ある形で実装している。\nwebpackチームとも連携していて、webpackとの統合も計画している",
+            "content": "Rustで書かれたwebpack互換のbundler。\nwebpackを使うプロジェクトとの互換性や移行性を考慮していて、オプションやloaderも互換性ある形で実装している。",
             "tags": [
                 "webpack",
                 "Rust",
