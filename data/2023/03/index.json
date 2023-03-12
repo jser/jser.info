@@ -296,6 +296,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-12T13:10:28.872Z",
+            "title": "Release v6.9.0 · remix-run/react-router",
+            "url": "https://github.com/remix-run/react-router/releases/tag/react-router%406.9.0",
+            "content": "React Router 6.9.0リリース。\n`lazy` propsをサポートし、コンポーネントを遅延ロードできるように",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
