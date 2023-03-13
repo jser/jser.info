@@ -344,6 +344,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-13T22:58:21.246Z",
+            "title": "TypeScript's Migration to Modules - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/typescripts-migration-to-modules/",
+            "content": "TypeScriptのコードベースをnamespaceからModuleに変更した話。\n変更によるパフォーマンスの改善、namespaceが使われていた歴史的経緯、マイグレーション方法、互換性についてなど",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
