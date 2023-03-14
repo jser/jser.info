@@ -367,6 +367,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-14T22:45:46.058Z",
+            "title": "Firefox 111.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/111.0/releasenotes/",
+            "content": "Firefox 111リリース。\nHTMLの`translate`属性をサポート、CSS color functionsをフラグ付きでサポート。\nFile System Access APIのOrigin private file system (OPFS)をサポートなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 111 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/111"
+                }
+            ]
         }
     ]
 }
