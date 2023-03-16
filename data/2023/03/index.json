@@ -383,6 +383,17 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/111"
                 }
             ]
+        },
+        {
+            "date": "2023-03-16T03:01:49.278Z",
+            "title": "Node v19.8.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v19.8.0",
+            "content": "Node.js v19.8.0リリース。\n`Buffer.copyBytesFrom()`の追加、`AsyncLocalStorage.bind()`と`AsyncLocalStorage.snapshot()`の追加。\n`fs.openAsBlob()`の追加、`URLSearchParams`に`size` getterの追加、WASIに`version`を追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
