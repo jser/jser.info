@@ -446,6 +446,17 @@
                     "url": "https://zenn.dev/hrbrain/articles/3ca5d37dd0b80e"
                 }
             ]
+        },
+        {
+            "date": "2023-03-18T11:32:50.563Z",
+            "title": "total-typescript/ts-reset: A 'CSS reset' for TypeScript, improving types for common JavaScript API's",
+            "url": "https://github.com/total-typescript/ts-reset",
+            "content": "TypeScriptのlibsの型定義を上書きする型定義ライブラリ。\n`JSON.parse`が`any`ではなく`unknown`を返すように変更したり、`.includes()`や`.has()`の型を厳密にするなどしている",
+            "tags": [
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
