@@ -470,6 +470,23 @@
                 "OpenSource"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-19T23:00:39.753Z",
+            "title": "Introducing \"safe npm\", a Socket npm Wrapper - Socket",
+            "url": "https://socket.dev/blog/introducing-safe-npm",
+            "content": "`npm`と`npx`にaliasして利用できるコマンド。\nインストール時にパッケージがマルウェアかインストール時にスクリプト実行するかなどをチェックしてからインストールできる",
+            "tags": [
+                "npm",
+                "article",
+                "security"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "socket npm &amp; socket npx",
+                    "url": "https://docs.socket.dev/docs/socket-npm-socket-npx"
+                }
+            ]
         }
     ]
 }
