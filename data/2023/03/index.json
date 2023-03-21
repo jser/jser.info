@@ -498,6 +498,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-21T13:43:41.565Z",
+            "title": "Transformers.js",
+            "url": "https://xenova.github.io/transformers.js/",
+            "content": "ブラウザ上で動くTransformersライブラリ。\nHuggingFace Hubからのモデルのダウンロードに対応していて、BERTなどさまざまモデルでタスクを実行できる",
+            "tags": [
+                "browser",
+                "JavaScript",
+                "library",
+                "MachineLearning"
+            ],
+            "relatedLinks": []
         }
     ]
 }
