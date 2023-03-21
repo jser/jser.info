@@ -487,6 +487,17 @@
                     "url": "https://docs.socket.dev/docs/socket-npm-socket-npx"
                 }
             ]
+        },
+        {
+            "date": "2023-03-21T13:34:26.919Z",
+            "title": "gajus/turbowatch: Extremely fast file change detector and task orchestrator for Node.js.",
+            "url": "https://github.com/gajus/turbowatch",
+            "content": "ファイルの変更を監視して、プロセスを再起動するライブラリ、ツール。",
+            "tags": [
+                "node.js",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
