@@ -430,24 +430,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-03-18T07:12:12.312Z",
-            "title": "anymaniax/orval: orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺",
-            "url": "https://github.com/anymaniax/orval",
-            "content": "OpenAPI SpecからAPIクライアントやモックサーバなどのコードを生成するツール。",
-            "tags": [
-                "OpenAPI",
-                "TypeScript",
-                "React",
-                "Tools"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "OpenAPIからコードを自動生成！『Orval』のメリットと選定理由",
-                    "url": "https://zenn.dev/hrbrain/articles/3ca5d37dd0b80e"
-                }
-            ]
-        },
-        {
             "date": "2023-03-18T11:32:50.563Z",
             "title": "total-typescript/ts-reset: A 'CSS reset' for TypeScript, improving types for common JavaScript API's",
             "url": "https://github.com/total-typescript/ts-reset",
@@ -554,6 +536,25 @@
                 {
                     "title": "Evan Jacobs on Twitter: &quot;Excited to announce that xstyled is now part of the styled-components organization and we will begin to cross-pollinate improvements in the near future! Thank you so much @neoziro! https://t.co/uPk4sR9QsS&quot; / Twitter",
                     "url": "https://twitter.com/probablyup/status/1632385154814558210"
+                }
+            ]
+        },
+        {
+            "date": "2023-03-22T03:52:54.861Z",
+            "title": "anymaniax/orval: orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺",
+            "url": "https://github.com/anymaniax/orval",
+            "content": "OpenAPI SpecからAPIクライアントやモックサーバなどのコードを生成するツール。",
+            "tags": [
+                "OpenAPI",
+                "TypeScript",
+                "React",
+                "Tools",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "OpenAPIからコードを自動生成！『Orval』のメリットと選定理由",
+                    "url": "https://zenn.dev/hrbrain/articles/3ca5d37dd0b80e"
                 }
             ]
         }
