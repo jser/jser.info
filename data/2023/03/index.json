@@ -557,6 +557,17 @@
                     "url": "https://zenn.dev/hrbrain/articles/3ca5d37dd0b80e"
                 }
             ]
+        },
+        {
+            "date": "2023-03-23T23:51:24.376Z",
+            "title": "Release Notes for Safari Technology Preview 166 | WebKit",
+            "url": "https://webkit.org/blog/13964/release-notes-for-safari-technology-preview-166/",
+            "content": "Safari Technology Preview 166リリース。\nCSSの`@counter-style`のサポート、JSの正規表現の`v`フラグの実装、HTMLの`popover`属性のサポート。\nHTTP 103のEarly Hintsに対応など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
