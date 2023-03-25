@@ -579,6 +579,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-25T12:21:37.042Z",
+            "title": "gvergnaud/hotscript: A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.",
+            "url": "https://github.com/gvergnaud/hotscript",
+            "content": "TypeScriptの型レベル高階関数のライブラリ。\n型でパターンマッチを書くの利用できるような型関数を提供しているライブラリ",
+            "tags": [
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
