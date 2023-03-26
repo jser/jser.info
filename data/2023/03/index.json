@@ -627,6 +627,19 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-26T14:08:28.793Z",
+            "title": "sinclairnick/brail: 💌 Transactional email that feels different",
+            "url": "https://github.com/sinclairnick/brail",
+            "content": "Reactでメールのコンテンツを書けるメールツールキット。\nメール向けのUIコンポーネント、Linter、コンポーネントからHTMLメールを作成するジェネレータ、tRPCを使ったAPI、DevToolsなどが含まれる",
+            "tags": [
+                "React",
+                "mail",
+                "library",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
