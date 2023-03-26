@@ -603,6 +603,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-26T11:31:24.125Z",
+            "title": "mamiksik/parrot-intellij: AI Commit Messages Autocomplete for InteliJ",
+            "url": "https://github.com/mamiksik/parrot-intellij",
+            "content": "コミットメッセージを自動生成するJetBrains/VSCode拡張。\nコミットメッセージを学習したモデルを利用する",
+            "tags": [
+                "JetBrains",
+                "plugin",
+                "LanguageModel"
+            ],
+            "relatedLinks": []
         }
     ]
 }
