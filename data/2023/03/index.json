@@ -592,10 +592,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-03-26T07:40:01.378Z",
+            "date": "2023-03-26T07:40:39.718Z",
             "title": "Hello, Superflare",
             "url": "https://superflare.dev/",
-            "content": "Cloudflare Workers/Pagesに特化したアプリケーションフレームワーク。\nD1 Database、R2 Storage、Cloudflare Queues、セッション管理、Durable Objectsを使ったBroadcastingをサポートしている。\nまたDBのマイグレーションの管理、Remixなどのフレームワークとの連携も行っている",
+            "content": "Cloudflare Workers/Pagesに特化したアプリケーションツールキット。\nD1 Database、R2 Storage、Cloudflare Queues、セッション管理、Durable Objectsを使ったBroadcastingをサポートしている。\nまたDBのマイグレーションの管理、Remixなどのフレームワークとの連携も行っている",
             "tags": [
                 "cloudflare",
                 "node.js",
