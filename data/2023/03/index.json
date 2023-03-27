@@ -663,6 +663,17 @@
                 "vite"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-27T14:45:24.480Z",
+            "title": "Deno 1.32: Enhanced Node.js Compatibility",
+            "url": "https://deno.com/blog/v1.32",
+            "content": "Deno v1.32リリース。\nTypeScript 5.0、V8 11.2へのアップデート。\nNode.jsとの互換性の改善、`deno compile`がWeb WorkerとDynamic Importをサポート、unstableなWebGPUのサポートを削除など。\nstd/encodingのcsv/yaml/toml/json/jsonc/front_matterをstd/のトップレベルに移動など。",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
