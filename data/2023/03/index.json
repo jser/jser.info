@@ -723,10 +723,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-03-28T15:35:18.843Z",
+            "date": "2023-03-28T15:36:35.364Z",
             "title": "WebKit Features in Safari 16.4 | WebKit",
             "url": "https://webkit.org/blog/13966/webkit-features-in-safari-16-4/",
-            "content": "Safari 16.4リリース。\n",
+            "content": "Safari 16.4リリース。\n\n- `margin-trim`プロパティ、`lh` unit、CSS Typed Object Model APIのサポート、Constructable Stylesheetsのサポート\n- Declarative Shadow DOM、EmentInternals、Imperative Slot APIのサポート\n- RegExp lookbehind assertions、`import.meta.resolve`、`Atomics.waitAsync`、Import Mapsのサポート\n- iframeの`loading=lazy`、`Clear-Site-Data` HTTPヘッダーのサポート\n- AudioSession Web APIのサブセットをサポート、Web Codecs APIの一部をサポート\n- WebAssembly SIMD、OffscreenCanvas(2Dのみ)、Compression Streams APIのサポート\n- Fetch Metadata Request Headers、Scroll to Text Fragmentのサポート\n- Screen Orientation API、Screen Wake Lock API、UserActivation APIのサポート\n- ホーム画面に追加されたWebアプリ限定でプッシュ通知、Badge APIをサポート\n- Web Inspectorの改善、WebDriverでのShadow Rootsのサポート、CookieのSameSite属性をサポート\n- Lockdownモードでキャッシュ系のAPIを無効化するなど",
             "tags": [
                 "safari",
                 "ReleaseNote"
