@@ -698,6 +698,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-28T15:16:26.774Z",
+            "title": "Release v8.0.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v8.0.0",
+            "content": "pnpm v8.0.0リリース。\nNode.js 14のサポート終了、デフォルト設定の変更をし`peerDependencies`デフォルトでインストールするように。\nLockfileの形式とバージョンをアップデートなど",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
