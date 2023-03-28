@@ -709,6 +709,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-28T15:19:08.449Z",
+            "title": "The origin private file system - Chrome Developers",
+            "url": "https://developer.chrome.com/articles/origin-private-file-system/",
+            "content": "Origin private file systemについて。\nメインスレッド、Web Workerでの利用、基本的なAPIとユースケースについて。",
+            "tags": [
+                "browser",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
