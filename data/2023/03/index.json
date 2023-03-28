@@ -686,6 +686,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-28T15:13:05.470Z",
+            "title": "Release v0.17.14 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.17.14",
+            "content": "esbuild v0.17.14リリース。\nTypeScript 5の`const` parameterをサポート、CSS nestingのサポートなど",
+            "tags": [
+                "JavaScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
