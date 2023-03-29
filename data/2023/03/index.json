@@ -752,6 +752,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-03-29T01:52:15.357Z",
+            "title": "moon v1.0 - Official release! Project constraints, tagging, and more! | moonrepo",
+            "url": "https://moonrepo.dev/blog/moon-v1.0",
+            "content": "monorepo管理ツールのmoon v1.0リリース。\nプロジェクトのタグ付けのサポート、タグを使ったプロジェクト間の制約をサポート、環境変数の置換のサポートなど",
+            "tags": [
+                "monorepo",
+                "Rust",
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
