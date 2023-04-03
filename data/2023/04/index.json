@@ -44,6 +44,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-03T15:42:48.942Z",
+            "title": "RailsアプリのフロントエンドをじわじわとNext.jsにリプレースした話と、その振り返り - High Link テックブログ",
+            "url": "https://tech.high-link.co.jp/entry/Rails-application-replace-Next.js",
+            "content": "NginxでパスごとにRailsからNext.jsへリクエストを切り替えながら、移行していったという話。\n認証の問題、`<Link>`によるフロントエンドのルーティングとの齟齬の問題など移行時の対応について",
+            "tags": [
+                "Next.js",
+                "rails",
+                "article",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
