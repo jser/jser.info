@@ -21,6 +21,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-03T13:44:35.751Z",
+            "title": "Release v1.7.0 - U Can't Type This · solidjs/solid",
+            "url": "https://github.com/solidjs/solid/releases/tag/v1.7.0",
+            "content": "Solid v1.7.0リリース。\nTypeScriptのより厳密な型で書けるように改善、`onError`を置き換える`catchError`の追加など",
+            "tags": [
+                "JavaScript",
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
