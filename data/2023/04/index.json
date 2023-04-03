@@ -10,6 +10,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-03T13:41:25.066Z",
+            "title": "React Labs: What We've Been Working On – March 2023 – React",
+            "url": "https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023",
+            "content": "React Labsで進めているプロジェクトについて。\nReact Server Componentsで\"use client\"ディレクティブを使うようになり、サーバコンポーネントではasync/awaitを利用できるようになる予定。\nSuspenseでのCSSやFontのロード、`<meta>`などのビルドインサポート、Reactの最適化コンパイラの開発状況などについて",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
