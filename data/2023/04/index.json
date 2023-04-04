@@ -92,6 +92,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-04T13:19:48.333Z",
+            "title": "What are source maps?",
+            "url": "https://web.dev/source-maps/",
+            "content": "Source Mapsとは何かについて。\nSource Mapsのフォーマット、読み方、ツールでのサポート、`x_google_ignoreList`の独自拡張などについて",
+            "tags": [
+                "sourcemap",
+                "article",
+                "debug"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The `x_google_ignoreList` source map extension - Chrome Developers",
+                    "url": "https://developer.chrome.com/en/articles/x-google-ignore-list/"
+                }
+            ]
         }
     ]
 }
