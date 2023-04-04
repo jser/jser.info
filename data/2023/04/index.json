@@ -109,6 +109,17 @@
                     "url": "https://developer.chrome.com/en/articles/x-google-ignore-list/"
                 }
             ]
+        },
+        {
+            "date": "2023-04-04T13:59:57.566Z",
+            "title": "Bun v0.5.9 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v0.5.9",
+            "content": "Bun 0.5.9リリース。\nファイル変更を監視してプロセスを再起動する`bun --watch`のサポート、tarballの依存をサポート、バグ修正など。\n0.6.0ではReact Server Componentsをサポートする予定。",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
