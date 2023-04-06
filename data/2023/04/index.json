@@ -165,6 +165,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-06T14:59:56.417Z",
+            "title": "TypeScript で\"moduleResolution\": \"Node\"は使わないほうがいい",
+            "url": "https://blog.s2n.tech/articles/dont-use-moduleresolution-node",
+            "content": "TypeScriptの`moduleResolution`オプションに指定できる`Node`/`NodeNext`/`Bundler`の挙動の違いについて",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
