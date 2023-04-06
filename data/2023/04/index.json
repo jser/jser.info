@@ -134,17 +134,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-04-06T14:30:05.217Z",
-            "title": "Release Notes for Safari Technology Preview 167 | WebKit",
-            "url": "https://webkit.org/blog/14100/release-notes-for-safari-technology-preview-167/",
-            "content": "Safari Technology Preview 167リリー\nス。\nCSS NestingでのTop Level `&`をサポート、Priority Hintsのサポートなど",
-            "tags": [
-                "safari",
-                "ReleaseNote"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2023-04-06T14:39:58.042Z",
             "title": "TypeScript 5.0 で追加された verbatimModuleSyntax とは何か？",
             "url": "https://zenn.dev/teppeis/articles/2023-04-typescript-5_0-verbatim-module-syntax",
@@ -162,6 +151,17 @@
             "content": "Electron 24.0.0リリース。\nChromium 112.0.5615.49、Node.js 18.12.1、V8 11.0へのアップデート。\n`nativeImage.createThumbnailFromPath(path, size)`の`maxSize`オプションを`size`オプションへ変更など",
             "tags": [
                 "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2023-04-06T14:58:09.957Z",
+            "title": "Release Notes for Safari Technology Preview 167 | WebKit",
+            "url": "https://webkit.org/blog/14100/release-notes-for-safari-technology-preview-167/",
+            "content": "Safari Technology Preview 167リリース。\nCSS NestingでのTop Level `&`をサポート、Priority Hintsのサポートなど",
+            "tags": [
+                "safari",
                 "ReleaseNote"
             ],
             "relatedLinks": []
