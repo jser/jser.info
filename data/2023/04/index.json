@@ -143,6 +143,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-06T14:39:58.042Z",
+            "title": "TypeScript 5.0 で追加された verbatimModuleSyntax とは何か？",
+            "url": "https://zenn.dev/teppeis/articles/2023-04-typescript-5_0-verbatim-module-syntax",
+            "content": "TypeScript 5.0で追加された`verbatimModuleSyntax`について。\n`import type`をそのまま削除し、`import`は残すというシンプルな動作について",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
