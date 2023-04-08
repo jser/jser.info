@@ -192,6 +192,19 @@
                     "url": "https://github.com/sveltejs/kit/releases/tag/%40sveltejs%2Fkit%401.15.1"
                 }
             ]
+        },
+        {
+            "date": "2023-04-08T07:58:59.162Z",
+            "title": "JSPM - JSPM CLI Relaunch - Import Map Package Management",
+            "url": "https://jspm.org/jspm-cli",
+            "content": "JSPM 3.0リリース。\n全てのブラウザがImport Mapsをサポートしたので、JSPMのCLIをImport Mapsの管理に利用できるように大きく変更している",
+            "tags": [
+                "JavaScript",
+                "module",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
