@@ -205,6 +205,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-08T08:14:53.481Z",
+            "title": "Blog - Next.js 13.3 | Next.js",
+            "url": "https://nextjs.org/blog/next-13-3",
+            "content": "Next.js 13.3リリース。\nファイル名ベースのMetadata APIのサポート、Satoriを使った`ImageResponse`のサポート、App Routerでstatic exportのサポート。\n`@folder`の命名規則を使ったParallel RoutesとIntercepting Routeのサポートなど",
+            "tags": [
+                "Next.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Metadata | Next.js",
+                    "url": "https://beta.nextjs.org/docs/api-reference/metadata#file-based-metadata"
+                }
+            ]
         }
     ]
 }
