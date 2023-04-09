@@ -233,6 +233,19 @@
                 "security"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-09T14:52:46.812Z",
+            "title": "Release v0.30.0 · vitest-dev/vitest",
+            "url": "https://github.com/vitest-dev/vitest/releases/tag/v0.30.0",
+            "content": "vitest v0.30.0リリース。\nmonorepoをサポートするworkspace機能の追加、snapshotのロジックを`@vitest/snapshot`パッケージに移動など",
+            "tags": [
+                "vite",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
