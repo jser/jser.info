@@ -221,6 +221,18 @@
                     "url": "https://beta.nextjs.org/docs/api-reference/metadata#file-based-metadata"
                 }
             ]
+        },
+        {
+            "date": "2023-04-09T14:34:29.910Z",
+            "title": "Node.js Secure Coding: Defending Against Command Injection Vulnerabilities",
+            "url": "https://www.nodejs-security.com/",
+            "content": "Node.jsのセキュリティについての書籍",
+            "tags": [
+                "node.js",
+                "book",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
