@@ -246,6 +246,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-10T11:54:23.412Z",
+            "title": "Chrome 113 beta - Chrome Developers",
+            "url": "https://developer.chrome.com/en/blog/chrome-113-beta/",
+            "content": "Chrome 113 Betaリリース。\nCSS Media Queryで`overflow-inline`/`overflow-block`/`update`をサポート、`image-set()`のサポート。\n`Headers.getSetCookie`のサポート、WebGPUのサポート。\n`document.domain`への代入を代入を非推奨化など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
