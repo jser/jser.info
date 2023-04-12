@@ -257,6 +257,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-12T12:56:51.654Z",
+            "title": "Node v19.9.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v19.9.0",
+            "content": "Node.js v19.9.0リリース。\n`TracingChannel`の追加、`URL.canParse`の追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
