@@ -304,6 +304,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-12T14:28:06.157Z",
+            "title": "nitrogql/mod.rs at master · uhyo/nitrogql · GitHub",
+            "url": "https://github.com/uhyo/nitrogql",
+            "content": "GraphQLをTypeScriptで利用するためのツールキット。\nGraphQLの構文チェック、GraphQLファイルからTypeScriptの型定義の生成、GraphQLファイルをロードするloaderを提供する",
+            "tags": [
+                "TypeScript",
+                "GraphQL",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
