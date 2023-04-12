@@ -291,6 +291,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-12T13:57:11.933Z",
+            "title": "Storybook 7.0",
+            "url": "https://storybook.js.org/blog/storybook-7-0/",
+            "content": "Storybook 7.0リリース。\nUIデザインの刷新、Vite/Next.js/SvelteKit が設定なしで利用できるように、Framewors APIの追加、Story Format v3など",
+            "tags": [
+                "JavaScript",
+                "debug",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
