@@ -316,6 +316,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-12T14:31:29.949Z",
+            "title": "Announcing WCGI: WebAssembly + CGI",
+            "url": "https://wasmer.io/posts/announcing-wcgi",
+            "content": "WasmerがCGIサーバのWasmファイルの実行をする`wcgi`のサポートを追加した",
+            "tags": [
+                "WebAssembly",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
