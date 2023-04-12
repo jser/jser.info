@@ -279,6 +279,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-12T13:14:12.187Z",
+            "title": "What's New in DevTools (Chrome 113) - Chrome Developers",
+            "url": "https://developer.chrome.com/en/blog/new-in-devtools-113/",
+            "content": "Chrome 113のDevToolsの変更点について。\nレスポンスのヘッダを書き換え可能に、`x_google_ignoreList`のオプションに対応。\nRecordパネルでassertionを追加できるように、JavaScript Profilerを廃止など",
+            "tags": [
+                "Chrome",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
