@@ -340,6 +340,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-12T14:39:10.910Z",
+            "title": "divriots/jampack: Optimizes static websites for best user experience and best Core Web Vitals scores.",
+            "url": "https://github.com/divriots/jampack",
+            "content": "静的サイトジェネレータなどによって出力されたHTML/CSS/JSや画像などを最適化するツール。\n画像の最適化、Above the foldの最適化、アセットの圧縮、`<img>`タグの属性の修正などを行う",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "Tools",
+                "HTML"
+            ],
+            "relatedLinks": []
         }
     ]
 }
