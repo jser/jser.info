@@ -353,6 +353,18 @@
                 "HTML"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-13T01:37:45.609Z",
+            "title": "open-draft/logger: Environment-agnostic, ESM-friendly logger for simple needs.",
+            "url": "https://github.com/open-draft/logger",
+            "content": "ESM-friendlyな`debug`モジュール的なロガーライブラリ。\n`DEBUG`環境変数に対応している",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
