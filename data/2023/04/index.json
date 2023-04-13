@@ -365,6 +365,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-13T01:46:44.833Z",
+            "title": "Popularity of top frameworks on Netlify: Next.js, Gatsby, create-react-app",
+            "url": "https://www.netlify.com/blog/framework-popularity-on-netlify/",
+            "content": "Netlifyにデプロイされているアプリケーションが利用しているフレームワークの調査記事。\nReactベースのcreate-react-app/Next.js/Gatsbyが多く、続いてNuxtやVueとなっている。\nエンタープライズアカウントでの傾向の違いなどについて",
+            "tags": [
+                "article",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
