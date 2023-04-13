@@ -376,6 +376,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-13T12:41:24.345Z",
+            "title": "Node v18.16.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v18.16.0",
+            "content": "Node.js v18.16.0リリース。\nSingle execute applicationの初期実装を追加、URLパーサをAdaに変更しパフォーマンスの改善。",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
