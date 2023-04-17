@@ -425,6 +425,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-17T15:34:22.910Z",
+            "title": "Release v10.0.0 · immerjs/immer",
+            "url": "https://github.com/immerjs/immer/releases/tag/v10.0.0",
+            "content": "Immer v10.0.0リリース。\nES5環境をサポート外にしたことでIEのサポート終了、プレーンなオブジェクトにおけるgetterとsetterをデフォルトでは無視することでパフォーマンスの改善。\nPromiseベースのReducerのサポート終了、`enableAllPlugins`を削除など\n",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
