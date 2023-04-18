@@ -488,6 +488,18 @@
                 "testing"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-18T15:39:52.996Z",
+            "title": "Release v116 · esm-dev/esm.sh",
+            "url": "https://github.com/esm-dev/esm.sh/releases/tag/v116",
+            "content": "esm.sh 116リリース。\n`esm.sh/gh/OWNER/REPO/PATH`でGitHubのリポジトリからファイルをロードできるように",
+            "tags": [
+                "cdn",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
