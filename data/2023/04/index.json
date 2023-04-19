@@ -500,6 +500,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-19T02:38:03.521Z",
+            "title": "Node v20.0.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v20.0.0",
+            "content": "Node.js v20.0.0リリース。\n実験的にPermission Modelを追加、ESM Loader Hooksを別スレッドで実行するように、`import.meta.resolve()`を同期処理に変更。\nV8 11.3にアップデート、Test RunnnerをStableに変更、Single executable appsの改善、Web Crypto APIの互換性改善など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Node.js 20 Now Available - OpenJS Foundation",
+                    "url": "https://openjsf.org/blog/2023/04/18/node-js-20-now-available/"
+                }
+            ]
         }
     ]
 }
