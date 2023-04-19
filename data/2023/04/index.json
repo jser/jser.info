@@ -516,6 +516,17 @@
                     "url": "https://openjsf.org/blog/2023/04/18/node-js-20-now-available/"
                 }
             ]
+        },
+        {
+            "date": "2023-04-19T03:41:52.358Z",
+            "title": "Announcing TypeScript 5.1 Beta - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-1-beta/",
+            "content": "TypeScript 5.1 Betaリリース。\n`undefined`を`return`する関数の型の扱いを改善、getterとsetter間でそれぞれ異なる型を指定できるように、JSXの改善。\nNode.js 14.17未満のサポート終了、`typeRoots`の上向きのパッケージ解決を無効化など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
