@@ -552,7 +552,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-04-20T12:19:18.844Z",
+            "date": "2023-04-21T14:39:56.829Z",
             "title": "Vite 4.3 is out! | Vite",
             "url": "https://vitejs.dev/blog/announcing-vite4-3.html",
             "content": "Vite 4.3リリース。\n起動速度を40%から80%程度改善、HMRの処理時間を20%から40%程度改善など",
@@ -560,7 +560,12 @@
                 "vite",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "How we made Vite 4.3 faaaaster 🚀 | sun0day's blog - lost in code",
+                    "url": "https://sun0day.github.io/blog/vite/why-vite4_3-is-faster.html"
+                }
+            ]
         }
     ]
 }
