@@ -566,6 +566,17 @@
                     "url": "https://sun0day.github.io/blog/vite/why-vite4_3-is-faster.html"
                 }
             ]
+        },
+        {
+            "date": "2023-04-23T02:23:13.522Z",
+            "title": "Release v5.80.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v5.80.0",
+            "content": "webpack v5.80.0リリース。\n`import.meta`に対するdestructuringのサポート、`await`に対するdestructuringでのTree Shakingをサポート。\nESMで書かれたローダーをサポート、`exports`フィールドのwild cardパターンをサポートなど",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
