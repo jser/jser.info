@@ -588,6 +588,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-26T12:08:01.268Z",
+            "title": "alxolr | How to process a CSV file five times faster in NodeJs with Rust and Napi rs",
+            "url": "https://www.alxolr.com/articles/how-to-process-a-csv-file-five-times-faster-in-node-js-with-rust-and-napi-rs",
+            "content": "CSVをパースする処理をRustで書いて、Napi rsでNode.jsから利用する話",
+            "tags": [
+                "csv",
+                "node.js",
+                "Rust",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
