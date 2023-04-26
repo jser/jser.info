@@ -601,6 +601,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-26T12:17:38.118Z",
+            "title": "Introducing npm package provenance | The GitHub Blog",
+            "url": "https://github.blog/2023-04-19-introducing-npm-package-provenance/",
+            "content": "npmパッケージが、どのソースコードのコミット、ビルドの設定なのかのprovenanceを紐づけられる`--provenance`フラグをサポート。\n現在はGitHub Actionsからのpublishにおける紐付けをサポートしてる。\nサプライチェーンの問題が起きた時に、パッケージに含まれるprovenanceをチェックすることで、整合性がチェックできる",
+            "tags": [
+                "npm",
+                "security",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing npm package SLSA provenance support | Open Source Insights",
+                    "url": "https://blog.deps.dev/npm-provenance/"
+                }
+            ]
         }
     ]
 }
