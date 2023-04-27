@@ -629,6 +629,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-27T00:21:18.771Z",
+            "title": "What's new in ECMAScript 2023 | pawelgrzybek.com",
+            "url": "https://pawelgrzybek.com/whats-new-in-ecmascript-2023/",
+            "content": "ES2023で追加される機能について。\n`Array.prototpype.findLast`、Hashbangのサポート、WeakMapのキーとしてSymbolが利用できるように。\n配列に対してimmutableな操作である`toReversed`/`toSorted`/`toSpliced`/`with`の追加など",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
