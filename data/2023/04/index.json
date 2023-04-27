@@ -665,6 +665,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-27T08:05:55.637Z",
+            "title": "Release v1.33.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.33.0",
+            "content": "playwright v1.33.0リリース。\n`locator.or()`の追加、`locator.filter`に`hasNot`と`hasNotText`オプションを追加、`toBeAttached` Assertioを追加など",
+            "tags": [
+                "playwright",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
