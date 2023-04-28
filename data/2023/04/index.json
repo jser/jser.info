@@ -676,6 +676,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-28T06:32:35.816Z",
+            "title": "Corepackを使ってNode.jsをアップデートする ⬆️⬆️",
+            "url": "https://azu.github.io/slide/2023/nodejs-corepack/corepack.html",
+            "content": "Node.js 14から18へのアップデート時に、npmも多く変わってしまっているので、Node.jsのアップデートとnpmのアップデートをCorepackを使って別々に行う方法についてのスライド。\nまた、Node.jsアップデート時に起きる問題をOS、native addon、peerDependencies、Node.jsそのものに分けて紹介している。",
+            "tags": [
+                "node.js",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
