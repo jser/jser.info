@@ -678,17 +678,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-04-28T06:32:35.816Z",
-            "title": "Corepackを使ってNode.jsをアップデートする ⬆️⬆️",
-            "url": "https://azu.github.io/slide/2023/nodejs-corepack/corepack.html",
-            "content": "Node.js 14から18へのアップデート時に、npmも多く変わってしまっているので、Node.jsのアップデートとnpmのアップデートをCorepackを使って別々に行う方法についてのスライド。\nまた、Node.jsアップデート時に起きる問題をOS、native addon、peerDependencies、Node.jsそのものに分けて紹介している。",
-            "tags": [
-                "node.js",
-                "slide"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2023-04-29T13:11:16.970Z",
             "title": "WebContainers now run on Safari, iOS, and iPadOS",
             "url": "https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-safari/",
@@ -761,6 +750,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-30T04:05:40.671Z",
+            "title": "Corepackを使ってNode.jsをアップデートする ⬆️⬆️",
+            "url": "https://azu.github.io/slide/2023/nodejs-corepack/corepack.html",
+            "content": "Node.js 14から18へのアップデート時に、npmも多く変わってしまっているので、Node.jsのアップデートとnpmのアップデートをCorepackを使って別々に行う方法についてのスライド。\nまた、Node.jsアップデート時に起きる問題をOS、native addon、peerDependencies、Node.jsそのものに分けて紹介している。",
+            "tags": [
+                "node.js",
+                "slide"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Node.js 14から18へアップデートする方法について | Web Scratch",
+                    "url": "https://efcl.info/2023/04/29/node.js-14-to-18/"
+                }
+            ]
         }
     ]
 }
