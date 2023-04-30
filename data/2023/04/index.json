@@ -737,6 +737,18 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-04-30T04:03:12.195Z",
+            "title": "現実世界におけるスキーマ設計の妥協 - Speaker Deck",
+            "url": "https://speakerdeck.com/sadnessojisan/xian-shi-shi-jie-niokerusukimashe-ji-notuo-xie",
+            "content": "JSON Schema/Swagger/zod/GraphQL/gRPCなどのスキーマとバリデーションについてのスライド。\n広く使われているJSON Schemaをベースにしたバリデーションを既存のアプリケーションに導入する話",
+            "tags": [
+                "JSON",
+                "JavaScript",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
