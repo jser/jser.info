@@ -11,6 +11,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-02T12:06:17.912Z",
+            "title": "Release v1.16.0 · remix-run/remix",
+            "url": "https://github.com/remix-run/remix/releases/tag/remix@1.16.0",
+            "content": "Remix 1.16.0リリース。\nCSS Modules/Vanilla Extract/PostCSSのサポートをStable化。tailwindのサポートをStable化。\nOpt-inで新しい`remix dev`を利用できるようになるなど。",
+            "tags": [
+                "Remix",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
