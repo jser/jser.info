@@ -69,6 +69,24 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-02T22:16:57.594Z",
+            "title": "docs: Add deprecation notice to Karma README · karma-runner/karma@450fdfd",
+            "url": "https://github.com/karma-runner/karma/commit/450fdfdac5b999967daec1020f1ac69cf9b854ab",
+            "content": "KarmaがDeprecatedとなり、今後は機能追加やバグ修正を受け付けないようになる。\n移行パスとしてJest、Web Test Runner、jasmine-browser-runner、Vitestなどを推奨している。",
+            "tags": [
+                "news",
+                "JavaScript",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Moving Angular CLI to Jest and Web Test Runner | by Doug Parker | Apr, 2023 | Angular Blog",
+                    "url": "https://blog.angular.io/moving-angular-cli-to-jest-and-web-test-runner-ef85ef69ceca"
+                }
+            ]
         }
     ]
 }
