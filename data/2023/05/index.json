@@ -58,6 +58,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-02T13:52:22.001Z",
+            "title": "Introducing storage on Vercel – Vercel",
+            "url": "https://vercel.com/blog/vercel-storage",
+            "content": "VercelがUpstashベースのKV Storage、NeonベースのPostgres、Cloudflare R2ベースのBlobストレージのサポート",
+            "tags": [
+                "webservice",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
