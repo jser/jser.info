@@ -22,6 +22,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-02T12:22:05.338Z",
+            "title": "Release v5.0.0 · redwoodjs/redwood",
+            "url": "https://github.com/redwoodjs/redwood/releases/tag/v5.0.0",
+            "content": "Redwood v5.0.0リリース。\nReact 18、Chakra UI v2にアップグレード、Serverless-AWS deployのサポートを終了。\nデフォルトのターゲットをNode.js 18に変更など",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
