@@ -186,6 +186,18 @@
                 "WebGL"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-04T03:56:18.356Z",
+            "title": "Say Allo' to the new Inquirer (release of the rewrite) · SBoudrias/Inquirer.js · Discussion #1214",
+            "url": "https://github.com/SBoudrias/Inquirer.js/discussions/1214",
+            "content": "Node.jsのターミナルプロンプトライブラリであるinquirerが`@inquirer/prompts`として新しく公開された。\n全ての機能を含む`@inquirer/prompts`と個別の機能ごとのパッケージをそれぞれ公開されている。\n",
+            "tags": [
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
