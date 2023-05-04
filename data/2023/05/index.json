@@ -161,6 +161,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-04T03:47:08.599Z",
+            "title": "React Canaries: Enabling Incremental Feature Rollout Outside Meta – React",
+            "url": "https://react.dev/blog/2023/05/03/react-canaries",
+            "content": "ReactにCanaryリリースが追加された。\n`npm install react@canary`で実験的な機能を含めたものをインストールできるようになる。",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
