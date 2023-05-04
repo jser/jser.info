@@ -149,6 +149,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-04T03:44:46.387Z",
+            "title": "Release v0.31.0 · vitest-dev/vitest",
+            "url": "https://github.com/vitest-dev/vitest/releases/tag/v0.31.0",
+            "content": "vitest v0.31.0リリース。\n`vi.hoisted`の追加、`test`に`repeats`オプションを追加など",
+            "tags": [
+                "vite",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
