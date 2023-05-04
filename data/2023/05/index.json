@@ -198,6 +198,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-04T03:58:10.191Z",
+            "title": "jsdom/Changelog.md at e5b8e8afdebee816862584cb7d45bdc6f86d54af · jsdom/jsdom",
+            "url": "https://github.com/jsdom/jsdom/blob/HEAD/Changelog.md#%E2%80%8B2200",
+            "content": "jsdom 22.0.0リリース。\nNode.js 14のサポート終了、`browserified`フィールドを使ったbrowser向けのbundleのサポートを終了など",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
