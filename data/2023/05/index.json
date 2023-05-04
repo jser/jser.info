@@ -126,6 +126,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-04T02:55:58.902Z",
+            "title": "Chrome 114 beta - Chrome Developers",
+            "url": "https://developer.chrome.com/en/blog/chrome-114-beta/",
+            "content": "Chrome 114 Betaリリース。\nCSSの`text-wrap: balance`の追加、`overflow: overlay`の追加。\nBFCacheが効かない理由をPerformanceNavigationTiming APIで取得できるように、Cookieの`Partitioned`属性に対応。\n`scrollend`イベント、Popover APIのサポートなど。\nOrigin TrialとしてBackground Blur APIを追加など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
