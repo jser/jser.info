@@ -115,6 +115,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-04T02:34:31.149Z",
+            "title": "Angular v16 is here!. Six months ago, we reached a… | by Minko Gechev | May, 2023 | Angular Blog",
+            "url": "https://blog.angular.io/angular-v16-is-here-4d7a28ec680d",
+            "content": "Angular 16リリース。\n新しいReactiveの仕組みとしてAngular Signals利用できるように。\nSSRとHydrationのパフォーマンス改善、standalone APIへの移行ツールの追加、esbuildベースのビルドを利用できるように。\nKarmaをDeprecatedとし、JestとWeb Test Runnerのサポートを追加など",
+            "tags": [
+                "Angular",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
