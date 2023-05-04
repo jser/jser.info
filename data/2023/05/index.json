@@ -174,20 +174,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-05-04T03:52:59.640Z",
-            "title": "Announcing Babylon.js 6.0. Our mission is to build one of the most… | by Babylon.js | Apr, 2023 | Medium",
-            "url": "https://babylonjs.medium.com/announcing-babylon-js-6-0-dcb5f1662e3a",
-            "content": "Babylon.js 6.0リリース。\nHavokの物理エンジンの追加、パフォーマンス優先モードの追加、流体レンダリングのサポートなど。\nGUIエディタがStableと変更。スクリーンリーダのサポート、ドキュメントの刷新など",
-            "tags": [
-                "JavaScript",
-                "3D",
-                "library",
-                "ReleaseNote",
-                "WebGL"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2023-05-04T03:56:18.356Z",
             "title": "Say Allo' to the new Inquirer (release of the rewrite) · SBoudrias/Inquirer.js · Discussion #1214",
             "url": "https://github.com/SBoudrias/Inquirer.js/discussions/1214",
@@ -209,6 +195,20 @@
                 "DOM",
                 "library",
                 "ReleaseNote"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2023-05-04T03:58:45.829Z",
+            "title": "Announcing Babylon.js 6.0. Our mission is to build one of the most… | by Babylon.js | Apr, 2023 | Medium",
+            "url": "https://babylonjs.medium.com/announcing-babylon-js-6-0-dcb5f1662e3a",
+            "content": "Babylon.js 6.0リリース。\nHavokの物理エンジンの追加、パフォーマンス優先モードの追加、流体レンダリングのサポートなど。\nGUIエディタをStableへと変更。スクリーンリーダのサポート、ドキュメントの刷新など",
+            "tags": [
+                "JavaScript",
+                "3D",
+                "library",
+                "ReleaseNote",
+                "WebGL"
             ],
             "relatedLinks": []
         }
