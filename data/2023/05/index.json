@@ -233,6 +233,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-08T15:55:32.773Z",
+            "title": "Astro 2.4 | Astro",
+            "url": "https://astro.build/blog/astro-240/",
+            "content": "Astro 2.4リリース。\n`scopedStyleStrategy`オプションの追加、`<Code />`コンポーネントの改善、SSR時にもサイトマップをサポート。\nフラグ付きでmiddlewareのサポート、CSSのインライン化のサポートなど",
+            "tags": [
+                "astro",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
