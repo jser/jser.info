@@ -281,6 +281,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-09T13:23:16.638Z",
+            "title": "natemoo-re/ultramatter: <1kB frontmatter parser that supports a reasonable subset of YAML",
+            "url": "https://github.com/natemoo-re/ultramatter",
+            "content": "frontmatterをパースする小さなライブラリ。\nYAMLの一部のサブセットのみを扱うことで、ファイルサイズを小さくしている。",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
