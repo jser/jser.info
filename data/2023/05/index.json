@@ -258,6 +258,18 @@
                 "CI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-09T12:58:14.189Z",
+            "title": "Release v0.1.10 · web-infra-dev/rspack",
+            "url": "https://github.com/web-infra-dev/rspack/releases/tag/v0.1.10",
+            "content": "rspack 0.1.10リリース。\n`compilation.modules`のサポート、`splitChunks`オプションの互換性の改善、Angularの初期サポートの追加など",
+            "tags": [
+                "webpack",
+                "rspack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
