@@ -270,6 +270,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-09T13:08:45.504Z",
+            "title": "Release v8.4.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v8.4.0",
+            "content": "pnpm v8.4.0リリース。\n`pnpm publish --provenance`をサポートなど",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
