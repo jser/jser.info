@@ -244,6 +244,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-09T12:29:10.336Z",
+            "title": "Unlighthouse - Site-wide Google Lighthouse · Unlighthouse",
+            "url": "https://unlighthouse.dev/",
+            "content": "サイトをクロールしてLighthouseによるスキャンをまとめてやってくれるツール。\nクロール対象をルーティングから定義もでき、結果をまとめたレポートを生成してくれる。",
+            "tags": [
+                "browser",
+                "JavaScript",
+                "Tools",
+                "performance",
+                "CI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
