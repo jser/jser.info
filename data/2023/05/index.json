@@ -381,6 +381,26 @@
                     "url": "https://blog.mozilla.org/accessibility/firefox-113-accessibility-performance/"
                 }
             ]
+        },
+        {
+            "date": "2023-05-10T00:38:54.973Z",
+            "title": "React Application Architecture for Production | Packt",
+            "url": "https://www.packtpub.com/product/react-application-architecture-for-production/9781801070539",
+            "content": "Reactでのアプリケーション開発についての書籍。\n著者はbulletproof-reactの人",
+            "tags": [
+                "React",
+                "book"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "PacktPublishing/React-Application-Architecture-for-Production: React Application Architecture for Production, published by Packt",
+                    "url": "https://github.com/PacktPublishing/React-Application-Architecture-for-Production/tree/main"
+                },
+                {
+                    "title": "alan2207/bulletproof-react: 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+                    "url": "https://github.com/alan2207/bulletproof-react"
+                }
+            ]
         }
     ]
 }
