@@ -364,6 +364,23 @@
                     "url": "https://www.jantrid.net/2022/12/22/Cache-the-World/"
                 }
             ]
+        },
+        {
+            "date": "2023-05-10T00:22:51.884Z",
+            "title": "Cache the World: Turbo Charging Firefox Accessibility Performance and Maintainability | Jantrid",
+            "url": "https://www.jantrid.net/2022/12/22/Cache-the-World/",
+            "content": "Firefox 113で入ったアクセシビリティエンジンの刷新の詳細。\nQuantumでパフォーマンスが低下したのを、キャッシュによって改善する取り組み。\nアクセシビリティツリーのキャッシュをするが、そのキャッシュを同期する仕組みについて",
+            "tags": [
+                "Firefox",
+                "accessibility",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 113 Significantly Boosts Accessibility Performance - Mozilla Accessibility",
+                    "url": "https://blog.mozilla.org/accessibility/firefox-113-accessibility-performance/"
+                }
+            ]
         }
     ]
 }
