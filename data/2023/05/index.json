@@ -340,6 +340,30 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-10T00:12:11.553Z",
+            "title": "Firefox 113.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/113.0/releasenotes/",
+            "content": "Firefox 113リリース。\nCSSの`color()`/`lab()`/`lch()`などのサポート、`of <selector>`構文をサポート。\nCompression Streams APIのサポート、AV1 video codecをサポート。\nアクセシビリティエンジンを刷新し、スクリーンリーダなどを使った際のパフォーマンスを改善など。",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 113 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/113"
+                },
+                {
+                    "title": "Firefox 113 Significantly Boosts Accessibility Performance - Mozilla Accessibility",
+                    "url": "https://blog.mozilla.org/accessibility/firefox-113-accessibility-performance/"
+                },
+                {
+                    "title": "Cache the World: Turbo Charging Firefox Accessibility Performance and Maintainability | Jantrid",
+                    "url": "https://www.jantrid.net/2022/12/22/Cache-the-World/"
+                }
+            ]
         }
     ]
 }
