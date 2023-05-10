@@ -401,6 +401,19 @@
                     "url": "https://github.com/alan2207/bulletproof-react"
                 }
             ]
+        },
+        {
+            "date": "2023-05-10T13:59:41.400Z",
+            "title": "Release v120 · esm-dev/esm.sh",
+            "url": "https://github.com/esm-dev/esm.sh/releases/tag/v120",
+            "content": "esm.sh v120リリース。\nesm.shの処理をCloudflare Worker上でしている`esm-worker`パッケージを公開。\nbuild APIが`types`オプションをサポート。",
+            "tags": [
+                "JavaScript",
+                "cdn",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
