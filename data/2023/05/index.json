@@ -436,6 +436,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-12T14:49:33.499Z",
+            "title": "Announcing Vue 3.3 | The Vue Point",
+            "url": "https://blog.vuejs.org/posts/vue-3-3",
+            "content": "Vue 3.3リリース。\n`<script setup lang=\"ts\">`でのTypeScriptの型定義の改善、双方向バインディングを扱う`defineModel()`の追加など",
+            "tags": [
+                "Vue",
+                "TypeScript",
+                "rlee"
+            ],
+            "relatedLinks": []
         }
     ]
 }
