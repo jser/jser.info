@@ -425,6 +425,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-12T00:07:15.990Z",
+            "title": "jQuery 3.7.0 Released: Staying in Order | Official jQuery Blog",
+            "url": "https://blog.jquery.com/2023/05/11/jquery-3-7-0-released-staying-in-order/",
+            "content": "jQuery 3.7.0リリース。\n`uniqueSort`メソッドの追加、単位なしのCSSプロパティのサポート、パフォーマンスの改善。\n\nIEでは`focus`/`blur`が非同期で実行されるが、他のブラウザでは同期的に実行されるため、挙動の違いが発生していた。\nIEでも同期的に実行される`focusin`/`focusout`を使いシミュレートすることで修正された。",
+            "tags": [
+                "jquery]",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
