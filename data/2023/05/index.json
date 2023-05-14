@@ -461,6 +461,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-14T12:16:30.381Z",
+            "title": "Rome v12.1.0",
+            "url": "https://rome.tools/blog/2023/05/10/rome12_1/",
+            "content": "Rome 12.1.0リリース。\nStage 3のDecoratorsのサポート、GitなどのVCSをサポートし`.gitignore`の設定などを利用できるように、ルールの追加や修正。\nstdinに対する`rome check`の対応、`rome migrate`コマンドの追加、ヘルプの改善など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
