@@ -510,6 +510,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-16T21:48:44.338Z",
+            "title": "Nuxt 3.5 · Nuxt",
+            "url": "https://nuxt.com/blog/v3-5",
+            "content": "Nuxt 3.5リリース。\nVue 3.3へアップデート、Nitropack 2.4にアップデート、JSONペイロードのシリアライズの改善。\n`nuxt.config`ファイルで環境ごとの設定を書けるように、実験的にルーティングから型定義を生成する仕組みを追加など",
+            "tags": [
+                "Vue",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
