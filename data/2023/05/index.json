@@ -535,6 +535,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-16T21:57:51.219Z",
+            "title": "Bun v0.6.0 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v0.6.0",
+            "content": "Bun 0.6.0リリース。\n`bun build`を追加しファイルをbundleとminifyできるbundler機能を追加、`bun build --compile`で単一実行可能ファイルを生成できるように。\n`import.meta.main`のサポート、`bun test`の改善、TypeScript 5.0のサポート、Import Attributesのサポート、Node.jsの互換性改善など",
+            "tags": [
+                "Bun",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The Bun Bundler | Bun Blog",
+                    "url": "https://bun.sh/blog/bun-bundler"
+                }
+            ]
         }
     ]
 }
