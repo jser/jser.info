@@ -497,6 +497,19 @@
                 "V8"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-16T05:10:47.614Z",
+            "title": "Introducing Deopt Explorer - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/introducing-deopt-explorer/",
+            "content": "TypeScriptのパフォーマンスを改善するためにインラインキャッシュをちゃんと使えるようにコードをリファクタリングしたという話。\nインラインキャッシュとMonomorphic/Polymorphic/Megamorphic、Deopt Explorerを使った最適化されていない箇所の分析と修正について",
+            "tags": [
+                "TypeScript",
+                "V8",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
