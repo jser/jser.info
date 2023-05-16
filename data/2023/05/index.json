@@ -473,6 +473,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-16T04:29:35.575Z",
+            "title": "Release 7.0.0-alpha.0 · lerna/lerna",
+            "url": "https://github.com/lerna/lerna/releases/tag/7.0.0-alpha.0",
+            "content": "lerna 7.0.0-alpha.0リリース。\n`lerna bootstrap`/`add`/`link`コマンドを別のパッケージに分離し、本体には含めないように変更",
+            "tags": [
+                "JavaScript",
+                "monorepo",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
