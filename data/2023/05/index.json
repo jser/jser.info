@@ -603,6 +603,17 @@
                     "url": "https://github.com/web-platform-dx/feature-set"
                 }
             ]
+        },
+        {
+            "date": "2023-05-19T06:37:33.659Z",
+            "title": "JS private class fields considered harmful – Lea Verou",
+            "url": "https://lea.verou.me/2023/04/private-fields-considered-harmful/",
+            "content": "ES2022で追加されたclassのprivate fieldsは、VueのようにProxyでReactiveな仕組みを実装するものと相性が悪いという話。",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
