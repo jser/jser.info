@@ -563,6 +563,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-19T06:03:09.894Z",
+            "title": "Node v20.2.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v20.2.0",
+            "content": "Node.js v20.2.0リリース。\n`http.createServer`に`rejectNonStandardBodyWrites`オプションを追加し、HEADリクエストにbodyがある場合にエラーとするように。\n`URL`クラスの`has`と`delete`に`value`引数を追加など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Add value argument to URLSearchParams's has() and delete() by annevk · Pull Request #735 · whatwg/url",
+                    "url": "https://github.com/whatwg/url/pull/735"
+                }
+            ]
         }
     ]
 }
