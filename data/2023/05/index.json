@@ -579,6 +579,30 @@
                     "url": "https://github.com/whatwg/url/pull/735"
                 }
             ]
+        },
+        {
+            "date": "2023-05-19T06:35:31.185Z",
+            "title": "Baseline",
+            "url": "https://web.dev/baseline/",
+            "content": "ブラウザによって広くサポートされている機能セットという定義を提供するBaselineについて。\nある機能が多くのブラウザでサポートされていてそれが使える状態かという軸で見る方法がなかったため、Baselineという定義をしていく取り組み。",
+            "tags": [
+                "browser",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing Baseline",
+                    "url": "https://web.dev/introducing-baseline/"
+                },
+                {
+                    "title": "Introducing Baseline: a unified view of stable web features | MDN Blog",
+                    "url": "https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features/"
+                },
+                {
+                    "title": "web-platform-dx/feature-set: Exploring how to present Web platform features adoptability",
+                    "url": "https://github.com/web-platform-dx/feature-set"
+                }
+            ]
         }
     ]
 }
