@@ -552,6 +552,17 @@
                     "url": "https://bun.sh/blog/bun-bundler"
                 }
             ]
+        },
+        {
+            "date": "2023-05-19T02:32:29.507Z",
+            "title": "Astro 2.5 | Astro",
+            "url": "https://astro.build/blog/astro-250/",
+            "content": "Astro 2.5リリース。\nData collectionsとしてJSONやYAMLを扱える仕組みの追加、`compressHTML`でHTMLを圧縮できるように、コンポーネントを並列レンダリングできるように。\n実験的な仕組みとして`hybridOutput`オプションを追加、Custom client directivesの追加など",
+            "tags": [
+                "astro",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
