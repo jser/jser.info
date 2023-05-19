@@ -630,6 +630,17 @@
                     "url": "https://efcl.info/2023/05/18/jsprimer-v2-yoyaku/"
                 }
             ]
+        },
+        {
+            "date": "2023-05-19T22:14:29.712Z",
+            "title": "ESLint v8.41.0 released - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2023/05/eslint-v8.41.0-released/",
+            "content": "ESLint v8.41.0リリース。\n`shouldUseFlatConfig()`を追加、`indent`ルールのパフォーマンス改善など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
