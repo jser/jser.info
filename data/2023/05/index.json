@@ -686,6 +686,17 @@
                     "url": "https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.0.0"
                 }
             ]
+        },
+        {
+            "date": "2023-05-21T14:42:01.872Z",
+            "title": "Announcing TypeScript 5.1 RC - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-1-rc/",
+            "content": "TypeScript 5.1 RCリリース。\n`undefined`を`return`する関数の型の扱いを改善、getterとsetter間でそれぞれ異なる型を指定できるように、JSXの改善。\nNode.js 14.17未満のサポート終了、`typeRoots`の上向きのパッケージ解決を無効化など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
