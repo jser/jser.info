@@ -641,6 +641,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-21T14:11:14.440Z",
+            "title": "WebKit Features in Safari 16.5 | WebKit",
+            "url": "https://webkit.org/blog/14154/webkit-features-in-safari-16-5/",
+            "content": "Safari 16.5リリース。\nCSS Nestingのサポート、`:user-valid`と`:user-invalid`の擬似クラスをサポート。\nLockdownモードでWebCodecs APIを無効化など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Safari 16.5 Release Notes | Apple Developer Documentation",
+                    "url": "https://developer.apple.com/documentation/safari-release-notes/safari-16_5-release-notes"
+                }
+            ]
         }
     ]
 }
