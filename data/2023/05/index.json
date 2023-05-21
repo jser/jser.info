@@ -657,6 +657,17 @@
                     "url": "https://developer.apple.com/documentation/safari-release-notes/safari-16_5-release-notes"
                 }
             ]
+        },
+        {
+            "date": "2023-05-21T14:33:33.950Z",
+            "title": "TypeScript 5.2 Iteration Plan · Issue #54298 · microsoft/TypeScript",
+            "url": "https://github.com/microsoft/TypeScript/issues/54298",
+            "content": "TypeScript 5.2で取り組む予定のIssue。\nECMAScript ProposalのDecorator Metadata、`using`の対応。\n明示的に型を定義せずに推論させるpartial type argument inferenceを扱う`_`の追加、`tsc`コマンドで変換プラグインを扱う仕組みの追加。\n並列解析でのパフォーマンス改善などに取り組む予定となっている",
+            "tags": [
+                "TypeScript",
+                "issue"
+            ],
+            "relatedLinks": []
         }
     ]
 }
