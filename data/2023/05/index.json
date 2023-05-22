@@ -697,6 +697,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-22T21:47:02.767Z",
+            "title": "Release v1.34.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.34.0",
+            "content": "playwright v1.34.0リリース。\nNode.js 14のサポート終了、`playwright`と`@playwright/test`を両方インストールしてる場合に`npx playwright test`が動かなくなるように変更。\nUIモードでテストのステップを表示できるように、`testProject.teardown`プロパティのサポート、`locator.and()`の追加など。",
+            "tags": [
+                "browser",
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
