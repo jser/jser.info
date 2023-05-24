@@ -710,6 +710,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-24T00:49:27.849Z",
+            "title": "Release v0.1.12 · web-infra-dev/rspack",
+            "url": "https://github.com/web-infra-dev/rspack/releases/tag/v0.1.12",
+            "content": "rspack v0.1.12リリース。\n`resolve.exportsFields`をサポート、Data URIのimportをサポートなど",
+            "tags": [
+                "javax",
+                "webpack",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
