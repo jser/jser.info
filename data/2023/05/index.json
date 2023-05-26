@@ -840,6 +840,25 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-26T02:34:46.394Z",
+            "title": "Using the Web Vitals extension to debug Core Web Vitals issues",
+            "url": "https://web.dev/debug-cwvs-with-web-vitals-extension/",
+            "content": "Web Vitals extensionを使ったWeb Vitalsに関する問題をデバッグ方法について",
+            "tags": [
+                "performance",
+                "browser",
+                "Chrome",
+                "Extension",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "GoogleChrome/web-vitals-extension: A Chrome extension to measure essential metrics for a healthy site",
+                    "url": "https://github.com/GoogleChrome/web-vitals-extension"
+                }
+            ]
         }
     ]
 }
