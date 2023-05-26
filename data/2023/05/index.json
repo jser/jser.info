@@ -812,6 +812,17 @@
                 "GUI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-26T02:31:38.046Z",
+            "title": "mizchi/lizod",
+            "url": "https://github.com/mizchi/lizod",
+            "content": "zodライクなTypeScriptの型として利用できるバリデーションライブラリ。\nzodからメソッドチェーンや複雑なバリデーションを取り除いたAPIを作ることで、ファイルサイズが小さくなることを目的にしている",
+            "tags": [
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
