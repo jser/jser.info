@@ -814,7 +814,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-05-26T02:31:38.046Z",
+            "date": "2023-05-26T02:32:14.446Z",
             "title": "mizchi/lizod",
             "url": "https://github.com/mizchi/lizod",
             "content": "zodライクなTypeScriptの型として利用できるバリデーションライブラリ。\nzodからメソッドチェーンや複雑なバリデーションを取り除いたAPIを作ることで、ファイルサイズが小さくなることを目的にしている",
@@ -822,7 +822,12 @@
                 "TypeScript",
                 "library"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "lizod: 1kb 未満の zod の精神的後継",
+                    "url": "https://zenn.dev/mizchi/articles/lizod-is-lightweight-zod"
+                }
+            ]
         }
     ]
 }
