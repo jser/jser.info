@@ -782,6 +782,24 @@
                 "debug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-26T02:22:39.989Z",
+            "title": "Release v3.2.0 · honojs/hono",
+            "url": "https://github.com/honojs/hono/releases/tag/v3.2.0",
+            "content": "Hono 3.2.0リリース\n`LinearRouter`と`PatternRouter`の追加。実行環境に合わせたプリセットの追加、` app.mount()` APIの追加、cookie middlewareの追加など",
+            "tags": [
+                "JavaScript",
+                "server",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Honoのv3.2が出ました",
+                    "url": "https://zenn.dev/yusukebe/articles/ee57dc12f34724"
+                }
+            ]
         }
     ]
 }
