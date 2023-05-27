@@ -859,6 +859,23 @@
                     "url": "https://github.com/GoogleChrome/web-vitals-extension"
                 }
             ]
+        },
+        {
+            "date": "2023-05-27T03:05:27.666Z",
+            "title": "Parcel v2.9.0",
+            "url": "https://parceljs.org/blog/v2-9-0/",
+            "content": "Parcel 2.9.0リリース。\n`exports`フィールドをopt-inでサポート、ESMで書かれた設定ファイルをサポート、ローカルのプラグインをサポート。\nデフォルトのminifyをSWCへ切り替え、`--trace`フラグで詳細なトレースデータを取得できるようになるなど",
+            "tags": [
+                "bundler",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v2.9.0 · parcel-bundler/parcel",
+                    "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.9.0"
+                }
+            ]
         }
     ]
 }
