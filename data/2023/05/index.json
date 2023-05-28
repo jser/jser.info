@@ -878,10 +878,10 @@
             ]
         },
         {
-            "date": "2023-05-28T00:29:22.606Z",
+            "date": "2023-05-28T00:38:26.919Z",
             "title": "Bun v0.6.4 | Bun Blog",
             "url": "https://bun.sh/blog/bun-v0.6.4",
-            "content": "Bun 0.6.4リリース。\n`bun test`のパフォーマンス改善、`.env.test`や`.env.test.local`をロードできるように、`process.env.TZ`でタイムゾーンの変更に対応。\n`require.cache`でimport cacheを削除できるようになるなど。",
+            "content": "Bun 0.6.4リリース。\n`bun test`のパフォーマンス改善、`.env.test`や`.env.test.local`をロードできるように、`process.env.TZ`でタイムゾーンの変更に対応。\n`require.cache`でimport cacheを削除できるようになるなど、ログの改善など",
             "tags": [
                 "Bun",
                 "ReleaseNote"
