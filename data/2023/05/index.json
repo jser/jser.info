@@ -876,6 +876,17 @@
                     "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.9.0"
                 }
             ]
+        },
+        {
+            "date": "2023-05-28T00:29:22.606Z",
+            "title": "Bun v0.6.4 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v0.6.4",
+            "content": "Bun 0.6.4リリース。\n`bun test`のパフォーマンス改善、`.env.test`や`.env.test.local`をロードできるように、`process.env.TZ`でタイムゾーンの変更に対応。\n`require.cache`でimport cacheを削除できるようになるなど。",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
