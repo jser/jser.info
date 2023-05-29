@@ -898,6 +898,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-29T01:44:32.210Z",
+            "title": "ECMAScript proposal updates @ 2023-05 | ECMAScript Daily",
+            "url": "https://ecmascript-daily.github.io/ecmascript/2023/05/27/ecmascript-proposal-update",
+            "content": "2023-05のTC39 MeetingでのECMAScript Proposalの変更点まとめ。\n`Atomics.waitAsync`、Well-Formed Unicode Strings 、RegExp `v` flag がStage 4となりES2024に入る。",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
