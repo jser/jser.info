@@ -910,6 +910,17 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-30T06:35:21.453Z",
+            "title": "Bun v0.6.5 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v0.6.5",
+            "content": "Bun 0.6.5リリース。\n以前はCommonJSをESMに変換して実行していたが、ネイティブにCommonJSをサポート。\n`npm_lifecycle_event`のサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
