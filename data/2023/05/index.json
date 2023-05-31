@@ -921,6 +921,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-31T13:22:23.272Z",
+            "title": "Release v5.0.0-beta.0 · reduxjs/redux",
+            "url": "https://github.com/reduxjs/redux/releases/tag/v5.0.0-beta.0",
+            "content": "Redux v5.0.0-beta.0リリース。\n`UnknownAction` typeの追加、ソースコードをTypeScriptにマイグレーション。\n`createStore`を非推奨に、dual packageの対応、IEのサポート終了など",
+            "tags": [
+                "redux",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
