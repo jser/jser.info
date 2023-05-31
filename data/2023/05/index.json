@@ -943,6 +943,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-05-31T13:30:48.587Z",
+            "title": "stepci/garph: Fullstack GraphQL Framework for TypeScript",
+            "url": "https://github.com/stepci/garph",
+            "content": "GraphQL APIスキーマをビルダー関数で組み立てて、フロントとサーバで共有できるtRPCライクなGraphQLライブラリ。\n",
+            "tags": [
+                "TypeScript",
+                "GraphQL",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
