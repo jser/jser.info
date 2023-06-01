@@ -78,6 +78,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-01T22:52:47.510Z",
+            "title": "Bun v0.6.6 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v0.6.6",
+            "content": "Bun 0.6.6リリース。\n`bun test`がGitHub Actions向けの出力をサポート、`bun test --only`/`bun test --todo`/`test.if()`/`describe.if()`の追加。\n`test()`が`timeout`オプションをサポート、`expect()`にmatcherを追加。\nFetch Upload Streamingのサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
