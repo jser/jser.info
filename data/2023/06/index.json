@@ -32,6 +32,17 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-01T02:50:48.059Z",
+            "title": "300ms Faster: Reducing Wikipedia's Total Blocking Time",
+            "url": "https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/",
+            "content": "WikipediaのTBTのパフォーマンス改善について。\n不要なJavaScriptの削除、event delegationを使った処理の最適化について",
+            "tags": [
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
