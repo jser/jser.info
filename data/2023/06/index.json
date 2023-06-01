@@ -55,6 +55,18 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-01T04:47:43.708Z",
+            "title": "State of Node.js Performance 2023",
+            "url": "https://blog.rafaelgss.dev/state-of-nodejs-performance-2023",
+            "content": "Node.js 16, 18, 20でのベンチマーク比較。\nfsやeventsなどの内部ベンチマーク、HTTPサーバのベンチマーク比較など",
+            "tags": [
+                "node.js",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
