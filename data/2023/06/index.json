@@ -67,6 +67,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-01T22:46:13.351Z",
+            "title": "Announcing TypeScript 5.1 - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-1/",
+            "content": "TypeScript 5.1リリース。\n`undefined`を`return`する関数の型の扱いを改善、getterとsetter間でそれぞれ異なる型を指定できるように、JSXの改善。\nNode.js 14.17未満のサポート終了、`typeRoots`の上向きのパッケージ解決を無効化など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
