@@ -89,6 +89,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-01T23:20:05.050Z",
+            "title": "Chrome 115 beta - Chrome Developers",
+            "url": "https://developer.chrome.com/en/blog/chrome-115-beta/",
+            "content": "Chrome 115 Betaリリース。\nスクロールベースのアニメーションである`ScrollTimeline`と`ViewTimeline`の追加、`WebAssembly.Module()`のメインスレッドでのモジュールサイズの制限を8MBに緩和。\nメインフレームのナビゲーションで自動的にHTTPSにアップデートし、HTTPへのフォールバックを行うように、Storage Partitioningをデフォルトで有効化など。\nOrigin TrialとしてCompute Pressure API、マジックコメントでのcompile hintsの追加、Storage Buckets APIの追加など。\n`document.domain`への代入を非推奨化、Mutation Eventsを非推奨化など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
