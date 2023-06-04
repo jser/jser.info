@@ -100,6 +100,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-04T23:06:32.477Z",
+            "title": "JavaScript Macros in Bun | Bun Blog",
+            "url": "https://bun.sh/blog/bun-macros",
+            "content": "Bun 0.6.0で実装されたbundlerを使ったbundle時のマクロ展開について。\n`import ... with { type: 'micro' }`でマクロとして読み込み、bundle時にそのモジュールの評価結果を埋め込む機能。\n",
+            "tags": [
+                "Bun",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
