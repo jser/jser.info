@@ -111,6 +111,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-07T14:10:54.384Z",
+            "title": "Astro 2.6: Middleware | Astro",
+            "url": "https://astro.build/blog/astro-260/",
+            "content": "Astro 2.6リリース。\nMiddlewares/`output: \"hybrid\"`/Custom client directivesのStable化。\nCSSをインライン化する`inlineStylesheets: \"auto\"`オプションの追加、実験的にリダイレクト機能の追加など",
+            "tags": [
+                "astro",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
