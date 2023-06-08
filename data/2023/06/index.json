@@ -139,6 +139,23 @@
                     "url": "https://github.com/Boshen/oxc/releases/tag/v0.1.0"
                 }
             ]
+        },
+        {
+            "date": "2023-06-08T23:12:21.661Z",
+            "title": "Release 7.0.0 · lerna/lerna",
+            "url": "https://github.com/lerna/lerna/releases/tag/7.0.0",
+            "content": "lerna 7.0.0リリース。\n`lerna bootstrap`/`add`/`link`は削除された。デフォルトでworkspacesを使うようになり、`useWorkspaces`オプションの削除。\n非推奨となっていたオプションの削除など",
+            "tags": [
+                "JavaScript",
+                "monorepo",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Legacy Package Management | Lerna",
+                    "url": "https://lerna.js.org/docs/legacy-package-management"
+                }
+            ]
         }
     ]
 }
