@@ -122,6 +122,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-08T05:07:33.535Z",
+            "title": "Open sourcing Ezno's checker and trying out / previewing the JavaScript type checker today · kaleidawave/ezno · Discussion #21",
+            "url": "https://github.com/kaleidawave/ezno/discussions/21",
+            "content": "Rustで書かれたTypeScriptの型チェッカーであるEnzoがリリースされた。\nまだサポートされていない構文なども多いがOxc CLIを通して利用できるようになった",
+            "tags": [
+                "TypeScript",
+                "Rust",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release CLI v0.1.0 Ezno Type Checker · Boshen/oxc",
+                    "url": "https://github.com/Boshen/oxc/releases/tag/v0.1.0"
+                }
+            ]
         }
     ]
 }
