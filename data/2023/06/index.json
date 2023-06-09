@@ -167,6 +167,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-09T12:29:50.843Z",
+            "title": "Node v20.3.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v20.3.0",
+            "content": "Node.js v20.3.0リリース。\nlibuv 1.45.0にアップデート、`AbortSignal.any()`の実装など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
