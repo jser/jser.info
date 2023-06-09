@@ -156,6 +156,17 @@
                     "url": "https://lerna.js.org/docs/legacy-package-management"
                 }
             ]
+        },
+        {
+            "date": "2023-06-09T11:58:01.754Z",
+            "title": "The origin private file system",
+            "url": "https://web.dev/origin-private-file-system/",
+            "content": "Origin private file systemについて。\nOriginごとのルートディレクトリがあり、メインスレッドまたはWeb Workerから利用できる。\nWeb Workerからは同期APIも利用できる。",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
