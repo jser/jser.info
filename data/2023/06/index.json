@@ -190,6 +190,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-10T13:32:33.990Z",
+            "title": "Announcing Rspack 0.2 - Rspack",
+            "url": "https://www.rspack.dev/blog/announcing-0.2.html",
+            "content": "Rspack 0.2リリース。\nPlugin Hooksの追加、ESM形式のoutputに対応、`SplitChunksPlugin`の実装、Data URIのサポート、Vue/Svelte/NestJSの対応など",
+            "tags": [
+                "webpack",
+                "rspack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
