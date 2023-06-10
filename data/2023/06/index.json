@@ -214,6 +214,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-10T22:27:45.002Z",
+            "title": "Bun v0.6.8 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v0.6.8",
+            "content": "Bun v0.6.8リリース。\n`Bun.password`の追加、`bun:test`モジュールに`mock`/`spyOn`関数を追加。\n`Bun.serve`にブラウザからWebSocketsを使ったデバッガーに接続できる`inspector`オプションの追加など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
