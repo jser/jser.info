@@ -225,6 +225,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-10T23:33:37.396Z",
+            "title": "Release v1.35.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.35.0",
+            "content": "playwright v1.35.0リリース。\nUI modeでRoute APIが処理したリクエストを表示するように、スクリーンショットに`maskColor`オプションを追加、`uninstall`サブコマンドを追加。\nバイナリを`playwright`から`playwright-core`へリネームなど",
+            "tags": [
+                "playwright",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
