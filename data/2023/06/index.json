@@ -202,6 +202,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-10T13:41:20.440Z",
+            "title": "Tresjs/tres: Declarative ThreeJS using Vue Components",
+            "url": "https://github.com/tresjs/tres",
+            "content": "TrheeJSとVueを使った宣言的に3DのViewを作成できるライブラリ",
+            "tags": [
+                "Vue",
+                "WebGL",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
