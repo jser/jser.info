@@ -236,6 +236,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-10T23:37:25.044Z",
+            "title": "NakedJSX - Use JSX without React",
+            "url": "https://nakedjsx.org/",
+            "content": "JSXから静的なHTMLと小さなランタイムを生成するツールキット。\nScoped CSSを扱う機能、開発用サーバ、画像/CSS/HTML/JSの最適化して出力をする機能を持っている。",
+            "tags": [
+                "jsx",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
