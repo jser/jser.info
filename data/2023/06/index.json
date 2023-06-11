@@ -250,17 +250,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-06-10T23:47:04.044Z",
-            "title": "evanw/polywasm",
-            "url": "https://github.com/evanw/polywasm",
-            "content": "`globalThis.WebAssembly`のpolyfill実装。\nApple/SafariのLockdown Modeのように`WebAssembly` APIが利用できない環境でも、`.wasm`を実行するためのpolyfill。",
-            "tags": [
-                "WebAssembly",
-                "JavaScript"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2023-06-11T00:01:31.437Z",
             "title": "RSC From Scratch. Part 1: Server Components · reactwg/server-components · Discussion #5",
             "url": "https://github.com/reactwg/server-components/discussions/5",
@@ -280,6 +269,19 @@
                 "CSS",
                 "article",
                 "slide"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2023-06-11T00:52:42.022Z",
+            "title": "evanw/polywasm",
+            "url": "https://github.com/evanw/polywasm",
+            "content": "`globalThis.WebAssembly`のpolyfill実装。\nApple/SafariのLockdown Modeのように`WebAssembly` APIが利用できない環境でも、`.wasm`を実行するためのpolyfill。",
+            "tags": [
+                "WebAssembly",
+                "JavaScript",
+                "library",
+                "polyfill"
             ],
             "relatedLinks": []
         }
