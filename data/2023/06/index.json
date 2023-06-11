@@ -270,6 +270,18 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-11T00:49:31.301Z",
+            "title": "Modern CSS in Real Life - Chris Coyier",
+            "url": "https://chriscoyier.net/2023/06/06/modern-css-in-real-life/",
+            "content": "モダンなCSSの機能についてのスライドと解説。\nLogical Properties、Container Queries、Cascade Layers、CSS Colorsと`oklch()`、View Transitions APIについて",
+            "tags": [
+                "CSS",
+                "article",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
