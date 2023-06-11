@@ -259,6 +259,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-11T00:01:31.437Z",
+            "title": "RSC From Scratch. Part 1: Server Components · reactwg/server-components · Discussion #5",
+            "url": "https://github.com/reactwg/server-components/discussions/5",
+            "content": "React Server Components (RSC)を一から実装してみるチュートリアル。\nSSRとRSCの違い。\nJSXのHTMLへの変換しHTMLを返しレンダリング、入力状態を維持したままナビゲーションをするためにJSXをオブジェクトとして返しクライアントでレンダリング。",
+            "tags": [
+                "React",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
