@@ -297,6 +297,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-12T12:27:19.723Z",
+            "title": "Turborepo 1.10 – Turbo",
+            "url": "https://turbo.build/blog/turbo-1-10-0",
+            "content": "Turborepo 1.10リリース。\nPlopを使った`turbo gen`の追加、`.env`のサポート、`--env-mode`がStableに変更など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Consistency Made Simple : PLOP",
+                    "url": "https://plopjs.com/"
+                }
+            ]
         }
     ]
 }
