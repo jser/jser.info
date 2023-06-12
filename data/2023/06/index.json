@@ -284,6 +284,19 @@
                 "polyfill"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-12T02:50:31.600Z",
+            "title": "Release 3.31.0 - 2023.06.12 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.31.0",
+            "content": "core-js v3.31.0リリース。\nProposal Stageの変更への対応。\nArray GroupingはStage 2へ降格し、静的メソッドである`Object.groupBy`を追加。\n`Promise.withResolvers`の追加など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "polyfill",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
