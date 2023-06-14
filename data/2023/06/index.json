@@ -314,6 +314,18 @@
                     "url": "https://plopjs.com/"
                 }
             ]
+        },
+        {
+            "date": "2023-06-14T22:17:41.428Z",
+            "title": "Release v8.1.0 · reduxjs/react-redux",
+            "url": "https://github.com/reduxjs/react-redux/releases/tag/v8.1.0",
+            "content": "React-Redux v8.1.0リリース。\n開発モードでは`useSelector`が同じ入力に対して同じ結果を返すかをチェックする仕組みが追加された。\nselectorを同じ入力で2回呼び出し、異なる参照の場合は警告を出す仕組み",
+            "tags": [
+                "React",
+                "redux",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
