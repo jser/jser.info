@@ -326,6 +326,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-17T06:47:08.514Z",
+            "title": "Fresh 1.2 – welcoming a full-time maintainer, sharing state between islands, limited npm support, and more",
+            "url": "https://deno.com/blog/fresh-1.2",
+            "content": "Deno向けのWeb FrameworkであるFresh 1.2リリース。\nメインメンテナーをPreactのMarvin Hagemeisterに交代。\nSigalsをhydrateできるように、`npm:`識別子の対応、HEADハンドラーの追加。\n`islands/`のサブディレクトリのサポート、プラグインが非同期処理に対応など",
+            "tags": [
+                "deno",
+                "library",
+                "ReleaseNote",
+                "React"
+            ],
+            "relatedLinks": []
         }
     ]
 }
