@@ -341,13 +341,14 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-06-17T06:49:11.064Z",
+            "date": "2023-06-17T06:49:18.950Z",
             "title": "Release v10.0.0 · nestjs/nest",
             "url": "https://github.com/nestjs/nest/releases/tag/v10.0.0",
             "content": "NestJS v10.0.0リリース。\nNode.js 12, 14のサポート終了、`@nestjs/common`から`CacheModule`を削除など",
             "tags": [
                 "node.js",
-                "library"
+                "library",
+                "ReleaseNote"
             ],
             "relatedLinks": [
                 {
