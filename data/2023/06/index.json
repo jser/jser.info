@@ -356,6 +356,18 @@
                     "url": "https://docs.nestjs.com/migration-guide"
                 }
             ]
+        },
+        {
+            "date": "2023-06-17T07:06:49.694Z",
+            "title": "The Cloud is dead, long live the Cloud! Announcing Wasmer Edge",
+            "url": "https://wasmer.io/posts/announcing-wasmer-edge",
+            "content": "Wasmer Edgeのリリース。\nWebAssemblyのアプリケーションをWasmtimeで動かすプラットフォーム。\nShared nothingのアーキテクチャを採用した分散モノリスのアプローチ。",
+            "tags": [
+                "WebAssembly",
+                "webservice",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
