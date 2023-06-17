@@ -384,6 +384,17 @@
                     "url": "https://www.fermyon.com/blog/next-generation-of-serverless-is-happening"
                 }
             ]
+        },
+        {
+            "date": "2023-06-17T07:58:19.047Z",
+            "title": "Modern CSS For Dynamic Component-Based Architecture | Modern CSS Solutions",
+            "url": "https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/",
+            "content": "モダンなCSSを使ったコンポーネントベースのアーキテクチャについて。\n`@layer`を使ったLayout、`:has()`やCustom Propertiesを使ったVariants。\n`@container style()`を使ったスタイルの条件分岐、Container QueryとMedia Queryによるブレークポイントでのデバイスサイズ出し分けの違いについてなど",
+            "tags": [
+                "CSS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
