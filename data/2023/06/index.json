@@ -395,6 +395,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-18T13:03:55.001Z",
+            "title": "Release v5.0.0 ❤️ · gvergnaud/ts-pattern",
+            "url": "https://github.com/gvergnaud/ts-pattern/releases/tag/v5.0.0",
+            "content": "TypeScript向けのパターンマッチングライブラリであるts-pattern 5.0.0リリース。\n`.with`の動作変更、method chainのサポートなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
