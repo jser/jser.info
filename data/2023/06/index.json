@@ -430,6 +430,19 @@
                     "url": "https://github.com/microsoft/TypeScript/issues/52955"
                 }
             ]
+        },
+        {
+            "date": "2023-06-20T14:17:14.206Z",
+            "title": "Introducing HTTP/3 Prioritization",
+            "url": "https://blog.cloudflare.com/better-http-3-prioritization-for-a-faster-web/",
+            "content": "HTTP/3 Extensible Prioritiesをサポートすることで、Webページの読み込みがどれぐらい改善されるかについて",
+            "tags": [
+                "HTTP3",
+                "performance",
+                "article",
+                "cloudflare"
+            ],
+            "relatedLinks": []
         }
     ]
 }
