@@ -407,6 +407,29 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-20T14:09:57.934Z",
+            "title": "TypeScript 5.2's New Keyword: 'using' | Total TypeScript",
+            "url": "https://www.totaltypescript.com/typescript-5-2-new-keyword-using",
+            "content": "TypeScript 5.2で実装予定のECMAScript Proposal Stage 3の`using`について。\nリソース解放のパターンを`using`構文としてサポートする",
+            "tags": [
+                "TypeScript",
+                "JavaScript",
+                "ECMAScript",
+                "proposal",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "tc39/proposal-explicit-resource-management: ECMAScript Explicit Resource Management",
+                    "url": "https://github.com/tc39/proposal-explicit-resource-management"
+                },
+                {
+                    "title": "ECMAScript Explicit Resource Management & `using` Declarations · Issue #52955 · microsoft/TypeScript",
+                    "url": "https://github.com/microsoft/TypeScript/issues/52955"
+                }
+            ]
         }
     ]
 }
