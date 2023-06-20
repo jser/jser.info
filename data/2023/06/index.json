@@ -443,6 +443,18 @@
                 "cloudflare"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-20T22:46:41.044Z",
+            "title": "Tuesday June 20 2023 Security Releases | Node.js",
+            "url": "https://nodejs.org/en/blog/vulnerability/june-2023-security-releases",
+            "content": "Node.jsのセキュリティアップデートとして、16.x/18.x/20.xがそれぞれ公開された。\n\n- Node.js v16.20.1 (LTS)\n- Node.js v18.16.1 (LTS)\n- Node.js v20.3.1 (Current)\n",
+            "tags": [
+                "node.js",
+                "ReleaseNote",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
