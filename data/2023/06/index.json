@@ -467,6 +467,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-22T13:23:05.326Z",
+            "title": "Panda CSS - Build modern websites using build time and type-safe CSS-in-JS",
+            "url": "https://panda-css.com/",
+            "content": "CSS in JSフレームワーク。\nTypeScriptでType Safeにスタイルを書くことができ、ツールを通してCSSファイルとして出力することで、実行時にはJSが不要になっている。",
+            "tags": [
+                "CSS",
+                "TypeScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
