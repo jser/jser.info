@@ -496,6 +496,17 @@
                     "url": "https://www.smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/"
                 }
             ]
+        },
+        {
+            "date": "2023-06-22T13:57:51.398Z",
+            "title": "Cyclic Dependency Space Toggles",
+            "url": "https://kizu.dev/cyclic-toggles/",
+            "content": "CSS Variablesを使ってロジックゲートを実装する方法について。\n循環参照するVariablesは無効となる仕様を利用し、Variablesにif文的な切り替えを実装する方法について。またなぜこのような仕様と実装になったのかについて",
+            "tags": [
+                "CSS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
