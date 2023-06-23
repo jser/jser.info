@@ -507,6 +507,26 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-23T12:06:49.525Z",
+            "title": "Announcing Svelte 4",
+            "url": "https://svelte.dev/blog/svelte-4",
+            "content": "Svelte 4リリース。\nNode.js 14のサポート終了、CJSの出力は廃止しESMのみをサポートするように、Custom Elementsの対応を`tag`オプションから`customElement`オプションに変更。\n生成するファイルサイズの削減、ウェブサイトのドキュメントを刷新など",
+            "tags": [
+                "Svelte",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Svelte 4 migration guide • Docs • Svelte",
+                    "url": "https://svelte.dev/docs/v4-migration-guide"
+                },
+                {
+                    "title": "Release svelte@4.0.0 · sveltejs/svelte",
+                    "url": "https://github.com/sveltejs/svelte/releases/tag/svelte%404.0.0"
+                }
+            ]
         }
     ]
 }
