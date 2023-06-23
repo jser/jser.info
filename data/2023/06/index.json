@@ -527,6 +527,17 @@
                     "url": "https://github.com/sveltejs/svelte/releases/tag/svelte%404.0.0"
                 }
             ]
+        },
+        {
+            "date": "2023-06-23T12:29:03.012Z",
+            "title": "Ember 5.0 Released",
+            "url": "https://blog.emberjs.com/ember-5-0-released/",
+            "content": "Ember 5.0リリース。\nEmberではメジャーアップデートは機能追加をせず、破壊的変更のみを行う。\n`AutoLocation`の削除、`@ember/error`パッケージの削除、`Ember.String`の削除など",
+            "tags": [
+                "Ember",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
