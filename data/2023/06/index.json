@@ -550,6 +550,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-26T12:19:11.743Z",
+            "title": "Release v0.18.9 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.18.9",
+            "content": "esbuild v0.18.9リリース。\n`await using`の対応漏れの修正、autoprefixer的のようにCSSのprefixを自動で追加できるようになるなど",
+            "tags": [
+                "JavaScript",
+                "CSS",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
