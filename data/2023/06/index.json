@@ -591,6 +591,17 @@
                     "url": "https://testing-library.com/docs/queries/about/"
                 }
             ]
+        },
+        {
+            "date": "2023-06-27T11:06:09.606Z",
+            "title": "Bun v0.6.10 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v0.6.10",
+            "content": "Bun v0.6.10リリース。\nCommonJSの互換性を改善しwebpack動作するように、`require.main`のサポート、`__esModule`フラグを解釈するように。\n`fs.watch`の実装、V8の`Error.captureStackTrace`の実装。\n`bun install`時にライフサイクルスクリプトの実行を許可するパッケージを定義する`trustedDependencies`フィールドのサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
