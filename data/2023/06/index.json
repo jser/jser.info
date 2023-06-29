@@ -642,6 +642,23 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-29T00:43:54.065Z",
+            "title": "The Cost Of JavaScript - 2023 - YouTube",
+            "url": "https://www.youtube.com/watch?v=ZKH3DLT4BKw",
+            "content": "JavaScriptのコストについての動画とスライド。\nJavaScriptのダウンロード、実行のコスト。\nCode SplittingやDynamic Importなどの最適化。\nIslands ArchitectureのPartial Hydration、QwikのResumalable Hydration、ReactのSelective Hydationについて。",
+            "tags": [
+                "JavaScript",
+                "video",
+                "performance"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The Cost Of JavaScript in 2023 - Speaker Deck",
+                    "url": "https://speakerdeck.com/addyosmani/the-cost-of-javascript-in-2023?slide=31"
+                }
+            ]
         }
     ]
 }
