@@ -613,6 +613,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-06-29T00:32:36.638Z",
+            "title": "Release v3.0.0 · cloudflare/miniflare",
+            "url": "https://github.com/cloudflare/miniflare/releases/tag/v3.0.0",
+            "content": "miniflare v3.0.0リリース。\nworkerdを利用するのようになった。\nCLIが同梱されなくなり`wrangler`を経由してCLIとして利用できる。\nまたいくつかのAPIが削除や変更されている。",
+            "tags": [
+                "cloudflare",
+                "ReleaseNote",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "⬆️ Migrating from Version 2 · Miniflare",
+                    "url": "https://miniflare.dev/get-started/migrating"
+                }
+            ]
         }
     ]
 }
