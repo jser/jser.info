@@ -12,6 +12,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-03T11:56:15.460Z",
+            "title": "ESLint v8.44.0 released - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2023/06/eslint-v8.44.0-released/",
+            "content": "ESLint v8.44.0リリース。\n`eslint.config.js`でPromiseを受け入れることで設定ファイル(CJS)からESMをロードできるように、espreeがRegExpの`v`フラグをサポート。\n`context.parserServices`プロパティを非推奨化など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
