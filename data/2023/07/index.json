@@ -23,6 +23,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-03T12:02:36.499Z",
+            "title": "Announcing TypeScript 5.2 Beta - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-2-beta/",
+            "content": "TypeScript 5.2 Betaリリース。\nStage 3 ProposalのExplicit Resource Management(`using`宣言)のサポート、Decorator Metadataのサポート。\nTupleにおけるラベルありなしの組み合わせの制限を削除、配列のUnion型の扱いの改善など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
