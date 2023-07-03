@@ -69,6 +69,20 @@
                     "url": "https://github.com/tc39/ecma262/releases/tag/es2023"
                 }
             ]
+        },
+        {
+            "date": "2023-07-03T22:40:06.413Z",
+            "title": "Release v4.0.0 · lquixada/cross-fetch",
+            "url": "https://github.com/lquixada/cross-fetch/releases/tag/v4.0.0",
+            "content": "cross-fetch 4.0.0リリース。\nNode.js 10と12のサポート終了、Node.js 18と20のサポート、Service WorkerとCloudflare Workersのサポートなど",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "node.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
