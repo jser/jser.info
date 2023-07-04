@@ -107,6 +107,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-04T02:34:43.478Z",
+            "title": "Architecture of an early stage SAAS | Feelback Blog",
+            "url": "https://www.feelback.dev/blog/feelback-saas-launch-architecture/",
+            "content": "fly.io と Node.jsを使ったSaaSのアーキテクチャ解説。\nfly.ioを使った低コストなインフラの構成。\nクライアントとサーバどちらもNode.jsで、型付きRPCとしてhttpcを利用。\n管理画面はCloudflare Pagesにありhttpcを使って通信、ホームページやドキュメントにはAstroを利用している。\nまた、利用している外部サービスやmonorepoの構造についてなど",
+            "tags": [
+                "webservice",
+                "article",
+                "node.js"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "httpc: function-based API made easy",
+                    "url": "https://httpc.dev/"
+                }
+            ]
         }
     ]
 }
