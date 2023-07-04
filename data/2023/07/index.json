@@ -124,6 +124,19 @@
                     "url": "https://httpc.dev/"
                 }
             ]
+        },
+        {
+            "date": "2023-07-04T02:41:44.865Z",
+            "title": "giuseppelt/httpc: Build function-based API with minimal code and end-to-end type safety",
+            "url": "https://github.com/giuseppelt/httpc",
+            "content": "TypeScriptで書いたサーバの関数をクライアントから同じように呼び出せるRPCツールキット。\nサーバで関数をexportしたコードからクライアントコードを生成する仕組みによって、サーバの関数と同じ関数と引数でAPIコールができる。",
+            "tags": [
+                "TypeScript",
+                "JavaScript",
+                "library",
+                "server"
+            ],
+            "relatedLinks": []
         }
     ]
 }
