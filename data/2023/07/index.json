@@ -139,10 +139,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-07-04T22:53:42.735Z",
+            "date": "2023-07-04T23:16:21.856Z",
             "title": "Firefox 115.0, See All New Features, Updates and Fixes",
             "url": "https://www.mozilla.org/en-US/firefox/115.0/releasenotes/",
-            "content": "Firefox 115リリース。\nmacOS 10.14以下、Windows7/8/8.1がサポートされる最後のバージョンとなる。\n` Array.fromAsync()`のサポート、ES2023の`Array.toReversed()`/`.toSorted()`/`.toSpliced()`/`.with()`のサポート。\n`Response.json()`、`URL.canParse()`のサポートなど",
+            "content": "Firefox 115リリース。\nmacOS 10.14以下、Windows7/8/8.1がサポートされる最後のバージョンとなる。\n`contenteditable`におけるノード分割と結合の挙動を他のブラウザと揃えるように変更。\n` Array.fromAsync()`のサポート、ES2023の`Array.toReversed()`/`.toSorted()`/`.toSpliced()`/`.with()`のサポート。\n`Response.json()`、`URL.canParse()`のサポートなど。",
             "tags": [
                 "Firefox",
                 "ReleaseNote"
