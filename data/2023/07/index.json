@@ -161,6 +161,19 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/115"
                 }
             ]
+        },
+        {
+            "date": "2023-07-04T23:40:11.822Z",
+            "title": "Release v29.6.0 · jestjs/jest",
+            "url": "https://github.com/jestjs/jest/releases/tag/v29.6.0",
+            "content": "Jest 29.6.0リリース。\nCurrent Testでのsnapshotテストのサポート、非同期でエラーがthrowされた場合の問題を`rejectionHandled`イベントを使うことで修正など",
+            "tags": [
+                "jest",
+                "JavaScript",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
