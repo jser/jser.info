@@ -191,6 +191,20 @@
                     "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/Ob-T1HSe-4I?pli=1"
                 }
             ]
+        },
+        {
+            "date": "2023-07-05T14:38:20.630Z",
+            "title": "CommonJSからES Modulesへの移行する方法。トップダウンかボトムアップか | Web Scratch",
+            "url": "https://efcl.info/2023/07/05/convert-to-esm/",
+            "content": "ESMへの移行は、依存関係の読み込み側に影響を与えるため、ボトムアップではなくトップダウンで段階的な移行ができるという話。\n依存ツリーの作成や段階的な移行をするための境界線の見つけ方、CJSからESMを読む回避策などについて",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "ECMAScript",
+                "CommonJS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
