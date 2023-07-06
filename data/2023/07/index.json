@@ -216,6 +216,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-06T12:04:08.155Z",
+            "title": "Bun v0.6.13 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v0.6.13",
+            "content": "Bun v0.6.13リリース。\n`bun:test`がDateのmockに対応、`Buffer.toString(\"base64\")`のパフォーマンス改善、`node:tls`と`node:net`の互換性の改善。\n`Buffer.isUtf8()`と`isAcii()`の実装、`WebSocket`クライアントのバグ修正など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
