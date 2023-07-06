@@ -205,6 +205,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-06T11:43:26.332Z",
+            "title": "Node v20.4.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v20.4.0",
+            "content": "Node.js v20.4.0リリース。\n`node:test`がTimerのMockをサポート、ECMAScript Stage 3のExplicit Resource Management(`using`)のサポートなど",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
