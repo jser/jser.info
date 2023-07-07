@@ -227,6 +227,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-07T01:48:32.281Z",
+            "title": "Prettier 3.0: Hello, ECMAScript Modules! · Prettier",
+            "url": "https://prettier.io/blog/2023/07/05/3.0.0.html",
+            "content": "Prettier 3.0リリース。\nMarkdownで日本語/中国語と英語の間にスペースを入れないように変更、CJKの禁則処理に対応。\nプラグインで非同期パーサをサポート、設定ファイルでESMをサポート、`trailingComma`のデフォルト値を`all`に変更など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
