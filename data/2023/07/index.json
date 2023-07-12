@@ -193,20 +193,6 @@
             ]
         },
         {
-            "date": "2023-07-05T14:38:20.630Z",
-            "title": "CommonJSからES Modulesへの移行する方法。トップダウンかボトムアップか | Web Scratch",
-            "url": "https://efcl.info/2023/07/05/convert-to-esm/",
-            "content": "ESMへの移行は、依存関係の読み込み側に影響を与えるため、ボトムアップではなくトップダウンで段階的な移行ができるという話。\n依存ツリーの作成や段階的な移行をするための境界線の見つけ方、CJSからESMを読む回避策などについて",
-            "tags": [
-                "JavaScript",
-                "node.js",
-                "ECMAScript",
-                "CommonJS",
-                "article"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2023-07-06T11:43:26.332Z",
             "title": "Node v20.4.0 (Current) | Node.js",
             "url": "https://nodejs.org/en/blog/release/v20.4.0",
@@ -408,6 +394,20 @@
                 "Markdown",
                 "JavaScript",
                 "library"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2023-07-12T21:33:34.453Z",
+            "title": "CommonJSからES Modulesへの移行する方法。トップダウンかボトムアップか | Web Scratch",
+            "url": "https://efcl.info/2023/07/05/convert-to-esm/",
+            "content": "Node.jsにおけるESMへの移行は、依存関係の読み込み側に影響を与えるため、ボトムアップではなくトップダウンで段階的な移行ができるという話。\n依存ツリーの作成や段階的な移行をするための境界線の見つけ方、CJSからESMをインポートする回避策などについて",
+            "tags": [
+                "JavaScript",
+                "node.js",
+                "ECMAScript",
+                "CommonJS",
+                "article"
             ],
             "relatedLinks": []
         }
