@@ -293,6 +293,19 @@
                     "url": "https://boajs.dev/boa/test262/"
                 }
             ]
+        },
+        {
+            "date": "2023-07-12T11:12:09.450Z",
+            "title": "アニメーションの実装が劇的に簡単になるFLIPテクニック",
+            "url": "https://katashin.info/posts/flip-animation/",
+            "content": "FLIP(First, Last, Invert, Play)というアニメーションのテクニックについて。\n複雑な座標計算をせずにアニメーションを実装する方法。",
+            "tags": [
+                "JavaScript",
+                "CSS",
+                "animation",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
