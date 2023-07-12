@@ -308,7 +308,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-07-12T11:16:28.438Z",
+            "date": "2023-07-12T11:16:30.697Z",
             "title": "Release 5.0.0 · prisma/prisma",
             "url": "https://github.com/prisma/prisma/releases/tag/5.0.0",
             "content": "Prisma 5.0.0リリース。\n実験的な機能だった`jsonProtocol`/`fieldReference`/`extendedWhereUnique`をStableに変更。\nNode.js 14のサポート終了、暗黙的に配列とみなす\"array shortcuts\"のサポートを削除、非推奨のオプションの削除など",
