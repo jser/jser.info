@@ -325,6 +325,24 @@
                     "url": "https://www.prisma.io/docs/guides/upgrade-guides/upgrading-versions/upgrading-to-prisma-5"
                 }
             ]
+        },
+        {
+            "date": "2023-07-12T11:47:44.340Z",
+            "title": "Release v6.0.0 · styled-components/styled-components",
+            "url": "https://github.com/styled-components/styled-components/releases/tag/v6.0.0",
+            "content": "styled-components v6.0.0リリース。\nNode.js 14のサポート終了、TypeScriptでの書き直し、ベンダープレフィックスをデフォルトでは省略するように変更、stylis v4へアップデートなど",
+            "tags": [
+                "CSS",
+                "JavaScript",
+                "alib",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "styled-components: FAQs",
+                    "url": "https://styled-components.com/docs/faqs#what-do-i-need-to-do-to-migrate-to-v6"
+                }
+            ]
         }
     ]
 }
