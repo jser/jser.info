@@ -380,6 +380,24 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-12T20:53:02.072Z",
+            "title": "Scroll-driven Animations",
+            "url": "https://scroll-driven-animations.style/",
+            "content": "Scroll-driven animationsのデモやユースケースについてまとめたサイト",
+            "tags": [
+                "JavaScript",
+                "CSS",
+                "animation",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "A case study on scroll-driven animations performance - Chrome Developers",
+                    "url": "https://developer.chrome.com/en/blog/scroll-animation-performance-case-study/"
+                }
+            ]
         }
     ]
 }
