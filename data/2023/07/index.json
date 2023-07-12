@@ -343,6 +343,17 @@
                     "url": "https://styled-components.com/docs/faqs#what-do-i-need-to-do-to-migrate-to-v6"
                 }
             ]
+        },
+        {
+            "date": "2023-07-12T12:07:46.450Z",
+            "title": "Deno 1.35: A fast and convenient way to build web servers",
+            "url": "https://deno.com/blog/v1.35",
+            "content": "Deno v1.35リリース。\n`Deno.serve()`をStableに変更、Noe.jsとの互換性改善。\n標準モジュールの`semver`の書き直し、`html`モジュールの追加、`http/user_agent`の追加など",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
