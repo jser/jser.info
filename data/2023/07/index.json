@@ -276,6 +276,23 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-12T11:08:17.439Z",
+            "title": "Boa release v0.17 - Boa",
+            "url": "https://boajs.dev/posts/2023-07-08-boa-release-17/",
+            "content": "Rustで書かれたJavaScriptパーサ/コンパイラーのBoa 0.17リリース。\nECMAScript Modulesに対応、test262のダッシュボードを追加。\n定数畳み込み、Hidden Classの最適化に対応。\n`--debug-object`フラグの追加、組み込みオブジェクトラッパーの追加、Intlのサポートなど",
+            "tags": [
+                "JavaScript",
+                "Rust",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Boa EcmaScript conformance",
+                    "url": "https://boajs.dev/boa/test262/"
+                }
+            ]
         }
     ]
 }
