@@ -445,6 +445,18 @@
                     "url": "https://github.com/laverdet/isolated-vm"
                 }
             ]
+        },
+        {
+            "date": "2023-07-15T10:46:47.821Z",
+            "title": "Release v0.18.13 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.18.13",
+            "content": "esbuild v0.18.13リリース。\n`DEV: doAnExpensiveCheck()`のようなラベル指定した処理を、`--drop-label`で削除できるように。\n",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
