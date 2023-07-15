@@ -424,7 +424,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-07-15T04:07:31.597Z",
+            "date": "2023-07-15T04:07:44.700Z",
             "title": "Discontinued · Issue #533 · patriksimek/vm2",
             "url": "https://github.com/patriksimek/vm2/issues/533",
             "content": "Node.jsの`vm`モジュールを使ったSandboxを実現する目的の`vm2`に構造的なSandbox Escapeの脆弱性があるため、メンテナンスを終了するというアナウンス。\n脆弱性のPoCは2023年8月ごろに公開されるため、isolated-vmのようなモジュールへ移行を推奨している。",
