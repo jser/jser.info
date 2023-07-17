@@ -457,6 +457,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-17T11:38:16.177Z",
+            "title": "URL.canParse",
+            "url": "https://davidwalsh.name/url-canparse",
+            "content": "URLがパースできるかを判定する`URL.canParse`メソッドについて\n",
+            "tags": [
+                "JavaScript",
+                "URL",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "URL: canParse() static method - Web APIs | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Web/API/URL/canParse_static"
+                }
+            ]
         }
     ]
 }
