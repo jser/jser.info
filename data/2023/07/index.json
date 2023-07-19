@@ -503,14 +503,14 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-07-19T12:32:01.716Z",
+            "date": "2023-07-19T12:32:14.268Z",
             "title": "Release 1.0.3 · kamranahmedse/driver.js",
             "url": "https://github.com/kamranahmedse/driver.js/releases/tag/1.0.3",
             "content": "サイトツアー表示をするDriver.js 1.0リリース。\nTypeScriptで書き直し、SVGをページ上に載せてハイライト表示をするように実装を変更、ドキュメントを刷新など",
             "tags": [
                 "JavaScript",
-                "alib",
-                "ReleaseNote"
+                "ReleaseNote",
+                "library"
             ],
             "relatedLinks": []
         }
