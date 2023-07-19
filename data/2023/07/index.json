@@ -513,6 +513,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-19T12:46:30.319Z",
+            "title": "coderaiser/putout: 🐊 Pluggable and configurable JavaScript Linter and code transformer with built-in ESLint and Babel support for js, jsx typescript, flow, markdown, yaml and json. Write declarative codemods in a simplest possible way 😏",
+            "url": "https://github.com/coderaiser/putout",
+            "content": "BabelとESLintをベースにしたcodemodのツールキット。\nビルトインルールとしてCommonJS to ESMなど多数の変換ルールを持っているが、それらを管理するツールとプラグインの仕組みを提供する。\n",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
