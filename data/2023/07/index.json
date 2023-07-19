@@ -490,6 +490,17 @@
                     "url": "https://pqina.nl/blog/total-canvas-memory-use-exceeds-the-maximum-limit/"
                 }
             ]
+        },
+        {
+            "date": "2023-07-19T11:54:01.639Z",
+            "title": "Node v18.17.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v18.17.0",
+            "content": "Node.js v18.17.0リリース。\nURLパーサのAda 2.0にアップデート、`URL.canParse`のサポート、Web Crypto APIの仕様との互換性の向上など",
+            "tags": [
+                "node.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
