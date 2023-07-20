@@ -610,6 +610,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-20T12:48:27.026Z",
+            "title": "Security alert: social engineering campaign targets technology industry employees - The GitHub Blog",
+            "url": "https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/",
+            "content": "採用担当者や開発者になりすまし、プライベートリポジトリに招待、そのリポジトリをcloneしてインストールすると感染するマルウェアが仕込まれているという攻撃が増えている話。\nマルウェアはnpm install時に、ダウンロードして実行される仕組みになっているという話",
+            "tags": [
+                "Github",
+                "security",
+                "npm",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Phylum Discovers Sophisticated Ongoing Attack on NPM",
+                    "url": "https://blog.phylum.io/sophisticated-ongoing-attack-discovered-on-npm/"
+                }
+            ]
         }
     ]
 }
