@@ -539,6 +539,30 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-20T07:43:57.271Z",
+            "title": "Chrome 116 beta - Chrome Developers",
+            "url": "https://developer.chrome.com/en/blog/chrome-116-beta/",
+            "content": "Chrome 116 betaリリース。\nCSS Motion Path、`display`と`content-visibility`に対してキーフレームアニメーションをサポート。\n`AbortSignal.any()`のサポート、Fetch APIの`getReader({mode: 'byob'})`をサポート、Document Picture-in-Pictureのサポート。\nPermissions Policy Originsに`*` wildcardの指定をサポート。\nOrigin TrialとしてCOOPの`restrict-properties`をサポート、EditContext APIのサポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Use a ReadableStream with byte source (formerly called ReadableByteStream) for .body · Issue #267 · whatwg/fetch",
+                    "url": "https://github.com/whatwg/fetch/issues/267"
+                },
+                {
+                    "title": "ReadableStream.getReader() - Web API | MDN",
+                    "url": "https://developer.mozilla.org/ja/docs/Web/API/ReadableStream/getReader"
+                },
+                {
+                    "title": "Wildcards in Permissions Policy Origins by arichiv · Pull Request #516 · w3c/webappsec-permissions-policy",
+                    "url": "https://github.com/w3c/webappsec-permissions-policy/pull/516"
+                }
+            ]
         }
     ]
 }
