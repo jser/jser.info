@@ -628,6 +628,17 @@
                     "url": "https://blog.phylum.io/sophisticated-ongoing-attack-discovered-on-npm/"
                 }
             ]
+        },
+        {
+            "date": "2023-07-20T22:34:23.099Z",
+            "title": "Node v20.5.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v20.5.0",
+            "content": "Node.js v20.5.0リリース。\n`node:events`に`addAbortListener`を追加、`fs.readFileSync`でUTF-8のファイルを読み込むときのパフォーマンスを改善など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
