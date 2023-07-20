@@ -567,6 +567,27 @@
                     "url": "https://github.com/w3c/edit-context"
                 }
             ]
+        },
+        {
+            "date": "2023-07-20T11:11:23.107Z",
+            "title": "Fresh 1.3 – Simplified Route Components and More",
+            "url": "https://deno.com/blog/fresh-1.3",
+            "content": "Fresh 1.3リリース。\n非同期のルートコンポーネントをサポート、プラグインがルーティングやミドルウェアを定義できるように、`_500.tsx`でのエラーページのサポート、ErrorBoundaryのサポート。\n1ファイルから複数のislandsをexportできるように、`Deno.serve`のサポートなど",
+            "tags": [
+                "deno",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "feat: support async route components by marvinhagemeister · Pull Request #1388 · denoland/fresh",
+                    "url": "https://github.com/denoland/fresh/pull/1388"
+                },
+                {
+                    "title": "feat(server): plugins can add middlewares and routes by deer · Pull Request #1455 · denoland/fresh",
+                    "url": "https://github.com/denoland/fresh/pull/1455"
+                }
+            ]
         }
     ]
 }
