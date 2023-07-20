@@ -599,6 +599,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-20T12:38:40.292Z",
+            "title": "Release v0.18.14 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.18.14",
+            "content": "esbuild v0.18.14リリース。\nCSS Modulesサポートの一貫として、`global-css` loaderと`local-css` loaderを追加し、CSSで`:local()`と`:global()`をサポートなど。",
+            "tags": [
+                "esbuild",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
