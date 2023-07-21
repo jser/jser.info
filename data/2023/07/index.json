@@ -639,6 +639,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-21T12:28:48.431Z",
+            "title": "pkg-size | Find the true size of a npm package",
+            "url": "https://pkg-size.dev/",
+            "content": "WebContainersを使ってパッケージをインストールし、パッケージのインストール速度やインストールサイズをチェックできるサービス",
+            "tags": [
+                "npm",
+                "webservice",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
