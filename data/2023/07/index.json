@@ -674,6 +674,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-25T14:40:54.831Z",
+            "title": "Astro 2.9: View Transitions (experimental) | Astro",
+            "url": "https://astro.build/blog/astro-290/",
+            "content": "Astro 2.9リリース。\n試験的にView Transitionsのサポート、Redirectsオプションのサポート。\n再エクスポートをしてるライブラリのbundleを最適化など",
+            "tags": [
+                "astro",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
