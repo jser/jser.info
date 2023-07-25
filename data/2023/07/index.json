@@ -685,6 +685,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-25T23:27:31.854Z",
+            "title": "fabian-hiller/valibot: The modular and type safe schema library for validating structural data 🤖",
+            "url": "https://github.com/fabian-hiller/valibot",
+            "content": "zodライクなスキーマをビルダー関数で組み立てバリデーションとTypeScriptの型として利用できるライブラリ。\n利用しているビルダー関数のみを含むBundleを作れるように、メソッドチェーンではなく関数を組み合わせてスキーマを定義するようになっている",
+            "tags": [
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing Valibot, a < 1kb Zod Alternative",
+                    "url": "https://www.builder.io/blog/introducing-valibot"
+                }
+            ]
         }
     ]
 }
