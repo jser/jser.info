@@ -701,6 +701,18 @@
                     "url": "https://www.builder.io/blog/introducing-valibot"
                 }
             ]
+        },
+        {
+            "date": "2023-07-27T09:51:18.025Z",
+            "title": "httptoolkit/brotli-wasm: A reliable compressor and decompressor for Brotli, supporting node & browsers via wasm",
+            "url": "https://github.com/httptoolkit/brotli-wasm",
+            "content": "BrotliのCompress/Decompressを扱うライブラリ。\nRustのBrotli CrateをWebAssemblyにコンパイルして利用する。",
+            "tags": [
+                "WebAssembly",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
