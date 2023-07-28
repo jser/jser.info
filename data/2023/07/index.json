@@ -745,6 +745,17 @@
                     "url": "https://github.com/whatwg/dom/issues/259"
                 }
             ]
+        },
+        {
+            "date": "2023-07-28T05:04:15.045Z",
+            "title": "Release v1.19.0 · remix-run/remix",
+            "url": "https://github.com/remix-run/remix/releases/tag/remix%401.19.0",
+            "content": "Remix 1.19.0リリース。\nesbuildの`metafile.*`をビルドディレクトリに含めるように、`serverNodeBuiltinsPolyfill`オプションの追加など",
+            "tags": [
+                "Remix",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
