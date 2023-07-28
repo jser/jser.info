@@ -713,6 +713,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-28T01:33:34.522Z",
+            "title": "Release 3.32.0 - 2023.07.28 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.32.0",
+            "content": "core-js v3.32.0リリース。\nArray grouping, `Promise.withResolvers`, Set methods, Iterator HelpersのStage変更に対応。\nStage 3の`Float16Array`, Stage 1の`Uint8Clamped`をサポートなど",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
