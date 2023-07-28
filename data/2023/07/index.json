@@ -725,6 +725,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-28T03:43:36.170Z",
+            "title": "Release Notes for Safari Technology Preview 175 | WebKit",
+            "url": "https://www.webkit.org/blog/14398/release-notes-for-safari-technology-preview-175/",
+            "content": "Safari Technology Preview Release 175 リリース。\nService Workerでrequestをリダイレクトした時にHashフラグメントがなくなる問題を修正。\n`.nodeValue`と`.textContent`に`null`代入時の動作を他のブラウザと合わせて、`null`を空文字として扱うように変更など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "249323 – Make Attr.value/nodeValue/textContent not nullable",
+                    "url": "https://bugs.webkit.org/show_bug.cgi?id=249323"
+                },
+                {
+                    "title": "Why can't Node's nodeValue use [TreatNullAs=EmptyString]? · Issue #259 · whatwg/dom",
+                    "url": "https://github.com/whatwg/dom/issues/259"
+                }
+            ]
         }
     ]
 }
