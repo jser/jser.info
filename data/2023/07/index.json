@@ -756,6 +756,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-28T05:05:53.699Z",
+            "title": "ESLint を使って JSDoc / TSDoc の記述を必須化する",
+            "url": "https://zenn.dev/wakamsha/articles/setup-eslint-plugin-jsdoc",
+            "content": "ESLintのルールでJSDocの記述をチェックする設定について",
+            "tags": [
+                "ESLint",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
