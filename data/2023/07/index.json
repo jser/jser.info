@@ -779,6 +779,23 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-28T05:24:09.973Z",
+            "title": "Release v6.0.0 · redwoodjs/redwood",
+            "url": "https://github.com/redwoodjs/redwood/releases/tag/v6.0.0",
+            "content": "Redwood v6.0.0リリース。\nViteをデフォルトのBundlerとして利用するように変更、Prisma 5へのアップデート、Storybook 7へのアップデート、firebaseのアップデートなど",
+            "tags": [
+                "nodejs",
+                "eslib",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Redwood v6.0.0 Upgrade Guide - Announcements / Releases and Upgrade Guides - RedwoodJS Community",
+                    "url": "https://community.redwoodjs.com/t/redwood-v6-0-0-upgrade-guide/5044"
+                }
+            ]
         }
     ]
 }
