@@ -727,13 +727,13 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-07-28T03:43:36.170Z",
+            "date": "2023-07-28T03:55:44.894Z",
             "title": "Release Notes for Safari Technology Preview 175 | WebKit",
             "url": "https://www.webkit.org/blog/14398/release-notes-for-safari-technology-preview-175/",
-            "content": "Safari Technology Preview Release 175 リリース。\nService Workerでrequestをリダイレクトした時にHashフラグメントがなくなる問題を修正。\n`.nodeValue`と`.textContent`に`null`代入時の動作を他のブラウザと合わせて、`null`を空文字として扱うように変更など",
+            "content": "Safari Technology Preview 175 リリース。\nService Workerでrequestをリダイレクトした時にHashフラグメントがなくなる問題を修正。\n`.nodeValue`と`.textContent`に`null`代入時の動作を他のブラウザと合わせて、`null`を空文字として扱うように変更など",
             "tags": [
-                "safari",
-                "ReleaseNote"
+                "ReleaseNote",
+                "safari"
             ],
             "relatedLinks": [
                 {
