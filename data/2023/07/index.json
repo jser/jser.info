@@ -809,6 +809,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-07-29T12:35:37.797Z",
+            "title": "ESLint v8.46.0 released - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2023/07/eslint-v8.46.0-released/",
+            "content": "ESLint v8.46.0リリース。\nES2023の正規表現の`v`フラグをサポート、 flat configのエラーメッセージの改善など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
