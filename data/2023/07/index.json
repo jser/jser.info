@@ -796,6 +796,19 @@
                     "url": "https://community.redwoodjs.com/t/redwood-v6-0-0-upgrade-guide/5044"
                 }
             ]
+        },
+        {
+            "date": "2023-07-29T02:22:26.329Z",
+            "title": "Release v130 · esm-dev/esm.sh",
+            "url": "https://github.com/esm-dev/esm.sh/releases/tag/v130",
+            "content": "esm.sh v130リリース。\nminifyされたCommonJSパッケージをサポート",
+            "tags": [
+                "JavaScript",
+                "cdn",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
