@@ -836,6 +836,18 @@
                     "url": "https://web.dev/yahoo-japan-news-bfcache/"
                 }
             ]
+        },
+        {
+            "date": "2023-07-30T22:57:25.977Z",
+            "title": "Release Evergreen · riot/riot",
+            "url": "https://github.com/riot/riot/releases/tag/v9.0.0",
+            "content": "Riot.js v9.0.0リリース。\nバージョン番号を統一するため、バージョンをスキップしてv9へ。\nNode.js 14/16のサポート終了、BabelでのTranspileをしないように変更、boolean属性の挙動変更など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
