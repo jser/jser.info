@@ -39,6 +39,18 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/116"
                 }
             ]
+        },
+        {
+            "date": "2023-08-02T12:41:26.554Z",
+            "title": "Release v0.34.0 · vitest-dev/vitest",
+            "url": "https://github.com/vitest-dev/vitest/releases/tag/v0.34.0",
+            "content": "vitest v0.34.0リリース。\n`@vitest/coverage-c8`を`@vitest/coverage-v8`に変更、`server`オプションの追加に伴いオプションの移動、`deps.optimizer`をデフォルトで有効化など。\n`describe.sequential` APIの追加など",
+            "tags": [
+                "vite",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
