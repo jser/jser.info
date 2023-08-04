@@ -110,6 +110,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-04T01:13:32.681Z",
+            "title": "Bun v0.7.2 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v0.7.2",
+            "content": "Bun v0.7.2リリース。\n`node:worker_threads`、`node:diagnostics_channel`のサポート。\n`BroadcastChannel` APIのサポート、`Error`オブジェクトを`structuredClone`でcloneできるように修正。\nメモリリークの修正など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
