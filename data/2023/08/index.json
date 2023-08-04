@@ -121,6 +121,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-04T01:20:07.759Z",
+            "title": "Release v11.0.0 · GoogleChrome/lighthouse",
+            "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v11.0.0",
+            "content": "Lighthouse v11.0.0リリース。\nNode.js 16のサポート終了、`resource-summary`/`service-worker`/`first-contentful-paint-3g`のAuditを削除。\nINPのAuditをStableへと移行など",
+            "tags": [
+                "Chrome",
+                "performance",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
