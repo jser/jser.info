@@ -134,6 +134,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-05T00:45:21.228Z",
+            "title": "Deno 1.36: More flexible security and expanded testing APIs",
+            "url": "https://deno.com/blog/v1.36",
+            "content": "Deno v1.36リリース。\n`--deny-*`の拒否フラグをサポート、`deno test`がJUnitレポーターをサポート、`node:test`のサポート。\nNode.jsとの互換性改善、モジュールのダウンロードにリトライを追加など",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
