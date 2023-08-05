@@ -145,6 +145,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-05T00:47:54.184Z",
+            "title": "Astro 2.10: Persistent State in View Transitions | Astro",
+            "url": "https://astro.build/blog/astro-2100/",
+            "content": "Astro 2.10リリース。\nView Transition APIを使って指定した要素を永続的にする`transition:persist`ディレクティブの追加。\nまた合わせてAstro 3.0がベータリリースされている。",
+            "tags": [
+                "astro",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
