@@ -197,10 +197,10 @@
             ]
         },
         {
-            "date": "2023-08-07T13:51:08.287Z",
+            "date": "2023-08-07T13:55:35.084Z",
             "title": "Bringing Sharp to WebAssembly and WebContainers",
             "url": "https://blog.stackblitz.com/posts/bringing-sharp-to-wasm-and-webcontainers/",
-            "content": "C++で書かれたNative Addonの画像処理ライブラリであるsharpをWebCOntainersで利用できるようにWebAssemblyへコンパイルする話。\nemnapiを使ったNode APIの移植、libvipsをWasmへコンパイル。起動の同期処理化するためにしたEmscripten修正などについて",
+            "content": "C++で書かれたNative Addonの画像処理ライブラリであるsharpをWebContainersで利用できるようにWebAssemblyへコンパイルする話。\nemnapiを使ったNode APIの移植、libvipsをWasmへコンパイル。起動の同期処理化するためにしたEmscripten修正などについて",
             "tags": [
                 "WebAssembly",
                 "Image",
