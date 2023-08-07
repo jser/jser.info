@@ -178,6 +178,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-07T13:05:20.654Z",
+            "title": "1.0.0: Milestone for API stability · vanjs-org/van · Discussion #72",
+            "url": "https://github.com/vanjs-org/van/discussions/72",
+            "content": "Reactive UIフレームワークのVanJS 1.0リリース。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 1.0.0: Milestone for API stability · vanjs-org/van",
+                    "url": "https://github.com/vanjs-org/van/releases/tag/1.0.0"
+                }
+            ]
         }
     ]
 }
