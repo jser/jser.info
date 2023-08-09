@@ -218,6 +218,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-09T05:45:08.219Z",
+            "title": "npmgraph -",
+            "url": "https://npmgraph.js.org/",
+            "content": "npmパッケージの依存関係を可視化できるWebサービス。\n指定したパッケージまたは`package.json`から解析できる",
+            "tags": [
+                "npm",
+                "webservice",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
