@@ -207,6 +207,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-09T05:36:14.579Z",
+            "title": "Release v0.19.0 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.19.0",
+            "content": "esbuild v0.19.0リリース。\nエントリーポイントにワイルドカードを指定できるように、Dynamic Importで変数を含めたパスをbundleできるように。\n`--packages=external`と`tsconfig.json`の`paths`の問題の修正、`.module.css`のデフォルトローダを`local-css`へ変更",
+            "tags": [
+                "esbuild",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
