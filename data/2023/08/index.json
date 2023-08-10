@@ -254,6 +254,18 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-10T00:01:45.866Z",
+            "title": "Wednesday August 9th 2023 Security Releases | Node.js",
+            "url": "https://nodejs.org/en/blog/vulnerability/august-2023-security-releases",
+            "content": "Node.jsのセキュリティリリースとして次のバージョンが公開されている。\n\n- Node v20.5.1 (Current)\n- Node v18.17.1 (LTS)\n- Node v16.20.2 (LTS)\n\n実験的な機能であるPermissions policiesの修正とOpenSSLのアップデートが主な修正",
+            "tags": [
+                "nodejs",
+                "ReleaseNote",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
