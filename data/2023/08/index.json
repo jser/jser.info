@@ -277,6 +277,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-10T12:50:25.054Z",
+            "title": "Release Notes for Safari Technology Preview 176 | WebKit",
+            "url": "https://webkit.org/blog/14401/release-notes-for-safari-technology-preview-176/",
+            "content": "Safari Technology Preview 176リリース。\nCSSの`contain-intrinsic-size: inherit`のサポート、`liner(...)` timing functionのサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
