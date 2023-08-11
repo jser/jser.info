@@ -361,10 +361,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-08-11T08:24:16.728Z",
+            "date": "2023-08-11T10:06:02.140Z",
             "title": "Deprecating the unload event - Chrome Developers",
             "url": "https://developer.chrome.com/en/blog/deprecating-unload/",
-            "content": "Chrome 117から`unload`イベントがDeprecatedとなる。\n`unload`イベントはうまく動かないことが多くBFCacheを無効にする。\n代用として`visibilitychange`/`pagehide`イベントを推奨していて、`unload`イベントからの移行方法についてなど",
+            "content": "Chrome 117から`unload`イベントがDeprecatedとなる。\n`unload`イベントはうまく動かないことが多くBFCacheを無効にする。\n代用として`visibilitychange`/`pagehide`イベントを推奨している。`unload`イベントを利用しているかを調べる方法についてなど",
             "tags": [
                 "Chrome",
                 "JavaScript",
