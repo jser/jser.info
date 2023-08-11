@@ -299,6 +299,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-11T04:43:36.222Z",
+            "title": "Updates to Storage Policy | WebKit",
+            "url": "https://webkit.org/blog/14403/updates-to-storage-policy/",
+            "content": "SafariのWeb StorageのPolicyについて。\nOriginごと/全体でのQuotaがあり、Quotaを超えると`QuotaExceededError`が発生する。\n利用されていないウェブサイトのデータはオリジンごとに削除される。また、ストレージの永続性を保証するためのStorage APIの使い方について",
+            "tags": [
+                "safari",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
