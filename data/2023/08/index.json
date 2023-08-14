@@ -383,6 +383,17 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-14T13:17:17.853Z",
+            "title": "Release v1.37.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.37.0",
+            "content": "playwright v1.37.0リリース。\n`--shard`フラグで分割実行した結果のレポートを結合できる`merge-reports`コマンドの追加など",
+            "tags": [
+                "playwright",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
