@@ -394,6 +394,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-14T21:58:58.129Z",
+            "title": "Release v1.3.0 · vega/ts-json-schema-generator",
+            "url": "https://github.com/vega/ts-json-schema-generator/releases/tag/v1.3.0",
+            "content": "ts-json-schema-generator v1.3.0リリース。\n`satisfies`演算子のサポート、TypeScript 5へのアップデート、Bunのサポートなど",
+            "tags": [
+                "TypeScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
