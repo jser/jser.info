@@ -456,6 +456,18 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-16T13:33:40.027Z",
+            "title": "What's New in DevTools (Chrome 117) - Chrome Developers",
+            "url": "https://developer.chrome.com/en/blog/new-in-devtools-117/",
+            "content": "Chrome 117の開発者ツールの変更点について。\nNetworkでのコンテンツオーバーライドの改善、拡張機能のURLをフィルターする機能を追加、Fetchにおける実際のPriorityを確認できるように。\nサードパーティクッキーに関する警告や問題の説明を追加、prerenderのデバッグ機能を追加など",
+            "tags": [
+                "Chrome",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
