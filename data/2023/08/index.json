@@ -428,6 +428,22 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-16T12:32:32.864Z",
+            "title": "Release v13.4.16 · vercel/next.js",
+            "url": "https://github.com/vercel/next.js/releases/tag/v13.4.16",
+            "content": "Next.js v13.4.16リリース。\n実験的にplaywrightとmswを使ったtest modeを追加など",
+            "tags": [
+                "Next.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Next.jsにnext/testmodeという概念が出現しMSW x Playwrightのテストがやりやすくなりそう",
+                    "url": "https://zenn.dev/uyas/articles/bc58a4bed15ed4"
+                }
+            ]
         }
     ]
 }
