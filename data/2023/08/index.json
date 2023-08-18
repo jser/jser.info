@@ -468,6 +468,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-18T10:18:12.684Z",
+            "title": "Fresh 1.4 – Faster Page Loads, Layouts and More",
+            "url": "https://deno.com/blog/fresh-1.4",
+            "content": "Fresh 1.4リリース。\n事前コンパイルによるページ読み込みの改善、`<head>`/`<head>`/`<body>`タグを定義できるように、`_layout`フィアルのサポート。\n`defineRoute`/`defineLayout`/`defineApp`関数の追加、ルートグループの追加など",
+            "tags": [
+                "deno",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
