@@ -528,6 +528,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-23T11:55:38.418Z",
+            "title": "Chrome 117 beta - Chrome Developers",
+            "url": "https://developer.chrome.com/en/blog/chrome-117-beta/",
+            "content": "Chrome 117 betaリリース。\nCSSの`@starting-style`ルール、`overlay`プロパティ、`transition-behavior`プロパティのサポート。\nCSS Gridに`subgrid`の実装、`text-wrap: pretty`のサポートなど。\nECMAScript Stage 3の`Object.groupBy`/`Map.groupBy`の実装、Iterator Helpersの実装。\n`Clear-Site-Data`ヘッダの値として`\"clientHints\"`と`\"*\"`を実装。\nURLパースをWHATWG URL標準に合わせるように修正。\nOrigin TraialとしてShared Brotli、WebSQLのdeprecation trial。\nまた`unload`イベントを非推奨へと変更など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
