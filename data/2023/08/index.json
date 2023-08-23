@@ -493,6 +493,17 @@
                 "debug"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-23T03:51:43.490Z",
+            "title": "Release v29.6.3 · jestjs/jest",
+            "url": "https://github.com/jestjs/jest/releases/tag/v29.6.3",
+            "content": "Jest v29.6.3リリース。\n`@types/node`への依存を削除、watch modeでは常にworkerを使うように変更、minorバージョンで入ったmockに関する破壊的変更をrevertなど",
+            "tags": [
+                "jest",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
