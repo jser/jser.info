@@ -539,6 +539,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-23T12:14:52.209Z",
+            "title": "Release v9.0.0-alpha.0 · reduxjs/react-redux",
+            "url": "https://github.com/reduxjs/react-redux/releases/tag/v9.0.0-alpha.0",
+            "content": "React-Redux v9.0.0-alpha.0リリース。\nReact 18、Redux 5が必須へと変更。\nCJS/ESMのdual packageに対応、UMDビルドの削除、Server Componentとの互換性の改善など",
+            "tags": [
+                "React",
+                "redux",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
