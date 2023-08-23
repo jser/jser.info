@@ -516,6 +516,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-23T11:48:29.418Z",
+            "title": "Debugging speculation rules - Chrome Developers",
+            "url": "https://developer.chrome.com/en/blog/debugging-speculation-rules/",
+            "content": "Chromeの開発者ツールを使った`speculationrules`などの投機的なprefetchのデバッグ方法について",
+            "tags": [
+                "Chrome",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
