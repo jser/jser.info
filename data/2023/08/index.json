@@ -506,7 +506,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-08-23T11:43:39.898Z",
+            "date": "2023-08-23T11:43:52.281Z",
             "title": "Release v3.5.0 · honojs/hono",
             "url": "https://github.com/honojs/hono/releases/tag/v3.5.0",
             "content": "Hono v3.5.0リリース。\nSecurity Headersミドルウェアの追加、Cookieヘルパーの追加、Zod OpenAPIミドルウェアの追加。\n`queries`、`c.runtime()`、`app.handleEvent()` を非推奨化など",
