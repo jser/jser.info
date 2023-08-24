@@ -599,6 +599,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-24T13:30:07.026Z",
+            "title": "Patterns for Reactivity with Modern Vanilla JavaScript | Frontend Masters",
+            "url": "https://frontendmasters.com/blog/vanilla-javascript-reactivity/",
+            "content": "JavaScriptでReactiveな処理をどう実装するかについて。\nEventTargetとCustomEventを使ったPubSub/Observerパターン、Proxyを使ったリフアクティブなオブジェクト、Signal。\nまたDOMの`MutationObserver`や`IntersectionObserver`などAPIについて",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
