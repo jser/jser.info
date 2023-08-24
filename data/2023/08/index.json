@@ -576,6 +576,17 @@
                 "Image"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-24T13:08:52.146Z",
+            "title": "Bun v0.8.0 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v0.8.0",
+            "content": "Bun v0.8.0リリース。\n`--inspect`でのDebuggerサポート、`bun update`での依存関係のアップデートのサポート、SvelteKit/Nuxtのサポート。\nFetch APIのresponse body streamingのサポート、`File` contrustorのサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
