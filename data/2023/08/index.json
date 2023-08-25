@@ -623,6 +623,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-25T04:11:49.837Z",
+            "title": "Announcing TypeScript 5.2 - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-2/",
+            "content": "TypeScript 5.2リリース。\nStage 3 ProposalのExplicit Resource Management(`using`宣言)のサポート、Decorator Metadataのサポート。\nTupleにおけるラベルありなしの組み合わせの制限を削除、配列のUnion型の扱いの改善。\n`import type`では`.ts`ファイルをimportできるように修正、`module`オプションと`moduleResolution`オプションの間違った組み合わせのチェックを追加など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
