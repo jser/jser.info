@@ -634,6 +634,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-26T04:40:27.427Z",
+            "title": "Nuxt 3.7 · Nuxt",
+            "url": "https://nuxt.com/blog/v3-7",
+            "content": "Nuxt v3.7リリース。\nWeb Streamと`Response`のサポート、capo.jsを使った`<head>`内の要素の最適化をサポート、Vite 4.4へのアップデート、Nitro 2.6へのアップデート。\n`tsconfig.json`の`baseUrl`ではなく相対パスを使うように変更、AsyncLocalStorageを使った非同期コンテキストのサポートなど",
+            "tags": [
+                "Vue",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Announcing Nitro 2.6 · UnJS",
+                    "url": "https://unjs.io/blog/2023-08-25-nitro-2.6"
+                }
+            ]
         }
     ]
 }
