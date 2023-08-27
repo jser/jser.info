@@ -651,6 +651,17 @@
                     "url": "https://unjs.io/blog/2023-08-25-nitro-2.6"
                 }
             ]
+        },
+        {
+            "date": "2023-08-27T00:18:55.375Z",
+            "title": "Release v8.7.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v8.7.0",
+            "content": "pnpm v8.7.0リリース。\n`worker_threads`を使ったパッケージの解凍処理でパフォーマンスの改善。\nv8.0.0では依存する最小バージョンをインストールする`resolution-mode: lowest`がデフォルトだったが、v8.7.0で`resolution-mode: highest`に変更。\n`pnpm import`がnpmのlockfileVersion 3をサポートなど",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
