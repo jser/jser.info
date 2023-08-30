@@ -699,6 +699,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-30T13:23:49.160Z",
+            "title": "Changelog | Cypress Documentation",
+            "url": "https://docs.cypress.io/guides/references/changelog#13-0-0",
+            "content": "Cypress 13.0.0リリース。\nNode.js 14のサポート終了、`video`オプションがデフォルトで`false`へと変更など",
+            "tags": [
+                "E2E",
+                "testing",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
