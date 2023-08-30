@@ -675,6 +675,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-30T12:52:47.973Z",
+            "title": "Announcing Biome",
+            "url": "https://biomejs.dev/blog/annoucing-biome",
+            "content": "RomeはBiomeという名前でプロジェクトをforkすることになった。\n会社としてのRome Tools Inc.は解散し連絡も取れないため、RomeのコアチームがBiomeというプロジェクトで新しくやり直すことになった。\nこれに伴い`rome`パッケージなども`@biome/*`へと変更される。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
