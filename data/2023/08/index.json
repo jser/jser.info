@@ -687,6 +687,18 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-30T12:57:42.997Z",
+            "title": "Release v0.20.0 · nodejs/corepack",
+            "url": "https://github.com/nodejs/corepack/releases/tag/v0.20.0",
+            "content": "corepack 0.20.0リリース。\nCLIのコマンドのほとんどが変更された。古いコマンドも互換性のために維持されている。\n\n- `corepack prepare foo@1.2.3` → `corepack install -g foo@1.2.3`\n- `corepack prepare foo@1.2.3 --activate` → `corepack use -g foo@1.2.3`\n- `corepack hydrate path/to/archive.gz` → `corepack install -g path/to/archive.gz`\n- `corepack hydrate path/to/archive.gz --activate` → `corepack use -g path/to/archive.gz`\n- `corepack prepare -o ...` → `corepack pack -g`",
+            "tags": [
+                "nodejs",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
