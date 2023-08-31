@@ -712,6 +712,32 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-31T00:39:37.499Z",
+            "title": "Release astro@3.0.0 · withastro/astro",
+            "url": "https://github.com/withastro/astro/releases/tag/astro%403.0.0",
+            "content": "Astro 3.0.0リリース。\nNode.js 16のサポート終了、`~/assets`のimport aliasがデフォルトでは含まれないように変更、`class:list`の挙動を変更、画像の最適化にSharpを使うように変更。\nScoped Styleに`:where`ではなくdata属性を使うように変更、ExperimentalだったView TransitionとImageオプションを削除しデフォルトで有効化。\nReact Fast Refreshが動作するようになるなど",
+            "tags": [
+                "astro",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Astro 3.0 | Astro",
+                    "url": "https://astro.build/blog/astro-3/"
+                },
+                {
+                    "title": "View Transitions 🚀 Astro Documentation",
+                    "url": "https://docs.astro.build/en/guides/view-transitions/#upgrade-to-v30-from-v2x"
+                },
+                {
+                    "title": "Upgrade to Astro v3 🚀 Astro Documentation",
+                    "url": "https://docs.astro.build/en/guides/upgrade-to/v3/"
+                }
+            ]
         }
     ]
 }
