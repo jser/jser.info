@@ -738,6 +738,18 @@
                     "url": "https://docs.astro.build/en/guides/upgrade-to/v3/"
                 }
             ]
+        },
+        {
+            "date": "2023-08-31T01:44:13.150Z",
+            "title": "JavaScript Primer v5.0.0: ES2023の対応/CC BYライセンスに変更/Open Collectiveで支援できるようになりました | Web Scratch",
+            "url": "https://efcl.info/2023/08/31/jsprimer-v5/",
+            "content": "JavaScript入門書のjsprimer v5.0.0リリース。\nES2023のChange Array by copyの対応、`Array.prototype.{findLast, findLastIndex}`の対応。\nライセンスをCC BY-NCからCC BYへ変更など",
+            "tags": [
+                "JavaScript",
+                "book",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
