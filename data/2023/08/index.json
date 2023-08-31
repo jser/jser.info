@@ -750,6 +750,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-31T11:57:34.400Z",
+            "title": "Introducing the scheduler.yield origin trial - Chrome Developers",
+            "url": "https://developer.chrome.com/en/blog/introducing-scheduler-yield-origin-trial/",
+            "content": "Chrome 115で実験的に実装されている`scheduler.yield`について。\n`setTimeout(..., 0)`はタスクキューの最後に追加するが、`scheduler.yield`はタスクキューの先頭に追加するという違いがあることについて",
+            "tags": [
+                "Chrome",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
