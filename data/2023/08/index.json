@@ -787,6 +787,18 @@
                 "nodejs"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-08-31T12:43:32.529Z",
+            "title": "14 Linting Rules To Help You Write Asynchronous Code in JavaScript - Maxim Orlov",
+            "url": "https://maximorlov.com/linting-rules-for-asynchronous-code-in-javascript/",
+            "content": "非同期(PromiseやAsync Function)に関するESLintルールの紹介記事。\nよくある非同期処理の間違いや問題を検知するESLintルールのまとめ",
+            "tags": [
+                "JavaScript",
+                "ESLint",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
