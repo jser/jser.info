@@ -22,6 +22,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-02T06:21:18.828Z",
+            "title": "Modern.js",
+            "url": "https://modernjs.dev/en",
+            "content": "ByteDanceのJavaScript向けのウェブアプリケーションフレームワーク。\nReactをベースにしたクライアントサイド向けのモデルやルーティング、Rspack/ESLint/Jestなどの統合、BFFのサポート、MicroFrontendのサポートなどをしている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "MicroFrontend"
+            ],
+            "relatedLinks": []
         }
     ]
 }
