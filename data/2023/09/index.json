@@ -47,6 +47,21 @@
                 "architecture"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-03T06:28:58.956Z",
+            "title": "nitrogql 1.0 release | nitrogql blog",
+            "url": "https://nitrogql.vercel.app/blog/release-1.0",
+            "content": "GraphQLからクライアントコードの生成とGraphQLのクエリの型チェック行うnitrogql 1.0リリース。",
+            "tags": [
+                "GraphQL",
+                "Tools",
+                "Rust",
+                "nodejs",
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
