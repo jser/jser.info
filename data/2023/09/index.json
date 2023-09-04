@@ -62,6 +62,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-04T10:02:46.032Z",
+            "title": "Mofi - Snappy UIs With WebAssembly and Web Workers",
+            "url": "https://mofi.loud.red/blog/wasm-and-workers",
+            "content": "WebAssemblyでの処理をWebWorkerの中で動かし、メインスレッドをブロックせずに処理を行うという話。\nCPUのコア数を超えてWorkerを増やすと問題があるため、ワーカープールを作成しWorker数を制御している。またWorkerから進捗状況をメッセージングする方法についてなど",
+            "tags": [
+                "WebAssembly",
+                "webworker",
+                "article",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
