@@ -98,6 +98,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-05T22:24:17.310Z",
+            "title": "Faster Vue.js Execution in Firefox - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2023/09/faster-vue-js-execution-in-firefox/",
+            "content": "Vueなどが使うProxyの最適化を行うことで、TodoMVC-Vuewのパフォーマンスが40%改善される。\nFirefox 118のリリースにこの変更が含まれる予定。",
+            "tags": [
+                "Firefox",
+                "JavaScript",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
