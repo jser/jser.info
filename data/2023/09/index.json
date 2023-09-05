@@ -113,14 +113,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-09-05T23:11:03.427Z",
+            "date": "2023-09-05T23:11:16.808Z",
             "title": "Release v4.0.0 · actions/checkout",
             "url": "https://github.com/actions/checkout/releases/tag/v4.0.0",
             "content": "actions/checkout v4.0.0リリース。\nNode.js 20を利用するように、`show-progress`オプションを追加など",
             "tags": [
                 "Github",
                 "Actions",
-                "nodejs"
+                "nodejs",
+                "ReleaseNote"
             ],
             "relatedLinks": []
         }
