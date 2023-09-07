@@ -136,6 +136,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-07T06:05:07.510Z",
+            "title": "How we reduced the size of our JavaScript bundles by 33% - Dropbox",
+            "url": "https://dropbox.tech/frontend/how-we-reduced-the-size-of-our-javascript-bundles-by-33-percent",
+            "content": "Rollupを使ってCode Splitting/Tree Shakingを行うことでbundleサイズを小さくしたという話。\n一方でRollupはメモリ上に全てのコードを持つためCIのビルドが不安定になった点、細かいchunkだと圧縮効率があまりよくなかった点についてなど",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
