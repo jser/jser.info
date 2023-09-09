@@ -186,7 +186,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-09-09T00:21:51.088Z",
+            "date": "2023-09-09T00:22:18.574Z",
             "title": "Bun 1.0 | Bun Blog",
             "url": "https://bun.sh/blog/bun-v1.0",
             "content": "Bun v1.0リリース。\nNode.js互換のruntimeとコアパッケージの実装、TypeScriptのTranspiler、Bundler、npmのパッケージマネージャー、`bun test`でのテストツールを持つ。",
@@ -194,7 +194,12 @@
                 "Bun",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Bun 1.0 is here - YouTube",
+                    "url": "https://www.youtube.com/watch?v=BsnCpESUEqM"
+                }
+            ]
         }
     ]
 }
