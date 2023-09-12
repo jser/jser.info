@@ -202,17 +202,6 @@
             ]
         },
         {
-            "date": "2023-09-11T14:04:03.731Z",
-            "title": "doc: mark v16.x as End-of-Life by targos · Pull Request #908 · nodejs/Release",
-            "url": "https://github.com/nodejs/Release/pull/908",
-            "content": "Node.js 16がEOLとなった",
-            "tags": [
-                "nodejs",
-                "news"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2023-09-12T12:56:17.740Z",
             "title": "Release v29.7.0 · jestjs/jest",
             "url": "https://github.com/jestjs/jest/releases/tag/v29.7.0",
@@ -224,6 +213,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-12T22:44:57.611Z",
+            "title": "doc: mark v16.x as End-of-Life by targos · Pull Request #908 · nodejs/Release",
+            "url": "https://github.com/nodejs/Release/pull/908",
+            "content": "Node.js 16がEOLとなった",
+            "tags": [
+                "nodejs",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Bringing forward the End-of-Life Date for Node.js 16 | Node.js",
+                    "url": "https://nodejs.org/en/blog/announcements/nodejs16-eol?hss_channel=tw-91985735"
+                }
+            ]
         }
     ]
 }
