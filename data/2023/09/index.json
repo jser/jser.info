@@ -211,6 +211,19 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-12T12:56:17.740Z",
+            "title": "Release v29.7.0 · jestjs/jest",
+            "url": "https://github.com/jestjs/jest/releases/tag/v29.7.0",
+            "content": "Jest v29.7.0リリース。\n`jest --init`に変わってセットアップができる`create-jest`パッケージの追加など",
+            "tags": [
+                "jest",
+                "JavaScript",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
