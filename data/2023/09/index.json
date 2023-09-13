@@ -245,6 +245,19 @@
                     "url": "https://developer.chrome.com/en/blog/chrome-117-beta/"
                 }
             ]
+        },
+        {
+            "date": "2023-09-13T13:41:20.218Z",
+            "title": "Release v3.6.0 · honojs/hono",
+            "url": "https://github.com/honojs/hono/releases/tag/v3.6.0",
+            "content": "Hono v3.6.0リリース。\n`c.render()`と`c.setRenderer()`の追加、`c.var`の追加。\nHMRに対応するViteプラグインとして`@hono/vite-dev-server`を公開など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "server",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
