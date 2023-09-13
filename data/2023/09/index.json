@@ -229,6 +229,22 @@
                     "url": "https://nodejs.org/en/blog/announcements/nodejs16-eol"
                 }
             ]
+        },
+        {
+            "date": "2023-09-13T13:32:38.200Z",
+            "title": "New in Chrome 117 - Chrome Developers",
+            "url": "https://developer.chrome.com/en/blog/new-in-chrome-117/",
+            "content": "Chrome 117リリース。\nCSSのアニメーションに関する機能の追加、\nCSS subgridの実装。\nECMAScript Stage 3の`Object.groupBy`/`Map.groupBy`の実装、Iterator Helpersの実装など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chrome 117 beta - Chrome Developers",
+                    "url": "https://developer.chrome.com/en/blog/chrome-117-beta/"
+                }
+            ]
         }
     ]
 }
