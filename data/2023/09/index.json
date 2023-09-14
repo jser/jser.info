@@ -258,6 +258,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-14T11:39:15.195Z",
+            "title": "isaacs/tshy",
+            "url": "https://github.com/isaacs/tshy",
+            "content": "TypeScriptのソースコードからESMとCJSのdual packageを作成するツール",
+            "tags": [
+                "TypeScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
