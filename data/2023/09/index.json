@@ -269,6 +269,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-14T12:15:40.627Z",
+            "title": "Chrome 118 beta - Chrome Developers",
+            "url": "https://developer.chrome.com/en/blog/chrome-118-beta/",
+            "content": "Chrome 118 betaリリース。\n`@scope`でのScoped Styles、Media QueryでJavaScriptが有効かを判定する`scripting`の追加。\n`tabIndex`が`0`以上のscoll containerにフォーカスできるように、`beforeunload`で`event.returnValue`が空文字の場合はダイアログを表示しないように変更。",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
