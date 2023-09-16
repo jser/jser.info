@@ -339,6 +339,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-16T00:44:57.412Z",
+            "title": "How to Find the Exact Line of an Infinite Loop Bug in the code | by Abdu Tawfik | Medium",
+            "url": "https://abduvik.medium.com/how-to-find-infinite-loops-in-javascript-using-devtools-ea5fc84aec73",
+            "content": "Chromeで無限ループが起きてる時にパフォーマンスのプロファイルを取る方法について。\n無限ループが起きるとProfile自体も完了しないため、記録を開始してタブのプロセスを強制的に停止すると取得できるという方法について。\nまた同期的な無限ループと非同期的な無限ループについて",
+            "tags": [
+                "Chrome",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
