@@ -351,6 +351,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-17T02:18:40.166Z",
+            "title": "Bun v1.0.2 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.0.2",
+            "content": "Bun v1.0.2リリース。\n`bunx <pkg>@latest`で最新のパッケージが取得できないバグを修正、`bun --watch`のパフォーマンス改善。\nDateのパースにV8の実装を使雨ように、`URL.canParse`/`URLSearchParams.prototype.size`の実装など。",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
