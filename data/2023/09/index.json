@@ -362,6 +362,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-17T03:27:10.315Z",
+            "title": "Release v2.0.0 · remix-run/remix",
+            "url": "https://github.com/remix-run/remix/releases/tag/remix%402.0.0",
+            "content": "Remix 2.0.0リリース。\nReact 17のサポート終了、Node.js 14/16のサポート終了。\nV1からの移行は`v2_*`フラグを使うことで機能を一つずつ有効かして移行できる。\n2.0.0では`v2_*`フラグの削除、`remix.config.js`の設定やコマンドの変更などが含まれる。",
+            "tags": [
+                "Remix",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Remix v2 | Remix",
+                    "url": "https://remix.run/blog/remix-v2"
+                },
+                {
+                    "title": "Upgrading to v2 | Remix",
+                    "url": "https://remix.run/docs/en/main/start/v2"
+                }
+            ]
         }
     ]
 }
