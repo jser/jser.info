@@ -382,6 +382,17 @@
                     "url": "https://remix.run/docs/en/main/start/v2"
                 }
             ]
+        },
+        {
+            "date": "2023-09-19T05:40:47.091Z",
+            "title": "Node v18.18.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/ja/blog/release/v18.18.0",
+            "content": "Node.js v18.18.0リリース。\n`node --import`フラグの追加、`node:fs`と`node:stream`でExplicit Resource Managementのサポートなど",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
