@@ -404,6 +404,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-19T22:47:22.426Z",
+            "title": "Next.js 13.5 | Next.js",
+            "url": "https://nextjs.org/blog/next-13-5",
+            "content": "Next.js 13.5リリース。\nパフォーマンスの改善、re-exportsするパッケージを最適化する`optimizePackageImports`オプションの追加。\n実験的な機能として、`next/image`に`unstable_getImgProps`を追加、`next dev --experimental-https`の追加。\nまた、`create-next-app`がBunをサポートなど",
+            "tags": [
+                "Next.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
