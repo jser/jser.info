@@ -393,6 +393,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-19T05:42:34.693Z",
+            "title": "Node v20.7.0 (Current) | Node.js",
+            "url": "https://nodejs.org/ja/blog/release/v20.7.0",
+            "content": "Node.js v20.7.0リリース。\n複数の`--env-file`指定をサポート、npm 10.xへのアップデート、`process.sourceMapsEnabled` APIの追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
