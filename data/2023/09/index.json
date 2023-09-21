@@ -426,6 +426,19 @@
                 "plugin"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-21T12:19:25.788Z",
+            "title": "Ladle v3 | Ladle",
+            "url": "https://ladle.dev/blog/ladle-v3",
+            "content": "Storybookの代替ツールであるLadle v3リリース。\nSWCをデフォルトのTranspilerに変更、Node.js 16のサポート終了、CSS in JSライブラリを追加の設定なしで動作するように",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
