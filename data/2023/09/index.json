@@ -489,6 +489,17 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-22T11:19:25.788Z",
+            "title": "Deno 1.37: Modern JavaScript in Jupyter Notebooks",
+            "url": "https://deno.com/blog/v1.37",
+            "content": "Deno v1.37リリース。\n`deno jupyter --unstable`の追加、`deno test`に`--reporter=tap`レポーターを追加、Node.jsとの互換性改善。\nロックファイルの形式をversion 3にアップデート、`std/url`の追加、`std/ulid`の追加など",
+            "tags": [
+                "denoe",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
