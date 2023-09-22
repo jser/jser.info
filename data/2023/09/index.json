@@ -500,6 +500,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-22T23:29:25.645Z",
+            "title": "Bun v1.0.3 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.0.3",
+            "content": "Bun v1.0.3リリース。\nTypeScriptの`emitDecoratorMetadata`をサポート、`module.parent`をサポート、`bun install`でのprivate registryのサポート。\n`console.Console`のサポート、`bunx`のバグ修正など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
