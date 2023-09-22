@@ -462,6 +462,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-22T10:13:52.433Z",
+            "title": "WebKit Features in Safari 17.0 | WebKit",
+            "url": "https://webkit.org/blog/14445/webkit-features-in-safari-17-0/",
+            "content": "Safari 17リリース。\nHTMLでは、`<search>`要素の対応、`popover`属性の対応。\nCSSでは、`font-size-adjust`、`text-transform`、`@counter-style`、`image-set()`の対応。\nJavaScriptでは、Storage API、正規表現の`v`フラグ(ES2024)、Stage 3のSet Operationsの対応。\n画像では、JPEG XL/HEIC/AV1コーデックのサポート。\n実験的なフラグの管理方法や開発者ツールの変更なども含まれる",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Safari 17 Release Notes | Apple Developer Documentation",
+                    "url": "https://developer.apple.com/documentation/safari-release-notes/safari-17-release-notes"
+                }
+            ]
         }
     ]
 }
