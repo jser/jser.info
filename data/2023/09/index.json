@@ -451,6 +451,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-22T10:00:02.897Z",
+            "title": "Introducing runes",
+            "url": "https://svelte.dev/blog/runes",
+            "content": "Svelte 5はrunesという`$state`/`$derived`/`$effect`といったマクロを使いreactiveなステート管理を実現するという話。\n`$:`のラベルでのReactiveではアプリケーションが複雑になるとどれがReactiveなのかがわからなくなる問題があったため。",
+            "tags": [
+                "Svelte",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
