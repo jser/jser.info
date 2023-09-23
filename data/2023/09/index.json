@@ -528,6 +528,19 @@
                     "url": "https://survey.devographics.com/en-US/survey/state-of-html/2023"
                 }
             ]
+        },
+        {
+            "date": "2023-09-23T23:46:18.660Z",
+            "title": "Release v3.7.0 · honojs/hono",
+            "url": "https://github.com/honojs/hono/releases/tag/v3.7.0",
+            "content": "Hono v3.7.0リリース。\n`c.stream()`と`c.streamText()`を追加、`hono/testing`を追加、`hono/jwt`が`verify`/`descode`/`sign`関数をexportするように変更など",
+            "tags": [
+                "JavaScript",
+                "server",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
