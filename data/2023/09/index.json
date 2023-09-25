@@ -541,6 +541,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-25T10:34:05.136Z",
+            "title": "7.23.0 Released: Decorator Metadata and many new `import` features! · Babel",
+            "url": "https://babeljs.io/blog/2023/09/25/7.23.0",
+            "content": "Babel v7.23.0リリース。\nStage 3のDecorator Metadataのサポート、Stage 3の`import source`のサポート。\nStage 2の`import defer`のサポート、Stage 1のOptional Chaining Assignmentのサポート、TypeScript 5.2のサポートなど。\nまたBabel 8がαリリースされている。",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
