@@ -566,6 +566,22 @@
                 "links"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-26T13:51:43.678Z",
+            "title": "Firefox 118.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/118.0/releasenotes/",
+            "content": "Firefox 118リリース。\n`<search>`要素のサポート、CSSの数学関数(round、mod、rem、pow、sqrt、hypot、log、exp、abs、sign)をサポート。\nまた、Opaque Response Blockingが実装されている。",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 118 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/118"
+                }
+            ]
         }
     ]
 }
