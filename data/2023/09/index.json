@@ -582,6 +582,18 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/118"
                 }
             ]
+        },
+        {
+            "date": "2023-09-27T08:52:17.228Z",
+            "title": "Vike",
+            "url": "https://vike.dev/",
+            "content": "ReactやVueなどに対応したNext.jsやNuxtのようなフレームワーク機能を提供するViteプラグイン。\nルーティングやサーバサイドレンダリングなどを機能を提供しつつ、フレームワークに依存しないのが特徴。\n",
+            "tags": [
+                "vite",
+                "plugin",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
