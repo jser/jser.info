@@ -686,6 +686,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-29T08:21:04.920Z",
+            "title": "Node v20.8.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v20.8.0",
+            "content": "Node.js v20.8.0リリース。\nStreamのパフォーマンス改善、`vm`に`importModuleDynamically`オプションを追加、Jestなどで起きていたメモリリークの問題を修正など\n\n",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
