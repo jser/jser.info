@@ -665,10 +665,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-09-29T03:38:57.221Z",
+            "date": "2023-09-29T03:39:05.978Z",
             "title": "Astro 3.2: View Transitions improvements | Astro",
             "url": "https://astro.build/blog/astro-320/",
-            "content": "Astro 3.2リリース。\n  `data-astro-history=\"replace\"`の追加、`navigate` APIの追加、`<ViewTransitions 　/>`のアクセシビリティ対応など\n",
+            "content": "Astro 3.2リリース。\n`data-astro-history=\"replace\"`の追加、`navigate` APIの追加、`<ViewTransitions 　/>`のアクセシビリティ対応など\n",
             "tags": [
                 "astro",
                 "ReleaseNote"
