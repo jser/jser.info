@@ -715,6 +715,17 @@
                     "url": "https://github.com/lit/lit/releases/tag/lit%403.0.0-pre.1"
                 }
             ]
+        },
+        {
+            "date": "2023-09-30T11:33:48.920Z",
+            "title": "npm provenance general availability - The GitHub Blog",
+            "url": "https://github.blog/changelog/2023-09-26-npm-provenance-general-availability/",
+            "content": "npm provenanceを使ってパッケージを公開できるようになった。\nCI/CDからパッケージを公開する際に、コミットとパッケージを紐づけて公開できるようになる。\n",
+            "tags": [
+                "npm",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
