@@ -697,6 +697,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-30T03:22:03.813Z",
+            "title": "Lit 3.0 Prerelease 2 and more! – Lit",
+            "url": "https://lit.dev/blog/2023-09-27-lit-3.0-prerelease-2/",
+            "content": "Lit 3.0.0-pre.1リリース。\nLit 3.0では、IE11のサポート終了、ECMAScript Proposal Stage 3のDecoratorの対応などが含まれる。",
+            "tags": [
+                "JavaScript",
+                "UI",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release lit@3.0.0-pre.1 · lit/lit",
+                    "url": "https://github.com/lit/lit/releases/tag/lit%403.0.0-pre.1"
+                }
+            ]
         }
     ]
 }
