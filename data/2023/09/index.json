@@ -737,6 +737,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-09-30T14:29:55.295Z",
+            "title": "A Socket API that works across JavaScript runtimes — announcing a WinterCG spec and Node.js implementation of connect()",
+            "url": "https://blog.cloudflare.com/socket-api-works-javascript-runtimes-wintercg-polyfill-connect/",
+            "content": "WinterCGで策定しているSocket APIについて\n",
+            "tags": [
+                "nodejs",
+                "cloudflare",
+                "API",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Sockets API",
+                    "url": "https://sockets-api.proposal.wintercg.org/"
+                }
+            ]
         }
     ]
 }
