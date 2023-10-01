@@ -40,6 +40,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-01T22:55:59.628Z",
+            "title": "Release 3.33.0 - 2023.10.02 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.33.0",
+            "content": "core-js v3.33.0リリース。\n`RegExp.escape`の追加、compat dataのアップデートなど",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
