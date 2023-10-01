@@ -11,6 +11,23 @@
                 "database"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-01T03:11:46.587Z",
+            "title": "aidenybai/pattycake: Zero-runtime pattern matching",
+            "url": "https://github.com/aidenybai/pattycake",
+            "content": "ts-patternのパターンマッチをインライン化して、Runtimeライブラリの依存をなくすツール。",
+            "tags": [
+                "TypeScript",
+                "Tools",
+                "performance"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "gvergnaud/ts-pattern: 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.",
+                    "url": "https://github.com/gvergnaud/ts-pattern"
+                }
+            ]
         }
     ]
 }
