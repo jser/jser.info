@@ -84,6 +84,17 @@
                     "url": "https://github.com/tinylibs/tinypool/issues/64"
                 }
             ]
+        },
+        {
+            "date": "2023-10-03T13:08:46.644Z",
+            "title": "Bun v1.0.4 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.0.4",
+            "content": "Bun v1.0.4リリース。\n`Bun.serve()`のメモリ消費量の削減、`server.requestIP()`の追加、`Bun.plugin`でのvirtual modulesのサポート。\nFetchのtimeoutのデフォルト値を30秒から5分へ変更、DNS解決のバグを修正など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
