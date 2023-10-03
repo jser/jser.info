@@ -97,10 +97,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-10-03T22:26:27.342Z",
+            "date": "2023-10-03T22:54:26.099Z",
             "title": "Announcing TypeScript 5.3 Beta - TypeScript",
             "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-3-beta/",
-            "content": "TypeScript 5.3 betaリリース。\nStage 3のImport Attributesをサポート、`resolution-mode`を`///`コメントで指定でき利用に。\n`switch(true)`でのNarrowingをサポート、`[Symbol.hasInstance]`と`insteanceof`を使ったNarrowingをサポート。\nパッケージ内のbundleファイルの重複を避けることで、パッケージサイズの改善など。",
+            "content": "TypeScript 5.3 betaリリース。\nStage 3のImport Attributesをサポート、`resolution-mode`を`///`コメントで指定できるように。\n`switch(true)`でのNarrowingをサポート、`[Symbol.hasInstance]`と`insteanceof`を使ったNarrowingをサポート。\nパッケージ内のbundleファイルの重複を避けることで、パッケージサイズの改善など。",
             "tags": [
                 "TypeScript",
                 "ReleaseNote"
