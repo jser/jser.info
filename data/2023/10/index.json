@@ -128,6 +128,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-07T12:48:59.148Z",
+            "title": "Next.js 13 vs Remix: An In-depth case study",
+            "url": "https://prateeksurana.me/blog/nextjs-13-vs-remix-an-in-depth-case-study/",
+            "content": "Remix v2とNext.jsで同じアプリケーションを作りながら違いについて見ていく記事。\nルーティングとファイル構造、データの取得、ストリーミング、データの更新、エラー処理、キャッシュなどについて",
+            "tags": [
+                "React",
+                "Remix",
+                "Next.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
