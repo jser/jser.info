@@ -117,6 +117,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-07T06:30:17.515Z",
+            "title": "Chrome 119 beta - Chrome for Developers",
+            "url": "https://developer.chrome.com/en/blog/chrome-119-beta/",
+            "content": "Chroem 119 betaリリース。\nWebSQLの削除、`SVGUseElement`でのData URLのサポート削除、非標準な`shadowroot`属性の削除。\nCSSでは、`:user-valid`/`:user-invalid`の擬似クラスをサポート。\nCookieのExpiresの最大値を400日にする変更を過去分に対しても反映。\nOrigin Trialとして`window.open()`に`fullscreen`パラメータを追加など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
