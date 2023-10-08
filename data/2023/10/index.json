@@ -183,10 +183,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-10-08T04:41:03.457Z",
+            "date": "2023-10-08T04:56:37.239Z",
             "title": "State of Vite (ViteConf 2023) - Google スライド",
             "url": "https://docs.google.com/presentation/d/1oZnjsPBnb3OB2HxU88vYkZLa54GV-xNKrF8XkOIqLAU/mobilepresent#slide=id.p",
-            "content": "Viteの現在と今後について。\nDevビルドにesbuild、ProdビルドにRollupを使うためビルド結果に差異が出やすいなどの問題がある。\nそのため、Rollup互換を意識したRolldownというBundlerをRustで開発するという話。\nRspackチームと協力して進める予定で、\nRspackはwebpack互換であり、RolldownはRollup互換を目的にしている。",
+            "content": "Viteの現在と今後について。\nViteはDevビルドにesbuild、ProdビルドにRollupを使うためビルド結果に差異が出やすいなどの問題がある。\nそのため、Rollup互換を意識したRolldownというBundlerをRustで開発するという話。\nRspackチームと協力して進める予定で、\nRspackはwebpack互換であり、RolldownはRollup互換を目的にしている。",
             "tags": [
                 "vite",
                 "slide",
