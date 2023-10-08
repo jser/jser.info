@@ -158,6 +158,17 @@
                     "url": "https://bun.sh/blog/bun-bundler#sneak-peek-bun-app"
                 }
             ]
+        },
+        {
+            "date": "2023-10-08T03:52:22.514Z",
+            "title": "arktypeio/arktype: TypeScript's 1:1 validator, optimized from editor to runtime",
+            "url": "https://github.com/arktypeio/arktype",
+            "content": "TypeScriptの型定義の構文をスキーマのDSLとして利用するバリデーションライブラリ。\nスキーマの型として文字列を渡し、文字列の中にあるキーワードや演算子をパースして、型として解釈してくれる。",
+            "tags": [
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
