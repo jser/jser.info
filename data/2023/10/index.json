@@ -141,6 +141,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-08T03:16:55.762Z",
+            "title": "nksaraf/vinxi: The JavaScript Server SDK",
+            "url": "https://github.com/nksaraf/vinxi",
+            "content": "`Bun.App`をインスパイアしたサーバメタフレームワーク。\nルーターを定義しパスごとにstatic/build/nodeなどのモードとハンドラーを定義し、定義に従ってビルドやサーバをビルドする。\nBundlerにVite、サーバにNitroを使い、特定のUIフレームワークに依存しない仕組みを作ること目的にしている。",
+            "tags": [
+                "vite",
+                "server",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The Bun Bundler | Bun Blog",
+                    "url": "https://bun.sh/blog/bun-bundler#sneak-peek-bun-app"
+                }
+            ]
         }
     ]
 }
