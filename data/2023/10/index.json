@@ -224,6 +224,24 @@
                     "url": "https://github.com/pnpm/pnpm/pull/7031"
                 }
             ]
+        },
+        {
+            "date": "2023-10-10T00:23:33.768Z",
+            "title": "Release v1.8.0 - Bifröst · solidjs/solid",
+            "url": "https://github.com/solidjs/solid/releases/tag/v1.8.0",
+            "content": "Solid v1.8.0リリース。\nStreaming Serialization/Hydrationの改善。\n`<!--#-->`というコメントは、NginxなどのServer Side Includesで使われている構文で衝突していたため、`<!--$-->`に変更された。\n",
+            "tags": [
+                "Solid",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Incompatibility between Solid's markers and nginx Server Side Includes (SSI) · Issue #262 · ryansolid/dom-expressions",
+                    "url": "https://github.com/ryansolid/dom-expressions/issues/262"
+                }
+            ]
         }
     ]
 }
