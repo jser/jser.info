@@ -257,14 +257,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-10-10T12:43:01.133Z",
+            "date": "2023-10-10T12:43:09.212Z",
             "title": "The Hidden Performance Cost of NodeJS and GraphQL",
             "url": "https://www.softwareatscale.dev/p/the-hidden-performance-cost-of-nodejs",
             "content": "GraphQLでresolverの処理が増えるほどパフォーマンスが悪くなった原因を調査した記事。\nresolver内でのPromiseを多用と`async_hooks`の利用がオーバーヘッドと関連しているという話。\n",
             "tags": [
                 "nodejs",
                 "Promises",
-                "performance"
+                "performance",
+                "article"
             ],
             "relatedLinks": []
         }
