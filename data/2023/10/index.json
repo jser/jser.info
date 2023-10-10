@@ -242,6 +242,19 @@
                     "url": "https://github.com/ryansolid/dom-expressions/issues/262"
                 }
             ]
+        },
+        {
+            "date": "2023-10-10T12:28:20.518Z",
+            "title": "Introduction",
+            "url": "https://japa.dev/docs/introduction",
+            "content": "Node.js向けのテストフレームワーク。\nUnit Testの機能に加え、プラグインとしてAPIのモック機能、Playwrightを使ったブラウザテスト、TypeScriptの型定義のテスト、Snapshot Testingなどの機能を持つ\n",
+            "tags": [
+                "JavaScript",
+                "nodejs",
+                "testing",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
