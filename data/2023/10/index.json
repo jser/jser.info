@@ -211,9 +211,9 @@
         },
         {
             "date": "2023-10-09T00:38:08.192Z",
-            "title": "Release v8.9.0-0 · pnpm/pnpm",
-            "url": "https://github.com/pnpm/pnpm/releases/tag/v8.9.0-0",
-            "content": "pnpm v8.9.0-0リリース。\nJSONでinstallation scriptsを許可するパッケージを指定できる`pnpm.onlyBuiltDependenciesFile`オプションの追加。\nキャッシュからコピー時にreflinksを使うことでインストール速度の改善など。\n",
+            "title": "Release v8.9.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v8.9.0",
+            "content": "pnpm v8.9.0リリース。\nJSONでinstallation scriptsを許可するパッケージを指定できる`pnpm.onlyBuiltDependenciesFile`オプションの追加。\nキャッシュからコピー時にreflinksを使うことでインストール速度の改善など。\n",
             "tags": [
                 "pnpm",
                 "ReleaseNote"
