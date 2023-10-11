@@ -281,6 +281,24 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-11T00:28:51.652Z",
+            "title": "Lit Launch Day: Lit 3.0, Labs graduations, a compiler and more! – Lit",
+            "url": "https://lit.dev/blog/2023-10-10-lit-3.0/",
+            "content": "Lit 3.0リリース。\nIE11のサポート終了、最小の実行環境をES2021をサポートしてるブラウザへ変更。\nLit 2.0で非推奨となったAPIの削除、Stage 3のDecoratorの対応など。\nまた、新しいLitテンプレートコンパイラーの公開、Preact Signalsを統合するパッケージも公開されている。\n",
+            "tags": [
+                "JavaScript",
+                "UI",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Lit 3 upgrade guide – Lit",
+                    "url": "https://lit.dev/docs/v3/releases/upgrade/"
+                }
+            ]
         }
     ]
 }
