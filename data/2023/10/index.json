@@ -310,6 +310,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-11T13:30:13.463Z",
+            "title": "Release v2.10.0 · parcel-bundler/parcel",
+            "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.10.0",
+            "content": "Parcel v2.10.0リリース。\n遅延コンパイルする対象を指定できる`--lazy [glob]`と`--lazy-excludes`を追加。\nRustモジュールを一つのパッケージにマージすることで重複Cratesを削除してサイズの削減、また並列処理の効率化によるパフォーマンス改善など。\n\n",
+            "tags": [
+                "parcel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
