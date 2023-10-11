@@ -299,6 +299,17 @@
                     "url": "https://lit.dev/docs/v3/releases/upgrade/"
                 }
             ]
+        },
+        {
+            "date": "2023-10-11T13:21:45.063Z",
+            "title": "Bun v1.0.5 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.0.5",
+            "content": "Bun v1.0.5リリース。\nFetchのメモリリークを修正、`bun run --if-present`をサポート、`package-lock.json`を`bun.lockb`へ変換できる`bun pm migrate`コマンドを追加。\n`peerDependencies`を自動でインストールするように変更など\n",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
