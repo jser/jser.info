@@ -321,6 +321,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-11T13:34:50.363Z",
+            "title": "Fresh 1.5: Partials, client side navigation and more",
+            "url": "https://deno.com/blog/fresh-1.5",
+            "content": "Fresh 1.5リリース。\nページ遷移に該当領域のフラグメントだけを取得更新できる`<Partial>`の追加。\n現在のパスと一致する`<a>`要素に`data-current`を追加、カスタムビルドターゲットを指定できる`build.target`オプションを追加。\nesbuildを使ったbundleファイルの分析をするメタファイルの生成をサポート、エラーオーバーレイのサポートなど",
+            "tags": [
+                "deno",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
