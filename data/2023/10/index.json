@@ -346,6 +346,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-12T15:53:25.711Z",
+            "title": "Electron 27.0.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-27-0",
+            "content": "Electron 27.0.0リリース。\nmacOS 10.13/10.14のサポート終了、`ipcRenderer.sendTo()` APIを非推奨化など",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
