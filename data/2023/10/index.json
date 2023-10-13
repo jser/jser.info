@@ -357,6 +357,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-13T13:25:21.135Z",
+            "title": "Astro 3.3: Picture component | Astro",
+            "url": "https://astro.build/blog/astro-330/",
+            "content": "Astro 3.3リリース。\n`<picture />`コンポーネントの追加、シンタックスハイライトに使うライブラリを`shiki`から`shikiji`に変更など",
+            "tags": [
+                "astro",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
