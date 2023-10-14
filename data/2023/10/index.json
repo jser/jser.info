@@ -385,6 +385,17 @@
                     "url": "https://github.com/remix-run/remix/discussions/7632"
                 }
             ]
+        },
+        {
+            "date": "2023-10-14T12:22:51.758Z",
+            "title": "react-hookz/web: React hooks done right, for browser and SSR.",
+            "url": "https://github.com/react-hookz/web",
+            "content": "サーバサイドレンダリング時も動作するReact Hooksのコレクションライブラリ。\n`react-use`の後継的なライブラリとなることを意識して作られている",
+            "tags": [
+                "React",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
