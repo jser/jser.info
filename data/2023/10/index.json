@@ -368,6 +368,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-14T01:21:46.308Z",
+            "title": "Vite (Unstable) (dev branch) | Remix",
+            "url": "https://remix.run/docs/en/dev/future/vite",
+            "content": "RemixのViteサポート。\nViteのプラグインとしてRemixが動作するようになる。",
+            "tags": [
+                "Remix",
+                "vite",
+                "document"
+            ],
+            "relatedLinks": []
         }
     ]
 }
