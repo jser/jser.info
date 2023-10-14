@@ -1,4 +1,4 @@
-# [JSer.info][] [![Actions Status: test](https://github.com/jser/jser.info/workflows/test/badge.svg)](https://github.com/jser/jser.info/actions?query=workflow%3A"test")
+# [JSer.info][] [![test-and-update](https://github.com/jser/jser.info/actions/workflows/test.yml/badge.svg)](https://github.com/jser/jser.info/actions/workflows/test.yml)
 
 JSer.infoに掲載する記事の元データを管理しているリポジトリです。
 
