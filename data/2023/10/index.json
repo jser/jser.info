@@ -396,6 +396,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-15T03:55:42.108Z",
+            "title": "Release v4.1.0 · rollup/rollup",
+            "url": "https://github.com/rollup/rollup/releases/tag/v4.1.0",
+            "content": "Rollup v4.1.0リリース。\nオブジェクトが持つオプションをビットフラグで管理しメモリ消費量を削減する改善が含まれる。",
+            "tags": [
+                "rollup",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
