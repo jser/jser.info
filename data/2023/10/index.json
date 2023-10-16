@@ -465,6 +465,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-16T12:42:36.349Z",
+            "title": "Flat config rollout plans - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2023/10/flat-config-rollout-plans/",
+            "content": "ESLintのConfigファイルの今後について。\nESLintでは、ESLint 9で`eslint.config.js`のFlat Configがデフォルトとなり、`.eslintrc.*`の形式は非推奨となる。\n`.eslinrc.*`のサポートはESLint 10で削除される予定となっている。",
+            "tags": [
+                "ESLint",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
