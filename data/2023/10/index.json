@@ -420,6 +420,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-16T11:26:58.858Z",
+            "title": "Limit the reach of your selectors with the CSS `@scope` at-rule - Chrome for Developers",
+            "url": "https://developer.chrome.com/articles/at-scope/",
+            "content": "CSS `@scope`についての記事。\n`@scope`によってセレクタの範囲を制限できるようになり、スコープは特異性には影響を与えない。\nまた、`@scope { }`とルートを指定せずに指定することscoped styleを扱うprelude-less `@scope`についてなど",
+            "tags": [
+                "CSS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
