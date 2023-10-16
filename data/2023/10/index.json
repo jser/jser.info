@@ -431,6 +431,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-16T11:42:00.992Z",
+            "title": "New in Chrome 118 - Chrome for Developers",
+            "url": "https://developer.chrome.com/en/blog/new-in-chrome-118/",
+            "content": "Chrome 118の変更点について。\nCSSの`@scope`ルールのサポート、Media QueryでJavaScriptが有効かを判定する`scripting`の追加。\nDevToolsの\"Sources\"パネルの改善、`zstd`のContent-Encodingをサポートなど。\n",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
