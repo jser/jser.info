@@ -454,6 +454,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-16T11:56:16.727Z",
+            "title": "Write your own Zod",
+            "url": "https://zackoverflow.dev/writing/write-your-own-zod",
+            "content": "Zodのようなスキーマバリデーターを作る方法について。\nZodのようなスキーマオブジェクトから型をInferする方法、バリデーションの実装などについて。",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
