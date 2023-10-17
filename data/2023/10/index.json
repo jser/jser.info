@@ -476,6 +476,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-17T13:16:21.873Z",
+            "title": "Release v0.3.7 · web-infra-dev/rspack",
+            "url": "https://github.com/web-infra-dev/rspack/releases/tag/v0.3.7",
+            "content": "rspack v0.3.7リリース。\n`experiments.rspackFuture.newResolver`で新しいResolverをOpt-inできるように。\nstyled-componentsのサポート、Vue 2でのCSSの抽出をサポートなど",
+            "tags": [
+                "rspack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
