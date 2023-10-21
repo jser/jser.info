@@ -548,6 +548,19 @@
                     "url": "https://github.com/nuxt/devtools/releases/tag/v1.0.0"
                 }
             ]
+        },
+        {
+            "date": "2023-10-21T06:25:51.024Z",
+            "title": "Storybook 7.5",
+            "url": "https://storybook.js.org/blog/storybook-7-5/",
+            "content": "Storybook 7.5リリース。\nVite 5のサポート、`storiesOf`を非推奨化。\nNext.jsとAngularのサポート改善、Lit 3.0のサポートなど",
+            "tags": [
+                "Design",
+                "Development",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
