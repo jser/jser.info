@@ -561,6 +561,31 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-21T13:18:21.744Z",
+            "title": "Announcing TanStack Query v5 | TanStack Blog",
+            "url": "https://tanstack.com/blog/announcing-tanstack-query-v5",
+            "content": "TanStack Query v5リリース。\nAPIの引数の形式を変更、Suspenseのサポート、開発者ツールの刷新など。\n",
+            "tags": [
+                "React",
+                "Vue",
+                "Solid",
+                "Svelte",
+                "HTTP",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Announcing TanStack Query v5 | TanStack Blog",
+                    "url": "https://tanstack.com/blog/announcing-tanstack-query-v5"
+                },
+                {
+                    "title": "Migrating to TanStack Query v5 | TanStack Query Docs",
+                    "url": "https://tanstack.com/query/v5/docs/react/guides/migrating-to-v5"
+                }
+            ]
         }
     ]
 }
