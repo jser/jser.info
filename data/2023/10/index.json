@@ -531,6 +531,23 @@
                 "Survey"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-21T04:08:44.390Z",
+            "title": "Release v3.8.0 · nuxt/nuxt",
+            "url": "https://github.com/nuxt/nuxt/releases/tag/v3.8.0",
+            "content": "Nuxt.js v3.8.0リリース。\nNuxt DevTools 1.0、`@nuxt/image`の自動インストール、アプリの構成を定義したメタファイルの出力に対応、NuxtLinkのデフォルトの挙動を設定できるように。\n`useAsyncData`と`useFetch`に`deep`オプションの追加、`getCachedData`でカスタムキャッシュをサポートなど",
+            "tags": [
+                "Vue",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v1.0.0 · nuxt/devtools",
+                    "url": "https://github.com/nuxt/devtools/releases/tag/v1.0.0"
+                }
+            ]
         }
     ]
 }
