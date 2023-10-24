@@ -620,6 +620,17 @@
                     "url": "https://github.com/microsoft/TypeScript/issues/47947"
                 }
             ]
+        },
+        {
+            "date": "2023-10-24T00:52:28.666Z",
+            "title": "Release: Yarn 4.0 🪄⚗️ | Yarn",
+            "url": "https://yarnpkg.com/blog/release/4.0",
+            "content": "Yarn 4.0リリース。\nNode.js 12/14/16のサポート終了、`yarn set version`は`packageManager`フィールドを更新するように。\nロックファイルとレジストリのメタデータが一致しているかを検証するHardened Modeの追加、制約エンジンをJSベースに置き換え。\n`yarn upgrade-interactive`と`yarn stage`をコアに取り込み、パフォーマンスの改善など",
+            "tags": [
+                "yarn",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
