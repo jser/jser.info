@@ -502,26 +502,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-10-17T23:15:11.088Z",
-            "title": "Node.js 21 is now available! | Node.js",
-            "url": "https://nodejs.org/en/blog/announcements/v21-release-announce",
-            "content": "Node.js v21リリース。\ncurrent(開発版)となるメジャーバージョン。\nFetch/WebStreams APIのStable化、V8 11.8へのアップデート、`node --test`でのglobのサポート。\nモジュールのデフォルトをESMにできる`--experimental-default-type`、Magic BytesでWasmを判定する`--experimental-wasm-modules`の追加。\n`fs.writeFile`に`flush`オプションの追加、StreamsとHTTPのパフォーマンス改善、`navigator`のグローバルオブジェクトをサポートなど",
-            "tags": [
-                "nodejs",
-                "ReleaseNote"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "Node v21.0.0 (Current) | Node.js",
-                    "url": "https://nodejs.org/en/blog/release/v21.0.0"
-                },
-                {
-                    "title": "List of file signatures - Wikipedia",
-                    "url": "https://en.wikipedia.org/wiki/List_of_file_signatures"
-                }
-            ]
-        },
-        {
             "date": "2023-10-20T02:26:05.211Z",
             "title": "The State of WebAssembly 2023",
             "url": "https://blog.scottlogic.com/2023/10/18/the-state-of-webassembly-2023.html",
@@ -696,6 +676,22 @@
                 "history"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-25T13:17:45.191Z",
+            "title": "Node.js 21 is now available! | Node.js",
+            "url": "https://nodejs.org/en/blog/announcements/v21-release-announce",
+            "content": "Node.js v21リリース。\ncurrent(開発版)となるメジャーバージョン。\nFetch/WebStreams APIのStable化、V8 11.8へのアップデート、`node --test`でのglobのサポート。\nモジュールのデフォルトをESMにできる`--experimental-default-type`、Magic BytesでWasmを判定する`--experimental-wasm-modules`の追加。\n`fs.writeFile`に`flush`オプションの追加、StreamsとHTTPのパフォーマンス改善、`navigator`のグローバルオブジェクトをサポートなど",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Node v21.0.0 (Current) | Node.js",
+                    "url": "https://nodejs.org/en/blog/release/v21.0.0"
+                }
+            ]
         }
     ]
 }
