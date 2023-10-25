@@ -631,6 +631,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-25T00:04:06.301Z",
+            "title": "Release v0.3.8 · web-infra-dev/rspack",
+            "url": "https://github.com/web-infra-dev/rspack/releases/tag/v0.3.8",
+            "content": "rspack v0.3.8リリース。\nTop-Level `await`のサポートなど",
+            "tags": [
+                "rspack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
