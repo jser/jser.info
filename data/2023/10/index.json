@@ -756,6 +756,19 @@
                     "url": "https://eslint.style/"
                 }
             ]
+        },
+        {
+            "date": "2023-10-26T23:24:33.374Z",
+            "title": "Release Release v1.6.0 · axios/axios",
+            "url": "https://github.com/axios/axios/releases/tag/v1.6.0",
+            "content": "axios v1.6.0リリース。\n`X-XSRF-TOKEN`というCookieが設定されている時に、`withCredentials`オプションが有効だと、別オリジンに対するリクエストにも`X-XSRF-TOKEN`の値が送信される脆弱性の修正",
+            "tags": [
+                "HTTP",
+                "library",
+                "ReleaseNote",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
