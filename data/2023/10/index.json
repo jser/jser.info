@@ -692,6 +692,22 @@
                     "url": "https://nodejs.org/en/blog/release/v21.0.0"
                 }
             ]
+        },
+        {
+            "date": "2023-10-26T11:38:10.979Z",
+            "title": "JavaScriptビルドツールの整理 各ツールの機能と依存関係",
+            "url": "https://zenn.dev/nakaakist/articles/86457bf2908379",
+            "content": "Vite/Parcel/webpack/Rspack/Turbopack/Next.js/Rollup/esbuild/SWC/Bun/Babel/Terser の特徴と依存関係について。",
+            "tags": [
+                "vite",
+                "parcel",
+                "webpack",
+                "rspack",
+                "Next.js",
+                "bundler",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
