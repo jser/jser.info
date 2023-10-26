@@ -740,6 +740,22 @@
                     "url": "https://github.com/withastro/astro/releases/tag/astro%403.4.0"
                 }
             ]
+        },
+        {
+            "date": "2023-10-26T22:11:18.531Z",
+            "title": "Deprecation of formatting rules - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2023/10/deprecating-formatting-rules/",
+            "content": "ESLint v8.53.0でスタイル系のルール(スペースやセミコロンなどを扱うルール)は、非推奨となる。\nマイグレーション先としてスタイル系のルールをメンテナンスするESLint StylisticやPrettierなどのツールの利用を推奨している。",
+            "tags": [
+                "ESLint",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ESLint Stylistic | ESLint Stylistic",
+                    "url": "https://eslint.style/"
+                }
+            ]
         }
     ]
 }
