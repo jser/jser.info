@@ -724,6 +724,22 @@
                     "url": "https://github.com/vercel/next.js/releases/tag/v14.0.0"
                 }
             ]
+        },
+        {
+            "date": "2023-10-26T21:25:21.751Z",
+            "title": "Astro 3.4: Page Partials | Astro",
+            "url": "https://astro.build/blog/astro-340/",
+            "content": "Astro 3.4リリース。\npage componentをpartial pageとして利用できる`partial`オプションをサポート、画像最適化のパフォーマンス改善。\n実験的な機能としてDev Overlayを追加など",
+            "tags": [
+                "astro",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release astro@3.4.0 · withastro/astro",
+                    "url": "https://github.com/withastro/astro/releases/tag/astro%403.4.0"
+                }
+            ]
         }
     ]
 }
