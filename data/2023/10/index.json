@@ -708,6 +708,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-26T21:06:37.751Z",
+            "title": "Next.js 14 | Next.js",
+            "url": "https://nextjs.org/blog/next-14",
+            "content": "Next.js 14リリース。\nNode.js 16のサポート終了、`next export`コマンドを非推奨化、`next/image`の`domains`オプションを非推奨化。\nServer ActionのStable化、Metadata APIの改善。\n実験的な機能として`<Suspense>`を使ったPartial Prerenderingのサポートなど",
+            "tags": [
+                "Next.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v14.0.0 · vercel/next.js",
+                    "url": "https://github.com/vercel/next.js/releases/tag/v14.0.0"
+                }
+            ]
         }
     ]
 }
