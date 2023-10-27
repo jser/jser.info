@@ -769,6 +769,17 @@
                 "security"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-27T23:09:45.623Z",
+            "title": "Release v8.10.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v8.10.0",
+            "content": "pnpm v8.10.0リリース。\n`supportedArchitectures`で複数のアーキテクチャを指定できるように。\nホスト環境とDocker環境に両方のアーキテクチャのバイナリをインストール際などに利用できる。",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
