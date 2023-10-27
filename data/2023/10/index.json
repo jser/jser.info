@@ -780,6 +780,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-10-27T23:23:26.301Z",
+            "title": "Announcing WinterJS",
+            "url": "https://wasmer.io/posts/announcing-winterjs-service-workers",
+            "content": "WinterCG仕様に準拠したJavaScript Runtime。\nSpiderMonkeyをRuntimeとして使い、Service Workers APIを実装している。\nWasmerのWASIX準拠にしている。",
+            "tags": [
+                "JavaScript",
+                "WebAssembly",
+                "ServiceWorker",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "wasmerio/winterjs: Winter is coming... ❄️",
+                    "url": "https://github.com/wasmerio/winterjs"
+                }
+            ]
         }
     ]
 }
