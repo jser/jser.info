@@ -798,6 +798,23 @@
                     "url": "https://github.com/wasmerio/winterjs"
                 }
             ]
+        },
+        {
+            "date": "2023-10-28T02:55:13.935Z",
+            "title": "JavaScript JIT compiler - YouTube",
+            "url": "https://www.youtube.com/playlist?list=PLMOpZvQB55bcTsXzRcBjHJJb52OGWwNjr",
+            "content": "LadybirdのJavaScriptエンジンであるLibJSにJITを実装していく動画シリーズ。",
+            "tags": [
+                "JavaScript",
+                "C++",
+                "video"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "serenity/Userland/Libraries/LibJS at master · SerenityOS/serenity",
+                    "url": "https://github.com/SerenityOS/serenity/tree/master/Userland/Libraries/LibJS"
+                }
+            ]
         }
     ]
 }
