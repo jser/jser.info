@@ -44,6 +44,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-01T22:53:17.416Z",
+            "title": "New in Chrome 119 - Chrome for Developers",
+            "url": "https://developer.chrome.com/en/blog/new-in-chrome-119/",
+            "content": "Chrome 119リリース。\nCookieのExpiresの最大値を400日にする変更を過去分に対して適応、WebSQLの削除。\nCSSの`:user-valid`/`:user-invalid`の擬似クラスのサポート、relative color構文のサポート、clip-pathプロパティの改善など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
