@@ -12,6 +12,25 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-01T04:32:23.045Z",
+            "title": "Release v2.2.0 · remix-run/remix",
+            "url": "https://github.com/remix-run/remix/releases/tag/remix%402.2.0",
+            "content": "Remix 2.2.0リリース。\nViteのサポート、Fetcherにkeyを指定できるように。\n`future.v3_fetcherPersist`フラグで、Fetcherのクリーンアップの新しい挙動をopt-inできるようになるなど",
+            "tags": [
+                "Remix",
+                "React",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Remix ❤️ Vite | Remix",
+                    "url": "https://remix.run/blog/remix-heart-vite"
+                }
+            ]
         }
     ]
 }
