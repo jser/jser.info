@@ -55,6 +55,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-01T22:57:56.802Z",
+            "title": "WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome - Chrome for Developers",
+            "url": "https://developer.chrome.com/en/blog/wasmgc/",
+            "content": "Chrome 119でサポートされたWasmGCについて。\nWasm上に独自のGCを実装せずに、組み込みのGCを再利用できるようにする仕組みについて",
+            "tags": [
+                "Chrome",
+                "WebAssembly",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
