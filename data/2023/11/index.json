@@ -108,6 +108,17 @@
                     "url": "https://github.com/nodesource/nsolid"
                 }
             ]
+        },
+        {
+            "date": "2023-11-03T02:40:58.448Z",
+            "title": "Bun v1.0.8 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.0.8",
+            "content": "Bun v1.0.8リリース。\n`require()`のメモリリークを修正、`bun test`でモジュールのモックをサポート、`bun install`のバグ修正、`setTimeout(fn, 0)`のバグ修正など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
