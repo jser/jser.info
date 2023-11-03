@@ -91,6 +91,23 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-03T02:31:56.379Z",
+            "title": "N|Solid Runtime: NodeSource's Open Source Release for Node.js",
+            "url": "https://nodesource.com/blog/nsolid-oss-release",
+            "content": "Node.jsに詳細なメトリクスや細かい動作の制御などを組み込んだRuntimeであるN|SolidのコードがMITライセンスで公開された。",
+            "tags": [
+                "nodejs",
+                "OpenSource",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "nodesource/nsolid: N|Solid Runtime",
+                    "url": "https://github.com/nodesource/nsolid"
+                }
+            ]
         }
     ]
 }
