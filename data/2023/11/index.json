@@ -130,6 +130,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-03T04:41:41.887Z",
+            "title": "farm-fe/farm: Extremely fast Vite-compatible web build tool written in Rust",
+            "url": "https://github.com/farm-fe/farm",
+            "content": "Vite/Rollupプラグイン互換の仕組みを持ったRust製のBundlerツール。\nビルドパフォーマンス、devとproductionビルドでの一貫性、dev環境でbundleしないことでのリクエスト数の問題を解決する目的。\nモジュールをグループという単位でbundleして、リクエスト数を削減とキャッシュヒット率の向上を目的にしたPartial Bundlingという仕組みを持つ。",
+            "tags": [
+                "vite",
+                "rollup",
+                "bundler",
+                "Rust",
+                "Tools",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "rfcs/rfcs/003-partial-bundling/rfc.md at main · farm-fe/rfcs",
+                    "url": "https://github.com/farm-fe/rfcs/blob/main/rfcs/003-partial-bundling/rfc.md"
+                }
+            ]
         }
     ]
 }
