@@ -67,6 +67,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-03T00:10:14.887Z",
+            "title": "Deno 1.38: HTML doc generator and HMR",
+            "url": "https://deno.com/blog/v1.38",
+            "content": "Deno v1.38リリース。\n`deno doc --html`で静的なHTMLなドキュメントを生成をサポート。\n`--unstable-hmr`でHMRをサポート、`--unstable-byonm`でnpmなどでインストールした`node_modules`のnpmパッケージを利用できるように、`node:*`をサポート。\n`deno run --env`で`.env`のロードをサポート、`std/http`で`EventSource` APIのサポートなど。\nその他には、`http/server`の非推奨化、`std/io`の非推奨化、`std/wasi`の非推奨化などが含まれている。",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
