@@ -119,6 +119,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-03T03:00:38.736Z",
+            "title": "Chrome 120 beta - Chrome for Developers",
+            "url": "https://developer.chrome.com/en/blog/chrome-120-beta/",
+            "content": "Chrome 120 betaリリース。\nCSSの`@property`で`syntax:<image>`をサポート、maskingを`-webkit` prefixなしでサポート、nestingのrelaxed parsing behaviorに対応。\n`<details name>`のサポート、`FontFaceSet.check()`のサポート、Intersection Observerの`scrollMargin`オプションをサポート。\nFenced Framesの機能更新、`Permissions-Policy-Report-Only`ヘッダの対応。\n\nOrigin Trialとして、`priority`リクエストヘッダの対応、`Performance.measureUserAgentSpecificMemory()`などが含まれている。",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
