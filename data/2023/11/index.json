@@ -150,6 +150,17 @@
                     "url": "https://github.com/farm-fe/rfcs/blob/main/rfcs/003-partial-bundling/rfc.md"
                 }
             ]
+        },
+        {
+            "date": "2023-11-04T10:05:38.734Z",
+            "title": "Announcing TypeScript 5.3 RC - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-3-rc/",
+            "content": "TypeScript 5.3 RCリリース。\nStage 3のImport Attributesをサポート、`resolution-mode`を`///`コメントで指定できるように。\n`switch(true)`でのNarrowingをサポート、`[Symbol.hasInstance]`と`insteanceof`を使ったNarrowingをサポート。\nパッケージ内のbundleファイルの重複を避けることで、パッケージサイズの改善など。",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
