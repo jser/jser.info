@@ -178,6 +178,19 @@
                     "url": "https://angular.dev/"
                 }
             ]
+        },
+        {
+            "date": "2023-11-07T14:46:48.204Z",
+            "title": "oxc-project/javascript-parser-in-rust: Tutorial on writing a JavaScript Parser in Rust",
+            "url": "https://github.com/oxc-project/javascript-parser-in-rust",
+            "content": "JavaScriptのパーサをRustで書くこと関するガイドやチュートリアル",
+            "tags": [
+                "JavaScript",
+                "AST",
+                "Rust",
+                "tutorial"
+            ],
+            "relatedLinks": []
         }
     ]
 }
