@@ -93,23 +93,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-11-03T02:31:56.379Z",
-            "title": "N|Solid Runtime: NodeSource's Open Source Release for Node.js",
-            "url": "https://nodesource.com/blog/nsolid-oss-release",
-            "content": "Node.jsに詳細なメトリクスや細かい動作の制御などを組み込んだRuntimeであるN|SolidのコードがMITライセンスで公開された。",
-            "tags": [
-                "nodejs",
-                "OpenSource",
-                "article"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "nodesource/nsolid: N|Solid Runtime",
-                    "url": "https://github.com/nodesource/nsolid"
-                }
-            ]
-        },
-        {
             "date": "2023-11-03T02:40:58.448Z",
             "title": "Bun v1.0.8 | Bun Blog",
             "url": "https://bun.sh/blog/bun-v1.0.8",
@@ -191,6 +174,23 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-08T08:35:56.464Z",
+            "title": "N|Solid Runtime: NodeSource's Open Source Release for Node.js",
+            "url": "https://nodesource.com/blog/nsolid-oss-release",
+            "content": "Node.jsに詳細なメトリクスや細かい動作の制御などを組み込んだRuntimeであるN|SolidのコードがMITライセンスで公開された。",
+            "tags": [
+                "nodejs",
+                "OpenSource",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "nodesource/nsolid: N|Solid Runtime",
+                    "url": "https://github.com/nodesource/nsolid"
+                }
+            ]
         }
     ]
 }
