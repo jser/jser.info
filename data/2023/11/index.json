@@ -191,6 +191,22 @@
                     "url": "https://github.com/nodesource/nsolid"
                 }
             ]
+        },
+        {
+            "date": "2023-11-10T13:35:28.050Z",
+            "title": "Introducing Angular v17. Last month marked the 13th anniversary… | by Minko Gechev | Nov, 2023 | Angular Blog",
+            "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b",
+            "content": "Angular v17リリース。\nNode.js 16のサポート終了、ドキュメントサイトの刷新、`@if`や`@for`などのbuilt-in control flowのサポート。\n新しいプロジェクトでのSSRにおけるhydrationがデフォルトで有効に、`ng serve`と`ng build`にViteとesbuildを利用するようになるなど",
+            "tags": [
+                "Angular",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v17.0.0 · angular/angular",
+                    "url": "https://github.com/angular/angular/releases/tag/17.0.0"
+                }
+            ]
         }
     ]
 }
