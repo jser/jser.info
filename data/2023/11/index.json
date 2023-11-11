@@ -209,7 +209,7 @@
             ]
         },
         {
-            "date": "2023-11-11T01:55:16.976Z",
+            "date": "2023-11-11T01:55:27.907Z",
             "title": "Astro 3.5: i18n Routing | Astro",
             "url": "https://astro.build/blog/astro-350/",
             "content": "Astro 3.5リリース。\nprefetchの機能をコアに統合、`<ViewTransitions handleForms />`を追加、`addMiddleware`を追加、Qwikのサポート。\n実験的な機能としてi18n Routing APIを追加、`contentCollectionCache`オプションを追加など",
@@ -217,7 +217,12 @@
                 "astro",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Release astro@3.5.0 · withastro/astro",
+                    "url": "https://github.com/withastro/astro/releases/tag/astro%403.5.0"
+                }
+            ]
         }
     ]
 }
