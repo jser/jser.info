@@ -207,6 +207,17 @@
                     "url": "https://github.com/angular/angular/releases/tag/17.0.0"
                 }
             ]
+        },
+        {
+            "date": "2023-11-11T01:55:16.976Z",
+            "title": "Astro 3.5: i18n Routing | Astro",
+            "url": "https://astro.build/blog/astro-350/",
+            "content": "Astro 3.5リリース。\nprefetchの機能をコアに統合、`<ViewTransitions handleForms />`を追加、`addMiddleware`を追加、Qwikのサポート。\n実験的な機能としてi18n Routing APIを追加、`contentCollectionCache`オプションを追加など",
+            "tags": [
+                "astro",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
