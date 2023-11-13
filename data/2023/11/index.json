@@ -223,6 +223,18 @@
                     "url": "https://github.com/withastro/astro/releases/tag/astro%403.5.0"
                 }
             ]
+        },
+        {
+            "date": "2023-11-13T07:47:41.105Z",
+            "title": "Prettier 3.1: New experimental ternaries formatting and Angular control flow syntax! · Prettier",
+            "url": "https://prettier.io/blog/2023/11/13/3.1.0.html",
+            "content": "Prettier 3.1リリース。\n`--experimental-ternaries`で三項演算子の新しい整形ルールを試せるように。\nBabel 7.23.0でサポートされた構文をサポート、Angular 17で追加されたcontrol flow構文のサポートなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
