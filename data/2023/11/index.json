@@ -247,6 +247,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-15T01:20:11.855Z",
+            "title": "Node v21.2.0 (Current) | Node.js",
+            "url": "https://nodejs.org/blog/release/v21.2.0",
+            "content": "Node.js v21.2.0リリース。\n`import.meta.dirname`と`import.meta.filename`を追加、`fs/promises`にスタックトレースを追加。\n`navigator.language`/`navigator.platform`を追加、`--no-experimental-global-navigator`フラグを追加など。\n",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
