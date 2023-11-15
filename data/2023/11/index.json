@@ -295,6 +295,18 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-15T12:25:39.584Z",
+            "title": "仕様と実装から読み解くHTMLのloading属性 - dwango on GitHub",
+            "url": "https://dwango.github.io/articles/html-loading-attribute/",
+            "content": "ブラウザごとの`img`/`iframe`の`loading=lazy`の挙動の違いについて",
+            "tags": [
+                "HTML",
+                "browser",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
