@@ -319,6 +319,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-16T11:52:50.124Z",
+            "title": "A faster web in 2024 - rviscomi.dev",
+            "url": "https://rviscomi.dev/2023/11/a-faster-web-in-2024/",
+            "content": "GoogleのWeb Vitalsの指標としてFID(First Input Delay)の代わりにINP(Interaction to Next Paint)を利用するようになる変更について。\nINPを改善する方法としてのタスク分割、LCPとlazy loadingの問題、fetchpriotyやSpeculation Rules APIなどについて。",
+            "tags": [
+                "Chrome",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
