@@ -343,6 +343,17 @@
                 "refactoring"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-16T12:10:47.264Z",
+            "title": "Bun v1.0.12 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.0.12",
+            "content": "Bun v1.0.12リリース。\n`bun -e \"<code>\"`のサポート、`bun --env-file <path>`のサポート、`import.meta.env`のサポート。\n`expect.unreachable()`の追加、`mock.module(...)`の改善など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
