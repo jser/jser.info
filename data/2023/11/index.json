@@ -331,6 +331,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-16T11:58:00.556Z",
+            "title": "Moving back to React",
+            "url": "https://daily.dev/blog/moving-back-to-react",
+            "content": "Next.jsとの互換性のためPreactからReactへ移行した話。\nPreactとReactの互換性の問題や実際に遭遇した問題についてなど",
+            "tags": [
+                "React",
+                "article",
+                "refactoring"
+            ],
+            "relatedLinks": []
         }
     ]
 }
