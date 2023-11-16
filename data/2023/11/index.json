@@ -354,6 +354,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-16T23:22:08.755Z",
+            "title": "Vite 5.0 is out! | Vite",
+            "url": "https://vitejs.dev/blog/announcing-vite5",
+            "content": "Vite 5.0リリース。\nNode.js 14/16のサポート終了、Rollup 4へアップデート、CJS Node APIを非推奨化。\n`define`の置換方法をdevとproduction buildで同じ方法を使うように変更、devとpreviewでURL末尾のスラッシュの扱いが異なる問題を修正、非推奨なAPIの削除など",
+            "tags": [
+                "vite",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migration from v4 | Vite",
+                    "url": "https://vitejs.dev/guide/migration#deprecate-cjs-node-api"
+                }
+            ]
         }
     ]
 }
