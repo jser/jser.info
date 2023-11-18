@@ -370,6 +370,17 @@
                     "url": "https://vitejs.dev/guide/migration#deprecate-cjs-node-api"
                 }
             ]
+        },
+        {
+            "date": "2023-11-18T23:20:26.108Z",
+            "title": "Bun v1.0.13 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.0.13",
+            "content": "Bun v1.0.13リリース。\n`node:http2`のサポートを改善し`@grpc/grpc-js`が動くように修正、`process.report.getReport()`をサポートしVite 5/Rollup 4が動くように修正。\n`with`ステートメントを含むファイルの変換をサポート、`Bun.spawn`のエラーを改善など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
