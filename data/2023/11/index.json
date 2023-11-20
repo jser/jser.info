@@ -414,6 +414,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-20T23:17:26.896Z",
+            "title": "Announcing TypeScript 5.3 - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-3/",
+            "content": "TypeScript 5.3リリース。\nStage 3のImport Attributesをサポート、`resolution-mode`を`///`コメントで指定できるように。\n`switch(true)`でのNarrowingをサポート、`[Symbol.hasInstance]`と`insteanceof`を使ったNarrowingをサポート。\nパッケージ内のbundleファイルの重複を避けることで、パッケージサイズの改善など。",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
