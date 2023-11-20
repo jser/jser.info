@@ -401,6 +401,19 @@
                     "url": "https://frontend-conf.okinawa.jp/"
                 }
             ]
+        },
+        {
+            "date": "2023-11-20T12:17:12.861Z",
+            "title": "Release 8.0.0 · vvo/iron-session",
+            "url": "https://github.com/vvo/iron-session/releases/tag/v8.0.0",
+            "content": "iron-session 8.0.0リリース。\nNext.js App Routerに対応し、APIも合わせて変更。",
+            "tags": [
+                "JavaScript",
+                "Next.js",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
