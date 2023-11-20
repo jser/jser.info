@@ -425,6 +425,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-20T23:49:41.565Z",
+            "title": "Intlの今までとこれから - Speaker Deck",
+            "url": "https://speakerdeck.com/sajikix/intlnojin-madetokorekara",
+            "content": "ECMA-402のIntlオブジェクトについてのスライド。\nIntl APIの紹介、仕様バージョンごとの追加された機能、国際化や地域化を扱うためUnicodeなどの外部仕様に依存している点、Temporalとの組み合わせなどについて",
+            "tags": [
+                "i18n",
+                "JavaScript",
+                "ECMAScript",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
