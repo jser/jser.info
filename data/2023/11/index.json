@@ -438,6 +438,22 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-21T23:42:39.136Z",
+            "title": "Firefox 120.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/120.0/releasenotes/",
+            "content": "Firefox 120リリース。\n`<source>`の`media`属性を再導入、`Date.parse()`でパースできる日付フォーマットの追加、HTTP 103 Early Hintsをサポート。\nその他には、Global Privacy Controlのサポート、CSSの`-moz-image-rect()`を削除など",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 120 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/120"
+                }
+            ]
         }
     ]
 }
