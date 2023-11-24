@@ -454,6 +454,18 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/120"
                 }
             ]
+        },
+        {
+            "date": "2023-11-24T12:52:22.484Z",
+            "title": "Downloads by Major",
+            "url": "https://majors.nullvoxpopuli.com/",
+            "content": "npmのパッケージのダウンロード数をメジャーバージョン単位で比較できるサービス。\nメジャーアップデートへの移行がどれぐらい進んでいるかを確認できる",
+            "tags": [
+                "npm",
+                "webservice",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
