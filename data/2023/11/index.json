@@ -513,6 +513,19 @@
                 "Survey"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-26T05:32:14.130Z",
+            "title": "Release v3.0.0 · lerna-lite/lerna-lite",
+            "url": "https://github.com/lerna-lite/lerna-lite/releases/tag/v3.0.0",
+            "content": "lerna-lite v3.0.0リリース。\nNode.js 16のサポート終了、`lerna run --use-nx`の削除など",
+            "tags": [
+                "JavaScript",
+                "monorepo",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
