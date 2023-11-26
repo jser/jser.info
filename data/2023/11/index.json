@@ -526,6 +526,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-26T13:03:28.880Z",
+            "title": "Release v135 / Introducing esm.sh/run · esm-dev/esm.sh",
+            "url": "https://github.com/esm-dev/esm.sh/releases/tag/v135",
+            "content": "esm.sh v135リリース。\nJSXやTSのコード変換と実行できる\n`https://esm.sh/run`の追加など",
+            "tags": [
+                "JavaScript",
+                "cdn",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
