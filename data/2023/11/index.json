@@ -491,6 +491,17 @@
                 "HTML"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-26T04:20:56.116Z",
+            "title": "Getting started with CSS container queries | MDN Blog",
+            "url": "https://developer.mozilla.org/en-US/blog/getting-started-with-css-container-queries/",
+            "content": "CSSのContainer queryの紹介記事。\n親要素に対して`@container`のMedia Queryで条件を指定し、子要素に対してスタイルを設定できる。\n基本的な使い方、Container units(`cq*`)、Style queryについてなど",
+            "tags": [
+                "CSS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
