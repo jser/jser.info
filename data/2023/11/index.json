@@ -466,6 +466,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-26T03:55:08.218Z",
+            "title": "Node v20.10.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v20.10.0",
+            "content": "Node.js v20.10.0リリース。\nESMをデフォルト化に関する`--experimental-default-type`と`--experimental-detect-module`のフラグを追加。\n`fs.writeFile`に`flush`オプションを追加、`WebSocket`をグローバルに追加する`--experimental-websocket`フラグを追加。\nJestでメモリリークの原因となっていたVMScriptとDynamic Importに関する問題を修正など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
