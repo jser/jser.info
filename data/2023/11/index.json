@@ -541,10 +541,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-11-27T23:00:24.086Z",
+            "date": "2023-11-27T23:10:47.209Z",
             "title": "Biome formatter wins the Prettier challenge |",
             "url": "https://biomejs.dev/blog/biome-wins-prettier-challenge",
-            "content": "Biome v1.4.0リリース。\nJS/TS/JSXのフォーマット結果をPrettier互換となるように改善。現時点ではPrettierの結果と96%一致ようになり、いくつかのフォーマットは意図的な差分があることについても書かれている。\nフォーマットに関するオプション追加、`--config-path`フラグの追加、Lintルールの追加など",
+            "content": "Biome v1.4.0リリース。\nJS/TS/JSXのフォーマット結果をPrettier互換となるように改善。現時点ではPrettierの結果と96%一致する。いくつかのフォーマットは意図的な差分があることについても書かれている。\nフォーマットに関するオプション追加、`--config-path`フラグの追加、Lintルールの追加など",
             "tags": [
                 "JavaScript",
                 "Rust",
