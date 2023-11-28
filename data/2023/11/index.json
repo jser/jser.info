@@ -557,6 +557,19 @@
                     "url": "https://github.com/biomejs/biome/releases/tag/cli%2Fv1.4.0"
                 }
             ]
+        },
+        {
+            "date": "2023-11-28T11:29:40.383Z",
+            "title": "css-hooks/css-hooks: Hooks bring advanced CSS features to native inline styles.",
+            "url": "https://github.com/css-hooks/css-hooks",
+            "content": "style属性でスタイリングをするCSS in JSライブラリ。React/Preact/Solidに対応している。\nCSS custom propertiesを使って、`:hover`などの擬似クラスやMedia Queryに対するスタイルをstyle属性で実現している。",
+            "tags": [
+                "JavaScript",
+                "CSS",
+                "React",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
