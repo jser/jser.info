@@ -583,6 +583,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-29T05:28:02.686Z",
+            "title": "Release v9.0.0 · cosmiconfig/cosmiconfig",
+            "url": "https://github.com/cosmiconfig/cosmiconfig/releases/v9.0.0",
+            "content": "設定ファイルのローダーライブラリであるcosmiconfig 9.0.0リリース。\n`searchStrategy`オプションの追加、`$import:`のサポート。\nファイルシステムの権限で読み取り失敗したときにクラッシュする問題を修正など\n",
+            "tags": [
+                "nodejs",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
