@@ -572,7 +572,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-11-29T00:05:45.432Z",
+            "date": "2023-11-29T00:05:54.331Z",
             "title": "tapjs/tsimp",
             "url": "https://github.com/tapjs/tsimp",
             "content": "ts-nodeのようにTypeScriptのコードを型チェックしながらコンパイルできるローダー。\nNode.js 20からサポートされている`Module.register()`を使って`node --import`で動作する。またデーモンとキャッシュを使うことで、不要な処理をスキップできる。",
@@ -580,7 +580,7 @@
                 "TypeScript",
                 "nodejs",
                 "Tools",
-                "accessibility"
+                "library"
             ],
             "relatedLinks": []
         }
