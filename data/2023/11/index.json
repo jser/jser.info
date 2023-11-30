@@ -606,6 +606,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-30T00:01:40.650Z",
+            "title": "Node v18.19.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v18.19.0",
+            "content": "Node.js v18.19.0リリース。\nnpm 10へアップデート、`node:module`に`register` APIの追加、`import.meta.resolve`のサポート。\n`.js`のデフォルトの扱いをCJSからESMへと変更できる`--experimental-default-type`フラグのサポートなど。",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
