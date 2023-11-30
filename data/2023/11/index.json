@@ -628,6 +628,18 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-11-30T12:09:07.154Z",
+            "title": "architect/aws-lite: A simple, fast, extensible AWS client",
+            "url": "https://github.com/architect/aws-lite",
+            "content": "AWSのAPIクライアントライブラリ。\nAWS SDKのパフォーマンスやスタックトレースなどの問題に対応する目的で作成している。",
+            "tags": [
+                "aws",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
