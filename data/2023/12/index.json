@@ -23,6 +23,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-01T07:22:26.456Z",
+            "title": "Prettier's CLI: A Performance Deep Dive · Prettier",
+            "url": "https://prettier.io/blog/2023/11/30/cli-deep-dive",
+            "content": "PrettierのCLIのパフォーマンス改善について。\nglobのファイル探索の改善、INIファイルのパースの改善、キャッシュをデフォルト化、`console.log`の出力をバッファリングするように変更など",
+            "tags": [
+                "nodejs",
+                "JavaScript",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
