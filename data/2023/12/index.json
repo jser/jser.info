@@ -1,0 +1,17 @@
+{
+    "list": [
+        {
+            "date": "2023-12-01T03:23:42.654Z",
+            "title": "Storybook 7.6",
+            "url": "https://storybook.js.org/blog/storybook-7-6/",
+            "content": "Storybook 7.6リリース。\nwebpackプロジェクトでもSWCを利用するように変更、`@storybook/test`のassertionをVitestのexpectに変更、Test modeの追加。\nreact-docgenのアップデートによる起動時間の改善、StoryshotsとVue2のサポートを非推奨化するなど",
+            "tags": [
+                "Development",
+                "debug",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
