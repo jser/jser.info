@@ -12,6 +12,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-01T07:11:31.523Z",
+            "title": "Node v21.3.0 (Current) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v21.3.0",
+            "content": "Node.js v21.3.0リリース。\n`--disable-warning`フラグの追加、ルート証明書をNSS 3.95に更新、UTF-8の文字列を`fs.writeFileSync`で書き込む時のパフォーマンス改善など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
