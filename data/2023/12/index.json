@@ -95,6 +95,19 @@
                     "url": "https://github.com/denoland/deno/issues/19861"
                 }
             ]
+        },
+        {
+            "date": "2023-12-04T10:15:22.747Z",
+            "title": "unjs/unenv: 🕊️ Convert javaScript code to be runtime agnostic",
+            "url": "https://github.com/unjs/unenv/tree/main",
+            "content": "Node.js Core Modulesなどのpolyfillやモックを提供するライブラリ。\nNode.js向けのコードを他の実行環境でも動作させるためのライブラリ",
+            "tags": [
+                "nodejs",
+                "JavaScript",
+                "polyfill",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
