@@ -108,6 +108,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-04T22:48:46.101Z",
+            "title": "Release v5.0.0 · reduxjs/redux",
+            "url": "https://github.com/reduxjs/redux/releases/tag/v5.0.0",
+            "content": "Redux v5.0.0リリース。\nTypeScriptへの書き換え、CJS/ESMのdual packageに変更、ES2020形式で出力するように変更。\n`createStore`を非推奨としRedux Toolkitへの移行を推奨としている。\n",
+            "tags": [
+                "redux",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
