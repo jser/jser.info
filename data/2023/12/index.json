@@ -138,6 +138,19 @@
                     "url": "https://redux.js.org/usage/migrations/migrating-rtk-2"
                 }
             ]
+        },
+        {
+            "date": "2023-12-05T04:51:13.686Z",
+            "title": "Release v6.0.0 · avajs/ava",
+            "url": "https://github.com/avajs/ava/releases/tag/v6.0.0",
+            "content": "AVA v6.0.0リリース。\nNpde.js 14/16のサポート終了、Watchモードの改善、`t.throws()`に`any`オプションを追加など",
+            "tags": [
+                "nodejs",
+                "JavaScript",
+                "jailbreak",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
