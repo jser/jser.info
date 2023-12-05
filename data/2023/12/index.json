@@ -163,6 +163,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-05T23:11:41.263Z",
+            "title": "facebook/stylex: StyleX is the styling system for ambitious user interfaces.",
+            "url": "https://github.com/facebook/stylex",
+            "content": "FacebokのAtomic CSS in JSライブラリ。\nTypeScriptなどでType Safeにスタイルを定義、適用でき、ビルド時にCSSファイルへとコンパイルすることで実行時のコストを小さくしている。\n`stylex.create`でスタイルを定義、`stylex.props`で常に後ろが優先されるというマージルールでスタイルを適用できる。",
+            "tags": [
+                "JavaScript",
+                "CSS",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
