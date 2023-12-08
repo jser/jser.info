@@ -219,6 +219,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-08T02:21:28.869Z",
+            "title": "Web Performance Calendar » Fastest Way of Passing State to JavaScript, Re-visited",
+            "url": "https://calendar.perfplanet.com/2023/fastest-way-passing-state-javascript-revisited/",
+            "content": "SSRでステートを埋め込んで渡す方法のパフォーマンス比較。\nJSを出力する方法、InvalidなMime typeで埋め込む方法、JSONを埋め込む方法について",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
