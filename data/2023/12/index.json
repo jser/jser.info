@@ -236,6 +236,24 @@
                     "url": "https://speakerdeck.com/kazupon/vue-and-vite-rustify"
                 }
             ]
+        },
+        {
+            "date": "2023-12-08T02:28:28.860Z",
+            "title": "Release v3.11.0 · honojs/hono",
+            "url": "https://github.com/honojs/hono/releases/tag/v3.11.0",
+            "content": "Hono v3.11.0リリース。\n`hono/jsx`に`ErrorBoundary`の追加、`hono/dev`にルーティングの一覧を出力する`showRoutes`を追加。\n`c.jsonT()`をDeprecatedにして、`c.json()`がRPCでも利用できるようになるなど。",
+            "tags": [
+                "JavaScript",
+                "server",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Honoのv3.10とv3.11について",
+                    "url": "https://zenn.dev/yusukebe/articles/d1be7aa06999cb"
+                }
+            ]
         }
     ]
 }
