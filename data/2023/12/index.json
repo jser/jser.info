@@ -265,6 +265,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-08T12:53:53.362Z",
+            "title": "Release v14.0.0 · sindresorhus/got",
+            "url": "https://github.com/sindresorhus/got/releases/tag/v14.0.0",
+            "content": "Got v14.0.0リリース。\nNode.js 18のサポートを終了。",
+            "tags": [
+                "nodejs",
+                "HTTP",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
