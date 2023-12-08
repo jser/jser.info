@@ -210,17 +210,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-12-08T02:13:54.030Z",
-            "title": "VueFes Japan 2023イベントレポート | gihyo.jp",
-            "url": "https://gihyo.jp/article/2023/11/vuefes-japan-2023-report",
-            "content": "VueFes Japan 2023のレポート記事",
-            "tags": [
-                "Vue",
-                "article"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2023-12-08T02:21:28.869Z",
             "title": "Web Performance Calendar » Fastest Way of Passing State to JavaScript, Re-visited",
             "url": "https://calendar.perfplanet.com/2023/fastest-way-passing-state-javascript-revisited/",
@@ -231,6 +220,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-08T02:22:10.503Z",
+            "title": "VueFes Japan 2023イベントレポート | gihyo.jp",
+            "url": "https://gihyo.jp/article/2023/11/vuefes-japan-2023-report",
+            "content": "VueFes Japan 2023のレポート記事",
+            "tags": [
+                "Vue",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Vue & Vite Rustify - Speaker Deck",
+                    "url": "https://speakerdeck.com/kazupon/vue-and-vite-rustify"
+                }
+            ]
         }
     ]
 }
