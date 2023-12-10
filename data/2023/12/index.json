@@ -291,6 +291,18 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-10T11:25:36.754Z",
+            "title": "ECMAScript proposal updates @ 2023-11 | ECMAScript Daily",
+            "url": "https://ecmascript-daily.github.io/ecmascript/2023/12/10/ecmascript-proposal-update",
+            "content": "2023-11のTC39ミーティングでのECMAScript Proposalのステータス変更のまとめ。\nArray Groupingと`Promise.withResolvers`がStage 4となりES2024に含まれる。",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
