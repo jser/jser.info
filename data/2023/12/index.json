@@ -314,6 +314,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-12T12:18:46.696Z",
+            "title": "npm install --productionみたいなの色々ありすぎ問題",
+            "url": "https://zenn.dev/zawa_kyo/articles/d671e0935ae0c0",
+            "content": "`npm install --omit=dev`や`--production`、`--inculde`フラグについて",
+            "tags": [
+                "npm",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
