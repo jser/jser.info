@@ -325,6 +325,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-12T13:52:53.712Z",
+            "title": "Vite は使ってないけど Jest を Vitest に移行する",
+            "url": "https://zenn.dev/sa2knight/articles/migrating_vitest_from_jest",
+            "content": "JestからVitestへの移行方法について",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
