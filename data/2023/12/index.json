@@ -303,6 +303,17 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-12T07:03:14.981Z",
+            "title": "WebKit Features in Safari 17.2 | WebKit",
+            "url": "https://www.webkit.org/blog/14787/webkit-features-in-safari-17-2/",
+            "content": "Safari 17.2リリース。\nHTMLでは、`<detail name>`のサポート、`<input autocomplete=\"one-time-code\">`のサポートなど。\nCSSでは、Nestingのルール緩和、`cap` unit、`rem()`/`mod()`/`round()`の追加、`mask-border`のサポート、Custom Highlight APIのサポートなど。\nJavaScriptでは、Import attributesのサポート。\nその他には、`<link rel=preload>`で`imagesizes`/`imagesrcset`属性でのresponsive imageをサポート。\nSVG画像を`<image crossorigin>`で読み込むときにCORSを考慮して扱えるように。\nFetch Priorityのサポート、HTML Formの`form.reportValidity()` APIをサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
