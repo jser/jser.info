@@ -337,6 +337,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-13T09:38:22.829Z",
+            "title": "Oxlint General Availability | The JavaScript Oxidation Compiler",
+            "url": "https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html",
+            "content": "Oxlintが公開された。\nESLintと同じようにJavaScriptやTypeScriptのLintをするツール。\nパフォーマンスを目的として設計されており、色々なESLintのルールをコアに取り込んでいる。",
+            "tags": [
+                "ESLint",
+                "JavaScript",
+                "Rust",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
