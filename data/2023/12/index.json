@@ -405,6 +405,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-14T14:16:48.455Z",
+            "title": "BuilderIO/hydration-overlay: Overlay for hydration errors with explicit diff between renders.",
+            "url": "https://github.com/BuilderIO/hydration-overlay",
+            "content": "ReactのHydrationでのmismatchのエラーをDiff表示するライブラリ。\nSSRとCSRでのレンダリング結果にズレがある場合にHydrationエラーのデバッグに利用できる。",
+            "tags": [
+                "React",
+                "debug",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Announcing React Hydration Overlay - Easily Squash Hydration Errors",
+                    "url": "https://www.builder.io/blog/announcing-react-hydration-overlay"
+                }
+            ]
         }
     ]
 }
