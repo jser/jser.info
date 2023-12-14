@@ -382,6 +382,17 @@
                     "url": "https://web.dev/blog/baseline2023?hl=en"
                 }
             ]
+        },
+        {
+            "date": "2023-12-14T13:30:31.944Z",
+            "title": "Deno 1.39: The Return of WebGPU",
+            "url": "https://deno.com/blog/v1.39",
+            "content": "Deno v1.39リリース。\nWebGPU APIを再導入、`deno coverage --html`でHTMLのカバレッジレポートを表示できるように、`deno compile`の改善。\n`deno taak`で`node_modules/.bin/`へのPATHを通すように。\n`Object.prototype.__proto__`を有効化する`--unstable-unsafe-proto`フラグを追加。\nJestのexpect互換の`std/expect`を追加、コマンドライン引数のパースをする`std/cli`を追加など",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
