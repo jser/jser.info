@@ -366,6 +366,22 @@
                     "url": "https://wasmer.io/posts/onyxlang-powered-by-wasmer"
                 }
             ]
+        },
+        {
+            "date": "2023-12-14T13:06:54.927Z",
+            "title": "Baseline's evolution on MDN | MDN Blog",
+            "url": "https://developer.mozilla.org/en-US/blog/baseline-evolution-on-mdn/",
+            "content": "主要なブラウザでサポートされてるかをわかりやすく表示するBaselineについて。\nMDNやcaniuseでのAPIのサポート状況の表示に利用されているBaselineの定義について",
+            "tags": [
+                "article",
+                "browser"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Baseline 2023  |  web.dev",
+                    "url": "https://web.dev/blog/baseline2023?hl=en"
+                }
+            ]
         }
     ]
 }
