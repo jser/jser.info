@@ -350,6 +350,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-14T11:44:22.798Z",
+            "title": "Onyx Programming Language",
+            "url": "https://onyxlang.io/",
+            "content": "WebAssemblyへとコンパイルできる言語",
+            "tags": [
+                "WebAssembly",
+                "program"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Onyx, a new programming language powered by WebAssembly",
+                    "url": "https://wasmer.io/posts/onyxlang-powered-by-wasmer"
+                }
+            ]
         }
     ]
 }
