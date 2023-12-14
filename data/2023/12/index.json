@@ -393,6 +393,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-14T13:37:19.477Z",
+            "title": "Storybook for React Server Components",
+            "url": "https://storybook.js.org/blog/storybook-react-server-components/",
+            "content": "StorybookのReact Server Components(RSC)のサポートについて。\nRSCをクライアントサイドでレンダリングして対応予定。Storybook 8のα版で利用できるようになっている。",
+            "tags": [
+                "React",
+                "debug",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
