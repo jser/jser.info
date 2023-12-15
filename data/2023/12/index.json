@@ -422,6 +422,26 @@
                     "url": "https://www.builder.io/blog/announcing-react-hydration-overlay"
                 }
             ]
+        },
+        {
+            "date": "2023-12-15T01:03:07.604Z",
+            "title": "Announcing SvelteKit 2",
+            "url": "https://svelte.dev/blog/sveltekit-2",
+            "content": "SvelteKit 2リリース。\n`load`関数でのPromisesの扱いに一貫性を持たせるように、`paths.relative`をデフォルトで`true`に変更、`dangerZone.trackServerFetches`を削除など",
+            "tags": [
+                "Svelte",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migrating to SvelteKit v2 • Docs • SvelteKit",
+                    "url": "https://kit.svelte.dev/docs/migrating-to-sveltekit-2"
+                },
+                {
+                    "title": "Release @sveltejs/kit@2.0.0 · sveltejs/kit",
+                    "url": "https://github.com/sveltejs/kit/releases/tag/%40sveltejs%2Fkit%402.0.0"
+                }
+            ]
         }
     ]
 }
