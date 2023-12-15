@@ -454,6 +454,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-15T04:16:23.441Z",
+            "title": "一休レストランで Next.js App Router から Remix に乗り換えた話 - 一休.com Developers Blog",
+            "url": "https://user-first.ikyu.co.jp/entry/2023/12/15/093427",
+            "content": "Next.jsのApp RouterからRemix Runに移行した話。\nNext.jsのApp RouterではCache-Controlが暗黙的で変更できない問題、RemixではRequest/Responseを自由に変更できるなどの違いについて。",
+            "tags": [
+                "Next.js",
+                "Remix",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
