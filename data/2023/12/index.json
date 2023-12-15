@@ -466,6 +466,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-15T04:29:49.048Z",
+            "title": "【月間9000万PVのPR TIMES】プレスリリース掲載ページの Next.js 移行でやったこと | PR TIMES 開発者ブログ",
+            "url": "https://developers.prtimes.jp/2023/12/13/replace-press-release-page-with-nextjs/",
+            "content": "Next.jsのPages Routerに移行し、キャッシュの処理はCDN(Fastly)に寄せるという話。",
+            "tags": [
+                "Next.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
