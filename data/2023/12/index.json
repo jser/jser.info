@@ -556,6 +556,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-20T13:57:19.720Z",
+            "title": "webui-dev/webui: Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.",
+            "url": "https://github.com/webui-dev/webui",
+            "content": "ブラウザやWebViewをGUIとして使い、バックエンドを任意の言語で書けるデスクトップアプリツール。\nバックエンドからブラウザのウィンドウ操作やブラウザとのやり取りをするSDKが色々な言語向けに用意されている",
+            "tags": [
+                "webview",
+                "browser",
+                "software"
+            ],
+            "relatedLinks": []
         }
     ]
 }
