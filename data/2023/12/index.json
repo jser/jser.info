@@ -489,6 +489,18 @@
                 "example"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-20T02:54:32.808Z",
+            "title": "Release v3.0.0 · date-fns/date-fns",
+            "url": "https://github.com/date-fns/date-fns/releases/tag/v3.0.0",
+            "content": "date-fns v3.0.0リリース。\nESMとCJSのdual pacakgeに変更、それぞれのファイルはnamed exportするように変更。TypeScriptの型を改善、引数の数のRuntime Checkを無くしてType Checkのみに変更、intevalの負数をサポート、IEのサポートを終了など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
