@@ -530,10 +530,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2023-12-20T13:21:31.863Z",
+            "date": "2023-12-20T13:24:21.462Z",
             "title": "From CSS madness to CSS Hooks — nsaunders.dev",
             "url": "https://nsaunders.dev/posts/css-madness-to-hooks",
-            "content": "CSS Hooksで利用されているCSS Variablesを使ったfallback trickについて。\nCSS Variablesでは`initial`が指定されている場合はfallbackが使われ、空の値の場合は空の値が使われる。\nこの特性を使うことで、CSSだけでプラグラムするようにスタイルのトグルが実現できる。",
+            "content": "CSS Hooksで利用されているCSS Variablesを使ったfallback trickについて。\nCSS Variablesでは`initial`が指定されている場合はfallbackが使われ、空の値の場合は空の値が使われる。\nこの特性を使うことで、CSSだけでプログラムするようにスタイルのトグルが実現できる。",
             "tags": [
                 "CSS",
                 "article"
