@@ -517,6 +517,17 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/121"
                 }
             ]
+        },
+        {
+            "date": "2023-12-20T12:53:08.852Z",
+            "title": "Node.js v21 の主な変更点 - 別にしんどくないブログ",
+            "url": "https://shisama.hatenablog.com/entry/2023/12/16/151553",
+            "content": "Node.js v21の変更点について。\nFetchとWebStreamsのStable化、WebSocketの追加、`navigator.language`/`navigator.languages`の追加、ESMデフォルト化に関するフラグの追加。\n`import.meta.dirname`/`import.meta.filename`の追加、Test Runnerのglob指定に対応、`--disable-warning`フラグの追加など",
+            "tags": [
+                "nodejs",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
