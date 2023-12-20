@@ -501,6 +501,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-20T03:51:44.634Z",
+            "title": "Firefox 121.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/121.0/releasenotes/",
+            "content": "Firefox 121リリース。\n`<iframe loading=lazy>`のサポート、CSSの`text-wrap: balance`、`:has()`、`text-indent: each-ilne`のサポート。\nES2024の`Promise.withResolvers()`のサポート、`Date.parse()`で解釈できるフォーマットを追加。\n実験的な機能としてCustom Elementの`state`プロパティのサポート、`showPicker()`のサポートなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 121 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/121"
+                }
+            ]
         }
     ]
 }
