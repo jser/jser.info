@@ -589,6 +589,25 @@
                     "url": "https://react-spectrum.adobe.com/react-aria/getting-started.html#starter-kit"
                 }
             ]
+        },
+        {
+            "date": "2023-12-21T04:02:55.818Z",
+            "title": "Introducing Catalyst: A modern UI kit for React - Tailwind CSS",
+            "url": "https://tailwindcss.com/blog/introducing-catalyst",
+            "content": "TailwindのUI KitであるCatalystのリリース。\nスタイル付きのコンポーネントをコピーして使う有料のReactコンポーネント集。",
+            "tags": [
+                "UI",
+                "CSS",
+                "library",
+                "ReleaseNote",
+                "React"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Catalyst - Tailwind CSS Application UI Kit",
+                    "url": "https://tailwindui.com/templates/catalyst"
+                }
+            ]
         }
     ]
 }
