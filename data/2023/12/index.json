@@ -608,6 +608,18 @@
                     "url": "https://tailwindui.com/templates/catalyst"
                 }
             ]
+        },
+        {
+            "date": "2023-12-22T13:18:28.581Z",
+            "title": "Bun v1.0.19 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.0.19",
+            "content": "Bun v1.0.19リリース。\n`bun-types`には色々問題があったため`@types/bun`に変更、`setTimeout`/`setInterval`のパフォーマンスを改善など",
+            "tags": [
+                "Bun",
+                "ReleaseNote",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
