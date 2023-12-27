@@ -655,6 +655,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-27T06:01:44.910Z",
+            "title": "Release v8.13.1 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v8.13.1",
+            "content": "pnpm v8.13.1リリース。\n`pnpm cat-index`/`pnpm cat-file`/`pnpm find-hash`コマンドの追加など\n",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
