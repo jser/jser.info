@@ -731,6 +731,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-29T11:27:57.357Z",
+            "title": "Web Performance Calendar » Digging through Chrome traces: an introduction with an example",
+            "url": "https://calendar.perfplanet.com/2023/digging-chrome-traces-introduction-example/",
+            "content": "ChromeのTraceについて。\nDevToolsは現在のタブのデータだけだが、Chromeのシステムのトレースを見られる`chrome://tracing`について。\nDevToolsのパフォーマンスパネルとトレースの使い分け、トレースファイルのフォーマット、トレースとChromeのコードベースの対応の調べ方について。",
+            "tags": [
+                "Chrome",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
