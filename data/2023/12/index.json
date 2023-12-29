@@ -719,6 +719,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-29T11:18:04.489Z",
+            "title": "Web Performance Calendar » Measuring, monitoring and optimizing TTFB with Server timing",
+            "url": "https://calendar.perfplanet.com/2023/ttfb-server-timing-measuring-monitoring-optimizing/",
+            "content": "`Server-Timing` HTTP Response Headerについて。\n`Server-Timing`のフォーマット、Node,jsでレスポンスを組み立てる例など",
+            "tags": [
+                "performance",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
