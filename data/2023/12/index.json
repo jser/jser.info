@@ -695,6 +695,19 @@
                 "translate"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-29T01:32:46.724Z",
+            "title": "Release 3.35.0 - 2023.12.29 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.35.0",
+            "content": "core-js v3.35.0リリース。\n`{ Map, Set, WeakMap, WeakSet }.{ from, of }`の`this`に関する挙動の変更など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "polyfill",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
