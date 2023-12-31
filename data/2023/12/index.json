@@ -743,6 +743,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2023-12-31T01:55:34.239Z",
+            "title": "SvelteKit はどのようにコンパイルしているのか？",
+            "url": "https://blog.osstech.co.jp/posts/2023/11/how-sveltekit-compiles/",
+            "content": "SvelteKitのコンパイルの仕組みであるvite-plugin-svelteとViteについて。\n`/__inspect/`でのコンパイルの確認方法、Viteについて。",
+            "tags": [
+                "Svelte",
+                "vite",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
