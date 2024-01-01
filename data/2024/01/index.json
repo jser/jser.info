@@ -10,6 +10,24 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-01T23:47:31.077Z",
+            "title": "TypeScript Clearly & Quickly",
+            "url": "https://quick-lint-js.com/blog/version-3.0/",
+            "content": "Quick-lint-js 3.0リリース。\nTypeScriptのLintに対応、JSXのLintの改善など",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 3.0.0 (2024-01-01) · quick-lint/quick-lint-js",
+                    "url": "https://github.com/quick-lint/quick-lint-js/releases/tag/3.0.0"
+                }
+            ]
         }
     ]
 }
