@@ -53,6 +53,17 @@
                 "nodejs"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-02T00:39:13.635Z",
+            "title": "2023年のDenoの変更点やできごとのまとめ",
+            "url": "https://zenn.dev/uki00a/articles/whats-new-for-deno-in-2023",
+            "content": "Denoの2023年の主要な変更点について。\nNode.jsとの互換性のの改善、`deno.json`のオプションの追加、Deno KV/Queues/Cronの追加、実験的なパッケージマネージャの実装、`deno jupyter`コマンドの追加など。\nまた、`deno_std`のv1リリースに向けてモジュールの削除や構造の変更などが行われていることについて\n",
+            "tags": [
+                "deno",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
