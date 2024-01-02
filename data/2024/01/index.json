@@ -64,6 +64,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-02T11:53:17.540Z",
+            "title": "Bun v1.0.21 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.0.21",
+            "content": "Bun v1.0.21リリース。\n`console.table()`のサポート、`bun:sqlite`のエラー表示やメモリ消費量の改善。\nLinuxで`blob.arrayBuffer()`のCOWをサポートしメモリ消費を改善、`bun build --public-path=<path>`のサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
