@@ -75,6 +75,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-03T23:36:07.438Z",
+            "title": "Google shares update on next step toward phasing out third-party cookies in Chrome",
+            "url": "https://blog.google/products/chrome/privacy-sandbox-tracking-protection/",
+            "content": "2024年1月4日からChromeの1%のユーザーを対象にサードパーティCookieを無効にするテストを開始する",
+            "tags": [
+                "Chrome",
+                "privacy",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Preparing for the end of third-party cookies  |  Privacy Sandbox  |  Google for Developers",
+                    "url": "https://developers.google.com/privacy-sandbox/blog/cookie-countdown-2023oct"
+                }
+            ]
         }
     ]
 }
