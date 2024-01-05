@@ -553,7 +553,7 @@
             "content": "Bun 0.5.0リリース。\n`workspaces`のインストールをサポート。\nNode.jsとの互換性として`node:dns`、`node:tls`、`node:net`、`node:readline`のサポート。\nモジュール解決時の識別子の優先度を変更など",
             "tags": [
                 "Bun",
-                "rlee"
+                "ReleaseNote"
             ],
             "relatedLinks": []
         },
