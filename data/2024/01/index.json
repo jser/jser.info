@@ -104,6 +104,17 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-05T06:52:33.933Z",
+            "title": "Astro 4.1 | Astro",
+            "url": "https://astro.build/blog/astro-410/",
+            "content": "Astro 4.1リリース。\ndev toolbarにアクセシビリティのauditを追加、`client:visible`に`rootMargin`オプションを追加、CookieのEncoding/Decodingオプションの追加など",
+            "tags": [
+                "astro",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
