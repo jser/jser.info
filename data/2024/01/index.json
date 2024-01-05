@@ -115,6 +115,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-05T11:31:04.177Z",
+            "title": "More Than You Need to Know About ReactDOM.flushSync | JulesBlom.com",
+            "url": "https://julesblom.com/writing/flushsync",
+            "content": "Reactの`ReactDOM.flushSync`について。\nReactはデフォルトで状態の更新をまとめてレンダリングするが、`flushSync`では状態の更新をすぐにレンダリングできることについて",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
