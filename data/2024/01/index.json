@@ -126,6 +126,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-06T00:10:12.357Z",
+            "title": "Release v3.12.0 · honojs/hono",
+            "url": "https://github.com/honojs/hono/releases/tag/v3.12.0",
+            "content": "Hono v3.12.0リリース。\nOriginヘッダをチェックする`hono/csrf`の追加、実験的なAPIとして`hono/css`でのCSS in JSを追加など",
+            "tags": [
+                "JavaScript",
+                "server",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
