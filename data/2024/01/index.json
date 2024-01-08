@@ -139,6 +139,28 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-08T03:50:59.850Z",
+            "title": "Release Version 23.2.0 · jsdom/jsdom",
+            "url": "https://github.com/jsdom/jsdom/releases/tag/23.2.0",
+            "content": "jsdom 23.2.0リリース。\nCSS selectorのエンジンを`nwsapi`から`dom-selector`へと変更。\n",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://press.stripe.com/working-in-public",
+            "relatedLinks": [
+                {
+                    "title": "asamuzaK/domSelector: A CSS selector engine.",
+                    "url": "https://github.com/asamuzaK/domSelector"
+                },
+                {
+                    "title": "dperini/nwsapi: Fast CSS Selectors API Engine",
+                    "url": "https://github.com/dperini/nwsapi"
+                }
+            ]
         }
     ]
 }
