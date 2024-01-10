@@ -173,6 +173,24 @@
             ],
             "viaURL": "https://press.stripe.com/working-in-public",
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-10T08:44:54.832Z",
+            "title": "Biome v1.5 | Biome",
+            "url": "https://biomejs.dev/blog/biome-v1-5/",
+            "content": "Biome v1.5リリース。\nGitなどのVCSでの変更されたファイルだけを扱う`--changed`フラグの追加、`biome ci`でGitHubのProblem Matcherに合わせた出力をするように。\n`biome explain`の追加、Lintルールの追加など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://press.stripe.com/working-in-public",
+            "relatedLinks": [
+                {
+                    "title": "Biome の 2024年のロードマップの公開と v1.5.0 のリリース",
+                    "url": "https://zenn.dev/cybozu_frontend/articles/biome-roadmap-2024"
+                }
+            ]
         }
     ]
 }
