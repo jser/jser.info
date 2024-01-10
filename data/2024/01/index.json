@@ -161,6 +161,18 @@
                     "url": "https://github.com/dperini/nwsapi"
                 }
             ]
+        },
+        {
+            "date": "2024-01-10T02:07:20.266Z",
+            "title": "Bun v1.0.22 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.0.22",
+            "content": "Bun v1.0.22リリース。\n`PerformanceObserver`/`performance.mark`/`performance.measure` APIの実装、Fetch APIのBrotliサポート。\n`console.table`のEastAsianWidthの対応改善など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "viaURL": "https://press.stripe.com/working-in-public",
+            "relatedLinks": []
         }
     ]
 }
