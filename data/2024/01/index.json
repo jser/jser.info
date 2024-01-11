@@ -214,6 +214,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-11T02:49:05.771Z",
+            "title": "【DDD入門】TypeScript × ドメイン駆動設計ハンズオン",
+            "url": "https://zenn.dev/yamachan0625/books/ddd-hands-on",
+            "content": "DDDのドメインモデリングや実装方法についてを見ていくチュートリアル。\nイベントストリーミングでのドメインモデリング、PlantUMLを使ったモデル図の管理、TypeScriptを使った実装について紹介している",
+            "tags": [
+                "DDD",
+                "TypeScript",
+                "book"
+            ],
+            "relatedLinks": []
         }
     ]
 }
