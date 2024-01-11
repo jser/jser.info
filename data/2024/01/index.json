@@ -191,6 +191,17 @@
                     "url": "https://zenn.dev/cybozu_frontend/articles/biome-roadmap-2024"
                 }
             ]
+        },
+        {
+            "date": "2024-01-11T02:31:45.619Z",
+            "title": "Node v20.11.0 (LTS) | Node.js",
+            "url": "https://nodejs.org/en/blog/release/v20.11.0",
+            "content": "Node.js v20.11.0リリース。\n`import.meta.dirname`/`import.meta.filename`を追加、`--disable-warning`フラグを追加、Streamのパフォーマンス改善など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
