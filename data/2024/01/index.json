@@ -202,6 +202,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-11T02:38:52.867Z",
+            "title": "Release v13.0.0 · capricorn86/happy-dom",
+            "url": "https://github.com/capricorn86/happy-dom/releases/tag/v13.0.0",
+            "content": "Happy DOM v13.0.0リリース。\nInternalなAPIをSymbolを使うことで直接はアクセスできないように変更、CORSのpreflightの対応改善、`window.open()`/`window.close()`のアポートなど",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
