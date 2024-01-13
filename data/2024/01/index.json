@@ -264,6 +264,19 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-13T01:16:04.679Z",
+            "title": "Prettier 3.2: Support JSONC and Angular’s ICU expression · Prettier",
+            "url": "https://prettier.io/blog/2024/01/12/3.2.0.html",
+            "content": "Prettier 3.2リリース。\n`jsonc`パーサのサポート、AngularのICU expressionのサポート。",
+            "additionalNote": "基本的にはバグの修正という感じ",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
