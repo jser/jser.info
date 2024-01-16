@@ -301,6 +301,17 @@
                 "editor"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-16T07:24:31.273Z",
+            "title": "Node.js — Node v21.6.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v21.6.0",
+            "content": "Node.js v21.6.0リリース。\n`net.createConnection`にconnectionに関するイベントの追加、Permission Modelに`--allow-addons`を追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
