@@ -359,6 +359,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-19T12:55:19.919Z",
+            "title": "Designing better target sizes",
+            "url": "https://ishadeed.com/article/target-size",
+            "content": "ユーザーがアクションをトリガーするためにクリックやタップする領域であるターゲットサイズについての記事。\nタッチサイズ、Spacing、フィードバック。\n実際のウェブサイトの例として、階層メニューのSafe Areaの三角形をclip-pathで定義する方法、ナビゲーションのUI、プレイヤーのUI、チェックボックスのUIなどについて。",
+            "tags": [
+                "CSS",
+                "Design",
+                "mobile"
+            ],
+            "relatedLinks": []
         }
     ]
 }
