@@ -394,6 +394,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-20T12:00:32.132Z",
+            "title": "Bun v1.0.24 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.0.24",
+            "content": "Bun v1.0.24リリース。\n\nBun Shellというzxのようにシェルスクリプトを扱うための`$`関数の追加、`perf_hooks`の互換性改善など",
+            "additionalNote": "Bun ShellといういわゆるZXみたいなシェルスクリプトを扱う仕組みが入って。あとはperf_hooksの改善が入って、他には基本的にはバグ修正って感じかな",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
