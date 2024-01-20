@@ -384,11 +384,11 @@
             "relatedLinks": []
         },
         {
-            "date": "2024-01-20T02:01:28.416Z",
+            "date": "2024-01-20T02:02:47.740Z",
             "title": "Astro 4.2 | Astro",
             "url": "https://astro.build/blog/astro-420/",
             "content": "Astro 4.2リリース。\n実験的なオプションとしてSpeculation Rules APIを使ったPrerenderingをサポート。`injectRoute`やファイルベースのルーティングが衝突した時の新しい優先度ルールをopt-intでサポート。\n`redirectToDefaultLocale`オプションを追加し、デフォルト言語へのリダイレクトを無効化できるように、アクセシビリティルールの追加など。",
-            "additionalNote": "Astro 4.2の内容としては、Specification Rules APIを使ったプリレンダリングを実験的にサポートしているの。\nインジェクションルートとかのAPIとファイルベースのルーティング、コンフリクトしたときにどういう優先順位にするかという問題。この時に新しい優先のルールを利用できるGlobal Route Priorityというオプションを追加している。\nこれで衝突した時ログとかも出すようになったので、分かりやすくなるためのオプション、たぶん将来的にデフォルトになるだろうという感じです。\nRedirect Default Localeオプションは、URLをロケールを指定しなかった場合のデフォルトの言語、Redirectするってやつで、今までは必ず自動でRedirectされてたけど、`false`にすることでRedirectしなくてよくなるっていうのが追加された。\nDevToolsbarにアクセシビティルールも追加されている。\nあとはMarkdownのカスタマイズ可能な画像の最適化というのは、これはRemarkのプラグインでMarkdownのミドルウェアを書くようになりましたぐらいな感じなので、なんか特段言うことないかなって感じ。",
+            "additionalNote": "Astro 4.2の内容としては、Specification Rules APIを使ったプリレンダリングを実験的にサポートしている。\nインジェクションルートとかのAPIとファイルベースのルーティング、コンフリクトしたときにどういう優先順位にするかという問題。この時に新しい優先のルールを利用できるGlobal Route Priorityというオプションを追加している。\nこれで衝突した時ログとかも出すようになったので、分かりやすくなるためのオプション、たぶん将来的にデフォルトになるだろうという感じです。\nRedirect Default Localeオプションは、URLをロケールを指定しなかった場合のデフォルトの言語、Redirectするってやつで、今までは必ず自動でRedirectされてたけど、`false`にすることでRedirectしなくてよくなるっていうのが追加された。\nDevToolsbarにアクセシビティルールも追加されている。\nあとはMarkdownのカスタマイズ可能な画像の最適化というのは、これはRemarkのプラグインでMarkdownのミドルウェアを書くようになりましたぐらいな感じなので、なんか特段言うことないかなって感じ。",
             "tags": [
                 "astro",
                 "ReleaseNote"
