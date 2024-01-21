@@ -406,6 +406,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-21T01:27:04.592Z",
+            "title": "Parsing Javascript - Speaker Deck",
+            "url": "https://speakerdeck.com/brn/parsing-javascript",
+            "content": "JavaScript言語のパースについてスライド。\nパースの手法、JSはLL(1)の文法ではあるがBNFレベルでの厳密なパースが難しいため、手書きされることが多いことについて。\n正規表現リテラル/テンプレートリテラル/分割代入などのパースが難しい構文、PreParsingという最適化手法についてなど",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
