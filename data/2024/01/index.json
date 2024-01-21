@@ -429,6 +429,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-21T01:48:20.616Z",
+            "title": "Introducing fsx: A modern filesystem API for JavaScript - Human Who Codes",
+            "url": "https://humanwhocodes.com/blog/2024/01/fsx-modern-filesystem-api-javascript/",
+            "content": "Node.jsやDenoのFile System APIを抽象化したライブラリ。\nファイル操作のログの取得やテスト用にメモリ上で動くAdapterの実装も含まれている。",
+            "tags": [
+                "nodejs",
+                "JavaScript",
+                "deno",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "humanwhocodes/fsx: A modern filesystem API for JavaScript",
+                    "url": "https://github.com/humanwhocodes/fsx"
+                }
+            ]
         }
     ]
 }
