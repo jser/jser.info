@@ -447,6 +447,18 @@
                     "url": "https://github.com/humanwhocodes/fsx"
                 }
             ]
+        },
+        {
+            "date": "2024-01-21T09:52:23.142Z",
+            "title": "Release v2.0.0 · volarjs/volar.js",
+            "url": "https://github.com/volarjs/volar.js/releases/tag/v2.0.0",
+            "content": "volar v2.0.0リリース。\nコアをTypeScriptに依存しない形へと変更、`@volar/cdn`を非推奨化など",
+            "tags": [
+                "TypeScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
