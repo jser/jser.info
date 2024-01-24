@@ -459,6 +459,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-24T11:06:44.550Z",
+            "title": "Firefox 122.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/122.0/releasenotes/",
+            "content": "Firefox 122リリース。\n`<select>`の小要素として`<hr>`を許可するように、CSSの`offset-position`と`offset-path`プロパティをデフォルトで有効化。\n`ArrayBuffer.prototype.transfer()`の実装、SVGの`<use>`にData URLを利用できないように変更。\n実験的な機能としてDeclarative shadow DOM、Popover API、Clipboard API、`Intl.Segmenter`の実装など",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 122 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/122"
+                }
+            ]
         }
     ]
 }
