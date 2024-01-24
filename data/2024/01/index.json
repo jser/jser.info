@@ -487,6 +487,19 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-24T12:16:03.425Z",
+            "title": "chrisguttandin/worker-timers: A replacement for setInterval() and setTimeout() which works in unfocused windows.",
+            "url": "https://github.com/chrisguttandin/worker-timers",
+            "content": "ブラウザはタブがアクティブではない場合、intervalとtimeoutの最小値を強制的に変更する。\nWeb Workerではこの制限がないことを利用して、制限のない`setTimeout`と`setInterval`を提供するライブラリ",
+            "tags": [
+                "browser",
+                "webworker",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
