@@ -511,6 +511,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-25T13:55:00.374Z",
+            "title": "Deno 1.40: Temporal API",
+            "url": "https://deno.com/blog/v1.40",
+            "content": "Deno v1.40リリース。\nTemporal APIのサポート、`import.meta.filename`/`import.meta.dirname`のサポート、`deno.json`の`imports`の指定方法を改善。\n`window`、`Deno.run()`、`Deno.serveHttp()`、`Deno.metrics()`などの古いAPIを非推奨化など",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
