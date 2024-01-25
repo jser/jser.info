@@ -500,6 +500,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-25T00:24:54.299Z",
+            "title": "Release v5.90.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v5.90.0",
+            "content": "webpack v5.90.0リリース。\n`node.{__filename,__dirname}`に`node-module`オプションの追加、バグ修正など",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
