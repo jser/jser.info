@@ -522,6 +522,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-26T11:42:42.068Z",
+            "title": "Safari 17.4 Beta Release Notes | Apple Developer Documentation",
+            "url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_4-release-notes",
+            "content": "Safari 17.4 Betaリリース。\nCSSでは、`@scope`のサポート、Block Containersでの`align-content`をサポート。\nHTMLでは、`<select>`の中での`<hr>`のサポート。`<input type=checkbox switch>`のサポート。\nJSでは、`Promise.withResolvers`、`ArrayBuffer.prototype.transfer`、`Object.groupBy`のサポート。\niOSでVP8/VP9/WebMをサポート、Full Screen APIをサポート。\n",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
