@@ -533,6 +533,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-27T03:12:49.162Z",
+            "title": "Next.js App Router Caching: Explained! - YouTube",
+            "url": "https://www.youtube.com/watch?v=VBlSe8tvg4U",
+            "content": "Next.js App Routerでのキャッシュがどのように動くかについての動画。\nPages RouterとApp Routerのデフォルトのキャッシュの挙動の違い、`noCache()`/`cache()`でのキャッシュするかの制御、`revalidateTag()`での再検証。\n`useOptimistic()`やJavaScriptがない時の動作についてなど",
+            "tags": [
+                "Next.js",
+                "video",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
