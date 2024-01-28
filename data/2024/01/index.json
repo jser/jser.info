@@ -596,6 +596,18 @@
                 "server"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-28T06:06:56.661Z",
+            "title": "Introduction",
+            "url": "https://bentocache.dev/docs/introduction",
+            "content": "AdonisJSから切り出されたキャッシュライブラリ。\nDriverでRedisなどのバックエンドプロバイダーの指定、Multi Tierによるキャッシュサイズに応じた多層化、Cache stampedeの対策などを実装している",
+            "tags": [
+                "nodejs",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
