@@ -583,6 +583,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-28T06:01:24.027Z",
+            "title": "Announcing AdonisJS v6",
+            "url": "https://adonisjs.com/blog/adonisjs-v6-announcement",
+            "content": "AdonisJS v6リリース。\nESMへの移行、Vite integrationのサポート。\nVineJSというバリデーションライブラリの作成、テストフレームワークやテンプレートエンジンなどのコアをパッケージとして切り出して利用できるようになるなど",
+            "tags": [
+                "JavaScript",
+                "nodejs",
+                "ReleaseNote",
+                "server"
+            ],
+            "relatedLinks": []
         }
     ]
 }
