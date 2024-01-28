@@ -571,6 +571,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-28T05:45:03.423Z",
+            "title": "QuickJS Javascript Engine",
+            "url": "https://bellard.org/quickjs/",
+            "content": "QuickJSのES2023サポート。\n\n- ES2022のTop-Level await\n- ES2023のChange Array by copy、`Array.prototype.{findLast, findLastIndex}`\n- ES2024の`Object.groupBy`、`Promise.withResolvers`",
+            "additionalNote": "Quickjsのアップデートが来てた。変更ロールを見ると、かなりいろいろ含まれてて、ES2022 ES2023、で、ObjectGroupByteとかはES2024のやつが入ってて、あとはClassのstaticBlockとかは結構前だった気がする。\n細かいバグとか`OS.now()`みたいなメソッドが増えたり、正気表現周りのバグがいろいろなってるって感じ。\nイントロダクションによれば、ES2023のTest262が全部通ったと言ってるんで、ES2023のサポートとするのが妥当かなという感じ。",
+            "tags": [
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
