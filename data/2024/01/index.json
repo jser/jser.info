@@ -560,6 +560,17 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-28T02:33:11.233Z",
+            "title": "Release v0.20.0 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.20.0",
+            "content": "esbuild v0.20.0リリース。\nDeno 1.40に対応、`node_modules`のパッケージないから探索するファイルの拡張子の優先順位を変更など",
+            "tags": [
+                "esbuild",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
