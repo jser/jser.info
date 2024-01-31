@@ -608,6 +608,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-01-31T01:40:14.898Z",
+            "title": "Release v3.10.0 · nuxt/nuxt",
+            "url": "https://github.com/nuxt/nuxt/releases/tag/v3.10.0",
+            "content": "Nuxt.js v3.10.0リリース。\n実験的なオプションとして`sharedPrerenderData`を追加、`useId()`がSSR時にuniqueなIDを返すことを保証するように、アンチパターンの検出の強化など",
+            "tags": [
+                "Vue",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
