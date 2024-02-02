@@ -12,6 +12,19 @@
                 "React"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-02T13:16:33.832Z",
+            "title": "SameSite属性とCSRFとHSTS - Cookieの基礎知識からブラウザごとのエッジケースまでおさらいする - Flatt Security Blog",
+            "url": "https://blog.flatt.tech/entry/samesite_csrf_hsts",
+            "content": "Cookieの属性について。\nSecure/HttpOnly/Domain/Path/SameSite属性、`__Secure-`/`__Host-` prefix、SameSite属性の挙動やブラウザのデフォルトの動作について。",
+            "tags": [
+                "HTTP",
+                "browser",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
