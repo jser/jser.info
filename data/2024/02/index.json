@@ -48,6 +48,22 @@
                 "browser"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-02T13:56:58.783Z",
+            "title": "Announcing TypeScript 5.4 Beta - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-4-beta/",
+            "content": "TypeScript 5.4 Betaリリース。\nクロージャーにおけるNarrowing結果の改善、`NoInfer` Utility Typeの追加。\nES2024の`Object.groupBy`/`Map.groupBy`をサポート、Import Attributesのサポート。\n`target: \"ES3\"`や`out`オプションなどを非推奨化など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Feedback: 5.0 deprecations · Issue #51909 · microsoft/TypeScript",
+                    "url": "https://github.com/microsoft/TypeScript/issues/51909"
+                }
+            ]
         }
     ]
 }
