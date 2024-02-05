@@ -106,6 +106,17 @@
                     "url": "https://techblog.yahoo.co.jp/entry/2021120930233778/"
                 }
             ]
+        },
+        {
+            "date": "2024-02-05T01:44:11.035Z",
+            "title": "Import attributes · V8",
+            "url": "https://v8.dev/features/import-attributes",
+            "content": "ECMAScript Proposal Stage 3のImport attributesについて。\n`import ... from .... assert { type } `はセマンティクス的に問題があったため、`import ... from .... with { type }`へと変更された。",
+            "tags": [
+                "ECMAScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
