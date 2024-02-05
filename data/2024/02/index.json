@@ -88,6 +88,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-05T01:20:38.023Z",
+            "title": "Tappy - Yahoo!デベロッパーネットワーク",
+            "url": "https://tappy.yahoo.co.jp/",
+            "content": "ウェブサイトのボタンなどのタップ成功率を計算して表示してくれるツール。\nタップミスが起きやすいボタンなのかの調査に利用できる。",
+            "tags": [
+                "webservice",
+                "Tools",
+                "mobile",
+                "accessibility"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "スマホのタップ操作の成功率を算出するモデル ～ UIデザインにおけるユーザビリティの推定 - Yahoo! JAPAN Tech Blog",
+                    "url": "https://techblog.yahoo.co.jp/entry/2021120930233778/"
+                }
+            ]
         }
     ]
 }
