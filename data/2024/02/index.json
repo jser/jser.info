@@ -134,14 +134,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2024-02-05T06:57:29.409Z",
+            "date": "2024-02-05T06:57:37.494Z",
             "title": "Compression Streams are now supported on all browsers  |  Blog  |  web.dev",
             "url": "https://web.dev/blog/compressionstreams?hl=en",
             "content": "gzipの圧縮/解凍するCompressionStreamが全てのブラウザで利用できるようになった。",
             "tags": [
                 "JavaScript",
                 "browser",
-                "WebPlatformAPI"
+                "WebPlatformAPI",
+                "article"
             ],
             "relatedLinks": []
         }
