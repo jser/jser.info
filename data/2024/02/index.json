@@ -145,6 +145,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-06T13:28:00.732Z",
+            "title": "Hot Module Replacement is Easy - Bjorn Lu",
+            "url": "https://bjornlu.com/blog/hot-module-replacement-is-easy",
+            "content": "ViteのHot Module Replacement(HMR)の実装について。\nHMR APIの解説、HMRのライフサイクル、HMR propagation、HMRのクライアント実装についてなど",
+            "tags": [
+                "vite",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
