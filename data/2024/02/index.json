@@ -156,6 +156,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-06T23:27:47.070Z",
+            "title": "jQuery 4.0.0 BETA! | Official jQuery Blog",
+            "url": "https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/",
+            "content": "jQuery 4.0.0 Betaリリース。\nIE 10以下のサポートを終了、非推奨のAPIを削除、jQuery prototypeオブジェクトからArrayメソッドを削除、focusとblurのイベント順を上書きしないように変更。\n`FormData`のサポート、自動的にJSONPへfallbackする挙動を削除、コードベースをAMDからESMへの移行、Trusted Typesのサポートなど。\nIE 11のサポートは、jQuery 5で削除される予定。",
+            "tags": [
+                "jQuery",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
