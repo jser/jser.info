@@ -194,6 +194,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-08T14:12:33.171Z",
+            "title": "Vite 5.1 is out! | Vite",
+            "url": "https://vitejs.dev/blog/announcing-vite5-1.html",
+            "content": "Vite 5.1リリース。\n実験的なAPIとしてVite Runtime APIの追加、`.css?url`のサポート改善、循環インポートでのHMRの改善、パフォーマンスの改善など",
+            "tags": [
+                "vite",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
