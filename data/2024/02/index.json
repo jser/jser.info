@@ -167,6 +167,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-08T02:27:21.928Z",
+            "title": "Announcing Rsbuild v0.4 - Rsbuild",
+            "url": "https://deploy-preview-1520--rsbuild.netlify.app/community/releases/v0-4",
+            "content": "Rsbuild v0.4リリース。\nModule Federationをファーストクラスサポート、プラグインのHookの順番を制御する`order`オプションを追加、IEの問題に関するpostcss-flexbugs-fixesを削除など",
+            "tags": [
+                "JavaScript",
+                "Rust",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
