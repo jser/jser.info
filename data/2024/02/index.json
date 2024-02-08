@@ -180,6 +180,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-08T14:00:46.894Z",
+            "title": "Storybook 8 Beta",
+            "url": "https://storybook.js.org/blog/storybook-8-beta/",
+            "content": "Storybook 8 Betaリリース。\nデフォルトのコンパイラをBabelからSWCに変更、モバイルUIの改善、テストパッケージを`@storybook/test`に統合、Node.js 16のサポートを終了、Yarn v1のサポートを終了など",
+            "tags": [
+                "JavaScript",
+                "Design",
+                "debug",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
