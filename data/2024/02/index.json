@@ -229,6 +229,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-09T12:05:11.690Z",
+            "title": "Release v4.0.0 · honojs/hono",
+            "url": "https://github.com/honojs/hono/releases/tag/v4.0.0",
+            "content": "Hono v4.0.0リリース。\nStatic Site Generation(SSG)のサポート、クライアントサイドで動く`hono/jsx/dom`の追加など。\n併せてファイルベースのルーティングなどを持つフレームワークであるhonoxを公開している。",
+            "tags": [
+                "JavaScript",
+                "server",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "honojs/honox: HonoX",
+                    "url": "https://github.com/honojs/honox"
+                }
+            ]
         }
     ]
 }
