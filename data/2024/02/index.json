@@ -205,6 +205,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-09T00:20:08.102Z",
+            "title": "awslabs/llrt: LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.",
+            "url": "https://github.com/awslabs/llrt",
+            "content": "AWS Lambdaで利用できるQuickJSベースのJavaScript Runtime。\nサイズと起動速度を目的にしていて、Node.jsのコアモジュールを部分的に実装している。",
+            "tags": [
+                "JavaScript",
+                "aws",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
