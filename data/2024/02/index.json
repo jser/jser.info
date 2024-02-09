@@ -217,6 +217,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-09T11:59:59.507Z",
+            "title": "CheerpJ 3.0 now generally available: Run any Java Application on Modern Browsers CheerpJ 3.0 now available: run any Java on modern browsers",
+            "url": "https://cheerpj.com/cheerpj-3-now-generally-available/",
+            "content": "ブラウザ上でJavaアプリケーションを動かすCheerpJ 3.0リリース。\n今まではAOT Java Compilerだったが、3.0ではWebAssemblyベースのJVM代替実装となってる。",
+            "tags": [
+                "Java",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
