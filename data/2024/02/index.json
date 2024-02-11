@@ -247,6 +247,18 @@
                     "url": "https://github.com/honojs/honox"
                 }
             ]
+        },
+        {
+            "date": "2024-02-11T00:11:17.855Z",
+            "title": "From many to one: Moving our JavaScript code into a monorepo | Aha! software",
+            "url": "https://www.aha.io/engineering/articles/monorepo",
+            "content": "Gitの履歴を保ちながら、JavaScriptのmonorepo作る話。\nNx + pnpm、pnpm workspaces、Turborepo + pnpmの比較、Turborepoを選択した理由などについて",
+            "tags": [
+                "monorepo",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
