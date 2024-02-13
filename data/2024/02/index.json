@@ -298,6 +298,20 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-13T01:07:45.026Z",
+            "title": "Release Release v0.28.0 · axios/axios",
+            "url": "https://github.com/axios/axios/releases/tag/v0.28.0",
+            "content": "Axios v0.28.0リリース。\nAxios v1.6.0で修正されたCSRFトークンの問題をバックポート。その他にもv1.x系での修正をバックポートしている。",
+            "tags": [
+                "JavaScript",
+                "HTTP",
+                "library",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
