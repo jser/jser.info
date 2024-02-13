@@ -312,6 +312,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-13T02:03:34.026Z",
+            "title": "Announcing typescript-eslint v7 | typescript-eslint",
+            "url": "https://typescript-eslint.io/blog/announcing-typescript-eslint-v7/",
+            "content": "typescript-eslint v7リリース。\nNode.js 16のサポート終了、ESLint Flat Configをサポートする`typescript-eslint`パッケージを追加。",
+            "tags": [
+                "TypeScript",
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
