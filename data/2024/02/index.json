@@ -348,6 +348,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-15T02:16:43.159Z",
+            "title": "ECMAScript proposal updates @ 2024-02 | ECMAScript Daily",
+            "url": "https://ecmascript-daily.github.io/ecmascript/2024/02/15/ecmascript-proposal-update",
+            "content": "2024年2月のTC39ミーティングでのProposalの変更まとめ。\nStage 2.7というステージが新しく追加された。\n`ArrayBuffer.prototype.transfer`はStage 4となりES2024に含まれることが決まった",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
