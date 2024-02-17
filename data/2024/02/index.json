@@ -412,6 +412,23 @@
                     "url": "https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d"
                 }
             ]
+        },
+        {
+            "date": "2024-02-17T08:27:37.901Z",
+            "title": "Release ES2024 Candidate February 2024 · tc39/ecma262",
+            "url": "https://github.com/tc39/ecma262/releases/tag/es2024-candidate-2024-02",
+            "content": "ECMAScript 2024候補のリリース。\n`ArrayBuffer.prototype.resize`/`ArrayBuffer.prototype.transfer`、RegExpの`v`フラグの追加。\n`Promise.withResolvers`、`Object.groupBy`/`Map.groupBy`の追加。\n`Atomics.waitAsync`、`String.prototype.isWellFormed`/`String.prototype.toWellFormed`の追加など",
+            "tags": [
+                "ECMAScript",
+                "spec",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Editorial: Describe changes in ES2024 by bakkot · Pull Request #3282 · tc39/ecma262",
+                    "url": "https://github.com/tc39/ecma262/pull/3282"
+                }
+            ]
         }
     ]
 }
