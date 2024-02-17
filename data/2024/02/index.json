@@ -429,6 +429,17 @@
                     "url": "https://github.com/tc39/ecma262/pull/3282"
                 }
             ]
+        },
+        {
+            "date": "2024-02-17T08:52:42.537Z",
+            "title": "Bun v1.0.27 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.0.27",
+            "content": "Bun v1.0.27リリース。\n`Response`がAsync generatorとNode.jsの`Readable`をサポート、Bun Shellの改善など。\nまた、Bun Shellのエラー時のexit codeはv1.1では`1`となる変更が入る予定。\n",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
