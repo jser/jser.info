@@ -440,6 +440,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-19T08:17:21.725Z",
+            "title": "pashak09/ts-expect-error-validator: Command-line tool to validate expected TypeScript errors",
+            "url": "https://github.com/pashak09/ts-expect-error-validator",
+            "content": "`@ts-expect-error`には指定したエラーコードだけを無視する機能はないため、`@ts-expect-error [Code]`のコメントで指定したエラーが起きるかをチェックできるツール。",
+            "tags": [
+                "TypeScript",
+                "test",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
