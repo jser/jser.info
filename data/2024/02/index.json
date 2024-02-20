@@ -499,6 +499,18 @@
                     "url": "https://github.com/mieszkosabo/correttore"
                 }
             ]
+        },
+        {
+            "date": "2024-02-20T08:45:22.923Z",
+            "title": "Release v0.25.0 · nodejs/corepack",
+            "url": "https://github.com/nodejs/corepack/releases/tag/v0.25.0",
+            "content": "corepack v0.25.0リリース。\n内部的にNode.jsのBuilt-in `fetch`を使うように、`corepack cache {clean,clear}`を追加。\n`COREPACK_ENABLE_UNSAFE_CUSTOM_URLS=1`のフラグが有効な場合に、`packageManager`にカスタムURLを指定できるように。\n`COREPACK_ENABLE_DOWNLOAD_PROMPT=1`でキャッシュにないpackage managerをダウンロードする際にプロンプトを表示できるように。",
+            "tags": [
+                "nodejs",
+                "tool",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
