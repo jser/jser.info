@@ -465,6 +465,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-20T05:11:30.707Z",
+            "title": "Redwood v7.0.0 Upgrade Guide - Announcements / Releases and Upgrade Guides - RedwoodJS Community",
+            "url": "https://community.redwoodjs.com/t/redwood-v7-0-0-upgrade-guide/5713",
+            "content": "Redwood v7リリース。\nNode.js 18のサポート終了、`prop-types`ぱケージの依存を削除、dbAuthのセキュリティ改善に伴う破壊的な変更など",
+            "tags": [
+                "nodejs",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v7.0.0 · redwoodjs/redwood",
+                    "url": "https://github.com/redwoodjs/redwood/releases/tag/v7.0.0"
+                }
+            ]
         }
     ]
 }
