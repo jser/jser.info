@@ -452,6 +452,19 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-20T01:14:44.752Z",
+            "title": "htmz - a low power tool for html",
+            "url": "http://leanrada.com/htmz/",
+            "content": "htmxのようにHTMLで宣言的にAjax的な表示を行う小さなスニペット。\n`<form action=\"/default#my-target\" target=htmz>`と指定しリクエスト結果を用意した`<iframe name=htmz>`に表示する。\niframeの描画結果を`#my-target`の要素と置換する仕組みなっている。",
+            "additionalNote": "仕組みとしてはターゲットを指定することでいわゆる`window.open target=_blank`みたいな感じと同じようにそのリクエストした結果をターゲットのフレームに表示することができる。\nこのiframeのオンロードで現在のURLハッシュの要素と置換するみたいな2-3行のスニペットがある感じ。\n仕組み的にはiframeとスニペットの3-4行くらいでHTMXのような感じのAJAXの動的なUIの作りができるようになっている。",
+            "tags": [
+                "HTML",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
