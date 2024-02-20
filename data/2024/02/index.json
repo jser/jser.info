@@ -482,6 +482,23 @@
                     "url": "https://github.com/redwoodjs/redwood/releases/tag/v7.0.0"
                 }
             ]
+        },
+        {
+            "date": "2024-02-20T05:44:13.365Z",
+            "title": "A novel technique for creating ergonomic and tree-shakable TypeScript libraries",
+            "url": "https://softwaremill.com/a-novel-technique-for-creating-ergonomic-and-tree-shakable-typescript-libraries/",
+            "content": "必要なメソッドを集める初期化とProxyオブジェクトを使うことで、zodのようにメソッドチェーンが可能でかつTree Shakingも可能なライブラリを作る方法について。\n小さなバリデーションライブラリを例に作り方や仕組みについてを解説してる。",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "mieszkosabo/correttore",
+                    "url": "https://github.com/mieszkosabo/correttore"
+                }
+            ]
         }
     ]
 }
