@@ -455,10 +455,22 @@
             "relatedLinks": []
         },
         {
-            "date": "2024-02-20T05:11:30.707Z",
+            "date": "2024-02-20T05:15:54.839Z",
+            "title": "Node.js — Wednesday February 14 2024 Security Releases",
+            "url": "https://nodejs.org/en/blog/vulnerability/february-2024-security-releases",
+            "content": "Node.jsのセキュリティアップデートとしてNode.js 20.x, 18.x, 21.xをそれぞれ更新。\nOpenSSLの更新、Linuxのcapabilitiesに関するバグの修正、細工したHTTPリクエストでのDosに関する問題、パーミッションモデルの問題の修正など",
+            "tags": [
+                "nodejs",
+                "secu",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2024-02-20T05:39:48.720Z",
             "title": "Redwood v7.0.0 Upgrade Guide - Announcements / Releases and Upgrade Guides - RedwoodJS Community",
             "url": "https://community.redwoodjs.com/t/redwood-v7-0-0-upgrade-guide/5713",
-            "content": "Redwood v7リリース。\nNode.js 18のサポート終了、`prop-types`ぱケージの依存を削除、dbAuthのセキュリティ改善に伴う破壊的な変更など",
+            "content": "Redwood v7リリース。\nNode.js 18のサポート終了、`prop-types`パッケージの依存を削除、dbAuthのセキュリティ改善に伴う破壊的な変更など",
             "tags": [
                 "nodejs",
                 "library",
@@ -470,18 +482,6 @@
                     "url": "https://github.com/redwoodjs/redwood/releases/tag/v7.0.0"
                 }
             ]
-        },
-        {
-            "date": "2024-02-20T05:15:54.839Z",
-            "title": "Node.js — Wednesday February 14 2024 Security Releases",
-            "url": "https://nodejs.org/en/blog/vulnerability/february-2024-security-releases",
-            "content": "Node.jsのセキュリティアップデートとしてNode.js 20.x, 18.x, 21.xをそれぞれ更新。\nOpenSSLの更新、Linuxのcapabilitiesに関するバグの修正、細工したHTTPリクエストでのDosに関する問題、パーミッションモデルの問題の修正など",
-            "tags": [
-                "nodejs",
-                "secu",
-                "ReleaseNote"
-            ],
-            "relatedLinks": []
         }
     ]
 }
