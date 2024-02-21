@@ -552,6 +552,22 @@
                 "Android"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-21T08:19:11.773Z",
+            "title": "Firefox 123.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/123.0/releasenotes/",
+            "content": "Firefox 123リリース。\n`<template>`要素が`shadowrootmode`属性をサポート、`Date.parse()`の互換性向上、103 Early Hintsの`rel=preload`をサポート。\n実験的な機能としてWeb Codecs APIをサポートなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 123 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/123"
+                }
+            ]
         }
     ]
 }
