@@ -523,6 +523,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-21T05:13:59.546Z",
+            "title": "Electron 29.0.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-29-0",
+            "content": "Electron 29.0.0リリース。\nChromium 122, Node.js 20.9.0, V8 12.2へのアップグレード。\nrenderer processから利用できる`webUtils`モジュールの追加、`ipcRenderer`そのものを`contextBridge`で公開できないように変更など",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release electron v29.0.0 · electron/electron",
+                    "url": "https://github.com/electron/electron/releases/tag/v29.0.0"
+                }
+            ]
         }
     ]
 }
