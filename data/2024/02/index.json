@@ -539,6 +539,19 @@
                     "url": "https://github.com/electron/electron/releases/tag/v29.0.0"
                 }
             ]
+        },
+        {
+            "date": "2024-02-21T05:40:01.919Z",
+            "title": "facebook/react-strict-dom: React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets",
+            "url": "https://github.com/facebook/react-strict-dom",
+            "content": "ウェブとネイティブのサポートを目的とするReact DOMのサブセットとなる実装",
+            "tags": [
+                "React",
+                "DOM",
+                "iOS",
+                "Android"
+            ],
+            "relatedLinks": []
         }
     ]
 }
