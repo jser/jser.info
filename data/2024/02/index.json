@@ -511,6 +511,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-21T04:44:36.087Z",
+            "title": "Remix Vite is Now Stable | Remix",
+            "url": "https://remix.run/blog/remix-vite-stable",
+            "content": "Remix 2.7.0リリース。\nSPAモードがStableに、`base`オプションのサポート、Remix ViteがCloudflare Pagesをサポート、Server Bundlesのサポート。\nクライアントコードとサーバコードを分離する仕組みとして`.server/`をサポート、`vite-env-only`でサーバのみから利用できるようにマークできるように。\nVite 5.1.0でサポートされた`.css?url`に対応、ビルド結果の出力とViteの互換性の改善など",
+            "tags": [
+                "Remix",
+                "vite",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
