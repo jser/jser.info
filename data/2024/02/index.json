@@ -584,6 +584,18 @@
                     "url": "https://github.com/microsoft/TypeScript/issues/51909"
                 }
             ]
+        },
+        {
+            "date": "2024-02-23T05:06:43.799Z",
+            "title": "Release v1.24.0 · parcel-bundler/lightningcss",
+            "url": "https://github.com/parcel-bundler/lightningcss/releases/tag/v1.24.0",
+            "content": "Lightning CSS v1.24.0リリース。\n`light-dark()`のfallbackに対応、CSS system colorsをサポート、Custom Propertiesと`@keyframes`のdedupeに対応など",
+            "tags": [
+                "CSS",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
