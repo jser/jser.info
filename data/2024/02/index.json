@@ -596,6 +596,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-24T12:03:53.148Z",
+            "title": "Bun v1.0.29 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.0.29",
+            "content": "Bun v1.0.29リリース。\n`string-width`互換APIを提供する`Bun.stringWidth(string)`を追加、Bun Shellで`2>&1`と`&>`をサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
