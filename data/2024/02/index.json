@@ -607,6 +607,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-24T12:12:10.020Z",
+            "title": "Deno 1.41: smaller deno compile binaries",
+            "url": "https://deno.com/blog/v1.41",
+            "content": "Deno v1.41リリース。\n`deno compile`が生成するバイナリサイズの削減、Linux ARM64のサポート、Node.js互換性の改善など",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v1.41.0 · denoland/deno",
+                    "url": "https://github.com/denoland/deno/releases/tag/v1.41.0"
+                }
+            ]
         }
     ]
 }
