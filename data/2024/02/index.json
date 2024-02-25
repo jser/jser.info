@@ -645,6 +645,17 @@
                     "url": "https://polyfill.io/"
                 }
             ]
+        },
+        {
+            "date": "2024-02-25T04:07:43.852Z",
+            "title": "fabiospampinato/fast-string-width: A fast function for calculating the visual width of a string once printed to the terminal.",
+            "url": "https://github.com/fabiospampinato/fast-string-width/tree/main",
+            "content": "`Intl.Segmenter`を使わない`string-width`の実装ライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
