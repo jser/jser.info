@@ -623,6 +623,28 @@
                     "url": "https://github.com/denoland/deno/releases/tag/v1.41.0"
                 }
             ]
+        },
+        {
+            "date": "2024-02-25T01:17:53.276Z",
+            "title": "FUNNULL CDN - Partners",
+            "url": "https://funnull.com/Partner/",
+            "content": "https://polyfill.io/ はFunnull CDN(方能CDN)を運営するFunnull(南京妙彩文化传播有限公司)に売却され、2024-02-24以降の運用はFunnullが行う。",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "news",
+                "webservice"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Jake on X: &quot;I've been in discussions with Funnull for many months and they will be the new maintainers and operators of the GitHub repo, which remains open source, and as of 24 Feb, they're starting to provide the service for https://t.co/29YaS03zrD.&quot; / X",
+                    "url": "https://twitter.com/JakeDChampion/status/1761315227008643367"
+                },
+                {
+                    "title": "Polyfill.io",
+                    "url": "https://polyfill.io/"
+                }
+            ]
         }
     ]
 }
