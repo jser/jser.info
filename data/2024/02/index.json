@@ -656,6 +656,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-26T04:16:14.108Z",
+            "title": "JSDoc as an alternative TypeScript syntax",
+            "url": "https://alexharri.com/blog/jsdoc-as-an-alternative-typescript-syntax",
+            "content": "TypeScriptをJSDocのchekerとして利用する話。\nTypeScriptでの型定義とJSDocでの型定義の書き方を比較して紹介している。",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
