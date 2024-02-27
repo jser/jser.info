@@ -513,18 +513,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2024-02-21T04:44:36.087Z",
-            "title": "Remix Vite is Now Stable | Remix",
-            "url": "https://remix.run/blog/remix-vite-stable",
-            "content": "Remix 2.7.0リリース。\nSPAモードがStableに、`base`オプションのサポート、Remix ViteがCloudflare Pagesをサポート、Server Bundlesのサポート。\nクライアントコードとサーバコードを分離する仕組みとして`.server/`をサポート、`vite-env-only`でサーバのみから利用できるようにマークできるように。\nVite 5.1.0でサポートされた`.css?url`に対応、ビルド結果の出力とViteの互換性の改善など",
-            "tags": [
-                "Remix",
-                "vite",
-                "ReleaseNote"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2024-02-21T05:13:59.546Z",
             "title": "Electron 29.0.0 | Electron",
             "url": "https://www.electronjs.org/blog/electron-29-0",
@@ -729,6 +717,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-27T06:29:42.244Z",
+            "title": "Remix Vite is Now Stable | Remix",
+            "url": "https://remix.run/blog/remix-vite-stable",
+            "content": "Remix 2.7.0リリース。\nSPAモードがStableに、`base`オプションのサポート、Remix ViteがCloudflare Pagesをサポート、Server Bundlesのサポート。\nクライアントコードとサーバコードを分離する仕組みとして`.server/`をサポート、`vite-env-only`でサーバのみから利用できるようにマークできるように。\nVite 5.1.0でサポートされた`.css?url`に対応、ビルド結果の出力とViteの互換性の改善など",
+            "tags": [
+                "Remix",
+                "vite",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Remix 2.7で安定版となったCloudflare PagesのVite対応の実現方法を読み解く",
+                    "url": "https://zenn.dev/chimame/articles/e5bf3a18b7d4de"
+                }
+            ]
         }
     ]
 }
