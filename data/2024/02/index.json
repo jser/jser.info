@@ -541,19 +541,6 @@
             ]
         },
         {
-            "date": "2024-02-21T05:40:01.919Z",
-            "title": "facebook/react-strict-dom: React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets",
-            "url": "https://github.com/facebook/react-strict-dom",
-            "content": "ウェブとネイティブのサポートを目的とするReact DOMのサブセットとなる実装",
-            "tags": [
-                "React",
-                "DOM",
-                "iOS",
-                "Android"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2024-02-21T08:19:11.773Z",
             "title": "Firefox 123.0, See All New Features, Updates and Fixes",
             "url": "https://www.mozilla.org/en-US/firefox/123.0/releasenotes/",
@@ -726,6 +713,20 @@
             "tags": [
                 "nodejs",
                 "article"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2024-02-27T06:28:18.364Z",
+            "title": "facebook/react-strict-dom: React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets",
+            "url": "https://github.com/facebook/react-strict-dom",
+            "content": "ウェブとネイティブのサポートを目的とするReact DOMのサブセットとなる実装",
+            "tags": [
+                "React",
+                "DOM",
+                "iOS",
+                "Android",
+                "library"
             ],
             "relatedLinks": []
         }
