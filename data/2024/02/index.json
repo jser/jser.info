@@ -717,6 +717,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-27T06:23:02.700Z",
+            "title": "Node.js 2023 Year in An Article",
+            "url": "https://blog.rafaelgss.dev/nodejs-2023-year-in-review",
+            "content": "2023年のNode.jsについて。\nNode.jsのリリース、CITGMのエコシステムのテスト、Node.jsのバイナリサイズや増えた依存関係、QUIC/OpenSSL 3.0.xのコスト、パフォーマンスの改善。\nPermission Modelによる権限モデル、セキュリティリリース、`.env`やWebSocket clientなどの新しい機能について",
+            "tags": [
+                "nodejs",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
