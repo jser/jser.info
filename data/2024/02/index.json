@@ -706,6 +706,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-27T06:17:23.519Z",
+            "title": "Using localStorage in Modern Applications - A Comprehensive Guide | RxDB - JavaScript Database",
+            "url": "https://rxdb.info/articles/localstorage.html",
+            "content": "localStorage APIについて。\nlocalStorageは同期的なAPIでサイズや保存できるデータなどに制限があるが、一方で小さな値は高速に読み書きできる。\nどのような場合に利用する/しないか、IndexedDBなどとの比較",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
