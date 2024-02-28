@@ -734,6 +734,17 @@
                     "url": "https://roboin.io/article/2024/02/26/polyfill-io-sells-to-chinese-company-what-you-need-to-know/"
                 }
             ]
+        },
+        {
+            "date": "2024-02-28T12:24:59.266Z",
+            "title": "7.24.0 Released: Decorator updates and JSON modules imports · Babel",
+            "url": "https://babeljs.io/blog/2024/02/28/7.24.0",
+            "content": "Babel v7.24.0リリース。\nDecoratorの新しい仕様に対応、JSON Modulesのimportに対応する`\"@babel/plugin-proposal-json-modules\"`を追加。\nHermesベースのFlowパーサを利用する`experimental_useHermesParser`オプションの追加など",
+            "tags": [
+                "babel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
