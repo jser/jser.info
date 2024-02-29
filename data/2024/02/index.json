@@ -745,6 +745,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-02-29T02:54:45.316Z",
+            "title": "Parcel v2.12.0",
+            "url": "https://parceljs.org/blog/v2-12-0/",
+            "content": "Parcel v2.12.0リリース。\nImport Attributesを使ったmacroに対応、ブラウザ上で動作するREPLを公開、bundleにもLightning CSSを使うように変更。\nメモリ使用量を52%改善、書き込みのパフォーマンスの改善など",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
