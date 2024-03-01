@@ -31,6 +31,23 @@
                     "url": "https://funnull.com/Partner/"
                 }
             ]
+        },
+        {
+            "date": "2024-03-01T11:41:28.157Z",
+            "title": "The Cloudflare Blog",
+            "url": "https://blog.cloudflare.com/polyfill-io-now-available-on-cdnjs-reduce-your-supply-chain-risk",
+            "content": "Cloudflareが polyfill.io の代替CDNをcdnjs上に公開した",
+            "tags": [
+                "cloudflare",
+                "cdn",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "cdnjs.cloudflare.com/polyfill",
+                    "url": "https://cdnjs.cloudflare.com/polyfill/"
+                }
+            ]
         }
     ]
 }
