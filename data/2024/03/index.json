@@ -48,6 +48,31 @@
                     "url": "https://cdnjs.cloudflare.com/polyfill/"
                 }
             ]
+        },
+        {
+            "date": "2024-03-02T07:05:19.759Z",
+            "title": "Release 4.18.3 · expressjs/express",
+            "url": "https://github.com/expressjs/express/releases/tag/4.18.3",
+            "content": "express 4.18.3リリース。\nExpressの新しいTechnical Committeeでの初めてのリリース。\nexpressの開発を再開するための話し合いをExpress Forward Initiativeで行っていて、このプロセスを進める目的のリリースとなっている。",
+            "tags": [
+                "express",
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 4.18.3 by UlisesGascon · Pull Request #5505 · expressjs/express",
+                    "url": "https://github.com/expressjs/express/pull/5505"
+                },
+                {
+                    "title": "Express Forward · Issue #160 · expressjs/discussions",
+                    "url": "https://github.com/expressjs/discussions/issues/160"
+                },
+                {
+                    "title": "Express Forward Initiative · Issue #167 · expressjs/discussions",
+                    "url": "https://github.com/expressjs/discussions/issues/167"
+                }
+            ]
         }
     ]
 }
