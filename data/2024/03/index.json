@@ -85,6 +85,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-03T15:06:12.705Z",
+            "title": "electric-sql/pglite: Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno",
+            "url": "https://github.com/electric-sql/pglite",
+            "content": "PostgresのWebAssemblyビルド。\nブラウザ上でPostgresを動かせる。InMemory/ファイルシステム/IndexedDBにデータを保存できる。",
+            "tags": [
+                "PostgreSQL",
+                "WebAssembly",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
