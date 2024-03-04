@@ -97,6 +97,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-04T06:24:12.176Z",
+            "title": "JSR: the JavaScript Registry",
+            "url": "https://jsr.io/",
+            "content": "TypeScriptのコードのままpushできるDeno向けのパッケージレジストリサービス。\nnpm registryとしても振る舞うことで、npmなどからも利用できるようになっている。\nOIDC ID tokenに対応し、GitHub Actionsからパッケージを公開できるようになっている。",
+            "tags": [
+                "JavaScript",
+                "deno",
+                "nodejs",
+                "webservice"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing JSR - the JavaScript Registry",
+                    "url": "https://deno.com/blog/jsr_open_beta"
+                }
+            ]
         }
     ]
 }
