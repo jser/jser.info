@@ -127,6 +127,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-04T13:42:14.849Z",
+            "title": "Bun v1.0.30 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.0.30",
+            "content": "Bun v1.0.30リリース。\n`exports`フィールドのパッケージ解決の条件を指定する`--conditions`フラグの追加、`expect.assertions()`/`expect.hasAssertions()`のサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Command-line API | Node.js v21.6.2 Documentation",
+                    "url": "https://nodejs.org/api/cli.html#-c-condition---conditionscondition"
+                }
+            ]
         }
     ]
 }
