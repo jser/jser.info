@@ -143,6 +143,17 @@
                     "url": "https://nodejs.org/api/cli.html#-c-condition---conditionscondition"
                 }
             ]
+        },
+        {
+            "date": "2024-03-05T02:40:08.065Z",
+            "title": "ESLint v8.57.0 released - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2024/02/eslint-v8.57.0-released/",
+            "content": "ESLint v8.57.0リリース。\n`eslint.config.mjs`と`eslint.config.cjs`のサポート、`loadESLint()`という`FlatESLint`と`LegacyESLint`の相互運用性のためのAPIを追加など",
+            "tags": [
+                "ESLint",
+                "reel"
+            ],
+            "relatedLinks": []
         }
     ]
 }
