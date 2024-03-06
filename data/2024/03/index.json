@@ -154,6 +154,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-06T08:44:33.851Z",
+            "title": "Release v8.0.0 · pixijs/pixijs",
+            "url": "https://github.com/pixijs/pixijs/releases/tag/v8.0.0",
+            "content": "PixiJS v8.0.0リリース。\n`pixi.js`の単体のパッケージに統合、初期化が非同期へと変更、Graphiscs APIの変更など",
+            "tags": [
+                "JavaScript",
+                "game",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "v8 Migration Guide | PixiJS",
+                    "url": "https://pixijs.com/guides/migrations/v8"
+                }
+            ]
         }
     ]
 }
