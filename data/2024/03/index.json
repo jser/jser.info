@@ -183,6 +183,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-07T08:36:37.547Z",
+            "title": "Open-sourcing our progress on Tailwind CSS v4.0 - Tailwind CSS",
+            "url": "https://tailwindcss.com/blog/tailwindcss-v4-alpha",
+            "content": "Tailwind CSS v4 alphaリリース。\nOxideというRustで書かれたエンジンを追加、Lightning CSSを組み込むように変更。\nv4のロードマップについてなど",
+            "tags": [
+                "CSS",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
