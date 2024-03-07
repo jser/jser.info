@@ -172,6 +172,17 @@
                     "url": "https://pixijs.com/guides/migrations/v8"
                 }
             ]
+        },
+        {
+            "date": "2024-03-07T08:11:26.306Z",
+            "title": "Node.js — Node v21.7.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v21.7.0",
+            "content": "Node.js v21.7.0リリース。\n`util.styleText(format, text)`関数を追加、`process.loadEnvFile(path)`と`util.parseEnv(content)`を追加。\n`.env`で複数行の値をサポート、`node:sea`にAPIを追加、`node:vm`に`importModuleDynamically`オプションを追加、`crypto.hash()`の追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
