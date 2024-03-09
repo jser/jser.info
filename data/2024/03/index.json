@@ -221,6 +221,19 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-09T14:33:12.760Z",
+            "title": "rolldown-rs/rolldown: Fast Rust bundler for JavaScript with Rollup-compatible API.",
+            "url": "https://github.com/rolldown-rs/rolldown",
+            "content": "Rollup互換を目指すRustでのJavaScript Bundlerの実装。",
+            "tags": [
+                "rollup",
+                "Rust",
+                "vite",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
