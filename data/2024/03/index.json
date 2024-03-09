@@ -234,6 +234,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-09T14:54:31.640Z",
+            "title": "Biome v1.6 | Biome",
+            "url": "https://biomejs.dev/blog/biome-v1-6/",
+            "content": "Biome v1リリース。\nAstro/Svelte/Vueのファイル内のJS/TS分析をサポート、`biome.jsonc`をサポート。\n`atributePosition`オプションの追加、ルールの更新など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
