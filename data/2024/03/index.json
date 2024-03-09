@@ -194,6 +194,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-09T14:19:55.706Z",
+            "title": "WebKit Features in Safari 17.4 | WebKit",
+            "url": "https://webkit.org/blog/15063/webkit-features-in-safari-17-4/",
+            "content": "Safari 17.4の変更点について。\nHTMLでは、`<input type=\"checkbox\" switch>`のサポート、フォームの縦書き表示に対応、`<select>`の区切りに`<hr>`を使えるように。\nCSSでは、`@scope`のサポート、`::spelling-error`と`::grammar-error`の擬似要素のサポート、`content: \"foo\" / \"alt\"`で代替テキストをサポート。\nWeb APIでは、`element.checkVisibility()`のサポート、`AbortSignal.any()`のサポート。\nJSでは、ES2024の`Promise.withResolvers()`/`Object.groupBy()`/`Map.groupBy()`のサポート。",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Safari 17.4 Release Notes | Apple Developer Documentation",
+                    "url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_4-release-notes"
+                }
+            ]
         }
     ]
 }
