@@ -258,6 +258,25 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-10T02:37:00.915Z",
+            "title": "\"react-strict-dom\", why it's so great? | Szymon Rybczak",
+            "url": "https://szymonrybczak.dev/blog/react-strict-dom",
+            "content": "react-strict-domについて。\nReact Native for WebのアプローチではReact Nativeのプリミティブをウェブ向けに変換する互換Shimが大きかった。\nreact-strict-domでは逆のアプローチを採用し、DOM APIのサブセットをネイティブ側で扱う。",
+            "tags": [
+                "React",
+                "HTML",
+                "iOS",
+                "Android",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "RFC: React DOM for Native (reduce API fragmentation) by necolas · Pull Request #496 · react-native-community/discussions-and-proposals",
+                    "url": "https://github.com/react-native-community/discussions-and-proposals/pull/496"
+                }
+            ]
         }
     ]
 }
