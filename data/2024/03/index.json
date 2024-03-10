@@ -298,6 +298,17 @@
                     "url": "https://socket.dev/blog/openjs-improve-interoperability-of-javascript-package-metadata"
                 }
             ]
+        },
+        {
+            "date": "2024-03-10T12:38:30.284Z",
+            "title": "Announcing TypeScript 5.4 - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/",
+            "content": "TypeScript 5.4リリース。\nクロージャーにおけるNarrowing結果の改善、`NoInfer` Utility Typeの追加、\n`--module preserve`の追加。\nES2024の`Object.groupBy`/`Map.groupBy`をサポート、Import Attributesのサポート。\n`target: \"ES3\"`や`out`オプションなどを非推奨化されたオプションは5.5で削除される予定。",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
