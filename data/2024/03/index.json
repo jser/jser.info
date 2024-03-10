@@ -277,6 +277,27 @@
                     "url": "https://github.com/react-native-community/discussions-and-proposals/pull/496"
                 }
             ]
+        },
+        {
+            "date": "2024-03-10T12:33:44.986Z",
+            "title": "Why Should You Care About Package Metadata Interoperability? | OpenJS Foundation",
+            "url": "https://openjsf.org/blog/package-metadata-interoperability-collab-space-intro",
+            "content": "OpenJSで`package.json`のメタデータの相互運用性を向上させるためのワーキンググループが発足した。",
+            "tags": [
+                "nodejs",
+                "npm",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "openjs-foundation/package-metadata-interoperability-collab-space: The goal of the Package Metadata Interoperability Collab Space is to improve how JavaScript developers define their packages across the ecosystem. The group is currently working to better understand package.json and how developers use it to define their projects.",
+                    "url": "https://github.com/openjs-foundation/package-metadata-interoperability-collab-space"
+                },
+                {
+                    "title": "OpenJS Launches New Collaboration to Improve Interoperability of JavaScript Package Metadata  - Socket",
+                    "url": "https://socket.dev/blog/openjs-improve-interoperability-of-javascript-package-metadata"
+                }
+            ]
         }
     ]
 }
