@@ -321,6 +321,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-11T00:55:46.502Z",
+            "title": "edmundhung/conform: A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.",
+            "url": "https://github.com/edmundhung/conform",
+            "content": "RemixやNext.jsでのサーバ側の処理にも対応したフォームライブラリ。\nZodなどと組み合わせてサーバ側でのバリデーションやReactの`useFormState`と組み合わせて動作する",
+            "tags": [
+                "React",
+                "Next.js",
+                "Remix",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
