@@ -359,6 +359,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-12T01:43:12.616Z",
+            "title": "Release v4.1.0 · honojs/hono",
+            "url": "https://github.com/honojs/hono/releases/tag/v4.1.0",
+            "content": "Hono v4.1.0リリース。\nWebSocket Helperの追加、Body Limit Middlewareの追加、出力ターゲットをES2022に変更など",
+            "tags": [
+                "Hono",
+                "JavaScript",
+                "server",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
