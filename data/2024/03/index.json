@@ -346,6 +346,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-12T01:10:51.631Z",
+            "title": "Speedometer 3.0: The Best Way Yet to Measure Browser Performance | WebKit",
+            "url": "https://webkit.org/blog/15131/speedometer-3-0-the-best-way-yet-to-measure-browser-performance/",
+            "content": "ウェブブラウザエンジンのベンチマークとして使われるSpeedometer 3.0リリース。\n同期と非同期処理の実行時間をより正確に計測、HTTP Archiveやnpmのダウンロード数を元にした利用されているフレームワークの調整。\nまた、今まではTodoMVCを利用していたが、Next.js/Nuxt を使ったメディアサイトやグラフィカルなダッシュボード、CodeMirrorとTipTapを使ったエディタなどもテストに追加など",
+            "tags": [
+                "browser",
+                "benchmark",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
