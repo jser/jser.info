@@ -444,6 +444,23 @@
                 "esbuild"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-14T02:03:37.031Z",
+            "title": "guidepup/virtual-screen-reader: Virtual Screen Reader is a screen reader simulator for unit tests.",
+            "url": "https://github.com/guidepup/virtual-screen-reader",
+            "content": "Unit Testに利用できるスクリーンリーダのシミュレータライブラリ",
+            "tags": [
+                "accessibility",
+                "test",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Simple setup: Virtual Screen Reader in Storybook - DEV Community",
+                    "url": "https://dev.to/scottnath/simple-setup-virtual-screen-reader-in-storybook-2efo"
+                }
+            ]
         }
     ]
 }
