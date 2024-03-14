@@ -389,6 +389,23 @@
                     "url": "https://www.prisma.io/blog/prisma-orm-support-for-edge-functions-is-now-in-preview"
                 }
             ]
+        },
+        {
+            "date": "2024-03-14T01:28:05.784Z",
+            "title": "Server Actions時代のformライブラリconform",
+            "url": "https://zenn.dev/akfm/articles/server-actions-with-conform",
+            "content": "Server Actionsに対応したフォームライブラリであるConformについて",
+            "tags": [
+                "Next.js",
+                "React",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Conform / Overview",
+                    "url": "https://conform.guide/"
+                }
+            ]
         }
     ]
 }
