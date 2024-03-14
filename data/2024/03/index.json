@@ -429,6 +429,21 @@
                     "url": "https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#from-version-7x-to-800"
                 }
             ]
+        },
+        {
+            "date": "2024-03-14T01:51:05.273Z",
+            "title": "devongovett/unplugin-parcel-macros",
+            "url": "https://github.com/devongovett/unplugin-parcel-macros",
+            "content": "Parcelのmacroと同じものをwebpack/rollup/Vite/esbuildで利用できるようにするプラグイン。\nimport attributesを使いビルド時にマクロ的な処理を行う仕組み",
+            "tags": [
+                "parcel",
+                "plugin",
+                "webpack",
+                "rollup",
+                "vite",
+                "esbuild"
+            ],
+            "relatedLinks": []
         }
     ]
 }
