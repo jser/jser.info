@@ -373,6 +373,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-14T00:51:17.670Z",
+            "title": "Release 5.11.0 · prisma/prisma",
+            "url": "https://github.com/prisma/prisma/releases/tag/5.11.0",
+            "content": "Prisma 5.11.0リリース。\nCloudflare Workers(Vercel Edge)などのEdge functionがプレビューサポートされた。",
+            "tags": [
+                "prisma",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Prisma ORM support for Edge functions is now in Preview",
+                    "url": "https://www.prisma.io/blog/prisma-orm-support-for-edge-functions-is-now-in-preview"
+                }
+            ]
         }
     ]
 }
