@@ -431,10 +431,10 @@
             ]
         },
         {
-            "date": "2024-03-14T01:51:05.273Z",
+            "date": "2024-03-14T01:51:31.562Z",
             "title": "devongovett/unplugin-parcel-macros",
             "url": "https://github.com/devongovett/unplugin-parcel-macros",
-            "content": "Parcelのmacroと同じものをwebpack/rollup/Vite/esbuildで利用できるようにするプラグイン。\nimport attributesを使いビルド時にマクロ的な処理を行う仕組み",
+            "content": "Parcelのmacroと同じものをwebpack/rollup/Vite/esbuildで利用できるようにするプラグイン。\nimport attributesの構文を使いビルド時にマクロ的な処理を行う仕組み",
             "tags": [
                 "parcel",
                 "plugin",
