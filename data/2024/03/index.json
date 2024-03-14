@@ -406,6 +406,29 @@
                     "url": "https://conform.guide/"
                 }
             ]
+        },
+        {
+            "date": "2024-03-14T01:46:15.582Z",
+            "title": "Storybook 8",
+            "url": "https://storybook.js.org/blog/storybook-8/",
+            "content": "Storybook 8リリース。\n破壊的な変更として、`storiesOf` APIの削除、`*.stories.mdx`の削除、StoryShots addonの削除、Yarn v1のサポート終了。\n機能追加として、Chromaticとの連携機能の実装、MSWを使ったReact Server Component(RSC)のサポート。\nそのほかには、SWCを使うことでビルドパフォーマンスの改善、`react-docgen`がデフォルトとなるように変更、`react`をpeerDependenciesから除外するなど",
+            "tags": [
+                "storybook",
+                "JavaScript",
+                "Design",
+                "debug",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Storybook: UI component explorer for frontend developers",
+                    "url": "https://storybook.js.org/releases/8.0"
+                },
+                {
+                    "title": "storybook/MIGRATION.md at next · storybookjs/storybook",
+                    "url": "https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#from-version-7x-to-800"
+                }
+            ]
         }
     ]
 }
