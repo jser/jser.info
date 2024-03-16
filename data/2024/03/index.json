@@ -461,6 +461,24 @@
                     "url": "https://dev.to/scottnath/simple-setup-virtual-screen-reader-in-storybook-2efo"
                 }
             ]
+        },
+        {
+            "date": "2024-03-16T08:33:21.861Z",
+            "title": "Improved Cloudflare Workers testing via Vitest and workerd",
+            "url": "https://blog.cloudflare.com/workers-vitest-integration/",
+            "content": "VitestでCloudflare Workersのテストを行う方法について。\n`@cloudflare/vitest-pool-workers`を使うことで、Workerに対するUnit Testができる仕組みについて。\nVitestのCustom Poolを使うことで、テストをworkerdのプロセス内で実行している。",
+            "tags": [
+                "cloudflare",
+                "vite",
+                "test",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Vitest integration · Cloudflare Workers docs",
+                    "url": "https://developers.cloudflare.com/workers/testing/vitest-integration/"
+                }
+            ]
         }
     ]
 }
