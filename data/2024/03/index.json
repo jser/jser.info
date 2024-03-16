@@ -491,6 +491,22 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-16T12:54:14.496Z",
+            "title": "Bun v1.0.31 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.0.31",
+            "content": "Bun v1.0.31リリース。\n`bun --print`の追加、Stdinからコードを実行できるように、`bun add --trust <pkg>`の追加、`bun pm trust`/`bun pm untrusted`の追加。\n`fetch()`に`unix`オプションを追加しUnix Socketsをサポート。\nNode.js 21.7.0で追加された`util.styleText`のサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Node.js — Node v21.7.0 (Current)",
+                    "url": "https://nodejs.org/en/blog/release/v21.7.0"
+                }
+            ]
         }
     ]
 }
