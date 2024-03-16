@@ -479,6 +479,18 @@
                     "url": "https://developers.cloudflare.com/workers/testing/vitest-integration/"
                 }
             ]
+        },
+        {
+            "date": "2024-03-16T12:21:04.029Z",
+            "title": "MistCSS",
+            "url": "https://typicode.github.io/mistcss/",
+            "content": "CSSからReactコンポーネントを作成するツール。\nCSSを書いて、そのCSSからRectコンポーネントを生成する仕組みになっている。\ndata属性をPropsとして扱う、`@scope`でスコープを扱うなど",
+            "tags": [
+                "CSS",
+                "React",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
