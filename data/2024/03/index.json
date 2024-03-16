@@ -507,6 +507,18 @@
                     "url": "https://nodejs.org/en/blog/release/v21.7.0"
                 }
             ]
+        },
+        {
+            "date": "2024-03-16T13:10:02.734Z",
+            "title": "Best Practices for Writing Tests with React Testing Library | ClarityDev blog",
+            "url": "https://claritydev.net/blog/improving-react-testing-library-tests",
+            "content": "React Testing LibraryでのReactコンポーネントのテストについて。\nコンポーネントをRoleでselectする方法やデバッグ方法、`userEvent`、\"not wrapped in act(...)\"の警告についてなど",
+            "tags": [
+                "React",
+                "test",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
