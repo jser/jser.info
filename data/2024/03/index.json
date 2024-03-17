@@ -519,6 +519,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-17T13:15:10.201Z",
+            "title": "Nuxt 3.11 · Nuxt Blog",
+            "url": "https://nuxt.com/blog/v3-11",
+            "content": "Nuxt v3.11リリース。\nログ表示の改善、`usePreviewMode`の追加、`appMiddleware`の追加。\nサーバ専用の`.server.vue`とクライアント専用の`.client.vue`をサポートなど",
+            "tags": [
+                "Vue",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
