@@ -531,6 +531,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-18T12:24:07.366Z",
+            "title": "Elysia 1.0 - Lament of the Fallen | ElysiaJS",
+            "url": "https://elysiajs.com/blog/elysia-10",
+            "content": "Bun向けのHTTPサーバフレームワークのElysia 1.0リリース。\n起動時間の改善、Type Checkのパフォーマンス改善、`onBeforeHandle`などに`as`オプションを追加など",
+            "tags": [
+                "Bun",
+                "server",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
