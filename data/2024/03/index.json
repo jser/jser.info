@@ -568,6 +568,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-19T03:05:44.630Z",
+            "title": "エディター付きのReact開発環境を ブラウザーだけで実装した話 - Speaker Deck",
+            "url": "https://speakerdeck.com/steelydylan/edeitafu-kinoreactkai-fa-huan-jing-wo-burauzadakedeshi-zhuang-sitahua",
+            "content": "プレビュー機能付きのエディタの実装についてのスライド。\nエディタ上の重たい処理をWeb Worker上に逃す方法、Service Worker内でTypeScriptのトランスパイルの実装などについて",
+            "tags": [
+                "React",
+                "ServiceWorker",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
