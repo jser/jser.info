@@ -582,10 +582,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2024-03-19T14:34:19.258Z",
+            "date": "2024-03-19T14:35:11.804Z",
             "title": "Runtime compatibility across JavaScript runtimes",
             "url": "https://runtime-compat.unjs.io/",
-            "content": "Bun/Deno/edge-light/LLRT/Node.js/wasmer/workerdなどのJavaScript RuntimeのWinterCG API互換性をまとめたテーブル",
+            "content": "Bun/Deno/Vercel/LLRT/Node.js/wasmer/workerdなどのJavaScript RuntimeのWinterCG API互換性をまとめたテーブル",
             "tags": [
                 "JavaScript",
                 "document"
