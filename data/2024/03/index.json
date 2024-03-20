@@ -615,6 +615,22 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-20T05:55:28.746Z",
+            "title": "Firefox 124.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/124.0/releasenotes/",
+            "content": "Firefox 124リリース。\n `AbortSignal.any()`のサポート、WebDriver BiDiの対応改善。\nフラグ付きで`SharedArrayBuffer.prototype.grow()`と` ArrayBuffer.prototype.resize()`のサポートなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 124 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/124"
+                }
+            ]
         }
     ]
 }
