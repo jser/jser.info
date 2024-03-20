@@ -591,6 +591,18 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-20T05:34:13.343Z",
+            "title": "Announcing Rsbuild v0.5 - Rsbuild",
+            "url": "https://rsbuild.dev/community/releases/v0-5",
+            "content": "Rsbuild v0.5リリース。\nLightning CSSをopt-inでサポート、Custom Serverをサポート、SVGRプラグインの改善など",
+            "tags": [
+                "rspack",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
