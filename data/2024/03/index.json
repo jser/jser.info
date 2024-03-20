@@ -603,6 +603,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-20T05:36:25.072Z",
+            "title": "Rsdoctor",
+            "url": "https://rsdoctor.dev/",
+            "content": "webpackやRspackのbundle結果を分析できるツール。\nbunde結果のサマリ、コンパイル/minifyの時間、loaderごとの処理時間やタイムライン、モジュールの依存関係の分析など",
+            "tags": [
+                "webpack",
+                "rspack",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
