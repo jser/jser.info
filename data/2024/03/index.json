@@ -643,6 +643,18 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-25T13:46:38.116Z",
+            "title": "Optimizing Javascript for fun and for profit",
+            "url": "https://romgrk.com/posts/optimizing-javascript",
+            "content": "JavaScriptのパフォーマンスの最適化について。パフォーマンスと可読性のトレードオフ。\n文字列の比較を避ける、異なる形状を避ける、配列やオブジェクトのメソッドを避けるといった実行時のコストを減らす工夫について",
+            "tags": [
+                "article",
+                "performance",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
