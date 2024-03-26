@@ -670,17 +670,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2024-03-26T14:59:39.519Z",
-            "title": "Flow Nodes: How Type Inference Is Implemented",
-            "url": "https://effectivetypescript.com/2024/03/24/flownodes/",
-            "content": "TypeScriptのnarrowingがどのように動作しているかについて。\n上から下に型を絞り込んでいるのではなく、シンボルが参照されてるポイントから制御フローグラフを逆にたどることで方を絞り込む実装になっている話",
-            "tags": [
-                "TypeScript",
-                "article"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2024-03-26T15:09:13.141Z",
             "title": "Performance tooling in 2024 and beyond  |  Blog  |  Chrome for Developers",
             "url": "https://developer.chrome.com/blog/perf-tooling-2024",
@@ -707,6 +696,17 @@
                     "url": "https://nodejs.org/en"
                 }
             ]
+        },
+        {
+            "date": "2024-03-26T15:24:50.729Z",
+            "title": "Flow Nodes: How Type Inference Is Implemented",
+            "url": "https://effectivetypescript.com/2024/03/24/flownodes/",
+            "content": "TypeScriptのnarrowingがどのように動作しているかについて。\n上から下に型を絞り込んでいるのではなく、シンボルが参照されてるポイントから制御フローグラフを逆にたどることで型を絞り込む実装になっている話",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
