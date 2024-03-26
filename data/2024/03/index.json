@@ -730,6 +730,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-26T23:42:37.535Z",
+            "title": "Node.js — Node v18.20.0 (LTS)",
+            "url": "https://nodejs.org/en/blog/release/v18.20.0",
+            "content": "Node.js v18.20.0リリース。\nImport Attributesのサポート、`vm.Script`とDynamic Importに関するパフォーマンス改善をbackport(Jestでメモリリークする問題の改善)",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
