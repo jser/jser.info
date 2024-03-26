@@ -719,6 +719,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-26T15:31:21.310Z",
+            "title": "New in Chrome 123  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/new-in-chrome-123?hl=en",
+            "content": "Chrome 123リリース。\nCSSの`light-dark()`のサポート、\nService worker Static Routing APIのサポート、Content-Encoding: zstdをサポート。\nBFCacheが利用できなかった理由を取得できる`notRestoredReasons`のサポート、ES Proposal Stage 3のImport Attributesをサポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
