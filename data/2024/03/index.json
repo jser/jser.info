@@ -679,6 +679,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-26T15:09:13.141Z",
+            "title": "Performance tooling in 2024 and beyond  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/perf-tooling-2024",
+            "content": "Chrome DevToolsに試験的に実装されていた\"Performance Insights\"パネルは2024年後半に削除される予定。\n\"Performance Insights\"は情報密度を減らすことを目的にしていたが、\"Performance\"パネルの方が使われていたという話",
+            "tags": [
+                "Chrome",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
