@@ -691,6 +691,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-26T15:23:58.223Z",
+            "title": "Node.js — Diving into the Node.js Website Redesign",
+            "url": "https://nodejs.org/en/blog/announcements/diving-into-the-nodejs-website-redesign",
+            "content": "Node.jsのウェブサイトがNext.jsで新しく書き直された話。\nnextraでの静的サイトとして始めたがカスタム設定が多くなり、Next.jsをVercelで動かす形に変更した。\nこのリニューアルで既存の翻訳はリセットされたため、現時点では404となっており、今後Crowdinを使った翻訳の仕組みを導入予定。",
+            "tags": [
+                "nodejs",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Node.js — Run JavaScript Everywhere",
+                    "url": "https://nodejs.org/en"
+                }
+            ]
         }
     ]
 }
