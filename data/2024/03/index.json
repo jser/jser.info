@@ -741,6 +741,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-26T23:47:23.245Z",
+            "title": "Node.js — Node v20.12.0 (LTS)",
+            "url": "https://nodejs.org/en/blog/release/v20.12.0",
+            "content": "Node.js v20.12.0リリース。\n`crypto.hash()`の追加、`.env`を扱う`process.loadEnvFile(path)`と`util.parseEnv(content)`を追加。\n`net.createConnection`に接続試行に関するイベントを追加、`util.styleText(format, text)`を追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
