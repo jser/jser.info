@@ -765,6 +765,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-27T00:53:02.265Z",
+            "title": "Release v9.0.0-beta.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v9.0.0-beta.0",
+            "content": "pnpm v9.0.0-beta.0リリース。\nNode.js 16のサポート終了、Lockfileバージョンをv7に変更、`dedupe-injected-deps`を`true`に変更、`link-workspace-packages`を`false`に変更。\npre/post-scriptを実行する`enable-pre-post-scripts`を`true`に変更など",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
