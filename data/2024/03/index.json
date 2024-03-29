@@ -787,6 +787,17 @@
                 "book "
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-29T08:17:35.692Z",
+            "title": "Release gulp v5.0.0 · gulpjs/gulp",
+            "url": "https://github.com/gulpjs/gulp/releases/tag/v5.0.0",
+            "content": "gulp v5.0.0リリース。\nNode.js 10.13未満のサポート終了、ストリームエンコードをUTF-8に変更、非推奨のローダーの削除。\n`gulpfile.cjs`と`gulpfile.mjs`をサポート、`swc`/`esbuild`/`sucrase`/`mdx`ローダーの追加、`extends`構文のサポートなど",
+            "tags": [
+                "gulp",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
