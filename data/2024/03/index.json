@@ -874,6 +874,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-31T14:24:01.004Z",
+            "title": "Introducing Babylon.js 7.0. Our mission is to build one of the most… | by Babylon.js | Mar, 2024 | Medium",
+            "url": "https://babylonjs.medium.com/introducing-babylon-js-7-0-a141cd7ede0d",
+            "content": "Babylon.js 7.0リリース。\nProcedural Geometry、Global Illumination、Gaussian Splat Renderingのサポート。\nApple Vision Proのサポート、MMDのコミュニティサポートの追加など",
+            "tags": [
+                "WebGL",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 7.0.0 · BabylonJS/Babylon.js",
+                    "url": "https://github.com/BabylonJS/Babylon.js/releases/tag/7.0.0"
+                }
+            ]
         }
     ]
 }
