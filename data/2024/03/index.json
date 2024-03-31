@@ -816,6 +816,17 @@
                     "url": "https://github.com/tc39/proposal-iterator-helpers"
                 }
             ]
+        },
+        {
+            "date": "2024-03-31T12:51:38.128Z",
+            "title": "Deno 1.42: Better dependency management with JSR",
+            "url": "https://deno.com/blog/v1.42",
+            "content": "Deno v1.42リリース。\nJSRをサポートする`deno publish`と`deno add`コマンドを追加。\n`deno task`で実行するスクリプトをクロスプラットフォームで実行できる`#!/usr/bin/env -S`というshebangをサポート。\n`DENO_FUTURE=1`でDeno2に含まれる予定の変更をopt-inでテストできるように。",
+            "tags": [
+                "dneo",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
