@@ -827,6 +827,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-03-31T13:00:29.327Z",
+            "title": "light-dark() を使用して CSS のカラーパターンに依存する色を使用する  |  Articles  |  web.dev",
+            "url": "https://web.dev/articles/light-dark?hl=ja",
+            "content": "`light-dark()`を使うことでMedia Queryを使わずにLight Mode/Dark Modeで変化する値を扱えるという話",
+            "tags": [
+                "CSS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
