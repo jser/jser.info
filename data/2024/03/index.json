@@ -892,6 +892,24 @@
                     "url": "https://github.com/BabylonJS/Babylon.js/releases/tag/7.0.0"
                 }
             ]
+        },
+        {
+            "date": "2024-03-31T14:28:39.357Z",
+            "title": "Radix Themes 3.0 – Radix UI",
+            "url": "https://www.radix-ui.com/blog/themes-3",
+            "content": "Radix Themes 3.0リリース。\nカスタムカラーパレットの作成ツールの公開、ダッシュボード向けのコンポーネントの追加、レイアウトコンポーネントに多数のPropsを追加など",
+            "tags": [
+                "JavaScript",
+                "UI",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Releases – Radix Themes",
+                    "url": "https://www.radix-ui.com/themes/docs/overview/releases#300"
+                }
+            ]
         }
     ]
 }
