@@ -1,0 +1,16 @@
+{
+    "list": [
+        {
+            "date": "2024-04-01T23:52:25.170Z",
+            "title": "Bun 1.1 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.1",
+            "content": "Bun v1.1リリース。\nWindowsサポート、クロスプラットフォームでスクリプトを実行できる`.bunx`ファイルのサポート。\n`WebSocket` APIのStable化、`performance.mark()`/`performance.measure()`のサポート、Fetch APIがBrotliをサポート。\nbuilt-in modulesがMacrosでの利用に対応、conditional exportsで`worker`サポート、`NODE_ENV`のデフォルト値を`undefined`に変更など",
+            "tags": [
+                "Bun",
+                "windows",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
