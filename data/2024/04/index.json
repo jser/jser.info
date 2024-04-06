@@ -23,6 +23,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-04-06T09:45:38.785Z",
+            "title": "Release 8.0.0 · google/zx",
+            "url": "https://github.com/google/zx/releases/tag/8.0.0",
+            "content": "zx 8.0.0リリース。\nパッケージサイズの削減、`$.sync`の追加、`input`オプションの追加、AbortControllerのサポート、`kill`メソッドの追加。\n`$.verbose`のデフォルト値を`false`に変更、`ssh` APIの削除など",
+            "tags": [
+                "JavaScript",
+                "ShellScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
