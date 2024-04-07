@@ -56,6 +56,17 @@
                     "url": "http://example.com/"
                 }
             ]
+        },
+        {
+            "date": "2024-04-07T14:27:31.151Z",
+            "title": "App Router移行時に0.01%の確率でCSR遷移が404エラーになる - とろろこんぶろぐ",
+            "url": "https://oisham.hatenablog.com/entry/2024/04/04/105444",
+            "content": "Next.jsではApp RouterとPages Routerが共存しているときは、パスがどちらのRouterかを判定するのに Bloom Filter を利用している。\nこの判定は確率的に判定ミスをするが、その際にはハードナビゲーションするため本来は問題が起きない。しかし、`basePath`オプションを利用時には問題があったという話。",
+            "tags": [
+                "Next.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
