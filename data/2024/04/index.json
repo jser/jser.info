@@ -127,6 +127,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-04-10T15:04:26.441Z",
+            "title": "Announcing Rspack v0.6 - Rspack",
+            "url": "https://www.rspack.dev/blog/announcing-0.6",
+            "content": "Rspack 0.6リリース。\nmini-css-extract-pluginの機能を組み込みサポート、デフォルトでTree Shakingを有効化。\nCSSの順番が複数のchunkで矛盾している場合に警告を表示するようになるなど",
+            "tags": [
+                "JavaScript",
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
