@@ -139,6 +139,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-04-10T15:38:29.227Z",
+            "title": "Migrating 500+ tests from Mocha to Node.js | Astro",
+            "url": "https://astro.build/blog/node-test-migration/",
+            "content": "Mocha/Chaiから`node:test`/`node:assert`へテストを移行した話",
+            "tags": [
+                "nodejs",
+                "JavaScript",
+                "testing",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
