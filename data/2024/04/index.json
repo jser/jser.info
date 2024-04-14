@@ -185,6 +185,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-04-14T13:44:57.485Z",
+            "title": "How we built JSR",
+            "url": "https://deno.com/blog/how-we-built-jsr",
+            "content": "JSRの技術的な作りについて。\nAPIサーバはRustで書かれていて、DBにはPostgresを利用している。\nフロントエンドにはFreshを使ったIslandsアーキテクチャにしている。\nFreshを動かすRendering Serverは各地にデプロイされるがAPI ServerはUSのみなので、Server間のやり取りでウォーターフォールが起きないようにまとめている。\nまた、npmの互換レイヤーであるtarballを作成するときに.tsから.d.tsを生成する処理をRustで書いている点についてなど",
+            "tags": [
+                "deno",
+                "JavaScript",
+                "npm",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "feat: Add fast-check based TypeScript type definition generation by marvinhagemeister · Pull Request #379 · denoland/deno_graph",
+                    "url": "https://github.com/denoland/deno_graph/pull/379"
+                }
+            ]
         }
     ]
 }
