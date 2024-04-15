@@ -203,6 +203,20 @@
                     "url": "https://github.com/denoland/deno_graph/pull/379"
                 }
             ]
+        },
+        {
+            "date": "2024-04-15T14:59:20.273Z",
+            "title": "Release 🚀 Farm v1.0 is released! · farm-fe/farm",
+            "url": "https://github.com/farm-fe/farm/releases/tag/v1.0",
+            "content": "Vite/Rollup互換のプラグインを扱えるビルドツールであるFarm 1.0リリース。\nRustで書かれていて、キャッシュを使ったIncremental Build、Lazy Compilation、モジュールをグループ化してbundleできる。\nまた、devとproductionビルドで同じ戦略を使うため、一貫性があるのある結果になるように設計されている。",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "Rust",
+                "vite",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
