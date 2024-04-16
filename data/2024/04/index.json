@@ -217,6 +217,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-04-16T03:15:33.571Z",
+            "title": "Biome v1.7 | Biome",
+            "url": "https://biomejs.dev/blog/biome-v1-7/",
+            "content": "Biome v1.7リリース。\nESLint/Prettierの設定からマイグレーションできる`biome migrate eslint`と`biome migrate prettier`コマンドを追加。\nGitのStagingファイルをチェックする`biome check --staged`の追加など",
+            "tags": [
+                "ESLint",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release CLI v1.7.0 · biomejs/biome",
+                    "url": "https://github.com/biomejs/biome/releases/tag/cli%2Fv1.7.0"
+                }
+            ]
         }
     ]
 }
