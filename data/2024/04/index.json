@@ -234,6 +234,17 @@
                     "url": "https://github.com/biomejs/biome/releases/tag/cli%2Fv1.7.0"
                 }
             ]
+        },
+        {
+            "date": "2024-04-16T13:54:46.125Z",
+            "title": "Release v9.0.0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v9.0.0",
+            "content": "pnpm v9.0.0リリース。\nNode.js 16のサポート終了。\nmonorepo内のバージョン指定でのlinkをする`link-workspace-packages`を`false`に変更、pre/post scriptをデフォルトで実行するように変更。\nロックファイルのバージョンをv9に変更、Gitリポジトリのサブディレクトリのみをインストールできるように。",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
