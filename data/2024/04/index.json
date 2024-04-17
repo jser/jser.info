@@ -285,6 +285,18 @@
                     "url": "https://developer.chrome.com/blog/new-in-chrome-124"
                 }
             ]
+        },
+        {
+            "date": "2024-04-17T15:27:05.185Z",
+            "title": "sonic-technology/catena: Build type-safe APIs with ease",
+            "url": "https://github.com/sonic-technology/catena",
+            "content": "ExpressにType Safeなvalidationやmiddlewareなどの仕組みをつけるライブラリ",
+            "tags": [
+                "nodejs",
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
