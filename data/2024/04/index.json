@@ -269,6 +269,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-04-17T14:26:37.314Z",
+            "title": "Chrome 124  |  Release notes  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/release-notes/124",
+            "content": "Chrome 124リリース。\n`writingsuggestions`属性のサポート、`Sec-CH-UA-Form-Factors` client hintのサポート、Document Render-Blockingのサポート。\nWebSocketStream API、`setHTMLUnsafe`と`parseHTMLUnsafe`メソッドのサポート、ReadableStream APIがAsync Iterableに対応など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
