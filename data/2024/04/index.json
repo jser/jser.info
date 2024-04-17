@@ -245,6 +245,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-04-17T03:32:56.327Z",
+            "title": "Panda CSS - The Origin Story - Segun Adebayo",
+            "url": "https://www.adebayosegun.com/blog/panda-css-the-origin-story",
+            "content": "Panda CSSがなぜ作られたのかについての話。\nChakra UIでCSSのパフォーマンスを向上する試みから、Vanilla ExtractでPoCを作成し、そこから同じ試みをしてるBox Extractorの作者と作業をマージして進めていった。\nPark UIやビデオチュートリアルの作成、名前をPandaにした話などについて",
+            "tags": [
+                "JavaScript",
+                "CSS",
+                "article",
+                "Interview"
+            ],
+            "relatedLinks": []
         }
     ]
 }
