@@ -258,6 +258,17 @@
                 "Interview"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-04-17T14:10:20.690Z",
+            "title": "Bun v1.1.4 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.1.4",
+            "content": "Bun v1.1.4リリース。\n`bun --filter='*'`でコマンドを並列に実行できるように、`bun install`のパフォーマンスを改善、`bun:sqlite`が`using`に対応など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
