@@ -320,6 +320,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-04-17T23:36:02.985Z",
+            "title": "ECMAScript proposal updates @ 2024-04 | ECMAScript Daily",
+            "url": "https://ecmascript-daily.github.io/ecmascript/2024/04/17/ecmascript-proposal-update",
+            "content": "2024年4月のTC39ミーティングでのECMAScript Proposalのステータス変更のまとめ。\nSignalsがStage 1に、`.union()`などの集合演算をするSetメソッドがStage 4に。",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
