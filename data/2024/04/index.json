@@ -357,6 +357,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-04-18T05:07:15.907Z",
+            "title": "Release 3.37.0 - 2024.04.17 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.37.0",
+            "content": "core-js v3.37.0リリース。\nSet methods ProposalをStableに追加、`Math.sumPrecise`のサポート、`Symbol.customMatcher`のサポートなど",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
