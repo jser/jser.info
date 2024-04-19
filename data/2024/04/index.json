@@ -369,6 +369,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-04-19T04:53:33.832Z",
+            "title": "Electron 30.0.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-30-0",
+            "content": "Electron 30リリース。\nV8 12.4、Chromium 124、Node.js 20.11.1へアップデート。\nFile System APIをサポート、Cross Origin iframeにPermission Policyを使うように変更、`WebContentsView`/`BaseWindow`の廃止など",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
