@@ -380,6 +380,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-04-20T12:05:38.772Z",
+            "title": "Firefox 125.0.1, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/125.0.1/releasenotes/",
+            "content": "Firefox 125リリース。\n`Intl.Segmenter`のサポート、Popover APIのサポート、AV1コーデックのサポート、WasmのMulti Memoryをサポートなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 125 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/125"
+                },
+                {
+                    "title": "WebAssembly/multi-memory: Multiple per-module memories for Wasm",
+                    "url": "https://github.com/WebAssembly/multi-memory"
+                }
+            ]
         }
     ]
 }
