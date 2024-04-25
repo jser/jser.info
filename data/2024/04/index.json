@@ -476,6 +476,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-04-25T14:46:05.209Z",
+            "title": "React Native 0.74 - Yoga 3.0, Bridgeless New Architecture, and more · React Native",
+            "url": "https://reactnative.dev/blog/2024/04/22/release-0.74",
+            "content": "React Native 0.74リリース。\nレイアウトエンジンであるYoga 3.0へアップグレート、Bridgelessがデフォルトに変更、`onLayout`でのStateの更新がバッチ化されるように。\nAndroidの最小SDKバージョンを23 (Android 6.0)に変更、PropTypesの削除など",
+            "tags": [
+                "React",
+                "iOS",
+                "Android",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
