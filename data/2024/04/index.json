@@ -440,6 +440,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-04-25T00:05:09.833Z",
+            "title": "Node.js — Node.js 22 is now available!",
+            "url": "https://nodejs.org/en/blog/announcements/v22-release-announce",
+            "content": "Node.js 22リリース。\nV8 12.4へアップデート、`require()`でのESMモジュールのロードをサポートする`--experimental-require-module`フラグの追加。\nnpm run-scriptを実行する`node --run <script>`を追加、`node --watch`フラグを追加、WebSocketをデフォルトで有効化、`node:fs`に`glob`を追加。\nStreamのHigh Water Markのデフォルト値を16KiBから64KiBへ変更。",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
