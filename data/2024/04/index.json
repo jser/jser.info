@@ -535,6 +535,22 @@
                     "url": "https://github.com/apollographql/apollo-client/releases/tag/v3.10.0"
                 }
             ]
+        },
+        {
+            "date": "2024-04-26T01:58:27.478Z",
+            "title": "Announcing TypeScript 5.5 Beta - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-beta/",
+            "content": "TypeScript 5.5リリース。\n関数からtype predicatesを推論できるようになり、`Array.prototype.filter`などでの絞り込みが簡潔に書けるように。\nJSDocで`@import {foo} from \"foo\"`をサポート、正規表現の基本的な構文チェックをサポート、`isolatedDeclarations`をサポート。\n設定ファイル内で`${configDir}`のテンプレート値をサポート。\n`typescript`パッケージのサイズを削減、Named Importをサポート、`transpileDeclaration` APIの追加。\n`out`や`target: ES3`などの非推奨となっていたオプションを削除など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "The Making of a TypeScript Feature: Inferring Type Predicates",
+                    "url": "https://effectivetypescript.com/2024/04/16/inferring-a-type-predicate/"
+                }
+            ]
         }
     ]
 }
