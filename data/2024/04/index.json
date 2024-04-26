@@ -517,6 +517,24 @@
                     "url": "https://slab.com/blog/announcing-quill-2-0/"
                 }
             ]
+        },
+        {
+            "date": "2024-04-26T01:48:11.381Z",
+            "title": "What’s new in Apollo Client 3.10 | Apollo GraphQL Blog",
+            "url": "https://www.apollographql.com/blog/whats-new-in-apollo-client-3-10",
+            "content": "Apollo Client 3.10リリース。\n`@apollo/client/testing/experimental`にMSWと連携してスキーマ駆動テストをする`createTestSchema`の追加、`client.watchFragment`の追加。\n`createQueryPreloader`をStableに変更など",
+            "tags": [
+                "GraphQL",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v3.10.0 · apollographql/apollo-client",
+                    "url": "https://github.com/apollographql/apollo-client/releases/tag/v3.10.0"
+                }
+            ]
         }
     ]
 }
