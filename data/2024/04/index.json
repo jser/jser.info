@@ -489,6 +489,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-04-26T01:08:41.892Z",
+            "title": "React 19 Beta – React",
+            "url": "https://react.dev/blog/2024/04/25/react-19",
+            "content": "React 19 Betaリリース。\nActionという概念の導入と`useActionState`/`useFormStatus`の追加。\n楽観的な更新を扱う`useOptimistic`、Promiseをunwrapする`use`の追加。\nServer Component/Server Actionのサポート、`fowardRef`が不要となるように変更。\nHydrationのエラーの表示の改善、`<Context>`自体が`<Context.Provider>`としての機能を持つように変更、`ref`のcleanup処理を定義できるように。\n`useDeferredValue`の第二引数に初期値をサポート、`<title>`などのメタデータタグのサポート、`<link ref=stylesheet>`でのスタイルシートのサポート。\n`<script async={true}>`のサポート、`preload`などの`<link rel=preload>`を扱う関数を追加。\nReact 18ではサードパーティによってHTMLが改変されたときはHydration時にレンダリングし直すことで消えていたが、残るように変更、Custme Elementのサポートなど。",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
