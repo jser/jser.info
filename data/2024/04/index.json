@@ -500,6 +500,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-04-26T01:14:41.164Z",
+            "title": "Release Version 2.0.0 · quilljs/quill",
+            "url": "https://github.com/quilljs/quill/releases/tag/v2.0.0",
+            "content": "Quill 2.0リリース。\nTypeScriptのビルトインサポート、`registry`の追加、ドキュメントモデルとの同期にInputEventを使うように変更。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Announcing Quill 2.0 - Knock Down Silos by Slab",
+                    "url": "https://slab.com/blog/announcing-quill-2-0/"
+                }
+            ]
         }
     ]
 }
