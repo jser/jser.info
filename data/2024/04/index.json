@@ -551,6 +551,17 @@
                     "url": "https://effectivetypescript.com/2024/04/16/inferring-a-type-predicate/"
                 }
             ]
+        },
+        {
+            "date": "2024-04-29T04:19:31.267Z",
+            "title": "Bun v1.1.6 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.1.6",
+            "content": "Bun v1.1.6リリース。\nUDP Socketsのサポート、`node:dgram`をサポート、`dd-trace`や`@clickhouse/client`などが動作するようにバグ修正など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
