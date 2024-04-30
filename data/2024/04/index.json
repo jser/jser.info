@@ -562,6 +562,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-04-30T14:51:02.063Z",
+            "title": "MoonBit adds JS backend, up to 25x faster than native JS | MoonBit",
+            "url": "https://www.moonbitlang.com/blog/js-support",
+            "content": "Rustライクな構文でWebAssemblyへ出力できる言語/ツールキットであるMoonBitが、JavaScriptへの出力をサポート。\nIteratorのコストが減るような変換や文字列をUnicode Code Pointとして整数値で持つなどの工夫をしている",
+            "tags": [
+                "WebAssembly",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
