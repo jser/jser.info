@@ -66,6 +66,17 @@
                     "url": "https://azukiazusa.dev/blog/single-fetch-in-remix/"
                 }
             ]
+        },
+        {
+            "date": "2024-05-03T02:47:51.737Z",
+            "title": "jacob-ebey/turbo-stream: A streaming data transport format that aims to support built-in features such as Promises, Dates, RegExps, Maps, Sets and more.",
+            "url": "https://github.com/jacob-ebey/turbo-stream",
+            "content": "PromiseやDateなどをシリアライズしてWeb Streamとして送受信するためのecode/decodeライブラリ",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
