@@ -169,6 +169,22 @@
                     "url": "https://react.dev/blog/2024/04/25/react-19-upgrade-guide"
                 }
             ]
+        },
+        {
+            "date": "2024-05-03T14:13:24.808Z",
+            "title": "Svelte 5 Release Candidate",
+            "url": "https://svelte.dev/blog/svelte-5-release-candidate",
+            "content": "Svelte 5 RCリリース。\nrunesの追加、Snippetsの追加、イベントハンドラーの記述方法の変更など。",
+            "tags": [
+                "Svelte",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Breaking changes • Docs • Svelte 5 preview",
+                    "url": "https://svelte-5-preview.vercel.app/docs/breaking-changes"
+                }
+            ]
         }
     ]
 }
