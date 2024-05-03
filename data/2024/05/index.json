@@ -141,6 +141,18 @@
                     "url": "https://prtimes.jp/main/html/rd/p/000000024.000081310.html"
                 }
             ]
+        },
+        {
+            "date": "2024-05-03T13:55:52.040Z",
+            "title": "Combining CSS :has() And HTML <select> For Greater Conditional Styling — Smashing Magazine",
+            "url": "https://www.smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/",
+            "content": "`<select>`と`:has()`を組み合わせて、選択した値によってスタイルを変化させる方法について",
+            "tags": [
+                "HTML",
+                "CSS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
