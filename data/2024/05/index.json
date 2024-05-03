@@ -12,6 +12,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-03T01:30:35.275Z",
+            "title": "Bun v1.1.5 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.1.5",
+            "content": "Bun v1.1.5リリース。\n`bun build --compile`がクロスコンパイルに対応、`package.json`の末尾カンマを許可するように、`bun.report`の追加。\nImport Attributesで任意ファイルをtext/json/toml/fileとしてインポートできるようになるなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
