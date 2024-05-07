@@ -185,6 +185,18 @@
                     "url": "https://svelte-5-preview.vercel.app/docs/breaking-changes"
                 }
             ]
+        },
+        {
+            "date": "2024-05-07T14:15:45.210Z",
+            "title": "Release v0.21.0 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.21.0",
+            "content": "esbuild v0.21.0リリース。\nStage 3のDecorator Proposalのサポート、プライベートメソッドの最適化、バグ修正など",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
