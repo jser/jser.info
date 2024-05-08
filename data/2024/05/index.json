@@ -220,6 +220,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-08T17:43:01.375Z",
+            "title": "Release v4.3.0 · honojs/hono",
+            "url": "https://github.com/honojs/hono/releases/tag/v4.3.0",
+            "content": "Hono v4.3.0リリース。\nResponseに対するクライアント側での型推論の改善、`hono/jsx`のReactとの互換性改善、`createFactory`の追加など",
+            "tags": [
+                "Hono",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
