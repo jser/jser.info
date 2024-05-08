@@ -209,6 +209,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-08T17:32:32.033Z",
+            "title": "Node.js の進化に伴い不要となったかもしれないパッケージたち",
+            "url": "https://zenn.dev/morinokami/articles/npm-uninstall",
+            "content": "Node.jsのコアモジュールなどに実装されたパッケージの機能紹介。\nFetch API、`.env`のロード、`util.styleText`、`node:test`、`--watch`フラグ、`glob`、`util.parseArgs`などについて",
+            "tags": [
+                "nodejs",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
