@@ -275,6 +275,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-10T15:28:14.060Z",
+            "title": "Release v2.3.0 · mswjs/msw",
+            "url": "https://github.com/mswjs/msw/releases/tag/v2.3.0",
+            "content": "msw 2.3.0リリース。\nハンドラー内でのnhandled exceptionは500エラーとなるように変更、`unhandledException`イベントを追加など",
+            "tags": [
+                "JavaScript",
+                "test",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
