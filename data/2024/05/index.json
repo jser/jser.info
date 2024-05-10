@@ -253,6 +253,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-10T15:11:23.164Z",
+            "title": "TypeScript の型検査にかかる時間を短縮した話",
+            "url": "https://zenn.dev/knowledgework/articles/speedup-typecheck",
+            "content": "TypeScriptの型チェックのパフォーマンスチェックと改善について",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
