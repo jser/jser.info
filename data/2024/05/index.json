@@ -242,6 +242,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-10T14:34:54.862Z",
+            "title": "Node.js — Node v20.13.0 (LTS)",
+            "url": "https://nodejs.org/en/blog/release/v20.13.0",
+            "content": "Node.js v20.13.0リリース。\nBufferの`base64`と`base64url`のパフォーマンス改善、`CustomEvent`と`node --watch`をStableに変更、`fs/promises`のスタックトレースの追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
