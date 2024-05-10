@@ -264,6 +264,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-10T15:17:58.655Z",
+            "title": "Release v1.44.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.44.0",
+            "content": "playwright v1.44.0リリース。\nアクセシビリティ用のAssertionを追加、`page.addLocatorHandler`に`noWaitAfter`オプションを追加、`page.removeLocatorHandler`メソッドを追加。\n前回失敗したテストだけを実行する`--last-failed`フラグの追加など",
+            "tags": [
+                "playwright",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
