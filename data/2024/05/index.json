@@ -231,6 +231,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-10T14:29:15.200Z",
+            "title": "Astro 4.8 | Astro",
+            "url": "https://astro.build/blog/astro-480/",
+            "content": "Astro 4.8リリース。\n実験的な機能としてAstro Action、Request Rewritingの追加。\nパフォーマンスの改善や`injectRoute`のバグ修正など",
+            "tags": [
+                "astro",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
