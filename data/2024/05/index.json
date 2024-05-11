@@ -287,6 +287,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-11T04:35:10.181Z",
+            "title": "Release v9.0.0 · sindresorhus/execa",
+            "url": "https://github.com/sindresorhus/execa/releases/tag/v9.0.0",
+            "content": "execa v9.0.0リリース。\nzx的なTemplate Literalでのコマンド実行をサポート、行ごとに出力を処理できるように、入力や出力のフィルター、`verbose`モードの改善など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Execa 9: our biggest release. Execa runs commands in your scripts. | by ehmicky | Medium",
+                    "url": "https://medium.com/@ehmicky/execa-9-release-d0d5daaa097f"
+                }
+            ]
         }
     ]
 }
