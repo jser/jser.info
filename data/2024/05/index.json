@@ -337,6 +337,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-12T06:22:01.953Z",
+            "title": "Monitor Third-Party Resources that Impact UX with Playwright",
+            "url": "https://www.checklyhq.com/blog/how-playwright-can-monitor-third-party-resources/",
+            "content": "PlaywrightのRequest Block/Delayを使ってユーザー影響のあるサードパーティスクリプトを特定する方法について",
+            "tags": [
+                "browser",
+                "test",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
