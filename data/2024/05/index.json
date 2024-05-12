@@ -314,6 +314,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-12T06:15:54.027Z",
+            "title": "Headless UI v2.0 for React - Tailwind CSS",
+            "url": "https://tailwindcss.com/blog/headless-ui-v2",
+            "content": "Headless UI v2.0リリース。\nFloating UIのanchor指定をサポート、Checkboxコンポーネント、Fieldsetコンポーネント、Comboboxが`virtual` propsをサポートなど",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
