@@ -351,13 +351,14 @@
             "relatedLinks": []
         },
         {
-            "date": "2024-05-12T06:27:39.664Z",
+            "date": "2024-05-12T06:27:46.562Z",
             "title": "Release 7.0.0 · jasonkuhrt/graphql-request",
             "url": "https://github.com/jasonkuhrt/graphql-request/releases/tag/7.0.0",
             "content": "graphql-request 7.0リリース。\ncross-fetchのpolyfillを削除、Pure ESMに変更など",
             "tags": [
                 "GraphQL",
-                "library"
+                "library",
+                "ReleaseNote"
             ],
             "relatedLinks": []
         }
