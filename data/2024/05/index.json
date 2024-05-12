@@ -303,6 +303,17 @@
                     "url": "https://medium.com/@ehmicky/execa-9-release-d0d5daaa097f"
                 }
             ]
+        },
+        {
+            "date": "2024-05-12T06:07:32.560Z",
+            "title": "Bun v1.1.8 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.1.8",
+            "content": "Bun v1.1.8リリース。\n`process.on(\"uncaughtException\")`と`process.on(\"unhandledRejection\")`のサポート。\n`node:zlib`でBrotli APIをサポート、Bun APIがExplicit Resource Managementをサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
