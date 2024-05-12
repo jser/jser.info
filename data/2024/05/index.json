@@ -361,6 +361,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-12T06:32:49.465Z",
+            "title": "Why Patching Globals Is Harmful - kettanaito.com",
+            "url": "https://kettanaito.com/blog/why-patching-globals-is-harmful",
+            "content": "Global APIにmonkey patchする弊害について。\nFetch APIの挙動を各種上書きしているReact/Next.js/Bunについて",
+            "tags": [
+                "Fetch",
+                "JavaScript",
+                "article",
+                "opinion"
+            ],
+            "relatedLinks": []
         }
     ]
 }
