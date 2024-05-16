@@ -401,6 +401,18 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/126"
                 }
             ]
+        },
+        {
+            "date": "2024-05-16T00:03:29.311Z",
+            "title": "Merging Remix and React Router | Remix",
+            "url": "https://remix.run/blog/merging-remix-and-react-router",
+            "content": "RemixはReact Router v7としてリリースする予定という話。\nRemixとReact Routerは、Viteとサーバ以外はほぼ同等の機能になってきている。\nそのため、React RouterをRemixにマイグレーションするのではなく、React RouterをアップデートするだけでRemixの機能を使えるようにしたいという話。\n既存のRemixアプリは、import先のパッケージを`react-router`に変更するだけで動く予定という話。",
+            "tags": [
+                "React",
+                "Remix",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
