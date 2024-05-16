@@ -435,6 +435,17 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-16T15:05:04.582Z",
+            "title": "Node.js — Node v22.2.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v22.2.0",
+            "content": "Node.js v22.2.0リリース。\nfs.globが`withFileTypes`をサポート、`--inspect-wait=host:port`をサポート、`--experimental-policy`を削除。\n`node:test`に`test.plan`メソッドの追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
