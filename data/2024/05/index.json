@@ -446,6 +446,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-18T13:31:05.980Z",
+            "title": "Release 8.1.0 · google/zx",
+            "url": "https://github.com/google/zx/releases/tag/8.1.0",
+            "content": "zx 8.1.0リリース。\nESMとCJSの両方をサポート、Node.js 12から22までサポート、Deno 1.xとの互換性のサポート。\n`usePwsh()`の追加、`$.timeout`のサポート、`--cwd`フラグの追加など",
+            "tags": [
+                "nodejs",
+                "ShellScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
