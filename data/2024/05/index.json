@@ -496,7 +496,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2024-05-18T14:32:36.899Z",
+            "date": "2024-05-18T14:33:06.294Z",
             "title": "Digging for SSRF in NextJS apps",
             "url": "https://www.assetnote.io/resources/research/digging-for-ssrf-in-nextjs-apps",
             "content": "Next.js 14.1.1で修正されたSSRFの脆弱性について。\nServer Actionsで`redirect()`を使ったパスのリダレクとをしてるAPIがある場合に、Next.jsから任意のURLに対してGETリクエストした内容を取得できるSSRF脆弱性について",
@@ -509,6 +509,10 @@
                 {
                     "title": "Next.js Server-Side Request Forgery in Server Actions · CVE-2024-34351 · GitHub Advisory Database",
                     "url": "https://github.com/advisories/GHSA-fr5h-rqp8-mj6g"
+                },
+                {
+                    "title": "azu/nextjs-CVE-2024-34351: poc",
+                    "url": "https://github.com/azu/nextjs-CVE-2024-34351"
                 }
             ]
         }
