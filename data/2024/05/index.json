@@ -496,10 +496,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2024-05-18T14:33:06.294Z",
+            "date": "2024-05-18T14:33:21.294Z",
             "title": "Digging for SSRF in NextJS apps",
             "url": "https://www.assetnote.io/resources/research/digging-for-ssrf-in-nextjs-apps",
-            "content": "Next.js 14.1.1で修正されたSSRFの脆弱性について。\nServer Actionsで`redirect()`を使ったパスのリダレクとをしてるAPIがある場合に、Next.jsから任意のURLに対してGETリクエストした内容を取得できるSSRF脆弱性について",
+            "content": "Next.js 14.1.1で修正されたSSRFの脆弱性について。\nServer Actionsで`redirect()`を使ったパスリダイレクトをしてるAPIがある場合に、Next.jsから任意のURLに対してGETリクエストした内容を取得できるSSRF脆弱性について",
             "tags": [
                 "Next.js",
                 "security",
