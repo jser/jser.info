@@ -515,6 +515,17 @@
                     "url": "https://github.com/azu/nextjs-CVE-2024-34351"
                 }
             ]
+        },
+        {
+            "date": "2024-05-19T13:05:43.521Z",
+            "title": "Introducing the CSS anchor positioning API  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/anchor-positioning-api",
+            "content": "CSS Anchor Positioning APIについて。\nコンセプト、基本的な使い方、popover属性や`<dialog>`との組み合わせ、`@position-try`での代替の位置指定、スクロールとの組み合わせなど",
+            "tags": [
+                "CSS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
