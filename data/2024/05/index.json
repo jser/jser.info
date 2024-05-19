@@ -526,6 +526,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-19T13:10:06.196Z",
+            "title": "React Compiler – React",
+            "url": "https://react.dev/learn/react-compiler",
+            "content": "React Compilerが実験的に公開された。\nBabelプラグインとして実装されていて、opt-inでの導入方法や`react-compiler-healthcheck`での互換性のチェック、ESLintプラグインについて書かれている",
+            "tags": [
+                "React",
+                "babel",
+                "document"
+            ],
+            "relatedLinks": []
         }
     ]
 }
