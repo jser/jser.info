@@ -563,6 +563,25 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-21T00:36:18.210Z",
+            "title": "CVE-2024-4367 - Arbitrary JavaScript execution in PDF.js — Codean Labs",
+            "url": "https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/",
+            "content": "細工したPDFファイルをPDF.jsで表示する任意のJavaScriptが実行できるXSS脆弱性について。\nPDF.js v4.2.67で修正されている。また`isEvalSupported: false`にすることでも回避できる。\n",
+            "tags": [
+                "PDF",
+                "JavaScript",
+                "security",
+                "Electron",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "PDF.js vulnerable to arbitrary JavaScript execution upon opening a malicious PDF · CVE-2024-4367 · GitHub Advisory Database",
+                    "url": "https://github.com/advisories/GHSA-wgrm-67xf-hhpq"
+                }
+            ]
         }
     ]
 }
