@@ -582,6 +582,17 @@
                     "url": "https://github.com/advisories/GHSA-wgrm-67xf-hhpq"
                 }
             ]
+        },
+        {
+            "date": "2024-05-23T13:23:18.766Z",
+            "title": "Bun v1.1.9 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.1.9",
+            "content": "Bun v1.1.9リリース。\n最大255 DNSレコードを最大30秒キャッシュするように、`dns.prefetch()`/` dns.getCacheStats()`の追加。\n`bun --no-clear-screen --watch`のサポート、`msw`のサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
