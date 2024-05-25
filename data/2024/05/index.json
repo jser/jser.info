@@ -593,6 +593,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-25T12:51:16.252Z",
+            "title": "Release @ark-ui/react@3.0.0 · chakra-ui/ark",
+            "url": "https://github.com/chakra-ui/ark/releases/tag/%40ark-ui%2Freact%403.0.0",
+            "content": "Ark UI 3.0リリース。\nReact/Vue/Solid対応版がそれぞれリリースされている。\n3.0では`Context`/`Format`コンポーネントの追加、`HiddenInput`の扱いの変更、React 19に対応など",
+            "tags": [
+                "JavaScript",
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
