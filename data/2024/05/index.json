@@ -679,6 +679,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-26T14:06:13.435Z",
+            "title": "A virtual DOM in 200 lines of JavaScript – Marcelo Lazaroni – Developing for the Interwebs",
+            "url": "https://lazamar.github.io/virtual-dom/",
+            "content": "Virtual DOMを実装しながら仕組みについてみていく記事",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
