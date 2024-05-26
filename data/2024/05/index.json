@@ -629,6 +629,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-26T12:55:28.177Z",
+            "title": "Next.js 15 RC | Next.js",
+            "url": "https://nextjs.org/blog/next-15-rc",
+            "content": "Next.js 15 RCリリース。\nReact 19 RCに対応、React Compilerを実験的にサポート、Hydration Error表示の改善。\nFetch/`GET` Route Handler/Client Routerをデフォルトでキャッシュしないように変更、Partial Prerenderingの`incremental`オプションを追加。\n遅延処理をする`next/after`を追加、`create-next-app`のアップデート。\n非推奨だった`@next/font`のサポート削除など",
+            "tags": [
+                "Next.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
