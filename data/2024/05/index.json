@@ -640,6 +640,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-26T13:38:27.703Z",
+            "title": "esbuild 最適化芸人 - Speaker Deck",
+            "url": "https://speakerdeck.com/exoego/esbuild-zui-shi-hua-yun-ren",
+            "content": "esbuildを使ってバンドルサイズを最適化することでAWS LambdaのCold Startの時間を短縮することについてのスライド。",
+            "tags": [
+                "Lambda",
+                "esbuild",
+                "slide"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "exoego/esbuild-bundle-analyzer: Analyzes each PR's impact on esbuild bundle size",
+                    "url": "https://github.com/exoego/esbuild-bundle-analyzer"
+                }
+            ]
         }
     ]
 }
