@@ -704,6 +704,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-05-26T14:23:10.896Z",
+            "title": "Rethinking Text Resizing on Web. Airbnb has made significant strides in… | by Steven Bassett | The Airbnb Tech Blog | May, 2024 | Medium",
+            "url": "https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881",
+            "content": "Airbnbのアクセシビリティの取り組みとしてテキストサイズ/ズームを考慮して、`rem`を優先として使う意思決定をした背景、テストのアプローチ、Figma/デザイナーとの連携方法についてなど",
+            "tags": [
+                "accessibility",
+                "article",
+                "CSS"
+            ],
+            "relatedLinks": []
         }
     ]
 }
