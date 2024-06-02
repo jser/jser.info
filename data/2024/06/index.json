@@ -68,10 +68,10 @@
             ]
         },
         {
-            "date": "2024-06-02T14:51:36.262Z",
+            "date": "2024-06-02T14:55:34.282Z",
             "title": "React 19の新機能まるわかり",
             "url": "https://zenn.dev/uhyo/books/react-19-new",
-            "content": "React 19の変更点についてまとめた書籍。\nActionと`useTransition`、`useActionState`、`useOptimistic`、`use`。\n`<title>`などの対応、refCallback、Contextやrefの変更、`onCaughtError`オプションについてなど",
+            "content": "React 19の変更点についてまとめた書籍。\nActionと`useTransition`、`useActionState`、`useOptimistic`、`use`などのHooksについて。\nまた、`<title>`などの対応、refCallback、Contextやrefの変更、`onCaughtError`オプションについてなど",
             "tags": [
                 "React",
                 "book"
