@@ -93,6 +93,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-02T15:06:09.200Z",
+            "title": "Announcing Rspack v0.7 - Rspack",
+            "url": "https://www.rspack.dev/blog/announcing-0-7",
+            "content": "Rspack v0.7リリース。\nLazy Compilationのサポート、CSSビルドのパフォーマンス改善。\nUnstableなJavaScript APIを非推奨化、`@import`は他のルールよりもあることをチェックするように。",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v0.7.0 · web-infra-dev/rspack",
+                    "url": "https://github.com/web-infra-dev/rspack/releases/tag/v0.7.0"
+                }
+            ]
         }
     ]
 }
