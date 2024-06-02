@@ -66,6 +66,22 @@
                     "url": "https://github.com/pnpm/pnpm/pull/1799"
                 }
             ]
+        },
+        {
+            "date": "2024-06-02T14:51:36.262Z",
+            "title": "React 19の新機能まるわかり",
+            "url": "https://zenn.dev/uhyo/books/react-19-new",
+            "content": "React 19の変更点についてまとめた書籍。\nActionと`useTransition`、`useActionState`、`useOptimistic`、`use`。\n`<title>`などの対応、refCallback、Contextやrefの変更、`onCaughtError`オプションについてなど",
+            "tags": [
+                "React",
+                "book"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "React 19を概念から理解する - Speaker Deck",
+                    "url": "https://speakerdeck.com/player/98422ddec1914f339c53f9c299f80ce6?title=false&skipResize=true"
+                }
+            ]
         }
     ]
 }
