@@ -110,6 +110,17 @@
                     "url": "https://github.com/web-infra-dev/rspack/releases/tag/v0.7.0"
                 }
             ]
+        },
+        {
+            "date": "2024-06-02T15:10:51.325Z",
+            "title": "Deno 1.44: Private npm registries, improved Node.js compat, and performance boosts",
+            "url": "https://deno.com/blog/v1.44",
+            "content": "Deno v1.44リリース。\n`.npmrc`を使ったprivate npm registryのサポート、gRPC接続のサポート、V8のポインター圧縮によるメモリ使用量の削減。\n`Deno.exitCode`をStable化、`Response.prototype.bytes()`のサポートなど",
+            "tags": [
+                "dneo",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
