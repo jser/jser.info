@@ -82,6 +82,17 @@
                     "url": "https://speakerdeck.com/player/98422ddec1914f339c53f9c299f80ce6?title=false&skipResize=true"
                 }
             ]
+        },
+        {
+            "date": "2024-06-02T15:03:33.783Z",
+            "title": "Release v4.4.0 · honojs/hono",
+            "url": "https://github.com/honojs/hono/releases/tag/v4.4.0",
+            "content": "Hono v4.4.0リリース。\nJSRにパッケージを公開するように、`getConnInfo`を追加、`timeout` middlewareの追加など",
+            "tags": [
+                "Hono",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
