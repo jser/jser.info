@@ -36,6 +36,19 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-02T14:24:06.801Z",
+            "title": "Release v2.0.0-beta.5 · vitest-dev/vitest",
+            "url": "https://github.com/vitest-dev/vitest/releases/tag/v2.0.0-beta.5",
+            "content": "vitest v2.0.0-beta.5リリース。\n`--merge-reports`がカバレッジをサポート、Promiseベースのmockに対するAssertionの追加、ブラウザモードの改善など",
+            "tags": [
+                "vite",
+                "test",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
