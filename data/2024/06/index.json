@@ -49,6 +49,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-02T14:29:51.759Z",
+            "title": "Prettier 3.3: New Flow features and a lot of bug fixes · Prettier",
+            "url": "https://prettier.io/blog/2024/06/01/3.3.0.html",
+            "content": "Prettier 3.3リリース。\nFlowに追加された`declare name`/`component`構文をサポート、`gql` template literal内のGraphQLをサポート、pnpmの`package.yaml`のサポートなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "feat: support package.yaml and package.json5 by zkochan · Pull Request #1799 · pnpm/pnpm",
+                    "url": "https://github.com/pnpm/pnpm/pull/1799"
+                }
+            ]
         }
     ]
 }
