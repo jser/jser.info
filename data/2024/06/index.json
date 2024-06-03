@@ -132,6 +132,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-03T12:55:24.226Z",
+            "title": "How 1Password Used Esbuild to Cut Browser Extension Build Times | 1Password",
+            "url": "https://blog.1password.com/new-extension-build-system/",
+            "content": "esbuildのbundleとtscを使った型チェックを並列で実行するパターン、esbuildのMetafileを使ってbundle sizeを分析する方法について",
+            "tags": [
+                "TypeScript",
+                "esbuild",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
