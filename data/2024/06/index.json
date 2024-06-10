@@ -216,6 +216,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-10T15:05:14.834Z",
+            "title": "Release v1.0.0 · tinylibs/tinypool",
+            "url": "https://github.com/tinylibs/tinypool/releases/tag/v1.0.0",
+            "content": "tinypool 1.0.0リリース。\nNode.jsの`worker_threads`のWorker Poolの実装ライブラリ",
+            "tags": [
+                "nodejs",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
