@@ -228,6 +228,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-10T15:10:31.292Z",
+            "title": "Mastering Node.js Performance Hooks",
+            "url": "https://pavel-romanov.com/nodejs-performance-hooks-mastering-the-mental-model",
+            "content": "ユーザーの端末の影響を受けるwall clockとパフォーマンスの計測に適したmonotonic clockについて。\nNode.jsの`perf_hooks`モジュールで利用できる`PerformanceObserver`では monotonic clockの時間を取得でき、基本的な使い方についてなど",
+            "tags": [
+                "nodejs",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
