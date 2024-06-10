@@ -155,6 +155,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-10T13:06:36.175Z",
+            "title": "Release CLI v1.8.0 · biomejs/biome",
+            "url": "https://github.com/biomejs/biome/releases/tag/cli%2Fv1.8.0",
+            "content": "Biome v1.8.0リリース。\n`biome clean`コマンドを追加、`biome lint`に`--only`と`--skip`フラグを追加、CSSのformatとlintをサポートなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
