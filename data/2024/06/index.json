@@ -203,6 +203,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-10T14:44:57.947Z",
+            "title": "Storybook 8.1",
+            "url": "https://storybook.js.org/blog/storybook-8-1/",
+            "content": "Storybook 8.1リリース。\nStoryファイルを作成するUIの追加、Subpath importsを使ったモックの対応、Playwright Component Testの対応。\nReact 19/Angular 18のサポートなど",
+            "tags": [
+                "JavaScript",
+                "UI",
+                "test",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
