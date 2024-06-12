@@ -240,6 +240,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-12T03:01:09.037Z",
+            "title": "Turborepo 2.0",
+            "url": "https://turbo.build/blog/turbo-2-0",
+            "content": "Turborepo 2.0リリース。\nターミナルUIの刷新、`persistent`オプションの追加、`turbo watch`の追加、ドキュメントの刷新など。",
+            "tags": [
+                "JavaScript",
+                "monorepo",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
