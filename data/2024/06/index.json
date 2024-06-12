@@ -253,6 +253,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-12T03:23:46.626Z",
+            "title": "WebAssembly JSPI has a new API · V8",
+            "url": "https://v8.dev/blog/jspi-newapi",
+            "content": "WebAssemblyのJavaScript Promise Integrationについて",
+            "tags": [
+                "WebAssembly",
+                "Promises",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
