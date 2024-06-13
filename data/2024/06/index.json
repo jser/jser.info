@@ -306,10 +306,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2024-06-13T04:44:47.428Z",
+            "date": "2024-06-13T04:47:11.943Z",
             "title": "TypeScriptの型と値とバリデーション",
             "url": "https://zenn.dev/mizchi/articles/typescript-type-value-validation",
-            "content": "TypeScriptは基本的にはJavaScriptへ型情報が付与するだけであるため、Runtimeの動作としてはJavaScriptと変わらないという話。\nバリデーションと型について",
+            "content": "TypeScriptは基本的にはJavaScriptへ型情報を付与するだけであるため、Runtimeの動作としてはJavaScriptと変わらないという話。\nバリデーションと型について",
             "tags": [
                 "JavaScript",
                 "TypeScript",
