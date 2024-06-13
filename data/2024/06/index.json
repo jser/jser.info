@@ -281,6 +281,17 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/127"
                 }
             ]
+        },
+        {
+            "date": "2024-06-13T02:51:22.838Z",
+            "title": "Node.js — Node v22.3.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v22.3.0",
+            "content": "Node.js v22.3.0リリース。\n`Buffer`に`bytes()`を実装、experimentalフラグ付きでTest RunnerでのSnapshot Testingを実装、`NODE_RUN_SCRIPT_NAME`を追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
