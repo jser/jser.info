@@ -292,6 +292,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-13T04:38:38.624Z",
+            "title": "News from WWDC24: WebKit in Safari 18 beta | WebKit",
+            "url": "https://webkit.org/blog/15443/news-from-wwdc24-webkit-in-safari-18-beta/",
+            "content": "Safari 18 bettaの変更点について。\nView Transition APIのサポート、Style Queriesのサポート、`@starting-style`と　`display: none`の組み合わせをサポート。\n`justify-content: safe center`のサポート、`content-visibility`をサポート。\n`<input type=date>`のアクセシビリティの改善、`URL.parse()`のサポート、JPEG2000のサポートを削除など",
+            "tags": [
+                "webkit",
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
