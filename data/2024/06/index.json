@@ -348,6 +348,22 @@
                     "url": "https://nuxt.com/docs/getting-started/upgrade#testing-nuxt-4"
                 }
             ]
+        },
+        {
+            "date": "2024-06-15T12:04:28.927Z",
+            "title": "New in Chrome 126  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/new-in-chrome-126?hl=en",
+            "content": "Chrome 126リリース。\nCross-document view transitionsのサポート、CloseWatcher APIを再有効化。\nimport assertionの`assert`構文を削除など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chrome 126  |  Release notes  |  Chrome for Developers",
+                    "url": "https://developer.chrome.com/release-notes/126"
+                }
+            ]
         }
     ]
 }
