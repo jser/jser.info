@@ -332,6 +332,22 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-15T11:57:19.007Z",
+            "title": "Nuxt 3.12 · Nuxt Blog",
+            "url": "https://nuxt.com/blog/v3-12",
+            "content": "Nuxt v3.12リリース。\nNuxt 4の動作をopt-inして試せる`compatibilityVersion: 4`オプションの追加、`multiApp`オプションの追加、不要になったexprimentalオプションの削除など",
+            "tags": [
+                "Vue",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Upgrade Guide · Get Started with Nuxt",
+                    "url": "https://nuxt.com/docs/getting-started/upgrade#testing-nuxt-4"
+                }
+            ]
         }
     ]
 }
