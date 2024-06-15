@@ -376,6 +376,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-15T13:00:18.447Z",
+            "title": "Electron 31.0.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-31-0",
+            "content": "Electron 31リリース。\nChromium 125、Node.js 20.14、V8 12.6へアップデート。\nWebSQLの削除、File System APIのサポートなど",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
