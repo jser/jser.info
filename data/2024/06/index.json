@@ -410,6 +410,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-16T14:02:29.834Z",
+            "title": "Codemod partnering with the React team",
+            "url": "https://codemod.com/blog/react-announcement",
+            "content": "React 19に関するcodemod",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "codemod/packages/codemods/react/19 at main · codemod-com/codemod",
+                    "url": "https://github.com/codemod-com/codemod/tree/main/packages/codemods/react/19"
+                }
+            ]
         }
     ]
 }
