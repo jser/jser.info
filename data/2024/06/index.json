@@ -387,6 +387,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-16T13:35:02.467Z",
+            "title": "Release Version 8.12.0 · acornjs/acorn",
+            "url": "https://github.com/acornjs/acorn/releases/tag/8.12.0",
+            "content": "acorn 8.12.0リリース。\nES2025のduplicate capture group names in regular expressionsをサポートなど",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
