@@ -399,6 +399,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-16T13:43:37.434Z",
+            "title": "Bun v1.1.13 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.1.13",
+            "content": "Bun v1.1.13リリース。\n`worker_thread`の`eval`オプションをサポート、`URL.createObjectURL`のサポート、`expect`のカスタムメッセージをサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
