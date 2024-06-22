@@ -470,6 +470,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-22T02:24:31.866Z",
+            "title": "Announcing TypeScript 5.5 - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/",
+            "content": "TypeScript 5.5リリース。\n関数からtype predicatesを推論できるようになり、`Array.prototype.filter`などでの絞り込みが簡潔に書けるように。\nStage 3のSet Methodsをサポート。\nJSDocで`@import {foo} from \"foo\"`をサポート、正規表現の基本的な構文チェックをサポート、`isolatedDeclarations`をサポート。\n設定ファイル内で`${configDir}`のテンプレート値をサポート。\n`typescript`パッケージのサイズを削減、Named Importをサポート、`transpileDeclaration` APIの追加。\n`transpileModule`と`transpileDeclaration`でのビルド時間を改善。\n`out`や`target: ES3`などの非推奨となっていたオプションが無効化され、`ignoreDeprecations`オプションを指定しないと利用できなくなる変更など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
