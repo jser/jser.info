@@ -493,6 +493,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-22T13:39:28.291Z",
+            "title": "Node.js — Node v20.15.0 (LTS)",
+            "url": "https://nodejs.org/en/blog/release/v20.15.0",
+            "content": "Node.js v20.15.0リリース。\n`node:test`が`plan`メソッドをサポート、`--inspect-wait`フラグを追加、`zlib.crc32()`を追加、`--disable-wasm-trap-handler`フラグを追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
