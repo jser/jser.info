@@ -543,6 +543,17 @@
                     "url": "https://2ality.com/2024/06/ecmascript-2024.html"
                 }
             ]
+        },
+        {
+            "date": "2024-06-27T03:22:36.881Z",
+            "title": "Ecma International approves ECMAScript 2024: What’s new?",
+            "url": "https://2ality.com/2024/06/ecmascript-2024.html",
+            "content": "ES2024で追加された機能や構文についてのまとめ。\n`Object.groupBy`/`Map.groupBy`、`Promise.withResolvers`、`ArrayBuffers.prototype.resize`、`Atomics.waitAsync`など",
+            "tags": [
+                "ECMAScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
