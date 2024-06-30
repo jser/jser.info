@@ -578,6 +578,18 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-30T14:24:28.369Z",
+            "title": "es-tooling/eslint-plugin-depend: An ESLint plugin for suggesting optimisations in choice of dependency, native equivalents, etc.",
+            "url": "https://github.com/es-tooling/eslint-plugin-depend",
+            "content": "ネイティブで利用できるため無駄な依存やメンテナンスされていないパッケージなどを検出するESLintルール",
+            "tags": [
+                "ESLint",
+                "plugin",
+                "npm"
+            ],
+            "relatedLinks": []
         }
     ]
 }
