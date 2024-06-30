@@ -590,6 +590,17 @@
                 "npm"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-30T14:33:10.099Z",
+            "title": "Announcing Rspack v1.0 Alpha - Rspack",
+            "url": "https://www.rspack.dev/blog/announcing-1-0-alpha",
+            "content": "Rspack 1.0 Aplhaリリース\n`optimization.concatenateModule`の有効か、Lightning CSSをビルトインサポート。\nオプションを一部変更など",
+            "tags": [
+                "rspack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
