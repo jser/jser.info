@@ -565,6 +565,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-06-30T14:22:21.658Z",
+            "title": "e18e/e18e",
+            "url": "https://github.com/e18e/e18e",
+            "content": "JavaScriptのパッケージに関するガイドライン。\n依存を最新化するcleanup、無駄な依存を減らすspeedup、代替え方法を提供するlevelupという項目でそれぞれガイドが書かれている",
+            "tags": [
+                "JavaScript",
+                "npm",
+                "performance",
+                "document"
+            ],
+            "relatedLinks": []
         }
     ]
 }
