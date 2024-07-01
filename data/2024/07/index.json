@@ -10,6 +10,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-01T01:58:09.409Z",
+            "title": "Release Version 17.0.0 Release Notes · facebook/relay",
+            "url": "https://github.com/facebook/relay/releases/tag/v17.0.0",
+            "content": "Relay v17.0.0リリース。\nSchema Validationの追加、explicit error handlingとsemantic nullabilityを実験的に追加など",
+            "tags": [
+                "GraphQL",
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
