@@ -45,6 +45,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-01T13:07:58.015Z",
+            "title": "Release v1.45.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.45.0",
+            "content": "playwright v1.45.0リリース。\n時間を操作できるClock APIの追加、`--fail-on-flaky-tests`フラグの追加、`testConfig. respectGitIgnore`の追加など",
+            "tags": [
+                "playwright",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
