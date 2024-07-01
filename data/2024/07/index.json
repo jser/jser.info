@@ -1,0 +1,15 @@
+{
+    "list": [
+        {
+            "date": "2024-07-01T01:50:09.182Z",
+            "title": "Migrating to Next.js App Router with zero downtime — WorkOS",
+            "url": "https://workos.com/blog/migrating-to-next-js-app-router-with-zero-downtime",
+            "content": "Next.jsのPages RouterからApp Routerへの段階的な移行方法について。\n\n1. Next.jsのアップデート\n2. `useRouter`の移行\n3. 一時的な`/app/new`を作成\n4. `rewrites`を使ってクエリでのリダイレクト\n5. `/pages`の削除\n\nという手順で移行する方法について",
+            "tags": [
+                "Next.js",
+                "article"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
