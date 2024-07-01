@@ -56,6 +56,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-01T13:10:05.302Z",
+            "title": "Introducing React-Admin V5",
+            "url": "https://marmelab.com/blog/2024/06/20/react-admin-v5.html",
+            "content": "React-admin v5 リリース",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 5.0.0 · marmelab/react-admin",
+                    "url": "https://github.com/marmelab/react-admin/releases/tag/v5.0.0"
+                }
+            ]
         }
     ]
 }
