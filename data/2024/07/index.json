@@ -73,6 +73,19 @@
                     "url": "https://github.com/marmelab/react-admin/releases/tag/v5.0.0"
                 }
             ]
+        },
+        {
+            "date": "2024-07-01T13:12:39.197Z",
+            "title": "Polyfill supply chain attack hits 100K+ sites",
+            "url": "https://sansec.io/research/polyfill-supply-chain-attack",
+            "content": "`polyfill.io`から読み込んでるコードにはマルウェア的なバックドアが含まれるようになったという話。",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "security",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
