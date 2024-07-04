@@ -114,6 +114,17 @@
                     "url": "https://github.com/evanw/esbuild/releases/tag/v0.23.0"
                 }
             ]
+        },
+        {
+            "date": "2024-07-04T14:18:59.989Z",
+            "title": "Bun v1.1.18 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.1.18",
+            "content": "Bun v1.1.18リリース。\n`.npmrc`のサポート、`enum`のinliningの対応、定数のfoldingの改善など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
