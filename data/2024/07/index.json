@@ -125,6 +125,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-04T15:02:08.797Z",
+            "title": "Release 2024-07-02, Version 22.4.0 (Current), @targos · nodejs/node",
+            "url": "https://github.com/nodejs/node/releases/tag/v22.4.0",
+            "content": "Node.js 22.4.0リリース。\n実験的にWeb Storage API(`localStorage`/`sessionStorage`)のサポート、WebSocket APIをStableに変更など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
