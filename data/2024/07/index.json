@@ -181,6 +181,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-09T00:35:44.915Z",
+            "title": "Ladybird",
+            "url": "https://ladybird.org/announcement/",
+            "content": "LadybirdというSerenityOSの中で開発されていたブラウザがプロジェクトとして独立した。\nChromiumやWebKitなど既存のエンジンを使わずに一から書いているブラウザプロジェクト",
+            "tags": [
+                "browser",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "SerenityOS",
+                    "url": "https://serenityos.org/"
+                }
+            ]
         }
     ]
 }
