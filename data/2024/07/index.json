@@ -170,6 +170,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-09T00:33:57.074Z",
+            "title": "What's coming next for ESLint - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2024/07/whats-coming-next-for-eslint/",
+            "content": "ESLintの今後について。\n今まではJavaScriptのみをターゲットにしていたが、language pluginsによってjs以外の言語にも対応できるようにしたという話",
+            "tags": [
+                "ESLint",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
