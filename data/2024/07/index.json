@@ -197,6 +197,18 @@
                     "url": "https://serenityos.org/"
                 }
             ]
+        },
+        {
+            "date": "2024-07-10T00:39:58.564Z",
+            "title": "Node.js — Monday, July 8, 2024 Security Releases",
+            "url": "https://nodejs.org/en/blog/vulnerability/july-2024-security-releases",
+            "content": "Node.jsのセキュリティアップデートとして\n\n- Node v22.4.1 (Current)\n- Node v20.15.1 (LTS)\n- Node v18.20.4 (LTS)\n\nがリリースされている。",
+            "tags": [
+                "nodejs",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
