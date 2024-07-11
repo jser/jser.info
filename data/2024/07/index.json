@@ -209,6 +209,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-11T00:05:17.605Z",
+            "title": "pnpm 9.5 Introduces Catalogs: Shareable Dependency Version Specifiers - Socket",
+            "url": "https://socket.dev/blog/pnpm-9-5-introduces-catalogs-shareable-dependency-version-specifiers",
+            "content": "pnpm 9.5で導入されたカタログ機能について。\nmonorepoで同じパッケージのバージョンを参照させるパッケージのカタログを定義できる",
+            "tags": [
+                "pnpm",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
