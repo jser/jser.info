@@ -88,18 +88,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2024-07-03T00:11:20.689Z",
-            "title": "OpenAPI TypeScript",
-            "url": "https://openapi-ts.dev/",
-            "content": "OpenAPIのスキーマからTypeScriptの型定義やFetchするクライアントを扱えるツール/ライブラリ",
-            "tags": [
-                "TypeScript",
-                "OpenAPI",
-                "Tools"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2024-07-03T00:45:30.113Z",
             "title": "Release v0.22.0 · evanw/esbuild",
             "url": "https://github.com/evanw/esbuild/releases/tag/v0.22.0",
@@ -241,6 +229,19 @@
             "tags": [
                 "CSS",
                 "article"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2024-07-11T00:44:11.420Z",
+            "title": "OpenAPI TypeScript",
+            "url": "https://openapi-ts.dev/",
+            "content": "OpenAPIのスキーマからTypeScriptの型定義やFetchするクライアントを扱えるツール/ライブラリ",
+            "tags": [
+                "TypeScript",
+                "OpenAPI",
+                "Tools",
+                "library"
             ],
             "relatedLinks": []
         }
