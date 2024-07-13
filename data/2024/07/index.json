@@ -255,6 +255,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-13T05:53:37.825Z",
+            "title": "Deno 1.45: Workspace and Monorepo Support",
+            "url": "https://deno.com/blog/v1.45",
+            "content": "Deno v1.45リリース。\nnpm workspacesのサポート、Node.jsのコアパッケージとの互換性の向上、`--frozen`フラグの追加。\n`DENO_FUTURE=1`で`deno install <pkg>`ローカルにインストールするように変更、mpm life-cycle scriptのサポート。\n`deno init --lib`でJSRに対応したプロジェクトのセットアップをサポート、`deno vendor`を非推奨化。",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
