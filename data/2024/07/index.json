@@ -266,6 +266,25 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-13T12:51:25.421Z",
+            "title": "Mako - Extremely fast, Production-grade web bundler",
+            "url": "https://makojs.dev/",
+            "content": "Rustで書かれたbundler",
+            "tags": [
+                "webpack",
+                "bundler",
+                "Rust",
+                "Tools",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Mako - Mako is Now Open Source",
+                    "url": "https://makojs.dev/blog/mako-open-sourced"
+                }
+            ]
         }
     ]
 }
