@@ -285,6 +285,22 @@
                     "url": "https://makojs.dev/blog/mako-open-sourced"
                 }
             ]
+        },
+        {
+            "date": "2024-07-13T13:05:30.439Z",
+            "title": "Firefox 128.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/128.0/releasenotes/",
+            "content": "Firefox 128リリース。\nCSSのRelative color構文をサポート、`content`でのalt textをサポート。\n`ArrayBuffer.prototype.resize()`のサポート、`CSS.registerProperty()`のサポート。\n実験フラグ付きでCookies Having Independent Partitioned State (CHIPS)をサポートなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 128 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/128"
+                }
+            ]
         }
     ]
 }
