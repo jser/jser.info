@@ -323,6 +323,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-14T10:50:15.539Z",
+            "title": "Moving from express to fastify, pt 1",
+            "url": "https://blog.val.town/blog/fastify/",
+            "content": "expressからfastifyへの段階的な移行について。\n`@fastify/express`を使うことでルーティングごとに移行していった話",
+            "tags": [
+                "nodejs",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
