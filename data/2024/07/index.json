@@ -357,6 +357,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-17T12:45:23.660Z",
+            "title": "Private Browsing 2.0 | WebKit",
+            "url": "https://webkit.org/blog/15697/private-browsing-2-0/",
+            "content": "SafariのPrivate Browsingモードについて。\nSafari 17では、Lint Tracking Protection、CNAME-cloakingの対策、Fingerpritingの対策。\nまた、third-party IPアドレスを使ったcloakingの対策、Storageやblob URLsのparititionなども行われている。",
+            "tags": [
+                "safari",
+                "privacy",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
