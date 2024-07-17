@@ -395,6 +395,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-17T13:05:26.913Z",
+            "title": "Reading and writing Node.js streams",
+            "url": "https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams",
+            "content": "Node.js Streamについて。\nStreamの用途、Backpressure、基本的な読み込み、Async Iteratorを使った処理方法についてなど",
+            "tags": [
+                "nodejs",
+                "stream",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
