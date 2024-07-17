@@ -380,6 +380,21 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-17T13:01:52.040Z",
+            "title": "Poku - Making Testing Easy",
+            "url": "https://poku.io/",
+            "content": "Node.js/Bun/Denoで動作するテストフレームワーク。\n外部依存を最小限にして下位互換性を意識して作られており、assertionやサーバプロセスとの連携などテストフレームワークとして必要な機能を揃えている。",
+            "tags": [
+                "JavaScript",
+                "nodejs",
+                "Bun",
+                "deno",
+                "test",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
