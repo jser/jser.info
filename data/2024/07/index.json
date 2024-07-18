@@ -446,6 +446,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-18T00:28:52.489Z",
+            "title": "Second Beta of jQuery 4.0.0 | Official jQuery Blog",
+            "url": "https://blog.jquery.com/2024/07/17/second-beta-of-jquery-4-0-0/",
+            "content": "jQuery 4.0.0 beta 2リリース。\nESM Wrapperを使ったdual packagesのサポート、`hidden`属性などのbooleanと値を扱う属性のハンドリングのために`.attr`でboolean値の特別な処理を削除など\n",
+            "tags": [
+                "jQuery",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
