@@ -435,6 +435,17 @@
                     "url": "https://vitest.dev/guide/migration.html#migrating-to-vitest-2-0"
                 }
             ]
+        },
+        {
+            "date": "2024-07-18T00:24:44.490Z",
+            "title": "Node.js — Node v22.5.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v22.5.0",
+            "content": "Node.js v22.5.0リリース。\n`node:sqlite`モジュールの追加、`--experimental-require-module`で`__esModule`プロパティを考慮するように、`matchesGlob`メソッドの追加。\n`worker_threads`に`postMessageToThread`メソッドを追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
