@@ -457,6 +457,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-20T06:58:32.315Z",
+            "title": "Node.js — Node v22.5.1 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v22.5.1",
+            "content": "Node.js v22.5.1リリース。\nNode.js v22.5.0に含まれていた`npm ci`などがクラッシュするリグレッションを修正",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Fix the bug caused by fast api changes in v22.5.0 and have a post-mortem by anonrig · Pull Request #53934 · nodejs/node",
+                    "url": "https://github.com/nodejs/node/pull/53934?hss_channel=tw-91985735"
+                }
+            ]
         }
     ]
 }
