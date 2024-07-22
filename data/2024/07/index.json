@@ -524,6 +524,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-22T01:09:27.133Z",
+            "title": "It's official, Meteor 3.0 Official Release is out! - announce - Meteor.js forums",
+            "url": "https://forums.meteor.com/t/its-official-meteor-3-0-official-release-is-out/61860",
+            "content": "Meteor.js 3.0リリース。\n非同期の対応改善、Node.js 20のサポート、Expressのmiddlewareに対応など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Meteor 3.0 Migration Guide | Meteor 3.0 Migration Guide",
+                    "url": "https://v3-migration-docs.meteor.com/"
+                }
+            ]
         }
     ]
 }
