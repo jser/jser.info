@@ -513,6 +513,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-22T00:54:17.569Z",
+            "title": "Release pnpm 9.6 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v9.6.0",
+            "content": "pnpm v9.6.0リリース。\n`pnpm.executionEnv.nodeVersion`でNode.jsのバージョンを指定できるように。\n`catalogs:`のサポートの改善や修正など",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
