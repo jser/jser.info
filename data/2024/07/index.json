@@ -542,6 +542,18 @@
                     "url": "https://v3-migration-docs.meteor.com/"
                 }
             ]
+        },
+        {
+            "date": "2024-07-23T12:24:46.455Z",
+            "title": "July 22, 2024 Release – React Spectrum Releases",
+            "url": "https://react-spectrum.adobe.com/releases/2024-07-22.html",
+            "content": "React Spectrum July 22, 2024リリース。\nReact 19 RCの対応、TableView/ListView/ListBoxのVirtualizationの改善、Toastのfocus managementの改善など。\nアイコンをApache 2.0 Licenseに変更など",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
