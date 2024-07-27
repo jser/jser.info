@@ -568,10 +568,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2024-07-27T11:20:02.702Z",
+            "date": "2024-07-27T11:20:44.544Z",
             "title": "Sass: Node Sass is end-of-life",
             "url": "https://sass-lang.com/blog/node-sass-is-end-of-life/",
-            "content": "LibSassのNode.jsラッパーであるNode Sassのサポートが終了された。",
+            "content": "LibSassのNode.jsラッパーであるNode Sassのサポートが終了された。\nDartSassがアクティブメンテナンスされているため、そちらへの移行を推奨している",
             "tags": [
                 "nodejs",
                 "Sass",
