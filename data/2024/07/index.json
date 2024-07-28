@@ -578,6 +578,17 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-28T04:43:20.507Z",
+            "title": "Bun v1.1.21 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.1.21",
+            "content": "Bun v1.1.21リリース。\n`--fetch-preconnect=<url>`フラグの追加、Remixの対応改善、`bun build --packages=external`の追加など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
