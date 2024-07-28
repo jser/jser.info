@@ -616,6 +616,17 @@
                     "url": "https://eslint.org/blog/2022/07/interesting-bugs-caught-by-no-constant-binary-expression/"
                 }
             ]
+        },
+        {
+            "date": "2024-07-28T14:44:54.849Z",
+            "title": "Astro 4.12: Server Islands | Astro",
+            "url": "https://astro.build/blog/astro-4120/",
+            "content": "Astro 4.12リリース。\nNext.jsのPartial Prerenderingに類似する機能としてServer Islandsを実験的に追加、`inferRemoteSize`の追加など",
+            "tags": [
+                "astro",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
