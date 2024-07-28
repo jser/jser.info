@@ -589,6 +589,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-28T13:47:19.512Z",
+            "title": "Node.js — Node v20.16.0 (LTS)",
+            "url": "https://nodejs.org/en/blog/release/v20.16.0",
+            "content": "Node.js v20.16.0リリース。\n`process.getBuiltinModule(id)`を追加、OpenSSLのカスタムエンジンサポートの廃止に伴い `clientCertEngine` オプションを非推奨に変更など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
