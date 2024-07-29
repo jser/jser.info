@@ -650,6 +650,17 @@
                 "slide"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-29T01:00:35.515Z",
+            "title": "Node.jsのTypeScriptサポートについて",
+            "url": "https://gist.github.com/azu/ac5dafbf211ef8b5ecf386930ac75250",
+            "content": "Node.jsに実験的な機能としてTypeScriptのコードから型定義を取り除いてJavaScriptとして実行する`--experimental-strip-types`フラグが実装された経緯について",
+            "tags": [
+                "nodejs",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
