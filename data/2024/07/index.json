@@ -638,6 +638,18 @@
                 "Survey"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-07-29T00:50:44.328Z",
+            "title": "Temporalを取り巻く仕様を整理する - Speaker Deck",
+            "url": "https://speakerdeck.com/sajikix/temporalwoqu-rijuan-kushi-yang-wozheng-li-suru",
+            "content": "ECMAScript Proposal Stage 3のTemporalに関連する仕様についてのスライド。\nECMA-402、Unicode(CLDR)、IETF(BCP47/RFC3339/RFC9557)、IANA(Timezone)について",
+            "tags": [
+                "ECMAScript",
+                "i18n",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
