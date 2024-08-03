@@ -58,6 +58,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-03T07:14:47.064Z",
+            "title": "Porffor",
+            "url": "https://porffor.dev/",
+            "content": "WasmにコンパイルできるJavaScriptエンジン/コンパイラー/ランタイム。\nJavaScript/TypeScriptのコードをAOTコンパイルしてWasmにできるため、Wasmのファイルサイズが小さく効率的に動かせる。\nWasm to Cへのコンパイラなども実装している",
+            "tags": [
+                "JavaScript",
+                "WebAssembly",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "CanadaHonk/porffor: A from-scratch experimental AOT JS engine, written in JS",
+                    "url": "https://github.com/CanadaHonk/porffor"
+                }
+            ]
         }
     ]
 }
