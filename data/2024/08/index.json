@@ -86,6 +86,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-03T07:41:42.171Z",
+            "title": "How Airbnb Smoothly Upgrades React | by Andre Wiggins | The Airbnb Tech Blog | Jul, 2024 | Medium",
+            "url": "https://medium.com/airbnb-engineering/how-airbnb-smoothly-upgrades-react-b1d772a565fd",
+            "content": "AirbnbでのReactのアップデートについて。\nパッケージのalias機能を使い複数のReactバージョンを利用、SSRを行うサーバもあるため環境変数で使うバージョンを指定。\n同じコードから2つのReactバージョンで動くようにして、テストしながら段階的に移行していったという話。",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
