@@ -121,6 +121,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-05T23:58:59.365Z",
+            "title": "Release 3.38.0 - 2024.08.05 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.38.0",
+            "content": "core-js v3.38.0リリース。\n`RegExp.escape`/`Promise.try`/Uint8Array to/from base64 and hexをそれぞれのStage 3に移動。\nNode.js 22.3.0で追加された`process.getBuiltinModule`を利用するように",
+            "tags": [
+                "polyfill",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
