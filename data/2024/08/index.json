@@ -156,6 +156,19 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-07T11:29:00.410Z",
+            "title": "JSで書かれたECMAScript RegExpパーサーの比較 | Memory ice cubes",
+            "url": "https://leaysgur.github.io/posts/2024/08/05/143855/",
+            "content": "JavaScriptで書かれた正規表現パーサの比較。\nregjsparser/regexp-tree/regexpp",
+            "tags": [
+                "JavaScript",
+                "RegExp",
+                "AST",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
