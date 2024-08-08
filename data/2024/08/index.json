@@ -169,6 +169,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-08T13:05:18.224Z",
+            "title": "Node.js — Node v22.6.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v22.6.0",
+            "content": "Node.js v22.6.0リリース。\n実験的な機能として、型の記述を取り除いてTypeScriptファイルを実行する`--experimental-strip-types`フラグを追加。\nNode.js DevToolsでNetwork Inspectionをサポートする`--experimental-network-inspection`の追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
