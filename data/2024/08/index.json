@@ -180,6 +180,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-09T14:32:07.773Z",
+            "title": "Release pnpm 9.7 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v9.7.0",
+            "content": "pnpm v9.7.0リリース。\ncorepackのように`packageManager`フィールドを参照してpnpmのバージョン切り替える`manage-package-manager-versions`オプションを追加。\n`pnpm patch pkg`で全てのバージョンのパッケージにパッチを当てられるようになるなど",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
