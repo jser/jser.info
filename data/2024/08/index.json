@@ -191,6 +191,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-10T07:08:44.920Z",
+            "title": "Firefox 129.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/129.0/releasenotes/",
+            "content": "Firefox 129リリース。\nCSSの`@starting-style`/`transition-behavior`プロパティのサポート。\n`Float16Array`のサポート、Web Crypto APIでの`Ed25519`のサポートなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 129 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/129"
+                }
+            ]
         }
     ]
 }
