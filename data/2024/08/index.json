@@ -207,6 +207,23 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/129"
                 }
             ]
+        },
+        {
+            "date": "2024-08-10T07:22:40.643Z",
+            "title": "WebDriver BiDi production-ready in Firefox, Chrome and Puppeteer  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/firefox-support-in-puppeteer-with-webdriver-bidi",
+            "content": "Firefox 129でWebDriver BiDiをサポートしたため、Puppeteerが正式にFirefoxをサポートした。\n今まではFirefoxがCDP(Chrome DevTools Protocol)を部分的に実装していたが、Firefox 129でCDPはデフォルトで無効となる",
+            "tags": [
+                "Firefox",
+                "puppeteer",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 129 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/129"
+                }
+            ]
         }
     ]
 }
