@@ -244,6 +244,22 @@
                     "url": "https://servo.org/blog/2024/01/19/embedding-update/"
                 }
             ]
+        },
+        {
+            "date": "2024-08-12T11:25:20.706Z",
+            "title": "ESLint v9.9.0 released - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2024/08/eslint-v9.9.0-released/",
+            "content": "ESLint v9.9.0リリース。\n`eslint.config.ts`のサポート。\nTypeScriptの実行には`jiti`を利用している",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "jiti - npm",
+                    "url": "https://www.npmjs.com/package/jiti"
+                }
+            ]
         }
     ]
 }
