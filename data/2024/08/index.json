@@ -271,6 +271,17 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-12T13:30:10.691Z",
+            "title": "Now in Baseline: animating entry effects  |  Blog  |  web.dev",
+            "url": "https://web.dev/blog/baseline-entry-animations?hl=en",
+            "content": "CSSの`@starting-style` と `transition-behavior:allow-discrete`について。\n`@starting-style`にtransition開始時のスタイルが指定でき、`allow-discrete`によって`display:none`などの離散プロパティに対してtransitionが動くように",
+            "tags": [
+                "css ",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
