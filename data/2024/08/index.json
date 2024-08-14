@@ -295,6 +295,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-14T14:34:24.927Z",
+            "title": "postgres.new: In-browser Postgres with an AI interface",
+            "url": "https://supabase.com/blog/postgres-new",
+            "content": "PostgrasをWasmとして動かすPGliteを使ってブラウザ上で分析やビジュアライズができる postgres.new についｔ",
+            "tags": [
+                "PostgreSQL",
+                "browser",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
