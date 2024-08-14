@@ -323,6 +323,21 @@
                     "url": "https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/"
                 }
             ]
+        },
+        {
+            "date": "2024-08-14T15:14:39.913Z",
+            "title": "ソースコードを解析して社内向けUIライブラリの使用状況を自動で集計する",
+            "url": "https://tech.plaid.co.jp/analyze-internal-ui-library-usage",
+            "content": "デザインシステムのUIコンポーネントがどのプロダクトで利用されているかを集計するGitHub Actionsで動くスクリプトについて。\n実際にデザインシステムが提供してるUIを利用している回数や場所などの使用状況を可視化することで、使われてないものを削除できるようにする仕組み",
+            "tags": [
+                "TypeScript",
+                "JavaScript",
+                "Design",
+                "React",
+                "Tools",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
