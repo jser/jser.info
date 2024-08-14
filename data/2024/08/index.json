@@ -307,6 +307,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-14T14:59:00.053Z",
+            "title": "0.0.0.0 Day: Exploiting Localhost APIs From the Browser | Oligo Security",
+            "url": "https://www.oligo.security/blog/0-0-0-0-day-exploiting-localhost-apis-from-the-browser",
+            "content": "ウェブサイトから`0.0.0.0`へのリクエストが通る問題とその対策について。\nブラウザからのロールポートスキャンやPrivate Network Accessのブロック方法についてなど",
+            "tags": [
+                "browser",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
