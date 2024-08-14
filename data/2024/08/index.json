@@ -282,6 +282,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-14T14:28:49.904Z",
+            "title": "Release Release v1.7.4 · axios/axios",
+            "url": "https://github.com/axios/axios/releases/tag/v1.7.4",
+            "content": "axios v1.7.4リリース。\nCVE-2024-39338のSSRFの対応。\nサーバでのみ`baseURL`が指定されている場合でも、`//example.com`のようなprotocol-relative URLで`baseURL`を無視できたのを、強制的に相対パスとして扱うように変更。",
+            "tags": [
+                "HTTP",
+                "security",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
