@@ -350,6 +350,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-17T14:07:31.834Z",
+            "title": "WebdriverIO v9 Released | WebdriverIO",
+            "url": "https://webdriver.io/blog/2024/08/15/webdriverio-v9-release/",
+            "content": "WebdriverIO v9.リリース。\nWebDriver BiDiをサポート、`url`コマンドの追加、`addInitScript`コマンドの追加、`setViewport`コマンドの追加、ShadowRootのサポート。\n`emulate`コマンドでClockのエミュレーションサポート、要素がinteractiveになるまで自動的に待機する変更など。",
+            "tags": [
+                "webdriver",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
