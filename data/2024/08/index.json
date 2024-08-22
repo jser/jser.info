@@ -373,6 +373,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-22T14:00:51.405Z",
+            "title": "Bun v1.1.25 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.1.25",
+            "content": "Bun v1.1.25リリース。\n`node:cluster`のサポート、V8のinteral APIを部分的にサポート、`bun build --compile`で指定したファイルをバイナリ内にファイルを埋め込めるようになるなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
