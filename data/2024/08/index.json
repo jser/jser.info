@@ -419,6 +419,19 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-22T14:19:02.515Z",
+            "title": "Release v15.0.0 · capricorn86/happy-dom",
+            "url": "https://github.com/capricorn86/happy-dom/releases/tag/v15.0.0",
+            "content": "Happy DOM v15.0.0リリース。\nNode.js 18未満のサポート終了、`HTML*Element`のサポートの追加など",
+            "tags": [
+                "nodejs",
+                "DOM",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
