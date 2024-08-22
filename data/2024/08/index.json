@@ -384,6 +384,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-22T14:08:50.042Z",
+            "title": "blocking=render: Why would you do that?! – Harry Roberts – Web Performance Consultant",
+            "url": "https://csswizardry.com/2024/08/blocking-render-why-whould-you-do-that/",
+            "content": "`blocking=render`について。\nアンチフリッカースニペットのような意図的にページを非表示状態にしたい場合のユースケースについて",
+            "tags": [
+                "HTML",
+                "browser",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
