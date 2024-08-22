@@ -362,6 +362,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-22T05:16:02.300Z",
+            "title": "Node.js — Node v20.17.0 (LTS)",
+            "url": "https://nodejs.org/en/blog/release/v20.17.0",
+            "content": "Node.js v20.17.0リリース。\nESMを`require()`でロードできる`--experimental-require-module`フラグを追加,\nGlobパターンの判定ができる`path.matchesGlob`を追加。\nDuplexPair APIの公開など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
