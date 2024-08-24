@@ -466,6 +466,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-24T11:49:55.445Z",
+            "title": "Release v1.0.0-rc.0 · web-infra-dev/rspack",
+            "url": "https://github.com/web-infra-dev/rspack/releases/tag/v1.0.0-rc.0",
+            "content": "rspack v1.0.0-rc.0リリース。\neval-source-mapのパフォーマンス改善、`HtmlRspackPlugin`がエスケープ構文をサポートなど",
+            "tags": [
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
