@@ -502,6 +502,17 @@
                 "plugin"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-24T13:45:24.895Z",
+            "title": "Electron 32.0.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-32-0",
+            "content": "Electron 32リリース。\nChromium 128/Node.js 20.16.0/V8 12.8にアップデート、`webcontents.navigationHistory` APIの追加、`zstd`に対応など。\n`File`オブジェクトから非標準な`path`プロパティを削除といった破壊的な変更も含まれている",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
