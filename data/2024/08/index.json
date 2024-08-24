@@ -477,6 +477,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-24T13:24:08.348Z",
+            "title": "Nuxt 3.13 · Nuxt Blog",
+            "url": "https://nuxt.com/blog/v3-13",
+            "content": "Nuxt v3.13リリース。\nRoute Groupsのサポート、`NuxtLink`に`prefetchOn`を追加、`@vue/runtime-core`の型を拡張しないように変更など",
+            "tags": [
+                "Vue",
+                "Nuxt",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
