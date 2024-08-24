@@ -432,6 +432,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-24T06:13:50.784Z",
+            "title": "Node.jsで型安全な環境変数を扱うスニペット | Web Scratch",
+            "url": "https://efcl.info/2024/08/24/type-safe-env/",
+            "content": "Node.jsで環境変数をTypeScript定義、コマンドに対して環境変数のセットを型安全に渡す方法について",
+            "tags": [
+                "nodejs",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
