@@ -444,6 +444,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-24T07:57:27.750Z",
+            "title": "Announcing TypeScript 5.6 RC - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-rc/",
+            "content": "TypeScript 5.6 RCリリース。\nESLintの`no-constant-binary-expression`と似た常にtrue/nullishとなる間違った書き方をエラーにする変更、Iterator Helperのサポート。\nES2022のArbitrary module namespace identifier namesをサポート、`--noUncheckedSideEffectImports`フラグの追加。\n型チェックせずにファイルを出力できる`--noCheck`フラグの追加、`--stopOnBuildErrors`フラグの追加など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
