@@ -455,6 +455,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-24T08:12:03.405Z",
+            "title": "Node.js — Node v22.7.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v22.7.0",
+            "content": "Node.js v22.7.0リリース。\nTypeScriptの`enum`と`namaspace`の変換を行う`--experimental-transform-types`フラグの追加。\nあいまいなJSをCommonJSかES Modulesかを判定して実行する`--experimental-detect-module`フラグをデフォルトで有効化、Bufferのパフォーマンス改善など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
