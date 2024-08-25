@@ -535,6 +535,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-25T15:05:30.118Z",
+            "title": "Release Version 25.0.0 · jsdom/jsdom",
+            "url": "https://github.com/jsdom/jsdom/releases/tag/25.0.0",
+            "content": "jsdom 25.0.0リリース。\n`EventTarget.prototype`の参照先をjsdom内の`Object.prototype`に変更。\n",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
