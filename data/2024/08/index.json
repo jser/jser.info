@@ -558,6 +558,23 @@
                 "mail"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-28T14:21:56.863Z",
+            "title": "Announcing Rspack 1.0 - Rspack",
+            "url": "https://rspack.dev/blog/announcing-1-0",
+            "content": "webpackとの互換性を重視したRustで書かれたbundlerであるRspack 1.0リリース。",
+            "tags": [
+                "rspack",
+                "ReleaseNote",
+                "webpack"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migrating from Rspack 0.x - Rspack",
+                    "url": "https://rspack.dev/guide/migration/rspack_0.x"
+                }
+            ]
         }
     ]
 }
