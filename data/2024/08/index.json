@@ -691,6 +691,19 @@
                     "url": "https://github.com/sveltejs/svelte/releases/tag/svelte%404.2.19"
                 }
             ]
+        },
+        {
+            "date": "2024-08-31T07:11:18.558Z",
+            "title": "Material UI v6 is out now 🎉 - MUI",
+            "url": "https://mui.com/blog/material-ui-v6-is-out/",
+            "content": "Material UI v6リリース。\nCSS theme variablesの追加、Color schemesでのLight/Dark modeの切り替え、Container queriesのサポート。\nPigment CSSによるZero Runtime Stylingの仕組みをopt-inで導入、React 19の対応など",
+            "tags": [
+                "React",
+                "UI",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
