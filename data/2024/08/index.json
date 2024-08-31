@@ -626,6 +626,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-08-31T06:02:55.449Z",
+            "title": "monorepo内でのパッケージのバージョンを1つだけに統一するOne Version Ruleをpnpm catalogで実装する - newmo 技術ブログ",
+            "url": "https://tech.newmo.me/entry/one-version-rule-built-on-pnpm-catalog",
+            "content": "pnpm catalogを使い、monorepo内で依存するライブラリのバージョンを1つだけにする方法について。\npnpm 9.5で導入されたcatalogを使い依存するパッケージの一覧を管理、`.pnpmfile.cjs`のhooksを使いcatalogで管理されてない依存をエラーとする実装について。",
+            "tags": [
+                "npm",
+                "pnpm",
+                "monorepo",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
