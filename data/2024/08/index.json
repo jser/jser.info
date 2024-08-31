@@ -615,6 +615,17 @@
                     "url": "https://github.com/pmndrs/valtio/blob/main/docs/guides/migrating-to-v2.mdx"
                 }
             ]
+        },
+        {
+            "date": "2024-08-31T05:58:31.041Z",
+            "title": "Release Notes for Safari Technology Preview 202 | WebKit",
+            "url": "https://webkit.org/blog/15798/release-notes-for-safari-technology-preview-202/",
+            "content": "Safari Technology Preview 202リリース。\nCSSの`background-clip: border-area`/`ruby-align`、`shape()` function/`@page`で`jis-b4`と`jis-b5`のサポートなど。\nES Proposal Stage 3のFloat16Arrayの実装、`WebAssembly.{Memory/Table}.prototype.type()`の実装。\nWasm GC/Wasm Tail Callsのサポート、JITなしでWebAssemblyを実行できるようになるなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
