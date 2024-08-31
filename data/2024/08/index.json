@@ -673,6 +673,24 @@
                     "url": "https://www.bram.us/2024/08/31/introducing-bramus-style-observer-a-mutationobserver-for-css/"
                 }
             ]
+        },
+        {
+            "date": "2024-08-31T06:56:57.269Z",
+            "title": "Svelte has a potential mXSS vulnerability due to improper HTML escaping · CVE-2024-45047 · GitHub Advisory Database",
+            "url": "https://github.com/advisories/GHSA-8266-84wp-wv5c",
+            "content": "Svelteの`<noscript>`内の要素の属性値にユーザー入力を入れている場合に発生するXSSを修正。\nSvelte 4.2.19で修正されている。",
+            "tags": [
+                "Svelte",
+                "security",
+                "ReleaseNote",
+                "XSS"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release svelte@4.2.19 · sveltejs/svelte",
+                    "url": "https://github.com/sveltejs/svelte/releases/tag/svelte%404.2.19"
+                }
+            ]
         }
     ]
 }
