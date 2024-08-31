@@ -656,6 +656,23 @@
                     "url": "https://www.frontend-conf.jp/"
                 }
             ]
+        },
+        {
+            "date": "2024-08-31T06:31:52.561Z",
+            "title": "bramus/style-observer: MutationObserver for CSS. Get notified when the computed value of a CSS property changes.",
+            "url": "https://github.com/bramus/style-observer",
+            "content": "Mutation Observerのようにスタイルの変化を監視するライブラリ。\n短いtransitionと`transition-behavior: allow-discrete;`を使うことで、`transitionstart`イベントを見て変化を検知している",
+            "tags": [
+                "css ",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing @bramus/style-observer, a MutationObserver for CSS – Bram.us",
+                    "url": "https://www.bram.us/2024/08/31/introducing-bramus-style-observer-a-mutationobserver-for-css/"
+                }
+            ]
         }
     ]
 }
