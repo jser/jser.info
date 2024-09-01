@@ -1,0 +1,25 @@
+{
+    "list": [
+        {
+            "date": "2024-09-01T02:05:59.363Z",
+            "title": "DOM Clobbering Gadget found in Webpack's AutoPublicPathRuntimeModule that leads to XSS · Advisory · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/security/advisories/GHSA-4vvj-4cpr-p986",
+            "content": "webpackのセキュリティリリース。\nユーザーが任意の属性を含む`<img>`タグをかける場合に、webpackの`publicPath: 'auto'`が有効なbundleを読み込むとXSSが発生する問題。\nwebpack 5.94.0で修正された。",
+            "tags": [
+                "webpack",
+                "ReleaseNote",
+                "security"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v5.94.0 · webpack/webpack",
+                    "url": "https://github.com/webpack/webpack/releases/tag/v5.94.0"
+                },
+                {
+                    "title": "security: fix DOM clobbering in auto public path by alexander-akait · Pull Request #18700 · webpack/webpack",
+                    "url": "https://github.com/webpack/webpack/pull/18700"
+                }
+            ]
+        }
+    ]
+}
