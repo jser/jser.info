@@ -31,6 +31,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-01T04:03:35.082Z",
+            "title": "Common misconceptions about how to optimize LCP  |  Blog  |  web.dev",
+            "url": "https://web.dev/blog/common-misconceptions-lcp?hl=en",
+            "content": "Largest Contentful Paint (LCP)の最適化に関するよくある誤解について。\n画像サイズの最適化は、p75タイルのLCPの10%未満の影響であることが多く、TTFBやリソースロードの優先度の問題がLCPに強く影響してるケースについて",
+            "tags": [
+                "browser",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
