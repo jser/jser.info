@@ -108,6 +108,23 @@
                     "url": "http://example.com/"
                 }
             ]
+        },
+        {
+            "date": "2024-09-06T01:21:53.334Z",
+            "title": "Release v9.0.0 · faker-js/faker",
+            "url": "https://github.com/faker-js/faker/releases/tag/v9.0.0",
+            "content": "\nNode.js Faker v9.0.0リリース。\nNode.js 14,16のサポート終了、localeごとのimportができるように、RNGのseedの扱いの変更など、非推奨なAPIの削除など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Upgrading to v9 | Faker",
+                    "url": "https://v9.fakerjs.dev/guide/upgrading.html"
+                }
+            ]
         }
     ]
 }
