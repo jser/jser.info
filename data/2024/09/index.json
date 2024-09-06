@@ -125,6 +125,17 @@
                     "url": "https://v9.fakerjs.dev/guide/upgrading.html"
                 }
             ]
+        },
+        {
+            "date": "2024-09-06T01:23:45.193Z",
+            "title": "Node.js — Node v22.8.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v22.8.0",
+            "content": "Node.js v22.8.0リリース。\n`module.enableCompileCache()` APIの追加、`vm.createContext()`に`vm.constants.DONT_CONTEXTIFY`を追加。\nカバレッジのしきい値をチェックできる`--experimental-test-coverage`フラグの追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
