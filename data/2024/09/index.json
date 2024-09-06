@@ -91,6 +91,23 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-06T01:19:04.149Z",
+            "title": "Release v8.0.0 · redwoodjs/redwood",
+            "url": "https://github.com/redwoodjs/redwood/releases/tag/v8.0.0",
+            "content": "Redwood v8.0.0リリース。\nBackground Jobの対応、SSRとRSCの対応改善、StorybookにViteを使うように、Dockerのサポートなど",
+            "tags": [
+                "nodejs",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Dummy",
+                    "url": "http://example.com/"
+                }
+            ]
         }
     ]
 }
