@@ -163,6 +163,17 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/130"
                 }
             ]
+        },
+        {
+            "date": "2024-09-07T07:18:04.925Z",
+            "title": "Release v1.47.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.47.0",
+            "content": "playwright v1.47.0リリース。\nNetwork Tabの改善、`--tsconfig`フラグの追加、Playwright ImageをUbuntu 24.04ベースに変更など",
+            "tags": [
+                "playwright",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
