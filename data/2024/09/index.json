@@ -209,6 +209,17 @@
                 "Extension"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-08T13:16:01.295Z",
+            "title": "What’s new in React 19 – Vercel",
+            "url": "https://vercel.com/blog/whats-new-in-react-19",
+            "content": "React 19の新しい機能についての紹介。\nServer Component、Server Action、`useActionState`/`useFormState`/`useOptimistic`/`use`などの新しいHooks。\nリソースのpreload、`ref` callback、`<title>`などのメタデータの対応。\nCustom Elementの対応、エラー表示の改善など",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
