@@ -185,6 +185,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-08T12:13:12.946Z",
+            "title": "Bun v1.1.27 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.1.27",
+            "content": "Bun v1.1.27リリース。\n`node:zlib`のパフォーマンス改善、`npm pack`と同等の処理をする`bun pm pack`コマンドを追加。\n`Bun.serve()`にStatic routesの追加、`--max-http-header-size`フラグの追加など",
+            "tags": [
+                "bum",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
