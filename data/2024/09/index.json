@@ -232,6 +232,19 @@
                     "url": "https://redwoodjs.com/upgrade/v8"
                 }
             ]
+        },
+        {
+            "date": "2024-09-12T14:11:00.274Z",
+            "title": "Biome v1.9 Anniversary Release | Biome",
+            "url": "https://biomejs.dev/blog/biome-v1-9/",
+            "content": "Biome v1.9リリース。\nCSSのFormatter/LinterがStableに、GraphQLのFormatter/Linterを追加。\nGritQLを使った`biome search`コマンドを追加、`.editorconfig`をサポートなど",
+            "tags": [
+                "JavaScript",
+                "Rust",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
