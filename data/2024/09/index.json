@@ -278,6 +278,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-15T13:41:43.147Z",
+            "title": "Release 5.0.0 · expressjs/express",
+            "url": "https://github.com/expressjs/express/releases/tag/v5.0.0",
+            "content": "express v5.0.0のpreリリース。\nマイグレーションガイドやTypeScriptの型の更新などがまだ残っている",
+            "tags": [
+                "express",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Express v4 -> v5 Migration · Issue #5944 · expressjs/express",
+                    "url": "https://github.com/expressjs/express/issues/5944"
+                }
+            ]
         }
     ]
 }
