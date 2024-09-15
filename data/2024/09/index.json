@@ -319,6 +319,28 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-15T14:00:51.890Z",
+            "title": "storybook/CHANGELOG.md at next · storybookjs/storybook",
+            "url": "https://github.com/storybookjs/storybook/blob/next/CHANGELOG.md#830",
+            "content": "Storybook 8.3リリース。\nVitestを使ったComponent Testのサポート、バンドルサイズの改善など",
+            "tags": [
+                "JavaScript",
+                "UI",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Component testing in Storybook",
+                    "url": "https://storybook.js.org/blog/component-testing/"
+                },
+                {
+                    "title": "Storybook 8.3 で導入された Vitest 対応を React と Next.js で試す",
+                    "url": "https://zenn.dev/yumemi_inc/articles/storybook-8-3-vitest"
+                }
+            ]
         }
     ]
 }
