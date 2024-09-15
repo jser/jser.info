@@ -294,6 +294,18 @@
                     "url": "https://github.com/expressjs/express/issues/5944"
                 }
             ]
+        },
+        {
+            "date": "2024-09-15T13:46:05.322Z",
+            "title": "More NPM packages on Cloudflare Workers: Combining polyfills and native code to support Node.js APIs",
+            "url": "https://blog.cloudflare.com/more-npm-packages-on-cloudflare-workers-combining-polyfills-and-native-code/",
+            "content": "Cloudflare WorkerのNode.js互換性のアップデートについて。\n`node:` prefixのサポート、Node.jsの標準モジュールのサポート改善などが含まれる。\n`nodejs_compat_v2`が設定されている場合に有効となる。",
+            "tags": [
+                "cloudflare",
+                "article",
+                "nodejs"
+            ],
+            "relatedLinks": []
         }
     ]
 }
