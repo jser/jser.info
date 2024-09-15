@@ -341,6 +341,17 @@
                     "url": "https://zenn.dev/yumemi_inc/articles/storybook-8-3-vitest"
                 }
             ]
+        },
+        {
+            "date": "2024-09-15T14:05:24.287Z",
+            "title": "The State of ES5 on the Web — Philip Walton",
+            "url": "https://philipwalton.com/articles/the-state-of-es5-on-the-web/",
+            "content": "ビルドツール/著名なライブラリ/ウェブサイトのES5対応の現状についてまとめた記事。\nBabelとTypeScriptはデフォルトでES5として出力している。\n多くのライブラリはES2015+以降のコードを含んでいる。\n89%のサイトはES2015+の構文を含むコードを配信している。",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
