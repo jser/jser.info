@@ -377,6 +377,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-17T08:24:54.524Z",
+            "title": "Release v4.0.0 · date-fns/date-fns",
+            "url": "https://github.com/date-fns/date-fns/releases/tag/v4.0.0",
+            "content": "date-fns v4.0.0リリース。\nTimeZoneをサポート、ESMとCJSのdual packageに変更など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "v4.0 is out with first-class time zones support!",
+                    "url": "https://blog.date-fns.org/v40-with-time-zone-support/"
+                }
+            ]
         }
     ]
 }
