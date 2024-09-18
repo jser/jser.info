@@ -394,6 +394,17 @@
                     "url": "https://blog.date-fns.org/v40-with-time-zone-support/"
                 }
             ]
+        },
+        {
+            "date": "2024-09-18T13:57:22.731Z",
+            "title": "Node.js — Node v22.9.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v22.9.0",
+            "content": "Node.js v22.9.0リリース。\n`node:util`に`getCallSite`を追加、V8 Maglevを無効化など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
