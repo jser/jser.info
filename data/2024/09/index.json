@@ -405,6 +405,28 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-19T22:46:44.975Z",
+            "title": "Release v5.0.0 · fastify/fastify",
+            "url": "https://github.com/fastify/fastify/releases/tag/v5.0.0",
+            "content": "fastify v5.0.0リリース。\nNode.js 20未満のサポート終了、非推奨のAPIを削除など",
+            "tags": [
+                "nodejs",
+                "server",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Fastify v5 is HERE! - YouTube",
+                    "url": "https://www.youtube.com/watch?v=M57Vi8NnxUM"
+                },
+                {
+                    "title": "V5 Migration Guide | Fastify",
+                    "url": "https://fastify.dev/docs/latest/Guides/Migration-Guide-V5/"
+                }
+            ]
         }
     ]
 }
