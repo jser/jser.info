@@ -427,6 +427,18 @@
                     "url": "https://fastify.dev/docs/latest/Guides/Migration-Guide-V5/"
                 }
             ]
+        },
+        {
+            "date": "2024-09-21T03:31:27.529Z",
+            "title": "bloomberg/ts-blank-space: A small, fast, pure JavaScript type-stripper that uses the official TypeScript parser.",
+            "url": "https://github.com/bloomberg/ts-blank-space",
+            "content": "TypeScriptのコードから型だけを取り除いてJavaScriptとして実行するツール。\n元のコードの位置をそのまま保つことでSource Mapを不要な変換を行っている",
+            "tags": [
+                "nodejs",
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
