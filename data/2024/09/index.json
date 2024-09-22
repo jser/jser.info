@@ -495,6 +495,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-22T12:52:36.267Z",
+            "title": "Astro 5.0 Beta Release | Astro",
+            "url": "https://astro.build/blog/astro-5-beta/",
+            "content": "Astro 5.0 betaリリース。\nContent LayerとServer IslandsがStableに、`astro:env`の追加など",
+            "tags": [
+                "astro",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Astro v5.0-beta | Docs",
+                    "url": "https://5-0-0-beta.docs.astro.build/en/guides/upgrade-to/v5/"
+                }
+            ]
         }
     ]
 }
