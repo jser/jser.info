@@ -450,6 +450,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-22T08:35:54.784Z",
+            "title": "line/ts-remove-unused: Remove unused code from your TypeScript project",
+            "url": "https://github.com/line/ts-remove-unused",
+            "content": "TypeScriptのコードの利用されてない変数やexportを削除するツール",
+            "tags": [
+                "TypeScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
