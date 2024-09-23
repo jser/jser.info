@@ -474,17 +474,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2024-09-22T11:55:04.001Z",
-            "title": "Deno 2.0 Release Candidate",
-            "url": "https://deno.com/blog/v2.0-release-candidate",
-            "content": "Deno v2.0 RCリリース。\nグローバルな`window`を削除/`process`を追加、`deno add`で`jsr:`と`npm:`の識別子を指定して追加できるように、パーミッションの指定に関する挙動の変更。\nWebGPU/`Deno.dlopen()`/`Deno.createHttpClient()`がStableに、非推奨なAPIやコマンドの削除。\n`deno run`でCommonJSを実行可能に、Top Level awaitを含まないESMを`require()`で読み込めるように、Node.jsとの互換性をの改善。\n`deno test --doc`でDocTestをサポート、TypeScript 5.6へアップデートなど",
-            "tags": [
-                "deno",
-                "ReleaseNote"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2024-09-22T12:16:53.646Z",
             "title": "Release 4.0.0 · paulmillr/chokidar",
             "url": "https://github.com/paulmillr/chokidar/releases/tag/4.0.0",
@@ -565,6 +554,17 @@
             "tags": [
                 "JavaScript",
                 "article"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2024-09-23T03:02:48.586Z",
+            "title": "Deno 2.0 Release Candidate",
+            "url": "https://deno.com/blog/v2.0-release-candidate",
+            "content": "Deno v2.0 RCリリース。\nグローバルな`window`を削除/`process`を追加、`deno add`で`jsr:`と`npm:`の識別子を指定して追加できるように、パーミッションの指定に関する挙動の変更。\nWebGPU/`Deno.dlopen()`/`Deno.createHttpClient()`がStableに、非推奨なAPIやコマンドの削除。\n`deno run`でCommonJSを実行可能に、Top Level awaitを含まないESMを`require()`で読み込めるように、Node.jsとの互換性を改善。\n`deno test --doc`でDocTestをサポート、TypeScript 5.6へアップデートなど",
+            "tags": [
+                "deno",
+                "ReleaseNote"
             ],
             "relatedLinks": []
         }
