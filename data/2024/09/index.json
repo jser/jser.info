@@ -522,6 +522,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-23T02:40:29.428Z",
+            "title": "WebKit Features in Safari 18.0 | WebKit",
+            "url": "https://webkit.org/blog/15865/webkit-features-in-safari-18-0/",
+            "content": "Safari 18.0の変更点について。\nCSSでは、View Transitions、Style Queries、`content-visibility`、`@starting-style`と`display: none`の組み合わせをサポート。\nHTMLでは、`picture`要素でHEICをサポート、`writingsuggestions`属性のサポート、`<input switch>`のサポート。\nJavaScriptでは、正規表現の`v`フラグをサポート、`URL.parse()`のサポート。\nAppCacheのサポートを削除、標準化されていない`-webkit` prefixの擬似クラスのサポートを廃止、`picture`要素ではJPEG2000のサポートを削除など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
