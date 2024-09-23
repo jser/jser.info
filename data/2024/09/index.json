@@ -556,6 +556,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-23T02:56:37.141Z",
+            "title": "Don't Sleep on AbortController - kettanaito.com",
+            "url": "https://kettanaito.com/blog/dont-sleep-on-abort-controller",
+            "content": "`AbortController`の使い方について。\nイベントリスナーの解除、Fetchのキャンセル、`AbortSignal.timeout`/`AbortSignal.any`について。\nまた汎用的なキャンセルの実装についてなど",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
