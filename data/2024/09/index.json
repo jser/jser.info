@@ -544,6 +544,18 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-23T02:54:33.650Z",
+            "title": "Request for developer feedback: customizable select  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/rfc-customizable-select",
+            "content": "Chrome Canary 130で実験的な機能として利用できるselect要素のカスタマイズについて。\nCSSの`::picker(select)`でselect要素の見た目を変更できる。",
+            "tags": [
+                "Chrome",
+                "HTML",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
