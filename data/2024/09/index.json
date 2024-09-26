@@ -578,6 +578,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-26T00:50:24.908Z",
+            "title": "Release v2.0.0 · unjs/jiti",
+            "url": "https://github.com/unjs/jiti/releases/tag/v2.0.0",
+            "content": "jiti v2.0.0リリース。\nJSXのサポート、CJS/ESMのdual pacakgeとして公開するように、`jiti/native`の追加、`jiti/register`の追加など。",
+            "tags": [
+                "nodejs",
+                "JavaScript",
+                "library",
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
