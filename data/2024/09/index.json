@@ -604,6 +604,19 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-28T05:14:41.607Z",
+            "title": "OpenNext - OpenNext",
+            "url": "https://opennext.js.org/",
+            "content": "Next.jsをVercel以外でセルフホストできるようにするため、アーキテクチャの設計やアダプターの実装。\nAWSとCloudflare向けのアダプターが開発されている",
+            "tags": [
+                "Next.js",
+                "cloudflare",
+                "aws",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
