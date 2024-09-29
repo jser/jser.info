@@ -684,6 +684,17 @@
                 "Rust"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-29T15:01:34.761Z",
+            "title": "The Nine Node Pillars",
+            "url": "https://www.platformatichq.com/node-principles",
+            "content": "Node.jsアプリケーションの9つのプラクティスについて書かれたドキュメント。\n- イベントループをブロックしない\n- メトリクスを監視して行動する\n- Node.js LTSを使う\n- テスト、レビューなどの自動化\n- 依存関係の管理、monorepo\n- 依存関係のリスクとアップデート\n- グローバルを避ける\n- エラーハンドリング、意味あるログを出す\n- API Specとクライアントの自動生成",
+            "tags": [
+                "nodejs",
+                "document"
+            ],
+            "relatedLinks": []
         }
     ]
 }
