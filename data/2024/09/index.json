@@ -642,6 +642,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-29T08:04:59.402Z",
+            "title": "What's New in Express.js v5.0",
+            "url": "https://www.trevorlasn.com/blog/whats-new-in-express-5",
+            "content": "Express 5.0(pre-release)の変更点について。\n`app.del()`/`app.param(fn)`/`req.param(name)`の削除、Path Routeのマッチングが正規表現としてStrictなものへと変更。\nRouterのHandlerがasync awaitをサポート、Node.js 18未満のサポートを終了など",
+            "tags": [
+                "nodejs",
+                "express",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migrating to Express 5",
+                    "url": "https://expressjs.com/en/guide/migrating-5.html"
+                }
+            ]
         }
     ]
 }
