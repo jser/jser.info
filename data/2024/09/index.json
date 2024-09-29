@@ -659,6 +659,19 @@
                     "url": "https://expressjs.com/en/guide/migrating-5.html"
                 }
             ]
+        },
+        {
+            "date": "2024-09-29T12:07:02.304Z",
+            "title": "Oxc Transformer Alpha | The JavaScript Oxidation Compiler",
+            "url": "https://oxc.rs/blog/2024-09-29-transformer-alpha.html",
+            "content": "TypeScriptのTranspilerであるoxc-transformのαリリース。\n",
+            "tags": [
+                "TypeScript",
+                "Tools",
+                "Rust",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
