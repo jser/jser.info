@@ -630,6 +630,18 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-29T06:28:10.343Z",
+            "title": "helmet/CHANGELOG.md at main · helmetjs/helmet",
+            "url": "https://github.com/helmetjs/helmet/blob/main/CHANGELOG.md#800",
+            "content": "helmet v8.0.0リリース。\nNode.js 18未満のサポートを終了、\n`Strict-Transport-Security`のmax-ageがデフォルトで365日に変更など",
+            "tags": [
+                "nodejs",
+                "security",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
