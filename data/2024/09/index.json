@@ -707,6 +707,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-09-30T14:37:59.381Z",
+            "title": "Node.js 20 upgrade: a journey through unexpected HEAP issues with Kubernetes | by Ztec | Sep, 2024 | Deezer I/O",
+            "url": "https://deezer.io/node-js-20-upgrade-a-journey-through-unexpected-heap-issues-with-kubernetes-27ae3d325646",
+            "content": "Node.js 18から20へアップデートすると平均応答時間やCPUの使用率がわずかに増加し、その原因を探索していく記事。\nHeapとGCのメトリクスを見ていくと、GCが頻繁に起きるようになっており、リリースノートを探すとV8のHeapスペースのデフォルト値が変更されていることを発見するまでの話",
+            "tags": [
+                "nodejs",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
