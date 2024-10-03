@@ -54,6 +54,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-03T23:45:05.065Z",
+            "title": "Node.js — Node v20.18.0 (LTS)",
+            "url": "https://nodejs.org/en/blog/release/v20.18.0",
+            "content": "Node.js v20.18.0リリース。\n`--experimental-network-inspection`フラグでNetwork Inspectionをサポート。\n`vm`内の`globalThis`をfreezeする`vm.constants.DONT_CONTEXTIFY`を追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
