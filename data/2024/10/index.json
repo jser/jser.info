@@ -43,6 +43,17 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-03T23:37:27.893Z",
+            "title": "Release v10.9.0 · npm/cli",
+            "url": "https://github.com/npm/cli/releases/tag/v10.9.0",
+            "content": "npm v10.9.0リリース。\n開発時のランタイム情報を定義できる`devEngines`フィールドのサポートなど",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
