@@ -90,6 +90,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-06T15:22:18.333Z",
+            "title": "Tauri 2.0 Stable Release | Tauri",
+            "url": "https://v2.tauri.app/blog/tauri-20/",
+            "content": "Tauri 2.0リリース。\niOS/Androidのサポート、モバイルアプリのシミューレーターでもHMRが有効に、プラグインシステムの刷新、アクセス制御の仕組みを刷新など",
+            "tags": [
+                "Rust",
+                "JavaScript",
+                "GUI",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
