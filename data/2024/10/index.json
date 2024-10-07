@@ -149,6 +149,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-07T16:12:04.483Z",
+            "title": "How Bun supports V8 APIs without using V8 (part 1) | Bun Blog",
+            "url": "https://bun.sh/blog/how-bun-supports-v8-apis-without-using-v8-part-1",
+            "content": "BunがどのようにV8 APIをJSC上に実装しているかについて。\nC++のポインタ、レイアウトの互換性のレイヤー、V8とJSCの値の表現の違い、NaNボクシング、GC、メモリレイアウトについて",
+            "tags": [
+                "Bun",
+                "V8",
+                "webkit",
+                "C++",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
