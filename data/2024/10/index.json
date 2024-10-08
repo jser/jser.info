@@ -201,6 +201,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-08T13:58:00.337Z",
+            "title": "Bun v1.1.30 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.1.30",
+            "content": "Bun v1.1.30リリース。\nCSSのparseとbundleのサポート、`bun publish`コマンドの追加、`bun build --bytecode --compile`のパフォーマンス改善。\n`--compile`フラグなしの`--bytecode`フラグをサポート、`bun build --format=cjs`のサポートなど",
+            "tags": [
+                "Bun",
+                "css",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
