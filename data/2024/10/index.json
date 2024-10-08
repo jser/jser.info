@@ -189,6 +189,18 @@
                 "opinion"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-08T11:01:35.433Z",
+            "title": "webpack to Rspack ~ Rspack移行の結果と注意点 ~",
+            "url": "https://zenn.dev/ryo_kawamata/articles/b2df9989fe2c6e",
+            "content": "webpackからRspackへのマイグレーションについて。\nproductionビルドでの問題と対応について",
+            "tags": [
+                "webpack",
+                "rspack",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
