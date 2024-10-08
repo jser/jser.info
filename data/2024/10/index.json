@@ -163,6 +163,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-08T00:49:54.604Z",
+            "title": "Release 0.8.0 | StyleX",
+            "url": "https://stylexjs.com/blog/v0.8.0",
+            "content": "StyleX 0.8.0リリース。\nshorthandを禁止する`valid-shorthands`ルールの追加、`enforce-extension`ルールの追加。\nlightningcssを使ったminifyやautoprefixのpost-processを行うように",
+            "tags": [
+                "css ",
+                "JavaScript",
+                "library",
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
