@@ -255,6 +255,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-12T13:12:10.686Z",
+            "title": "Release Notes for Safari Technology Preview 205 | WebKit",
+            "url": "https://webkit.org/blog/15999/release-notes-for-safari-technology-preview-205/",
+            "content": "Safari Technology Preview 205リリース。\n`Math.sumPrecise`、`Iterator.prototype.reduce`のサポート。\nWebAssemblyの例外処理をサポート",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
