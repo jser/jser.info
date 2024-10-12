@@ -233,6 +233,17 @@
                     "url": "https://docs.deno.com/runtime/reference/migration_guide/"
                 }
             ]
+        },
+        {
+            "date": "2024-10-12T12:55:58.836Z",
+            "title": "Release eslint-plugin-react-hooks@5.0.0 (Oct 11, 2024) · facebook/react",
+            "url": "https://github.com/facebook/react/releases/tag/eslint-plugin-react-hooks%405.0.0",
+            "content": "eslint-plugin-react-hooks 5.0.0リリース。\nESLint v9のサポート、コンポーネント名は大文字で開始するルールを追加、React 19の対応、`useEffect(fn, undefined)`を許可するように変更など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
