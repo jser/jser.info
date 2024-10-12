@@ -244,6 +244,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-12T13:03:45.001Z",
+            "title": "Release v1.48.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.48.0",
+            "content": "playwright v1.48.0リリース。\n`page.routeWebSocket()` APIを追加、`page.requestGC()`メソッドの追加、`location`オプションの追加など",
+            "tags": [
+                "playwright",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
