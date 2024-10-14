@@ -289,6 +289,20 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-14T14:39:07.845Z",
+            "title": "Release v0.81.0 · facebook/metro",
+            "url": "https://github.com/facebook/metro/releases/tag/v0.81.0",
+            "content": "metro 0.81.0リリース。\nNode.js 18未満のサポート終了、`#`から開始するパスは将来のsubpath importサポートのため予約されるようになるなど",
+            "tags": [
+                "React",
+                "Native",
+                "Tools",
+                "ReleaseNote",
+                "bundler"
+            ],
+            "relatedLinks": []
         }
     ]
 }
