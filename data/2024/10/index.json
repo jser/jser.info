@@ -315,6 +315,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-15T14:27:28.054Z",
+            "title": "Release v2.3.0 · reduxjs/redux-toolkit",
+            "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.3.0",
+            "content": "Redux Toolkit v2.3.0リリース。\n`upsertQueryEntries`を追加、`prepareHeaders`オプションの改善など",
+            "tags": [
+                "redux",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
