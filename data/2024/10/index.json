@@ -350,6 +350,19 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-17T02:25:08.955Z",
+            "title": "Announcing Nx 20 | Nx Blog",
+            "url": "https://nx.dev/blog/announcing-nx-20",
+            "content": "Nx 20リリース。\nTypeScript Project Referencesの同期をサポートする`nx sync`の追加、`@nx/rspack`の追加、` nx release`の改善など",
+            "tags": [
+                "nodejs",
+                "Tools",
+                "monorepo",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
