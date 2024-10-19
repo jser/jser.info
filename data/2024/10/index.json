@@ -402,6 +402,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-19T11:54:02.230Z",
+            "title": "Electron 33.0.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-33-0",
+            "content": "Electron 33リリース。\nV8 13、Chromium 130、Node.js 20.18へアップデート。\nmacOS 10.15のサポート終了、Custom Protocolの処理方法の変更。\n`app.setClientCertRequestPasswordHandler`の追加、`View.setBorderRadius`の追加、`navigationHistory`の追加など",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
