@@ -375,6 +375,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-19T03:15:04.463Z",
+            "title": "ESLint v9.13.0 released - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2024/10/eslint-v9.13.0-released/",
+            "content": "ESLint v9.13.0リリース。\n`ESLint.defaultConfig`でビルトイン設定にアクセスできるように、Node.js v22.8.0で追加されたV8キャッシュを有効化など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Node.js — Node v22.8.0 (Current)",
+                    "url": "https://nodejs.org/en/blog/release/v22.8.0#new-js-api-for-compile-cache"
+                }
+            ]
         }
     ]
 }
