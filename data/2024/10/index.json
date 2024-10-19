@@ -413,6 +413,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-19T12:10:36.637Z",
+            "title": "Node.js — Node v22.10.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v22.10.0",
+            "content": "Node.js v22.10.0リリース。\n`require(esm)`時に読み込む対象を指定できる`\"module-sync\"` exports conditionの追加、`node --run`がStableになるなど",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
