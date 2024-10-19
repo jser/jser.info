@@ -440,6 +440,18 @@
                     "url": "https://shisama.hatenablog.com/entry/2024/10/18/080000"
                 }
             ]
+        },
+        {
+            "date": "2024-10-19T12:21:53.696Z",
+            "title": "Turborepo 2.2",
+            "url": "https://turbo.build/blog/turbo-2-2-0",
+            "content": "Turborepo 2.2リリース。\nGraphQLでリポジトリデータのクエリができる`turbo query`を追加、`TURBO_PLATFORM_ENV`を追加、`eslint-config-turbo`の改善、`--affected`の改善など",
+            "tags": [
+                "monorepo",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
