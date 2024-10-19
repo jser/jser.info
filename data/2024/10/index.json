@@ -363,6 +363,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-19T03:09:17.836Z",
+            "title": "Oxlint v0.10 Migration Guide | The JavaScript Oxidation Compiler",
+            "url": "https://oxc.rs/blog/2024-10-18-oxlint-v0.10-release",
+            "content": "Oxlint 0.10リリース。\n`categories`でルールをまとめて設定できるように、CLIのフラグを設定ファイルより優先するように変更など",
+            "tags": [
+                "ESLint",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
