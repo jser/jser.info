@@ -452,6 +452,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-20T15:18:49.532Z",
+            "title": "Next.js 15 RC 2 | Next.js",
+            "url": "https://nextjs.org/blog/next-15-rc2",
+            "content": "Next.js 15 RC 2リリース。\n`header`/`cookies`/`params`/`searchParams`へのアクセスが非同期APIへと変更、Server Actionで使用してないActionは公開されないように変更。\nStatic Route Indicatorの追加、`<Form>`コンポーネントの追加、`next.config.ts`のサポート。\n`instrumentation.js`がStableに変更、Static Generationのリクエスト処理の改善、ESLint 9のサポートなど",
+            "tags": [
+                "Next.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
