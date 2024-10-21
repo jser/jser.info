@@ -485,6 +485,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-21T22:29:06.442Z",
+            "title": "pkg-graph | Visualize the dependency graph of npm packages.",
+            "url": "https://pkg-graph.info/",
+            "content": "npmパッケージの依存関係を可視化してくれるツール",
+            "tags": [
+                "npm",
+                "webservice"
+            ],
+            "relatedLinks": []
         }
     ]
 }
