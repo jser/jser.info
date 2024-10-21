@@ -463,6 +463,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-21T02:18:32.216Z",
+            "title": "Bun v1.1.31 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.1.31",
+            "content": "Bun v1.1.31リリース。\n`node:http2`のサポート、`bun build --drop`で特定の関数を削除できるように、`Bun.inspect.table()`の追加\nIterator Helpersのサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
