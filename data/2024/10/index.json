@@ -474,6 +474,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-21T21:04:09.833Z",
+            "title": "Next.js 15 | Next.js",
+            "url": "https://nextjs.org/blog/next-15",
+            "content": "Next.js 15リリース。\n`fetch`はデフォルトで`no-store`に変更、`GET`ルートハンドラーはデフォルトでキャッシュしないように、クライアントルーターキャッシュもデフォルトではキャッシュしないように変更。\nReact 19 RCへ対応、実験的なReactコンパイラのサポート、Hydration Errorの改善、TurbopackがStableに、Static Route Indicatorの追加。\n`unstable_after`の追加、`instrumentation.js`がStableに、`<Form>`コンポーネントの追加、`next.config.ts`のサポート、ESLint 9のサポートなど",
+            "tags": [
+                "Next.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
