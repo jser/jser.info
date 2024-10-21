@@ -496,6 +496,17 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-21T22:39:59.503Z",
+            "title": "gosub-io/gosub-engine: Our main browser engine repository.",
+            "url": "https://github.com/gosub-io/gosub-engine?tab=readme-ov-file",
+            "content": "HTMLとCSSのパーサとレンダリングを実装しているブラウザエンジン。\nJavaScriptは既存のV8などと組み合わせ利用する想定。\nWebAssemblyへのコンパイルにも対応している。",
+            "tags": [
+                "Rust",
+                "browser"
+            ],
+            "relatedLinks": []
         }
     ]
 }
