@@ -519,6 +519,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-21T23:14:46.459Z",
+            "title": "Introducing Express v5: A New Era for Node.js Framework",
+            "url": "https://expressjs.com/2024/10/15/v5-release.html",
+            "content": "Express v5 pre-release。\nNode.js 18未満のサポート終了、パスマッチングの挙動の変更、Promiseのサポート、body parserの挙動変更、非推奨のメソッドを削除など\n",
+            "tags": [
+                "express",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
