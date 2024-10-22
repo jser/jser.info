@@ -542,6 +542,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-22T23:39:32.429Z",
+            "title": "Svelte 5 is alive",
+            "url": "https://svelte.dev/blog/svelte-5-is-alive",
+            "content": "Svelte 5リリース。\nruneのサポート、イベント属性の渡し方の変更、Slotの作成方法の変更、コンポーネントはClassではなくなり`new`できないように変更など",
+            "tags": [
+                "Svelte",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Svelte 5 migration guide • Docs • Svelte",
+                    "url": "https://svelte.dev/docs/svelte/v5-migration-guide"
+                }
+            ]
         }
     ]
 }
