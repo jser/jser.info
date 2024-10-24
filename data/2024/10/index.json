@@ -576,6 +576,18 @@
                     "url": "https://github.com/pmndrs/zustand/blob/main/docs/migrations/migrating-to-v5.md"
                 }
             ]
+        },
+        {
+            "date": "2024-10-24T13:30:31.736Z",
+            "title": "The nuances of base64 encoding strings in JavaScript  |  Articles  |  web.dev",
+            "url": "https://web.dev/articles/base64-encoding",
+            "content": "絵文字やサロゲートペアを安全に扱えるBase64エンコードについて。\n`btoa()`/`atob()`はUnicodeを扱うときに問題があるため`TextEncoder`でエンコードしてから扱う。\n`TextEncoder`は単独のサロゲートを持つ文字列を不正なデータとして � に置き換えてしまうため、`isWellFormed()`を使い判定する話",
+            "tags": [
+                "Unicode",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
