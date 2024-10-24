@@ -558,6 +558,24 @@
                     "url": "https://svelte.dev/docs/svelte/v5-migration-guide"
                 }
             ]
+        },
+        {
+            "date": "2024-10-24T13:20:28.238Z",
+            "title": "Release v5.0.0 · pmndrs/zustand",
+            "url": "https://github.com/pmndrs/zustand/releases/tag/v5.0.0",
+            "content": "Zustand v5リリース。\ndefault exportの削除、deprecatedな機能の削除、ES5のサポートを削除、無限ループを起こすケースを明示的にエラーにするなど",
+            "tags": [
+                "JavaScript",
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "zustand/docs/migrations/migrating-to-v5.md at main · pmndrs/zustand",
+                    "url": "https://github.com/pmndrs/zustand/blob/main/docs/migrations/migrating-to-v5.md"
+                }
+            ]
         }
     ]
 }
