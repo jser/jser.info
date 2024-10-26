@@ -599,6 +599,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-26T11:37:53.568Z",
+            "title": "Node.js — Node v23.1.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v23.1.0",
+            "content": "Node.js v23.1.0リリース。\n`Buffer`が`ArrayBuffer`のresizeに対応、`node:test`のMockTimersをStableになるなど",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
