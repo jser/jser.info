@@ -649,6 +649,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-28T13:55:55.646Z",
+            "title": "Release pnpm 10.0 Alpha 0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v10.0.0-alpha.0",
+            "content": "pnpm v10.0.0 alpha.0リリース。\n`pnpm link`の挙動の変更、`packageManager`を参照してpnpmのバージョンを確認するように、storeバージョンの更新など",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
