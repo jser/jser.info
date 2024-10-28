@@ -673,6 +673,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-28T14:09:55.078Z",
+            "title": "Release v3.0.0 · tinylibs/tinybench",
+            "url": "https://github.com/tinylibs/tinybench/releases/tag/v3.0.0",
+            "content": "tinybench v3.0.0リリース。\nNode.js 16のサポートを終了、`*Concurrently`メソッドの削除、`warmup()`メソッドを削除し`warmup`オプションの追加など",
+            "tags": [
+                "JavaScript",
+                "benchmark",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
