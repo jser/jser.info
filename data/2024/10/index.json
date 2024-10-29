@@ -697,6 +697,19 @@
                 "Survey"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-10-29T13:25:51.360Z",
+            "title": "Release v2.6.0 · mswjs/msw",
+            "url": "https://github.com/mswjs/msw/releases/tag/v2.6.0",
+            "content": "msw 2.6.0リリース。\nWebSocket APIのモックをサポート",
+            "tags": [
+                "JavaScript",
+                "test",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
