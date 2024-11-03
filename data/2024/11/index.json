@@ -1,18 +1,6 @@
 {
     "list": [
         {
-            "date": "2024-11-03T00:49:55.796Z",
-            "title": "Re-implementing JavaScript's == in JavaScript",
-            "url": "https://evanhahn.com/re-implementing-javascript-double-equals-in-javascript/",
-            "content": "`==`をECMAScriptの仕様をJavaScriptで実装していく話。\n`==` がどのような変換や比較を行っているかを仕様のStepごとに実装していき、そのアルゴリズムを見ていく記事",
-            "tags": [
-                "ECMAScript",
-                "JavaScript",
-                "article"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2024-11-03T00:53:08.590Z",
             "title": "astahmer/atomic-css-devtools: A devtool panel for debugging Atomic CSS rules as if they were not atomic. Available on chrome & firefox",
             "url": "https://github.com/astahmer/atomic-css-devtools",
@@ -32,6 +20,18 @@
             "content": "Quantity QueriesやContainer Queriesを使って要素の数や横幅でGrid Layoutを変更するテクニックについて。\n",
             "tags": [
                 "css ",
+                "article"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2024-11-03T01:20:46.007Z",
+            "title": "Re-implementing JavaScript's == in JavaScript",
+            "url": "https://evanhahn.com/re-implementing-javascript-double-equals-in-javascript/",
+            "content": "`==` をJavaScriptで実装していく話。\n`==` がどのような変換や比較を行っているかを仕様のStepごとに実装していき、そのアルゴリズムを見ていく記事",
+            "tags": [
+                "ECMAScript",
+                "JavaScript",
                 "article"
             ],
             "relatedLinks": []
