@@ -58,6 +58,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-11-05T11:54:44.917Z",
+            "title": "Release v5.0.0 · immutable-js/immutable-js",
+            "url": "https://github.com/immutable-js/immutable-js/releases/tag/v5.0.0",
+            "content": "imutable-js v5.0.0リリース。\n非推奨のメソッドを削除、default exportを削除、TypeScriptの型定義を改善など\n",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
