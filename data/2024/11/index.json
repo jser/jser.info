@@ -87,6 +87,17 @@
                     "url": "https://zenn.dev/atamaplus/articles/0ecd883bcc9edd"
                 }
             ]
+        },
+        {
+            "date": "2024-11-06T13:12:09.915Z",
+            "title": "Introducing the vlt Package Manager & Serverless Registry",
+            "url": "https://blog.vlt.sh/blog/introducing-vlt-and-vsr",
+            "content": "npmと互換性のあるパッケージマネージャーのvltとnpm registry互換のvsrが公開された。",
+            "tags": [
+                "npm",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
