@@ -109,6 +109,25 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-11-06T23:43:00.205Z",
+            "title": "happy-dom allows for server side code to be executed by a <script> tag · CVE-2024-51757 · GitHub Advisory Database",
+            "url": "https://github.com/advisories/GHSA-96g7-g7g9-jxw8",
+            "content": "happy-domのSSRFのセキュリティ修正。\n`<script>`の`src`属性に書かれているコードを実行してしまう問題の修正。\nhappy-dom v15.10.2で修正されている。",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "nodejs",
+                "ReleaseNote",
+                "security"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v15.10.2 · capricorn86/happy-dom",
+                    "url": "https://github.com/capricorn86/happy-dom/releases/tag/v15.10.2"
+                }
+            ]
         }
     ]
 }
