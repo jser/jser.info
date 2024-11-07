@@ -128,6 +128,18 @@
                     "url": "https://github.com/capricorn86/happy-dom/releases/tag/v15.10.2"
                 }
             ]
+        },
+        {
+            "date": "2024-11-07T01:13:10.001Z",
+            "title": "Next.js App Router セキュリティ - Speaker Deck",
+            "url": "https://speakerdeck.com/zaru_sakuraba/nextjssekiyuritei",
+            "content": "Next.jsのServer Actionなどのセキュリティについてのスライド。\n`\"use server\";`で意図せずにサーバの関数を公開してしまうケース、Server ComponentからClientにデータを丸ごとPropsとして渡してしてしまうケースなどについて。",
+            "tags": [
+                "Next.js",
+                "security",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
