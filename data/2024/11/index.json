@@ -162,6 +162,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-11-10T13:37:24.987Z",
+            "title": "Announcing Rspack 1.1 - Rspack",
+            "url": "https://rspack.dev/blog/announcing-1-1",
+            "content": "Rspack 1.1リリース\nパフォーマンスの改善、`experiments.incrementalRebuild`オプションの追加、`HtmlRspackPlugin`の改善など",
+            "tags": [
+                "rspack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
