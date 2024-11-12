@@ -209,6 +209,19 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-11-12T14:19:00.929Z",
+            "title": "i-html, an inline-html import element",
+            "url": "https://www.keithcirkel.co.uk/i-html/",
+            "content": "htmxのようにHTMLでインタラクティブな動作を実装したり、外部のHTMLフラグメントをロードできるCustom Elementライブラリ",
+            "tags": [
+                "HTML",
+                "WebComponents",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
