@@ -185,6 +185,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-11-12T00:21:15.833Z",
+            "title": "Node.js — Node v23.2.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v23.2.0",
+            "content": "Node.js v23.2.0リリース。\nルート証明書の更新、TypeScriptサポートのステータスをActive developmentに更新。`module.findPackageJSON`、`module.stripTypeScriptTypes`の追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
