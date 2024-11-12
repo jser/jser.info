@@ -222,6 +222,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-11-12T23:57:03.611Z",
+            "title": "Storybook 8.4",
+            "url": "https://storybook.js.org/blog/storybook-8-4/",
+            "content": "Storybook 8.4リリース。\nUIからVitestでのコンポーネントテストの実行に対応、パッケージサイズの改善、Svelte 5のサポート、React Nativeの改善、タグベースのフィルタリングの対応など",
+            "tags": [
+                "storybook",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "storybook/CHANGELOG.md at next · storybookjs/storybook",
+                    "url": "https://github.com/storybookjs/storybook/blob/next/CHANGELOG.md#840"
+                }
+            ]
         }
     ]
 }
