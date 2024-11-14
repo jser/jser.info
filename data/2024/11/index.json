@@ -266,6 +266,18 @@
                     "url": "https://github.com/nuejs/nue/releases/tag/v1.0.0-RC.1"
                 }
             ]
+        },
+        {
+            "date": "2024-11-14T14:04:50.291Z",
+            "title": "React Query Builder",
+            "url": "https://react-querybuilder.js.org/",
+            "content": "複雑な条件設定をするUIを提供するReactコンポーネント。\n設定した条件からSQLやJSONなどの形式で出力できる",
+            "tags": [
+                "React",
+                "library",
+                "GUI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
