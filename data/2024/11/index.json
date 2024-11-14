@@ -238,6 +238,17 @@
                     "url": "https://github.com/storybookjs/storybook/blob/next/CHANGELOG.md#840"
                 }
             ]
+        },
+        {
+            "date": "2024-11-14T13:55:14.183Z",
+            "title": "Release v2.13.0 · parcel-bundler/parcel",
+            "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.13.0",
+            "content": "Parcel v2.13.0リリース。\n`@parcel/bundler-library`の追加、`.proxyrc.ts`のサポート、resolverのパフォーマンス改善など",
+            "tags": [
+                "parcel",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
