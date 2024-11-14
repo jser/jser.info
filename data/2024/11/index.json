@@ -249,6 +249,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-11-14T13:58:27.422Z",
+            "title": "A better Next.js? • Nue 1.0 (RC) is out - Nue",
+            "url": "https://nuejs.org/blog/nue-release-candidate/",
+            "content": "静的サイトジェネレータのNue 1.0 RCリリース。\nMarkdownパーサを再実装など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v1.0.0-RC.1 · nuejs/nue",
+                    "url": "https://github.com/nuejs/nue/releases/tag/v1.0.0-RC.1"
+                }
+            ]
         }
     ]
 }
