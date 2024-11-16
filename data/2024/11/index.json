@@ -278,6 +278,20 @@
                 "GUI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-11-16T01:18:39.045Z",
+            "title": "Exploring the DOMPurify library: Bypasses and Fixes | mizu.re",
+            "url": "https://mizu.re/post/exploring-the-dompurify-library-bypasses-and-fixes",
+            "content": "DOMのサニタイズライブラリであるDOMPurifyのバイパス手法について。\nHTMLのパースにおける仕様やFuzzingからどのようにバイパスするか調べたかについて",
+            "tags": [
+                "XSS",
+                "JavaScript",
+                "DOM",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
