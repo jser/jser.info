@@ -304,6 +304,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-11-20T15:09:41.743Z",
+            "title": "Bun v1.1.35 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.1.35",
+            "content": "Bun v1.1.35リリース。\nMuslとAlpine Linux のネイティブサポート、`bun test`の結果をJUnit XML形式で出力できるように、`Worker`のpreloadのサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
