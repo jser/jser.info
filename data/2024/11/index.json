@@ -335,6 +335,17 @@
                     "url": "https://www.youtube.com/watch?v=JvkX2_46gUY"
                 }
             ]
+        },
+        {
+            "date": "2024-11-21T00:54:59.037Z",
+            "title": "Node.js — Node v23.3.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v23.3.0",
+            "content": "Node.js v23.3.0リリース。\n`util.getCallSite()`がSource Mapをサポート。\nNode.jsに対する変更でSEMVER-MAJORのコミットがmainブランチに入る時のルールを厳格化など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
