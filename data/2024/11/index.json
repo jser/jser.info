@@ -362,6 +362,19 @@
                     "url": "https://docs.deno.com/runtime/fundamentals/stability_and_releases/"
                 }
             ]
+        },
+        {
+            "date": "2024-11-22T00:36:18.885Z",
+            "title": "November 20, 2024 Release – React Spectrum Releases",
+            "url": "https://react-spectrum.adobe.com/releases/2024-11-20.html",
+            "content": "react-aria-components 1.5.0 リリース。\n`ToggleButtonGroup`の追加、`MenuSection`ごとに設定を持たせられるように、TypeScriptの設定をStrictに変更、AccordionとDisclosureをGAに変更など",
+            "tags": [
+                "React",
+                "UI",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
