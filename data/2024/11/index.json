@@ -388,6 +388,27 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-11-24T12:41:47.261Z",
+            "title": "React Router v7 | Remix",
+            "url": "https://remix.run/blog/react-router-v7",
+            "content": "React Router v7リリース。\nReact Router v7はRemix v2のメジャーアップデートバージョンとなる。\nReact Router v6とRemix v2からのアップデートガイドも公開されている。",
+            "tags": [
+                "React",
+                "Remix",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Upgrading from v6 | React Router",
+                    "url": "https://reactrouter.com/upgrading/v6"
+                },
+                {
+                    "title": "Upgrading from Remix | React Router",
+                    "url": "https://reactrouter.com/upgrading/remix"
+                }
+            ]
         }
     ]
 }
