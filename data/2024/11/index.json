@@ -409,6 +409,19 @@
                     "url": "https://reactrouter.com/upgrading/remix"
                 }
             ]
+        },
+        {
+            "date": "2024-11-25T00:57:21.534Z",
+            "title": "アクセシビリティツリーを比較する Playwright の Aria snapshots がよさそう",
+            "url": "https://azukiazusa.dev/blog/playwright-aria-snapshot/",
+            "content": "PlaywrightのAria snapshotsについて",
+            "tags": [
+                "playwright",
+                "article",
+                "test",
+                "accessibility"
+            ],
+            "relatedLinks": []
         }
     ]
 }
