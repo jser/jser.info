@@ -439,6 +439,17 @@
                     "url": "https://jsconf.jp/2024/"
                 }
             ]
+        },
+        {
+            "date": "2024-11-25T14:14:39.687Z",
+            "title": "Announcing TypeScript 5.7 - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/",
+            "content": "TypeScript 5.7リリース。\n初期化されてない変数のチェック、相対パスの`.ts`を出力時に`.js`へと書き換える`--rewriteRelativeImportExtensions`フラグの追加。\n`--target es2024`のサポート、Node.js 22のV8 Compile Cacheをサポートして実行速度の改善など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
