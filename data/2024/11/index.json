@@ -470,6 +470,17 @@
                     "url": "https://developer.chrome.com/blog/chrome-headless-shell"
                 }
             ]
+        },
+        {
+            "date": "2024-11-26T00:56:16.042Z",
+            "title": "ysk8hori/typescript-graph: A CLI to visualize the dependencies between files in the TypeScript codebase.",
+            "url": "https://github.com/ysk8hori/typescript-graph",
+            "content": "TypeScriptのコードの依存関係をMermaidでビジュアライズできるツール",
+            "tags": [
+                "TypeScript",
+                "tool"
+            ],
+            "relatedLinks": []
         }
     ]
 }
