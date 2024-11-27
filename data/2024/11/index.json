@@ -510,6 +510,17 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-11-27T00:35:11.233Z",
+            "title": "Release v11.0.0-pre.0 · npm/cli",
+            "url": "https://github.com/npm/cli/releases/tag/v11.0.0-pre.0",
+            "content": "npm v11.0.0-pre.0リリース。\nprereleaseの場合はtagを指定を必須に変更、`--ignore-scripts`が全てのコマンドで動作するように、`npm hook`コマンドの削除など",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
