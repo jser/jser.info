@@ -533,6 +533,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-11-28T02:20:10.527Z",
+            "title": "Firefox 133.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/133.0/releasenotes/",
+            "content": "Firefox 133リリース。\nviewport metaタグで`interactive-widgets`の値をサポート、`Uint8Array.fromBase64`/`toBase64`をサポート。\nPermissions APIがWorkerで利用できるように、WebCodecs APIの`ImageDecoder` APIをサポート、Fetch APIの`keepalive`をサポート。\n実験的な機能として`contenteditable=plaintext-only`をサポート、CSSの`:has-slotted`をサポートなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 133 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/133"
+                }
+            ]
         }
     ]
 }
