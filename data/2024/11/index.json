@@ -573,6 +573,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-11-30T12:51:34.329Z",
+            "title": "Release 6.0.0 · prisma/prisma",
+            "url": "https://github.com/prisma/prisma/releases/tag/6.0.0",
+            "content": "Prisma 6.0.0リリース。\nNode.js 18未満のサポート終了、PostgreSQLのm-n relationのスキーマを変更、`Buffer`を利用していた箇所を`Uint8Array`に変更など",
+            "tags": [
+                "prisma",
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
