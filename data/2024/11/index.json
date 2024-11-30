@@ -562,6 +562,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-11-30T12:44:21.616Z",
+            "title": "Release pnpm v10.0 Beta 1 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v10.0.0-beta.1",
+            "content": "pnpm v10.0.0-beta.1リリース。\n`pnpm link`の挙動の変更、`packageManager`を参照してpnpmのバージョンを確認するように、storeバージョンの更新。\n`verifyDepsBeforeRun`オプションが追加され、lockと`node_modules/`の状態を比較して自動インストールなどができるようになるなど",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
