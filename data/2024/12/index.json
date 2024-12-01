@@ -27,6 +27,22 @@
                     "url": "https://vite.dev/guide/migration.html"
                 }
             ]
+        },
+        {
+            "date": "2024-12-01T15:11:28.616Z",
+            "title": "Tailwind CSS v4.0 Beta 1 - Tailwind CSS",
+            "url": "https://tailwindcss.com/blog/tailwindcss-v4-beta",
+            "content": "Tailwind CSS v4.0 Beta 1リリース。\nCSS-first configurationの追加、`@starting-style`に対応するvariantの追加など",
+            "tags": [
+                "css ",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Tailwind CSS v4.0 Beta - Tailwind CSS",
+                    "url": "https://tailwindcss.com/docs/v4-beta"
+                }
+            ]
         }
     ]
 }
