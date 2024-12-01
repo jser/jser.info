@@ -11,6 +11,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-12-01T14:59:19.221Z",
+            "title": "Vite 6.0 is out! | Vite",
+            "url": "https://vite.dev/blog/announcing-vite6",
+            "content": "Vite 6.0リリース。\n実験的なAPIとしてEnvironment API を追加、`resolve.conditions`のデフォルト値を変更、Sassのmodern APIを使うように変更など",
+            "tags": [
+                "vite",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migration from v5 | Vite",
+                    "url": "https://vite.dev/guide/migration.html"
+                }
+            ]
         }
     ]
 }
