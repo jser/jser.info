@@ -55,6 +55,18 @@
                 "plugin"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-12-02T12:31:44.088Z",
+            "title": "litdb/litdb: Lightweight RDBMS agnostic TypeScript/JS abstraction for SQLite, PostgreSQL and MySQL",
+            "url": "https://github.com/litdb/litdb",
+            "content": "型安全なSQLクエリビルダーライブラリ。\nRDBMSのテーブルスキーマをTypeScript/Decoratorで定義して、クエリを安全に書けるようにしている。\n",
+            "tags": [
+                "TypeScript",
+                "database",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
