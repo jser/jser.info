@@ -78,6 +78,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-12-03T22:45:40.231Z",
+            "title": "JavaScriptのモジュール解決の相互運用性 / JSConf JP 2024 - Interoperability of Module Resolutions in JavaScript - Speaker Deck",
+            "url": "https://speakerdeck.com/berlysia/interoperability-of-module-resolutions-in-javascript",
+            "content": "CJS/ESM/Node.js/TypeScriptのモジュール解決と相互運用性について。\nimport path aliasとツールの相互運用性について",
+            "tags": [
+                "JavaScript",
+                "ECMAScript",
+                "nodejs",
+                "module",
+                "slide"
+            ],
+            "relatedLinks": []
         }
     ]
 }
