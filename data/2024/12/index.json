@@ -128,7 +128,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2024-12-08T13:00:57.884Z",
+            "date": "2024-12-08T13:01:17.436Z",
             "title": "React v19 – React",
             "url": "https://react.dev/blog/2024/12/05/react-19",
             "content": "React 19リリース。\n非同期遷移を扱うアクションの概念の追加と`useActionState`/`useFormStatus`/`useOptimistic`/`use` APIの追加。\nreact-domにprerender APIの追加、Server ComponentとServer Actionの追加。\n`ref`をpropsとして渡す際に`forwardRef`は不要に、Hydration Errorの改善、`ref` callbackがcleanup関数を返せるように。\n`<title>`/`<meta>`/`<link>`などのメタタグをサポート、`<link rel=stylesheet>`や`<script async={true} src=...>`をサポート。\nリソースのpreload APIのサポート、Custom Elementをサポートなど",
@@ -136,7 +136,16 @@
                 "React",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Release 19.0.0 (December 5, 2024) · facebook/react",
+                    "url": "https://github.com/facebook/react/releases/tag/v19.0.0"
+                },
+                {
+                    "title": "Release v15.0.4 · vercel/next.js",
+                    "url": "https://github.com/vercel/next.js/releases/tag/v15.0.4"
+                }
+            ]
         }
     ]
 }
