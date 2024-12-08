@@ -146,6 +146,17 @@
                     "url": "https://github.com/vercel/next.js/releases/tag/v15.0.4"
                 }
             ]
+        },
+        {
+            "date": "2024-12-08T13:04:08.569Z",
+            "title": "ECMAScript proposal updates @ 2024-12 | ECMAScript Daily",
+            "url": "https://ecmascript-daily.github.io/ecmascript/2024/12/08/ecmascript-proposal-update",
+            "content": "2024年12月のTC39ミーティングでのECMAScript Proposalのステータス変更のまとめ。\nSync Importsの追加、`Error.isError`がStage 3に、`Intl.DurationFormat`がStage 4となるなど",
+            "tags": [
+                "ECMAScript",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
