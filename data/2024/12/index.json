@@ -157,6 +157,18 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-12-08T13:18:15.507Z",
+            "title": "ニコニコ生放送のアプリケーションにRspackを導入している話",
+            "url": "https://zenn.dev/thiry/articles/0f671d086b2fb0",
+            "content": "webpackからrspackへの移行について。\ncss modules周りのいくつかの動作の問題があるが、ほとんどの部分でwebpackと互換性がある状態でbundleのパフォーマンスが改善できたという話",
+            "tags": [
+                "webpack",
+                "rspack",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
