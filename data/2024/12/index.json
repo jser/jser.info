@@ -169,6 +169,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-12-09T12:52:42.766Z",
+            "title": "Introducing Nuxt Icon v1 · Nuxt Blog",
+            "url": "https://nuxt.com/blog/nuxt-icon-v1-0",
+            "content": "Nuxt Icon v1.0リリース。\nアイコンロードの方法の比較とNuxt Iconでの実装について。\nimgタグ/Webフォント/インラインSVG/動的なAPI/コンポーネント/CSSアイコンのアプローチの比較。\nNuxt Iconで時はCSSモードとSVGモードを両方サポートし、アイコンごとに切り替えられる。",
+            "tags": [
+                "Nuxt",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
