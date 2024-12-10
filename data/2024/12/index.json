@@ -205,6 +205,22 @@
                 "Chrome"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-12-10T13:42:57.994Z",
+            "title": "Astro 5.0 | Astro",
+            "url": "https://astro.build/blog/astro-5/",
+            "content": "Astro 5.0リリース。\nContent Layerの改善、Server Islands/astro:envをStableに、Vite 6へアップデートなど",
+            "tags": [
+                "astro",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "astro/packages/astro/CHANGELOG.md at main · withastro/astro",
+                    "url": "https://github.com/withastro/astro/blob/main/packages/astro/CHANGELOG.md#500"
+                }
+            ]
         }
     ]
 }
