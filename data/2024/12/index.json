@@ -291,6 +291,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-12-11T05:49:37.479Z",
+            "title": "Node.js — Node v23.4.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v23.4.0",
+            "content": "Node.js v23.4.0リリース。\n`assert.partialDeepStrictEqual`の追加、`--trace-env`フラグの追加、`net.connect`に`blockList`オプションの追加",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
