@@ -280,6 +280,17 @@
                 "HTTP"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-12-11T02:40:38.875Z",
+            "title": "Next.js 15.1 | Next.js",
+            "url": "https://nextjs.org/blog/next-15-1",
+            "content": "Next.js 15.1リリース。\nReact 19 Stableに対応、Source Mapsの改善、エラースタックトレースの改善。\n実験的な機能として`forbidden()`と`unauthorized()`を追加、`<link>`と`<style>`のインライン化の対応。",
+            "tags": [
+                "Next.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
