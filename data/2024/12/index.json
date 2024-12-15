@@ -338,6 +338,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-12-15T13:24:27.154Z",
+            "title": "nissy-dev/tenbin: Tenbin provides tools to minimize the differences in test execution times across shards.",
+            "url": "https://github.com/nissy-dev/tenbin",
+            "content": "過去のテストの実行時間を利用してテストのsharding を行うツール。\nJest/Vitest/Playwrightをサポートしている",
+            "tags": [
+                "test",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "テストの sharding を効率化する Tenbin というツールを作った",
+                    "url": "https://zenn.dev/cybozu_frontend/articles/create-tenbin"
+                }
+            ]
         }
     ]
 }
