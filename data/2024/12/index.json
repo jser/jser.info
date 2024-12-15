@@ -314,6 +314,19 @@
                 "spec"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-12-15T12:38:25.404Z",
+            "title": "lingui/js-lingui: 🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript",
+            "url": "https://github.com/lingui/js-lingui?tab=readme-ov-file",
+            "content": "ICU MessageFormatを使ったi18nライブラリとツール。\nコードをスキャンしてメッセージを抽出するextract、実際に利用しているメッセージだけを含める仕組み、ロケールに基づいて動的にメッセージカタログを読み込む仕組みなどを持つ。\n翻訳を行うJavaScriptの関数やReactのコンポーネントなどを提供している",
+            "tags": [
+                "JavaScript",
+                "React",
+                "i18n",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
