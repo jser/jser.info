@@ -327,6 +327,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-12-15T13:10:16.612Z",
+            "title": "WebKit Features in Safari 18.2 | WebKit",
+            "url": "https://webkit.org/blog/16301/webkit-features-in-safari-18-2/",
+            "content": "Safari 18.2の変更点について。\nCSSの`text-box`(Leading Trim)/`@view-transition`/`background-clip`/`scrollbar-width`のサポート。またルビ対応が改善されている。\nHTMLの`input type=week`のサポート、`blocking=render`属性と`<link rel=expect>`のサポート。\nWasm GC/Wasm Tail Callsのサポート、PointerEventの対応の改善。\nJavaScriptでは、`Float16Array`/`Promise.try`/`RegExp.escape`のサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
