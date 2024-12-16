@@ -354,6 +354,24 @@
                     "url": "https://zenn.dev/cybozu_frontend/articles/create-tenbin"
                 }
             ]
+        },
+        {
+            "date": "2024-12-16T02:18:35.084Z",
+            "title": "Release v9.2.0 · reduxjs/react-redux",
+            "url": "https://github.com/reduxjs/react-redux/releases/tag/v9.2.0",
+            "content": "React-Redux v9.2.0リリース。\nReact 19の対応など",
+            "tags": [
+                "redux",
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v2.5.0 · reduxjs/redux-toolkit",
+                    "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.5.0"
+                }
+            ]
         }
     ]
 }
