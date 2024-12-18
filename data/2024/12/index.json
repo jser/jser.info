@@ -406,6 +406,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-12-18T14:46:52.396Z",
+            "title": "Release v7.1.0 · nodejs/undici",
+            "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0",
+            "content": "undici v7.1.0リリース。\nhttp/2サポートがStableとなった",
+            "tags": [
+                "nodejs",
+                "HTTP",
+                "Fetch",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
