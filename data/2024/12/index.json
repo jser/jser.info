@@ -479,6 +479,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-12-21T12:12:53.408Z",
+            "title": "Design Token-Based UI Architecture",
+            "url": "https://martinfowler.com/articles/design-token-based-ui-architecture.html",
+            "content": "Design TokenとUIの開発について。\nDesign Tokenの2つ or 3つのレイヤーへの分割、Tokenのスコープ、Design Tokenのメリット/デメリットについて",
+            "tags": [
+                "Design",
+                "UI",
+                "architecture",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
