@@ -515,6 +515,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-12-24T22:54:59.947Z",
+            "title": "Release 8.3.0 – Pipes of Steel · google/zx",
+            "url": "https://github.com/google/zx/releases/tag/8.3.0",
+            "content": "zx 8.3.0リリース。\nAsync Iteratorの対応、`pipe()`の改善、`--env`フラグの追加など",
+            "tags": [
+                "nodejs",
+                "ShellScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
