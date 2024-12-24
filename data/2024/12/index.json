@@ -503,6 +503,18 @@
                 "Survey"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-12-24T02:50:27.806Z",
+            "title": "Release v2.3.0 · vercel/swr",
+            "url": "https://github.com/vercel/swr/releases/tag/v2.3.0",
+            "content": "SWR v2.3.0リリース。\nfallbackとしてPromiseデータを指定できるように、React 19のサポートなど",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
