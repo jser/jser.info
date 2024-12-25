@@ -539,6 +539,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-12-25T23:19:14.157Z",
+            "title": "Service Worker がページをコントロールし始めるタイミングを skipWaiting と clients.claim から理解する - カミナシ エンジニアブログ",
+            "url": "https://kaminashi-developer.hatenablog.jp/entry/2024/12/20/080000",
+            "content": "Service Workerの`skipWaiting`と`clients.claim`の挙動について。",
+            "tags": [
+                "ServiceWorker",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
