@@ -585,6 +585,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-12-28T07:00:48.337Z",
+            "title": "Zero Docs",
+            "url": "https://zero.rocicorp.dev/",
+            "content": "クライアントとバックエンドのデータベースの状態を同期するクエリエンジン。\nクライアントからORMでクエリを書き、その結果がバックエンドのデータベースに反映される。またクエリの結果はクライアントのローカルでもキャッシュして再利用することで、クライアントには高速に反映される。\n権限はZero Schemaというスキーマに定義することでクライアントから実行できるクエリを制御している。",
+            "tags": [
+                "JavaScript",
+                "React",
+                "WebSocket",
+                "library",
+                "database"
+            ],
+            "relatedLinks": []
         }
     ]
 }
