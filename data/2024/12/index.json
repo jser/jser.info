@@ -562,6 +562,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2024-12-28T06:48:09.541Z",
+            "title": "Release pnpm 10.0 RC 1 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v10.0.0-rc.1",
+            "content": "pnpm v10.0.0-rc.1リリース。\nインストールするパッケージのlifecycle scriptをデフォルトで実行しないように変更。\n `pnpm link`の挙動の変更、`packageManager`を参照してpnpmのバージョンを確認するように、ハッシュアルゴリズムをSHA256に変更、storeバージョンの更新。\n `verifyDepsBeforeRun`オプションが追加され、lockと`node_modules/`の状態を比較して自動インストールなどの挙動を選択できるようになるなど。",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
