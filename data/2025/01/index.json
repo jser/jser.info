@@ -11,6 +11,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-02T13:13:51.355Z",
+            "title": "CodSpeed: Optimize Performance, Eliminate Regressions",
+            "url": "https://codspeed.io/",
+            "content": "CIでベンチマークを取得してリグレッションを検知するサービス。\nPython/Rust/Node.jsに対応している",
+            "tags": [
+                "webservice",
+                "benchmark",
+                "python",
+                "Rust",
+                "nodejs"
+            ],
+            "relatedLinks": []
         }
     ]
 }
