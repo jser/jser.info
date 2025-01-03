@@ -37,6 +37,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-03T03:51:29.684Z",
+            "title": "Release 0.10.0 | StyleX",
+            "url": "https://stylexjs.com/blog/v0.10.0",
+            "content": "StyleX v0.10.0リリース。\nPostCSSプラグインを刷新し、`@stylexjs/nextjs-plugin`を非推奨に変更。\n`debug`オプションの追加、`inherit: false`の`@property`を使って動的なCSS Custom Propertyを管理することでパフォーマンスの改善など",
+            "tags": [
+                "React",
+                "css ",
+                "PostCSS",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
