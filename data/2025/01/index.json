@@ -51,6 +51,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-04T11:58:05.151Z",
+            "title": "Composable Caching with Next.js | Next.js",
+            "url": "https://nextjs.org/blog/composable-caching",
+            "content": "Next.jsの\"use cache\" directiveについて。\n\"use cache\"をつけた関数はserver functionに変換されメモ化された結果を返すようになる。\nクロージャーの場合のキャッシュの動作や`cache()`関数について",
+            "tags": [
+                "Next.js",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
