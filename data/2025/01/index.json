@@ -62,6 +62,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-05T12:18:13.164Z",
+            "title": "Release v3.11.0 · lerna-lite/lerna-lite",
+            "url": "https://github.com/lerna-lite/lerna-lite/releases/tag/v3.11.0",
+            "content": "lerna-lite v3.11.0リリース。\npnpmの`catalog:` protocolの限定的なサポートを追加",
+            "tags": [
+                "npm",
+                "monorepo",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
