@@ -113,7 +113,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2025-01-07T13:54:01.143Z",
+            "date": "2025-01-07T13:55:28.757Z",
             "title": "1人 Intl Advent Calendar 2024 - Adventar",
             "url": "https://adventar.org/calendars/10555",
             "content": "Intl APIについての連載記事",
@@ -122,7 +122,12 @@
                 "i18n",
                 "article"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "1人Intl Advent Calendar を完走しました",
+                    "url": "https://zenn.dev/cybozu_frontend/articles/intl-advent-calendar-24-recap"
+                }
+            ]
         }
     ]
 }
