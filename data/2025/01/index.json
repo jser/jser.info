@@ -100,6 +100,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-07T13:28:55.169Z",
+            "title": "Release pnpm 10.0 RC 3 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v10.0.0-rc.3",
+            "content": "pnpm v10.0.0-rc.3リリース。\nインストールするパッケージのlifecycle scriptをデフォルトで実行しないように変更。\n `pnpm link`の挙動の変更、`packageManager`を参照してpnpmのバージョンを確認するように、ハッシュアルゴリズムをSHA256に変更、storeバージョンの更新。\npnpmに関する設定を共有できる`configDependencies`を追加。 `verifyDepsBeforeRun`オプションが追加され、lockと`node_modules/`の状態を比較して自動インストールなどの挙動を選択できるようになるなど。",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
