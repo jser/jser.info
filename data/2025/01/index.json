@@ -139,6 +139,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-08T02:41:17.995Z",
+            "title": "Firefox 134.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/134.0/releasenotes/",
+            "content": "Firefox 134リリース。\nStage 3の`RegExp.escape()`、Stage 4の`Promise.try()`をサポートなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 134 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/134"
+                }
+            ]
         }
     ]
 }
