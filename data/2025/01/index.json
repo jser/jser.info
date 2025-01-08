@@ -179,6 +179,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-08T15:08:20.401Z",
+            "title": "Node.js — Node v23.6.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v23.6.0",
+            "content": "Node.js v23.6.0リリース。\n`--experimental-strip-types`をデフォルトで有効にして、TypeScriptファイルをフラグなしで実行できるように変更。",
+            "tags": [
+                "nodejs",
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
