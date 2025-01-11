@@ -191,6 +191,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-11T11:33:53.894Z",
+            "title": "pnpm 10.0.0 Blocks Lifecycle Scripts by Default - Socket",
+            "url": "https://socket.dev/blog/pnpm-10-0-0-blocks-lifecycle-scripts-by-default",
+            "content": "pnpm 10ではインストールしたパッケージのlifecycle scriptの実行をデフォルトで無効にしている。",
+            "tags": [
+                "pnpm",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
