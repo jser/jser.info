@@ -216,13 +216,16 @@
             "relatedLinks": []
         },
         {
-            "date": "2025-01-11T11:49:27.567Z",
+            "date": "2025-01-11T11:49:43.805Z",
             "title": "Collaborating across W3C and Ecma for web-interoperable server runtimes through WinterTC - Ecma International",
             "url": "https://ecma-international.org/news/collaborating-across-w3c-and-ecma-for-web-interoperable-server-runtimes-through-wintertc/",
             "content": "サーバサイドJavaScript APIの相互運用性について議論していたWinterCGはEcmaのTC55として標準化などの議論を進めていく方針",
             "tags": [
                 "ecma",
-                "news"
+                "news",
+                "nodejs",
+                "deno",
+                "cloudflare"
             ],
             "relatedLinks": [
                 {
