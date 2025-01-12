@@ -258,6 +258,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-12T13:46:40.705Z",
+            "title": "Release Version 26.0.0 · jsdom/jsdom",
+            "url": "https://github.com/jsdom/jsdom/releases/tag/26.0.0",
+            "content": "jsdom 26.0.0リリース。\nnode-canvasをv3にアップデート、`AbortSignal.any()`のサポート、`URL.parse()`のサポートなど",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
