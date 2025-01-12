@@ -245,6 +245,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-12T13:45:57.556Z",
+            "title": "Release v3.0.0 · Automattic/node-canvas",
+            "url": "https://github.com/Automattic/node-canvas/releases/tag/v3.0.0",
+            "content": "node-canvas 3.0.0リリース。\nNode.js 16のサポート終了、N-APIを利用するように変更など",
+            "tags": [
+                "nodejs",
+                "canvas",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
