@@ -270,6 +270,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-14T15:18:39.281Z",
+            "title": "standard-schema/standard-schema: A standard interface for TypeScript schema validation libraries",
+            "url": "https://github.com/standard-schema/standard-schema",
+            "content": "zodなどのスキーマバリデーションライブラリの標準インターフェースを議論しているリポジトリ。\n標準的なインターフェースを決めることで、UIライブラリなどが特定のスキーマバリデーションライブラリへ依存しないようにしたいという目的",
+            "tags": [
+                "TypeScript",
+                "proposal"
+            ],
+            "relatedLinks": []
         }
     ]
 }
