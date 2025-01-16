@@ -339,6 +339,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-16T13:19:03.618Z",
+            "title": "January 15, 2025 Release – React Spectrum Releases",
+            "url": "https://react-spectrum.adobe.com/releases/2025-01-15.html",
+            "content": "React Aria January 15, 2025リリース。\nAutocompleteコンポーネントの追加、OverlayコンポーネントでのCSS Transitionsのサポート、`@react-aria/test-utils`パッケージの追加。\n`usePress`からiOS 13のバグ対応のコードを削除など",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
