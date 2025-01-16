@@ -281,6 +281,18 @@
                 "proposal"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-16T09:45:07.334Z",
+            "title": "Release v136 · esm-dev/esm.sh",
+            "url": "https://github.com/esm-dev/esm.sh/releases/tag/v136",
+            "content": "esm.sh v136リリース。\njsrのサポート、pkg.pr.newのサポート。\nビルドパフォーマンスの改善、`build` API/Deno CLIスクリプトの非推奨化など",
+            "tags": [
+                "JavaScript",
+                "cdn",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
