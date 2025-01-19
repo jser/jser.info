@@ -351,6 +351,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-19T05:35:35.750Z",
+            "title": "Release v8.5.0 · storybookjs/storybook",
+            "url": "https://github.com/storybookjs/storybook/releases/tag/v8.5.0",
+            "content": "Storybook v8.5.0リリース。\n`@storybook/addon-a11y`の改善、`@storybook/experimental-addon-test`の改善、React 10のサポート。\nReact Native Webをサポートなど",
+            "tags": [
+                "storybook",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
