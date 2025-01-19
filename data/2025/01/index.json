@@ -389,6 +389,24 @@
                     "url": "https://developer.chrome.com/blog/new-in-chrome-132?hl=en"
                 }
             ]
+        },
+        {
+            "date": "2025-01-19T06:56:12.382Z",
+            "title": "Vitest 3.0 is out! | Vitest",
+            "url": "https://vitest.dev/blog/vitest-3",
+            "content": "Vitest 3.0リリース。\nVite 6をサポート、`spy.mockReset`の変更、CLIのrepoterの書き直し、ワークスペースの設定を`vitest.config`ファイルに書けるように、`vitest/node`を公開。\n`describe.for` APIの追加、`toBeOneOf`/`toSatisfy`/`toHaveBeenCalledAfter`/`toHaveBeenCalledOnceWith`の追加など",
+            "tags": [
+                "vite",
+                "test",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v3.0.0 · vitest-dev/vitest",
+                    "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.0"
+                }
+            ]
         }
     ]
 }
