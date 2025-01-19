@@ -431,6 +431,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-19T13:46:08.419Z",
+            "title": "A checklist for your `tsconfig.json`",
+            "url": "https://2ality.com/2025/01/tsconfig-json.html",
+            "content": "`tsconfig.json`の設定や動作について。\nそれぞれのオプションの意味や典型的な設定についての解説",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
