@@ -362,6 +362,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-19T05:44:44.202Z",
+            "title": "Announcing Nuxt Content version 3",
+            "url": "https://content.nuxt.com/blog/v3",
+            "content": "Nuxt Content v3リリース。\nファイルベースの代わりにPostgreSQL/Cloudflare D1/LibSQLなどのデータベースを利用できるように。\nブラウザでは、Wasm SQLiteをIn-Memory DBとして利用している。\n`content.config.ts`にコレクションを定義できるように、`queryCollection` APIでコレクションを取得できるようになるなど",
+            "tags": [
+                "Nuxt",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
