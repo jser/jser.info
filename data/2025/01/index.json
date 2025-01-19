@@ -420,6 +420,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-19T08:26:32.282Z",
+            "title": "Electron 34.0.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-34-0",
+            "content": "Electron 34.0.0リリース。\nChromium 132/V8 13.2/Node 20.18.1へアップデート。`WebFrameMain.collectJavaScriptCallStack()` APIの追加、Brotli/ZStandardの共有辞書を管理するためのAPIを追加など",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
