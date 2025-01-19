@@ -373,6 +373,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-19T06:47:37.853Z",
+            "title": "Chrome 132  |  Release notes  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/release-notes/132",
+            "content": "Chrome 132リリース。\n`<dialog>`の`toggle`イベントをサポート、CSSの`writing-mode`が`sideways-{lr,lr}`(横書きモード)をサポート。\n`Request.bytes()`/`Response.bytes()`をサポート、すべての画面をキャプチャする`getAllScreensMedia()`のサポート、Element captureのサポート。\nOrigin TrialとしてExplicit compile hints with magic comments、`Document-Isolation-Policy`のサポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "New in Chrome 132  |  Blog  |  Chrome for Developers",
+                    "url": "https://developer.chrome.com/blog/new-in-chrome-132?hl=en"
+                }
+            ]
         }
     ]
 }
