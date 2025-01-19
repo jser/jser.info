@@ -353,23 +353,23 @@
             "relatedLinks": []
         },
         {
-            "date": "2025-01-19T05:35:35.750Z",
-            "title": "Release v8.5.0 · storybookjs/storybook",
-            "url": "https://github.com/storybookjs/storybook/releases/tag/v8.5.0",
-            "content": "Storybook v8.5.0リリース。\n`@storybook/addon-a11y`の改善、`@storybook/experimental-addon-test`の改善、React 10のサポート。\nReact Native Webをサポートなど",
-            "tags": [
-                "storybook",
-                "ReleaseNote"
-            ],
-            "relatedLinks": []
-        },
-        {
             "date": "2025-01-19T05:44:44.202Z",
             "title": "Announcing Nuxt Content version 3",
             "url": "https://content.nuxt.com/blog/v3",
             "content": "Nuxt Content v3リリース。\nファイルベースの代わりにPostgreSQL/Cloudflare D1/LibSQLなどのデータベースを利用できるように。\nブラウザでは、Wasm SQLiteをIn-Memory DBとして利用している。\n`content.config.ts`にコレクションを定義できるように、`queryCollection` APIでコレクションを取得できるようになるなど",
             "tags": [
                 "Nuxt",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        },
+        {
+            "date": "2025-01-19T06:15:04.653Z",
+            "title": "Release v8.5.0 · storybookjs/storybook",
+            "url": "https://github.com/storybookjs/storybook/releases/tag/v8.5.0",
+            "content": "Storybook v8.5.0リリース。\n`@storybook/addon-a11y`の改善、`@storybook/experimental-addon-test`の改善、React 19のサポート。\nReact Native Webをサポートなど",
+            "tags": [
+                "storybook",
                 "ReleaseNote"
             ],
             "relatedLinks": []
