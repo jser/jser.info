@@ -407,6 +407,19 @@
                     "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.0"
                 }
             ]
+        },
+        {
+            "date": "2025-01-19T08:09:28.235Z",
+            "title": "Changelog: Cypress App | Cypress Documentation",
+            "url": "https://docs.cypress.io/app/references/changelog#14-0-0",
+            "content": "Cypress 14.0.0リリース。\nNode.js 16のサポート終了、`document.domain`をデフォルトで設定しないように変更、サブドメイン間を移動する時は`cy.origin`を利用するように変更など",
+            "tags": [
+                "JavaScript",
+                "browser",
+                "test",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
