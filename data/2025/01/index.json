@@ -472,6 +472,17 @@
                     "url": "https://github.com/lazarv/react-server"
                 }
             ]
+        },
+        {
+            "date": "2025-01-21T13:14:42.082Z",
+            "title": "Announcing Rspack 1.2 - Rspack",
+            "url": "https://rspack.dev/blog/announcing-1-2",
+            "content": "Rspack 1.2リリース。\n実験的な機能として永続キャッシュのサポート、Code Splittingのマルチスレッドサポート、Yarn PnPのサポート。\nデフォルトで`node_modules`の変更を監視しないように変更、SWC minimizerの`passes`のデフォルト値を`2`に変更など",
+            "tags": [
+                "rspack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
