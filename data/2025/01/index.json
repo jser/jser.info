@@ -511,6 +511,24 @@
                     "url": "https://zenn.dev/ykicchan/articles/5415871c017b22"
                 }
             ]
+        },
+        {
+            "date": "2025-01-22T16:15:29.824Z",
+            "title": "ircam-ismm/node-web-audio-api: Web Audio API implementation for Node.js",
+            "url": "https://github.com/ircam-ismm/node-web-audio-api?tab=readme-ov-file",
+            "content": "Web Audio APIのRust実装を使ったNode.js向けのバインディング。\nWeb Audio API互換のAPIでAudioを扱える",
+            "tags": [
+                "nodejs",
+                "Rust",
+                "audio",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "orottier/web-audio-api-rs: A Rust implementation of the Web Audio API, for use in non-browser contexts",
+                    "url": "https://github.com/orottier/web-audio-api-rs/?tab=readme-ov-file"
+                }
+            ]
         }
     ]
 }
