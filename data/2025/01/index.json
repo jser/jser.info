@@ -495,6 +495,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-22T14:57:53.078Z",
+            "title": "desko27/react-call: ⚛️ 📡 Call your React components",
+            "url": "https://github.com/desko27/react-call",
+            "content": "Reactで`window.confirm`のように手続き的なモーダル表示などを管理できるライブラリ",
+            "tags": [
+                "React",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "React で Modal や Confirm の実装を簡単にする react-call というライブラリがアツい！！！",
+                    "url": "https://zenn.dev/ykicchan/articles/5415871c017b22"
+                }
+            ]
         }
     ]
 }
