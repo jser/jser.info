@@ -541,6 +541,17 @@
                     "url": "https://github.com/lazarv/react-server"
                 }
             ]
+        },
+        {
+            "date": "2025-01-23T14:29:51.404Z",
+            "title": "Bun 1.2 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.2",
+            "content": "Bun v1.2リリース。\nNode.jsとの互換性の向上、`node:http2`/`node:dgram`/`node:cluster`のサポート。\n`Bun.s3`のS3 APIの追加、`Bun.sql`のPostgresのサポート、テキストベースの`bun.lock`ファイルのサポート。\n`package.json`にコメントを書けるように、`.npmrc`ファイルのサポート。\n`bun run --filter`、`bun publish`コマンドのサポート、`bun patch`のサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
