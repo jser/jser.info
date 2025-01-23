@@ -456,24 +456,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2025-01-21T01:09:27.916Z",
-            "title": "@lazarv/react-server",
-            "url": "https://react-server.dev/",
-            "content": "ViteベースのReact Server ComponentやServer Actionに対応したReactフレームワーク。\nファイルシステムベースのルーティング、Static generation、React Server Componentなどに対応しテイル。",
-            "tags": [
-                "React",
-                "vite",
-                "server",
-                "library"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "lazarv/react-server: The easiest way to build React apps with server-side rendering",
-                    "url": "https://github.com/lazarv/react-server"
-                }
-            ]
-        },
-        {
             "date": "2025-01-21T13:14:42.082Z",
             "title": "Announcing Rspack 1.2 - Rspack",
             "url": "https://rspack.dev/blog/announcing-1-2",
@@ -541,6 +523,24 @@
                 "security"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-23T01:05:09.208Z",
+            "title": "@lazarv/react-server",
+            "url": "https://react-server.dev/",
+            "content": "ViteベースのReact Server ComponentやServer Actionに対応したReactフレームワーク。\nファイルシステムベースのルーティング、Static generation、React Server Componentなどに対応している",
+            "tags": [
+                "React",
+                "vite",
+                "server",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "lazarv/react-server: The easiest way to build React apps with server-side rendering",
+                    "url": "https://github.com/lazarv/react-server"
+                }
+            ]
         }
     ]
 }
