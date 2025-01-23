@@ -529,6 +529,18 @@
                     "url": "https://github.com/orottier/web-audio-api-rs/?tab=readme-ov-file"
                 }
             ]
+        },
+        {
+            "date": "2025-01-23T01:04:04.858Z",
+            "title": "Node.js — Tuesday, January 21, 2025 Security Releases",
+            "url": "https://nodejs.org/en/blog/vulnerability/january-2025-security-releases",
+            "content": "Node.jsのセキュリティアップデートとして、それぞれのバージョンのアップデートが公開された。\n\n- Node.js v18.20.6\n- Node.js v20.18.2\n- Node.js v22.13.1\n- Node.js v23.6.1\n\nすでにメンテナンスが終了(EOL)したNode.js 16.xにも影響する脆弱性であるため、EOLとなったバージョンにもCVEは発行されている。",
+            "tags": [
+                "nodejs",
+                "ReleaseNote",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
