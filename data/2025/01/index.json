@@ -552,6 +552,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-23T23:36:28.370Z",
+            "title": "Release v1.50.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.50.0",
+            "content": "playwright v1.50.0リリース。\n`test.step`に`timeout`オプションの追加、`test.step.skip()`の追加、`toMatchAriaSnapshot()`の結果をYAMLファイルとして保存できるように。\n`toHaveAccessibleErrorMessage()`の追加、`testConfig.webServer`に`gracefulShutdown`オプションの追加など",
+            "tags": [
+                "playwright",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
