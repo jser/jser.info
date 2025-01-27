@@ -563,6 +563,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-27T12:31:40.543Z",
+            "title": "Tailwind CSS v4.0 - Tailwind CSS",
+            "url": "https://tailwindcss.com/blog/tailwindcss-v4",
+            "content": "Tailwind CSS v4リリース。\nLightning CSSを使った新しいエンジンに変更、PostCSSの外部プラグインに非依存な形へ変更、Viteプラグインの追加。\n`@source`ディレクティブの追加、CSS-first configurationのサポート。\n`@container`/`starting` variant/`not-*` variantsの追加など",
+            "tags": [
+                "css ",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
