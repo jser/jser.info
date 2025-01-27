@@ -598,6 +598,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-27T23:51:19.238Z",
+            "title": "Release pnpm 10.1 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v10.1.0",
+            "content": "pnpm v10.1.0リリース。\n無視されたビルドスクリプトの依存を表示する`pnpm ignored-builds`コマンド/承認する`pnpm approve-builds`コマンドの追加。\nビルドスクリプトを無視する依存を定義する`pnpm.ignoredBuiltDependencies`オプションを追加。\nreinstallの最適化を有効にする`optimistic-repeat-install`の設定を追加など",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
