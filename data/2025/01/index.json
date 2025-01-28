@@ -609,6 +609,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-28T00:29:53.188Z",
+            "title": "Bun v1.2.1 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.2.1",
+            "content": "Bun v1.2.1リリース。\nS3の`storageClass`をサポート、`crypto.generateKeyPair`でX25519をサポート、`toMatchInlineSnapshot()`をサポート。\nBufferをデフォルトでzero fillする`--zero-fill-buffers`をサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
