@@ -654,6 +654,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-30T05:09:35.250Z",
+            "title": "Release v11.1.0 · npm/cli",
+            "url": "https://github.com/npm/cli/releases/tag/v11.1.0",
+            "content": "npm v11.1.0リリース。\n非推奨を解除する`npm unprecate`コマンドの追加など",
+            "tags": [
+                "npm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
