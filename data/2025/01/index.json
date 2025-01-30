@@ -620,6 +620,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-30T00:16:03.771Z",
+            "title": "Standard Schema",
+            "url": "https://standardschema.dev/",
+            "content": "TypeScriptのスキーマバリデーションライブラリの共通インターフェースの定義。バリデーションライブラリを利用するライブラリが、外から共通インターフェースの実装を受け取ることで特定のライブラリへの依存をしないための仕組み。\nzod/Valibot/Arktypeなどが対応していて、各種ライブラリの対応状況などがまとめられている。",
+            "tags": [
+                "TypeScript",
+                "spec",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
