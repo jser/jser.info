@@ -643,6 +643,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-30T00:52:59.251Z",
+            "title": "Announcing TypeScript 5.8 Beta - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-beta/",
+            "content": "TypeScript 5.8 Betaリリース。\nconditional return typeの改善、`require(esm)`の対応、`--module node18`を追加。\nNode.jsの`--experimental-strip-types`と合わせた設定をする`--erasableSyntaxOnly`フラグの追加、`--libReplacement`フラグの追加など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
