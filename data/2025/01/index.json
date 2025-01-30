@@ -632,6 +632,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-01-30T00:45:17.703Z",
+            "title": "eslint-plugin-no-barrel-filesを導入してBarrel filesをやめた話 | PR TIMES 開発者ブログ",
+            "url": "https://developers.prtimes.jp/2025/01/28/avoid-barrel-files-in-prtimes/",
+            "content": "複数のモジュールを1つのindexファイルからまとめてexportするBarrel filesをESLintでチェックして廃止する方法について",
+            "tags": [
+                "ESLint",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
