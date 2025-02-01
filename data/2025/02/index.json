@@ -21,6 +21,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-02-01T05:15:59.430Z",
+            "title": "Release v0.31.0 · nodejs/corepack",
+            "url": "https://github.com/nodejs/corepack/releases/tag/v0.31.0",
+            "content": "corepack v0.31.0リリース。\nnpm registryにsignaturesが複数ある場合に失敗する問題を修正(`corepack use pnpm`でインストールできない問題の修正)",
+            "tags": [
+                "nodejs",
+                "npm",
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "`pnpm@10.1.0` / `pnpm@9.15.4` cannot be installed due to key id mismatch · Issue #612 · nodejs/corepack",
+                    "url": "https://github.com/nodejs/corepack/issues/612"
+                }
+            ]
         }
     ]
 }
