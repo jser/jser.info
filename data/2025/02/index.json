@@ -10,6 +10,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-02-01T04:45:06.012Z",
+            "title": "Node.js — Node v23.7.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v23.7.0",
+            "content": "Node.js v23.7.0リリース。\n`fs.glob`が`exclude`オプションをサポート。\nTextContextに`waitFor()`を追加、`assert.fileSnapshot()`でスナップショットテストをサポート、`assert.register()`で独自のassertionをサポート。",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
