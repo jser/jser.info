@@ -88,6 +88,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-02-09T13:05:43.815Z",
+            "title": "Chrome 133  |  Release notes  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/release-notes/133",
+            "content": "Chrome 133リリース。\n`popover=hint`のサポート。\nCSSの`attr()`での`type()`のサポート、`@container scroll-state`のサポート、`text-box`/`text-box-trim`/`text-box-edge`のサポート。\nDOMの移動を行う`Node.prototype.moveBefore`のサポート、WebAssembly Memory64のサポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "New in Chrome 133  |  Blog  |  Chrome for Developers",
+                    "url": "https://developer.chrome.com/blog/new-in-chrome-133?hl=en"
+                }
+            ]
         }
     ]
 }
