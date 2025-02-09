@@ -131,6 +131,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-02-09T14:41:10.608Z",
+            "title": "Release v4.7.0 · honojs/hono",
+            "url": "https://github.com/honojs/hono/releases/tag/v4.7.0",
+            "content": "Hono v4.7.0リリース。\n`hono/proxy`モジュールの追加、`hono/language`モジュールの追加、`hono/jwk`モジュールの追加。\nStandard Schema validatorのサポートなど",
+            "tags": [
+                "Hono",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
