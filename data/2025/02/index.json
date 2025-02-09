@@ -76,6 +76,18 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-02-09T12:40:17.156Z",
+            "title": "Prettier 3.5: New objectWrap option, experimentalOperatorPosition option and TS config file support! · Prettier",
+            "url": "https://prettier.io/blog/2025/02/09/3.5.0.html",
+            "content": "Prettier 3.5リリース。\n`--experimental-operator-position`フラグの追加、`objectWrap`オプションの追加、設定ファイルのTypeScript形式をサポートなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
