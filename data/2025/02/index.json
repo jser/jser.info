@@ -104,6 +104,22 @@
                     "url": "https://developer.chrome.com/blog/new-in-chrome-133?hl=en"
                 }
             ]
+        },
+        {
+            "date": "2025-02-09T13:11:31.823Z",
+            "title": "Firefox 135.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/135.0/releasenotes/",
+            "content": "Firefox 135リリース。\nStage 3のJSON.parse with sourceをサポート、`PublicKeyCredential.getClientCapabilities()`のサポート。\n実験的な機能としてTemporal API、Task Scheduling APIのサポートなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 135 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/135"
+                }
+            ]
         }
     ]
 }
