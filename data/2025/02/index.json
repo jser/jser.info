@@ -120,6 +120,17 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/135"
                 }
             ]
+        },
+        {
+            "date": "2025-02-09T14:38:42.081Z",
+            "title": "Release v0.25.0 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.0",
+            "content": "esbuild v0.25.0リリース。\n開発サーバのCORSの問題を修正、CSS nestingのバグ修正、Source Mapのバグ修正など",
+            "tags": [
+                "esbuild",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
