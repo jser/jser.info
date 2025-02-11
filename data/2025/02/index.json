@@ -176,6 +176,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-02-11T14:06:12.044Z",
+            "title": "Node.js — Node v22.14.0 (LTS)",
+            "url": "https://nodejs.org/en/blog/release/v22.14.0",
+            "content": "Node.js v22.14.0リリース。\nglobに`exclude`オプションを追加、`node --eval`フラグがTypeScriptをサポート、`util`モジュールに`findPackageJSON`を追加。\n`TestContext.prototype.waitFor()`の追加、`assert.fileSnapshot()`、`assert.register()`の追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
