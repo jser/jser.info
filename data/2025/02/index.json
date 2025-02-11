@@ -199,6 +199,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-02-11T15:34:48.760Z",
+            "title": "antfu/node-modules-inspector: Interactive UI for local node modules inspection",
+            "url": "https://github.com/antfu/node-modules-inspector?tab=readme-ov-file",
+            "content": "node_modulesの依存関係、ESM/CJS/DUALパッケージの可視化ツール",
+            "tags": [
+                "nodejs",
+                "npm",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
