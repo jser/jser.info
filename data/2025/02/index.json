@@ -222,6 +222,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-02-14T00:45:59.961Z",
+            "title": "Release v5.98.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v5.98.0",
+            "content": "webpack v5.98.0リリース。\nパフォーマンスの改善、`require.resolve(/* webpackIgnore: true */ 'x');`のサポートなど",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
