@@ -233,6 +233,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-02-14T00:49:57.335Z",
+            "title": "Node.js — Node v23.8.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v23.8.0",
+            "content": "Node.js v23.8.0リリース。\n`--use-system-ca`フラグの追加、`URLPattern` APIのサポート、`node:zlib`がzstdをサポートなど",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
