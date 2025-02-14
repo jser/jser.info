@@ -274,6 +274,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-02-14T10:59:59.381Z",
+            "title": "Announcing TypeScript 5.8 RC - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-rc/",
+            "content": "TypeScript 5.8 RCリリース。\nconditional return typeの改善、`require(esm)`の対応、`--module node18`を追加。 Node.jsの`--experimental-strip-types`と合わせた設定をする`--erasableSyntaxOnly`フラグの追加、`--libReplacement`フラグの追加など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
