@@ -262,6 +262,18 @@
                     "url": "https://github.com/apollographql/apollo-client/issues/12352"
                 }
             ]
+        },
+        {
+            "date": "2025-02-14T01:11:42.955Z",
+            "title": "Valibot v1 RC is now available | Valibot",
+            "url": "https://valibot.dev/blog/valibot-v1-rc-is-available/",
+            "content": "Valibot v1 RCリリース。\nStandard Schemaの対応、`@valibot/to-json-schema`でのJSONスキーマ出力、TSの`exactOptionalPropertyTypes`の対応など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
