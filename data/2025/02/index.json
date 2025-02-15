@@ -285,6 +285,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-02-15T01:02:08.520Z",
+            "title": "Release pnpm 10.4 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v10.4.0",
+            "content": "pnpm v10.4.0リリース。\n`pnpm approve-builds --global`の追加、`pnpm --allow-build=<pkg> add`の追加、`pnpm approve-builds`のバグ修正など",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
