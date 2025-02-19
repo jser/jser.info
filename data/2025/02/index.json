@@ -318,6 +318,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-02-19T00:56:47.537Z",
+            "title": "Release v3.0.5 · vitest-dev/vitest",
+            "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5",
+            "content": "vitest v3.0.5リリース。\nVitest UIのAPIサーバはリクエストのOriginチェックをしていなかったため、罠サイトへのアクセス時にホストマシンで任意のコード実行ができるRCEの脆弱性の修正が含まれている。",
+            "tags": [
+                "vite",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
