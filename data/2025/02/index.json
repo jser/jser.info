@@ -354,6 +354,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-02-20T23:43:52.712Z",
+            "title": "ESLint now officially supports linting of CSS - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2025/02/eslint-css-support/",
+            "content": "ESLintがCSSのLintを正式にサポート。\n`@eslint/css`プラグインでCSSのLintに対応、`tolerant`オプションで構文エラーのケースにも対応、`customSyntax`で独自の`@at-rule`などにも対応している",
+            "tags": [
+                "ESLint",
+                "css",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
