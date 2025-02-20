@@ -343,6 +343,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-02-20T23:39:07.458Z",
+            "title": "Deno 2.2: OpenTelemetry, Lint Plugins, node:sqlite",
+            "url": "https://deno.com/blog/v2.2",
+            "content": "Deno v2.2リリース。\nlintのビルトインルールの追加、JavaScriptで書けるLint Plugin APIの追加、`deno task`がwildcard(`*`)指定に対応。\n`deno outdated`にinteractive modeを追加、`deno compile`の改善。\nunstableな機能としてOpenTelemetryのサポート、`WebTransport` APIのサポートなど",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
