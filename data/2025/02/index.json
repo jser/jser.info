@@ -377,6 +377,43 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-02-22T13:07:27.649Z",
+            "title": "Interop 2025がスタート | フロントエンドBlog | ミツエーリンクス",
+            "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202502/17_0829.html",
+            "content": "ブラウザの相互運用性向上の取り組みであるInterop 2025が発表された。\n",
+            "tags": [
+                "browser",
+                "article",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Announcing Interop 2025 | WebKit",
+                    "url": "https://webkit.org/blog/16458/announcing-interop-2025/"
+                },
+                {
+                    "title": "Interop 2025 Launch - Bocoup",
+                    "url": "https://www.bocoup.com/blog/interop-2025"
+                },
+                {
+                    "title": "Interop 2025: another year of web platform improvements  |  Blog  |  web.dev",
+                    "url": "https://web.dev/blog/interop-2025"
+                },
+                {
+                    "title": "Interop 2025 | Igalia",
+                    "url": "https://www.igalia.com/2025/02/13/Interop-2025.html"
+                },
+                {
+                    "title": "Microsoft Edge and Interop 2025 - Microsoft Edge Blog",
+                    "url": "https://blogs.windows.com/msedgedev/2025/02/13/microsoft-edge-and-interop-2025/"
+                },
+                {
+                    "title": "Launching Interop 2025 - Mozilla Hacks - the Web developer blog",
+                    "url": "https://hacks.mozilla.org/2025/02/interop-2025/"
+                }
+            ]
         }
     ]
 }
