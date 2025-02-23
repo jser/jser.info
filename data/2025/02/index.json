@@ -414,6 +414,17 @@
                     "url": "https://hacks.mozilla.org/2025/02/interop-2025/"
                 }
             ]
+        },
+        {
+            "date": "2025-02-23T08:03:35.582Z",
+            "title": "Bun v1.2.3 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.2.3",
+            "content": "Bun v1.2.3リリース。\n`bun ./index.html`で開発サーバが立ち上がるように、`Bun.serve`の`static`オプションを`routes`オプションに変更。\n`bun init`でReactプロジェクトを作成できるように、`bun install --analyze`で不足してる依存を`pacakge.json`に追加。\nWasmのinterpreterとしてLLIntではなくIPINTを使うのをデフォルトにして、`BUN_JSC_useWasmIPInt=0`で元に戻せるように",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
