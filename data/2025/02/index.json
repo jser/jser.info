@@ -484,6 +484,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-02-28T00:20:43.094Z",
+            "title": "ArkType Docs: Optimized runtime validation for TypeScript syntax",
+            "url": "https://arktype.io/docs/blog/2.1",
+            "content": "ArkType 2.1リリース。\nパターンマッチを行う`match`　APIを追加、`configure`でキーワードに対するエラーメッセージをカスタマイズできるようになるなど",
+            "tags": [
+                "TypeScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
