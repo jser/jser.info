@@ -57,6 +57,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-02T12:31:29.323Z",
+            "title": "Re.Pack 5: Mobile Microfrontends, 5x Faster, Less Configuration - Re.Pack",
+            "url": "https://re-pack.dev/blog/repack-5-release",
+            "content": "React Native向けのビルドツールであるRe.Pack 5リリース。\nwebpackの代わりにRspackを利用するように、Module Federationの対応など",
+            "tags": [
+                "React",
+                "Native",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
