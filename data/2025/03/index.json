@@ -23,6 +23,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-02T01:31:40.569Z",
+            "title": "Release 3.41.0 - 2025.03.01 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.41.0",
+            "content": "core-js v3.41.0リリース。\nStage 4となった`RegExp.escape`/Float16、Stage 1の`Math.clamp`への対応など",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
