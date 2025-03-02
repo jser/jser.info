@@ -70,6 +70,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-02T13:26:50.977Z",
+            "title": "Release pnpm 10.5 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v10.5.0",
+            "content": "pnpm v10.5.0リリース。\n`package.json`に分散していた`pnpm.*`の設定を`pnpm-workspace.yaml`にかけるように変更など",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
