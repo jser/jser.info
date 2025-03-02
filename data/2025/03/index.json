@@ -35,6 +35,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-02T06:33:23.491Z",
+            "title": "Next.js 15.2 | Next.js",
+            "url": "https://nextjs.org/blog/next-15-2",
+            "content": "Next.js 15.2リリース。\nError Overlayのスタックトレースの表示を改善、Dev indicatorの改善、`generateMetadata`の処理を非同期対応、Turbopackのパフォーマンス改善。\n実験的な機能としてView Transition APIの対応、Node.js middlewareのサポートなど",
+            "tags": [
+                "Next.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
