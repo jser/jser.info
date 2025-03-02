@@ -46,6 +46,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-02T06:58:39.145Z",
+            "title": "What is TypeScript? An overview for JavaScript programmers",
+            "url": "https://2ality.com/2025/02/what-is-typescript.html",
+            "content": "TypeScriptとは何かという概要的な記事。\nTypeScriptはJavaScriptに型構文を足したものである点、TypeScriptのビルド、type strippingなどの`tsc`以外のコンパイルについてなど",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
