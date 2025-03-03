@@ -81,6 +81,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-03T14:46:29.605Z",
+            "title": "Migrating 160,000 Lines of Production Banking JavaScript to TypeScript with Zero Downtime - Ben Howdle - Software Consultant & Advisor",
+            "url": "https://benhowdle.im/migrating-js-to-ts-zero-downtime.html",
+            "content": "JavaScriptからTypeScriptへの移行について。\n移行ブランチを使った移行のアプローチについて",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
