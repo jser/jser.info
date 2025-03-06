@@ -171,6 +171,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-06T01:22:10.084Z",
+            "title": "oxlint で eslint を高速化させる",
+            "url": "https://zenn.dev/hiruno_tarte/articles/how-to-use-oxlint",
+            "content": "oxlintとESLintを組み合わせて利用する設定について。\noxlintとESLintで被っている内容をoxlintに寄せて、ESLintはプラグイン周りのものだけをチェックするようにする設定について",
+            "tags": [
+                "ESLint",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
