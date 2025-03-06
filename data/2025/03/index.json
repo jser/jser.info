@@ -105,6 +105,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-06T00:41:54.672Z",
+            "title": "Chrome 134  |  Release notes  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/release-notes/134",
+            "content": "Chrome 134リリース。\n`<select>`のカスタマイズをサポート、`<dialog>`の`closedby`属性のサポート、Document-Policyに`expect-no-linked-resources`を追加。\nShared StorageでWeb Locks APIをサポート、Canvasで`imageSmoothingQuality`オプションをサポート。\n`getUserMedia`の非標準なAPIを削除など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "WICG/shared-storage: Explainer for proposed web platform Shared Storage API",
+                    "url": "https://github.com/WICG/shared-storage"
+                }
+            ]
         }
     ]
 }
