@@ -146,6 +146,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-06T01:05:59.131Z",
+            "title": "lynx-family/primjs: JavaScript Engine Optimized for Lynx",
+            "url": "https://github.com/lynx-family/primjs",
+            "content": "Lynxで使われているJavaScriptエンジン。\nQuickJSをベースにしていて、GCの実装やChrome DevTools Protocol (CDP)の実装などが追加されている",
+            "tags": [
+                "JavaScript",
+                "Native",
+                "Tools",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
