@@ -182,6 +182,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-07T01:12:52.148Z",
+            "title": "March 5, 2025 Release – React Spectrum Releases",
+            "url": "https://react-spectrum.adobe.com/releases/2025-03-05.html",
+            "content": "React Aria March 5, 2025リリース。\nToast/Tree/Virtualizerコンポーネントを追加、AutocompleteをMenu/Selectなどと組み合わせて利用できるように。\n`<Pressable>`/`<Focusable>`の追加、\n`usePress`のリファクタリング。\nドキュメントをTailwind v4に対応など",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
