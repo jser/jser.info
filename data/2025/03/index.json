@@ -230,10 +230,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2025-03-08T14:26:18.870Z",
+            "date": "2025-03-08T14:27:57.396Z",
             "title": "Release v1.51.0 · microsoft/playwright",
             "url": "https://github.com/microsoft/playwright/releases/tag/v1.51.0",
-            "content": "playwright v1.51.0リリース。\n`browserContext.storageState()`がIndexedDBをサポート、`filter({ visible }`を追加、`expect(page).toHaveURL(fn)`をサポート。\nLLM向けのCopy promptをレポーターに追加など",
+            "content": "playwright v1.51.0リリース。\n`browserContext.storageState()`がIndexedDBをサポート、`filter({ visible })`を追加、`expect(page).toHaveURL(fn)`をサポート。\nLLM向けのCopy promptをレポーターに追加など",
             "tags": [
                 "playwright",
                 "ReleaseNote"
