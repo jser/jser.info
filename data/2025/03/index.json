@@ -253,6 +253,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-08T14:45:45.073Z",
+            "title": "Firefox 136.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/136.0/releasenotes/",
+            "content": "Firefox 136リリース。\nHTMLの`autocorrect`属性をサポート、`Intl.DurationFormat`のサポート、Data URLsの最大サイズを32MBからChromeと同じ512MBに変更。\nCookie Storage APIのサポート、HTTPS-Firstに変更。\n実験的な機能として、`Error.captureStackTrace()`のサポート、`Clear-Site-Data`ヘッダのサポート、SVGの`<discard>`要素のサポートなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 136 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/136"
+                }
+            ]
         }
     ]
 }
