@@ -239,6 +239,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-08T14:36:00.543Z",
+            "title": "Release @ark-ui/react@5.0.0 · chakra-ui/ark",
+            "url": "https://github.com/chakra-ui/ark/releases/tag/%40ark-ui%2Freact%405.0.0",
+            "content": "Ark UI v5リリース。\nパフォーマンスとBundle Sizeの改善、コンポーネントにデフォルト値を指定するオプションの追加など",
+            "tags": [
+                "React",
+                "Vue",
+                "Solid",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
