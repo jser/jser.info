@@ -205,6 +205,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-08T14:21:21.562Z",
+            "title": "Release v3.16.0 · nuxt/nuxt",
+            "url": "https://github.com/nuxt/nuxt/releases/tag/v3.16.0",
+            "content": "Nuxt.js v3.16.0リリース。\n`create-nuxt`パッケージの追加、パフォーマンスの改善、delayed/lazy hydrationのサポートなど",
+            "tags": [
+                "Vue",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
