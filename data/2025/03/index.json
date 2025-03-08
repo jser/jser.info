@@ -217,6 +217,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-08T14:23:05.430Z",
+            "title": "Release pnpm 10.6 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v10.6.0",
+            "content": "pnpm v10.6.0リリース。\n`.npmrc`の設定を全て`pnpm-workspace.yaml`に記述できるように",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
