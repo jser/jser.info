@@ -286,6 +286,18 @@
                     "url": "https://www.youtube.com/embed/pNlq-EVld70?si=OaEgTg6ROtfYDYLt"
                 }
             ]
+        },
+        {
+            "date": "2025-03-11T15:02:19.776Z",
+            "title": "A 10x Faster TypeScript - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/typescript-native-port/",
+            "content": "TypeScriptの型チェックやLSPのパフォーマンスを改善するために、TypeScriptコンパイルやLSPなどのツールをGo言語のポートするという話。\n移植したnative版のTypeScript 7としてリリースする予定で、native版が安定するまではJS版もメンテナンスしていく予定。",
+            "tags": [
+                "TypeScript",
+                "article",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
