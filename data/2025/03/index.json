@@ -269,6 +269,23 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/136"
                 }
             ]
+        },
+        {
+            "date": "2025-03-11T14:50:40.249Z",
+            "title": "microsoft/typescript-go: Staging repo for development of native port of TypeScript",
+            "url": "https://github.com/microsoft/typescript-go",
+            "content": "TypeScriptをGo言語にポートした実装。\n型チェック以外は並行に処理できる。型チェックはいくつかのブロックに分けて処理するようになっている。",
+            "tags": [
+                "TypeScript",
+                "golang",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "A 10x faster TypeScript - YouTube",
+                    "url": "https://www.youtube.com/embed/pNlq-EVld70?si=OaEgTg6ROtfYDYLt"
+                }
+            ]
         }
     ]
 }
