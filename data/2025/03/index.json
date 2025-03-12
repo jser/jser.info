@@ -320,6 +320,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-12T00:49:06.167Z",
+            "title": "Pikku - A Function-First Framework for Node.js | Pikku",
+            "url": "https://pikku.dev/",
+            "content": "TypeScriptで書かれたウェブフレームワーク。\nただの関数としてハンドラーなどを定義できる。TypeScriptのコードからJSONスキーマを生成してバリデーションを行え、クライアントコードも自動的に生成される",
+            "tags": [
+                "TypeScript",
+                "library",
+                "server"
+            ],
+            "relatedLinks": []
         }
     ]
 }
