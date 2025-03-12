@@ -298,6 +298,17 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-12T00:37:50.159Z",
+            "title": "Bun v1.2.5 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.2.5",
+            "content": "Bun v1.2.5リリース。\nNode-APIとの互換性の改善、`node:timers`の追加、`Bun.CSRF`の追加。\ndev serverがsvelteをサポート、CSS modulesのサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
