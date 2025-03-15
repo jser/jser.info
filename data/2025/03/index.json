@@ -332,6 +332,17 @@
                 "server"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-15T23:59:29.950Z",
+            "title": "Node.js — Node v20.19.0 (LTS)",
+            "url": "https://nodejs.org/en/blog/release/v20.19.0",
+            "content": "Node.js v20.19.0リリース。\nNode.js 20.xに`require(esm)`をバックポート、`--experimental-detect-module`をデフォルトで有効に変更など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
