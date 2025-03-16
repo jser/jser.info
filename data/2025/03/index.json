@@ -378,6 +378,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-16T06:48:22.142Z",
+            "title": "Nuxt UI v3 · Nuxt Blog",
+            "url": "https://nuxt.com/blog/nuxt-ui-v3",
+            "content": "Nuxt UI v3リリース。\nHeadlesUIからReka UIへの移行、Tailwind CSS v4へアップデート、型安全なテーマ設定など",
+            "tags": [
+                "Vue",
+                "UI",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Reka UI - Unstyled, fully accessible UI library | Reka UI",
+                    "url": "https://reka-ui.com/"
+                }
+            ]
         }
     ]
 }
