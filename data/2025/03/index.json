@@ -366,6 +366,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-16T06:38:32.320Z",
+            "title": "Oxlint Beta | The JavaScript Oxidation Compiler",
+            "url": "https://oxc.rs/blog/2025-03-15-oxlint-beta.html",
+            "content": "Oxlint Betaリリース\n`eslint-plugin-oxlint`を使ったESLintとの併用について、`.oxlintc.json`ファイルの解決方法の変更。\n`.vue`ファイルなどの`<script>`に対するLintのサポートなど",
+            "tags": [
+                "ESLint",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
