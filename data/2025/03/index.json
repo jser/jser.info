@@ -343,6 +343,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-16T00:01:03.834Z",
+            "title": "Node.js — Node v23.10.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v23.10.0",
+            "content": "Node.js v23.10.0リリース。\n`--experimental-config-file`フラグを追加し`node.config.json`ファイルにNode.js Optionの設定をかけるように",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
