@@ -419,6 +419,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-22T15:01:35.826Z",
+            "title": "Should Corepack stay in the Node.js distribution? by github-actions[bot] · Pull Request #1697 · nodejs/TSC",
+            "url": "https://github.com/nodejs/TSC/pull/1697#issuecomment-2737093616",
+            "content": "corepackはNode.js 25+からは同梱されなくなる。\nNode.js 24にはexperimentalなものとして含まれるが、Node.js 24がEOLとなった後のcorepackのメンテナンスはどうなるかは不明",
+            "tags": [
+                "nodejs",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
