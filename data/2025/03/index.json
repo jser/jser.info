@@ -430,6 +430,27 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-23T08:39:42.502Z",
+            "title": "Authorization Bypass in Next.js Middleware · CVE-2025-29927 · GitHub Advisory Database",
+            "url": "https://github.com/advisories/GHSA-f82v-jwr5-mffw",
+            "content": "Next.jsのセキュリティ修正として 15.2.3 と 14.2.25がリリースされた。\n特定のHTTPヘッダをつけると、middlewareが完全にバイパスされてしまう脆弱性が修正されている",
+            "tags": [
+                "Next.js",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Next.js and the corrupt middleware: the authorizing artifact - zhero_web_security",
+                    "url": "https://zhero-web-sec.github.io/research-and-things/nextjs-and-the-corrupt-middleware"
+                },
+                {
+                    "title": "Release v15.2.3 · vercel/next.js",
+                    "url": "https://github.com/vercel/next.js/releases/tag/v15.2.3"
+                }
+            ]
         }
     ]
 }
