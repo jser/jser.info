@@ -489,6 +489,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-24T15:01:12.772Z",
+            "title": "Thank you - Open Collective",
+            "url": "https://opencollective.com/styled-components/updates/thank-you",
+            "content": "styled-componentsはメンテナンスモードとなり、新しい機能を入れるといった機能開発は行わなくなる予定",
+            "tags": [
+                "news",
+                "React",
+                "css",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "styled-components",
+                    "url": "https://styled-components.com/"
+                }
+            ]
         }
     ]
 }
