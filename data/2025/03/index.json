@@ -507,6 +507,19 @@
                     "url": "https://styled-components.com/"
                 }
             ]
+        },
+        {
+            "date": "2025-03-24T15:07:46.808Z",
+            "title": "Release v4.0.0-alpha.0 · apollographql/apollo-client",
+            "url": "https://github.com/apollographql/apollo-client/releases/tag/v4.0.0-alpha.0",
+            "content": "Apollo Client v4.0.0-alpha.0リリース。\n`asyncMap`/`isApolloError`/`addTypename`オプションの削除。\nReact 16のサポート終了、非推奨だったメソッドやオプションの削除、`ApolloError`の各種エラーは排他的なエラーであることを明確にするように変更。\nObservableの実装を`rxjs`に変更、パッケージのビルドターゲットの変更など",
+            "tags": [
+                "GraphQL",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
