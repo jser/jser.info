@@ -542,6 +542,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-25T15:57:42.799Z",
+            "title": "Biome v2.0 beta | Biome",
+            "url": "https://biomejs.dev/blog/biome-v2-0-beta/",
+            "content": "Biome v2.0 Betaリリース。\nGritQLでのプラグインの追加、Linterに`domains`オプションを追加、複数のファイルにまたがるLintのサポート、`// biome-ignore-all`のサポート。\nHTML Formatterのサポート、ルールの追加など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
