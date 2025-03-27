@@ -554,6 +554,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-27T13:48:04.470Z",
+            "title": "Next.js Support Policy | Next.js by Vercel - The React Framework",
+            "url": "https://nextjs.org/support-policy",
+            "content": "Next.jsのLTSポリシーが公開された。\n現在のメジャーバージョンをActive LTSとし、それ以前のメジャーバージョンは最初のリリースから2年間はMaintenance LTSとしてメンテナンスするポリシー",
+            "tags": [
+                "Next.js",
+                "security",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Postmortem on Next.js Middleware bypass - Vercel",
+                    "url": "https://vercel.com/blog/postmortem-on-next-js-middleware-bypass"
+                }
+            ]
         }
     ]
 }
