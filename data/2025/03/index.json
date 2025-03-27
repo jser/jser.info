@@ -571,6 +571,19 @@
                     "url": "https://vercel.com/blog/postmortem-on-next-js-middleware-bypass"
                 }
             ]
+        },
+        {
+            "date": "2025-03-27T14:03:44.783Z",
+            "title": "New URLPattern API brings improved pattern matching to Node.js and Cloudflare Workers",
+            "url": "https://blog.cloudflare.com/improving-web-standards-urlpattern/",
+            "content": "Node.js, Cloudflare Workers, Denoなどサポートされている `URLPattern` APIについて。\nWHATWGで定義されているAPIだが、WinterTC Minimum Common APIにも含まれている",
+            "tags": [
+                "nodejs",
+                "cloudflare",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
