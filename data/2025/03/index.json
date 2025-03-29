@@ -608,10 +608,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2025-03-29T03:09:45.825Z",
+            "date": "2025-03-29T03:09:55.238Z",
             "title": "Release v4.0.0 · lerna-lite/lerna-lite",
             "url": "https://github.com/lerna-lite/lerna-lite/releases/tag/v4.0.0",
-            "content": "lerna-lite v4.0.0リリース。\nNode.js 18のサポート主不良、依存のアップデートなど",
+            "content": "lerna-lite v4.0.0リリース。\nNode.js 18のサポート終了、依存のアップデートなど",
             "tags": [
                 "nodejs",
                 "ReleaseNote"
