@@ -584,6 +584,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-29T02:55:26.054Z",
+            "title": "Release 19.1.0 (March 28, 2025) · facebook/react",
+            "url": "https://github.com/facebook/react/releases/tag/v19.1.0",
+            "content": "React v19.1.0リリース。\ndevelopment buildでのみ利用できる`captureOwnerStack` APIの追加、`<Suspense>`を`<body>`より上にも書けるように、`useId`の返す形式の変更。\n`react-server-dom-parcel`パッケージの追加など",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
