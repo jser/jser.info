@@ -617,6 +617,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-29T03:14:15.545Z",
+            "title": "Announcing Rspack 1.3 - Rspack",
+            "url": "https://rspack.dev/blog/announcing-1-3",
+            "content": "Rspack 1.3リリース。\n循環参照を検出する`CircularDependencyRspackPlugin`の追加、`experiments.buildHttp`オプションの追加。\nLazy compilationをmiddlewareとして利用できるように、AMDモジュールのサポート、bundle sizeとメモリ使用量の改善。\n",
+            "tags": [
+                "rspack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
