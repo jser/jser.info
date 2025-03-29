@@ -628,6 +628,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-03-29T03:16:07.057Z",
+            "title": "Announcing Rsdoctor 1.0 - Rsdoctor",
+            "url": "https://rsdoctor.dev/blog/release/release-note-1_0",
+            "content": "Rsdoctor 1.0リリース。\nwebpack-bundle-analyzerのようにbundle sizeの分析やビルドの分析が行えるツール。\nrspackまたはwebpackで利用できる",
+            "tags": [
+                "webpack",
+                "rspack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
