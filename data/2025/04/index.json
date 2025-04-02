@@ -10,6 +10,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-02T01:01:55.611Z",
+            "title": "Release v4.1.0 · tailwindlabs/tailwindcss",
+            "url": "https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.1.0",
+            "content": "tailwindcss v4.1.0リリース。\n`details-content`/`inverted-colors`/`noscript`/`pointer-*`のvariantの追加。\n`items-baseline-last`/`self-baseline-last`/`text-shadow` utilitiesの追加。\n`@source inline(…)`/`@source not inline(…)`の追加など",
+            "tags": [
+                "css",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
