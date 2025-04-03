@@ -55,6 +55,17 @@
                     "url": "https://fxdx.dev/network-override-in-firefox-devtools/"
                 }
             ]
+        },
+        {
+            "date": "2025-04-03T03:18:05.145Z",
+            "title": "Node.js — Node v23.11.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v23.11.0",
+            "content": "Node.js v23.11.0リリース。\n`assert.partialDeepStrictEqual`の追加、`crypto.diffieHellman`の追加、`process.execve`の追加、`util.diff`の追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
