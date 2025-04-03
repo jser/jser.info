@@ -22,6 +22,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-03T03:08:37.230Z",
+            "title": "Release 8.5.0 — Flow Splitter · google/zx",
+            "url": "https://github.com/google/zx/releases/tag/8.5.0",
+            "content": "zx 8.5.0リリース。\n`zx@lite`でより小さいサイズのパッケージとして利用できるように、npm/GitHub/JSR/homebrew/Dockerなど色々な方法でインストールできるように",
+            "tags": [
+                "JavaScript",
+                "nodejs",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
