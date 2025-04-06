@@ -77,6 +77,17 @@
                 "ebook"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-06T01:37:08.225Z",
+            "title": "Express@5.1.0: Now the Default on npm with LTS Timeline",
+            "url": "https://expressjs.com/2025/03/31/v5-1-latest-release.html",
+            "content": "Express 5.1.0リリース。\nexpress 5.xの正式リリースとなるバージョン。\nドキュメントの刷新、codemodでのマイグレーションツールの提供。\nまた、LTS Policyについても定義され、4.xは2026-10-01でサポートが終了する。",
+            "tags": [
+                "express",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
