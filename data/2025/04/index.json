@@ -177,6 +177,18 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-06T14:36:26.345Z",
+            "title": "Turborepo 2.5 | Turborepo",
+            "url": "https://turbo.build/blog/turbo-2-5",
+            "content": "Turborepo 2.5リリース。\n`with`オプションでの長時間タスクを依存に指定できるように、`--continue=dependencies-successful`の追加、`turbo.jsonc`のサポートなど",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
