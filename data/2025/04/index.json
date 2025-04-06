@@ -154,6 +154,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-06T12:51:19.874Z",
+            "title": "bytecodealliance/StarlingMonkey: The StarlingMonkey JS runtime",
+            "url": "https://github.com/bytecodealliance/StarlingMonkey",
+            "content": "Wasmの最適化されたSpiderMonkeyをベースにしたJavaScriptエンジン",
+            "tags": [
+                "JavaScript",
+                "WebAssembly"
+            ],
+            "relatedLinks": []
         }
     ]
 }
