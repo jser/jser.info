@@ -90,7 +90,7 @@
             "relatedLinks": []
         },
         {
-            "date": "2025-04-06T01:50:42.272Z",
+            "date": "2025-04-06T01:53:04.497Z",
             "title": "harrysolovay/standard-json-schema: Turn standard types into JSON schemas",
             "url": "https://github.com/harrysolovay/standard-json-schema",
             "content": "Standard SchemaをJSON Schemaへと変換するAdaptorライブラリ。\nzod/arktype/valibot/typeboxなどに対応していて、それぞれpeerDependenciesとして定義している",
@@ -100,7 +100,12 @@
                 "JSON",
                 "library"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "[Feature Request] support `toJSONSchema` · Issue #21 · standard-schema/standard-schema",
+                    "url": "https://github.com/standard-schema/standard-schema/issues/21"
+                }
+            ]
         }
     ]
 }
