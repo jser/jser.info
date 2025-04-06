@@ -106,6 +106,17 @@
                     "url": "https://github.com/standard-schema/standard-schema/issues/21"
                 }
             ]
+        },
+        {
+            "date": "2025-04-06T07:42:33.492Z",
+            "title": "WebKit Features in Safari 18.4 | WebKit",
+            "url": "https://webkit.org/blog/16574/webkit-features-in-safari-18-4/",
+            "content": "Safari 18.4リリース。\nDeclarative Web Pushのサポート。\nCSSの`shape()`/`writing-mode`の横書きモード/`text-autospace`のサポート。\nHTMLの`<input type=\"color\" />`の改善。\nWeb InspectorのLocal Overridesで一部データだけ変更できるように、`console.screenshot()` APIの追加。\nImage Capture APIのサポート、Screen Wake Lock APIがiOS/iPad OSでも動くように、Cookie Store APIのサポート。\nES2025のIterator Helpersのサポート、Stage 3の`Error.isError`をサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
