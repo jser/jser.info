@@ -142,6 +142,18 @@
                     "url": "https://tailwindcss.com/blog/tailwindcss-v4-1"
                 }
             ]
+        },
+        {
+            "date": "2025-04-06T11:58:22.507Z",
+            "title": "Modern Cookie Management with the Cookie Store API",
+            "url": "https://www.telerik.com/blogs/modern-cookie-management-cookie-store-api",
+            "content": "Cookie Store APIについて。\n`document.cookie`との違いやCookie Store API を使ったCookieの読み書きについて",
+            "tags": [
+                "JavaScript",
+                "WebPlatformAPI",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
