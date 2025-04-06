@@ -88,6 +88,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-06T01:50:42.272Z",
+            "title": "harrysolovay/standard-json-schema: Turn standard types into JSON schemas",
+            "url": "https://github.com/harrysolovay/standard-json-schema",
+            "content": "Standard SchemaをJSON Schemaへと変換するAdaptorライブラリ。\nzod/arktype/valibot/typeboxなどに対応していて、それぞれpeerDependenciesとして定義している",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "JSON",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
