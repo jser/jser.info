@@ -206,6 +206,19 @@
                     "url": "https://bare.pears.com/"
                 }
             ]
+        },
+        {
+            "date": "2025-04-08T11:24:12.691Z",
+            "title": "toss/es-git: A modern Git library built for Node.js with blazing-fast installation and rock-solid stability, powered by N-API.",
+            "url": "https://github.com/toss/es-git",
+            "content": "Node.jsのN-APIを使ったGitのbindingライブラリ",
+            "tags": [
+                "nodejs",
+                "Rust",
+                "git ",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
