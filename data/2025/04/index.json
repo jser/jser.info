@@ -219,6 +219,25 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-09T00:19:15.262Z",
+            "title": "Material UI v7 is here 🚀 - MUI",
+            "url": "https://mui.com/blog/material-ui-v7-is-here/",
+            "content": "Material UI v7リリース。\n破壊的な変更として`exports`フィールドで公開するパスを厳密なものへと変更。\nslots patternのサポート、CSS Layerをopt-inでサポート、非推奨のAPIを削除など。",
+            "tags": [
+                "GUI",
+                "library",
+                "JavaScript",
+                "css",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Upgrade to v7 - Material UI",
+                    "url": "https://mui.com/material-ui/migration/upgrade-to-v7/"
+                }
+            ]
         }
     ]
 }
