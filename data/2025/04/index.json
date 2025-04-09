@@ -238,6 +238,17 @@
                     "url": "https://mui.com/material-ui/migration/upgrade-to-v7/"
                 }
             ]
+        },
+        {
+            "date": "2025-04-09T00:35:44.944Z",
+            "title": "Introducing bulk suppressions - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2025/04/introducing-bulk-suppressions/",
+            "content": "ESLintのbulk suppressionsについて。\n一度全てのエラーを抑制して、新規追加されたファイルに対してはLintエラーにするための仕組み。",
+            "tags": [
+                "ESLint",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
