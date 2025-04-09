@@ -260,6 +260,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-09T12:52:05.562Z",
+            "title": "Bun v1.2.9 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.2.9",
+            "content": "Bun v1.2.9リリース。\nRedisクライアントである`Bub.redis`の追加、`require.extensions`のサポート、`require.resolve`の`paths`オプションのサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
