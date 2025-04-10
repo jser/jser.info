@@ -283,6 +283,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-10T00:30:00.715Z",
+            "title": "Next.js 15.3 | Next.js",
+            "url": "https://nextjs.org/blog/next-15-3",
+            "content": "Next.js 15.3リリース。\nTurbopackを`next build`でも利用可能に、Rspackのサポート、`instrumentation-client.{js,ts}`のサポート、Navigation Hooksのサポート。\n`useLinkStatus`の追加、TypeScript LSPのパフォーマンス改善。\n実験的な機能として`<Link unstable_dynamicOnHovertrue>`のサポートなど",
+            "tags": [
+                "Next.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
