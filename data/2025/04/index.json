@@ -296,10 +296,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2025-04-12T13:21:05.588Z",
+            "date": "2025-04-12T13:21:18.484Z",
             "title": "Accelerating Large-Scale Test Migration with LLMs | by Charles Covey-Brandt | The Airbnb Tech Blog | Mar, 2025 | Medium",
             "url": "https://medium.com/airbnb-engineering/accelerating-large-scale-test-migration-with-llms-9565c208023b",
-            "content": "EnzymeからReact Testing Libraryへの移行をLLMを活用してマイグレーンした話。\n移行のプロセスのステップ化、再試行ループ、コンテキストに関連するテスト/移行ガイドラインの追加することで75%は移行できた。\nそこからどのステップでうまくいっていないかをコメントに残して、そのファイルを使った学習をすることで97%まで自動的に移行ができたという話",
+            "content": "EnzymeからReact Testing Libraryへの移行をLLMを活用してマイグレーションした話。\n移行のプロセスのステップ化、再試行ループ、コンテキストに関連するテスト/移行ガイドラインの追加することで75%は移行できた。\nそこからどのステップでうまくいっていないかをコメントに残して、そのファイルを使った学習をすることで97%まで自動的に移行ができたという話",
             "tags": [
                 "React",
                 "JavaScript",
