@@ -345,6 +345,17 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-12T14:05:58.729Z",
+            "title": "WebAssembly の歩き方",
+            "url": "https://zenn.dev/canary_techblog/articles/47af6331b4ecfb",
+            "content": "WebAssemblyとはどういうものかについて。\nWebAssemblyが定義しているもの、バイトコード表現とテキスト表現、仕様の実施であるEmbedderについて",
+            "tags": [
+                "WebAssembly",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
