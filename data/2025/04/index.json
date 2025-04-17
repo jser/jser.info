@@ -440,6 +440,17 @@
                 "css"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-17T14:33:41.298Z",
+            "title": "Astro 5.7 | Astro",
+            "url": "https://astro.build/blog/astro-570/",
+            "content": "Astro 5.7リリース。\n実験的なFont APIの追加、Sessions APIがStableに変更、SVGファイルをコンポーネントとして読み込めるように、`astro:config`がStableへ変更など",
+            "tags": [
+                "astro",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
