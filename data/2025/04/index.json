@@ -451,6 +451,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-17T23:42:28.759Z",
+            "title": "Release v1.52.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.52.0",
+            "content": "playwright v1.52.0リリース。\n破壊的な変更として`page.route()`で`?`はwildcardとして扱わないように変更、`route.continue()`で`Cookie`ヘッダを上書きできないように変更。\n`expect(locator).toContainClass()`の追加、Aria Snapshotの更新。\nプロジェクトごとに`workers`を設定できるように、`failOnFlakyTests`オプションの追加。\n",
+            "tags": [
+                "playwright",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
