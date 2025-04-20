@@ -474,6 +474,18 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-20T03:51:25.161Z",
+            "title": "slevithan/oniguruma-to-es: Convert patterns from Oniguruma (the regex flavor used by Ruby, TextMate grammars, etc.) to native JavaScript RegExp",
+            "url": "https://github.com/slevithan/oniguruma-to-es",
+            "content": "Onigurumaの正規表現をJavaScriptの正規表現に変換するライブラリ",
+            "tags": [
+                "JavaScript",
+                "library",
+                "RegExp"
+            ],
+            "relatedLinks": []
         }
     ]
 }
