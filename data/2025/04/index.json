@@ -498,6 +498,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-23T15:40:24.365Z",
+            "title": "Node.js — Node v22.15.0 (LTS)",
+            "url": "https://nodejs.org/en/blog/release/v22.15.0",
+            "content": "Node.js v22.15.0リリース。\n`assert.partialDeepStrictEqual()`の追加、` module.registerHooks()`の追加、`util.diff()`の追加、zstdのサポートなど",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
