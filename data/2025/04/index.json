@@ -509,6 +509,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-24T07:41:11.425Z",
+            "title": "React Labs: View Transitions, Activity, and more – React",
+            "url": "https://react.dev/blog/2025/04/23/react-labs-view-transitions-activity-and-more",
+            "content": "Reactの実験的な機能の紹介。\n`<ViewTransition>`/`addTransitionType`/`<Activity>`。\nDevToolsでReactのPerformance Profilerの可視化、依存のない`useEffect`、React Compilerなどについて",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
