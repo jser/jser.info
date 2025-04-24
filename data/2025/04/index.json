@@ -520,6 +520,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-24T14:29:24.335Z",
+            "title": "Release pnpm 10.9 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v10.9.0",
+            "content": "pnpm v10.9.0リリース。\n`pnpm add jsr:<pkg_name>`でJSRをサポート、`dangerouslyAllowAllBuilds`オプションを追加",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
