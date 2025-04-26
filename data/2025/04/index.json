@@ -543,6 +543,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-26T09:58:39.549Z",
+            "title": "Introducing Socket Fix for Safe, Automated Dependency Upgrad...",
+            "url": "https://socket.dev/blog/introducing-socket-fix",
+            "content": "パッケージのセキュリティアップデートの修正を行う`socket fix`コマンドについて。\nnpm/pnpmをサポートしている。",
+            "tags": [
+                "npm",
+                "pnpm",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
