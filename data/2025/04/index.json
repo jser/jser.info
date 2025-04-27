@@ -579,6 +579,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-27T01:35:36.397Z",
+            "title": "Nom-nom-hub/flash-install: A fast, drop-in replacement for npm install, focused on drastically speeding up Node.js dependency installation through deterministic caching, parallel operations, and .flashpack archive snapshotting.",
+            "url": "https://github.com/Nom-nom-hub/flash-install",
+            "content": "キャッシュとスナップショットをサポートしたnpmパッケージのインストールを行うツール。\nハッシュベースのパスとhard linkを使ったキャッシュ、`.flashpack`というスナップショットファイルを扱うことができブランチ切り替え時の復元が高速に行える。",
+            "tags": [
+                "npm",
+                "console",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
