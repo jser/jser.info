@@ -568,6 +568,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-27T00:46:27.574Z",
+            "title": "Polishing your typography with line height units | WebKit",
+            "url": "https://webkit.org/blog/16831/line-height-units/",
+            "content": "`1lh`は1 line heightで1行の高さを表す単位、`1rlh`はremと同じくRootの1行の高さを表す単位。\n`1lh`を使ったタイポグラフィについて",
+            "tags": [
+                "css",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
