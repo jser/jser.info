@@ -659,6 +659,17 @@
                     "url": "https://zhero-web-sec.github.io/research-and-things/react-router-and-the-remixed-path"
                 }
             ]
+        },
+        {
+            "date": "2025-04-28T00:34:31.978Z",
+            "title": "Release v0.25.3 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.3",
+            "content": "esbuild v0.25.3リリース。\n`--serve=`オプションでカスタムホストの指定を許可するように、CSS Nestingの制限を追加など",
+            "tags": [
+                "esbuild",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
