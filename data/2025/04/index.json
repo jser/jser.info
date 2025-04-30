@@ -686,6 +686,18 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/138"
                 }
             ]
+        },
+        {
+            "date": "2025-04-30T14:27:30.277Z",
+            "title": "Release 3.42.0 - 2025.04.30 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.42.0",
+            "content": "core-js v3.42.0リリース。\nMap upsert proposalの更新、Iterator HelpersをES2025の仕様に合わせた変更など",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
