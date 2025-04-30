@@ -670,6 +670,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-04-30T13:56:15.220Z",
+            "title": "Firefox 138.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/138.0/releasenotes/",
+            "content": "Firefox 138リリース。\n`importmap`の`integrity`をサポート、`Error.captureStackTrace()`をサポート、ES Proposal Stage 3の`Error.isError()`をサポート。\nImport Attributesを使ったJSONのimportをサポート、`Clear-Site-Data`で`cache`ディレクティブをサポート。\nFedCM APIのLogin Status APIをサポート、Web Audio APIのMessage Portをサポート。\nフラグ付きでMutationEventの削除、HTML Sanitizer APIのサポートなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 138 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/138"
+                }
+            ]
         }
     ]
 }
