@@ -13,6 +13,17 @@
                 "HTTP"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-02T06:24:43.385Z",
+            "title": "Deno 2.3: Improved deno compile, local npm packages, and more",
+            "url": "https://deno.com/blog/v2.3",
+            "content": "Deno v2.3リリース。\n`deno compile`でFFIとNode.js Native Addonのサポート、ローカルのnpmパッケージを参照できるように、`deno fmt`のオプションを追加。\nWindowsの`deno`バイナリにコード署名をするように変更など",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
