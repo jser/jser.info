@@ -24,6 +24,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-03T12:26:50.219Z",
+            "title": "ESLint v9.26.0 released - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2025/05/eslint-v9.26.0-released/",
+            "content": "ESLint v9.26.0リリース。\n`eslint --mcp`でMCPサーバとして起動できるように、`no-unused-expressions`ルールに`ignoreDirectives`オプションを追加など",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
