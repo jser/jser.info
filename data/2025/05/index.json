@@ -35,6 +35,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-04T04:54:09.758Z",
+            "title": "Electron 36.0.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-36-0",
+            "content": "Electron 36.0.0リリース。  \nChromium 136、V8 13.6、Node 22.14.0にアップグレード。  \nmacOSのWriting ToolsやAutofill、Servicesメニューをサポートする新しい`menu.popup`オプションを追加。  \nGTK 4がGNOMEでのデフォルトに変更。`NativeImage.getBitmap()`が非推奨に、`session.loadExtension`などが非推奨となり`Extensions`オブジェクトに移動された。  ",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
