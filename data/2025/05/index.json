@@ -155,6 +155,22 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-06T23:47:09.282Z",
+            "title": "Node.js — Node v24.0.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v24.0.0",
+            "content": "Node.js v24.0.0リリース。\nV8 13.6へアップデート、npm 11を同梱、AsyncLocalStorageがAsyncContextFrameをデフォルトで使用するように。\n`URLPattern`をグローバルに追加、パーミッションモデルが`--permission`フラグで利用できるように、テストランナーの改善、Undici 7を同梱。\n`url.parse()`を非推奨に変更など。\n2025年10月にLTSとなる予定。\n",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "What’s New with Node.js 24 | OpenJS Foundation",
+                    "url": "https://openjsf.org/blog/nodejs-24-released"
+                }
+            ]
         }
     ]
 }
