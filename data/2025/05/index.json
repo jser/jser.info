@@ -132,6 +132,17 @@
                     "url": "https://github.com/bubkoo/html-to-image"
                 }
             ]
+        },
+        {
+            "date": "2025-05-06T13:23:41.065Z",
+            "title": "Release v0.25.4 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.4",
+            "content": "esbuild v0.25.4リリース。\n開発サーバーに`cors`オプションで`Access-Control-Allow-Origin`ヘッダを設定できるように。",
+            "tags": [
+                "esbuild",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
