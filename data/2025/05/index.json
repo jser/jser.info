@@ -114,6 +114,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-06T13:21:08.333Z",
+            "title": "zumerlab/snapdom: snapDOM captures DOM nodes as images with exceptional speed and accuracy.",
+            "url": "https://github.com/zumerlab/snapdom",
+            "content": "SVGの`<foreignObject>`を使いDOM要素を画像にするライブラリ。\nShadow DOM、疑似要素、背景画像、フォントの埋め込みやdata属性での除外などに対応している",
+            "tags": [
+                "JavaScript",
+                "SVG",
+                "Image",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "bubkoo/html-to-image: ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.",
+                    "url": "https://github.com/bubkoo/html-to-image"
+                }
+            ]
         }
     ]
 }
