@@ -143,6 +143,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-06T13:29:33.068Z",
+            "title": "pulsar-edit/pulsar: A Community-led Hyper-Hackable Text Editor",
+            "url": "https://github.com/pulsar-edit/pulsar",
+            "content": "Atom EditorをForkしたエディタ。\nAtom向けに作られたパッケージも動くようにしている",
+            "tags": [
+                "atom",
+                "editor",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
