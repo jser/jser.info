@@ -90,6 +90,18 @@
                     "url": "https://github.com/nrwl/nx/discussions/29025"
                 }
             ]
+        },
+        {
+            "date": "2025-05-06T05:25:29.248Z",
+            "title": "Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints · V8",
+            "url": "https://v8.dev/blog/explicit-compile-hints",
+            "content": "`//# allFunctionsCalledOnLoad` のコメントで、JavaScriptファイルをeager compilationをする仕組みをV8に実装している話。\nJavaScriptは関数をコンパイルするにはファイルをパースをする必要があるため、コンパイルが必要かを判断するにも時間がかかってしまう。そのため、ファイルの先頭のコメントでコンパイルするべきかを判断できるようにするための仕組み",
+            "tags": [
+                "JavaScript",
+                "V8",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
