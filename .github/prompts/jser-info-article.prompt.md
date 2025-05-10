@@ -1,5 +1,6 @@
 ---
 mode: 'agent'
+tools: ['fetch_web_page', 'jser_search_items', 'jser_product_name']
 ---
 
 
