@@ -182,6 +182,19 @@
                 "video"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-11T01:44:27.996Z",
+            "title": "Release v19.0.0 · facebook/relay",
+            "url": "https://github.com/facebook/relay/releases/tag/v19.0.0",
+            "content": "Relay v19.0.0リリース。\n`@alias`がconditional fragmentsに必須となるように変更、ドキュメントの改善、React 19の対応など。",
+            "tags": [
+                "GraphQL",
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
