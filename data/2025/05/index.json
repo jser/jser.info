@@ -219,6 +219,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-11T13:23:43.982Z",
+            "title": "Version v8.0.0 | Mantine",
+            "url": "https://mantine.dev/changelog/8-0-0/",
+            "content": "Mantine v8.0.0リリース。\nDatePickerが`Date`ではなく`string`を扱うように変更、CodeHighlightにshikiを使うように変更。\nMenuコンポーネントがsubmenusをサポート、TimePickerコンポーネントを追加など",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
