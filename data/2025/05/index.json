@@ -195,6 +195,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-11T01:58:53.322Z",
+            "title": "ije/mono-jsx: `<html>` as a `Response`.",
+            "url": "https://github.com/ije/mono-jsx",
+            "content": "JSX Runtimeライブラリ。\nサーバサイドのテンプレートとしてJSXを利用でき、コンポーネントのStateやStreaming Renderingをサポートしている",
+            "tags": [
+                "JavaScript",
+                "jsx",
+                "server",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
