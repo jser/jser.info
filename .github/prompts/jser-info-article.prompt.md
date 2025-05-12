@@ -9,8 +9,8 @@ tools: ['fetch_web_page', 'jser_search_items', 'jser_product_name']
 
 ## 指示：  
 1. 現在開いているファイルに書かれている先頭のURL `fetch_web_page`で取得
-2. 取得したページの内容を `jser_search_items` と `jser_product_name` のツールを使って分析
-3. 過去のJSer.infoの紹介文を参考にして、JSer.info風の説明文を作成
+2. 取得したページの内容を `jser_search_items` と `jser_product_name` のツールを使って過去の記事を検索
+3. 2を参考に、現在のURLに対するJSer.info風の説明文を作成
    - 説明文: 内容を簡潔に要約（140文字以内を目安にするが、超えても問題ない）  
 
 ## 説明文の書き方
