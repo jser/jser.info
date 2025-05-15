@@ -254,6 +254,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-15T22:51:25.406Z",
+            "title": "aidenybai/bippy: ⚠️ hack into react internals",
+            "url": "https://github.com/aidenybai/bippy",
+            "content": "Reactの内部状態を使ってReactアプリケーションをデバッグするツール/ライブラリ。\nReact DevTools向けの処理を使って内部状態を見ている",
+            "tags": [
+                "React",
+                "debug",
+                "Tools",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
