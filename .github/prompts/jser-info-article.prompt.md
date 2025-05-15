@@ -1,6 +1,5 @@
 ---
 mode: 'agent'
-tools: ['fetch_web_page', 'jser_search_items', 'jser_product_name']
 ---
 
 
@@ -8,9 +7,9 @@ tools: ['fetch_web_page', 'jser_search_items', 'jser_product_name']
 ファイルに書かれているURL または 渡されたURLのウェブサイト/記事/ライブラリについて、JSer.infoのスタイルに従った客観的な説明文を作成してください。  
 
 ## 指示：  
-1. 現在開いているファイルに書かれている先頭のURL `fetch_web_page`で取得
+1. 現在開いているファイルに書かれている先頭のURLの内容を `Fetch Web Page` toolで取得
 2. 取得したページの内容を `jser_search_items` と `jser_product_name` のツールを使って過去の記事を検索
-3. 2を参考に、現在のURLに対するJSer.info風の説明文を作成
+3. 2を参考に、1の現在のURLに対するJSer.info風の説明文を作成
    - 説明文: 内容を簡潔に要約（140文字以内を目安にするが、超えても問題ない）  
 
 ## 説明文の書き方
