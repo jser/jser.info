@@ -332,6 +332,18 @@
                 "color"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-19T23:08:19.018Z",
+            "title": "May 19, 2025 Release – React Spectrum Releases",
+            "url": "https://react-spectrum.adobe.com/releases/2025-05-19.html",
+            "content": "React Aria May 19, 2025リリース。\n`useTreeData`に`moveBefore`と`moveAfter`メソッドの追加、`shouldSelectOnPressUp` propsをcollection componentsに追加など。\nReact 19のref cleanup callbackのサポートなど",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
