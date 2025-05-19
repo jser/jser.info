@@ -279,6 +279,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-19T04:00:38.552Z",
+            "title": "Release pnpm 10.11 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v10.11.0",
+            "content": "pnpm v10.11.0リリース。\n`pnpm init`に`init-type=module`オプションの追加、`pnpm audit`に`--ignore`と`--ignore-unfixable`フラグの追加",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
