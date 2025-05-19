@@ -290,6 +290,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-19T22:05:24.992Z",
+            "title": "Introducing Zod 4 | Zod",
+            "url": "https://zod.dev/v4",
+            "content": "zod v4リリース。\nzod 3.25.0もリリースされ`zod/v4`として参照できるようになっている。\n型チェックのパフォーマンスとbundle sizeの改善、zod miniパッケージの追加。スキーマに紐付けたメタデータを管理する`z.regisry()`の追加、`toJSONSchema()`の追加、i18nのサポート。\nトップレベルの文字列形式の変更、メールアドレスの正規表現を変更できるように、テンプレートリテラル型のサポートなど",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "library",
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
