@@ -368,6 +368,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-20T13:40:05.900Z",
+            "title": "What Does \"use client\" Do? — overreacted",
+            "url": "https://overreacted.io/what-does-use-client-do/",
+            "content": "`\"use client\"`と`\"use server\"`とは何かについて。\nクライアント側/サーバ側とマークする手段ではなく、`\"use client\"`はクライアント関数をサーバにexportするものとして認識していることについて",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
