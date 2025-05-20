@@ -344,6 +344,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-20T13:31:24.598Z",
+            "title": "ESLint can now lint HTML using the html-eslint language plugin - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2025/05/eslint-html-plugin/",
+            "content": "ESLintでHTMLをLintするための`html-eslint`がリリースされた",
+            "tags": [
+                "ESLint",
+                "HTML",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
