@@ -379,6 +379,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-22T13:02:28.079Z",
+            "title": "Node.js — Node v24.1.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v24.1.0",
+            "content": "Node.js v24.1.0リリース。\n`node:fs`の`glob`がStableとなり、experimentalのwarningが出ないようになった",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
