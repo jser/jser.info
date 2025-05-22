@@ -390,6 +390,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-22T13:05:49.099Z",
+            "title": "ESLint v9.0.0: A retrospective - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2025/05/eslint-v9.0.0-retrospective/",
+            "content": "ESLint v9.0.0のretrospective。\nうまくいった点とうまくいかなかった点について。\nサポートバージョンのポリシーとv8.x/v9.xの共存とバックポートはうまく行った。\n一方で破壊的な変更が多すぎた問題と、ツールが足りなくてアップデートが大変になっていた問題やエコシステムとの協調性が不足していた点について",
+            "tags": [
+                "ESLint",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
