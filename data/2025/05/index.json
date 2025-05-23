@@ -401,6 +401,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-23T06:25:51.936Z",
+            "title": "Announcing TypeScript Native Previews - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/",
+            "content": "TypeScriptのGo言語のネイティブ実装である`@typescript/native-preview`が公開された",
+            "tags": [
+                "TypeScript",
+                "golang",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
