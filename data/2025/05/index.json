@@ -430,6 +430,17 @@
                     "url": "https://2025.tskaigi.org/"
                 }
             ]
+        },
+        {
+            "date": "2025-05-25T01:34:46.554Z",
+            "title": "Bun v1.2.14 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.2.14",
+            "content": "Bun v1.2.14リリース。\n`bun install`が`catalog:`をサポート、Fetch APIがzstdをサポート、`\"module\": \"Preserve\"`をデフォルト値に変更など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
