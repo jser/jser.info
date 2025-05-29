@@ -547,6 +547,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-29T01:18:18.716Z",
+            "title": "New in Chrome 137  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/new-in-chrome-137?hl=en",
+            "content": "Chrome 137リリース。\nCSS関連では、条件付き値を表現する `if()` 関数が追加。\nフォーカスナビゲーション順序を制御する `reading-flow`/`reading-order`プロパティを追加。筆記体での文字間隔を無視する改善、`accent-color` プロパティでのシステムアクセントカラー対応を実装。`offset-path: shape()` サポート。\n\nWeb API関連では、Selection APIに `getComposedRanges()` と `direction` プロパティが追加。Blob URLのパーティショニング（fetch/navigation）が実装。\nWeb Cryptographyでの `Ed25519` サポートが追加。HSTSキャッシュを使ったトラッキングを防止する機能を実装。応答しないWebページのクラッシュレポートをReporting APIでサポート。\n\nWebAssemblyでは、JavaScript Promise Integration（JSPI）の正式サポートが追加。\nbranch hintのサポートなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chrome 137  |  Release notes  |  Chrome for Developers",
+                    "url": "https://developer.chrome.com/release-notes/137"
+                }
+            ]
         }
     ]
 }
