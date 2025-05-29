@@ -525,6 +525,17 @@
                 "tutorial"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-05-29T00:56:13.140Z",
+            "title": "Bun v1.2.15 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.2.15",
+            "content": "Bun v1.2.15リリース。\n`bun audit`の追加、`BUN_OPTIONS`の環境変数を追加、`vm.SourceTextModule`をサポート、`perf_hooks.createHistogram()`をサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
