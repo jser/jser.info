@@ -1,0 +1,16 @@
+{
+    "list": [
+        {
+            "date": "2025-06-02T22:25:13.832Z",
+            "title": "Vitest 3.2 is out! | Vitest",
+            "url": "https://vitest.dev/blog/vitest-3-2.html",
+            "content": "Vitest 3.2リリース。\n`workspace`オプションを非推奨にし`vitest.workspace`ファイルを推奨するように変更。\n`context.annotate` APIの追加、`test.extends`に`scope`オプションを追加、`locators.extend`を追加、`context.signal`の追加。\n`using`でモック関数の自動クリーンアップができるようになり、`sequence.groupOrder`オプションの追加など",
+            "tags": [
+                "vite",
+                "test",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
