@@ -48,6 +48,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-04T00:29:29.510Z",
+            "title": "Seamlessly Blend PHP with Node.js",
+            "url": "https://blog.platformatic.dev/seamlessly-blend-php-with-nodejs",
+            "content": "Node.jsの中でPHPを動かす`@platformatic/php-node`について。",
+            "tags": [
+                "nodejs",
+                "php",
+                "article",
+                "Rust"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "platformatic/php-node: PHP HTTP Request handler for Node.js",
+                    "url": "https://github.com/platformatic/php-node"
+                }
+            ]
         }
     ]
 }
