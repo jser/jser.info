@@ -89,6 +89,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-05T14:54:33.584Z",
+            "title": "ECMAScript proposal updates @ 2025-05 | ECMAScript Daily",
+            "url": "https://ecmascript-daily.github.io/ecmascript/2025/06/05/ecmascript-proposal-update",
+            "content": "2025年5月のTC39ミーティングでのECMAScript Proposalのステータス変更まとめ。\nInspector/More Random FunctionsがStage 1に新規追加。\nSeededPRNG/`Math.clamp`がStage 2に。\nError.isErrorがStage 4になりES2026で入る。",
+            "tags": [
+                "ECMAScript",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
