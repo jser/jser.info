@@ -128,6 +128,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-05T22:08:32.957Z",
+            "title": "プロファイラを利用して Node.js サーバーのレスポンス時間を 200 秒 → 20 秒に短縮した話",
+            "url": "https://zenn.dev/dinii/articles/improve-latency-with-profiler",
+            "content": "`node:async_hooks`を使ったログから、ブロッキング処理を見つけてCloud Profilerなどを使った処理を改善していった話",
+            "tags": [
+                "nodejs",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
