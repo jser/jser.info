@@ -78,6 +78,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-05T13:32:55.580Z",
+            "title": "Release astro@5.9.0 · withastro/astro",
+            "url": "https://github.com/withastro/astro/releases/tag/astro%405.9.0",
+            "content": "Astro v5.9.0リリース。\n実験的な機能としてContent Security Policy（CSP）サポートの追加、content loaderにMarkdownレンダラーの提供。\nアダプター向けに`supportedAstroFeatures`オプションを追加など",
+            "tags": [
+                "astro",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
