@@ -100,6 +100,22 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-05T21:59:22.508Z",
+            "title": "React Router Open Governance | Remix",
+            "url": "https://remix.run/blog/rr-governance",
+            "content": "React RouterのGovernance Modelについて",
+            "tags": [
+                "Remix",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "react-router/GOVERNANCE.md at main · remix-run/react-router",
+                    "url": "https://github.com/remix-run/react-router/blob/main/GOVERNANCE.md#new-feature-process"
+                }
+            ]
         }
     ]
 }
