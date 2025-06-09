@@ -140,6 +140,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-09T13:33:09.439Z",
+            "title": "web-infra-dev/rstest: The testing framework powered by Rspack (WIP).",
+            "url": "https://github.com/web-infra-dev/rstest",
+            "content": "Rspackを使ったVitestのようなテストフレームワーク",
+            "tags": [
+                "test",
+                "library",
+                "JavaScript",
+                "rspack"
+            ],
+            "relatedLinks": []
         }
     ]
 }
