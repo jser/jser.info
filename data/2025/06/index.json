@@ -164,6 +164,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-11T14:36:29.743Z",
+            "title": "Release 3.43.0 - 2025.06.09 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.43.0",
+            "content": "core-js v3.43.0リリース。\nExplicit Resource Management/Array.fromAsync/Error.isErrorがStableに移行。\nJoint iteration/Iterator chunkingのStage 2 proposalを追加、`Math.clamp`から`Number.prototype.clamp`への変更など",
+            "tags": [
+                "JavaScript",
+                "polyfill",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
