@@ -176,6 +176,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-11T14:52:03.558Z",
+            "title": "News from WWDC25: WebKit in Safari 26 beta | WebKit",
+            "url": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/",
+            "content": "Safari 26 betaの変更点について。\nCS連では、Anchor Positioning/Scroll-driven Animations/`text-wrap:pretty`/`contrast-color()`/`progress()`をサポート。\nWeb API関連では、WebGPU/HDR Images/Digital Credentials API/Trusted Types API/URL Patternをサポート。\nWeb InspectorでService Workerや非同期処理のデバッグの改善。\nその他、SVGファビコンの対応、WebAssemblyをインタープリタ対応し実行開始速度の改善など\n",
+            "tags": [
+                "safari",
+                "webkit",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
