@@ -226,6 +226,18 @@
                     "url": "https://webstatus.dev/"
                 }
             ]
+        },
+        {
+            "date": "2025-06-14T14:09:59.278Z",
+            "title": "We shipped FinalizationRegistry in Workers: why you should never use it",
+            "url": "https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/",
+            "content": "Cloudflare Workersの`FinalizationRegistry` APIのサポートについて。\nWebAssemblyと連携する際のメモリ管理で、JavaScriptオブジェクトがガベージコレクションされる際にコールバックを実行するAPI。  \n非決定的な実行タイミングのため使用を推奨せず、代わりにExplicit Resource Managementの使用を推奨。I/O操作を無効化するなどの安全対策を実装して提供している",
+            "tags": [
+                "cloudflare",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
