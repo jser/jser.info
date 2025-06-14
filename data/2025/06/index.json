@@ -188,6 +188,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-14T07:45:36.578Z",
+            "title": "Node.js — Node v24.2.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v24.2.0",
+            "content": "Node.js v24.2.0リリース。\nHTTP/2 priority signalingの削除、`import.meta.main`のサポートなど",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
