@@ -210,6 +210,22 @@
                 "Survey"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-14T08:49:53.873Z",
+            "title": "WebStatus.dev: Now with more data, deeper insights, and a clearer path to Baseline  |  Blog  |  web.dev",
+            "url": "https://web.dev/blog/web-platform-dashboard-evolution?hl=en",
+            "content": "ウェブプラットフォームのBaselineの実装状態などを可視化するダッシュボードである WebStatus.dev について",
+            "tags": [
+                "article",
+                "browser"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Web Platform Status",
+                    "url": "https://webstatus.dev/"
+                }
+            ]
         }
     ]
 }
