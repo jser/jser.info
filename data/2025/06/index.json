@@ -256,6 +256,20 @@
                     "url": "https://storybook.js.org/docs/migration-guide?ref=storybookblog.ghost.io"
                 }
             ]
+        },
+        {
+            "date": "2025-06-15T05:10:21.342Z",
+            "title": "aymericzip/intlayer: Internationalisation solution for JS application focusing on scalability. Make your JavaScript / TypeScript application multilingue.",
+            "url": "https://github.com/aymericzip/intlayer",
+            "content": "React/Next.js/Vue などに対応したi18nフレームワーク。\nコード生成とロケールファイルを使った翻訳、ビジュアルエディタ、middlewareの提供、Markdownのサポートなど",
+            "tags": [
+                "React",
+                "Vue",
+                "Next.js",
+                "i18n",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
