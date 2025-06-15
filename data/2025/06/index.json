@@ -238,6 +238,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-15T03:22:08.303Z",
+            "title": "Storybook 9",
+            "url": "https://storybook.js.org/blog/storybook-9/",
+            "content": "Storybook 9の変更点について。\n破壊的な変更として、`@storybook/addon-essentials`を削除してcoreに統合、パッケージ構造の変更。\nVitestとPlaywrightを使ったStorybookテスト機能をStableに変更、パッケージサイズを48%削減。\nInteraction/Accessibility/Visualテスト機能の統合、Story生成機能、Tags-basedの管理機能の追加。\nVite-powered Next.js、Svelte 5、React Nativeの改善など\n",
+            "tags": [
+                "debug",
+                "JavaScript",
+                "Tools",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migration guide for Storybook 9.0 | Storybook docs",
+                    "url": "https://storybook.js.org/docs/migration-guide?ref=storybookblog.ghost.io"
+                }
+            ]
         }
     ]
 }
