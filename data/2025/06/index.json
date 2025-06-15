@@ -286,6 +286,18 @@
                     "url": "https://socket.dev/blog/pnpm-introduces-global-virtual-store-and-expanded-version-catalogs"
                 }
             ]
+        },
+        {
+            "date": "2025-06-15T11:13:29.882Z",
+            "title": "Jest 30: Faster, Leaner, Better · Jest",
+            "url": "https://jestjs.io/blog/2025/06/04/jest-30",
+            "content": "Jest 30リリース。\nNode.js 14/16/19/21のサポート終了、TypeScript 5.4+、jsdom 26へアップデート。  \n`expect`のエイリアスメソッド削除、`--testPathPattern`を`--testPathPatterns`にリネーム。  \nunrs-resolverを使ったパフォーマンスとメモリの改善、設定ファイルのTSサポート、`import.meta`のサポート、`using`を使ったspyの自動復元。\n`expect.arrayOf`の追加、`jest.advanceTimersToNextFrame()`の追加、`jest.unstable_unmockModule()`の追加など",
+            "tags": [
+                "jest",
+                "test",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
