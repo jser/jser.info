@@ -270,6 +270,22 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-15T10:54:51.497Z",
+            "title": "Release pnpm 10.12.1 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v10.12.1",
+            "content": "pnpm v10.12.1リリース。\n実験的な機能として`enableGlobalVirtualStore`オプションでグローバル仮想ストアをサポート。\n依存関係グラフのハッシュを名前とするグローバルなストアへハードリンクするためキャッシュがある時のインストール速度が高速になる。\n`pnpm update`がcatalogをサポート、`catalogMode`オプションの追加、`--save-catalog`の追加など",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "pnpm 10.12 Introduces Global Virtual Store and Expanded Vers...",
+                    "url": "https://socket.dev/blog/pnpm-introduces-global-virtual-store-and-expanded-version-catalogs"
+                }
+            ]
         }
     ]
 }
