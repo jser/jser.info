@@ -321,6 +321,26 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-21T13:02:18.297Z",
+            "title": "Biome v2—codename: Biotype | Biome",
+            "url": "https://biomejs.dev/blog/biome-v2/",
+            "content": "Biome v2リリース。\n設定ファイルのネストをサポート、Linterプラグインのサポート。\nImport OrganizerのようなLinterを範囲を超えたものを扱うAssist機能の追加、HTML formatterのサポート。\n破壊的変更として`--apply`/`--apply-unsafe`の廃止、設定ファイルの`include`/`ignore`から`includes`への変更など。\n",
+            "tags": [
+                "biome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Upgrade to Biome v2 | Biome",
+                    "url": "https://biomejs.dev/guides/upgrade-to-biome-v2/"
+                },
+                {
+                    "title": "Changelog | Biome",
+                    "url": "https://biomejs.dev/internals/changelog/#200"
+                }
+            ]
         }
     ]
 }
