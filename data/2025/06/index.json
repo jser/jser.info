@@ -376,6 +376,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-23T15:21:54.932Z",
+            "title": "Prettier 3.6: Experimental fast CLI and new OXC and Hermes plugins! · Prettier",
+            "url": "https://prettier.io/blog/2025/06/23/3.6.0",
+            "content": "Prettier 3.6リリース。\n`--experimental-cli`で新しいCLIを利用可能に、`@prettier/plugin-oxc`/`@prettier/plugin-hermes`プラグインの追加など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
