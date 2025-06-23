@@ -388,6 +388,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-23T15:46:44.918Z",
+            "title": "Release v4.0.0 · svg/svgo",
+            "url": "https://github.com/svg/svgo/releases/tag/v4.0.0",
+            "content": "SVGO 4.0.0リリース。\nNode.js 14のサポート終了、デフォルトプラグインから`removeTitle`と`removeViewBox`を削除、`removeScriptElement`を`removeScripts`にリネーム。\nパッケージのインポート方法の変更など",
+            "tags": [
+                "SVG",
+                "javas",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
