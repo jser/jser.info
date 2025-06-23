@@ -401,6 +401,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-23T15:49:13.226Z",
+            "title": "Bun v1.2.17 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.2.17",
+            "content": "Bun v1.2.17リリース。\n`bun build`で`.html`ファイルをbundleできるように、`node:zlib`のサポート、`--unhandled-rejections`フラグのサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
