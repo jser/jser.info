@@ -439,6 +439,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-26T00:31:43.637Z",
+            "title": "Node.js — Node v24.3.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v24.3.0",
+            "content": "Node.js v24.3.0リリース。\n`--experimental-transform-types`の警告を削除、`node:test`でプロパティのモックをサポート、`url.fileURLToPathBuffer()`を追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
