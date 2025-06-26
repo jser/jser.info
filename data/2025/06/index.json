@@ -450,6 +450,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-26T00:38:30.486Z",
+            "title": "New in Chrome 138  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/new-in-chrome-138",
+            "content": "Chrome 138リリース。\nローカルのGemini Nanoを使ったTranslator/Language Detector/Summarizer APIを追加。\nCSSでは、`abs()`/`sign()`/`progress()`/`sibling-index()`/`sibling-count()`を追加。\n`width`プロパティで`stretch`キーワードをサポート、CSS環境変数でOS レベルのフォントスケール（`env(preferred-text-scale)`）をサポート。\nViewport Segments APIで折りたたみデバイスに対応、`Clear-Site-Data`ヘッダーに`prefetchCache`/`prerenderCache`値を追加。\nHTML属性値の`<`/`>`のエスケープ対応など。\n",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chrome 138  |  Release notes  |  Chrome for Developers",
+                    "url": "https://developer.chrome.com/release-notes/138"
+                }
+            ]
         }
     ]
 }
