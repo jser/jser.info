@@ -428,6 +428,17 @@
                     "url": "https://vite.dev/guide/migration"
                 }
             ]
+        },
+        {
+            "date": "2025-06-26T00:17:10.923Z",
+            "title": "Node.js — Node v22.17.0 (LTS)",
+            "url": "https://nodejs.org/en/blog/release/v22.17.0",
+            "content": "Node.js v22.17.0リリース。\n`assert.partialDeepStrictEqual()`の安定化、HTTP/2 priority signalingの非推奨化。\n`IncomingMessage`などを`new`なしでのインスタンス化するのを非推奨、`child_process`の`shell=\"\"`の非推奨化。\n`fs.FileHandle.readableWebStream`の`autoClose`オプション、`fs.Dir`のExplicit Resource Management対応。\nPermissionsでエントリーポイントの暗黙的読み取り許可、`util.styleText()`の`'none'`でスタイルの削除の対応など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
