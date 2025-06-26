@@ -466,6 +466,17 @@
                     "url": "https://developer.chrome.com/release-notes/138"
                 }
             ]
+        },
+        {
+            "date": "2025-06-26T00:50:45.557Z",
+            "title": "Firefox 140.0, See All New Features, Updates and Fixes",
+            "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/",
+            "content": "Firefox 140リリース。\nCSS Custom Highlight APIのサポート、Cookie Store APIで非同期cookie操作をサポート。\n低遅延なポインターの移動を検知する`pointerrawupdate`イベントのサポート、SVGの`fetchpriority`属性をサポート。\nPrivate Browsingモードでもservice worker利用可能に、HTML属性シリアライズ時の`<`/`>`エスケープ対応。\n`<h1>`要素のUA styleの変更（セクション要素ネスト時のサイズ変化を廃止）、MutationEventインターフェースの削除",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
