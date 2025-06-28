@@ -488,6 +488,17 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-28T11:27:20.246Z",
+            "title": "Announcing Rspack 1.4 - Rspack",
+            "url": "https://rspack.rs/blog/announcing-1-4",
+            "content": "Rspack 1.4リリース。\nWasmを利用してブラウザ環境での実行サポート、bundle sizeの改善。\nデフォルトでIncremental buildを有効化。\n実験的なCssChunkingPluginの追加、MultiCompilerでlazy compilationをサポート、`useInputFileSystem`オプションをサポート。\nPerfettoベースのパフォーマンス分析ツール、Zod v4への更新など",
+            "tags": [
+                "rspack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
