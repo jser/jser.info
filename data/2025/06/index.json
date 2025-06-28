@@ -499,6 +499,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-06-28T23:27:50.773Z",
+            "title": "Chrome 139 beta  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/chrome-139-beta?hl=en",
+            "content": "Chrome 139 betaリリース。\nCSSでは、`var()`/`attr()`の短絡評価のサポート、`caret-animation`/`corner-shape`/CSS Custom Functionsのサポート。\nWHATWGの仕様に合わせて`+json`のJSON MIME typをサポート。\nOrigin trialsでPrompt API、WebGPU Compatibility modeの追加。\nmacOS 11サポート終了、ISO-2022-JPの自動検出の削除など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Intent to Ship: Spec-compliant JSON MIME type detection",
+                    "url": "https://groups.google.com/a/chromium.org/g/blink-dev/c/-lZFLXH7_Y8/m/ZzgLXc91AQAJ"
+                }
+            ]
         }
     ]
 }
