@@ -15,6 +15,18 @@
                     "url": "https://github.com/tc39/ecma262/releases/tag/es2025"
                 }
             ]
+        },
+        {
+            "date": "2025-07-01T14:06:29.782Z",
+            "title": "Release 0.14.0 | StyleX",
+            "url": "https://stylexjs.com/blog/v0.14.0",
+            "content": "StyleX v0.14.0リリース。\n`viewTransitionClass` APIを追加、lintに`validImports`オプションを追加。\n破壊的な変更としてスタイルをマージするときの戦略を設定する`styleResolution`オプションのデフォルト値を`application-order`から`property-specificity`に変更",
+            "tags": [
+                "React",
+                "css",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
