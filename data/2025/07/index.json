@@ -38,6 +38,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-02T15:47:53.684Z",
+            "title": "Electron 37.0.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-37-0",
+            "content": "Electron 37.0リリース。\nChromium 138.0.7204.35/Node 22.16.0/V8 13.8にアップデート。\n`window.open`で`innerWidth`と`innerHeight`オプションをサポート、Node.jsの`--experimental-network-inspection`をサポート。\nunhandled rejection動作変更、WebUSB/WebSerial APIのblocklistサポートなど。",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
