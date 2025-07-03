@@ -49,6 +49,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-03T06:32:02.424Z",
+            "title": "Deno 2.4: deno bundle is back | Deno",
+            "url": "https://deno.com/blog/v2.4",
+            "content": "Deno v2.4リリース。\n`deno bundle`コマンドの復活/テキストの`byte`インポート機能/OpenTelemetryの安定化。  \n`--preload`フラグの追加/`deno update`コマンドの追加/`DENO_COMPAT`環境変数の追加、package.jsonのconditional exportsをサポートなど",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
