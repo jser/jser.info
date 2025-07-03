@@ -60,6 +60,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-03T13:14:42.348Z",
+            "title": "Release v3.0.0 · recharts/recharts",
+            "url": "https://github.com/recharts/recharts/releases/tag/v3.0.0",
+            "content": "Recharts 3リリース。\nCustom componentsのサポート、デフォルトで`accessibilityLayera11y`を有効に変更など",
+            "tags": [
+                "React",
+                "graphic",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "3.0 migration guide · recharts/recharts Wiki",
+                    "url": "https://github.com/recharts/recharts/wiki/3.0-migration-guide#breaking-code-changes"
+                }
+            ]
         }
     ]
 }
