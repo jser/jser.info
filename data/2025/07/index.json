@@ -94,6 +94,19 @@
                     "url": "https://sonda.dev/"
                 }
             ]
+        },
+        {
+            "date": "2025-07-03T13:38:22.312Z",
+            "title": "dahlia/logtape: Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions",
+            "url": "https://github.com/dahlia/logtape?tab=readme-ov-file",
+            "content": "ロガーライブラリ。\nライブラリとアプリケーションの利用を想定していて、Node.js/Deno/Browserなどで動作し、構造化ログをサポートしている。\nまた、pinoやwinstonなどの別のロガーとのIntegrationを行うAdapterを提供している",
+            "tags": [
+                "nodejs",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
