@@ -107,6 +107,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-04T00:10:38.388Z",
+            "title": "`useOptimistic` to Make Your App Feel Instant | Epic React by Kent C. Dodds",
+            "url": "https://www.epicreact.dev/use-optimistic-to-make-your-app-feel-instant-zvyuv",
+            "content": "Reactの`useOptimistic` hooksの使い方や`setState`との違いについて",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
