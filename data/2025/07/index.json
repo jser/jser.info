@@ -129,6 +129,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-09T05:46:12.018Z",
+            "title": "Announcing TypeScript 5.9 Beta - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9-beta/",
+            "content": "TypeScript 5.9 Betaリリース。\n`tsc --init`で生成する設定を変更、`import defer`のサポート、`--module node20`のサポートなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
