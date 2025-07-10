@@ -169,6 +169,17 @@
                     "url": "https://vercel.com/blog/nuxtlabs-joins-vercel"
                 }
             ]
+        },
+        {
+            "date": "2025-07-10T13:23:04.904Z",
+            "title": "Node.js — Node v24.4.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v24.4.0",
+            "content": "Node.js v24.4.0リリース。\n`fs.mkdtempDisposableSync`の追加、`--watch-kill-signal`フラグの追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
