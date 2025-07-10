@@ -180,6 +180,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-10T13:37:20.886Z",
+            "title": "Release v5.100.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v5.100.0",
+            "content": "webpack v5.100.0リリース。\nHMRのES Modules outputのサポート、`using`のサポート、Defer Module Evaluationのサポート。\n`virtual:`スキーマをサポートするVirtualUrlPluginを追加など",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
