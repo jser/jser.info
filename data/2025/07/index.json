@@ -203,6 +203,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-11T13:18:47.975Z",
+            "title": "Release v1.54.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.54.0",
+            "content": "playwright v1.54.0リリース。\n`partitionKey`オプションの追加、html reporterに`noSnippets`オプションを追加。\n`--user-data-dir`フラグでユーザーデータディレクトリを指定できるようになるなど",
+            "tags": [
+                "playwright",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
