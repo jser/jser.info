@@ -191,6 +191,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-11T01:07:25.722Z",
+            "title": "typescript-eslint/tsgolint: ✨ Experimental proof-of-concept typescript-go powered JS/TS linter written in Go",
+            "url": "https://github.com/typescript-eslint/tsgolint",
+            "content": "TSLintの ルールをtsgoで動くようにしてどれぐらい早くなるかの試験的な実装。\nESLintのASTへの変換をせずにTS ASTをそのまま扱うようにする変更も行なっていて、20-40倍程度早くチェックできている",
+            "tags": [
+                "TypeScript",
+                "ESLint",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
