@@ -250,6 +250,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-12T07:12:36.359Z",
+            "title": "4 Untranslatable Words Behind Patreon’s Internationalization Overhaul",
+            "url": "https://www.patreon.com/posts/133137028",
+            "content": "ローカライズされるコンテンツを作成するときにきをつけることについて。\n\n- 条件式で文を分けるときは、完全な文として分ける\n- 数値表現は常にIntlを利用する\n- 複数系の表現もローカライズする\n\nローカライズシステム移行時に起きた問題や解決方法についてなど",
+            "tags": [
+                "i18n",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
