@@ -214,6 +214,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-12T06:31:17.588Z",
+            "title": "josdejong/jsonrepair: Repair invalid JSON documents",
+            "url": "https://github.com/josdejong/jsonrepair",
+            "content": "InvalidなJSON文字列をJSONに修復するツール",
+            "tags": [
+                "JSON",
+                "JavaScript",
+                "slib"
+            ],
+            "relatedLinks": []
         }
     ]
 }
