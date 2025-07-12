@@ -238,6 +238,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-12T06:53:29.089Z",
+            "title": "JavaScript scope hoisting is broken",
+            "url": "https://devongovett.me/blog/scope-hoisting.html",
+            "content": "Rollupなどが行うScope Hoistingは、Code splittingと概念が反発しあっているという問題について。\nモジュールの実行順序の問題やモジュールを関数でラップした時の最適化の問題についてなど",
+            "tags": [
+                "JavaScript",
+                "bundler",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
