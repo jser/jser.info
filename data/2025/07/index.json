@@ -262,6 +262,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-12T07:30:27.739Z",
+            "title": "Modern Node.js Patterns for 2025",
+            "url": "https://kashw1n.com/blog/nodejs-2025/",
+            "content": "最近のNode.jsで利用できる機能について。\nESM、`node:` prefix、built-in fetch APIやtesting frameworkの使用、top-level await。\nWorker threadsによる並列処理、AbortControllerによるキャンセル処理、async iteratorsによるイベント処理。\nPermission model、import mapsによるモジュール解決、Single Executable Applicationsによる単一実行可能ファイルの作成などについて",
+            "tags": [
+                "nodejs",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
