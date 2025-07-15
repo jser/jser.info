@@ -273,6 +273,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-15T13:51:28.763Z",
+            "title": "Release v3.0.1 · ueberdosis/tiptap",
+            "url": "https://github.com/ueberdosis/tiptap/releases/tag/v3.0.1",
+            "content": "tiptap v3.0.1リリース。\ntsupへの移行でUMDビルドサポート廃止、型定義の改善。\nMarkViews追加、`editor.unmount()`メソッドの追加、SSRモードでのエディタ利用サポート。\nTippy.jsからFloating UIへの移行、React 19対応、`@tiptap/extensions`に拡張機能をまとめるなど",
+            "tags": [
+                "JavaScript",
+                "editor",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
