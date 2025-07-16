@@ -302,6 +302,19 @@
                     "url": "https://nuxt.com/docs/4.x/getting-started/upgrade"
                 }
             ]
+        },
+        {
+            "date": "2025-07-16T14:18:38.218Z",
+            "title": "vitestではbeforeEachを使わない",
+            "url": "https://blog.koh.dev/2025-07-11-vitest-beforeeach/",
+            "content": "beforeEach + letではなく、`test.extends`を使ったTest Contextを使うことで、実際にアクセスするテストケースだけで準備をする方法について",
+            "tags": [
+                "vite",
+                "JavaScript",
+                "test",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
