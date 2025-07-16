@@ -285,6 +285,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-16T13:52:56.716Z",
+            "title": "Announcing Nuxt 4.0 · Nuxt Blog",
+            "url": "https://nuxt.com/blog/v4",
+            "content": "Nuxt v4リリース。\n新しいプロジェクト構造として`app/`ディレクトリがデフォルトに。\n`useAsyncData`と`useFetch`が同じキーでキャッシュを共有するように、`useFetch`などがデフォルトでshallow equalに変更。\nTypeScriptの設定ファイルを`app`/`server`/`node`/`shared`用にそれぞれ作成するように、CLIの改善など",
+            "tags": [
+                "Vue",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Upgrade Guide · Get Started with Nuxt v4",
+                    "url": "https://nuxt.com/docs/4.x/getting-started/upgrade"
+                }
+            ]
         }
     ]
 }
