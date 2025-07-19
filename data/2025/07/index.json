@@ -327,6 +327,17 @@
                 "ESLint"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-19T12:08:52.263Z",
+            "title": "Release v0.25.7 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.7",
+            "content": "esbuild v0.25.7リリース。\n`import defer`と`import source`をサポート、`--abs-paths=` flagを追加、特定の条件における文字列定数のinline化のサポート。",
+            "tags": [
+                "esbuild",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
