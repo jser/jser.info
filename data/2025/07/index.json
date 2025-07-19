@@ -338,6 +338,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-19T12:49:41.116Z",
+            "title": "Vanilagy/mediabunny: Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.",
+            "url": "https://github.com/Vanilagy/mediabunny",
+            "content": "WebCodecs APIを使ったメディアの読み書きや変換を行うライブラリ。\nWebCodecs APIを使ったメディアデータのEncode/Decodeを行い、そのデータをコンテナに読み書きするMuxerの処理を行う",
+            "tags": [
+                "JavaScript",
+                "video",
+                "audio",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
