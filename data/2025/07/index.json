@@ -315,6 +315,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-19T11:56:28.370Z",
+            "title": "ArnaudBarre/tsl: An extension of tsc for type-aware linting",
+            "url": "https://github.com/ArnaudBarre/tsl",
+            "content": "TypeScriptプラグインとしてtypescript-eslintのような型情報を使ったLintを実装している。\n型チェックと同時にTypeScriptのASTを使ったLintができる",
+            "tags": [
+                "TypeScript",
+                "plugin",
+                "ESLint"
+            ],
+            "relatedLinks": []
         }
     ]
 }
