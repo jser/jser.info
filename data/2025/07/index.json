@@ -374,6 +374,18 @@
                 "history"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-20T06:46:39.445Z",
+            "title": "Parsing 1 Billion Rows in Bun/Typescript Under 10 Seconds",
+            "url": "https://www.taekim.dev/writing/parsing-1b-rows-in-bun",
+            "content": "Bunで10億行のファイルを効率的に読み取る方法についての話",
+            "tags": [
+                "Bun",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
