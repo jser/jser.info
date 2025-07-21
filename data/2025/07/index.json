@@ -397,6 +397,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-21T08:15:14.729Z",
+            "title": "Active Supply Chain Attack: npm Phishing Campaign Leads to P...",
+            "url": "https://socket.dev/blog/npm-phishing-campaign-leads-to-prettier-tooling-packages-compromise",
+            "content": "npmパッケージを狙ったフィッシングキャンペーンが増加しているという話。\n次のnpmパッケージにマルウェアが含まれるため、該当するバージョンを利用している場合は対応が必要となる。\n\n- eslint-config-prettier: 8.10.1, 9.1.1, 10.1.6, 10.1.7\n- eslint-plugin-prettier: 4.2.2, 4.2.3\n- synckit: 0.11.9\n- @pkgr/core: 0.2.8\n- napi-postinstall: 0.3.1\n- is: 3.3.1\n",
+            "tags": [
+                "npm",
+                "security",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Jordan Harband on X: &quot;Heads up that v3.3.1 of https://t.co/jTB21NZuoO has malware in it, due to another maintainer’s account being hijacked. They’re removed for now, v3.3.0 is set at latest, v3.3.1 is deprecated, and a v3.3.2 will be published once I’m not on my phone (thx @github codespaces)&quot; / X",
+                    "url": "https://x.com/ljharb/status/1946636509601538233"
+                }
+            ]
         }
     ]
 }
