@@ -505,6 +505,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-27T14:42:20.572Z",
+            "title": "最近のHTMLを改めてちゃんと学んでみた",
+            "url": "https://zenn.dev/dinii/articles/16b3e71b580b6c",
+            "content": "最近のHTMLの機能について。\n\n- Popover API\n- dialog要素\n- details要素\n- inert属性\n- search要素\n- loading属性\n- fetchpriority属性\n- blocking属性\n- inputmode属性\n- enterkeyhint属性\n- rel属性",
+            "tags": [
+                "HTML",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
