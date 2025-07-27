@@ -494,6 +494,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-27T14:26:27.762Z",
+            "title": "Announcing TypeScript 5.9 RC - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9-rc/",
+            "content": "TypeScript 5.9 RCリリース。\n`tsc --init`で生成する設定を変更、`import defer`のサポート、`--module node20`のサポートなど",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
