@@ -470,6 +470,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-27T07:22:56.915Z",
+            "title": "npm 'accidentally' removes Stylus package, breaks builds and pipelines",
+            "url": "https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/",
+            "content": "`stylus`パッケージがnpmから消えた問題について。\n関連するメンテナーが悪意あるパッケージを公開した件に巻き込まれて、一時的にnpmから削除されていた。現在は元に戻っている",
+            "tags": [
+                "npm",
+                "security",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
