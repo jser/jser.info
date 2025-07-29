@@ -528,6 +528,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-29T15:27:26.969Z",
+            "title": "Nuxt 3.18 · Nuxt Blog",
+            "url": "https://nuxt.com/blog/v3-18",
+            "content": "Nuxt v3.18リリース。\n遅延ハイドレーション用のLazy Hydration Macros、`<NuxtRouteAnnouncer>`によるアクセシビリティ改善、Chrome DevToolsワークスペース統合の追加。  \n`onWatcherCleanup`のauto-import、パフォーマンスの改善など",
+            "tags": [
+                "Vue",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
