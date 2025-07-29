@@ -516,6 +516,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-29T15:18:18.044Z",
+            "title": "How Parcel bundles React Server Components",
+            "url": "https://devongovett.me/blog/parcel-rsc.html",
+            "content": "ParcelでReact Server Components（RSC）をバンドルする仕組みについて。  \nCode Spilttingによるbundleの分割とDynamic Importによるネットワークウォーターフォールの問題について。\nRSCでは、この問題をコードの構造を変えずに解決している点について\n",
+            "tags": [
+                "parcel",
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
