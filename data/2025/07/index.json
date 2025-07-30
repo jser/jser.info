@@ -565,6 +565,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-07-30T15:35:15.344Z",
+            "title": "Bun v1.2.19 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.2.19",
+            "content": "Bun v1.2.19リリース。\n`bun install --linker=isolated`のサポート、`bun update --interactive`でインタラクティブに依存関係の更新の対応、`bun pm pkg`の追加。\n`process.features.typescript`のサポート、`fs.glob`の`exclude`オプションサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
