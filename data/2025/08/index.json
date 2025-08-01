@@ -10,6 +10,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-01T15:20:03.582Z",
+            "title": "Node.js — Node.js v24.5.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v24.5.0",
+            "content": "Node.js v24.5.0リリース。\nOpenSSL 3.5 にアップグレード、`--experimental-wasm-modules`のフラグを外してWasmモジュールをデフォルトでサポート。\n`NODE_USE_ENV_PROXY=1`の指定で`node:http`/`node:https`がビルトインプロキシサポート、Web Locks APIの実装など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "src: add web locks api by IlyasShabi · Pull Request #58666 · nodejs/node",
+                    "url": "https://github.com/nodejs/node/pull/58666"
+                }
+            ]
         }
     ]
 }
