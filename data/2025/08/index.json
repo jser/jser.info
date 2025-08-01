@@ -1,0 +1,15 @@
+{
+    "list": [
+        {
+            "date": "2025-08-01T15:09:13.448Z",
+            "title": "Node.js — Node.js v22.18.0 (LTS)",
+            "url": "https://nodejs.org/en/blog/release/v22.18.0",
+            "content": "Node.js v22.18.0リリース。\n`--experimental-strip-types`のフラグなしに、TypeScriptの型を取り除いて実行できるように。\nフラグで無効化したい場合`--no--experimental-strip-types`を指定する",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
