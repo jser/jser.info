@@ -38,6 +38,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-02T07:52:31.563Z",
+            "title": "Centralized Dependency Management Made Simple",
+            "url": "https://blog.vlt.sh/blog/catalogs",
+            "content": "vltがcatalogをサポート。\npnpm catalogのように`vlt.json`ファイルで依存関係を一箇所で管理できる。",
+            "tags": [
+                "vlt",
+                "npm",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
