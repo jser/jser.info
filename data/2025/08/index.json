@@ -61,6 +61,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-03T14:16:19.765Z",
+            "title": "Release 0.15.0 | StyleX",
+            "url": "https://stylexjs.com/blog/v0.15.0",
+            "content": "StyleX v0.15.0リリース。\n`enableMediaQueryOrder`でMedia Queryのソート順を自動的に行う、Dynamic stylesの改善など",
+            "tags": [
+                "React",
+                "css",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
