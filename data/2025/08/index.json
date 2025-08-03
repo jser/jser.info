@@ -97,6 +97,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-03T15:16:11.693Z",
+            "title": "npm trusted publishing with OIDC is generally available - GitHub Changelog",
+            "url": "https://github.blog/changelog/2025-07-31-npm-trusted-publishing-with-oidc-is-generally-available/",
+            "content": "GitHub ActionsやGitLab CI/CDからOIDCでnpm publishができるように。\nCIにsecretsとしてnpm registryのtokenを入れなくても、npm側のTrusted Publisherの設定によりCIからpublishができるようになっている。\nnpm 11.5.1以降が必要",
+            "tags": [
+                "npm",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
