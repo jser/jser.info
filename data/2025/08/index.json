@@ -164,6 +164,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-07T14:31:22.656Z",
+            "title": "How we made JSON.stringify more than twice as fast · V8",
+            "url": "https://v8.dev/blog/json-stringify",
+            "content": "V8の`JSON.stringify`の高速化について。\n次の条件を満たすときに、stringifyの高速パスが通るようになる\n\n- `JSON.stringify`のオプションを使わない\n- `toJSON`を使わない\n- Array-likeなオブジェクトを含まない\n\n",
+            "tags": [
+                "V8",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
