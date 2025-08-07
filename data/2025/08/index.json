@@ -153,6 +153,17 @@
                     "url": "https://svelte.dev/docs/kit/remote-functions"
                 }
             ]
+        },
+        {
+            "date": "2025-08-07T14:13:20.657Z",
+            "title": "shuding/bidc: Bidirectional Channels for JavaScript",
+            "url": "https://github.com/shuding/bidc",
+            "content": "ComlinkのようにWeb Workerやiframeなど異なるコンテキストとのやりとりを行うライブラリ。\n自動的に接続/再接続、devalueを使った様々なデータを送受信できるようにしている",
+            "tags": [
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
