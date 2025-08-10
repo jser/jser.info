@@ -175,6 +175,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-10T15:05:57.703Z",
+            "title": "Bun v1.2.20 | Bun Blog",
+            "url": "https://bun.sh/blog/bun-v1.2.20",
+            "content": "Bun v1.2.20リリース。\n`yarn.lock`のマイグレーションに対応、`expectTypeOf`を追加、`bun update --interactive --recursive`のサポート。Windows long pathのサポート、`WebAssembly.compileStreaming`と`WebAssembly.instantiateStreaming`のサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
