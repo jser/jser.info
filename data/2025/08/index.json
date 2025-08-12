@@ -186,6 +186,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-12T05:22:25.509Z",
+            "title": "jQuery 4.0.0 Release Candidate 1 | Official jQuery Blog",
+            "url": "https://blog.jquery.com/2025/08/11/jquery-4-0-0-release-candidate-1/",
+            "content": "jQuery 4.0.0 Release Candidate 1リリース。\nIE11未満のサポートを終了し、古いIE向けのハックを削除。\n併せてPromiseサポートなどを前提にしたslim版をリリース。",
+            "tags": [
+                "jQuery",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
