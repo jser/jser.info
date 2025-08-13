@@ -197,6 +197,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-13T14:45:43.111Z",
+            "title": "ECharts 6 Features - What's New - Basics - Handbook - Apache ECharts",
+            "url": "https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/",
+            "content": "ECharts 6リリース。",
+            "tags": [
+                "chart",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 6.0.0 · apache/echarts",
+                    "url": "https://github.com/apache/echarts/releases/tag/6.0.0"
+                }
+            ]
         }
     ]
 }
