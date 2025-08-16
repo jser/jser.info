@@ -237,6 +237,18 @@
                 "Survey"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-16T05:41:21.281Z",
+            "title": "web-infra-dev/rslint: 🚀 Go Faster. Go Typed",
+            "url": "https://github.com/web-infra-dev/rslint",
+            "content": "tsgoベースのTypeScript ESLint互換ルールを実装するツール。\nTypeScriptのコンパイル時にLint的なチェックを行う。tsgoのinternalの処理に乗ることで、TypeScriptのincremental buildのような複雑なキャッシュなどにも対応できる",
+            "tags": [
+                "TypeScript",
+                "ESLint",
+                "golang"
+            ],
+            "relatedLinks": []
         }
     ]
 }
