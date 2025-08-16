@@ -261,6 +261,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-16T06:48:00.760Z",
+            "title": "Release Biome CLI v2.2.0 · biomejs/biome",
+            "url": "https://github.com/biomejs/biome/releases/tag/%40biomejs%2Fbiome%402.2.0",
+            "content": "Biome v2.2.0リリース。\n多数のlintルールのStableに変更とリネーム。\nQwik domainのサポート、.graphqlsファイル対応など。",
+            "tags": [
+                "biome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
