@@ -272,6 +272,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-16T07:02:22.157Z",
+            "title": "Node.js — Node.js v24.6.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v24.6.0",
+            "content": "Node.js v24.6.0リリース。\n`NODE_USE_SYSTEM_CA=1`の追加、` server.keepAliveTimeoutBuffer`オプションの追加、zstdCompress/zstdDecompressの辞書対応。\nNode.jsにpinoのような構造ログをサポートを入れるために、`Utf8Stream`の追加など。\n",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
