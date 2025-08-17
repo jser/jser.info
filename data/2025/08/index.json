@@ -295,6 +295,27 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-17T14:52:38.013Z",
+            "title": "Oxlint Type-Aware Preview | The JavaScript Oxidation Compiler",
+            "url": "https://oxc.rs/blog/2025-08-17-oxlint-type-aware",
+            "content": "`tsgolint`のforkをOxlintと統合して、Oxlintで型情報を使ったTypeScriptのLintをサポート。\n`typescript-go`にパッチを当てたものを利用するため、TypeScriptのバージョンに合わせたバージョンをインストールする必要がある。",
+            "tags": [
+                "TypeScript",
+                "ESLint",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "oxc-project/tsgolint: Type aware linting for oxlint",
+                    "url": "https://github.com/oxc-project/tsgolint"
+                },
+                {
+                    "title": "web-infra-dev/rslint: 🚀 Go Faster. Go Typed",
+                    "url": "https://github.com/web-infra-dev/rslint"
+                }
+            ]
         }
     ]
 }
