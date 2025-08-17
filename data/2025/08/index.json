@@ -283,6 +283,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-17T12:13:12.033Z",
+            "title": "redwoodjs/sdk: A React Framework for Cloudflare.",
+            "url": "https://github.com/redwoodjs/sdk",
+            "content": "Cloudflare Workers向けのReactフレームワーク。\nルーディングやReact Server Componnentをサポートしていて、コード生成や命名規則などに依存しない作りになっている",
+            "tags": [
+                "cloudflare",
+                "React",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
