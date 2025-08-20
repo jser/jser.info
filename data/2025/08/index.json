@@ -355,6 +355,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-20T14:09:02.338Z",
+            "title": "Release pnpm 10.15 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v10.15.0",
+            "content": "pnpm v10.15.0リリース。\n未使用のcatalogを削除する`cleanupUnusedCatalogs`オプションを追加、`pnpm config get`の改善など",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
