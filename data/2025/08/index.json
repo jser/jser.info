@@ -366,6 +366,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-23T05:58:28.374Z",
+            "title": "ESLint v9.34.0 released - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2025/08/eslint-v9.34.0-released/",
+            "content": "ESLint v9.34.0リリース。\n`--concurrency=auto`でmultithread lintingのサポート",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
