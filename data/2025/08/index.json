@@ -377,6 +377,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-24T15:22:11.287Z",
+            "title": "sidequestjs/sidequest: Sidequest is a modern, scalable background job processor for Node.js applications.",
+            "url": "https://github.com/sidequestjs/sidequest",
+            "content": "Node.jsでバックグラウンドジョブを処理するライブラリ。\n`node:worker_threads`を使った実装になっている",
+            "tags": [
+                "nodejs",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Sidequest.js",
+                    "url": "https://sidequestjs.com/posts/intro-to-sidequest/"
+                }
+            ]
         }
     ]
 }
