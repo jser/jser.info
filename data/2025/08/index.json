@@ -405,6 +405,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-25T12:15:42.289Z",
+            "title": "Bun v1.2.21 | Bun Blog",
+            "url": "https://bun.com/blog/bun-v1.2.21",
+            "content": "Bun v1.2.21リリース。\n`Bun.SQL`がMySQL/MariaDB/SQLite/PostgreSQLを利用できるように、YAMLのネイティブサポート、Bun.secrets`の追加。\n\n`Bun.build` APIで`--compile`をサポート、`bunx`が`--package`フラグをサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
