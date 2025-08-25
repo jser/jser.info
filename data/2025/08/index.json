@@ -416,6 +416,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-25T23:17:23.939Z",
+            "title": "Release @apollo/client@4.0.0 · apollographql/apollo-client",
+            "url": "https://github.com/apollographql/apollo-client/releases/tag/%40apollo%2Fclient%404.0.0",
+            "content": "Apollo Client 4.0リリース。\nReact依存を`@apollo/client/react`に分離しコアをフレームワーク非依存化、`ApolloClient`で`link`必須化/`uri`等のショートカット削除など。\nエラーハンドリング刷新し`ApolloError`廃止しエラーごとに用意したクラスへ変更、Linkは関数からクラス化、RxJSを標準Observable実装に採用。\n`dataState`プロパティでクエリ結果がわかるように、`@defer`のサポート、`localState`オプションの追加、React Compilerでコンパイル済みのHooksの公開。\nTypeScriptの名前空間型整理/厳格化とツリーシェイク改善、SSR API刷新(`prerenderStatic`)。\n`useLazyQuery`のAPIの変更、`useQuery`から`onCompleted`と`onError`を削除。\nマイグレーションのためのCodemodも提供している。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote",
+                "GraphQL"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migrating to Apollo Client 4.0 - Apollo GraphQL Docs",
+                    "url": "https://www.apollographql.com/docs/react/migrating/apollo-client-4-migration"
+                }
+            ]
         }
     ]
 }
