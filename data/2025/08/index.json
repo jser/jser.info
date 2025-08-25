@@ -395,10 +395,10 @@
             ]
         },
         {
-            "date": "2025-08-24T15:23:28.942Z",
+            "date": "2025-08-25T08:34:03.118Z",
             "title": "Run Express.js on Cloudflare Workers",
             "url": "https://jross.me/run-express-js-on-cloudflare-workers/",
-            "content": "Cloudflare Workersの´enable_nodejs_http_server_modules`フラグでexpressが動作するようになったという話",
+            "content": "Cloudflare Workersの`enable_nodejs_http_server_modules`フラグでexpressが動作するようになったという話",
             "tags": [
                 "nodejs",
                 "express",
