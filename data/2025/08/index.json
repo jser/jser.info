@@ -436,7 +436,7 @@
             ]
         },
         {
-            "date": "2025-08-27T08:59:16.016Z",
+            "date": "2025-08-27T08:59:39.380Z",
             "title": "Malicious versions of Nx were published · Advisory · nrwl/nx",
             "url": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c",
             "content": "`nx`パッケージのマルウェアを含むバージョンが公開された問題。\n次のバージョンには問題があるため、対応が必要になっている\n\n- 21.5.0\n- 20.9.0\n- 20.10.0\n- 21.6.0\n- 20.11.0\n- 21.7.0\n- 21.8.0\n- 20.12.0 ",
@@ -445,7 +445,12 @@
                 "security",
                 "ReleaseNote"
             ],
-            "relatedLinks": []
+            "relatedLinks": [
+                {
+                    "title": "Supply Chain Security Alert: Popular Nx Build System Package Compromised with Data-Stealing Malware - StepSecurity",
+                    "url": "https://www.stepsecurity.io/blog/supply-chain-security-alert-popular-nx-build-system-package-compromised-with-data-stealing-malware"
+                }
+            ]
         }
     ]
 }
