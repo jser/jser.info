@@ -451,6 +451,17 @@
                     "url": "https://www.stepsecurity.io/blog/supply-chain-security-alert-popular-nx-build-system-package-compromised-with-data-stealing-malware"
                 }
             ]
+        },
+        {
+            "date": "2025-08-27T15:08:57.427Z",
+            "title": "Announcing Rspack 1.5 - Rspack",
+            "url": "https://rspack.rs/blog/announcing-1-5",
+            "content": "Rspack 1.5リリース。\nNode.js 16のサポート終了。\nBarrel fileの最適化、`watchpack`の代わりにネイティブ実装を追加、`@rspack/browser`でブラウザでのbundleをサポート。\nRustでRspackを拡張するbindingをかけるように、定数のインライン化をサポートなど",
+            "tags": [
+                "rspack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
