@@ -462,6 +462,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-29T01:08:41.708Z",
+            "title": "Node.js v22.19.0 (LTS) ",
+            "url": "https://nodejs.org/en/blog/release/v22.19.0",
+            "content": "Node.js v22.19.0リリース。\n`NODE_USE_SYSTEM_CA=1`を追加、`--experimental-wasm-modules`のフラグを外す変更、`zstdCompress`の辞書をサポートなど",
+            "tags": [
+                "nodejs",
+                "rlee"
+            ],
+            "relatedLinks": []
         }
     ]
 }
