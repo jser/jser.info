@@ -473,6 +473,17 @@
                 "rlee"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-29T01:11:22.860Z",
+            "title": "Node.js v24.7.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v24.7.0",
+            "content": "Node.js v24.7.0リリース。\n`node:crypto`でPost-Quantum CryptographyとしてML-KEM/ML-DSAをサポート、Web Cryptography APIのサポートの改善。\nsingle executable applicationsで`execArgv`などフィールドのサポートなど",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
