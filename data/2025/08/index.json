@@ -484,6 +484,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-08-30T08:04:54.205Z",
+            "title": "adamhl8/filterql: A tiny query language for filtering structured data",
+            "url": "https://github.com/adamhl8/filterql",
+            "content": "データのスキーマを定義して、検索を行うDSLを提供するライブラリ。\n一致検索、比較、ソートなどを行う検索演算子に対応している。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "search"
+            ],
+            "relatedLinks": []
         }
     ]
 }
