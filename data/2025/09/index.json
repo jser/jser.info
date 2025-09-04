@@ -19,14 +19,15 @@
             ]
         },
         {
-            "date": "2025-09-04T15:36:49.073Z",
+            "date": "2025-09-04T15:37:00.221Z",
             "title": "fetch() では Host ヘッダーを設定できないし話はそこまで単純じゃない - Object.create(null)",
             "url": "https://susisu.hatenablog.com/entry/2025/08/31/190757",
             "content": "Fetch APIとHostヘッダーについて。\nサーバサイドの実行環境であるNode.js/Deno/Claudflare Workersなどの挙動について",
             "tags": [
                 "browser",
                 "Fetch",
-                "nodejs"
+                "nodejs",
+                "article"
             ],
             "relatedLinks": []
         }
