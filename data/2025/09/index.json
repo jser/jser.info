@@ -1,0 +1,22 @@
+{
+    "list": [
+        {
+            "date": "2025-09-04T13:59:04.541Z",
+            "title": "Release v4.1.0 · colinhacks/zod",
+            "url": "https://github.com/colinhacks/zod/releases/tag/v4.1.0",
+            "content": "zod 4.1.0リリース。\nencode/decodeを定義するCodecs APIを追加、`.safeExtend()`を追加、`z.has()`/`z.hex()`を追加など",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Introducing Zod Codecs",
+                    "url": "https://colinhacks.com/essays/introducing-zod-codecs"
+                }
+            ]
+        }
+    ]
+}
