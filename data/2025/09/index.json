@@ -66,6 +66,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-07T15:35:14.755Z",
+            "title": "npm Trusted PublishingでOIDCを使ってトークンレスでCIからnpmパッケージを公開する | Web Scratch",
+            "url": "https://efcl.info/2025/09/07/npm-oidc/",
+            "content": "npm Trusted PublishingとOIDCによるトークンレスなCI/CDからのnpmパッケージ公開について。\n設定手順、ブラウザで完結するリリースフロー、\n新規/既存/monorepoパッケージの運用方法、GitHubのProtectionの設定などについて\n",
+            "tags": [
+                "npm",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
