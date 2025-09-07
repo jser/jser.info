@@ -78,6 +78,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-07T22:35:10.432Z",
+            "title": "Nuxt 4.1 · Nuxt Blog",
+            "url": "https://nuxt.com/blog/v4-1",
+            "content": "Nuxt v4.1リリース。\nImport Mapを使ったchunkのキャッシュの改善、実験的なRolldownのサポート、`getLayerDirectories`の追加など",
+            "tags": [
+                "Vue",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
