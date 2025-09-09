@@ -114,6 +114,27 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-09T06:48:53.028Z",
+            "title": "npm debug and chalk packages compromised",
+            "url": "https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised",
+            "content": "`debug`や`chalk`など著名なnpmパッケージにブラウザで動作するマルウェアを含むバージョンが公開された問題について。\n\n現在はnpm registryから該当のバージョンは削除されている。\n次のパッケージのバージョン影響を受けていた。\n\n```\nansi-styles@6.2.2\ndebug@4.4.2\nchalk@5.6.1\nsupports-color@10.2.1\nstrip-ansi@7.1.1\nansi-regex@6.2.1\nwrap-ansi@9.0.1\ncolor-convert@3.1.1\ncolor-name@2.0.1\nis-arrayish@0.3.3\nslice-ansi@7.1.1\ncolor@5.0.1\ncolor-string@2.1.1\nsimple-swizzle@0.2.3\nsupports-hyperlinks@4.1.1\nhas-ansi@6.0.1\nchalk-template@1.1.1\nbackslash@0.2.1\n```",
+            "tags": [
+                "npm",
+                "security",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "(RESOLVED) Version 4.4.2 published to npm is compromised · Issue #1005 · debug-js/debug",
+                    "url": "https://github.com/debug-js/debug/issues/1005#issuecomment-3266868187"
+                },
+                {
+                    "title": "npm debug, color-convert, backslash, error-ex, simple-swizzle, is-arrayish, color-name, color-string have incorrect wildcard version in their malware advisory (2025-09-08) · Issue #6099 · github/advisory-database",
+                    "url": "https://github.com/github/advisory-database/issues/6099"
+                }
+            ]
         }
     ]
 }
