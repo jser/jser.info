@@ -135,6 +135,18 @@
                     "url": "https://github.com/github/advisory-database/issues/6099"
                 }
             ]
+        },
+        {
+            "date": "2025-09-09T08:05:52.908Z",
+            "title": "Bringing Node.js HTTP servers to Cloudflare Workers",
+            "url": "https://blog.cloudflare.com/bringing-node-js-http-servers-to-cloudflare-workers/",
+            "content": "Cloudflare WorkersのNode.js `http` serverの対応について。\n",
+            "tags": [
+                "cloudflare",
+                "nodejs",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
