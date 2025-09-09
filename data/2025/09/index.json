@@ -147,6 +147,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-09T08:15:56.854Z",
+            "title": "How we migrated our Rush.js monorepo to Node type stripping — Calm Blog",
+            "url": "https://blog.calm.com/engineering/how-we-migrated-our-rushjs-monorepo-to-node-type-stripping",
+            "content": "TypeSccriptで書かれたNode.jsアプリケーションのコードベースをどのようにtype strippingに移行したかについて。\nmonorepoと`node_modules`にコードがあるため、`node --experimental-strip-types`が効かないが、`--conditions`で参照するパスを解決している。\nESMへの移行、stub、CJSの対応、`erasableSyntaxOnly`で未対応の構文の対応などを行い、`node --experimental-strip-types`で実行できるようにした話。",
+            "tags": [
+                "nodejs",
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
