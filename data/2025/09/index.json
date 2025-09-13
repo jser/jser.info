@@ -171,6 +171,17 @@
                 "rlee"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-13T10:26:48.868Z",
+            "title": "Electron 38.0.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-38-0",
+            "content": "Electron 38.0.0リリース。\nChromium 140/Node.js 22.18/V8 14へアップグレード。\nmacOS 11(Big Sur)サポート終了/`ELECTRON_OZONE_PLATFORM_HINT`環境変数/`plugin-crashed`イベント削除。\n`webFrame.routingId`プロパティ/`webFrame.findFrameByRoutingId()`は非推奨。\nWindowsでaccentColorのカスタマイズの対応、macOSのメモリ情報/Tray APIの拡張など",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
