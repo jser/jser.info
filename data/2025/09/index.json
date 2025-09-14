@@ -182,6 +182,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-14T05:08:54.032Z",
+            "title": "Release pnpm 10.16 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v10.16.0",
+            "content": "pnpm v10.16.0リリース。\nサプライチェーン攻撃対策として`minimumReleaseAge`オプションを追加、`pnpm why --find-by=<pkg>`オプションを追加、Node.js 24の対応改善など",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
