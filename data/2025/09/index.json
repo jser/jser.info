@@ -222,6 +222,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-14T12:50:44.549Z",
+            "title": "How modern browsers work - by Addy Osmani - Elevate",
+            "url": "https://addyo.substack.com/p/how-modern-browsers-work",
+            "content": "ブラウザのアーキテクチャの変遷について。\nChromium/Blink/V8について、ネットワーク/HTML・CSS・JSパース/レイアウト/ペイント/コンポジット/マルチプロセス/サイト分離/サンドボックス化などの変遷について。\nそれぞれのブラウザエンジンの実装の違いについてなど",
+            "tags": [
+                "browser",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
