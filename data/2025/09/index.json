@@ -235,13 +235,14 @@
             "relatedLinks": []
         },
         {
-            "date": "2025-09-14T12:59:43.278Z",
+            "date": "2025-09-14T12:59:52.666Z",
             "title": "Behind The Scenes of Bun Install | Bun Blog",
             "url": "https://bun.com/blog/behind-the-scenes-of-bun-install",
             "content": "パッケージインストールのボトルネックはI/OではなくSystem Call数にあるという話。\nuser modeとkernel modeの切り替えにはコストがかかりパッケージインストール時はオーバヘッドが多く発生する。\n`bun install`ではこのSystem Call数をメトリクスとして使ってパフォーマンスを改善していっているという話",
             "tags": [
                 "Bun",
-                "article"
+                "article",
+                "performance"
             ],
             "relatedLinks": []
         }
