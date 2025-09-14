@@ -198,6 +198,19 @@
                     "url": "https://pnpm.io/blog/releases/10.16"
                 }
             ]
+        },
+        {
+            "date": "2025-09-14T05:33:30.644Z",
+            "title": "Release Version 27.0.0 · jsdom/jsdom",
+            "url": "https://github.com/jsdom/jsdom/releases/tag/27.0.0",
+            "content": "jsdom 27.0.0リリース。\nNpde.js 18のサポート終了、イベントコンストラクタのサポートの追加、CSSセレクタエンジンを`@asamuzakjp/dom-selector`に変更など",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
