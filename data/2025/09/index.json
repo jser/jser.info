@@ -211,6 +211,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-14T11:49:10.178Z",
+            "title": "Deno 2.5: Permissions in the config file | Deno",
+            "url": "https://deno.com/blog/v2.5",
+            "content": "Deno v2.5リリース。\n`--permissin-set`フラグのサポート、` Deno.test.{before,after}{Each,All}`の追加、`DENO_AUDIT_PERMISSIONS`で監査ログの出力に対応など\n",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
