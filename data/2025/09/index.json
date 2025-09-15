@@ -245,6 +245,18 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-15T11:23:48.595Z",
+            "title": "React Nativeの新アーキテクチャへの移行（2025年） - Shopify",
+            "url": "https://shopify.engineering/react-native-new-architecture",
+            "content": "ShopifyのReact NativeのNew Architectureへの移行について。\n最小のコード変更で移行を優先し、デュアルアーキテクチャでRollback可能に、App StoreとPlay Storeでのロールアウト戦略について",
+            "tags": [
+                "React",
+                "Native",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
