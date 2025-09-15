@@ -303,6 +303,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-15T12:12:50.311Z",
+            "title": "styled-components maintenance mode: A 40% faster fork | Sanity",
+            "url": "https://www.sanity.io/blog/cut-styled-components-into-pieces-this-is-our-last-resort",
+            "content": "styled-componentsのメンテナンスが停止したので、パフォーマンスの改善とReact 19の対応したforkを作成しながら、別のCSSフレームワークに移行しているという話",
+            "tags": [
+                "React",
+                "css",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
