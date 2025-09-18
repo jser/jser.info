@@ -326,6 +326,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-18T13:00:10.354Z",
+            "title": "Release pnpm 10.17 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v10.17.0",
+            "content": "pnpm v10.17.0リリース。\n`minimumReleaseAgeExclude`で`minimumReleaseAge`の対象外となるパッケージをパターンとして定義できるようになるなど",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
