@@ -337,6 +337,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-18T13:09:57.852Z",
+            "title": "Wasm 3.0 Completed - WebAssembly",
+            "url": "https://webassembly.org/news/2025-09-17-wasm-3.0/",
+            "content": "WebAssembly Specification 3.0リリース。\n次の仕様が追加されている。\n\n- 64-bit address space (memory64)  \n- multiple memories  \n- GC  \n- typed references  \n- tail calls  \n- exception handling  \n- relaxed SIMD  \n- deterministic profile  \n- annotation syntax  \n- JS string builtins\n",
+            "tags": [
+                "WebAssembly",
+                "spec",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
