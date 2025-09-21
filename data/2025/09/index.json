@@ -360,6 +360,22 @@
                 "plugin"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-21T05:54:42.587Z",
+            "title": "Firefox 143.0, See All New Features, Updates and Fixes",
+            "url": "https://www.firefox.com/en-US/firefox/143.0/releasenotes/",
+            "content": "Firefox 143リリース。\n`<input type=\"color\">`が Hex以外の値を受け入れるように。\n実験的な機能としてCSSの`text-autospace`プロパティのサポート",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 143 for developers - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/143"
+                }
+            ]
         }
     ]
 }
