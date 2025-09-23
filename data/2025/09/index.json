@@ -461,6 +461,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-23T12:19:43.835Z",
+            "title": "Node.js v24.8.0",
+            "url": "https://nodejs.org/en/blog/release/v24.8.0",
+            "content": "Node.js v24.8.0リリース。\nHTTP/2 Network Inspectionのサポート、OIDCに対応したnpm v11.6.0へアップデート。",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
