@@ -399,6 +399,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-23T08:55:18.169Z",
+            "title": "Our plan for a more secure npm supply chain - The GitHub Blog",
+            "url": "https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/",
+            "content": "npmのサプライチェーン攻撃に対するnpm registry/Githubのロードマップ。\nClassic Tokenの廃止、publishをMFA限定、TOTPのMFAを廃止、Granular tokensでのpublishの有効期限を短く設定するなどの対応をしていく。",
+            "tags": [
+                "npm",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
