@@ -450,6 +450,17 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-23T12:11:52.972Z",
+            "title": "WebKit Features in Safari 26.0 | WebKit",
+            "url": "https://webkit.org/blog/17333/webkit-features-in-safari-26-0/",
+            "content": "Safari 26.0の変更点について。\nCSS Anchor Positioning、Scroll-driven animations、`text-wrap: pretty`、`progress()`のサポート。\nDigital Credentials API、Trusted Types API、URLPattern APIのサポート。\nSVGアイコン、WebGPU、WebSockets over HTTP/2のサポート。\nUser AgentのOSバージョンを固定するように変更など",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
