@@ -411,6 +411,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-23T10:30:02.395Z",
+            "title": "Release v9.0.0 · lerna/lerna",
+            "url": "https://github.com/lerna/lerna/releases/tag/v9.0.0",
+            "content": "lerna v9.0.0リリース。\nOIDCのサポート、Node.js 18のサポート終了、`@lerna/legacy-package-management`のサポート終了など",
+            "tags": [
+                "npm",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
