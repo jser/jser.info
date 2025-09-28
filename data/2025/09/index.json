@@ -525,6 +525,23 @@
                     "url": "https://github.com/nodejs/ncrypto"
                 }
             ]
+        },
+        {
+            "date": "2025-09-28T13:01:56.665Z",
+            "title": "Auth.js is now part of Better Auth",
+            "url": "https://www.better-auth.com/blog/authjs-joins-better-auth",
+            "content": "Better AuthがAuth.js(NextAuth)のメンテナンスを引き継ぐことになった。\nAuth.jsは新規開発をしないが、セキュリティ修正などのアップデートをBetter Authチームが行う。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Auth.js is now part of Better Auth · nextauthjs/next-auth · Discussion #13252",
+                    "url": "https://github.com/nextauthjs/next-auth/discussions/13252"
+                }
+            ]
         }
     ]
 }
