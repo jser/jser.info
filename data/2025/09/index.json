@@ -508,6 +508,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-28T12:01:39.466Z",
+            "title": "A year of improving Node.js compatibility in Cloudflare Workers",
+            "url": "https://blog.cloudflare.com/nodejs-workers-2025/",
+            "content": "Cloudflare WorkersでのNode.js互換性の取り組みについて。\n`nodejs_compat`フラグで`node:http`/`node:fs`/`node:crypto`/`node:process`などの主要モジュールをサポート。\nVirtual File Systemの実装やNode.jsのcryptoの処理を`ncrypto`パッケージに移行し、BoringSSLベースで`node:crypto`に対応など",
+            "tags": [
+                "nodejs",
+                "cloudflare",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "nodejs/ncrypto: Library supporting OpenSSL and crypto functions for node:crypto",
+                    "url": "https://github.com/nodejs/ncrypto"
+                }
+            ]
         }
     ]
 }
