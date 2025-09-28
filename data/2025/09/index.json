@@ -497,6 +497,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-28T11:53:53.528Z",
+            "title": "Node.js",
+            "url": "https://nodejs.org/en/blog/release/v24.9.0",
+            "content": "Node.js v24.9.0リリース。\nHTTP upgradeをサーバー側で制御する`shouldUpgradeCallback`オプションを追加、SQLiteでtagged templateとSession classをサポート。  \nWorkerでheap profile APIを追加、crypto objects/assertメッセージのSource Map対応など。  \nOpenSSL 3.5.3へのアップデート、REPLでの大量の文字列貼り付けのパフォーマンス改善など\n",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
