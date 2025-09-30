@@ -542,6 +542,17 @@
                     "url": "https://github.com/nextauthjs/next-auth/discussions/13252"
                 }
             ]
+        },
+        {
+            "date": "2025-09-30T11:19:11.942Z",
+            "title": "Strengthening npm security: Important changes to authentication and token management - GitHub Changelog",
+            "url": "https://github.blog/changelog/2025-09-29-strengthening-npm-security-important-changes-to-authentication-and-token-management/",
+            "content": "npmのセキュリティロードマップ。\ngranular access tokensの最大の有効期限が90日に変更、classic tokenを廃止、TOTPを廃止してフィッシング耐性があるMFAのみをサポート。\n2025年10月ごろから段階的に進めていく予定となっている",
+            "tags": [
+                "npm",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
