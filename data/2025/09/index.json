@@ -587,6 +587,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-30T11:57:42.215Z",
+            "title": "Release v5.102.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v5.102.0",
+            "content": "webpack v5.102.0リリース。\nDynamic ImportのTree Shakingに対応、\n`import with { type: \"bytes\" }`/`{ type: \"text\" }`サポート。\n実験機能だった`topLevelAwait`/`layers`をStableに変更など\n",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
