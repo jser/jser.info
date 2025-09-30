@@ -576,6 +576,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-09-30T11:53:02.602Z",
+            "title": "Bun v1.2.23 | Bun Blog",
+            "url": "https://bun.com/blog/bun-v1.2.23",
+            "content": "Bun v1.2.23リリース。\n`bun install`が`pnpm-lock.yaml`を取り込めるように、`bun install`が`--cpu`と`--os`をサポート。\n`bun test`が`async`のテストの同時実行をサポート、ランダムな順番でテストを実行する`--randomize`をサポート。",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
