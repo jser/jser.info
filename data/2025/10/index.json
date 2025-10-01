@@ -1,10 +1,10 @@
 {
     "list": [
         {
-            "date": "2025-10-01T15:07:32.674Z",
+            "date": "2025-10-01T15:53:28.560Z",
             "title": "Introducing Socket Firewall: Free, Proactive Protection for ...",
             "url": "https://socket.dev/blog/introducing-socket-firewall",
-            "content": "npm/yarn/pnpm、pip/uv、cargoに対応したパッケージインストール時のネットワークリクエストのチェックをマルウェア検知をするツール。\nそれぞれのコマンドをラップする形で動作し、GitHub ActionsなどのCIでも利用できる",
+            "content": "npm/yarn/pnpm、pip/uv、cargoに対応したパッケージインストール時のネットワークリクエストのチェックをマルウェア検知をするツール。\nそれぞれのコマンドの通信をProxyする形で動作し、GitHub ActionsなどのCIでも利用できる",
             "tags": [
                 "npm",
                 "python",
