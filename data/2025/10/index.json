@@ -13,6 +13,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-02T14:41:01.604Z",
+            "title": "React 19.2 – React",
+            "url": "https://react.dev/blog/2025/10/01/react-19-2",
+            "content": "React 19.2リリース。\n`<Activity />`コンポーネントの追加、`useEffectEvent`の追加、`cacheSignal`の追加。\nSSRで`Suspense`のバッチ処理、SSRのWeb Streamsに対応したAPIの追加、eslint-plugin-react-hooks@6.1.0へのアップデートなど",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
