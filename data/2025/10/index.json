@@ -24,6 +24,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-05T06:09:22.146Z",
+            "title": "Release Notes for Safari Technology Preview 229 | WebKit",
+            "url": "https://webkit.org/blog/17447/release-notes-for-safari-technology-preview-229/",
+            "content": "Safari Technology Preview 229リリース。 \nCSSの`text-decoration-line`で`spelling-error`/`grammar-error`のサポート。\nSVGの`onbegin`イベント、`async`属性、`download`属性のサポート。\nWebGPUでの`GPUTexture`オブジェクトのサポートなど",
+            "tags": [
+                "safari",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
