@@ -103,6 +103,22 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-08T12:32:07.243Z",
+            "title": "Release v1.56.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.56.0",
+            "content": "playwright v1.56.0リリース。\nPlaywright Agentsの追加、`page.consoleMessages()`/`page.pageErrors()`の追加、`page.requests()`の追加。\n`--test-list`でテスト対象を手動で指定できるようになるなど",
+            "tags": [
+                "playwright",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Agents | Playwright",
+                    "url": "https://playwright.dev/docs/test-agents"
+                }
+            ]
         }
     ]
 }
