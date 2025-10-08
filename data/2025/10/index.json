@@ -92,6 +92,17 @@
                     "url": "https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/"
                 }
             ]
+        },
+        {
+            "date": "2025-10-08T12:16:08.939Z",
+            "title": "What's coming in ESLint v10.0.0 - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2025/10/whats-coming-in-eslint-10.0.0/",
+            "content": "ESLint 10の変更予定について。\nNode.js 18のサポート終了、eslintrcの削除。\n`Program` AST Nodeのrangeの変更非推奨のRule Context APIの削除、設定ファイルの探索を対象のファイルからを起点に変更するなど",
+            "tags": [
+                "ESLint",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
