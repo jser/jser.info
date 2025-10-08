@@ -119,6 +119,22 @@
                     "url": "https://playwright.dev/docs/test-agents"
                 }
             ]
+        },
+        {
+            "date": "2025-10-08T14:45:02.430Z",
+            "title": "cleaning house in nx monorepo, how i removed 120 unused deps safely",
+            "url": "https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely",
+            "content": "Knipを使い未使用のパッケージを削除した話",
+            "tags": [
+                "npm",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "webpro-nl/knip: ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!",
+                    "url": "https://github.com/webpro-nl/knip"
+                }
+            ]
         }
     ]
 }
