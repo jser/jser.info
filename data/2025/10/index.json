@@ -135,6 +135,19 @@
                     "url": "https://github.com/webpro-nl/knip"
                 }
             ]
+        },
+        {
+            "date": "2025-10-09T16:25:22.168Z",
+            "title": "Oxlint JS Plugins Preview | The JavaScript Oxidation Compiler",
+            "url": "https://oxc.rs/blog/2025-10-09-oxlint-js-plugins.html",
+            "content": "OxlintのESLint形式のJavaScriptプラグインのサポートについて。\nESLintプラグインと同様のAPIをサポートすることで、ESLintプラグインのルールを動かすことを目標にしている。",
+            "tags": [
+                "JavaScript",
+                "Rust",
+                "ESLint",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
