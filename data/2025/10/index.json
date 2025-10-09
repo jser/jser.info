@@ -148,6 +148,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-09T16:27:58.119Z",
+            "title": "React Native 0.82 - A New Era · React Native",
+            "url": "https://reactnative.dev/blog/2025/10/08/react-native-0.82",
+            "content": "React Native 0.82リリース。\nNew Architureのみのサポートに変更、Hermes V1をフラグ付きでサポート、React 19.1.1へアップデート。\nDOM Node subset APIsの追加など",
+            "tags": [
+                "React",
+                "Native",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
