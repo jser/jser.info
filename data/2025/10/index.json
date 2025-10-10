@@ -160,6 +160,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-10T00:09:20.036Z",
+            "title": "ayuhito/modern-tar: 🗄 Zero dependency streaming tar parser and writer for every JavaScript runtime.",
+            "url": "https://github.com/ayuhito/modern-tar",
+            "content": "Web Streams APIを使ったtar/gzipの圧縮と解凍ライブラリ",
+            "tags": [
+                "nodejs",
+                "library",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
