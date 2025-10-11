@@ -207,6 +207,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-11T07:59:27.456Z",
+            "title": "React Compiler v1.0 – React",
+            "url": "https://react.dev/blog/2025/10/07/react-compiler-1",
+            "content": "React Compiler v1.0リリース。\n`eslint-plugin-react-hooks`にReact Compiler向けのルールが含まれるようになった。\n現在はBabelプラグインとして提供されているが、SWCサポートを実験的に実装中となっている",
+            "tags": [
+                "React",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
