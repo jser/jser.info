@@ -172,6 +172,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-11T06:46:47.863Z",
+            "title": "Bun 1.3 | Bun Blog",
+            "url": "https://bun.com/blog/bun-v1.3",
+            "content": "Bun v1.3リリース。\nローカルサーバのHot Realodの改善、HTMLファイルの実行をsingle-file executableへのコンパイルに対応。\nworkspacesではisolated installをデフォルト化、`minimumReleaseAge`オプションの追加、`bun why`/`bun info`/`bun audit`の追加。\nAsync Stack Tracesの対応、Node.jsとの互換性の改善など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
