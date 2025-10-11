@@ -196,6 +196,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-11T07:18:38.753Z",
+            "title": "Next.js 16 (beta) | Next.js",
+            "url": "https://nextjs.org/blog/next-16-beta",
+            "content": "Next.js 16 betaリリース。\nTurbopackがデフォルトバンドラーとしてstableに、Turbopackのファイルシステムキャッシュ(beta)、React Compiler統合がstableに。\nルーティングと`prefetch`の最適化、PPRがCache Componentsに統合。\n`updateTag()`/`refresh()`の追加、`revalidateTag()`の第二引数のオプションが必須に。\nReact 19.2対応(View Transitions、`useEffectEvent()`、`<Activity/>`コンポーネント)。\nNode.js 18のサポート終了、AMP/`next lint`コマンド削除、`middleware.ts`を`proxy.ts`にリネーム、パフォーマンスの改善など",
+            "tags": [
+                "Next.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
