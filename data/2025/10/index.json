@@ -219,6 +219,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-13T01:08:44.841Z",
+            "title": "Node.js",
+            "url": "https://nodejs.org/en/blog/release/v24.10.0",
+            "content": "Node.js v24.10.0リリース。\n`util.getCallSite()`を削除、`database.setAuthorizer(callback)`を追加など",
+            "tags": [
+                "nodfe",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
