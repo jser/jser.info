@@ -242,6 +242,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-16T00:53:01.005Z",
+            "title": "Announcing Vite+ | VoidZero",
+            "url": "https://voidzero.dev/posts/announcing-vite-plus",
+            "content": "Viteの商用利用版であるVite+について。\n`vite new`/`vite test`/`vite lint`/`vite fmt`/`vite lib`/`vite run`/`vite ui`のようなコマンドを提供する。\nVite、Vitest、Rolldown、Oxcなどをベースにしていて、2026年の初頭にPublic Previewの予定",
+            "tags": [
+                "vite",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
