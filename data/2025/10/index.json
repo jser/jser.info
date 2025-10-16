@@ -303,6 +303,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-16T14:03:06.529Z",
+            "title": "Node.js",
+            "url": "https://nodejs.org/en/blog/release/v25.0.0",
+            "content": "Node.js v25.0.0リリース。\nV8 14.1へアップグレード、`--experimental-webstorage`のフラグなし有効化、`--allow-net`権限モデルの追加。\n非推奨の機能の削除(`SlowBuffer`/`assert.CallTracker`など)。\nCorepackの配布停止、JSPI for WebAssemblyの有効化など。\n",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
