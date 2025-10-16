@@ -292,6 +292,17 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-16T13:49:54.760Z",
+            "title": "Release v0.25.11 · evanw/esbuild",
+            "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.11",
+            "content": "esbuild v0.25.11リリース。\n`import with { type: \"bytes\"}`のサポートなど",
+            "tags": [
+                "esbuild",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
