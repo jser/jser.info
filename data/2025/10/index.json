@@ -314,6 +314,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-21T14:18:58.983Z",
+            "title": "Node.js — Node.js v22.21.0 (LTS)",
+            "url": "https://nodejs.org/en/blog/release/v22.21.0",
+            "content": "Node.js v22.21.0リリース。\n`--use-env-proxy`フラグ/`NODE_USE_ENV_PROXY`のサポート、`--max-old-space-size`がpercentの指定をサポートなど",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
