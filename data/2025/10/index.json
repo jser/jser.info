@@ -325,6 +325,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-22T14:20:12.898Z",
+            "title": "Release v8.9.0 · redwoodjs/graphql",
+            "url": "https://github.com/redwoodjs/graphql/releases/tag/v8.9.0",
+            "content": "Redwood GraphQL(RedworrdJS) 8.9.0リリース。\nRedworrdJSは開発が終了したため、CedarJSへの移行が推奨されている",
+            "tags": [
+                "nodejs",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "CedarJS | The React + GraphQL Web App Framework",
+                    "url": "https://cedarjs.com/"
+                }
+            ]
         }
     ]
 }
