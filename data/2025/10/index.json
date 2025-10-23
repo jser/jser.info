@@ -354,6 +354,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-23T23:58:22.459Z",
+            "title": "Bun v1.3.1 | Bun Blog",
+            "url": "https://bun.com/blog/bun-v1.3.1",
+            "content": "Bun v1.3.1リリース。\n`bun test`実行時に`vi`をglobalにexpose、`bun test --pass-with-no-tests`と`bun test --only-failures`のサポート。\n`hoistPattern`と`publicHoistPattern`、オプションをサポートなど",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
