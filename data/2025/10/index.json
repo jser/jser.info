@@ -378,14 +378,15 @@
             "relatedLinks": []
         },
         {
-            "date": "2025-10-24T00:07:46.729Z",
+            "date": "2025-10-24T00:07:57.485Z",
             "title": "Release v14.6.0 · sindresorhus/got",
             "url": "https://github.com/sindresorhus/got/releases/tag/v14.6.0",
             "content": "Got v14.6.0リリース。\n`beforeCache`フックやNode.js diagnostic channelのサポート/zstd圧縮対応/typed arrayをrequest bodyでサポート。\nHTTP/2タイミング問題の修正、ストリーム関連のvalidationエラーやretryロジックのバグ修正。\n`strictContentLength`オプション追加など",
             "tags": [
                 "nodejs",
                 "HTTP",
-                "library"
+                "library",
+                "ReleaseNote"
             ],
             "relatedLinks": []
         }
