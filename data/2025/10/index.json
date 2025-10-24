@@ -389,6 +389,14 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-24T00:11:27.344Z",
+            "title": "Planned breaking changes for Rspack 2.0 · web-infra-dev/rspack · Discussion #9270",
+            "url": "https://github.com/web-infra-dev/rspack/discussions/9270",
+            "content": "Vitest 4.0リリース。\nBrowser Modeがstableに、ビジュアルリグレッションテストをする`toMatchScreenshot`のサポート/Playwright Trace/frameLocatorの追加。\n`expect.assert`/`expect.schemaMatching`の追加。\n`basic`レポーター削除/Browser Provider設定の変更/`workspace`オプションを削除/`coverage.all`と`coverage.extensions`の削除など\n",
+            "tags": [],
+            "relatedLinks": []
         }
     ]
 }
