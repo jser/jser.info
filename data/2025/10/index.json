@@ -397,6 +397,17 @@
             "content": "Vitest 4.0リリース。\nBrowser Modeがstableに、ビジュアルリグレッションテストをする`toMatchScreenshot`のサポート/Playwright Trace/frameLocatorの追加。\n`expect.assert`/`expect.schemaMatching`の追加。\n`basic`レポーター削除/Browser Provider設定の変更/`workspace`オプションを削除/`coverage.all`と`coverage.extensions`の削除など\n",
             "tags": [],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-24T00:12:01.766Z",
+            "title": "Vitest 4.0 is out! | Vitest",
+            "url": "https://vitest.dev/blog/vitest-4",
+            "content": "Vitest 4.0リリース。\nBrowser Modeがstableに、ビジュアルリグレッションテストをする`toMatchScreenshot`のサポート/Playwright Trace/frameLocatorの追加。\n`expect.assert`/`expect.schemaMatching`の追加。\n`basic`レポーター削除/Browser Provider設定の変更/`workspace`オプションを削除/`coverage.all`と`coverage.extensions`の削除など\n",
+            "tags": [
+                "vite",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
