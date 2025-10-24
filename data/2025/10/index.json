@@ -365,6 +365,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-24T00:02:53.847Z",
+            "title": "Next.js 16 | Next.js",
+            "url": "https://nextjs.org/blog/next-16",
+            "content": "Next.js 16リリース。\nNode.js 18のサポート終了、AMP、`next lint`、`middleware.ts`の削除など。\nCache Componentsによる明示的なキャッシュ制御/PPR統合、Next.js Devtools MCPの追加、`middlewar.ts`を`proxy.tsに変更。\nTurbopackがデフォルトバンドラに/React Compiler統合/ルーティング・プリフェッチ最適化/React 19.2のサポートなど",
+            "tags": [
+                "Next.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
