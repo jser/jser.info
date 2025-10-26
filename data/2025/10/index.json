@@ -411,6 +411,17 @@
                 "issue"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-26T06:33:42.065Z",
+            "title": "Ember 6.8 Released",
+            "url": "https://blog.emberjs.com/ember-released-6-8/",
+            "content": "Ember.js 6.8リリース。\n`renderComponent` API追加/`@ember/reactive/collections`でtrackedコレクション導入/Trusted Publishing対応。\nEmber CLIはVite/Embroiderがデフォルト/テンプレートをstrictがデフォルトへ変更。",
+            "tags": [
+                "Ember",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
