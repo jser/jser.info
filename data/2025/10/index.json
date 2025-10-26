@@ -422,6 +422,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-26T06:40:11.700Z",
+            "title": "Release v4.2.0 · nuxt/nuxt",
+            "url": "https://github.com/nuxt/nuxt/releases/tag/v4.2.0",
+            "content": "Nuxt.js v4.2.0リリース。\n`useFetch`でAbortControllerサポート/dev時のエラー表示改善/Vite Environment API実験的サポート/AsyncDataハンドラー抽出によるパフォーマンス向上。\nTypeScriptプラグインの実験的サポート/`@nuxt/nitro-server`パッケージ分離など",
+            "tags": [
+                "Vue",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
