@@ -445,6 +445,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-27T01:00:57.673Z",
+            "title": "Release v4.10.0 · honojs/hono",
+            "url": "https://github.com/honojs/hono/releases/tag/v4.10.0",
+            "content": "Hono v4.10.0リリース。\nMiddlewareの型を改善、`cloneRawRequest`の追加など",
+            "tags": [
+                "Hono",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
