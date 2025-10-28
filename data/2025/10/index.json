@@ -491,6 +491,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-10-28T22:10:11.516Z",
+            "title": "Release v10.0.0 · storybookjs/storybook",
+            "url": "https://github.com/storybookjs/storybook/releases/tag/v10.0.0",
+            "content": "Storybook v10.0.0リリース。\nESM-onlyに変更してインストールサイズを29%削減、distコードをunminify化。\nModule automockingのサポート、TypesafeなCSF factories、タグフィルター機能の改善。\nNext 16/Vitest 4/Svelte非同期コンポーネント対応など",
+            "tags": [
+                "storybook",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
