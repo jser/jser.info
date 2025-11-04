@@ -133,6 +133,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-04T23:46:36.045Z",
+            "title": "The Inner Workings of JavaScript Source Maps",
+            "url": "https://www.polarsignals.com/blog/posts/2025/11/04/javascript-source-maps-internals",
+            "content": "Source Maoの仕組みについて。\nSource Mapの形式やVLQエンコーディングの仕組みにについて",
+            "tags": [
+                "sourcemap",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
