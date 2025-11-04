@@ -122,6 +122,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-04T14:01:07.699Z",
+            "title": "Announcing Rspack 1.6 - Rspack",
+            "url": "https://rspack.rs/blog/announcing-1-6",
+            "content": "Rspack 1.6リリース。\nDynamic importのTree Shakingを改善、import deferのサポート。\nESM出力の改善する`EsmLibraryPlugin`を追加、Barrelファイルの最適化をデフォルト有効化、layer機能の安定化。\nビルド時にJSX構文を保持オプションを追加、Source Mapを抽出する`extractSourceMap`オプションを追加。\nRsbuild 1.6では、ブラウザのエラーログをターミナル転送できるように、Rslib 1.6ではtypescript-goベースの型宣言ファイルの生成をサポートなど",
+            "tags": [
+                "rspack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
