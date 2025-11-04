@@ -73,6 +73,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-04T12:52:41.337Z",
+            "title": "Release v2.10.0 · reduxjs/redux-toolkit",
+            "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.10.0",
+            "content": "Redux Toolkit v2.10.0リリース。\nImmerのパフォーマンス改善を行いImmer 10.2.0にアップデートなど",
+            "tags": [
+                "redux",
+                "performance",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Immer perf appears to have gotten worse over time, based on updated benchmarks · Issue #1152 · immerjs/immer",
+                    "url": "https://github.com/immerjs/immer/issues/1152"
+                }
+            ]
         }
     ]
 }
