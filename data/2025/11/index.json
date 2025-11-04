@@ -46,6 +46,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-04T12:35:18.004Z",
+            "title": "New in Chrome 142  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/new-in-chrome-142?hl=en",
+            "content": "Chrome 142リリース。\n`:target-before`/`:target-after`疑似クラスの追加、Style Container Queriesと`if()`関数でのレンジ構文のサポート。\n`interestfor`属性の追加、`document.activeViewTransition`プロパティの追加。\nWebGPUの`primitive_index`機能とテクスチャ形式tier1/tier2のサポート。\nローカルネットワークへのリクエストに許可　プロンプトが表示されるようになるなど",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chrome 142  |  Release notes  |  Chrome for Developers",
+                    "url": "https://developer.chrome.com/release-notes/142"
+                }
+            ]
         }
     ]
 }
