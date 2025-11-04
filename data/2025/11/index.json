@@ -35,6 +35,17 @@
                 "UI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-04T12:20:45.048Z",
+            "title": "Electron 39.0.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-39-0",
+            "content": "Electron 39.0.0リリース。\nChromium 142/Node.js 22.20/V8 14.2へアップグレード。\nASAR integrityがStableに、`window.open`のポップアップは常にサイズが変更可能になるなど",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
