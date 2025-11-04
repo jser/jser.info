@@ -91,6 +91,24 @@
                     "url": "https://github.com/immerjs/immer/issues/1152"
                 }
             ]
+        },
+        {
+            "date": "2025-11-04T13:06:50.565Z",
+            "title": "Triplex Goes Open Source and Moves to Poimandres • Triplex",
+            "url": "https://triplex.dev/blog/triplex-moves-to-pmndrs",
+            "content": "Reactで3Dコンポーネントを作成するツール",
+            "tags": [
+                "React",
+                "3D",
+                "library",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "pmndrs/triplex: The open source visual workspace for React / Three Fiber. Build the 2D and 3D web.",
+                    "url": "https://github.com/pmndrs/triplex"
+                }
+            ]
         }
     ]
 }
