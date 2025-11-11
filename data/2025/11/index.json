@@ -166,6 +166,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-11T11:03:55.069Z",
+            "title": "npm security update: Classic token creation disabled and granular token changes - GitHub Changelog",
+            "url": "https://github.blog/changelog/2025-11-05-npm-security-update-classic-token-creation-disabled-and-granular-token-changes/",
+            "content": "npmセキュリティアップデートについて\nClassic tokenの作成を無効にし、既存Classic tokenは11月19日まで有効になっている。\nGranular tokenでwrite権限は2FA必須化、CI/CD用のBypass 2FAオプション追加、write権限を持つtokenは90日の有効期限となるように変更など",
+            "tags": [
+                "npm",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
