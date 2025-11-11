@@ -178,6 +178,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-11T11:09:04.183Z",
+            "title": "module: mark type stripping as stable by marco-ippolito · Pull Request #60600 · nodejs/node",
+            "url": "https://github.com/nodejs/node/pull/60600",
+            "content": "Node.js v25.2.0でTypeScriptのtype strippingサポートがstableとなる",
+            "tags": [
+                "nodejs",
+                "TypeScript",
+                "issue"
+            ],
+            "relatedLinks": []
         }
     ]
 }
