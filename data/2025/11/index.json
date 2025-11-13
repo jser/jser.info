@@ -229,6 +229,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-13T00:36:18.198Z",
+            "title": "stepwisehq/prosemirror-collab-commit: Commit-based collaborative editing plugin for ProseMirror",
+            "url": "https://github.com/stepwisehq/prosemirror-collab-commit",
+            "content": "CRDTは人数が多くなるパフォーマンスに問題が起きるため、コミットベースのコラボレーションを実装するProseMirrorプラグイン",
+            "tags": [
+                "JavaScript",
+                "editor",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ProseMirror Collab Performance | Blog",
+                    "url": "https://stepwisehq.com/blog/2023-07-25-prosemirror-collab-performance/"
+                }
+            ]
         }
     ]
 }
