@@ -218,6 +218,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-13T00:33:45.633Z",
+            "title": "Node.js — Node.js v25.2.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v25.2.0",
+            "content": "Node.js v25.2.0リリース。\nType StrippingをStableに変更、`util.deprecate`に`modifyPrototype`オプションを追加",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
