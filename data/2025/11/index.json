@@ -257,6 +257,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-13T00:48:07.046Z",
+            "title": "Don't Blindly Use useTransition Everywhere | Nicolas Charpentier",
+            "url": "https://www.charpeni.com/blog/dont-blindly-use-usetransition-everywhere",
+            "content": "`useTransition`を緊急性が高いUIの更新に使ってしまうと遅延が発生するので、使いわけが必要という話。\nタブ切り替えと`<Activity>`についてなど",
+            "tags": [
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
