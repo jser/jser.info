@@ -294,6 +294,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-18T22:51:40.866Z",
+            "title": "Release v5.103.0 · webpack/webpack",
+            "url": "https://github.com/webpack/webpack/releases/tag/v5.103.0",
+            "content": "webpack v5.103.0リリース。\nDotenvPlugin/WebpackManifestPluginの追加、`import.meta.env`/`import.meta.dirname`/`import.meta.filename`サポート。\n`import.defer()`サポート/CSSの`exportType`オプション追加/CSSの`composes`プロパティサポートなど",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
