@@ -328,6 +328,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-23T12:17:37.135Z",
+            "title": "Type-safe Composable CSS - styleframe",
+            "url": "https://www.styleframe.dev/",
+            "content": "TypeScriptで型安全に書くCSSフレームワーク。\nCSS VariableやThemeなどをComposablesとして合成できるAPIを持っている",
+            "tags": [
+                "TypeScript",
+                "css",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
