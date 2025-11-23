@@ -340,6 +340,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-23T12:19:57.753Z",
+            "title": "Bun v1.3.3 | Bun Blog",
+            "url": "https://bun.com/blog/bun-v1.3.3",
+            "content": "Bun v1.3.3リリース。\n`CompressionStream`/`DecompressionStream`のサポート、standalone executableの`.env`と`bunfig.toml`読み込み制御するフラグの追加。\n`bun test`の`retry`/`repeats`オプション追加、SQLite 3.51.0へ更新など\n",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
