@@ -317,6 +317,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-23T12:11:23.593Z",
+            "title": "Web Fragments - A radically new way to do micro-frontends.",
+            "url": "https://web-fragments.dev/",
+            "content": "JavaScriptのコンテキストをiframeで分離し、CSSのスタイルのコンテキストをShadow DOMで分離するMicrofrontendフレームワーク。\nCloudflareで利用されている",
+            "tags": [
+                "MicroFrontend",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
