@@ -391,6 +391,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-24T12:40:02.597Z",
+            "title": "Introducing Phased Package Installations",
+            "url": "https://blog.vlt.sh/blog/vlt-build",
+            "content": "vltでは`vlt install`と`vlt build`にコマンドを分けることで、インストール時にスクリプトを実行をデフォルトで行わないようになっている話",
+            "tags": [
+                "npm",
+                "vlt",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
