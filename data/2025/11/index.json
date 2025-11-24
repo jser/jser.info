@@ -380,6 +380,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-24T12:37:58.074Z",
+            "title": "Release pnpm 11 Alpha 0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v11.0.0-alpha.0",
+            "content": "pnpm v11.0.0-alpha.0リリース。\nPure ESMに変更、設定の読み取りの変更、Node.js 18のサポート終了、キャッシュをv8.serializeしたバイナリファイルを使うように変更",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
