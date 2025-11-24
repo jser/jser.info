@@ -457,6 +457,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-24T13:07:53.245Z",
+            "title": "Announcing Angular v21. Authors: Jens Kuehlers, Mark “Techson”… | by Angular | Nov, 2025 | Angular Blog",
+            "url": "https://blog.angular.dev/announcing-angular-v21-57946c34f14b",
+            "content": "Angular v21リリース。\n実験的なSignal Formsの追加、アクセシビリティを重視したヘッドレスコンポーネントライブラリAngular AriaがDeveloper Previewに。\nVitestがデフォルトのテストランナーとしてStableに、新しいアプリケーションではzone.jsがデフォルトで含まれなくなった。\nAngular MCPサーバーがStableに、テンプレートでの正規表現サポートなど",
+            "tags": [
+                "Angular",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
