@@ -367,6 +367,19 @@
                     "url": "https://www.prisma.io/blog/announcing-prisma-orm-7-0-0?via=prisma7"
                 }
             ]
+        },
+        {
+            "date": "2025-11-24T11:14:35.578Z",
+            "title": "arktype/ark/attest at main · arktypeio/arktype",
+            "url": "https://github.com/arktypeio/arktype/tree/main/ark/attest",
+            "content": "ArkTypeが利用しているTypeScriptのテスト、ベンチマークフレームワーク。\nTypeScriptの型パフォーマンスのメトリクスを表示できる",
+            "tags": [
+                "TypeScript",
+                "testing",
+                "benchmark",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
