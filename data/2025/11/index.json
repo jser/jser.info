@@ -403,6 +403,23 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-24T12:50:54.401Z",
+            "title": "tmikov/imgui-react-runtime: React + Dear ImGui + Static Hermes",
+            "url": "https://github.com/tmikov/imgui-react-runtime",
+            "content": "HermesとDear ImGuiとReactを使ったGUIフレームワーク。\n数MB程度の単体で実行できるネイティブバイナリとへコンパイルができる",
+            "tags": [
+                "React",
+                "Native",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "ocornut/imgui: Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+                    "url": "https://github.com/ocornut/imgui"
+                }
+            ]
         }
     ]
 }
