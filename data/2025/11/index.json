@@ -468,6 +468,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-11-25T11:46:42.703Z",
+            "title": "Release v1.57.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.57.0",
+            "content": "playwright v1.57.0リリース。\nHTMLレポータにテストの遅い順で表示するSpeedboardを追加、ChromiumでなくChrome for Testingを利用するように、`webServer`に`wait`オプションを追加。Page#accessibility APIを削除など",
+            "tags": [
+                "playwright",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
