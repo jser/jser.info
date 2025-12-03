@@ -23,13 +23,14 @@
             "relatedLinks": []
         },
         {
-            "date": "2025-12-03T02:26:31.909Z",
+            "date": "2025-12-03T02:26:41.645Z",
             "title": "Oxfmt: Oxc Formatter Alpha | The JavaScript Oxidation Compiler",
             "url": "https://oxc.rs/blog/2025-12-01-oxfmt-alpha.html",
             "content": "JavaScript FormtterであるOxfmtのαリリース。\nPrettierの一部オプションのサポートや`printWidth: 100`のデフォルト値の変更などが含まれている。",
             "tags": [
                 "JavaScript",
-                "Tools"
+                "Tools",
+                "ReleaseNote"
             ],
             "relatedLinks": []
         }
