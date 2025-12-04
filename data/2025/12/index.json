@@ -108,6 +108,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-04T23:03:04.950Z",
+            "title": "Critical Security Vulnerability in React Server Components – React",
+            "url": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
+            "content": "Reactのセキュリティアップデート。\nNext.jsなどのReact Server Componentsに対応したサーバとして起動している場合に、任意のコード実行ができるRCEの脆弱性が存在している。\nReactやNext.js(Next.jsはReactをBundleしているため個別にアップデートが必要)などのセキュリティ修正がリリースされている。",
+            "tags": [
+                "React",
+                "Next.js",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
