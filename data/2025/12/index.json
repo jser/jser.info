@@ -46,6 +46,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-04T13:42:08.686Z",
+            "title": "Accelerate Next.js in Kubernetes",
+            "url": "https://blog.platformatic.dev/93-faster-nextjs-in-your-kubernetes",
+            "content": "Node.jsアプリケーションをKubernetes環境でスケーリングする際の問題と、Wattを使った93%のレイテンシ改善について。\nPM2やclusterモジュールはIPCによる約30%のオーバーヘッドがあり、単一CPUポッドの水平スケーリングでは負荷分散の不均衡が発生する。\nWattはLinuxカーネルの`SO_REUSEPORT`を使い、マスタープロセスなしで各ワーカーが直接接続を受け付けることでオーバーヘッドを削減するアプローチを採用していることについて。",
+            "tags": [
+                "Next.js",
+                "kubernetes",
+                "performance",
+                "linux",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
