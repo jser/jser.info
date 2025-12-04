@@ -72,6 +72,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-04T14:30:08.331Z",
+            "title": "Progress on TypeScript 7 - December 2025 - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/",
+            "content": "Go言語実装のTypeScript 7の進捗について。\nTypeScript 7ではTypeScript 6でDeprecatedとなる予定の機能が削除される。\nまた、TypeScript 6がJavaScript実装の最後のバージョンとなる。\nまだ、APIやJSDocの互換性など既知の問題はあるが、型チェックに関しては安定してきているという話",
+            "tags": [
+                "TypeScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
