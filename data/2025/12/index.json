@@ -83,6 +83,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-04T14:33:44.998Z",
+            "title": "Release pnpm 10.24 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v10.24.0",
+            "content": "pnpm v10.24.0リリース。\nnetwork-concurrencyをCPUのコア数の3倍に設定することで、ネットワークの並列性を改善するなど",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
