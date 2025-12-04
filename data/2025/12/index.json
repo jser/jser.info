@@ -94,6 +94,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-04T14:39:45.647Z",
+            "title": "🎉 Ant Design 6.0 is Here! 🎉 · Issue #55804 · ant-design/ant-design",
+            "url": "https://github.com/ant-design/ant-design/issues/55804",
+            "content": "Ant Design 6リリース。\nReact 18以上を最低要件に変更、React Compilerをサポート、IEサポートを終了。\nPure CSS Variables Style Architectureへの移行、v4で非推奨となったAPIを削除。\nMasonryコンポーネントの追加、Drawerのリサイズサポート、マスクのブラー背景などの追加など\n",
+            "tags": [
+                "JavaScript",
+                "React",
+                "UI",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
