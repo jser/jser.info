@@ -121,6 +121,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-06T05:19:09.528Z",
+            "title": "New in Chrome 143  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/new-in-chrome-143?hl=en",
+            "content": "Chrome 143リリース。\nCSS Anchor Fallback Container Query/`background-position-x`/`y`の辺相対構文/`font-language-override`プロパティのサポート。\nICU 77へアップデート、EditContext APIの改善、WebTransportアプリケーションプロトコルネゴシエーションの追加。\nXSLTの非推奨化など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Chrome 143  |  Release notes  |  Chrome for Developers",
+                    "url": "https://developer.chrome.com/release-notes/143"
+                }
+            ]
         }
     ]
 }
