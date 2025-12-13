@@ -175,6 +175,17 @@
                     "url": "https://vercel.com/changelog/new-npm-package-for-automatic-recovery-of-broken-streaming-markdown"
                 }
             ]
+        },
+        {
+            "date": "2025-12-13T23:39:11.780Z",
+            "title": "Node.js — Node.js v24.12.0 (LTS)",
+            "url": "https://nodejs.org/en/blog/release/v24.12.0",
+            "content": "Node.js v24.12.0リリース。\nType stripping(TypeScript型削除機能)をStableに変更。\n`http`にbodyがないリクエストのStream処理をスキップする`optimizeEmptyRequests`オプションを追加。\n`util.deprecate()`に`modifyPrototype`などのオプション、`sqlite`に`defensive`フラグを追加。\ncompile cacheを相対パスで保存できるportableオプション、Permission Modelに`--allow-inspector`を追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
