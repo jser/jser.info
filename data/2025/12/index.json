@@ -210,6 +210,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-14T14:16:05.711Z",
+            "title": "Deno 2.6: dx is the new npx | Deno",
+            "url": "https://deno.com/blog/v2.6",
+            "content": "Deno v2.6リリース。\nダウンロードと実行を行う`dx`コマンドを追加、Source phase importsのサポート。\n`deno audit`コマンドの追加と`deno audit --socket`でのSocket.devとの連携の追加。\npnpmライクなpostinstallを行うパッケージを管理する`deno approve-scripts`コマンドを追加、`minimumDependencyAge`オプションのサポート。\nデフォルトで`@types/node`を含むように変更、\nunstableな機能として`tsgo`を使った型チェックのサポートなど",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
