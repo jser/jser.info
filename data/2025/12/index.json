@@ -186,6 +186,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-14T13:45:26.719Z",
+            "title": "Type-Aware Linting Alpha | The JavaScript Oxidation Compiler",
+            "url": "https://oxc.rs/blog/2025-12-08-type-aware-alpha",
+            "content": "OxlintのType-Aware Lintingがαリリース",
+            "tags": [
+                "TypeScript",
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
