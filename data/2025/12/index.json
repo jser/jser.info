@@ -338,6 +338,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-16T12:41:14.257Z",
+            "title": "gaearon/rscexplorer: A tool for people curious about the React Server Components protocol",
+            "url": "https://github.com/gaearon/rscexplorer",
+            "content": "React Server Componentがどのように動くのかをステップごとに確認できるツール。\nRSCのFlightプロトコルでのやり取りやReactのServerとClientがどのように連携しているのかを可視化している",
+            "tags": [
+                "React",
+                "server",
+                "Tools",
+                "webservice"
+            ],
+            "relatedLinks": []
         }
     ]
 }
