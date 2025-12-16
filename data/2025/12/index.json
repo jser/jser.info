@@ -326,6 +326,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-16T12:36:48.579Z",
+            "title": "How We're Protecting Our Newsroom from npm Supply Chain Attacks | pnpm",
+            "url": "https://pnpm.io/blog/2025/12/05/newsroom-npm-supply-chain-security",
+            "content": "pnpmのサプライチェーンセキュリティ対策の機能についての紹介。\nライフサイクルスクリプトの管理、minimumReleaseAge、trustPolicyについて",
+            "tags": [
+                "pnpm",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
