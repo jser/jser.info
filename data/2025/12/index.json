@@ -263,6 +263,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-16T12:13:16.476Z",
+            "title": "Firefox 146.0, See All New Features, Updates and Fixes",
+            "url": "https://www.firefox.com/en-US/firefox/146.0/releasenotes/",
+            "content": "Firefox 146リリース。\nCSSの`contrast-color()`関数、`@scope` at-rule、`text-decoration-inset`プロパティをサポート。\n`WeakMap`/`WeakSet`がSymbolをキーとして受け入れるように、`SubtleCrypto.importKey()`が圧縮楕円曲線点のインポートをサポート。\n実験的機能として、Navigation APIとCustom media queriesを追加",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 146 release notes for developers (Stable) - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/146"
+                }
+            ]
         }
     ]
 }
