@@ -251,6 +251,18 @@
                     "url": "https://github.com/WICG/delayed-message-timing/blob/main/README.md"
                 }
             ]
+        },
+        {
+            "date": "2025-12-16T12:06:03.894Z",
+            "title": "Release v1.5.0 (to-json-schema) · open-circle/valibot",
+            "url": "https://github.com/open-circle/valibot/releases/tag/v1.5.0-to-json-schema",
+            "content": "Valibot v1.5.0リリース。\nJSON Schema draft-2020-12とOpenAPI 3.0 Schema Object形式のサポート、recordスキーマに`propertyNames`を追加。\n`toStandardJsonSchema`関数でValibotスキーマをStandard JSON Schema形式へ変換できるように",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
