@@ -279,6 +279,19 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/146"
                 }
             ]
+        },
+        {
+            "date": "2025-12-16T12:21:56.881Z",
+            "title": "Useful patterns for building HTML tools",
+            "url": "https://simonwillison.net/2025/Dec/10/html-tools/",
+            "content": "LLMを使ったHTMLツールを作るときのパターンについて\nReactやビルドステップなしでツールを作る方法、CDNからの依存関係のロード、URLやlocalStorageでの状態管理の方法。\nCORS対応のAPIの利用やファイル処理やホスティングについて",
+            "tags": [
+                "HTML",
+                "Tools",
+                "article",
+                "LanguageModel"
+            ],
+            "relatedLinks": []
         }
     ]
 }
