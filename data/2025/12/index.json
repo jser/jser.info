@@ -233,6 +233,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-16T12:04:33.907Z",
+            "title": "Making complex web apps faster - Microsoft Edge Blog",
+            "url": "https://blogs.windows.com/msedgedev/2025/12/09/making-complex-web-apps-faster/",
+            "content": "Long TaskなどによってpostMessageなどのメッセージの遅延をPerformanceObserverで検知するDelayed Message TimingのProposalについて",
+            "tags": [
+                "performance",
+                "article",
+                "browser",
+                "proposal"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "delayed-message-timing/README.md at main · WICG/delayed-message-timing",
+                    "url": "https://github.com/WICG/delayed-message-timing/blob/main/README.md"
+                }
+            ]
         }
     ]
 }
