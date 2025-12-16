@@ -292,6 +292,17 @@
                 "LanguageModel"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-16T12:26:36.061Z",
+            "title": "Chrome 144 beta  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/chrome-144-beta?hl=en",
+            "content": "Chrome 144 Betaリリース。\nCSSの擬似要素でページ内検索の擬似要素として`::search-text`をサポート、`@scroll-state`がscrolledをサポート。\nView Transitionsの`waitUntil()`メソッド、`<geolocation>`要素、Temporal API、`clipboardchange`イベントをサポートなど。\nPrivacy Sandboxで実装されていた機能を非推奨化など",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
