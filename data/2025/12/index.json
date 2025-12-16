@@ -303,6 +303,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-16T12:30:30.659Z",
+            "title": "poppinss/ts-exec: Execute TypeScript on Node using SWC",
+            "url": "https://github.com/poppinss/ts-exec",
+            "content": "`ts-node`や`tsx`のようにTypeScriptをNode.jsで実行するためのツール。\nSWCをベースにしている",
+            "tags": [
+                "nodejs",
+                "TypeScript",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
