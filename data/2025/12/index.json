@@ -376,6 +376,17 @@
                 "security"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-21T02:12:59.515Z",
+            "title": "Next.js 16.1 | Next.js",
+            "url": "https://nextjs.org/blog/next-16-1",
+            "content": "Next.js 16.1リリース。\nTurbopackのFile System Cacheが`next dev`でも利用できるように、`next dev --inspect`を追加、`next upgrade`コマンドを追加。\n実験的機能としてBundle Analyzerを統合など",
+            "tags": [
+                "Next.js",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
