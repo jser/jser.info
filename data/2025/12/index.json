@@ -364,6 +364,18 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-21T02:03:05.800Z",
+            "title": "Security advisory",
+            "url": "https://storybook.js.org/blog/security-advisory/",
+            "content": "Storybookに`.env`がbundleされてしまう問題があったため、7.x/8.x/9.x/10.xにそれぞれアップデートが公開されている。",
+            "tags": [
+                "storybook",
+                "ReleaseNote",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
