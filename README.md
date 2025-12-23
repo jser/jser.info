@@ -19,6 +19,12 @@ JSer.infoに関連するリポジトリについての案内です。
 - [ECMAScript Daily](https://ecmascript-daily.github.io/ "ECMAScript Daily")
 	- JSer.infoではあまり扱わないECMAScript仕様関連の情報サイト
 	- 仕様書レベルの変更や新しいProposalに興味がある人向け
+- [JSer.info Watch List](https://jser.info/watch-list/)
+	- JSer.infoで紹介したサイトを紹介頻度順にまとめたウォッチリスト
+	- 過去2年以内に紹介されたアクティブな情報源を確認できる
+- [JSer.info Watch List RSS](https://jser.info/watch-list-rss/feeds/rss.xml)
+	- JSer.infoの情報源を一つにまとめたRSSフィード
+	- Watch Listに含まれるサイトの更新を一つのRSSで購読できる
 
 ## コミュニケーションを取りたい
 
