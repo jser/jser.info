@@ -430,6 +430,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-25T14:32:04.165Z",
+            "title": "bellard/mquickjs: Public repository of the Micro QuickJS Javascript Engine",
+            "url": "https://github.com/bellard/mquickjs?tab=readme-ov-file",
+            "content": "組み込み向けのJavaScriptエンジン。\nES5レベルのサブセットの実装で、QuickJSと似たC APIなどを持つが、メモリ消費量を抑える実装になっている。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
