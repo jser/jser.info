@@ -419,6 +419,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-25T00:11:50.707Z",
+            "title": "第三者のJavaScriptをセキュアに実行するには？― exaBase Studio のプラグイン機能",
+            "url": "https://zenn.dev/exwzd/articles/20251204_studio_plugin",
+            "content": "JavaScriptのコードをサンドボックスで実行するアプローチについて。\niframe/Secure ECMAScript/QuickJSについて",
+            "tags": [
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
