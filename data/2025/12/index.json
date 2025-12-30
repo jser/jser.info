@@ -496,6 +496,17 @@
                     "url": "https://zenn.dev/jiftechnify/articles/eject-enums-from-typescript-codebase"
                 }
             ]
+        },
+        {
+            "date": "2025-12-30T03:00:52.359Z",
+            "title": "Node.jsのSingle Executable Applications (SEA) で作る、配布しやすいNode.js アプリ",
+            "url": "https://zenn.dev/yamachu/articles/abaad71eaa30fe",
+            "content": "Node.jsのSEAで単一実行バイナリを作成する方法、Chrome拡張とNative Messaging Hostでメッセージングする方法について",
+            "tags": [
+                "nodejs",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
