@@ -442,6 +442,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-30T01:43:13.805Z",
+            "title": "Fixing the URL params performance penalty - Web Performance Calendar",
+            "url": "https://calendar.perfplanet.com/2025/fixing-the-url-params-performance-penalty/",
+            "content": "URLパラメータをCDNがキャッシュしていいかを定義する`No-Vary-Search` HTTPヘッダについて。\nキーの順序の定義、取り除いてもいいパラメータなどを定義できる",
+            "tags": [
+                "URL",
+                "article",
+                "SEO",
+                "cdn"
+            ],
+            "relatedLinks": []
         }
     ]
 }
