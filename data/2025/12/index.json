@@ -518,6 +518,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-31T14:35:32.551Z",
+            "title": "Release v4.3.0 · colinhacks/zod",
+            "url": "https://github.com/colinhacks/zod/releases/tag/v4.3.0",
+            "content": "zod v4.3.0リリース。\nJSONスキーマからZodに変換する`z.fromJSONSchema()`の追加、`z.xor()`を追加。\n部分的なrecordバリデーションの`z.looseRecord()`、`undefined`値を許容しない`.exactOptional()`を追加。\n`.apply()`メソッドの追加、`check()`メソッドのaliasとして`.with()`メソッドを追加。\n`ZodMap`に`min`/`max`/`nonempty`/`size`メソッドを追加、`z.slugify()`変換を追加など",
+            "tags": [
+                "TypeScript",
+                "JSON",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
