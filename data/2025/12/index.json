@@ -531,6 +531,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2025-12-31T14:54:42.316Z",
+            "title": "Announcing Rspack 1.7 - Rspack",
+            "url": "https://rspack.rs/blog/announcing-1-7",
+            "content": "Rspack 1.7リリース。\nSWCプラグインの互換性改善、Import Bytes proposalのサポート、lazy compilationをデフォルトで有効化。\nConstant inlining/TypeScript Enum inlining/Type re-export checkの最適化を安定化。\nRsbuild 1.7では実行時エラーのオーバーレイ表示/ファイルサイズの差分表示を追加。\nRslib 0.19ではESM出力が安定化、JavaScript APIの追加など",
+            "tags": [
+                "rspack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
