@@ -23,6 +23,23 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-06T13:06:02.280Z",
+            "title": "Introducing Flint | Flint",
+            "url": "https://www.flint.fyi/blog/introducing-flint/",
+            "content": "TypeScript-ESLintのメンテナー中心で書かれた実験的なハイブリッドリンター。\nTypeScriptで書かれたコアとnative speed(Go/Rust)のパーサーを組み合わせることで、パフォーマンスと開発者の親しみやすさの両立を目指している。\nアーキテクチャ面では、ハイブリッドコア/TypeScriptの型情報を常に利用/クロスファイルキャッシュ/JSON/Markdown/YAMLの組み込みサポート/Prettierとの統合などを採用。\nLintはエラーのみとし、インタラクティブなCLI、オプション名の標準化、プラグインレジストリなどを用意する予定",
+            "tags": [
+                "ESLint",
+                "Tools",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "What Flint Does Differently | Flint",
+                    "url": "https://www.flint.fyi/blog/what-flint-does-differently/"
+                }
+            ]
         }
     ]
 }
