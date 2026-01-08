@@ -19,9 +19,9 @@ git checkout -B "${branchName}"
 
 # e.g) _i18n/ja/_posts/2017
 mkdir -p "${tmpDir}/jser.github.io/_i18n/ja/_posts/${currentYear}"
-# rm prev draft
+# rm prev draft (search all years to handle year boundary)
 node "${currentDir}/jser.github.io/bin/rm-draft.js" \
-    --baseDir "${tmpDir}/jser.github.io/_i18n/ja/_posts/${currentYear}" --weekNumber "${nextWeekNumber}"
+    --baseDir "${tmpDir}/jser.github.io/_i18n/ja/_posts" --weekNumber "${nextWeekNumber}"
 node "${currentDir}/jser.github.io/bin/generate-next-draft.js" \
     --output "${tmpDir}/jser.github.io/_i18n/ja/_posts/${currentYear}/${currentDate}-${nextWeekNumber}draft.md"
 

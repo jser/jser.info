@@ -14,7 +14,7 @@ if (!(baseDir && weekNumber !== undefined)) {
     console.log("Usage: node ./ --base path/_post/ --weekNumber 312");
     process.exit(1);
 }
-const files = glob.sync(baseDir + "/*" + weekNumber + "draft.md");
+const files = glob.sync(baseDir + "/**/*" + weekNumber + "draft.md");
 if (files.length === 0) {
     console.log(`Week: ${weekNumber} に該当するドラフトはありません`);
     return;
