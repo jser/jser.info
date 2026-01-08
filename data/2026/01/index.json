@@ -51,6 +51,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-08T12:03:28.669Z",
+            "title": "🚀 pnpm in 2025 | pnpm",
+            "url": "https://pnpm.io/blog/2025/12/29/pnpm-in-2025",
+            "content": "pnpmの2025年の振り返り記事。\nv10.0でライフサイクルスクリプトをデフォルトで無効化、`minimumReleaseAge`や`trustPolicy: no-downgrade`などのセキュリティ機能の追加。\nv10.12でGlobal Virtual Storeの追加、v10.9でJSRのネイティブサポート、Config Dependencies機能の追加。\nv10.14/v10.21で`devEngines.runtime`による自動ランタイム管理のサポートなど",
+            "tags": [
+                "pnpm",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
