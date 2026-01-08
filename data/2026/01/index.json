@@ -63,6 +63,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-08T12:04:50.792Z",
+            "title": "How to compile JavaScript to C with Static Hermes",
+            "url": "https://devongovett.me/blog/static-hermes.html",
+            "content": "Static Hermesを使ってJavaScriptをC言語コードにコンパイルし、CのコードとしてRustから呼び出すという実装について",
+            "tags": [
+                "JavaScript",
+                "article",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
