@@ -114,6 +114,17 @@
                     "url": "https://adams-morning-walk.transistor.fm/episodes/we-had-six-months-left"
                 }
             ]
+        },
+        {
+            "date": "2026-01-11T13:19:47.233Z",
+            "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
+            "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/",
+            "content": "ESLint v10.0.0 RC.0リリース。\n`RuleTester`の改善、`max-params`ルールに`countThis`オプションを追加",
+            "tags": [
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
