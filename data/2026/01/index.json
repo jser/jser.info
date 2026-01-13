@@ -125,6 +125,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-13T14:06:22.469Z",
+            "title": "Release 3.0.0-rc1 · qunitjs/qunit",
+            "url": "https://github.com/qunitjs/qunit/releases/tag/3.0.0-rc1",
+            "content": "QUnit 3.0.0-rc1リリース。\nNode.js 16以下のサポートとPhantomJSのサポートを削除。\nネイティブESM対応の追加、デフォルトで3秒のテストタイムアウトを有効化、`assert.expect()`から`assert.step()`を除外する変更。\nHTML Reporterのデザイン刷新とパフォーマンス、各種警告をエラーへ変更なｄ",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote",
+                "test"
+            ],
+            "relatedLinks": []
         }
     ]
 }
