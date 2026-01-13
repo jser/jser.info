@@ -149,6 +149,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-13T14:16:20.999Z",
+            "title": "Alpha release of moon v2 now available! | moonrepo",
+            "url": "https://moonrepo.dev/blog/moon-v2-alpha",
+            "content": "moon v2 αリリース。\nYAML以外の設定ファイルをサポート、ツールチェインをWasmプラグインで実行されるように変更など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
