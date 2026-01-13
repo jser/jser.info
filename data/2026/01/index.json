@@ -161,6 +161,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-13T14:25:06.267Z",
+            "title": "MotiaDev/motia: Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.",
+            "url": "https://github.com/MotiaDev/motia",
+            "content": "Stepという単位で処理を書いていくバックエンドフレームワーク。\nStepは色々なJavaScriptやPythonなど色々な言語で書くことができる",
+            "tags": [
+                "nodejs",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
