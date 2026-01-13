@@ -172,6 +172,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-13T14:31:42.413Z",
+            "title": "Release @pandacss/dev@1.8.0 · chakra-ui/panda",
+            "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss%2Fdev%401.8.0",
+            "content": "Panda CSS 1.8.0リリース。\n`panda init-mcp`でMCPサーバの設定ができるように",
+            "tags": [
+                "css",
+                "library",
+                "ReleaseNote",
+                "MCP"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "MCP Server | Panda CSS - Panda CSS",
+                    "url": "https://panda-css.com/docs/ai/mcp-server"
+                }
+            ]
         }
     ]
 }
