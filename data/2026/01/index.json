@@ -179,6 +179,14 @@
                     "url": "https://panda-css.com/docs/ai/mcp-server"
                 }
             ]
+        },
+        {
+            "date": "2026-01-14T12:50:59.373Z",
+            "title": "Bun v1.3.6 | Bun Blog",
+            "url": "https://bun.com/blog/bun-v1.3.6",
+            "content": "Bun v1.3.6リリース。\ntarファイルを扱う`Bun.Archive` API、コメント付きJSONを扱う`Bun.JSONC` APIの追加。\n`Bun.build()`にesbuild互換のmetafileオプションを追加。\nWebSocketがHTTP/HTTPSプロキシをサポート、S3 Requester Paysのサポート。\n各種パフォーマンスの改善、Node.js互換性の改善など。",
+            "tags": [],
+            "relatedLinks": []
         }
     ]
 }
