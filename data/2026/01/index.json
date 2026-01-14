@@ -187,6 +187,18 @@
             "content": "Bun v1.3.6リリース。\ntarファイルを扱う`Bun.Archive` API、コメント付きJSONを扱う`Bun.JSONC` APIの追加。\n`Bun.build()`にesbuild互換のmetafileオプションを追加。\nWebSocketがHTTP/HTTPSプロキシをサポート、S3 Requester Paysのサポート。\n各種パフォーマンスの改善、Node.js互換性の改善など。",
             "tags": [],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-14T13:08:33.935Z",
+            "title": "VibiumDev/vibium: Browser automation for AI agents and humans",
+            "url": "https://github.com/VibiumDev/vibium",
+            "content": "Selenium BiDiベースのブラウザ操作をするMCPサーバ",
+            "tags": [
+                "Selenium",
+                "MCP",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
