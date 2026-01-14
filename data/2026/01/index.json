@@ -231,10 +231,10 @@
             ]
         },
         {
-            "date": "2026-01-14T13:17:50.468Z",
+            "date": "2026-01-14T13:18:10.487Z",
             "title": "Node.js — Mitigating Denial-of-Service Vulnerability from Unrecoverable Stack Space Exhaustion for React, Next.js, and APM Users",
             "url": "https://nodejs.org/en/blog/vulnerability/january-2026-dos-mitigation-async-hooks",
-            "content": "Node.jsの`async_hooks`にスタックオーバーフローの問題があったことについて。\n`AsyncLocalStorage`はNext.jsやDatadogなど多くのフレームワークやツールで利用されているため、影響範囲が広くなっている。\nどのような仕組みでスタック領域が枯渇する問題が発生しているかについての解説",
+            "content": "Node.jsの`async_hooks`にスタックオーバーフローの問題があったことについて。\n`AsyncLocalStorage`はNext.jsやDatadogなど多くのフレームワークやツールで利用されているため、影響範囲が広くなっている。\nどのような仕組みでスタック領域の枯渇する問題が発生しているかについての解説",
             "tags": [
                 "nodejs",
                 "security",
