@@ -1,0 +1,10 @@
+{
+  "plugins": {},
+  "filters": {},
+  "rules": {
+    "@proofdict/proofdict": {
+      "dictURL": "https://azu.github.io/proof-dictionary/"
+    },
+    "preset-ja-technical-writing": true
+  }
+}
