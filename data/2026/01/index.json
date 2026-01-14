@@ -199,6 +199,19 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-14T13:13:02.504Z",
+            "title": "vercel-labs/agent-browser: Browser automation CLI for AI agents",
+            "url": "https://github.com/vercel-labs/agent-browser",
+            "content": "AIエージェント向けのヘッドレスブラウザ自動化CLI。\nRustのCLIとNode.jsデーモン（Playwrightを利用）で構成され、クライアント・デーモン構造で動作する。\nアクセシビリティツリーからAI向けに最適化されたスナップショットを取得する機能や、ARIAロールやラベルでの要素検出、WebSocketでのブラウザビューポートのストリーミングなどを提供する。",
+            "tags": [
+                "browser",
+                "console",
+                "Tools",
+                "AI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
