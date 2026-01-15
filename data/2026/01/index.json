@@ -284,6 +284,24 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-15T04:47:43.587Z",
+            "title": "Introducing: React Best Practices - Vercel",
+            "url": "https://vercel.com/blog/introducing-react-best-practices",
+            "content": "Vercelが10年以上のReact・Next.js最適化の知見をまとめた`react-best-practices`というリポジトリを公開した。\nAIエージェントやLLM向けに最適化されたルール集で、40以上のルールが8カテゴリに分類されている。\nウォーターフォールの排除、バンドルサイズ削減、再レンダリング最適化などのパターンを、CRITICALからLOWまでの優先度付きでまとめている。",
+            "tags": [
+                "AI",
+                "article",
+                "React",
+                "JavaScript"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "agent-skills/skills/react-best-practices at main · vercel-labs/agent-skills",
+                    "url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices"
+                }
+            ]
         }
     ]
 }
