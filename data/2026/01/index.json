@@ -302,6 +302,22 @@
                     "url": "https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices"
                 }
             ]
+        },
+        {
+            "date": "2026-01-15T07:40:45.993Z",
+            "title": "Firefox 147.0, See All New Features, Updates and Fixes",
+            "url": "https://www.firefox.com/en-US/firefox/147.0/releasenotes/",
+            "content": "Firefox 147リリース。\nApple SiliconデバイスでのWebGPUの有効化。\nAccept-Languageヘッダーの`q`値を他のブラウザに合わせて調整。\nNavigation API、CSS anchor positioningのサポート、CSS Module Scriptsのサポート。\n`CompressionStream`/`DecompressionStream`がBrotliをサポート、Servie Workerで`type: module`をサポートなど",
+            "tags": [
+                "Firefox",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 147 release notes for developers (Stable) - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/147"
+                }
+            ]
         }
     ]
 }
