@@ -330,6 +330,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-15T23:55:19.667Z",
+            "title": "coder/ghostty-web: Ghostty for the web with xterm.js API compatibility",
+            "url": "https://github.com/coder/ghostty-web?tab=readme-ov-file",
+            "content": "ブラウザ上で動作するターミナルエミュレータライブラリ。\n`libghostty`をWasmにコンパイルして利用し、xterm.js互換のAPIを提供する。\nxterm.jsと比較して複雑な文字体系の正しいグラフェム処理、XTPUSHSGR/XTPOPSGRのサポートなどがある。",
+            "tags": [
+                "WebAssembly",
+                "library",
+                "terminal",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
