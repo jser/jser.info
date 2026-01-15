@@ -318,6 +318,18 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/147"
                 }
             ]
+        },
+        {
+            "date": "2026-01-15T07:42:41.427Z",
+            "title": "Prettier 3.8: Support for Angular v21.1 · Prettier",
+            "url": "https://prettier.io/blog/2026/01/14/3.8.0",
+            "content": "Prettier 3.8リリース。\nAngular v21.1の新構文である`@switch`ブロック内の連続した`@case`ステートメント、配列/オブジェクト/関数呼び出しでのSpread要素をサポート。\nMarkdownファイル内のAngularコードブロック（angular-ts、angular-html）のフォーマットに対応など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
