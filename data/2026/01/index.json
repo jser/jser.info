@@ -269,6 +269,21 @@
                     "url": "https://developer.chrome.com/blog/new-in-chrome-144"
                 }
             ]
+        },
+        {
+            "date": "2026-01-15T03:02:33.673Z",
+            "title": "Copilot SDK in technical preview - GitHub Changelog",
+            "url": "https://github.blog/changelog/2026-01-14-copilot-sdk-in-technical-preview/",
+            "content": "GitHub Copilot SDKがテクニカルプレビューとして公開された。\nNode.js/TypeScript、Python、Go、.NETの4つの言語で利用可能。\nGitHub Copilot CLIへプログラムからアクセスするためのSDKで、マルチターン会話やカスタムツールの定義、クライアント/セッションのライフサイクル管理ができる。",
+            "tags": [
+                "AI",
+                "nodejs",
+                "python",
+                "golang",
+                ".net",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
