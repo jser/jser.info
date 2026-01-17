@@ -354,6 +354,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-17T12:17:13.612Z",
+            "title": "Astro is joining Cloudflare",
+            "url": "https://blog.cloudflare.com/astro-joins-cloudflare/",
+            "content": "Astro Technology CompanyがCloudflareに買収された。\nAstroはオープンソースでMITライセンスは維持される。\nまたAstro 6では、Vite Environmentsベースの開発サーバーによりローカル開発時にCloudflare Workersランタイム（workerd）で実行できるようになる予定。",
+            "tags": [
+                "astro",
+                "cloudflare",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
