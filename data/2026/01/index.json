@@ -343,6 +343,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-17T12:15:40.901Z",
+            "title": "Electron 40.0.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-40-0",
+            "content": "Electron 40.0.0リリース。\nChromium 144/Node.js 24.11/V8 14.4へアップグレード。\nレンダラープロセスからのクリップボードAPIの直接アクセスが非推奨に、macOSのdSYMファイルがzip形式からtar.xz形式に変更。\n`app.isHardwareAccelerationEnabled()`メソッドの追加、オフスクリーン描画でのHDRカラースペースの対応など。",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
