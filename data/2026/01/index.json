@@ -366,6 +366,20 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-17T23:26:31.462Z",
+            "title": "jasmine/release_notes/6.0.0.md at main · jasmine/jasmine",
+            "url": "https://github.com/jasmine/jasmine/blob/main/release_notes/6.0.0.md",
+            "content": "Jasmine 6.0.0リリース。\nNode.js 18のサポート終了、jasmine名前空間からprivate APIを削除など。\nHtmlReporterV2の追加。進捗バー、リアルタイム失敗表示、パフォーマンスタブなどを持つ新しいHTMLレポーター。\n`jasmine.pp()`としてpretty printer APIを公開、実験的な`safariYieldStrategy: \"time\"`オプションの追加など。",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "library",
+                "ReleaseNote",
+                "jasmine"
+            ],
+            "relatedLinks": []
         }
     ]
 }
