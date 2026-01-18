@@ -443,6 +443,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-18T11:09:15.673Z",
+            "title": "Server-Side WebAssembly - Danilo Chiarlone",
+            "url": "https://www.manning.com/books/server-side-webassembly",
+            "content": "サーバサイドでのWebAssemblyについての書籍。\n著者は`wasi:http`とかのProposalを書いてる人",
+            "tags": [
+                "WebAssembly",
+                "book",
+                "server"
+            ],
+            "relatedLinks": []
         }
     ]
 }
