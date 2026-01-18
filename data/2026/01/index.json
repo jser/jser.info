@@ -391,6 +391,20 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-18T02:03:20.797Z",
+            "title": "Experimental build mode for Hono and Express projects - Vercel",
+            "url": "https://vercel.com/changelog/experimental-build-mode-hono-express",
+            "content": "VercelがHonoとExpressプロジェクト向けの実験的なビルドモードを追加。\n`VERCEL_EXPERIMENTAL_BACKENDS=1`を環境変数に設定することで有効化でき、ログのルート別フィルターに対応。\nまた、相対インポート時のファイル拡張子が不要になり、TypeScriptのパスエイリアスに対応、ESMとCommonJSの相互運用性の向上などの改善が含まれる。",
+            "tags": [
+                "vercel",
+                "Hono",
+                "express",
+                "TypeScript",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
