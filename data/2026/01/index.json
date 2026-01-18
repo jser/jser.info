@@ -418,10 +418,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2026-01-18T02:34:05.421Z",
+            "date": "2026-01-18T02:35:49.869Z",
             "title": "jQuery 4.0.0 | Official jQuery Blog",
             "url": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/",
-            "content": "jQuery 4.0.0リリース。\njQueryの20周年の記念リリース。\nIE10以下のサポートを終了し、Edge Legacy/古いiOS/Android Browserなどのサポートを終了。\n`jQuery.isArray`/`jQuery.trim`/`jQuery.parseJSON`などの非推奨APIを削除。\njQueryプロトタイプから`push`/`sort`/`splice`メソッドを削除。\nfocusイベントの順序をW3C仕様に合わせるように変更。\nソースコードをAMDからESモジュールに移行。\nTrusted TypesとCSPのサポートを改善。\nslim版からDeferredsとCallbacksを削除し、ファイルサイズを削減。\nIE11のサポートはjQuery 5.0で終了予定。",
+            "content": "jQuery 4.0.0リリース。\njQueryの20周年の記念リリース。\nIE10以下のサポートを終了し、Edge Legacy/古いiOS/Android Browserなどのサポートを終了。\n`jQuery.isArray`/`jQuery.trim`/`jQuery.parseJSON`などの非推奨APIを削除。\n`jQuery.prototype`から`push`/`sort`/`splice`メソッドを削除。\nfocusイベントの順序をW3C仕様に合わせるように変更。\nソースコードをAMDからESモジュールに移行。\nTrusted TypesとCSPのサポートを改善。\nslim版からDeferredsとCallbacksを削除し、ファイルサイズを削減。\nIE11のサポートはjQuery 5.0で終了予定。",
             "tags": [
                 "jQuery",
                 "ReleaseNote",
