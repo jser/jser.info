@@ -428,6 +428,21 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-18T09:02:21.000Z",
+            "title": "anomalyco/opentui: OpenTUI is a library for building terminal user interfaces (TUIs)",
+            "url": "https://github.com/anomalyco/opentui/tree/main",
+            "content": "ReactやSolidJSを使ってターミナルUI（TUI）を構築するためのTypeScriptライブラリ。\nUIやイベントをTypeScriptのレイヤーで管理し、`Bun.FFI`でZigを使ったレンダリングを行う。",
+            "tags": [
+                "terminal",
+                "TypeScript",
+                "Zig",
+                "React",
+                "UI",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
