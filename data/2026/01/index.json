@@ -455,6 +455,17 @@
                 "server"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-20T02:12:22.279Z",
+            "title": "Node.js — Node.js 25.4.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v25.4.0",
+            "content": "Node v25.4.0リリース。\n`require(esm)`/モジュールコンパイルキャッシュ/`v8.queryObjects()`/`--heapsnapshot-near-heap-limit`がStableに変更。\n`http.setGlobalProxyFromEnv()`でグローバルプロキシを環境変数から設定する機能を追加。\n`util.convertProcessSignalToExitCode()`、subpath importsで`#/`から始まるパスの利用をサポート。\nnpm 11.7.0/SQLite 3.51.1などの依存関係のアップデートなど",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
