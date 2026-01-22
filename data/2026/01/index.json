@@ -487,6 +487,17 @@
                     "url": "https://github.com/dy/watr"
                 }
             ]
+        },
+        {
+            "date": "2026-01-22T13:30:37.104Z",
+            "title": "Roadmap 2026 | Biome",
+            "url": "https://biomejs.dev/blog/roadmap-2026/",
+            "content": "Biome 2026年のロードマップ。\n2026年はHTML formatterのPrettier互換の安定化、SCSSサポート、JavaScript内の埋め込みCSS/GraphQLの改善を予定。\ncross-languageのlintルール、monorepo向けのworkspaces設定、LSPの拡張なども計画している。",
+            "tags": [
+                "biome",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
