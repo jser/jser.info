@@ -466,6 +466,27 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-22T13:19:15.879Z",
+            "title": "dy/jz: Minimal JS subset compiling to WASM",
+            "url": "https://github.com/dy/jz",
+            "content": "JavaScriptのサブセット言語をWebAssemblyにコンパイルするコンパイラ。\nES2015+の構文のみをサポートし、パースしたサブセット言語からWATを出力し、WATをWasmへとコンパイルしている",
+            "tags": [
+                "JavaScript",
+                "WebAssembly",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "dy/subscript: Expression parser / evaluator.",
+                    "url": "https://github.com/dy/subscript"
+                },
+                {
+                    "title": "dy/watr: wat to wasm compiler",
+                    "url": "https://github.com/dy/watr"
+                }
+            ]
         }
     ]
 }
