@@ -510,6 +510,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-23T02:55:46.182Z",
+            "title": "Announcing Rolldown 1.0 RC | VoidZero",
+            "url": "https://voidzero.dev/posts/announcing-rolldown-rc",
+            "content": "Rolldown 1.0 RCリリース。\nRustで書かれたJavaScript/TypeScriptバンドラー。Rollupプラグインとの互換性を持つ。\nVite 8ではデフォルトのバンドラーとしてRolldownが利用される予定。",
+            "tags": [
+                "Rust",
+                "rollup",
+                "bundler",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
