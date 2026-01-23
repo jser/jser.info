@@ -498,6 +498,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-23T02:44:02.751Z",
+            "title": "Nuxt 4.3 · Nuxt Blog",
+            "url": "https://nuxt.com/blog/v4-3",
+            "content": "Nuxt v4.3リリース。\nNuxt v3のサポート期限を2026年7月31日まで延長。\n一箇所でアプリケーションのレイアウトを管理できる`appLayout`プロパティの追加、ISR/SWRでのPayload Extractionのサポート。\nページやMiddlewareからRoute Groupのメタ情報を利用できるようになるなど",
+            "tags": [
+                "Vue",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
