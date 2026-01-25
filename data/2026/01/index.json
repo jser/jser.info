@@ -540,6 +540,27 @@
                     "url": "https://firt.dev/notes/vanilla-web-meap/"
                 }
             ]
+        },
+        {
+            "date": "2026-01-25T12:59:01.539Z",
+            "title": "Release 17.0.0 · stylelint/stylelint",
+            "url": "https://github.com/stylelint/stylelint/releases/tag/17.0.0",
+            "content": "Stylelint 17.0.0リリース。\nNode.js 20.19.0未満のサポートを削除、CommonJSでのNode.js APIのサポートを削除、デフォルトの`fix`モードを`strict`に変更。\nCSS Nesting 対応の改善など",
+            "tags": [
+                "CSS",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "stylelint/docs/migration-guide/to-17.md at main · stylelint/stylelint",
+                    "url": "https://github.com/stylelint/stylelint/blob/main/docs/migration-guide/to-17.md"
+                },
+                {
+                    "title": "Stylelint v17 の主な変更点：ESM 移行と CSS Nesting 対応など",
+                    "url": "https://zenn.dev/ryo_manba/articles/stylelint-v17-update"
+                }
+            ]
         }
     ]
 }
