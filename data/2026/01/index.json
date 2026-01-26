@@ -561,6 +561,24 @@
                     "url": "https://zenn.dev/ryo_manba/articles/stylelint-v17-update"
                 }
             ]
+        },
+        {
+            "date": "2026-01-26T09:06:16.468Z",
+            "title": "DavidHDev/vue-bits: An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.",
+            "url": "https://github.com/DavidHDev/vue-bits",
+            "content": "Vueアプリケーション向けのアニメーション・インタラクティブなUIコンポーネントライブラリ。\nReact BitsをVueにポートしたライブラリ",
+            "tags": [
+                "Vue",
+                "library",
+                "UI",
+                "animation"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "DavidHDev/react-bits: An open source collection of animated, interactive & fully customizable React components for building memorable websites.",
+                    "url": "https://github.com/DavidHDev/react-bits"
+                }
+            ]
         }
     ]
 }
