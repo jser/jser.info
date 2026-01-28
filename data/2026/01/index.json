@@ -602,6 +602,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-28T00:08:42.777Z",
+            "title": "Release v4.11.7 · honojs/hono",
+            "url": "https://github.com/honojs/hono/releases/tag/v4.11.7",
+            "content": "Hono v4.11.7リリース。\n次の問題のセキュリティ修正を含むリリース\n\n- IP制限MiddlewareのIPv4アドレス検証バイパス\n- Cache Middlewareでprivateやno-storeなレスポンスがキャッシュされる問題\n- Serve Staticミドルウェア(Cloudflare Workers adapter)での内部アセットへのアクセス問題\n- hono/jsxのErrorBoundaryでのXSS",
+            "tags": [
+                "Hono",
+                "ReleaseNote",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
