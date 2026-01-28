@@ -614,6 +614,19 @@
                 "security"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-28T00:18:57.818Z",
+            "title": "Release v0.0.58 · microsoft/playwright-mcp",
+            "url": "https://github.com/microsoft/playwright-mcp/releases/tag/v0.0.58",
+            "content": "playwright-mcp v0.0.58リリース。\n`playwright-cli`コマンドが追加され、コマンドでPlaywrightを操作できるように。",
+            "tags": [
+                "playwright",
+                "MCP",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
