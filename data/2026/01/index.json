@@ -640,6 +640,17 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-28T00:25:05.602Z",
+            "title": "Node.js — Node.js 25.5.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v25.5.0",
+            "content": "Node v25.5.0リリース。\nSingle Executable Applications(SEA)の作成を簡略化する`--build-sea`フラグの追加。\n`fs.watch()`に`ignore`オプションを追加、SQLiteのdefensive modeをデフォルトで有効化。\n`node:test`に`expectedFailure`オプションの追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
