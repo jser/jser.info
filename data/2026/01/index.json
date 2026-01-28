@@ -627,6 +627,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-28T00:21:16.664Z",
+            "title": "LibPDF-js/core: A modern PDF library for TypeScript. Parse, modify, and generate PDFs with a clean, intuitive API.",
+            "url": "https://github.com/libpdf-js/core",
+            "content": "ブラウザやNode.jsなどで動くPDFの編集、作成ライブラリ。\nPDFの解析、修正、生成をサポートし、RC4/AES暗号化、デジタル署名、フォーム入力、ページのマージ/分割、テキスト抽出などに対応している。",
+            "tags": [
+                "PDF",
+                "TypeScript",
+                "library",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
