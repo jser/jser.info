@@ -664,6 +664,18 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-29T05:19:20.165Z",
+            "title": "Bytecode Alliance — 10 Years of Wasm: A Retrospective",
+            "url": "https://bytecodealliance.org/articles/ten-years-of-webassembly-a-retrospective",
+            "content": "WebAssemblyの誕生から10年を振り返る記事。\n2013年のasm.jsから始まり、MozillaのLuke WagnerとGoogleのBen Titzerの協力によってWebAssemblyが生まれた経緯を紹介している。\n2015年に主要ブラウザが同時に対応を発表し、2017年には全ブラウザが対応を完了した。\nその後、WASIやComponent Modelの開発によりブラウザ外での利用が広がった。\nWASIをPOSIXのコピーとしなかった点についてなど",
+            "tags": [
+                "WebAssembly",
+                "history",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
