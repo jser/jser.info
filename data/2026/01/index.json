@@ -690,6 +690,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-31T07:40:17.033Z",
+            "title": "Release v1.58.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.58.0",
+            "content": "playwright v1.58.0リリース。\n`_react`/`_vue`セレクタ、`:light`セレクタエンジン、`devtools`オプションの削除。\nmacOS 13でのWebKitサポートを終了。\nHTMLレポートのSpeedboardタブにTimelineを追加、UI ModeとTrace Viewerにシステムテーマオプションを追加や検索機能の追加など",
+            "tags": [
+                "playwright",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
