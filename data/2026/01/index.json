@@ -676,6 +676,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-01-31T02:42:11.386Z",
+            "title": "Lodash Rolls Out Major Security Overhaul | OpenJS Foundation",
+            "url": "https://openjsf.org/blog/lodash-security-overhaul",
+            "content": "Lodash 4.17.23リリース。\n`_.unset`と`_.omit`関数のPrototype Pollutionの脆弱性を修正。\nプロジェクトのガバナンスとセキュリティ体制を刷新し、Technical Steering Committeeを設立。\nCodeQLによる静的解析、Renovateによる依存関係の自動更新、OpenSSF Scorecardの監視を導入。\nCIの再構築、Bunのサポート、Playwrightを使ったブラウザテストの再導入も行われている。",
+            "tags": [
+                "lodash",
+                "JavaScript",
+                "library",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
