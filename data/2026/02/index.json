@@ -17,6 +17,17 @@
                     "url": "https://github.com/tobilg/ducklings"
                 }
             ]
+        },
+        {
+            "date": "2026-02-02T02:47:34.710Z",
+            "title": "Bun v1.3.8 | Bun Blog",
+            "url": "https://bun.com/blog/bun-v1.3.8",
+            "content": "Bun v1.3.8リリース。\nZigで書かれた組み込みのCommonMark準拠のMarkdownパーサー`Bun.markdown`を追加。\n`bun build --metafile-md`でLLMフレンドリーなモジュールグラフのメタデータを出力できるように。\nWindowsでの`npm install -g bun`のリグレッションを修正。",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
