@@ -28,6 +28,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-02-03T04:35:03.030Z",
+            "title": "Release Version 28.0.0 · jsdom/jsdom",
+            "url": "https://github.com/jsdom/jsdom/releases/tag/28.0.0",
+            "content": "jsdom 28.0.0リリース。\nリソースローディングのカスタマイズAPIを刷新、`<iframe>`/`<frame>`要素でのMIMEタイプスニッフィングのサポート。\n`XMLHttpRequest`や`WebSocket`のリクエストが新しいリソースローディングのカスタマイズでインターセプト可能に。\nリダイレクト時の`document referrer`の修正、`XMLHttpRequest`のバグ修正など",
+            "tags": [
+                "JavaScript",
+                "DOM",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
