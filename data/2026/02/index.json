@@ -52,6 +52,18 @@
                 "Survey"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-02-04T22:36:51.451Z",
+            "title": "v1.15.0 | React Aria",
+            "url": "https://react-aria.adobe.com/releases/v1-15-0",
+            "content": "React Aria v1.15.0リリース。\nReact Aria Componentsに`render` propを追加、Menuに`shouldCloseOnSelect` propを追加。\nDateFieldの入力中に一時的にinvalidな日付も入力できるようになるなど",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
