@@ -64,6 +64,25 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-02-06T07:42:29.905Z",
+            "title": "Introducing Deno Sandbox | Deno",
+            "url": "https://deno.com/blog/introducing-deno-sandbox",
+            "content": "信頼できないコード（LLM生成コードなど）を安全に実行するためのプラットフォームとSDKであるDeno Sandboxについて。\nDeno Deployのクラウド上でLinux microVMを使用し、隔離された実行環境を提供する。\nAPIキーなどのシークレットはプレースホルダーとして渡され、許可されたホストへのリクエスト時のみ使用される仕組み。",
+            "tags": [
+                "deno",
+                "security",
+                "API",
+                "VM",
+                "server"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Deno Sandbox",
+                    "url": "https://deno.com/deploy/sandbox"
+                }
+            ]
         }
     ]
 }
