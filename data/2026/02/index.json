@@ -1,10 +1,10 @@
 {
     "list": [
         {
-            "date": "2026-02-12T00:00:00.000Z",
+            "date": "2026-02-12T14:48:17.857Z",
             "title": "Announcing TypeScript 6.0 Beta - TypeScript",
             "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-beta/",
-            "content": "TypeScript 6.0 Betaリリース。\nネイティブ言語で書き直されるTypeScript 7.0へのブリッジリリースとなるメジャーアップデート。\nデフォルト設定の変更として`strict: true`/`module: \"esnext\"`/`target: \"es2025\"`/`types: []`がデフォルトに変更。\n`this`を使わない関数のコンテキスト感度が改善されプロパティ順序に依存しない型推論が可能に。\n`#/`で始まるsubpath importsのサポート、`--moduleResolution bundler`と`--module commonjs`の組み合わせが可能に。\n`es2025`ターゲットの追加、Temporal APIの型定義の追加、`Map`/`WeakMap`の`getOrInsert`/`getOrInsertComputed`メソッドの追加。\n`dom.iterable`と`dom.asynciterable`が`lib.dom`に統合。\n`target: \"es5\"`/`--moduleResolution node`/`--module amd/umd/systemjs`/`--baseUrl`/`--outFile`などの非推奨化。\n`ignoreDeprecations: \"6.0\"`で非推奨警告を無視できるが、TypeScript 7.0では削除される予定",
+            "content": "TypeScript 6.0 Betaリリース。\nTypeScript 7(Goベースの新しいコードベース)への移行を見据えたリリースで、多くのデフォルト設定の変更や非推奨化が含まれる。\n`strict`がデフォルトで`true`に変更、`module`のデフォルトが`esnext`に変更、`target`のデフォルトが`es2025`に変更、`types`のデフォルトが`[]`に変更。\n`target: es5`/`--moduleResolution node10`/`--module amd|umd|system`/`--outFile`などを非推奨化。\nES2025の`RegExp.escape`やTemporalの型定義を追加、`lib.dom`に`dom.iterable`と`dom.asynciterable`を統合。\nTypeScript 7への移行を補助する`--stableTypeOrdering`フラグの追加など。",
             "tags": [
                 "TypeScript",
                 "ReleaseNote"
