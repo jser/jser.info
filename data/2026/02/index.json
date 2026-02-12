@@ -99,6 +99,32 @@
                     "url": "https://eslint.org/docs/latest/use/migrate-to-10.0.0"
                 }
             ]
+        },
+        {
+            "date": "2026-02-12T00:33:54.191Z",
+            "title": "WebMCP is available for early preview  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/webmcp-epp?hl=en",
+            "content": "Chrome 146 DevTrialでWebMCPのEarly Previewが実装された。\n宣言的API（HTMLフォームベース）と命令的API（JavaScript実行）の2つのAPIを提案している。\nAIエージェントがDOM操作やビジュアルな解析なしに、ウェブサイトと構造化された方法でやりとりできることを目的としている。",
+            "tags": [
+                "Chrome",
+                "MCP",
+                "WebPlatformAPI",
+                "AI"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "WebMCP - Chrome Platform Status",
+                    "url": "https://cr-status.appspot.com/feature/5117755740913664"
+                },
+                {
+                    "title": "webmachinelearning/webmcp: 🤖 WebMCP",
+                    "url": "https://github.com/webmachinelearning/webmcp"
+                },
+                {
+                    "title": "Web アプリケーションをツール化する WebMCP",
+                    "url": "https://azukiazusa.dev/blog/webmcp-for-web-applications/"
+                }
+            ]
         }
     ]
 }
