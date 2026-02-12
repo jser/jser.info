@@ -173,6 +173,20 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-02-12T14:22:40.412Z",
+            "title": "React Native 0.84 - Hermes V1 by Default · React Native",
+            "url": "https://reactnative.dev/blog/2026/02/11/react-native-0.84",
+            "content": "React Native 0.84リリース。\nJavaScriptエンジンのHermes v1がデフォルトで有効化、iOSのプリコンパイルバイナリがデフォルトに変更。\nレガシーアーキテクチャ関連のコンポーネントやクラスの削除。Node.js 22.11以上が必須となり、React 19.2.3への更新、ESLint v9のFlat Configをサポート、HEIC/HEIF画像形式のサポートを追加。\nAndroidでのキーボードイベントやURL APIの改善など。\n",
+            "tags": [
+                "React",
+                "Android",
+                "iOS",
+                "ReleaseNote",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
