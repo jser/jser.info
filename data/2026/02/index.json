@@ -125,6 +125,22 @@
                     "url": "https://azukiazusa.dev/blog/webmcp-for-web-applications/"
                 }
             ]
+        },
+        {
+            "date": "2026-02-12T00:42:04.892Z",
+            "title": "Chrome 145  |  Release notes  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/release-notes/145",
+            "content": "Chrome 145リリース。\nCSSの`text-justify`プロパティ、`letter-spacing`/`word-spacing`の`%`値のサポート。\n`column-wrap`/`column-height`プロパティの追加。\nDOM APIの`Element.focus()`に`focusVisible`オプションを追加。\nES2026のMap Upsertのサポート。\nUserAgentReductionポリシーを無効にしてClient Hintへの移行。\nCookie Store APIに`maxAge`属性の追加、`clipboardchange`イベントにSticky Activationが必要に変更。\nIndexedDBのバックエンドをLevelDBからSQLiteベースの実装に変更、Device Bound Session Credentials(DBSC)の追加。\nOrigin TrialとしてJPEG XLデコードのサポートを追加。",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "New in Chrome 145  |  Blog  |  Chrome for Developers",
+                    "url": "https://developer.chrome.com/blog/new-in-chrome-145?hl=en"
+                }
+            ]
         }
     ]
 }
