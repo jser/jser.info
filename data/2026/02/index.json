@@ -141,6 +141,25 @@
                     "url": "https://developer.chrome.com/blog/new-in-chrome-145?hl=en"
                 }
             ]
+        },
+        {
+            "date": "2026-02-12T00:49:21.559Z",
+            "title": "Chrome 146 beta  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/chrome-146-beta?hl=en",
+            "content": "Chrome 146 Betaリリース。\nCSSの`text-indent`プロパティで`hanging`/`each-line`キーワードのサポート、Scroll-Triggered Animationsのサポート。\nSanitizer APIの追加、`Iterator.concat()`のサポート、`Intl.Locale.prototype.variants`の追加。\n`meta name=\"text-scale\"`によるOSやブラウザのテキスト設定に応じたフォントサイズのスケーリングに対応。\nWebGPU APIのサブセットサポートをして古い端末での互換性を向上させるCompatibility Modeの追加。Origin TrialとしてWebNN(Web Neural Network API)の追加など。",
+            "tags": [
+                "Chrome",
+                "ReleaseNote",
+                "CSS",
+                "WebGPU",
+                "WebPlatformAPI"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "text-scale によるユーザ指定倍率での文字拡大 | blog.jxck.io",
+                    "url": "https://blog.jxck.io/entries/2026-02-11/text-scale.html"
+                }
+            ]
         }
     ]
 }
