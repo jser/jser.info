@@ -160,6 +160,19 @@
                     "url": "https://blog.jxck.io/entries/2026-02-11/text-scale.html"
                 }
             ]
+        },
+        {
+            "date": "2026-02-12T08:31:35.540Z",
+            "title": "OpenWebF - OpenWebF",
+            "url": "https://openwebf.com/en",
+            "content": "FlutterアプリでWeb技術(HTML/CSS/JavaScript)を使ってネイティブアプリを構築できるW3C/WHATWG準拠のWebランタイム。\nシステムのWebViewのラッパーではなく、QuickJSとChromium/Blinkベースのレンダリングエンジンを実装している。\nReact/Vue/Svelte/SolidなどのWebフレームワークを動かすことができ、FlutterウィジェットとWebコンテンツを組み合わせて使える。",
+            "tags": [
+                "Flutter",
+                "JavaScript",
+                "web",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
