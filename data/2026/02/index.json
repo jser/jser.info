@@ -22,6 +22,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-02-14T14:36:10.932Z",
+            "title": "hamzaydia/verifyfetch: Resumable, verified downloads for large browser files. Fail at 3.8GB, resume from 3.8GB.",
+            "url": "https://github.com/hamzaydia/verifyfetch",
+            "content": "ブラウザでの大容量ファイルのダウンロードにおいて、レジューム対応と整合性の検証を行うライブラリ。\nWebAssemblyによるストリーミングハッシュ計算、HTTP Rangeリクエストによるレジュームダウンロード、IndexedDBへのChunk保存をサポートする。\n事前にファイルを一定のchunkで分けたハッシュを生成しておき、Chunk毎の検証ができる。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "Fetch",
+                "WebAssembly"
+            ],
+            "relatedLinks": []
         }
     ]
 }
