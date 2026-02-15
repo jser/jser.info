@@ -4,7 +4,7 @@
   "description": "JSer.info repogitory.",
   "main": "index.js",
   "scripts": {
-    "test": "node tests/validate-json.js && node tests/check-json-by-textlint.js && npm run test:invalid",
+    "test": "node tests/validate-json.js && node tests/check-json-by-textlint.js && pnpm run test:invalid",
     "test:invalid": "check-invalid-control-characters 'data/**/*.json'",
     "gitter": "node tools/gitter/check-updatable.js",
     "twitter": "node tools/twitter/check-updatable.js",
@@ -50,5 +50,5 @@
     "textlint-rule-no-doubled-joshi": "^5.1.1",
     "to-markdown": "^3.0.0"
   },
-  "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610"
+  "packageManager": "pnpm@10.29.3"
 }

@@ -6,22 +6,23 @@ permissions:
   contents: read
 jobs:
   test:
-    name: "Test on Node.js ${{ matrix.node-version }}"
+    name: "Test"
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [18]
     steps:
       - name: checkout
         uses: actions/checkout@f43a0e5ff2bd294095638e18286ca9a3d1956744 # v3.6.0
-      - name: setup Node.js ${{ matrix.node-version }}
+        with:
+          persist-credentials: false
+      - name: Install pnpm
+        uses: pnpm/action-setup@a7487c7e89a18df4991f7f222e4898a00d66ddda # v4.1.0
+      - name: setup Node.js
         uses: actions/setup-node@1a4442cacd436585916779262731d5b162bc6ec7 # v3.8.2
         with:
-          node-version: ${{ matrix.node-version }}
+          node-version-file: '.node-version'
       - name: Install
-        run: yarn install
+        run: pnpm install
       - name: Test
-        run: yarn test
+        run: pnpm test
       - name: Update
         if: github.ref == 'refs/heads/gh-pages'
         run: |
@@ -31,7 +32,7 @@ jobs:
           ./tools/update-source-data.sh
           ./tools/update-realtime.sh
           ./tools/update-next-draft.sh
-          npm run discord
+          pnpm run discord
         env:
           GH_TOKEN: ${{ secrets.SHARED_BOT_GITHUB_TOKEN }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
