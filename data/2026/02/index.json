@@ -84,6 +84,39 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-02-15T13:48:16.254Z",
+            "title": "Interop 2026が始まりました！",
+            "url": "https://zenn.dev/yamanoku/articles/interop-2026-launched",
+            "content": "ブラウザの相互運用性の向上を目指すプロジェクトであるInterop 2026について。\nApple、Google、Microsoft、Mozillaなどのブラウザベンダーが参加している。\nCSS Anchor Positioning、Container Style Queries、Navigation API、View Transitionsなどがフォーカスエリアに選ばれている。\nその他にもScroll-driven Animations、IndexedDB、WebRTC、WebTransportなど合計20の分野が対象となっている。\n調査対象としてアクセシビリティテスト、JPEG XL、モバイルテスト、WebVTTの4分野が含まれる。",
+            "tags": [
+                "browser",
+                "WebPlatformAPI",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Launching Interop 2026 - Mozilla Hacks - the Web developer blog",
+                    "url": "https://hacks.mozilla.org/2026/02/launching-interop-2026/"
+                },
+                {
+                    "title": "Announcing Interop 2026 | WebKit",
+                    "url": "https://webkit.org/blog/17818/announcing-interop-2026/"
+                },
+                {
+                    "title": "Interop 2026 Focus Areas Announced | Igalia",
+                    "url": "https://www.igalia.com/news/interop-2026.html"
+                },
+                {
+                    "title": "Microsoft Edge and Interop 2026 - Microsoft Edge Blog",
+                    "url": "https://blogs.windows.com/msedgedev/2026/02/12/microsoft-edge-and-interop-2026/"
+                },
+                {
+                    "title": "Launching Interop 2026 - Mozilla Hacks - the Web developer blog",
+                    "url": "https://hacks.mozilla.org/2026/02/launching-interop-2026/"
+                }
+            ]
         }
     ]
 }
