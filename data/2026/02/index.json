@@ -73,6 +73,17 @@
                 "Survey"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-02-15T13:37:33.475Z",
+            "title": "The CSS Selection - 2026 Edition - Project Wallace",
+            "url": "https://www.projectwallace.com/the-css-selection/2026",
+            "content": "10万以上のウェブサイトを対象にした実際のCSS利用状況の調査レポート。\nWeb Almanacが欠けているCSSの章の代替として、CSSファイルサイズ、プロパティの利用率、モダンCSS機能の採用率などをまとめている。\n`:where()` 91%、`:has()` 41%、`@container` 10%、`@layer` 2.7%などの採用率になっている。\nベンダープレフィックスやIE6時代のブラウザハックが依然として残っている点についても触れている。",
+            "tags": [
+                "CSS",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
