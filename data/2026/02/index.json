@@ -49,10 +49,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2026-02-15T04:20:10.189Z",
+            "date": "2026-02-15T04:21:52.168Z",
             "title": "bikeshaving/shovel: Run Service Workers anywhere",
             "url": "https://github.com/bikeshaving/shovel",
-            "content": "Service Worker APIやWeb標準APIのインターフェースをベースにしたサーバアプリケーションを書けるメタフレームワーク。\nNode.js/Bun/Cloudflare Workersなど複数のランタイムで動作する。\nService Workerの`install`/`activate`/`fetch`イベントをベースにしたサーバライフサイクルを持つ。\nFetch API、Cache API、FileSystem API、CookieStore API、URLPatternなどのWeb標準APIをベースとしている。",
+            "content": "Service Worker APIやWeb標準APIのインターフェースをベースにしたサーバアプリケーションを書けるメタフレームワーク。\nNode.js/Bun/Cloudflare Workersなどで動作する。\nService Workerの`install`/`activate`/`fetch`イベントをベースにしたサーバライフサイクルを持つ。\nFetch API、Cache API、FileSystem API、CookieStore API、URLPatternなどのWeb標準APIをベースとしている。",
             "tags": [
                 "ServiceWorker",
                 "server",
