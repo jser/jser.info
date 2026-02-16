@@ -129,6 +129,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-02-16T09:27:47.797Z",
+            "title": "Biome v2.4—Embedded Snippets, HTML Accessibility, and Better Framework Support | Biome",
+            "url": "https://biomejs.dev/blog/biome-v2-4/",
+            "content": "Biome v2.4リリース。\nJavaScript内に埋め込まれたCSSやGraphQLスニペットのFormatterとLintをサポート。\nHTMLアクセシビリティ向けの15個のLintルールの追加。\nVue/Svelte/Astroのサポート改善、CSSパーサーでVue SFCの`:slotted`や`:deep`に対応。\nSARIFレポーターの追加、`--skip`/`--only`フラグのサポートなど。",
+            "tags": [
+                "biome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
