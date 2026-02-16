@@ -140,6 +140,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-02-16T09:51:19.049Z",
+            "title": "npmx - Package Browser for the npm Registry",
+            "url": "https://npmx.dev/",
+            "content": "npmレジストリのインクリメンタル検索サービス。\nAlgoliaによるパッケージ検索、パッケージの比較機能、npm/pnpm/yarn/bun/deno/vltなどのパッケージマネージャーに対応したインストールコマンドの表示などの機能がある。",
+            "tags": [
+                "npm",
+                "search",
+                "webservice"
+            ],
+            "relatedLinks": []
         }
     ]
 }
