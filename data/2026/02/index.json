@@ -152,6 +152,17 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-02-16T09:54:37.141Z",
+            "title": "Roadmap 2026 (2026-02-04) | webpack",
+            "url": "https://webpack.js.org/blog/2026-04-02-roadmap-2026/",
+            "content": "webpack 2026年のロードマップ。\nCSS Modulesのネイティブサポート、TypeScriptのローダーなしでのビルド、HTMLエントリーポイントのプラグインなしでの利用をwebpack本体に組み込む予定。\nNode.js/Deno/Bunなどのクロスランタイム対応、Barrel Fileの遅延最適化、Minimizerプラグインの統合なども計画している。\nwebpack 6のリリースに向けた変更についても紹介されている。",
+            "tags": [
+                "webpack",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
