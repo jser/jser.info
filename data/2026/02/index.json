@@ -163,6 +163,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-02-16T10:08:18.755Z",
+            "title": "ubugeeei/vize: Unofficial High-Performance Vue.js Toolchain in Rust",
+            "url": "https://github.com/ubugeeei/vize",
+            "content": "Rustで書かれたVue.jsツールチェイン。\nVue SFCのコンパイラ、Linter、Formatter、型チェッカー、LSPなどを含む。\nCLI/Browser(WebAssembly)/Vite Pluginとして利用できる",
+            "tags": [
+                "Vue",
+                "Rust",
+                "Tools",
+                "compiler"
+            ],
+            "relatedLinks": []
         }
     ]
 }
