@@ -176,6 +176,30 @@
                 "compiler"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-02-19T14:15:40.938Z",
+            "title": "Electrobun v1 - Blackboard Blog",
+            "url": "https://blackboard.sh/blog/electrobun-v1/",
+            "content": "TypeScriptでクロスプラットフォームのデスクトップアプリを作成できるフレームワーク。\nランタイムにBunを使い、ZigやC/C++で実装されている。\nウィンドウ管理/メニュー/グローバルショートカット/クリップボード/ダイアログなどのネイティブ機能をサポートしている。\n差分パッチによる自動アップデート機能、プロセス分離されたwebviewを`<electrobun-webview>`要素として扱える仕組みなどを持つ。\nmacOS/Windows/Ubuntuに対応している。",
+            "tags": [
+                "TypeScript",
+                "Bun",
+                "Zig",
+                "Electron",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
+                    "url": "https://github.com/blackboardsh/electrobun"
+                },
+                {
+                    "title": "Electrobun Documentation - Build ultra fast, tiny, cross-platform desktop apps",
+                    "url": "https://blackboard.sh/electrobun/docs/"
+                }
+            ]
         }
     ]
 }
