@@ -200,6 +200,19 @@
                     "url": "https://blackboard.sh/electrobun/docs/"
                 }
             ]
+        },
+        {
+            "date": "2026-02-19T23:23:12.867Z",
+            "title": "Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager | Adnan Khan - Security Research",
+            "url": "https://adnanthekhan.com/posts/clinejection/",
+            "content": "ClineのGitHub Actionsワークフローに対する攻撃手法についての記事。\nAIを使ったIssueトリアージボットへのPrompt Injectionを起点に、GitHub Actionsのキャッシュポイズニングを組み合わせる攻撃手法について。\n攻撃が成功した場合、VSCode Marketplace/OpenVSX/npmの公開用トークンを取れる問題があり、実際にCline CLIのnpmパッケージが侵害されていた。",
+            "tags": [
+                "security",
+                "VSCode",
+                "AI",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
