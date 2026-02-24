@@ -213,6 +213,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-02-24T14:32:05.928Z",
+            "title": "Goodbye innerHTML, Hello setHTML: Stronger XSS Protection in Firefox 148 - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/",
+            "content": "Firefox 148で実装されたSanitizer APIについて。\n`innerHTML`はHTMLをフィルタリングせずに挿入するが、`setHTML()`は自動的にサニタイズしてXSSの原因となる危険な要素や属性を除去する。\nSanitizer APIのデフォルト設定やカスタム設定、Trusted Typesとの組み合わせについて。\n",
+            "tags": [
+                "Firefox",
+                "XSS",
+                "security",
+                "DOM",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
