@@ -227,6 +227,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-02-25T13:11:59.874Z",
+            "title": "How we rebuilt Next.js with AI in one week",
+            "url": "https://blog.cloudflare.com/vinext/",
+            "content": "CloudflareによるNext.js互換フレームワークvinextについて。\nNext.jsのルーティング、React Server Components、Server Actionsなどの機能をViteベースで再実装している。",
+            "tags": [
+                "Next.js",
+                "cloudflare",
+                "vite",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "cloudflare/vinext: Vite plugin that reimplements the Next.js API surface — deploy anywhere",
+                    "url": "https://github.com/cloudflare/vinext"
+                }
+            ]
         }
     ]
 }
