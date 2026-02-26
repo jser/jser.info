@@ -352,6 +352,19 @@
                 "AI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-02-26T14:33:00.176Z",
+            "title": "Release styled-components@6.3.7 · styled-components/styled-components",
+            "url": "https://github.com/styled-components/styled-components/releases/tag/styled-components%406.3.7",
+            "content": "styled-components v6.3.7リリース。\n`createGlobalStyle`がReact StrictModeやRSC(React Server Components)で正しく動作しない問題の修正。\npackage.jsonに`exports`フィールドを追加しESMの対応を改善など",
+            "tags": [
+                "CSS",
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
