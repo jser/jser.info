@@ -323,6 +323,20 @@
                     "url": "https://github.com/npm/cli/releases/tag/v11.11.0"
                 }
             ]
+        },
+        {
+            "date": "2026-02-26T14:05:15.257Z",
+            "title": "The React Foundation: A New Home for React Hosted by the Linux Foundation – React",
+            "url": "https://react.dev/blog/2026/02/24/the-react-foundation",
+            "content": "React FoundationがLinux Foundation傘下に正式に設立された。\nReact、React Native、JSXなどのプロジェクトがMetaからReact Foundationへ移管される。\nプラチナメンバーとしてAmazon、Callstack、Expo、Huawei、Meta、Microsoft、Software Mansion、Vercelが参加。\n技術的なガバナンスはFoundation本体から独立して維持され、貢献者やメンテナーが技術的な方向性を決定する。\n今後数カ月でリポジトリやインフラの移管が進められる予定。",
+            "tags": [
+                "React",
+                "OpenSource",
+                "community",
+                "organization",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
