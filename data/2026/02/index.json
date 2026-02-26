@@ -365,6 +365,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-02-26T14:42:28.285Z",
+            "title": "vercel-labs/portless: Replace port numbers with stable, named .localhost URLs. For humans and agents.",
+            "url": "https://github.com/vercel-labs/portless",
+            "content": "ポート番号の代わりに`myapp.localhost`のような名前付き`.localhost` URLを使えるようにする開発用プロキシツール。\n`portless proxy start`でデーモンを起動し、`portless myapp next dev`のように開発サーバーを起動する。\n`http://myapp.localhost:1355`のようなURLでアクセスできる。\nHTTP/2やHTTPSの証明書の自動生成に対応し、Next.js/Express/Nuxt/Vite/Astroなどのフレームワークで利用できる。",
+            "tags": [
+                "Tools",
+                "server",
+                "nodejs",
+                "debug"
+            ],
+            "relatedLinks": []
         }
     ]
 }
