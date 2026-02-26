@@ -337,6 +337,21 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-02-26T14:25:25.257Z",
+            "title": "millionco/react-doctor: Let coding agents diagnose and fix your React code",
+            "url": "https://github.com/millionco/react-doctor",
+            "content": "Reactのコードベースを静的解析して、ヘルススコア(0〜100)を算出するツール。\n60以上のルールでstate/effects、パフォーマンス、アーキテクチャ、バンドルサイズ、セキュリティ、アクセシビリティなどをチェックできる。\n未使用のファイルやエクスポートの検出、Next.js/Vite/Remixなどのフレームワーク自動検出にも対応している。\nCLIやGitHub Actions、Node.js APIとして利用できる。",
+            "tags": [
+                "React",
+                "Tools",
+                "ESLint",
+                "performance",
+                "accessibility",
+                "AI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
