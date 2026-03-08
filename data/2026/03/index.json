@@ -60,6 +60,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-08T15:46:07.360Z",
+            "title": "flatt-security/setup-takumi-guard-npm: GitHub Action to configure npm with Takumi Guard registry auth via OIDC",
+            "url": "https://github.com/flatt-security/setup-takumi-guard-npm",
+            "content": "npmのパッケージインストールをセキュリティプロキシ経由にすることで、悪意あるパッケージをブロックするGitHub Action。\nnpm/pnpm/yarnに対応し、レジストリを`https://npm.flatt.tech/`に設定することでインストール時にパッケージをチェックする。\nGitHub OIDCを使った認証に対応し、Bot IDを設定することで監査ログやダッシュボードでの可視化が利用できる。",
+            "tags": [
+                "npm",
+                "security",
+                "Actions"
+            ],
+            "relatedLinks": []
         }
     ]
 }
