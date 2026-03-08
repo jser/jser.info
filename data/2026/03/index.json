@@ -36,6 +36,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-08T04:35:02.437Z",
+            "title": "Announcing TypeScript 6.0 RC - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/",
+            "content": "TypeScript 6.0 RCリリース。\nTypeScript 7(Go言語ベース)への移行を見据えたリリースで、多くのデフォルト設定の変更や非推奨化が含まれる。\nBetaからの変更として `import ... assert {...}`の廃止が延期された。\n`strict`がデフォルトで`true`に変更、`module`のデフォルトが`esnext`に変更、`target`のデフォルトが`es2025`に変更、`types`のデフォルトが`[]`に変更。\n`target: es5`/`--moduleResolution node10`/`--module amd|umd|system`/`--outFile`などを非推奨化。\nES2025の`RegExp.escape`やTemporalの型定義を追加、`lib.dom`に`dom.iterable`と`dom.asynciterable`を統合。\n`this`を使わない関数のcontext sensitivityの改善、`#/`で始まるsubpath importsのサポートを追加。\n`--moduleResolution bundler`と`--module commonjs`の組み合わせが可能に。\nTypeScript 7への移行を補助する`--stableTypeOrdering`フラグの追加など。",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
