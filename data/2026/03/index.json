@@ -47,6 +47,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-08T12:55:54.305Z",
+            "title": "aidenybai/react-grab: Select context for coding agents directly from your website",
+            "url": "https://github.com/aidenybai/react-grab/tree/main",
+            "content": "Webサイト上のUI要素をInspectしてReactコンポーネント名やファイルパス、HTMLソースコードなどのコンテキスト情報をコピーできるツール。\nコピーした情報をCursorやClaude CodeなどのAIコーディングエージェントに渡して利用できる。\nNext.js/Vite/webpackに対応し、プラグインによるカスタマイズやPrimitives APIによる独自UIの構築にも対応している。",
+            "tags": [
+                "React",
+                "Tools",
+                "AI",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
