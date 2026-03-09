@@ -72,6 +72,19 @@
                 "Actions"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-09T14:17:23.918Z",
+            "title": "dupontcyborg/numpy-ts: Full NumPy, in TypeScript/JavaScript (94% coverage)",
+            "url": "https://github.com/dupontcyborg/numpy-ts",
+            "content": "PythonのNumPyをTypeScript/JavaScriptで再実装したライブラリ。\nNumPyの507関数のうち476関数をカバーしている。dtype指定、ブロードキャスト、線形代数演算、NumPyスタイルのスライス記法などをサポートする。\nTree-shakeableなモジュール構成で、Node.jsとブラウザの両方で動作する。",
+            "tags": [
+                "TypeScript",
+                "JavaScript",
+                "library",
+                "math"
+            ],
+            "relatedLinks": []
         }
     ]
 }
