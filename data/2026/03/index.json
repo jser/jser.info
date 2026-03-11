@@ -110,6 +110,17 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-11T14:35:00.926Z",
+            "title": "Chrome 146  |  Release notes  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/release-notes/146",
+            "content": "Chrome 146リリース。\nCSSのスクロール駆動アニメーション、`trigger-scope`プロパティのサポート。\n`meta name=\"text-scale\"`によるOS/ブラウザのテキストスケーリング設定の反映、Scoped Custom Element Registryのサポート。\n`Iterator.concat()`のサポート、Sanitizer APIの追加、WebAudioのPlayback Statistics APIの追加。\nWebGPUのCompatibility modeのサポート。",
+            "tags": [
+                "Chrome",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
