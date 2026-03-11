@@ -85,6 +85,20 @@
                 "math"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-11T05:31:21.400Z",
+            "title": "Astro 6.0 | Astro",
+            "url": "https://astro.build/blog/astro-6/",
+            "content": "Astro 6.0リリース。\nViteのEnvironment APIを使った開発サーバーの刷新により、開発時にもCloudflare WorkersやBun/Denoなどの本番ランタイムで実行可能に。\nフォント管理を自動化するFonts APIの追加、リクエスト時にCMSやAPIのデータを取得できるLive Content Collectionsの追加。\nCSPのサポートが安定版に。\nNode.js 22以上が必須に変更、Vite 7/Shiki 4/Zod 4へのアップグレード。\nExperimentalとして、GoからRustベースに書き換えたコンパイラ、Queued Rendering、Route Caching APIの追加など。",
+            "tags": [
+                "astro",
+                "ReleaseNote",
+                "cloudflare",
+                "Rust",
+                "Vite"
+            ],
+            "relatedLinks": []
         }
     ]
 }
