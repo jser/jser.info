@@ -99,6 +99,17 @@
                 "Vite"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-11T11:46:07.969Z",
+            "title": "Node.js — Evolving the Node.js Release Schedule",
+            "url": "https://nodejs.org/en/blog/announcements/evolving-the-nodejs-release-schedule",
+            "content": "Node.jsのリリースモデルを2026年10月から変更される。\n現在の年2回のメジャーリリースから年1回に変更し、すべてのリリースがLTSとなる。\n新しいリリースサイクルでは、Alpha Phase(10月〜3月)でBreaking Changesを許容し、Current Phase(4月〜10月)で安定化、その後30ヶ月のLTSフェーズとなる。\n奇数/偶数バージョンの区別がなくなり、バージョン番号がカレンダー年と対応する(Node.js 27は2027年など)。\nNode.js 26(2026年4月)が現行モデルの最後のリリースとなり、Node.js 27(2027年4月)から新しいスケジュールが適用される。",
+            "tags": [
+                "nodejs",
+                "news"
+            ],
+            "relatedLinks": []
         }
     ]
 }
