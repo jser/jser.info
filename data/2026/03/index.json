@@ -159,6 +159,24 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-12T10:30:08.631Z",
+            "title": "RedwoodSDK 1.0: Getting Out of the Weeds | Blog | RedwoodSDK",
+            "url": "https://rwsdk.com/blog/redwood-v1-getting-out-of-the-weeds",
+            "content": "Cloudflare Workers向けのReactフレームワークであるRedwoodSDK 1.0リリース。\n旧RedwoodJSから方針を転換し、コード生成や暗黙的な規約に依存しない設計となっている。\nWeb標準API(fetch, Request, Response)をそのまま利用し、設定より合成(Composability)を重視するアーキテクチャを採用している。",
+            "tags": [
+                "cloudflare",
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v1.0.0 · redwoodjs/sdk",
+                    "url": "https://github.com/redwoodjs/sdk/releases/tag/v1.0.0"
+                }
+            ]
         }
     ]
 }
