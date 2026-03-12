@@ -146,6 +146,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-12T07:21:55.829Z",
+            "title": "pbakaus/impeccable: The design language that makes your AI harness better at design.",
+            "url": "https://github.com/pbakaus/impeccable",
+            "content": "AIコーディングエージェント向けのフロントエンドデザインのスキルとコマンドのセット。\nタイポグラフィ、色彩、空間設計、モーション、インタラクション、レスポンシブデザイン、UXライティングなどのスキルを定義している。\nAIが生成するUI/UXデザインにおけるアンチパターンのガイダンスも含まれている。\nClaude Code、Cursor、Gemini CLIなどのAIツールに対応している。",
+            "tags": [
+                "AI",
+                "Design",
+                "CSS",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
