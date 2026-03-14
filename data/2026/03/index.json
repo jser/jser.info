@@ -177,6 +177,18 @@
                     "url": "https://github.com/redwoodjs/sdk/releases/tag/v1.0.0"
                 }
             ]
+        },
+        {
+            "date": "2026-03-14T13:44:17.296Z",
+            "title": "Vitest 4.1 is out! | Vitest",
+            "url": "https://vitest.dev/blog/vitest-4-1.html",
+            "content": "Vitest 4.1リリース。\nVite 8のサポート、テストケースにタグを付けてフィルタリングできるTest Tags機能の追加。\n`test.extend`での型推論の改善、`aroundEach`/`aroundAll`フックの追加。\n`vi.defineHelper()`でスタックトレースからヘルパー関数の内部を除外できるように。\n`--detect-async-leaks`フラグで非同期リソースのリーク検出をサポート。\n`mockThrow()`/`mockThrowOnce()`の追加、Chai形式のmockアサーションのサポート。\nGitHub Actionsレポーターがジョブサマリーを自動生成するように、AIエージェント向けのAgentレポーターの追加など",
+            "tags": [
+                "vite",
+                "ReleaseNote",
+                "test"
+            ],
+            "relatedLinks": []
         }
     ]
 }
