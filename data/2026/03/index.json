@@ -233,6 +233,21 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-15T02:22:02.367Z",
+            "title": "unjs/impound: Builder-agnostic plugin to allow restricting import patterns in certain parts of your code-base.",
+            "url": "https://github.com/unjs/impound?tab=readme-ov-file",
+            "content": "特定のディレクトリからのimportを禁止するなどのパターンを定義できるunpluginプラグイン。\n正規表現、文字列、関数によるパターンマッチでimportの制限ルールを定義できる。\n`trace`オプションを有効にすると、ルールで禁止された結果をわかりやすく表示できる",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "Tools",
+                "module",
+                "bundler",
+                "plugin"
+            ],
+            "relatedLinks": []
         }
     ]
 }
