@@ -221,6 +221,18 @@
                     "url": "https://github.com/voidzero-dev/vite-plus/tree/main"
                 }
             ]
+        },
+        {
+            "date": "2026-03-15T02:19:08.046Z",
+            "title": "Nuxt 4.4 · Nuxt Blog",
+            "url": "https://nuxt.com/blog/v4-4",
+            "content": "Nuxt v4.4リリース。\nVue Router v5へのアップグレード、`createUseFetch`/`createUseAsyncData`を追加。\nレイアウトに型付きPropsを渡せるように、`useAnnouncer` composableと`<NuxtAnnouncer>`コンポーネントによるアクセシビリティの改善。\nルート生成にtrieデータ構造ベースの`unrouting`ライブラリを採用しパフォーマンスを改善。\n`useCookie`の`refresh`オプションの追加、`nuxt build --profile`でのビルドプロファイリングのサポートなど。",
+            "tags": [
+                "Vue",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
