@@ -202,6 +202,25 @@
                 "bundler"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-15T02:13:00.372Z",
+            "title": "Announcing Vite+ Alpha | VoidZero",
+            "url": "https://voidzero.dev/posts/announcing-vite-plus-alpha",
+            "content": "Vite+ Alphaリリース。\nVite、Vitest、Rolldown、Oxlint、Oxfmtなどを統合したCLIツール。\n`vp dev`/`vp build`/`vp test`/`vp check`などのコマンドで、開発サーバ、ビルド、テスト、Lint、フォーマットを1つのツールで実行できる。\n`vp env`でのNode.jsバージョン管理、`vp run`でのmonorepoタスク実行とキャッシュ機能も提供する。\n当初は商用版として検討されていたが、MITライセンスでオープンソースとして公開された。",
+            "tags": [
+                "vite",
+                "Rust",
+                "CLI",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "voidzero-dev/vite-plus: Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.",
+                    "url": "https://github.com/voidzero-dev/vite-plus/tree/main"
+                }
+            ]
         }
     ]
 }
