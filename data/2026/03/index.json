@@ -286,6 +286,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-16T12:45:07.664Z",
+            "title": "External import maps, today! • Lea Verou",
+            "url": "https://lea.verou.me/blog/2026/external-import-maps-today/",
+            "content": "External Import Mapsをビルドツールなしで利用する方法について。\n`<script type=\"importmap\">`をDOMで動的に注入することで、外部ファイルとしてImport Mapを管理できる。`document.currentScript.after()`を使い`<script type=\"importmap\">`要素を挿入する。\nChrome 89+/Safari 16.4+/Firefox 108+で動作する。",
+            "tags": [
+                "JavaScript",
+                "module",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "JSPM - JSPM 4.0 Release",
+                    "url": "https://jspm.org/jspm-4.0-release"
+                }
+            ]
         }
     ]
 }
