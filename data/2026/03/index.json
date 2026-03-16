@@ -261,6 +261,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-16T10:52:35.949Z",
+            "title": "ECMAScript proposal updates @ 2026-03 | ECMAScript Daily",
+            "url": "https://ecmascript-daily.github.io/ecmascript/2026/03/16/ecmascript-proposal-update",
+            "content": "TC39 113th meetingでのECMAScript Proposalのステージの変更まとめ。\nTemporalがStage 4となりES2026に含まれる。\nImport TextがStage 3へ、Error Stack AccessorがStage 2.7へ。\nCurtailing the Power of ThenablesがStage 2へ。",
+            "tags": [
+                "ECMAScript",
+                "proposal",
+                "news",
+                "TC39"
+            ],
+            "relatedLinks": []
         }
     ]
 }
