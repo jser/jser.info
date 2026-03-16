@@ -274,6 +274,18 @@
                 "TC39"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-16T11:03:33.301Z",
+            "title": "Nova 1.0 · Nova",
+            "url": "https://trynova.dev/blog/nova-1.0",
+            "content": "Nova 1.0リリース。\nRustで書かれた軽量な組み込み向けデータ指向アーキテクチャなJavaScriptエンジン。\nECMAScript仕様の完全な準拠にはまだ課題があり、RegExpのUnicodeサポートやPromiseのサブクラス化などに制限がある。\nセマンティックバージョニングを採用しアップデートを行なっていく予定。",
+            "tags": [
+                "Rust",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
