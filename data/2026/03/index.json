@@ -317,6 +317,17 @@
                 "RegExp"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-17T14:14:18.139Z",
+            "title": "Electron 41.0 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-41-0",
+            "content": "Electron 41.0リリース。\nChromium 146、Node.js v24.14.0、V8 14.6へアップグレード。\nPDFの描画がout-of-process iframeを使った同一WebContents内での描画に変更。\nCookieの`changed`イベントに`inserted`などの変更理由を追加。\nASARの整合性チェックでダイジェストのサポート、Waylandでのフレームレスウィンドウのドロップシャドウとリサイズ境界の改善。\nMSIX auto updaterの互換性を追加、macOS向け`--disable-geolocation`フラグの追加。\nWebSocket認証を`login`イベントで処理できるように、`webPreferences.focusOnNavigation`オプションの追加など。",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
