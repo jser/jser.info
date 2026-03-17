@@ -303,6 +303,20 @@
                     "url": "https://jspm.org/jspm-4.0-release"
                 }
             ]
+        },
+        {
+            "date": "2026-03-17T13:47:50.189Z",
+            "title": "sam247/openredaction: Open Source PII detection and redaction for JavaScript/Typescript. Achieve enterprise compliance and unparalleled, lightning fast performance, all 100% local.",
+            "url": "https://github.com/sam247/openredaction",
+            "content": "JavaScript/TypeScript向けのPII(個人識別情報)の検出とマスキングを行うライブラリ。\n正規表現パターンを使い、メールアドレス、電話番号、クレジットカード番号、政府発行IDなど50カ国以上のPIIパターンをサポートしている。",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "library",
+                "privacy",
+                "RegExp"
+            ],
+            "relatedLinks": []
         }
     ]
 }
