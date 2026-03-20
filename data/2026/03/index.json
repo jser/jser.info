@@ -328,6 +328,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-20T03:04:28.227Z",
+            "title": "Edge.js: Running Node apps inside a WebAssembly Sandbox · Blog · Wasmer",
+            "url": "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox",
+            "content": "WebAssemblyのSandboxでNode.js互換のアプリケーションを実行できるRuntime。\nNode.js v24互換で、Next.jsやAstroなどのフレームワークを動作させることができる。\nOSシステムコールとネイティブコードのみをWASIX経由でサンドボックス化し、JavaScriptエンジン自体はネイティブで実行するアーキテクチャとなっている。\nV8、JavaScriptCore、QuickJSなど複数のJSエンジンに対応している。",
+            "tags": [
+                "WebAssembly",
+                "nodejs",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
