@@ -340,6 +340,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-21T02:19:11.568Z",
+            "title": "Bun v1.3.11 | Bun Blog",
+            "url": "https://bun.com/blog/bun-v1.3.11",
+            "content": "Bun v1.3.11リリース。\nOSのスケジューラを使ったcronジョブを登録する`Bun.cron` APIの追加、ANSIエスケープコードを考慮した文字列スライスを行う`Bun.sliceAnsi`の追加。\n`bun test`に`--path-ignore-patterns`フラグの追加など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
