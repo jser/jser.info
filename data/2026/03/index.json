@@ -383,6 +383,19 @@
                     "url": "https://nextjs.org/blog/next-16-2-turbopack"
                 }
             ]
+        },
+        {
+            "date": "2026-03-22T13:05:06.616Z",
+            "title": "BrowserPod — Sandboxed Dev Environments in any Browser",
+            "url": "https://browserpod.io/",
+            "content": "ブラウザ内でNode.jsなどのコードをサンドボックス実行できるプラットフォーム。\nWebAssemblyベースのランタイムエンジンを使い、WebWorkerによるマルチプロセス実行、仮想ファイルシステム、制御されたネットワークアクセスなどの機能を持つ。",
+            "tags": [
+                "WebAssembly",
+                "nodejs",
+                "browser",
+                "webservice"
+            ],
+            "relatedLinks": []
         }
     ]
 }
