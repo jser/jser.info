@@ -396,6 +396,17 @@
                 "webservice"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-24T11:20:53.695Z",
+            "title": "Announcing TypeScript 6.0 - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/",
+            "content": "TypeScript 6.0リリース。\n現在のJavaScriptコードベースによる最後のリリースで、Goで書き直されたTypeScript 7.0への移行を準備するリリースとなる。\n`strict`がデフォルトで`true`に、`target`のデフォルトが`es2025`に、`module`のデフォルトが`esnext`に変更。\n`target: es5`、`--moduleResolution node`(node10)、`--outFile`、`--esModuleInterop false`などが非推奨となりエラーに変更。\n`es2025`ターゲットの追加、Temporal APIの型定義の追加、Map/WeakMapの`getOrInsert()`/`getOrInsertComputed()`メソッドの追加。\nNode.jsのSubpath Importsの`#/`のサポート、`--moduleResolution bundler`と`--module commonjs`の組み合わせをサポート。\nTypeScript 7.0の型順序に合わせる`--stableTypeOrdering`フラグの追加など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
