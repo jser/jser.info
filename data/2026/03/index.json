@@ -407,6 +407,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-26T23:07:45.285Z",
+            "title": "Storybook MCP for React",
+            "url": "https://storybook.js.org/blog/storybook-mcp-for-react/",
+            "content": "Storybook MCPサーバについて。\nAIエージェントに既存のUIコンポーネントのメタデータ(ストーリー、API、ドキュメント)を提供するMCPサーバ。\n複数のStorybookを組み合わせて使うCompositionにも対応している。\nMCP Appsに対応して、チャットのレスポンスに直接Storyを埋め込めるようになっている。",
+            "tags": [
+                "storybook",
+                "MCP",
+                "React",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
