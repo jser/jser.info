@@ -420,6 +420,21 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-27T06:13:38.778Z",
+            "title": "WebKit Features for Safari 26.4 | WebKit",
+            "url": "https://webkit.org/blog/17862/webkit-features-for-safari-26-4/",
+            "content": "Safari 26.4リリース。\nCSS Grid Lanesによるmasonry/ウォーターフォールスタイルのレイアウトのサポート、名前のみの`@container`クエリのサポート。\n`font-size: math`と`math-depth`プロパティのサポート。\nCSS Zoomの修正、Scroll-driven Animationsのパフォーマンス改善。\nWebTransportのサポート、Keyboard Lock APIのサポート、ReadableByteStreamのサポート。\nScoped Custom Element Registriesの改善、`Iterator.concat()`のサポート。\n`<img>`の`sizes`属性でのmath関数(`min()`/`max()`/`clamp()`)のサポート、SVGの`lighter`合成演算子のサポート。\nWebAuthnのPRF拡張のサポートなど。",
+            "tags": [
+                "safari",
+                "browser",
+                "CSS",
+                "WebTransport",
+                "WebAuthentication",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
