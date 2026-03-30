@@ -446,6 +446,19 @@
                 "book"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-03-30T05:38:54.595Z",
+            "title": "ArrowJS — The first UI framework for the agentic era",
+            "url": "https://arrow-js.com/",
+            "content": "ビルドステップなしで動作する軽量なUIフレームワーク。`reactive`、`html`、`component`の3つの関数で構成される。\nAI向けにWebAssemblyサンドボックス内でコンポーネントロジックを分離して実行する機能を持つ。",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "WebAssembly",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
