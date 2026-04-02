@@ -36,6 +36,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-02T00:54:12.525Z",
+            "title": "Release 4.18.0 · lodash/lodash",
+            "url": "https://github.com/lodash/lodash/releases/tag/4.18.0",
+            "content": "lodash 4.18.0リリース。\n`_.unset`と`_.omit`のPrototype Pollutionの脆弱性を修正、`_.template`のコードインジェクションの修正。\n`lodash.unset`や`lodash.template`などの個別パッケージが古いままだったのを修正して再公開。",
+            "tags": [
+                "lodash",
+                "JavaScript",
+                "library",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
