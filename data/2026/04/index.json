@@ -50,6 +50,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-03T13:32:49.662Z",
+            "title": "Introducing EmDash — the spiritual successor to WordPress that solves plugin security",
+            "url": "https://blog.cloudflare.com/emdash-wordpress/",
+            "content": "CloudflareによるサーバーレスCMS。\nTypeScriptで書かれ、Astro 6.0をベースにしたオープンソース(MITライセンス)のCMS。\nプラグインを独立したサンドボックス環境(Dynamic Workers)で実行し、プラグイン起因のセキュリティ問題を解決するアーキテクチャを採用している。\nMCPやCLIによるAIエージェント連携、x402プロトコルによる決済統合などの機能も備えている。",
+            "tags": [
+                "cloudflare",
+                "CMS",
+                "TypeScript",
+                "astro",
+                "security",
+                "OpenSource",
+                "wordpress"
+            ],
+            "relatedLinks": []
         }
     ]
 }
