@@ -78,6 +78,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-04T02:08:00.379Z",
+            "title": "Node.js — Node.js 25.9.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v25.9.0",
+            "content": "Node.js v25.9.0リリース。\nテストランナーのモックモジュールAPIで`defaultExport`と`namedExports`オプションを`exports`オプションに統合。\n`--max-heap-size`フラグの追加、Web CryptoでTurboSHAKEとKangarooTwelveアルゴリズムのサポート。\nSEA(Single Executable Applications)でESMエントリポイントのコードキャッシュをサポート、実験的な`stream/iter`モジュールの追加。\n`AsyncLocalStorage`に`using`スコープの追加、REPLでのカスタムエラーハンドリングのサポートなど。",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
