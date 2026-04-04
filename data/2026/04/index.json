@@ -89,6 +89,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-04T03:52:26.003Z",
+            "title": "Release v5.0.0 · lerna-lite/lerna-lite",
+            "url": "https://github.com/lerna-lite/lerna-lite/releases/tag/v5.0.0",
+            "content": "lerna-lite v5.0.0リリース。\nNode.js 20のサポート終了、Conventional Changelogのレガシー設定ファイル読み込みの削除、`--remove-package-fields`オプションの削除。\n内部依存を自前の実装に置き換えることでインストールサイズを削減など",
+            "tags": [
+                "monorepo",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
