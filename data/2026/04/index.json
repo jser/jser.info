@@ -128,6 +128,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-05T13:42:43.891Z",
+            "title": "Core JavaScript and TypeScript Features Become Free in IntelliJ IDEA | The IntelliJ IDEA Blog",
+            "url": "https://blog.jetbrains.com/idea/2026/03/js-ts-free-support/",
+            "content": "IntelliJ IDEA v2026.1で、JavaScript/TypeScript/HTML/CSSのコア機能が無料で利用可能に。\nこれまでUltimate版のみで提供されていたWeb開発向けの機能が、Community Editionでも利用できるようになった。\nJS/TSのコード補完やリファクタリング、ESLint/Prettierの統合、Viteでのプロジェクト作成、npmスクリプトの実行、依存関係の脆弱性検出などが含まれる。",
+            "tags": [
+                "JetBrains",
+                "IDE",
+                "JavaScript",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
