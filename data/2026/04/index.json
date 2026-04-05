@@ -101,6 +101,22 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-05T03:10:26.737Z",
+            "title": "vercel-labs/emulate: Local API emulation for CI and no-network sandboxes",
+            "url": "https://github.com/vercel-labs/emulate",
+            "content": "VercelやGitHub、Google、Slack、AWS(S3/SQS)などのAPIをローカルでエミュレートするツール。\nCIやネットワークのないサンドボックス環境で、外部APIのモックサーバとして利用できる。\n各サービスはステートフルにデータを保持し、OAuth 2.0フローやWebhookの配信にも対応している。",
+            "tags": [
+                "vercel",
+                "API",
+                "testing",
+                "CI",
+                "Tools",
+                "nodejs",
+                "server"
+            ],
+            "relatedLinks": []
         }
     ]
 }
