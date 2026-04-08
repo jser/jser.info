@@ -162,6 +162,20 @@
                     "url": "https://socket.dev/blog/hidden-blast-radius-of-the-axios-compromise"
                 }
             ]
+        },
+        {
+            "date": "2026-04-08T09:30:21.962Z",
+            "title": "Release v1.5.0 · Pagefind/pagefind",
+            "url": "https://github.com/Pagefind/pagefind/releases/tag/v1.5.0",
+            "content": "Pagefind v1.5.0リリース。\nWeb Componentsベースの新しいUIシステムの追加、メタデータフィールドのデフォルトインデックス化による検索精度の向上、ダイアクリティカルマーク(発音区別符号)の対応を追加。\nCJK(中国語/日本語/韓国語)のクエリ自動セグメンテーション、Web Workerでの検索実行、インデックスチャンクのサイズ削減などパフォーマンスの改善。\nWindows ARM64のサポートを追加など",
+            "tags": [
+                "Rust",
+                "JavaScript",
+                "search",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
