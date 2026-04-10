@@ -196,7 +196,7 @@
             ]
         },
         {
-            "date": "2026-04-10T00:48:35.290Z",
+            "date": "2026-04-10T00:49:02.106Z",
             "title": "Webpack 5.106 | webpack",
             "url": "https://webpack.js.org/blog/2026-04-08-webpack-5-106/",
             "content": "webpack 5.106リリース。\nPlugin Validation Hook(`compiler.hooks.validate`)の追加。\nCSS Modulesのランタイムスタイル注入(`exportType: \"style\"`)のサポート。\n将来的にcss-loader/style-loader/mini-css-extract-pluginを廃止予定。\nCommonJSのTree Shaking改善、`create-webpack-app`ツールの追加。\n実験的な機能として、ES Stage 3のSource Phase Importsによる実験的なWebAssemblyサポート、oxc-parserのサポート。\nwebpack-cli 7.0.0ではNode.js 20.9.0+が必要となり、ネイティブTypeScriptサポートが追加されている。",
