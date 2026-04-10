@@ -176,6 +176,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-10T00:10:56.939Z",
+            "title": "Summary of CVE-2026-23869 - Vercel",
+            "url": "https://vercel.com/changelog/summary-of-cve-2026-23869",
+            "content": "React Server Components(RSC)のDoS脆弱性の修正としてNext.js 15.5.15/16.2.3とReact 19.2.5がリリースされている。\nApp RouterのServer Functionエンドポイントに対して、細工されたHTTPリクエストを送ることで過剰なCPU消費を引き起こせる脆弱性。\nNext.js 13.x〜16.xが影響を受けている。",
+            "tags": [
+                "Next.js",
+                "React",
+                "security",
+                "vercel"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release 19.2.5 (April 8th, 2026) · facebook/react",
+                    "url": "https://github.com/facebook/react/releases/tag/v19.2.5"
+                }
+            ]
         }
     ]
 }
