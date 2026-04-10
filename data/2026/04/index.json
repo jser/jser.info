@@ -205,6 +205,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-10T15:08:23.252Z",
+            "title": "yuku-toolchain/yuku: High-performance JavaScript/TypeScript compiler and toolchain in pure Zig 🦎",
+            "url": "https://github.com/yuku-toolchain/yuku",
+            "content": "Zigで書かれたJavaScript/TypeScriptコンパイラおよびツールチェーン。\nTest262でテストされていて、Pure Zigなのでクロスコンパイルが可能となっている。",
+            "tags": [
+                "Zig",
+                "JavaScript",
+                "TypeScript",
+                "compiler",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
