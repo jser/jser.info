@@ -219,6 +219,19 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-12T02:19:30.289Z",
+            "title": "Diffs, from Pierre",
+            "url": "https://diffs.com/",
+            "content": "diffレンダリングとコード表示のライブラリ。\nCSS GridとShadow DOMを活用してDOMノード数を削減しレンダリングの高速化やVirtualizationに対応している。\nStack型(統合表示)とSplit型(左右並列表示)の2つのレイアウトに対応し、Shikiベースの構文ハイライト/コメント/マージコンフリクト解決UIなどの機能を持つ。",
+            "tags": [
+                "JavaScript",
+                "CSS",
+                "library",
+                "diff"
+            ],
+            "relatedLinks": []
         }
     ]
 }
