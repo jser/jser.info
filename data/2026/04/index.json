@@ -232,6 +232,17 @@
                 "diff"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-12T02:23:32.090Z",
+            "title": "Release pnpm 11 RC 0 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v11.0.0-rc.0",
+            "content": "pnpm v11.0.0 rc.0リリース。\nPure ESMパッケージへの移行、Node.js 18-21のサポートを終了。\n`.npmrc`は認証/レジストリ設定のみに限定し、その他の設定は`pnpm-workspace.yaml`へ移行、`pnpm server`コマンドの削除など多くの破壊的変更を含む。\n`pnpm ci`コマンドの追加、`pnpm sbom`でのSBOM生成に対応。\n`minimumReleaseAge`のデフォルトを1日に設定、`blockExoticSubdeps`のデフォルトを`true`に変更などサプライチェーンセキュリティの強化。\nストアのインデックスにSQLiteを使用するように変更、`undici`の採用によるHTTPリクエストの改善など。",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
