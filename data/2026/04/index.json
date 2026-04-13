@@ -256,6 +256,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-13T12:01:21.386Z",
+            "title": "Bun v1.3.12 | Bun Blog",
+            "url": "https://bun.com/blog/bun-v1.3.12",
+            "content": "Bun v1.3.12リリース。\n`Bun.WebView`の追加、Markdownファイルをターミナルで直接実行できる`bun ./file.md`のサポート。\nインプロセスで動作するコールバックベースのcronスケジューラ`Bun.cron()`の追加。\nJavaScriptCoreのアップグレードにより、ES ProposalのStage 3のExplicit Resource Management(`using`/`await using`)のサポート。。\ncgroupのCPU制限を考慮するように変更など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
