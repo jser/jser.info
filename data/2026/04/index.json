@@ -280,6 +280,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-14T05:36:03.687Z",
+            "title": "Servo is now available on crates.io - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+            "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+            "content": "Servo v0.1.0リリース。\nRustで書かれた組み込み可能なWebレンダリングエンジンServoの`servo`クレートがcrates.ioで公開された。\nアプリケーションにWebレンダリング機能を組み込むためのEmbedding APIを提供する。\nLTSバージョンも導入され、半年ごとのメジャーアップグレードとセキュリティアップデートが提供される。",
+            "tags": [
+                "servo",
+                "Rust",
+                "browser",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
