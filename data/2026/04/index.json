@@ -267,6 +267,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-14T01:31:26.763Z",
+            "title": "React Server Components Your Way | TanStack Blog",
+            "url": "https://tanstack.com/blog/react-server-components",
+            "content": "TanStackにおけるReact Server Components(RSC)のアプローチについて。\nRSCをデータストリームとして扱い、一方向データフローとしてクライアント側でサーバーレンダリングされたUIの取得やキャッシュを制御できる設計になっている。\nサーバーがスロットを用意しクライアントが埋めるComposite Componentsという仕組みや、`createServerFn`による明示的なサーバー関数定義などの機能を提供する。",
+            "tags": [
+                "React",
+                "RSC",
+                "TanStack",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
