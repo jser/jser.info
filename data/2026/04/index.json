@@ -305,6 +305,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-15T11:00:08.944Z",
+            "title": "Under the hood of MDN's new frontend",
+            "url": "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/",
+            "content": "MDNのフロントエンドアーキテクチャの刷新についての解説記事。\n旧フロントエンド(Yari)はCreate React Appベースで、eject後のwebpack設定の複雑化などの技術的負債を抱えていた。\nSassと最新CSSの混在や、`dangerouslySetInnerHTML`による静的コンテンツの埋め込みなどの課題もあった。\n新アーキテクチャではLitベースのWeb Componentsを採用し、独自のServer Components実装でSPAの課題を解決している。\nビルドツールをwebpackからRspackへ移行、Declarative Shadow DOMやBaselineプロジェクトを活用したブラウザ互換性の管理についても解説されている。",
+            "tags": [
+                "mdn",
+                "WebComponents",
+                "architecture",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
