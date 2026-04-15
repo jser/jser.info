@@ -293,6 +293,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-15T10:58:02.696Z",
+            "title": "The Intl API: The best browser API you're not using | Polypane",
+            "url": "https://polypane.app/blog/the-intl-api-the-best-browser-api-youre-not-using/",
+            "content": "Intl APIについての解説記事。\n`Intl.DateTimeFormat`/`Intl.RelativeTimeFormat`/`Intl.NumberFormat`などの日付や数値のフォーマットAPIを紹介している。\n`Intl.ListFormat`/`Intl.PluralRules`/`Intl.Segmenter`/`Intl.Collator`などの使い方について",
+            "tags": [
+                "JavaScript",
+                "i18n",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
