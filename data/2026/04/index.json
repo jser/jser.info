@@ -331,6 +331,19 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-17T07:44:27.694Z",
+            "title": "vercel-labs/wterm: A terminal emulator for the web",
+            "url": "https://github.com/vercel-labs/wterm",
+            "content": "Webブラウザ向けのターミナルエミュレータライブラリ。\nコアがZigで書かれていて、WebAssembly(約12KB)にコンパイルされている。\nDOM要素としてレンダリングすることで、ネイティブなテキスト選択/コピー&ペースト/検索/アクセシビリティをサポートする。",
+            "tags": [
+                "WebAssembly",
+                "library",
+                "terminal",
+                "browser"
+            ],
+            "relatedLinks": []
         }
     ]
 }
