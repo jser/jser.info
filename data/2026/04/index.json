@@ -356,6 +356,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-18T13:32:13.390Z",
+            "title": "v1.17.0 | React Aria",
+            "url": "https://react-aria.adobe.com/releases/v1-17-0",
+            "content": "React Aria v1.17.0リリース。\nTableの展開可能な行のサポート、Virtualizerのウィンドウスクロール対応、水平方向のVirtualizeの対応。\n個別のhookパッケージを`react-aria`と`react-stately`に統合して、依存パッケージ数を削減。\nsub-path imports(`react-aria-components/Button`など)のサポート、マイグレーション用のcodemodも提供されている。\nComboBoxのジェネリック型パラメータサポート、NumberFieldに`commitBehavior` propの追加、Selectに`shouldCloseOnSelect`オプションの追加など。",
+            "tags": [
+                "React",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
