@@ -370,10 +370,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2026-04-19T05:48:59.381Z",
+            "date": "2026-04-19T08:29:12.546Z",
             "title": "PerryTS/perry: A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.",
             "url": "https://github.com/PerryTS/perry",
-            "content": "Rustで書かれたTypeScriptのネイティブコンパイラ。\nSWCでTypeScriptをパースし、LLVMで実行ファイルへと直接コンパイルする。\nmacOS/Windows/Linux/iOS/Android向けのクロスコンパイルに対応し、ネイティブUIを扱うパッケージを用意している。\n著名なnpmパッケージはRust実装のものへ差し替え、他のものはV8のRuntimeを使ったfallbackで対応している。",
+            "content": "Rustで書かれたTypeScriptのネイティブコンパイラ。\nSWCでTypeScriptをパースし、LLVMで実行ファイルへとコンパイルする。\nmacOS/Windows/Linux/iOS/Android向けのクロスコンパイルに対応し、ネイティブUIを扱うパッケージを用意している。\n著名なnpmパッケージはRust実装のものへ差し替え、他のものはV8のRuntimeを使ったfallbackで対応している。",
             "tags": [
                 "TypeScript",
                 "Rust",
