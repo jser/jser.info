@@ -381,6 +381,19 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-20T02:54:47.078Z",
+            "title": "endevco/aube: A fast Node.js package manager",
+            "url": "https://github.com/endevco/aube",
+            "content": "Rustで書かれたNode.js向けのパッケージマネージャー。\n`pnpm-lock.yaml`/`package-lock.json`/`npm-shrinkwrap.json`/`yarn.lock`/`bun.lock`などの既存のロックファイル形式の読み書きに対応している。\nグローバルなcontent-addressable storeによるパッケージファイルの共有、最小リリース期間やライフサイクルスクリプトの承認制御などのセキュリティ機能を持つ。",
+            "tags": [
+                "nodejs",
+                "package",
+                "Rust",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
