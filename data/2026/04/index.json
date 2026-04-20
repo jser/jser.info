@@ -394,6 +394,17 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-20T05:06:47.882Z",
+            "title": "Node.js — Node.js 24.15.0 (LTS)",
+            "url": "https://nodejs.org/en/blog/release/v24.15.0",
+            "content": "Node.js 24.15.0リリース。\n`require(esm)`とモジュールコンパイルキャッシュが安定版に昇格、SQLiteがリリース候補段階へ進んだ。\n`--max-heap-size`オプションの追加、Socketの`setTOS`/`getTOS`メソッドの追加、`fs.stat`の`throwIfNoEntry`オプションの追加など。",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
