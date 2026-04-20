@@ -405,6 +405,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-20T10:20:01.166Z",
+            "title": "Bun v1.3.13 | Bun Blog",
+            "url": "https://bun.com/blog/bun-v1.3.13",
+            "content": "Bun v1.3.13リリース。\n`bun test`に各テストファイルを独立したグローバル環境で実行する`--isolate`フラグを追加。\nテストをworkerプロセスで並列実行する`--parallel`、CIジョブ間でテストを分割する`--shard`、gitの変更に影響されたテストのみ実行する`--changed`フラグを追加。\n`bun install`でtarball展開をストリーミング化してメモリ使用量を削減、Isolated linkerによりmonorepoのインストール速度を改善。\nSHA3-224/256/384/512のWebCryptoと`node:crypto`対応、`SubtleCrypto`でのX25519鍵導出に対応。\nWebSocketクライアントが`ws+unix://`/`wss+unix://`のUnixドメインソケット接続をサポート。\n`Bun.serve()`でRangeリクエストのレポート、zlib-ngを使いgzip圧縮のパフォーマンス改善など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
