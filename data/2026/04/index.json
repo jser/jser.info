@@ -441,6 +441,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-23T05:27:37.937Z",
+            "title": "rstackjs/connect-next: An actively maintained fork of Connect.",
+            "url": "https://github.com/rstackjs/connect-next",
+            "content": "Node.jsのHTTP middleware framework `connect` をメンテナンスするfork。\nTypeScriptで書き直され、ESモジュールとして名前付きexportで提供される。依存関係の更新や削除などが行われている",
+            "tags": [
+                "nodejs",
+                "library",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
