@@ -430,6 +430,17 @@
                 "Solid"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-23T02:52:02.673Z",
+            "title": "Announcing Rspack 2.0 - Rspack",
+            "url": "https://rspack.rs/blog/announcing-2-0",
+            "content": "Rspack 2.0リリース。\n`@rspack/core`などのコアパッケージをPure ESMパッケージへ移行、CommonJSビルドを削除。\n`@rspack/dev-server`の依存数の削減、トップレベルの`target`オプションがLoaderやMinimizer Pluginに自動継承されるように変更。\nビルドパフォーマンスの改善、CommonJSの`require`分割代入やプロパティアクセスのTree Shakingを改善。\n`/*#__NO_SIDE_EFFECTS__*/`アノテーション、Module Federationの共有依存のExportレベルでのTree Shakingに対応。\n`import.meta`/`import defer`などをそのまま出力できるように、`library.type`に`modern-module'`を追加。\nReact Server Componentsの実験的サポート、`#/`サブパスエイリアスをサポート、`swc-loader`の`detectSyntax`オプションの追加など",
+            "tags": [
+                "rspack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
