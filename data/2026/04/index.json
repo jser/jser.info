@@ -453,6 +453,19 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-26T15:17:41.395Z",
+            "title": "Trees, from Pierre",
+            "url": "https://trees.software/",
+            "content": "ファイルツリーをレンダリングするReactライブラリ。\ngit statusの表示、ドラッグ&ドロップでのファイル移動、検索フィルター、コンテキストメニューなどに対応している。\nVirtualizaにより数千ファイル規模でもレンダリングできる。\nキーボードナビゲーションやWCAG 2.1に準拠したアクセシビリティ、CSS変数によるカスタマイズができる",
+            "tags": [
+                "React",
+                "library",
+                "UI",
+                "accessibility"
+            ],
+            "relatedLinks": []
         }
     ]
 }
