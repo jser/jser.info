@@ -466,6 +466,18 @@
                 "accessibility"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-27T05:44:15.244Z",
+            "title": "Fresh 2.3: Zero JS by default, View Transitions, and Temporal support | Deno",
+            "url": "https://deno.com/blog/fresh-2.3",
+            "content": "Freshフレームワークのv2.3リリース。\n静的ページでデフォルトではJavaScriptを出力しないように変更、View Transitions APIのサポート、`app.ws()`によるWebSocketのサポート、Vite統合の改善。\nCSP nonceの自動生成、CIDR形式によるIPフィルタリング、Server to ClientのOpenTelemetryトレース伝播、Temporal APIをサポート。\n複数の静的ディレクトリのサポート、フォーム送信時のローディング表示、リバースプロキシ対応(`trustProxy`オプション)の追加など。",
+            "tags": [
+                "deno",
+                "vite",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
