@@ -478,6 +478,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-04-29T00:53:06.607Z",
+            "title": "Release pnpm 11 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v11.0.0",
+            "content": "pnpm v11.0.0リリース。\nPure ESMパッケージへの移行、Node.js 18-21のサポートを終了。\n`.npmrc`は認証/レジストリ設定のみに限定し、その他の設定は`pnpm-workspace.yaml`へ移行。\n`minimumReleaseAge`のデフォルトを1日に変更、`allowBuilds`に設定を統一、ストアのインデックスにSQLiteを使用するように変更。\nnpm CLIへの依存を排除して`pnpm publish`/`pnpm login`/`pnpm audit`をネイティブ実装に変更。\n`pnpm ci`/`pnpm sbom`/`pnpm clean`/`npm pack-app`コマンドの追加。",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
