@@ -1,0 +1,18 @@
+{
+    "list": [
+        {
+            "date": "2026-05-03T01:14:31.693Z",
+            "title": "Release v8.0.0 · avajs/ava",
+            "url": "https://github.com/avajs/ava/releases/tag/v8.0.0",
+            "content": "AVA v8.0.0リリース。\nNode.js v22.20/v24.12以降が必須となり、内部実装をESM化。\nCommonJSから利用する場合は`const {default: test} = require('ava')`への変更が必要。\nデフォルトのテストファイル拡張子が`js`/`mjs`に変更され、テストファイルは`import()`経由で読み込まれるように変更。\n実行時条件でテストをスキップ/実行する`test.skipIf()`/`test.runIf()`を追加。\n`*.tsbuildinfo`ファイルの変更をWatchモードで無視、TAPレポーターのエラー名復元処理の改善など。",
+            "tags": [
+                "JavaScript",
+                "testing",
+                "nodejs",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
