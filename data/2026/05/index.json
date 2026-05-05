@@ -24,6 +24,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-05T15:20:27.095Z",
+            "title": "Release 0.18 | StyleX",
+            "url": "https://stylexjs.com/blog/v0.18",
+            "content": "StyleX v0.18リリース。\nコンパイル時に値を設定できる`stylex.env` APIの追加、プロジェクトの雛形を作成する`create-stylex-app` CLIの追加。\n`stylex.attrs` APIの復活、Chrome DevTools拡張の提供。\nJSXで`sx={}`構文のサポート、`defineVars`の自己参照変数のサポート、`stylex.when`が属性セレクタもサポート、CSS Layersの制御の改善、ESLintプラグインの修正など。",
+            "tags": [
+                "React",
+                "css",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
