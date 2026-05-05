@@ -13,6 +13,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-05T15:15:13.787Z",
+            "title": "Node.js — Node.js 26.0.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v26.0.0",
+            "content": "Node.js 26.0.0(Current)リリース。\nTemporal APIがデフォルトで有効化。\nV8 14.6への更新により、Weak/Mapの`getOrInsert()`/`getOrInsertComputed()`やIteratorの`concat()`メソッドが追加。\nUndici 8.0.2へ更新。\n`http.Server.prototype.writeHeader()`の削除、レガシーストリームモジュール(`_stream_wrap`など)の削除。\n`--experimental-transform-types`フラグの削除、`module.register()`をruntime-deprecateなど",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
