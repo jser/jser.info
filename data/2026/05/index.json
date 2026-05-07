@@ -48,6 +48,23 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-07T14:21:19.572Z",
+            "title": "Chrome 148  |  Release notes  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/release-notes/148",
+            "content": "Chrome 148リリース。\nCSSの`container-name`単独でのコンテナクエリ、`@supports`の`at-rule()`サポート、`revert-rule`キーワードを追加。\n`text-decoration-skip-ink: all`、`<video>`/`<audio>`要素の`loading=\"lazy\"`属性をサポート。\nPrompt API、Web AuthenticationのImmediate UIモードのサポート。\nAndroid向けにSharedWorkerの再有効化、Web Serial APIのサポート、Resource Timingに`contentType`を追加。\nOrigin TrialとしてDeclarative CSS module scripts、HTML-in-canvas、Connection Allowlists、OpaqueRangeの追加など",
+            "tags": [
+                "Chrome",
+                "browser",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "New in Chrome 148  |  Blog  |  Chrome for Developers",
+                    "url": "https://developer.chrome.com/blog/new-in-chrome-148?hl=en"
+                }
+            ]
         }
     ]
 }
