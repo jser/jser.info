@@ -76,6 +76,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-08T07:55:53.164Z",
+            "title": "Release v30.4.0 · jestjs/jest",
+            "url": "https://github.com/jestjs/jest/releases/tag/v30.4.0",
+            "content": "Jest v30.4.0リリース。\nNode v24.9+でES Modulesに対する`require()`をサポート、Node v26のTemporal APIに対応するfake timersの追加。\n`jest.config.mts`のサポート、`--collect-tests`フラグの追加、`workerGracefulExitTimeout`オプションの追加など。\nプロジェクト単位の`verbose`/`silent`設定の追加、React 19の`pretty-format`サポートなど。\n`projects`設定でのカバレッジレポートの修正、`structuredClone`での`toStrictEqual`の修正、ESMとWebAssemblyのimport時のデッドロックの修正など。",
+            "tags": [
+                "jest",
+                "test",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
