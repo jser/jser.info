@@ -88,6 +88,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-09T03:30:10.690Z",
+            "title": "Electron 42 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-42-0",
+            "content": "Electron 42リリース。\nChromium 148/Node.js 24.15.0/V8 14.8へアップデート。\nmacOSの通知APIが`UNNotification` APIに変更されコード署名が必須に、`postinstall`でElectronバイナリをダウンロードする挙動を削除。`Session.clearStorageData()`から`quotas`オブジェクトを削除。\n`view.setBounds()`のアニメーション対応、`view.setBackgroundBlur()`によるネイティブ背景ぼかしのサポート。\nmacOSでの`Notification.getHistory()`、`globalShortcut.setSuspended()`、ヒーププロファイリングのサポートなど。",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
