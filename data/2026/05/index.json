@@ -126,6 +126,18 @@
                 "vite"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-09T14:46:09.137Z",
+            "title": "Chrome 149 beta  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/chrome-149-beta?hl=en",
+            "content": "Chrome 149 betaリリース。\nCSSの`shape-outside`プロパティで`path()`/`shape()`/`rect()`/`xywh()`関数のサポート。\nSVGの`pathLength`属性のCSSプロパティ化、`image-rendering: crisp-edges`のサポート。\n`Intl.Locale.prototype.variants`の追加、プログラムによるスクロールメソッドがPromiseを返すように変更。\nService Workerの`Request`に`isReloadNavigation`属性を追加、WebSocket接続中でもbfcacheを利用可能に。\nOrigin TrialとしてPermissions Policyの`focus-without-user-activation`、`rawgamepadinputchange`イベントを追加。",
+            "tags": [
+                "Chrome",
+                "browser",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
