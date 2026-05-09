@@ -99,6 +99,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-09T08:46:41.166Z",
+            "title": "Release v1.16.0 · axios/axios",
+            "url": "https://github.com/axios/axios/releases/tag/v1.16.0",
+            "content": "axios v1.16.0リリース。\nfetch adapterでの`maxBodyLength`/`maxContentLength`の制限を強制、proxyリクエスト時のユーザー指定`Host`ヘッダの保持などの破壊的変更を含む。\nまた、Basic認証でpercent-encodedされた認証情報のデコード、`parseProtocol`がコロン区切りを厳密に要求するよう変更されている。\nQUERY HTTPメソッドのサポート、`AxiosError.ECONNREFUSED`の追加、`encode`ヘルパーのexportなど。",
+            "tags": [
+                "HTTP",
+                "library",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
