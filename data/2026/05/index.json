@@ -112,6 +112,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-09T14:38:04.547Z",
+            "title": "Announcing Rolldown 1.0 | VoidZero",
+            "url": "https://voidzero.dev/posts/announcing-rolldown-1-0",
+            "content": "Rolldown 1.0リリース。\nRustで書かれたRollup互換プラグインとの互換性を持ったJavaScript/TypeScriptバンドラー。\nVite 8でデフォルトのバンドラーとして利用される。",
+            "tags": [
+                "Rust",
+                "rollup",
+                "bundler",
+                "ReleaseNote",
+                "vite"
+            ],
+            "relatedLinks": []
         }
     ]
 }
