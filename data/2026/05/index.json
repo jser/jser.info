@@ -138,6 +138,21 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-10T05:45:49.469Z",
+            "title": "sqlfu",
+            "url": "https://sqlfu.dev/",
+            "content": "SQLファイルを中心としたTypeScript用のSQLiteデータベース開発ツールキット。\n`definitions.sql`でスキーマを定義し`sqlfu draft`でマイグレーションを生成、SQLクエリから型安全なTypeScriptラッパーを生成する。\nCloudflare Durable Object/D1/Node.js/Bun/better-sqlite3/libsqlに対応している。\nESLintプラグイン、SQLフォーマッター、Admin UI、OpenTelemetryのトレーシングに対応している。",
+            "tags": [
+                "SQL",
+                "TypeScript",
+                "tool",
+                "database",
+                "library",
+                "cloudflare"
+            ],
+            "relatedLinks": []
         }
     ]
 }
