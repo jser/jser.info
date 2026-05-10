@@ -153,6 +153,20 @@
                 "cloudflare"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-10T14:49:10.451Z",
+            "title": "fabon-f/temporal-polyfill-lite: Lightweight Temporal polyfill",
+            "url": "https://github.com/fabon-f/temporal-polyfill-lite",
+            "content": "Temporal APIのpolyfillライブラリ。\n最新のTemporal仕様に対応し、ponyfillとしてもglobalを書き換えるshimとしても利用できる。\nTypeScriptで書かれていて、内部的にBigIntに依存しない実装となっている。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "polyfill",
+                "ECMAScript",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
