@@ -167,6 +167,21 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-11T11:00:22.537Z",
+            "title": "open-circle/formisch: The lightweight, schema-first, and fully type-safe form library for React, Solid, Vue, Svelte and more.",
+            "url": "https://github.com/open-circle/formisch",
+            "content": "React/Solid/Vue/Svelte/Preact/Qwikに対応したスキーマファーストのフォームライブラリ。\nValibotを利用したスキーマベースのバリデーションをサポートし、`createForm`や`<Form />`/`<Field />`などのAPIでフォームの状態を管理する。",
+            "tags": [
+                "library",
+                "React",
+                "Vue",
+                "Svelte",
+                "Solid",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
