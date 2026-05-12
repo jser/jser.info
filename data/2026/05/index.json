@@ -204,6 +204,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-12T10:29:35.835Z",
+            "title": "Postmortem: TanStack npm supply-chain compromise | TanStack Blog",
+            "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+            "content": "2026年5月11日に発生したTanStackのnpmパッケージに対するサプライチェーン攻撃のポストモーテム。\n`pull_request_target`ワークフローの設定不備、GitHub Actionsのキャッシュポイズニングを組み合わせた攻撃手法について。\nフォークからのPRで実行されたコードがpnpmのキャッシュを汚染し、後のリリースワークフローで悪意のあるバイナリが復元された。\n`/proc/`経由でランナープロセスのメモリからOIDCトークンを抽出してnpm publishに利用された。\n対策として`pull_request_target`を使うワークフローの監査、サードパーティActionのコミットハッシュ固定などを挙げている。",
+            "tags": [
+                "TanStack",
+                "npm",
+                "security",
+                "Actions",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
