@@ -193,6 +193,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-12T06:45:47.902Z",
+            "title": "Release pnpm 11.1 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v11.1.0",
+            "content": "pnpm v11.1.0リリース。\nレジストリ署名を検証する`pnpm audit signatures`コマンド、`namedRegistries`によるレジストリのプレフィックス指定(`gh:@acme/private`など)のサポート。\n`pnpm bugs`/`pnpm owner`コマンドの追加。\nSBOMの仕様バージョンを指定する`--sbom-spec-version`、ランタイムのインストールをスキップする`--no-runtime`フラグの追加など。",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
