@@ -182,6 +182,17 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-12T06:28:47.349Z",
+            "title": "Release v1.60.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.60.0",
+            "content": "playwright v1.60.0リリース。\n破壊的な変更として、`Locator.ariaRef()`、bindingsの`handle`オプション、`videosPath`/`videoSize`などのdeprecatedなAPIを削除。\n`tracing.startHar()`/`tracing.stopHar()`でHAR記録をサポート、外部からのドラッグ&ドロップをシミュレートする`locator.drop()`の追加。\n`expect(page).toMatchAriaSnapshot()`をPageに対して利用できるように、`boxes`オプションで境界ボックス情報を含められるように。\nテストを中断する`test.abort()`、`browser.on('context')`イベントとBrowserContextのライフサイクルイベントの追加など",
+            "tags": [
+                "playwright",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
