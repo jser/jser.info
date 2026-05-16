@@ -245,6 +245,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-16T08:14:35.697Z",
+            "title": "Bun v1.3.14 | Bun Blog",
+            "url": "https://bun.com/blog/bun-v1.3.14",
+            "content": "Bun v1.3.14リリース。\n画像のリサイズ/回転/フォーマット変換に対応した画像処理API `Bun.Image`を追加。\n`Bun.serve()`がHTTP/3 over QUICに対応、`fetch()`が実験的にHTTP/2とHTTP/3プロトコルをサポート。\nisolated linkerのglobalStoreオプションを追加、親プロセス終了時にBunプロセスツリーを終了する`--no-orphans`フラグの追加。\nNode.js v24互換の`process.execve()`、Windowsでの`Bun.Terminal`(ConPTY)、FreeBSD/Androidの公式ビルド提供など",
+            "tags": [
+                "Bun",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
