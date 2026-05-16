@@ -231,6 +231,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-16T06:43:10.021Z",
+            "title": "9 Times the Web Platform Was Influenced by Libraries | Jad Joubran",
+            "url": "https://jadjoubran.io/blog/web-platform-influenced-by-libraries",
+            "content": "WebプラットフォームのネイティブAPIがライブラリから受けた影響を9つの事例で紹介する記事。\njQuery/SizzleのCSSセレクタが`querySelector`に、Bootstrapの`data-toggle`が`popovertarget`/`command`属性に。\njQueryの`.addClass()`が`classList`へ、Lodash/Underscoreのメソッドが`String`/`Array`のメソッドに。\nさらに`structuredClone`、Promises/A+の標準化、ES Modulesの設計。\nMoment.jsの課題から`Temporal API`、jQueryの`.closest()`から`Element.closest()`の流れなどについて。",
+            "tags": [
+                "WebPlatformAPI",
+                "JavaScript",
+                "library",
+                "history",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
