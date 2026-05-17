@@ -256,6 +256,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-17T02:46:27.418Z",
+            "title": "tmikov/hermes-node: Node.js built-in module compatibility layer for the Hermes JS engine",
+            "url": "https://github.com/tmikov/hermes-node",
+            "content": "HermesをベースにしたNode.js互換のJavaScript/TypeScriptランタイム。\nTypeScriptファイルを直接実行でき、Chrome DevToolsプロトコルに対応したデバッガを内蔵している。\n`fs`/`http`/`net`/`path`/`stream`などのNode.jsコアモジュールは、Node.js内部のJS実装をそのまま利用する。",
+            "tags": [
+                "nodejs",
+                "JavaScript",
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
