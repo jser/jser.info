@@ -269,6 +269,17 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-18T22:40:56.755Z",
+            "title": "Release pnpm 11.1.3 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v11.1.3",
+            "content": "pnpm v11.1.3リリース。\nインストール時に`pnpm-lock.yaml`のエントリを`minimumReleaseAge`と`trustPolicy`で再検証するように変更と`minimumReleaseAgeStrict`モードの追加。\n`pnpm self-update`が`minimumReleaseAge`を尊重するように変更、`NODE_AUTH_TOKEN`未設定時のOIDC認証失敗などを修正。",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
