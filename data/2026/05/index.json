@@ -280,6 +280,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-19T05:22:58.057Z",
+            "title": "Node.js — Axios to WHATWG Fetch",
+            "url": "https://nodejs.org/en/blog/migrations/axios-to-fetch",
+            "content": "AxiosからNode.js Fetch APIへの移行ガイド。\nNode.js v18.0.0以降を前提に、`axios.get()`/`axios.post()`/`axios.put()`/`axios.delete()`やフォーム送信などのコード変換例を解説している。\nインターセプターやキャンセルトークンなどの一部機能は未対応である点についても解説されている",
+            "tags": [
+                "nodejs",
+                "Fetch",
+                "HTTP",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
