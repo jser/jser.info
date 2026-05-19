@@ -293,6 +293,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-19T05:28:27.530Z",
+            "title": "Introducing Secure Registry: install-time defense for the npm supply chain - StepSecurity",
+            "url": "https://www.stepsecurity.io/blog/introducing-secure-registry-install-time-defense-for-the-npm-supply-chain",
+            "content": "StepSecurityによるnpmサプライチェーン攻撃に対するインストール時の防御を行うProxy型のレジストリサービス。\nレジストリへのパッケージ取得要求をプロキシで評価し、新規公開からの一定期間ブロックするクールダウン期間、危険なパッケージのブロック、タイポスクワッティング対策などの機能を提供する。\nローカルの開発環境、CI/CDパイプラインなどでの利用を想定している。",
+            "tags": [
+                "npm",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
