@@ -305,6 +305,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-20T02:31:47.295Z",
+            "title": "nkzw-tech/fate: fate is a modern data client for React.",
+            "url": "https://github.com/nkzw-tech/fate",
+            "content": "Reactのデータクライアントライブラリ。\nRelay/GraphQLの設計から影響を受けて、コンポーネントごとに`view`でデータを宣言し、正規化キャッシュとデータマスキングを提供する。\nAsync React(Actions/Suspense/`use`)に対応し、ページネーション、Optimistic Updates、Server-Sent Eventsでの更新のサポート。\nバックエンドとしてGraphQL/tRPC/Prisma/Drizzleに対応している。",
+            "tags": [
+                "React",
+                "library",
+                "TypeScript",
+                "GraphQL"
+            ],
+            "relatedLinks": []
         }
     ]
 }
