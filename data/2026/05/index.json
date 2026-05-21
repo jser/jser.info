@@ -318,6 +318,17 @@
                 "GraphQL"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-21T06:16:20.153Z",
+            "title": "Node.js — Node.js 26.2.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v26.2.0",
+            "content": "Node.js 26.2.0リリース。\n`fs.Stats`と`BigIntStats`が`Temporal.Instant`をサポート、HTTPの`writeInformation`メソッドで任意の1xxステータスコードを送信できるよう。\n`stream.compose`がStableへ変更、Web Cryptography APIにML-DSA/ML-KEM/ChaCha20-Poly1305などのアルゴリズムを追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
