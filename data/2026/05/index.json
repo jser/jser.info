@@ -329,6 +329,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-22T00:50:41.729Z",
+            "title": "Release v11.15.0 · npm/cli",
+            "url": "https://github.com/npm/cli/releases/tag/v11.15.0",
+            "content": "npm CLI v11.15.0リリース。\nStaged Publishingのための`npm stage`コマンドを追加、`trust`コマンドにpermissionsサポートを追加。\nインストール時の挙動を制御する`allow-git`/`allow-file`/`allow-directory`/`allow-remote`の設定を追加。",
+            "tags": [
+                "npm",
+                "CLI",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Staged publishing for npm packages",
+                    "url": "https://docs.npmjs.com/staged-publishing"
+                }
+            ]
         }
     ]
 }
