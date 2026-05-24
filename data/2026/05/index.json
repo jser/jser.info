@@ -383,6 +383,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-24T23:53:28.079Z",
+            "title": "Deno 2.8 | Deno",
+            "url": "https://deno.com/blog/v2.8",
+            "content": "Deno 2.8リリース。\n`deno audit fix`/`deno bump-version`/`deno ci`/`deno pack`/`deno transpile`/`deno why`などの新しいサブコマンドを追加。\nNode.js互換性のテストスイート合格率が42%から76.4%に改善、Stage 3の`import defer`を実装。\nCLIで`npm:`プレフィックスが不要に、`catalog:`のサポート、`--os`/`--arch`フラグでクロスプラットフォームインストールに対応。\n`OffscreenCanvas`や`DOMPoint`などのWeb APIを追加、Chrome DevToolsでのネットワークデバッグやCPUプロファイリングをサポート。",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
