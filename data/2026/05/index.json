@@ -346,6 +346,19 @@
                     "url": "https://docs.npmjs.com/staged-publishing"
                 }
             ]
+        },
+        {
+            "date": "2026-05-24T01:50:42.060Z",
+            "title": "Release @apollo/client@4.2.0 · apollographql/apollo-client",
+            "url": "https://github.com/apollographql/apollo-client/releases/tag/%40apollo%2Fclient%404.2.0",
+            "content": "Apollo Client 4.2.0リリース。\nhookやメソッドのシグネチャに、`defaultOptions`を反映する\"modern\"スタイルを追加。\n`RefetchEventManager`クラスを追加し、windowのfocusやネットワーク再接続などのイベントに応じたクエリの自動再取得をサポート。\n`client.query`/`client.mutate`/`useMutation`/`preloadQuery`の戻り値の型に`defaultOptions`を反映するように改善。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote",
+                "GraphQL"
+            ],
+            "relatedLinks": []
         }
     ]
 }
