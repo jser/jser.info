@@ -372,6 +372,17 @@
                 "Mozilla"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-24T11:56:45.791Z",
+            "title": "pnpm 11.3 | pnpm",
+            "url": "https://pnpm.io/blog/releases/11.3",
+            "content": "pnpm 11.3リリース。\nStaged Publishing用の`pnpm stage`コマンド、信頼済みのlockfileの検証をスキップする`trustLockfile`設定の追加。\n`pnpm pkg`/`pnpm repo`/`pnpm set-script`をネイティブ実装に置き換え、`pnpm publish`に`--skip-manifest-obfuscation`フラグを追加など",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
