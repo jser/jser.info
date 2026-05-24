@@ -359,6 +359,19 @@
                 "GraphQL"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-24T11:31:10.416Z",
+            "title": "Announcing Web Serial Support in Firefox - Mozilla Hacks - the Web developer blog",
+            "url": "https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/",
+            "content": "Firefox 151でWeb Serial APIをサポート。\nWeb Serial APIはJavaScriptからシリアルデバイスを読み書きするAPIで、USBやBluetoothで接続したマイコン、3Dプリンター、スマートメーターなどに直接アクセスできる。\nユーザーが明示的に許可したポートのみアクセス可能で、サイトandポートごとに権限を管理できる。",
+            "tags": [
+                "Firefox",
+                "browser",
+                "WebAPI",
+                "Mozilla"
+            ],
+            "relatedLinks": []
         }
     ]
 }
