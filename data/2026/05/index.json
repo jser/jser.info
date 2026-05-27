@@ -394,6 +394,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-27T13:42:47.516Z",
+            "title": "microsoft/Webwright: A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks.",
+            "url": "https://github.com/microsoft/Webwright",
+            "content": "Microsoftによるブラウザエージェントフレームワーク。\nエージェントが個別のブラウザ操作を予測するのではなくPlaywrightを使ったPythonコードを生成して実行する。\n反復的なエージェントループとディレクトリをworkspaceとして扱って毎回使い捨てのセッションで進める方式になっている",
+            "tags": [
+                "AI",
+                "browser",
+                "automation",
+                "playwright",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
