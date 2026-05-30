@@ -425,6 +425,20 @@
                     "url": "https://2026.tskaigi.org/"
                 }
             ]
+        },
+        {
+            "date": "2026-05-30T02:21:33.607Z",
+            "title": "pionxzh/wakaru: 🔪📦 Javascript decompiler for modern frontend",
+            "url": "https://github.com/pionxzh/wakaru",
+            "content": "minifyやbundleされたJavaScriptを読みやすいコードへと復元するデコンパイラ。\nwebpack/esbuild/Bun/Browserifyなどのbundleをモジュール単位に分割するunpackerを提供する。\nTerser/Babel/SWCなどでトランスパイル/圧縮されたコードを復元するunminifyや、ソースマップをサポートしている。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "webpack",
+                "bundler",
+                "esbuild"
+            ],
+            "relatedLinks": []
         }
     ]
 }
