@@ -439,6 +439,17 @@
                 "esbuild"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-05-30T22:53:33.242Z",
+            "title": "Release pnpm 11.5 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v11.5.0",
+            "content": "pnpm 11.5リリース。\n`nodeLinker: hoisted`向けにhoistの範囲を制限する`hoistingLimits`設定を追加。\n対話的なプロンプトの改善、Staged publishingの対応改善。\nエイリアスインストール時のpeer解決のハング、`pnpm dist-tag`での2FA対応を修正。\n`minimumReleaseAgeExclude`の扱い、リモートのHTTPS tarball依存の`integrity`フィールドの保持などを修正。",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
