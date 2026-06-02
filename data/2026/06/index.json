@@ -1,0 +1,15 @@
+{
+    "list": [
+        {
+            "date": "2026-06-02T01:19:11.871Z",
+            "title": "Node.js — Node.js 26.3.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v26.3.0",
+            "content": "Node.js v26.3.0 (Current)リリース。\n`Buffer.poolSize`のデフォルトを64 KiBに変更。\nHTTPヘッダの値の検証をカスタマイズする`httpValidation`オプション、パーミッションを破棄する`permission.drop`を追加。\nStaged Publishingをサポートしたnpm 11.16.0へアップデートなど",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
