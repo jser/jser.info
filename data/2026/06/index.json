@@ -10,6 +10,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-03T03:14:46.126Z",
+            "title": "Oxlintのカスタムルールの現況 - Speaker Deck",
+            "url": "https://speakerdeck.com/syumai/oxlint-custom-rule",
+            "content": "Oxlintのカスタムルールついてのスライド。\nRust製のLinterであるOxlintで、ESLint互換のカスタムルールを追加できるJS Plugin（アルファ版）の機能やパフォーマンスについて紹介している。\n既存のESLintプラグインの動作やtsgolint、corsa-bindについてなど",
+            "tags": [
+                "ESLint",
+                "Rust",
+                "slide",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
