@@ -76,6 +76,21 @@
                     "url": "https://voidzero.dev/posts/voidzero-cloudflare"
                 }
             ]
+        },
+        {
+            "date": "2026-06-07T13:30:05.705Z",
+            "title": "Declarative partial updates  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/declarative-partial-updates",
+            "content": "HTMLを宣言的に部分更新するためのAPIとして提案中の`<template for>`について。\n`<template>`要素と`<?marker>`などの処理命令プレースホルダーを使い、ドキュメント内の順序に依存せずコンテンツを配信するOut-of-order streamingについて。\n合わせて利用する`setHTML()`/`replaceWithHTML()`/`streamHTML()`などのJavaScript APIについても解説している。\nChrome 148以降のフラグで利用でき、polyfillも実装されている。",
+            "tags": [
+                "Chrome",
+                "HTML",
+                "WebAPI",
+                "DOM",
+                "stream",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
