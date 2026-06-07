@@ -46,6 +46,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-07T13:03:23.181Z",
+            "title": "Chrome 150 beta  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/chrome-150-beta?hl=en",
+            "content": "Chrome 150 betaリリース。\nCSSの`text-fit`プロパティ、`background-clip: border-area`によるグラデーションボーダー、`polygon()`の角丸サポート、`focusgroup`属性のサポート。\nIndexedDBの実装がLevelDBからSQLiteへと変更、`data:` URLのWorkerに一意のopaque originを割り当てるよう変更。\n`SpeechRecognition`に`quality`オプションを追加など",
+            "tags": [
+                "Chrome",
+                "browser",
+                "ReleaseNote",
+                "css"
+            ],
+            "relatedLinks": []
         }
     ]
 }
