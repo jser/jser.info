@@ -91,6 +91,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-07T13:35:00.169Z",
+            "title": "On Rendering Diffs :: Pierre Computer Company",
+            "url": "https://pierre.computer/writing/on-rendering-diffs",
+            "content": "Pierreが開発したdiffレンダリングライブラリ`@pierre/diffs`の実装解説。\n巨大なコード差分をブラウザで効率的に描画するための、仮想化やメモリ最適化の手法について書かれている。\nsticky positioningを反転させてスクロール中の空白表示を防ぐ手法、行範囲レンダリングでのバイナリサーチ、DOM要素を再利用することでGCを避ける作りについて。\nまた、Shikiによる構文ハイライトのWorkerスレッド化とLRUキャッシュについても扱っている。",
+            "tags": [
+                "JavaScript",
+                "performance",
+                "diff",
+                "library",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
