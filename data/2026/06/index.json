@@ -105,6 +105,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-09T22:50:37.056Z",
+            "title": "Upcoming breaking changes for npm v12 - GitHub Changelog",
+            "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+            "content": "npm v12で予定されている破壊的変更の解説。2026年7月リリース予定のnpm v12では、サプライチェーン攻撃対策として、ライフサイクルスクリプトの実行が変更される。\npreinstall/install/postinstallなどのスクリプトがデフォルトで実行されなくなり、`npm approve-scripts`で承認したパッケージのみ実行される。\n`--allow-git`/`--allow-remote`のデフォルトが`none`となり、Git依存やリモートURLからの依存解決が明示的な許可なしでは行われなくなる。",
+            "tags": [
+                "npm",
+                "security",
+                "CLI",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
