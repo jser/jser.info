@@ -135,10 +135,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2026-06-11T23:00:35.755Z",
+            "date": "2026-06-11T23:01:20.233Z",
             "title": "Why pnpm no longer expands environment variables in a repository's .npmrc | pnpm",
             "url": "https://pnpm.io/blog/2026/06/11/env-variables-in-repository-npmrc",
-            "content": "悪意あるリポジトリの`.npmrc`を使って環境変数が盗まれる問題への対策として、pnpmがリポジトリ管理の`.npmrc`で環境変数を展開しなくなった経緯の解説。\nv10.34.2/v11.5.3以降、リポジトリ内の`.npmrc`や`pnpm-workspace.yaml`の認証情報やレジストリURLに含まれる`${...}`は展開されなくなった。\nユーザーレベルの`~/.npmrc`や `PNPM_CONFIG_NPMRC_AUTH_FILE` で指定されている`.npmrc`では引き続き展開される。",
+            "content": "悪意あるリポジトリで`.npmrc`を使って環境変数が盗まれる問題への対策として、pnpmがリポジトリ管理の`.npmrc`で環境変数を展開しなくなった経緯の解説。\nv10.34.2/v11.5.3以降、リポジトリ内の`.npmrc`や`pnpm-workspace.yaml`の認証情報やレジストリURLに含まれる`${...}`は展開されなくなった。\nユーザーレベルの`~/.npmrc`や `PNPM_CONFIG_NPMRC_AUTH_FILE` で指定されている`.npmrc`では引き続き展開される。",
             "tags": [
                 "pnpm",
                 "security",
