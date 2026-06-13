@@ -151,6 +151,17 @@
                     "url": "https://github.com/pnpm/pnpm/security/advisories/GHSA-3qhv-2rgh-x77r"
                 }
             ]
+        },
+        {
+            "date": "2026-06-13T01:20:39.884Z",
+            "title": "Bytecode Alliance — WASI 0.3 Launched",
+            "url": "https://bytecodealliance.org/articles/WASI-0.3",
+            "content": "WASI 0.3がリリース。\nWebAssembly Component Modelのネイティブ機能として非同期処理が組み込まれ、`stream<T>`/`future<T>`/`async`がCanonical ABIに追加された。\nWASI 0.2では各コンポーネントが独自のイベントループを持つ必要があったが、ホストが共有イベントループを管理する設計へと変更された。\n従来の`start-foo`/`finish-foo`/`subscribe`パターンが`async func`に置き換わり、ストリームのエラーハンドリングも独立した`future`で扱えるようになった。",
+            "tags": [
+                "WebAssembly",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
