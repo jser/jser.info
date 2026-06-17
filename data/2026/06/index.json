@@ -162,6 +162,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-17T02:00:40.463Z",
+            "title": "Biome v2.5—500 Lint Rules, Plugin Code Fix, and Cross-File Linting | Biome",
+            "url": "https://biomejs.dev/blog/biome-v2-5/",
+            "content": "Biome v2.5リリース。\nCSSのクラスをファイル横断で解析するLintルール`noUndeclaredClasses`/`noUnusedClasses`を追加。\nGritQLプラグインがファイルパスごとの適用と`=>`によるコードフィックスをサポート。\nFormatterに`delimiterSpacing`オプションの追加、`lint`/`format`/`check`での`--watch`サポート。\nLanguage Serverのgo-to-definition対応、AI Agent向けの`concise`レポーターの追加など。",
+            "tags": [
+                "biome",
+                "ReleaseNote",
+                "ESLint",
+                "css"
+            ],
+            "relatedLinks": []
         }
     ]
 }
