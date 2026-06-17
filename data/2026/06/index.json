@@ -194,6 +194,17 @@
                     "url": "https://babeljs.io/docs/v8-migration-api/"
                 }
             ]
+        },
+        {
+            "date": "2026-06-17T10:06:43.656Z",
+            "title": "pnpm 11.7 | pnpm",
+            "url": "https://pnpm.io/blog/releases/11.7",
+            "content": "pnpm 11.7リリース。\n読み取り専用ファイルシステム上のストアに対応する`frozenStore`設定、同一レジストリURL配下でのスコープ別認証トークンの指定に対応。\n依存関係の解決をRust実装のPacquetを使うようになるなど",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
