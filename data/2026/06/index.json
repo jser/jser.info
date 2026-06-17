@@ -205,6 +205,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-17T13:39:21.268Z",
+            "title": "Introducing eve - Vercel",
+            "url": "https://vercel.com/blog/introducing-eve",
+            "content": "VercelによるAIエージェントフレームワークのEveについて。\n`instructions.md`/`agent.ts`/`tools/`などのディレクトリ構成でエージェントを定義するフレームワーク。\nDurable execution、Sandbox、Human-in-the-loop approvals、Subagents、Evalsなどを扱う",
+            "tags": [
+                "AI",
+                "TypeScript",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "vercel/eve: The Framework for Building Agents",
+                    "url": "https://github.com/vercel/eve"
+                }
+            ]
         }
     ]
 }
