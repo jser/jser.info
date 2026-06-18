@@ -266,6 +266,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-18T14:49:25.854Z",
+            "title": "React Router v8 | Remix",
+            "url": "https://remix.run/blog/react-router-v8",
+            "content": "React Router v8リリース。\nNode.js 22.22.0+/React 19.2.7+/Vite 7+が最小サポートバージョンとなり、ESMのみの配布へ変更。\n`future.v8_middleware`/`future.v8_viteEnvironmentApi`などのFuture Flagをデフォルト化。\n`react-router-dom`、meta APIの`data`引数、`@react-router/dev/vite/cloudflare`を削除。\nReact Router v6とRemix v2はEOLとなり、今後はReact Router v7にセキュリティ更新を提供する。",
+            "tags": [
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
