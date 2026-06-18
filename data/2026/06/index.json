@@ -254,6 +254,18 @@
                     "url": "https://nubjs.com/"
                 }
             ]
+        },
+        {
+            "date": "2026-06-18T14:33:11.789Z",
+            "title": "Release v1.61.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.61.0",
+            "content": "playwright v1.61.0リリース。\n`browserContext.credentials`でWebAuthnのpasskeyを扱えるように。\n`page.localStorage`/`page.sessionStorage`でWeb Storageを読み書きするAPIを追加。\n`apiResponse.securityDetails()`/`apiResponse.serverAddr()`、`artifactsDir`オプション、`-G`オプションを追加。",
+            "tags": [
+                "playwright",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
