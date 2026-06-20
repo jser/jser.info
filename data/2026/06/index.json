@@ -277,6 +277,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-20T22:03:58.504Z",
+            "title": "Rust Roadmap · Issue #11633 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/issues/11633",
+            "content": "pnpmのRust実装であるPacquetのロードマップIssue。\nresolveを必要としない`pacquet install --frozen-lockfile`から対応をしてから、resolveの対応を進める。\nまた`pnpm`とは`install-backend=pacquet`の設定で統合していく予定。",
+            "tags": [
+                "pnpm",
+                "Rust",
+                "issue"
+            ],
+            "relatedLinks": []
         }
     ]
 }
