@@ -289,6 +289,20 @@
                 "issue"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-21T13:57:00.107Z",
+            "title": "News from WWDC26: WebKit in Safari 27 beta | WebKit",
+            "url": "https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/",
+            "content": "Safari 27 betaリリース。\nCSSの`appearance: base-select`による`<select>`のカスタマイズ、Scroll Anchoring、`position-anchor: normal`などを追加。\nJavaScriptはTop-Level Awaitの問題を修正、WebAssembly JSPIをサポート。\nWeb APIはService Worker Static Routing API、`ReadableStream.from()`、Streamの`postMessage()`転送をサポートなど。",
+            "tags": [
+                "safari",
+                "browser",
+                "ReleaseNote",
+                "css",
+                "JavaScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
