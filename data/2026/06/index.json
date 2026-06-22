@@ -303,6 +303,18 @@
                 "JavaScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-22T01:46:24.145Z",
+            "title": "Announcing TypeScript 7.0 RC - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-rc/",
+            "content": "TypeScript 7.0 RCリリース。\nGoへ移植されたコンパイラを`typescript@rc`で公開、`@typescript/typescript6`との併用に対応。\n`--checkers`/`--builders`/`--singleThreaded`、`--watch`の改善を追加。\n`strict`/`module`/`target`などのデフォルト値の変更、`target: es5`/`baseUrl`などの削除などを含む",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote",
+                "go"
+            ],
+            "relatedLinks": []
         }
     ]
 }
