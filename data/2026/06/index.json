@@ -315,6 +315,17 @@
                 "go"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-24T13:30:12.728Z",
+            "title": "Node.js — Node.js 24.18.0 (LTS)",
+            "url": "https://nodejs.org/en/blog/release/v24.18.0",
+            "content": "Node.js v24.18.0 (LTS)リリース。\n`Buffer.poolSize`のデフォルト値を64 KiBに変更、Web CryptoにTurboSHAKE/KangarooTwelveを追加。\n`http.writeInformation()`の追加、`crypto.diffieHellman()`で鍵データを受け取れるように変更など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
