@@ -326,6 +326,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-24T23:01:34.313Z",
+            "title": "pnpm 11.9 | pnpm",
+            "url": "https://pnpm.io/blog/releases/11.9",
+            "content": "pnpm 11.9リリース。\nregistryがchecksumを提供しないtarballの`integrity`を計算してlockfileに記録するように変更。\n`pnpm sbom --exclude-peers`の追加、`pnpm audit --fix`の`minimumReleaseAgeExclude`の出力形式を修正など",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
