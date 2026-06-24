@@ -337,6 +337,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-24T23:38:13.544Z",
+            "title": "Introduction | pnpm",
+            "url": "https://pnpm.io/pnpr/",
+            "content": "npm registry serverであるpnprについて。\nRustで書かれており、npm registry protocolに対応するためpnpm/npm/yarnから利用できる。\nlockfileのresolveをサーバ側で行いラウンドトリップを減らしている。\nPolyForm Shield Licenseで公開されている。",
+            "tags": [
+                "pnpm",
+                "Rust",
+                "npm",
+                "server",
+                "document"
+            ],
+            "relatedLinks": []
         }
     ]
 }
