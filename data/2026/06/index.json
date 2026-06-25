@@ -351,6 +351,19 @@
                 "document"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-25T00:23:32.056Z",
+            "title": "facebook/astryx: An open source design system that's fully customizable and agent ready",
+            "url": "https://github.com/facebook/astryx",
+            "content": "ReactとStyleXで実装されたMetaのデザインシステム。\n`@astryxdesign/core`でコンポーネントとテーマを提供し、`@astryxdesign/cli`でテンプレート/scaffolding/テーマ/codemodなどを扱える。",
+            "tags": [
+                "React",
+                "Design",
+                "Tools",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
