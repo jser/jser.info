@@ -364,6 +364,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-25T00:37:07.827Z",
+            "title": "Flow has been ported to Rust | Flow",
+            "url": "https://medium.com/flow-type/flows-ocaml-to-rust-port-78b95bcf49e9",
+            "content": "FlowをOCamlからRustへ移植した話。\nAIを使った行ごとの移植、OCamlとRustの違い、移植後のビルドやテストの扱いについて書かれている。コードフリーズなしでの移植を行なっている。",
+            "tags": [
+                "JavaScript",
+                "flowtype",
+                "Rust",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
