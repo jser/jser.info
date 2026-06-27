@@ -377,6 +377,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-27T06:48:00.683Z",
+            "title": "Announcing Rspack 2.1 - Rspack",
+            "url": "https://rspack.rs/blog/announcing-2-1",
+            "content": "Rspack 2.1リリース。\n`builtin:swc-loader`でのReact Compilerサポート、`import.meta.glob`のサポートを追加。\n`CircularCheckRspackPlugin`の追加、TypeScript 7を使った型チェックのサポート。\n`module.parser.javascript.createRequire`、`css/global`、`experiments.sourceImport`を追加。\n`cache.maxAge`/`cache.maxVersions`による永続キャッシュの自動削除を追加。\n`experiments.pureFunctions`をproduction modeでデフォルト有効化、依存関係のTree Shakingを改善など",
+            "tags": [
+                "rspack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
