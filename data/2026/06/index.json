@@ -399,6 +399,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-27T21:56:03.370Z",
+            "title": "Prettier 3.9: Major parser upgrades and Formatting improvements · Prettier",
+            "url": "https://prettier.io/blog/2026/06/27/3.9.0",
+            "content": "Prettier 3.9リリース。\nMarkdownパーサを`micromark` v4、YAMLパーサを`yaml` v2へ更新。\nGraphQL.js v17の構文とRustベースのFlowパーサをサポート。\n`import ... assert`構文のサポートを削除、`--no-semi`でのコメント処理を改善など",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "ReleaseNote",
+                "TypeScript",
+                "css"
+            ],
+            "relatedLinks": []
         }
     ]
 }
