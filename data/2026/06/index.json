@@ -413,6 +413,17 @@
                 "css"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-27T22:00:35.116Z",
+            "title": "Vite 8.1 is out! | Vite",
+            "url": "https://vite.dev/blog/announcing-vite8-1",
+            "content": "Vite 8.1リリース。\n実験的な機能として`--experimental-bundle`を追加し、開発時にもバンドルして配信に対応、Chunk Import Mapの追加。\nWasm ESM integration、`import.meta.glob`の`caseSensitive`オプションを追加。\n`html.additionalAssetSources`でHTML内の独自要素や属性からのアセット検出を設定できるように。",
+            "tags": [
+                "vite",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
