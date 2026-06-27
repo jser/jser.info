@@ -388,6 +388,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-27T09:42:06.687Z",
+            "title": "Deno 2.9 | Deno",
+            "url": "https://deno.com/blog/v2.9",
+            "content": "Deno v2.9リリース。\n実験的な機能として`deno desktop`の追加、`deno install`のnpm/pnpm/yarn/Bun lockfileの読み込み対応。\n`deno list`/`deno link`/`deno unlink`の追加。\n`min-release-age=24h`をデフォルトで有効化、`trust-policy=no-downgrade`の追加。\n`deno test`に`--changed`/`--retry`/`--shard`フラグを追加。\n`deno compile`に`--include-as-is`/`--bundle`/`--watch`を追加。\n`deno fmt`に`sortNamedImports`/`json.trailingCommas`/`.editorconfig`対応を追加。",
+            "tags": [
+                "deno",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
