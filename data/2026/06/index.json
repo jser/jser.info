@@ -424,6 +424,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-28T05:37:21.450Z",
+            "title": "Release 1.0.0 🎉 · hunvreus/basecoat",
+            "url": "https://github.com/hunvreus/basecoat/releases/tag/1.0.0",
+            "content": "Basecoat 1.0.0リリース。\nTailwind CSSとHTML/CSS/JavaScriptで実装したshadcn/ui互換のコンポーネントライブラリ。\nReactやRadixなどの実行時依存なしで、CDN/npm/テンプレートから利用できる。",
+            "tags": [
+                "JavaScript",
+                "css",
+                "HTML",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
