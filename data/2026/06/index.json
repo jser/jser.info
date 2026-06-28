@@ -438,6 +438,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-06-28T06:27:51.913Z",
+            "title": "Next.js 16.3: Instant Navigations | Next.js",
+            "url": "https://nextjs.org/blog/next-16-3-instant-navigations",
+            "content": "Next.js 16.3 Previewリリース。\nNext.js 16.3で試験的な機能として追加されるInstant Navigationsについて。\n`cacheComponents`と`partialPrefetching`オプションによって、Instant routeごとに一度キャッシュが作られ、ページナビゲーションが即時的に表示できる仕組みについて",
+            "tags": [
+                "Next.js",
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
