@@ -1,0 +1,17 @@
+{
+    "list": [
+        {
+            "date": "2026-07-04T11:46:01.039Z",
+            "title": "jayu/rev-dep: Dependency analysis and optimization toolkit for modern JavaScript and TypeScript codebases. Enforce dependency graph hygiene and remove unused code with a very fast CLI.",
+            "url": "https://github.com/jayu/rev-dep",
+            "content": "JavaScript/TypeScript向けの依存関係解析CLIツール。\n`rev-dep config run`でモジュールの依存関係の循環参照やデッドコードなどのチェックができる。",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "CLI",
+                "Tools"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
