@@ -38,6 +38,19 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-05T01:41:17.538Z",
+            "title": "Announcing Vite+ Beta | VoidZero",
+            "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
+            "content": "Vite+ Betaリリース。\n`vp run`のキャッシュ改善、`vp migrate`の対応範囲の改善、proxyとカスタムCAに対応したHTTP処理の追加など。",
+            "tags": [
+                "vite",
+                "CLI",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
