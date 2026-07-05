@@ -24,6 +24,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-05T01:37:19.641Z",
+            "title": "Introducing the Safari MCP server for web developers | WebKit",
+            "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+            "content": "Safari Technology Preview 247で追加されたSafari MCP serverについて。\nAI AgentからSafariのタブを操作し、DOM/ネットワーク/コンソール/スクリーンショットを参照できる。\n`safaridriver --mcp`で起動し、`navigate_to_url`/`evaluate_javascript`/`screenshot`などのツールを提供する。",
+            "tags": [
+                "safari",
+                "browser",
+                "MCP",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
