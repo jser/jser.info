@@ -51,6 +51,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-06T23:38:10.897Z",
+            "title": "samchon/ttsc: A `typescript-go` toolchain for compiler-powered plugins and type-safe execution + 500x faster lint integrated into compiler",
+            "url": "https://github.com/samchon/ttsc",
+            "content": "`typescript-go`を使ったTypeScript向けのツールチェイン。\nビルド、型チェック付きの実行、Lint、Formatなどのツールを提供している。\nVite/Rollup/esbuild/webpack/Rspack/Next.js向けのプラグインも提供している。",
+            "tags": [
+                "TypeScript",
+                "Tools",
+                "nodejs",
+                "lint"
+            ],
+            "relatedLinks": []
         }
     ]
 }
