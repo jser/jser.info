@@ -75,6 +75,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-07T14:00:17.071Z",
+            "title": "Chrome 150  |  Release notes  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/release-notes/150",
+            "content": "Chrome 150リリース。\nCSSの`AccentColor`/`AccentColorText`、`polygon()`の丸め指定、`text-fit`をサポート。\nCSS `url()`の`cross-origin()`/`integrity()`/`referrer-policy()`修飾子をサポート。\nDOMでは`focusgroup`属性、`popover=hint`の挙動を変更。\n`Element`/`Window`のスクロールメソッドがPromiseを返す変更など。\nWebGPUの`setImmediateData()`、PWAのorigin migration。\nOrigin Trialとして`performance.getSpeculations()`の追加",
+            "tags": [
+                "Chrome",
+                "browser",
+                "css",
+                "DOM",
+                "WebGPU",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "New in Chrome 150  |  Blog  |  Chrome for Developers",
+                    "url": "https://developer.chrome.com/blog/new-in-chrome-150?hl=en"
+                }
+            ]
         }
     ]
 }
