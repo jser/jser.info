@@ -64,6 +64,17 @@
                 "lint"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-07T12:15:48.593Z",
+            "title": "Release pnpm 11.10 · pnpm/pnpm",
+            "url": "https://github.com/pnpm/pnpm/releases/tag/v11.10.0",
+            "content": "pnpm v11.10.0リリース。\n`pnpm issues`/`pnpm prefix`コマンドの追加、`pnpm_config__auth`環境変数での`_auth`設定をサポート。\n`pnpm self-update`のpnpm v12対応。\n`pnpm up -r <pkg>`が関係しないパッケージを更新する問題、`pnpm pack-app`のパス検証の修正など。",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
