@@ -95,6 +95,17 @@
                     "url": "https://developer.chrome.com/blog/new-in-chrome-150?hl=en"
                 }
             ]
+        },
+        {
+            "date": "2026-07-07T14:22:13.635Z",
+            "title": "Electron 43 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-43-0",
+            "content": "Electron 43リリース。\nChromium 150.0.7871.46、Node.js v24.17.0、V8 15.0へアップデート。\nファイルダウンロードの既定の保存先がDownloadsフォルダへ変更。\n`WebContents.clone()`、macOSの`Notification.remove()`/`Notification.removeAll()`を追加。\n`globalShortcut.setSuspended()`の追加、startup snapshotやV8 bytecode cacheによる起動パフォーマンスの改善など",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
