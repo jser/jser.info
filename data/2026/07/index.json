@@ -106,6 +106,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-09T00:50:17.616Z",
+            "title": "Announcing TypeScript 7.0 - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+            "content": "TypeScript 7.0リリース。\nGoで書き直したネイティブ版の`tsc`をnpmの`typescript`パッケージとして公開。\nTypeScript 6.0で非推奨となった`target: es5`/`baseUrl`などはエラーとなる。\n`--checkers`/`--builders`/`--singleThreaded`による並列処理の制御を追加。\n`--watch`をParcelのfile watcherを元に作り直し、LSPの対応などが含まれる。\n一方でまだプログラム向けのAPIは公開していないため、VueなどのTypeScript APIを使うツールはまだ動作しない場合がある。",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
