@@ -117,6 +117,21 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-11T15:00:00.000Z",
+            "title": "aqua5230/usage: Quota visibility for Claude Code and Codex, built into the macOS menu bar.",
+            "url": "https://github.com/aqua5230/usage",
+            "content": "Claude CodeとCodexの利用枠(5時間/週)をmacOSのメニューバーに常時表示するオープンソース(AGPL-3.0)ツール。\nAnthropic/OpenAIのAPIは一切呼ばず、statusLineフックやセッションログなど手元のファイルだけから数値を読むため、監視自体はトークンを消費しない。\n現在の消費ペースから上限到達時刻を予測する機能や、オフラインで生成できるHTMLレポート(日次/週次のトークン推移、プロジェクト別ランキング、コスト概算)も搭載。\n`brew install --cask aqua5230/usage/usage` で導入できる。",
+            "tags": [
+                "macOS",
+                "ClaudeCode",
+                "Codex",
+                "CLI",
+                "Tools",
+                "OpenSource"
+            ],
+            "relatedLinks": []
         }
     ]
 }
