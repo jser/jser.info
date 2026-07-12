@@ -148,6 +148,18 @@
                     "url": "https://marijnhaverbeke.nl/blog/wordgard-0.1.html"
                 }
             ]
+        },
+        {
+            "date": "2026-07-12T12:39:01.625Z",
+            "title": "Your Worker can now have its own cache in front of it",
+            "url": "https://blog.cloudflare.com/workers-cache/",
+            "content": "Cloudflare Workers Cacheについて。\nWorkerの前段にキャッシュを置き、`wrangler.jsonc`の`cache.enabled`で有効化できる。\n`Cache-Control`/`Vary`に対応し、`ctx.cache.purge()`でタグやパスによる削除ができる。",
+            "tags": [
+                "cloudflare",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
