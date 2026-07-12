@@ -195,6 +195,17 @@
                     "url": "https://github.com/npm/cli/releases/tag/v12.0.0"
                 }
             ]
+        },
+        {
+            "date": "2026-07-12T13:41:53.350Z",
+            "title": "Node.js — Node.js 26.5.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v26.5.0",
+            "content": "Node.js v26.5.0リリース。\n`Blob.prototype.textStream()`、`--experimental-import-text`、`ReadableStreamTee`を追加。\n`perf_hooks.monitorEventLoopDelay`に`samplePerIteration`オプションを追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
