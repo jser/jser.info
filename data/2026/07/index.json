@@ -132,24 +132,6 @@
             "relatedLinks": []
         },
         {
-            "date": "2026-07-12T10:36:56.112Z",
-            "title": "Wordgard",
-            "url": "https://wordgard.net/",
-            "content": "リッチテキストエディタ向けのJavaScriptライブラリ。\nProseMirror／CodeMirrorの作者が開発しており、スキーマベースの文書構造と、CodeMirrorライクな拡張機構を持つ。",
-            "tags": [
-                "JavaScript",
-                "TypeScript",
-                "editor",
-                "library"
-            ],
-            "relatedLinks": [
-                {
-                    "title": "Wordgard Release 0.1",
-                    "url": "https://marijnhaverbeke.nl/blog/wordgard-0.1.html"
-                }
-            ]
-        },
-        {
             "date": "2026-07-12T12:39:01.625Z",
             "title": "Your Worker can now have its own cache in front of it",
             "url": "https://blog.cloudflare.com/workers-cache/",
@@ -206,6 +188,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-12T13:49:35.216Z",
+            "title": "Wordgard",
+            "url": "https://wordgard.net/",
+            "content": "リッチテキストエディタ向けのJavaScriptライブラリ。\nProseMirror/CodeMirrorの作者が開発しており、スキーマベースの文書構造と、CodeMirrorライクな拡張機構を持つ。",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "editor",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Wordgard Release 0.1",
+                    "url": "https://marijnhaverbeke.nl/blog/wordgard-0.1.html"
+                }
+            ]
         }
     ]
 }
