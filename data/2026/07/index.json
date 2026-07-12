@@ -180,10 +180,10 @@
             ]
         },
         {
-            "date": "2026-07-12T13:10:55.383Z",
+            "date": "2026-07-12T13:11:59.152Z",
             "title": "npm install-time security and GAT bypass2fa deprecation - GitHub Changelog",
             "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation/",
-            "content": "npm v12リリース。\n`allowScripts`がデフォルトで無効化され、`--allow-git`/`--allow-remote`はデフォルトで`none`になる。\n2FAを回避するGranular Access Tokenは、2026年8月からアカウントやパッケージ管理操作で2FAを省略できなくなる。\n2027年1月ごろから直接publishもできなくなり、Trusted PublishingやStaged Publishingのどちらかでないと公開できなく予定。",
+            "content": "npm v12リリース。\n`allowScripts`がデフォルトで無効化され、`--allow-git`/`--allow-remote`はデフォルトで`none`になる。\n2FAを回避するGranular Access Tokenは、2026年8月からアカウントやパッケージ管理操作で2FAを省略できなくなる。\n2027年1月ごろから直接publishもできなくなり、Trusted PublishingやStaged Publishingのどちらかでないと公開できなくする予定",
             "tags": [
                 "npm",
                 "security",
