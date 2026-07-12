@@ -160,6 +160,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-12T12:46:22.050Z",
+            "title": "Better Auth is joining Vercel",
+            "url": "https://better-auth.com/blog/better-auth-joins-vercel",
+            "content": "VercelがBetter Authを買収した。\nBetter AuthはTypeScript製の認証ライブラリで、MITライセンスのまま開発体制を維持する予定。\nAgent Auth Protocolの開発を継続し、Vercel ConnectやEveへエージェントのID管理を組み込む予定。",
+            "tags": [
+                "TypeScript",
+                "vercel",
+                "news",
+                "nodejs"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Vercel acquires Better Auth to accelerate open source auth - Vercel",
+                    "url": "https://vercel.com/blog/vercel-acquires-better-auth"
+                }
+            ]
         }
     ]
 }
