@@ -220,6 +220,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-15T14:46:49.926Z",
+            "title": "unjs/httpxy: 🔀 A Full-Featured HTTP and WebSocket Proxy for Node.js",
+            "url": "https://github.com/unjs/httpxy",
+            "content": "Node.js向けのHTTP/WebSocketプロキシライブラリ。\nFetch API互換の`proxyFetch`、WebSocket Upgrade向けの`proxyUpgrade`、`createProxyServer`を提供する。\nUnix Socket、`changeOrigin`、`xfwd`、リダイレクトやCookieの書き換えに対応している。",
+            "tags": [
+                "nodejs",
+                "HTTP",
+                "WebSocket",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
