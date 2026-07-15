@@ -233,6 +233,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-15T15:03:29.452Z",
+            "title": "Blume — fast, AI-ready, markdown-first docs",
+            "url": "https://useblume.dev/",
+            "content": "Markdown/MDXからドキュメントサイトを生成するツール。\n`blume init`/`blume dev`/`blume build`などのCLIを提供し、AstroとViteを使って静的HTMLを生成する。\n検索、OpenAPI/AsyncAPIから生成できるAPIリファレンス、`llms.txt`、MCPサーバ、Ask AIなどの機能を持つ。",
+            "tags": [
+                "Tools",
+                "Markdown",
+                "document",
+                "AI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
