@@ -269,6 +269,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-19T07:04:49.438Z",
+            "title": "Nuxt 4.5 · Nuxt Blog",
+            "url": "https://nuxt.com/blog/v4-5",
+            "content": "Nuxt v4.5.0リリース。\nVite 8/Rspack 2/Rsbuildへの更新、実験的なSSR Streaming、Stable Error Codesの追加。\n`useLayout`、Named Views、`useFetch`/`useAsyncData`に`enabled`オプションを追加。\n`import.meta.envName`、`tracingChannel`の追加など。\nあわせて2026年7月31日サポートが終了するNuxt 3の最終リリースが公開されている。",
+            "tags": [
+                "Vue",
+                "vite",
+                "rspack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
