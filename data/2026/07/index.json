@@ -258,6 +258,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-19T06:58:48.346Z",
+            "title": "pnpm 11.11-11.14 | pnpm",
+            "url": "https://pnpm.io/blog/releases/11.11-11.14",
+            "content": "pnpm 11.11-11.14の変更点について。\n`pnpm change`/`pnpm lane`/`pnpm version -r`によるworkspaceのリリース管理を追加。\n`pnpm doctor`、`pnpm access`、`pnpm team`コマンドを追加。\n`overrides`の`\"pkg@\"`形式をサポート、`pnpm run --sequential`の追加。\n`pnpm install`のpath traversal脆弱性、peer dependency解決のdeadlock、cold-cache解決時のメモリ使用量を修正。",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
