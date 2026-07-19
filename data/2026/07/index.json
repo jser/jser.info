@@ -284,10 +284,10 @@
             "relatedLinks": []
         },
         {
-            "date": "2026-07-19T07:06:32.878Z",
+            "date": "2026-07-19T07:07:40.949Z",
             "title": "Errors worth reading - nostics",
             "url": "https://nostics.dev/",
-            "content": "ライブラリのエラー表示を構造化するTypeScriptライブラリ。\nエラーコードに対応する理由/修正方法の定義、ソース位置、ドキュメントURLを持つ`Diagnostic`オブジェクトを定義できる。\nNuxtで利用されている",
+            "content": "ライブラリのエラーコードを管理するTypeScriptライブラリ。\nエラーコードに対応する理由/修正方法の定義、ソース位置、ドキュメントURLを持つ`Diagnostic`オブジェクトを定義できる。\nNuxtで利用されている",
             "tags": [
                 "TypeScript",
                 "library"
