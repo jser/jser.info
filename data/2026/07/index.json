@@ -293,6 +293,25 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-19T08:21:24.000Z",
+            "title": "Markstream: Streaming Markdown renderers for AI apps",
+            "url": "https://markstream.simonhe.me/",
+            "content": "AIチャット向けのストリーミングMarkdownレンダラー。\n未完成のMarkdownを逐次レンダリングでき、Vue/React/Svelte/Angular向けパッケージとNuxt/Next.jsの統合ドキュメントを提供する。\nMermaid、KaTeX、Shiki/Monacoによるコード表示、SSRに対応している。",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "Markdown",
+                "library",
+                "AI"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Simon-He95/markstream-vue: Multi-framework streaming Markdown renderers for AI apps",
+                    "url": "https://github.com/Simon-He95/markstream-vue"
+                }
+            ]
         }
     ]
 }
