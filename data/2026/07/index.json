@@ -293,6 +293,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-22T09:18:05.451Z",
+            "title": "Type-Aware Linting Stable | The JavaScript Oxidation Compiler",
+            "url": "https://oxc.rs/blog/2026-07-22-type-aware-linting-stable",
+            "content": "OxlintのType-Aware Linting Stableリリース。\ntsgolint v7.0.2000はTypeScript v7.0.2に対応する形でバージョンをTypeScriptと合わせる。\n`options.typeAware`/`options.typeCheck`、`--type-check`、`--debug timings`に対応など",
+            "tags": [
+                "TypeScript",
+                "ESLint",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
