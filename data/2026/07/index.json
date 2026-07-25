@@ -305,6 +305,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-25T09:23:05.985Z",
+            "title": "Webpack 5.109 | webpack",
+            "url": "https://webpack.js.org/blog/2026-07-24-webpack-5-109/",
+            "content": "webpack 5.109リリース。\nCSS、HTML、TypeScript、WebAssemblyのネイティブサポートがデフォルトで有効に。\n`output.html`で`title`/`meta`/`base`、`output.resourceHints`をサポート。\n`import.meta.glob`/`import.meta.resolve`、CommonJSのModule Concatenationをサポート。\n`infrastructureLogging.progress`、Workletのbundle、CSSの`@custom-media`などのサポートも追加。\nwebpack-dev-server 6.0.0も同時に公開し、Express 5への更新、Node.js 22.15.0以上が必要になるなど。",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
