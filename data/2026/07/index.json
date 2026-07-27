@@ -316,6 +316,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-27T15:47:33.153Z",
+            "title": "octanejs/octane: Octane is an incredibly efficient React replacement UI library with improved developer ergonomics",
+            "url": "https://github.com/octanejs/octane",
+            "content": "Infernoの後継となるReactのHooksやSuspenseに近いモデルをコンパイルして動かすUIライブラリ。\nVirtual DOMを使わず、TSX/TSRXをサポートし、Vite/Rspack/Rsbuild向けプラグインを提供する。\n条件付きHooksや依存配列なしの`useEffect`、SSR/Streaming SSRなどに対応している。",
+            "tags": [
+                "React",
+                "JavaScript",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
