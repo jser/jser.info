@@ -328,6 +328,18 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-28T00:42:47.604Z",
+            "title": "Nuxt Security Patch Releases · Nuxt Blog",
+            "url": "https://nuxt.com/blog/v4-5-security",
+            "content": "Nuxt v4.5.1とv3.21.10リリース。\n`vue.runtimeCompiler`とServer Islandsの組み合わせによるRCE、`routeRules`の認可バイパス、Server ComponentsのDoSを修正。\n`cache`/`swr`/`isr`を使うNuxt 4の_payload.jsonのキャッシュ問題、DevToolsのRCEなども修正。",
+            "tags": [
+                "Vue",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
