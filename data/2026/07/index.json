@@ -340,6 +340,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-07-31T13:37:40.706Z",
+            "title": "Release v1.62.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.62.0",
+            "content": "Playwright v1.62.0リリース。\nComponent TestingがStory/Galleryモデルへ変更。\n`AbortSignal`による操作のキャンセル、`.webp`のスクリーンショットをサポート、`Reporter.preprocess()`を追加。\n`retryStrategy: \"isolated\"`、`apiResponse.timing()`、Playwright MCPをCLIに含めるように変更など",
+            "tags": [
+                "playwright",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
