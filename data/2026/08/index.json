@@ -11,6 +11,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-08-02T01:12:34.839Z",
+            "title": "Ember 7.1 Released",
+            "url": "https://blog.emberjs.com/ember-released-7-1/",
+            "content": "Ember.js 7.1リリース。\n`{{element}}`/`{{and}}`/`{{or}}`/`{{eq}}`などのビルトインヘルパーを追加。\nstrict templateで`{{on}}`/`{{fn}}`/`{{hash}}`/`{{array}}`などの自動importに対応など",
+            "tags": [
+                "Ember",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
