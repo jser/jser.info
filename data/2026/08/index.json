@@ -22,6 +22,23 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-08-02T01:15:36.771Z",
+            "title": "vercel-labs/scriptc: TypeScript-to-Native Compiler",
+            "url": "https://github.com/vercel-labs/scriptc",
+            "content": "TypeScriptをネイティブ実行ファイルへコンパイルするコンパイラ。\nTypeScript Compiler APIで型チェックし、Typed IRをLLVM/Cバックエンドでネイティブコードへコンパイルする。\nquickjs-ngを使った動的なJSのライブラリを扱う仕組みも持っている。",
+            "tags": [
+                "TypeScript",
+                "compiler",
+                "Tools"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Limitations | scriptc",
+                    "url": "https://scriptc.dev/limitations"
+                }
+            ]
         }
     ]
 }
