@@ -39,6 +39,17 @@
                     "url": "https://scriptc.dev/limitations"
                 }
             ]
+        },
+        {
+            "date": "2026-08-02T12:50:52.290Z",
+            "title": "pnpm 11.15-11.19 | pnpm",
+            "url": "https://pnpm.io/blog/releases/11.15-11.19",
+            "content": "pnpm 11.15から11.19までの変更点について。\n`pnpm update`/`pnpm outdated`のGitHub Actions更新対応、`pnpm update --changeset`の追加。\n`update`/`audit`設定、`publishConfig.name`、`save-prefix`の`=`サポートを追加。\n`pnpm self-update`がプロジェクト設定を参照しないように変更、TTYなしの`pnpm login`に対応など",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
