@@ -1,0 +1,16 @@
+{
+    "list": [
+        {
+            "date": "2026-08-02T00:58:58.853Z",
+            "title": "npm publish-time malware scanning and dual-use metadata - GitHub Changelog",
+            "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata/",
+            "content": "npmのpublish時のマルウェアスキャンとdual-use content向けメタデータについて。\npublishされたパッケージはスキャン後にインストール可能となり、結果に応じて公開、手動レビュー、ブロックされる。\nマルウェアと誤認される可能性があるパッケージは`package.json`の`contentPolicy`と`DISCLOSURE`ファイルでdual-use contentを宣言する仕組みを追加。\n宣言したパッケージは2FAを強制するtrusted publishing、対話的なpublish、staged publishingで公開する必要がある。",
+            "tags": [
+                "npm",
+                "security",
+                "article"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
