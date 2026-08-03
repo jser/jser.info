@@ -50,6 +50,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-08-03T23:59:37.568Z",
+            "title": "Cloudflare Workers and Containers now support inbound TCP connections and gRPC | The Cloudflare Blog",
+            "url": "https://blog.cloudflare.com/grpc-workers/",
+            "content": "Cloudflare WorkersとContainersのInbound TCP/gRPC対応について。\nWorkers Runtimeに`connect(socket)`ハンドラを追加し、Spectrum経由のTCPソケットをWorkerで受け取れる。\nDurable ObjectsからContainersのTCPポートへ転送し、Container上のgRPCサーバで双方向ストリーミングを扱える。\n`@connectrpc/connect`とgRPC-web変換により、WorkerだけでUnary/Server StreamingのgRPC APIを扱える。",
+            "tags": [
+                "cloudflare",
+                "JavaScript",
+                "server",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
