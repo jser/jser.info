@@ -107,6 +107,23 @@
                     "url": "https://tanstack.com/charts/latest"
                 }
             ]
+        },
+        {
+            "date": "2026-08-04T01:27:10.435Z",
+            "title": "Next.js 16.3 | Next.js",
+            "url": "https://nextjs.org/blog/next-16-3",
+            "content": "Next.js 16.3リリース。\nInstant Navigationsとして`cacheComponents`と`partialPrefetching`によるナビゲーションの改善を追加。\n`import.meta.glob`のサポート、Web StreamをNode.js Streamに書き換えることでのパフォーマンス改善など。\n実験的な機能としてTurbopackにFileSystem Cachingとメモリ解放のオプションを追加、RustベースのReact Compilerのサポート、`useOffline`の追加など",
+            "tags": [
+                "Next.js",
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Release v16.3.0 · vercel/next.js",
+                    "url": "https://github.com/vercel/next.js/releases/tag/v16.3.0"
+                }
+            ]
         }
     ]
 }
