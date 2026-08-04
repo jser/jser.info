@@ -76,6 +76,19 @@
                 "stream"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-08-04T01:12:53.462Z",
+            "title": "v1.20.0 | React Aria",
+            "url": "https://react-aria.adobe.com/releases/v1-20-0",
+            "content": "React Aria Components v1.20.0リリース。\nPopoverをhover/focus/long pressで表示する`PreviewTrigger`、テキスト入力中に補完を扱う`TokenField` alphaを追加。\n`MenuTrigger`に`trigger=\"contextMenu\"`を追加、`useKeyboard`のショートカットAPIを改善。\nTable内でTextFieldなどの対話的なコンポーネントのサポートなど",
+            "tags": [
+                "React",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
