@@ -89,6 +89,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-08-04T01:17:28.597Z",
+            "title": "TanStack/charts: A tiny TypeScript visualization grammar for responsive, accessible, server-rendered charts—powered by granular D3 primitives.",
+            "url": "https://github.com/TanStack/charts",
+            "content": "D3ベースチャートライブラリ。\n`defineChart`でフレームワーク非依存のチャート定義を書き、React/Vue/Solid/Svelteなどのアダプタで描画できる。\nSVG SSR、Canvasレンダラー、アクセシビリティ、レスポンシブレイアウトを扱うランタイムを含む。",
+            "tags": [
+                "JavaScript",
+                "SVG",
+                "graphic",
+                "library"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "TanStack Charts",
+                    "url": "https://tanstack.com/charts/latest"
+                }
+            ]
         }
     ]
 }
