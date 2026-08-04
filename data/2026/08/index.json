@@ -124,6 +124,17 @@
                     "url": "https://github.com/vercel/next.js/releases/tag/v16.3.0"
                 }
             ]
+        },
+        {
+            "date": "2026-08-04T14:12:30.160Z",
+            "title": "Node.js — Node.js 26.6.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v26.6.0",
+            "content": "Node.js v26.6.0リリース。\n`ffi.getCurrentEventLoop()`の追加、`node:test`に`context.log()`と`test:log`イベントを追加。\n`TestStream`イベントに`entryFile`を追加、npm 11.18.0へのアップデートなど。",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
