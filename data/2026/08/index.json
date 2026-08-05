@@ -160,6 +160,25 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-08-05T02:38:30.133Z",
+            "title": "SolidStart v2 is now Stable · solidjs/solid-start · Discussion #2281",
+            "url": "https://github.com/solidjs/solid-start/discussions/2281",
+            "content": "SolidStart v2リリース。\nVite Environment APIを使ったclient/serverビルドに移行している。\nNitro v3/Cloudflare Vite pluginなどのデプロイプラグインとの連携をサポート。\nNode.js 24以上が必要となり、設定ファイル`vite.config.ts`への移行が必要となる",
+            "tags": [
+                "Solid",
+                "JavaScript",
+                "vite",
+                "ReleaseNote",
+                "nodejs"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migrating from v1 - SolidStart",
+                    "url": "https://docs.solidjs.com/solid-start/v2/migrating-from-v1"
+                }
+            ]
         }
     ]
 }
