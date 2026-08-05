@@ -146,6 +146,20 @@
                 "stream"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-08-05T00:22:30.138Z",
+            "title": "vlt 1.0 & Hosted Package Registries | vlt /vōlt/",
+            "url": "https://www.vlt.io/blog/1-0",
+            "content": "vlt 1.0リリース。\nvltのHosted Package RegistriesがGA。\nGraph ModifiersとCatalogsを追加。\n`vlt install`と`vlt build`によるPhased installations、OIDC trusted publishingに対応。\nHosted Package Registriesはnpm registryと互換性があるためnpm/pnpm/yarn/Bun/Denoから利用でき、マルウェアのブロックに対応している。",
+            "tags": [
+                "vlt",
+                "npm",
+                "package",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
