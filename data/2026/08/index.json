@@ -179,6 +179,22 @@
                     "url": "https://docs.solidjs.com/solid-start/v2/migrating-from-v1"
                 }
             ]
+        },
+        {
+            "date": "2026-08-11T05:27:41.757Z",
+            "title": "firecrawl/anydoc: Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+            "url": "https://github.com/firecrawl/anydoc",
+            "content": "Office文書やPDFをGitHub Flavored Markdownへ変換するRust製ライブラリ。\nWord/PowerPoint/Excel/OpenDocument/RTF/EPUB/CSV/PDFに対応し、Node.js/Python/WebAssembly向けのバインディングを提供する。\nファイル内容から形式を判定し、`toMarkdown`/`toMarkdownBytes`/`toDocument`などのAPIやCLIから利用できる。",
+            "tags": [
+                "Rust",
+                "Markdown",
+                "PDF",
+                "nodejs",
+                "python",
+                "library",
+                "WebAssembly"
+            ],
+            "relatedLinks": []
         }
     ]
 }
