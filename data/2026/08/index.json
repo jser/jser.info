@@ -195,6 +195,19 @@
                 "WebAssembly"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-08-15T07:09:13.627Z",
+            "title": "Release v1.7.0 · video-dev/hls.js",
+            "url": "https://github.com/video-dev/hls.js/releases/tag/v1.7.0",
+            "content": "hls.js v1.7.0リリース。\nTypeScriptの型定義を厳密化。\n`hls.createIFramePlayer()`によるiframe playlistの再生、CMCD v2のサポートを追加。\n`hls.nextAudioTrack`、`abrSwitchInterval`、`appendTimeout`などを追加",
+            "tags": [
+                "HLS",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
