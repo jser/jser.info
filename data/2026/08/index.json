@@ -208,6 +208,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-08-15T07:22:33.519Z",
+            "title": "Release 3.50.0 - 2026.08.05 · zloirock/core-js",
+            "url": "https://github.com/zloirock/core-js/releases/tag/v3.50.0",
+            "content": "core-js v3.50.0リリース。\n`Iterator.zip`/`Iterator.zipKeyed`をStable ESとして追加、`Iterator.prototype.chunks`/`windows`がStage 3に移動。\nStage 3 Proposalとして`Iterator.prototype.includes`/`join`、`Promise.allKeyed`/`Promise.allSettledKeyed`を追加など",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
