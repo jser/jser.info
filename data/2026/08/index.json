@@ -220,6 +220,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-08-15T07:28:58.931Z",
+            "title": "Release v2.0.0 RC - The Big <Reveal> · solidjs/solid",
+            "url": "https://github.com/solidjs/solid/releases/tag/v2.0.0-rc.0",
+            "content": "Solid v2.0.0 RCリリース。\n非同期の値をリアクティブグラフで扱うモデルに変更。\n`createResource`/`batch`/`startTransition`/`useTransition`などを削除。\nOXCベースのRust製コンパイラを導入。\n`@solidjs/vite-plugin`の`start: true`でVite上のSPA/SSR/Server Functionsを扱えるように。\nSolidStartはメンテナンスへ移行し、Start modeが代替となる。",
+            "tags": [
+                "Solid",
+                "JavaScript",
+                "ReleaseNote",
+                "vite"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "From Solid 1.x",
+                    "url": "https://v2.solidjs.com/migration/from-solid-1"
+                }
+            ]
         }
     ]
 }
