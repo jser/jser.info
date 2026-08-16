@@ -252,6 +252,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-08-16T23:31:13.841Z",
+            "title": "Plumeria - Zero-cost abstraction layer",
+            "url": "https://plumeria.dev/",
+            "content": "Reactコンポーネント向けのZero RuntimeなCSS-in-JSライブラリ。\nTypeScriptのオブジェクトでスタイルを定義し、ビルド時に`classStyle`を`className`へ変換する。ファイル間の依存を解決してからCSSを生成することで、RuntimeのJSを少なくしている。",
+            "tags": [
+                "React",
+                "css",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
