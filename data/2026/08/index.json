@@ -238,6 +238,20 @@
                     "url": "https://v2.solidjs.com/migration/from-solid-1"
                 }
             ]
+        },
+        {
+            "date": "2026-08-16T11:55:18.715Z",
+            "title": "Release Notes for Safari Technology Preview 250 | WebKit",
+            "url": "https://webkit.org/blog/18191/release-notes-for-safari-technology-preview-250/",
+            "content": "Safari Technology Preview 250リリース。\nCSSの`ruby-overhang: spaces`のサポート。。\n`using`/`await using`、`Iterator.zip()`/`Iterator.zipKeyed()`をサポート。\n`fetch()`での`ReadableStream`アップロード、WebAssemblyのrelaxed SIMD/multiple memoriesをサポートなど",
+            "tags": [
+                "safari",
+                "browser",
+                "css",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
