@@ -290,6 +290,20 @@
                 "MCP"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-08-18T13:42:02.410Z",
+            "title": "celld: self-hosted, distributed Durable Objects",
+            "url": "https://celld.dev/",
+            "content": "Cloudflare WorkersとDurable Objects互換のAPIの実装。\nLTXとS3互換ストレージで分散Durable Objectsを実現している。",
+            "tags": [
+                "cloudflare",
+                "JavaScript",
+                "server",
+                "database",
+                "OpenSource"
+            ],
+            "relatedLinks": []
         }
     ]
 }
