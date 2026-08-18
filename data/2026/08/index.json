@@ -304,6 +304,25 @@
                 "OpenSource"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-08-18T13:45:48.972Z",
+            "title": "Firefox 154.0, See All New Features, Updates and Fixes",
+            "url": "https://www.firefox.com/en-US/firefox/154.0/releasenotes/",
+            "content": "Firefox 154.0リリース。\nCSSの`text-box-trim`/`text-box-edge`、`sibling-index()`/`sibling-count()`をサポート。\n`<input type=\"time\">`の時間選択UI、`No-Vary-Search`、`Iterator.prototype.chunks`/`windows`/`includes()`/`join`をサポート。\n実験的な機能として、CSSの`line-clamp`、`progress()`、CSS Typed Object Model APIのサポート",
+            "tags": [
+                "Firefox",
+                "browser",
+                "css",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 154 release notes for developers (Stable) - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/154"
+                }
+            ]
         }
     ]
 }
