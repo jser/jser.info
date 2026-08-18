@@ -276,6 +276,20 @@
                 "monorepo"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-08-18T13:19:39.173Z",
+            "title": "Better Auth 1.7",
+            "url": "https://better-auth.com/blog/1-7",
+            "content": "Better Auth 1.7リリース。\n破壊的な変更として、`oidcProvider`プラグインを削除し、`@better-auth/oauth-provider`へ移動。\nMCP認証は`@better-auth/mcp`へ移動し、SCIM Groups/Device Authorizationのサポートなど",
+            "tags": [
+                "TypeScript",
+                "library",
+                "ReleaseNote",
+                "OAuth",
+                "MCP"
+            ],
+            "relatedLinks": []
         }
     ]
 }
