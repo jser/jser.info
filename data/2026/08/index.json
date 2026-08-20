@@ -323,6 +323,18 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/154"
                 }
             ]
+        },
+        {
+            "date": "2026-08-20T14:30:44.192Z",
+            "title": "Bun 1.4 | Bun Blog",
+            "url": "https://bun.com/blog/bun-v1.4",
+            "content": "Bun v1.4リリース。\nZigからRustへの書き換え、Node.js互換性の改善、メモリ/CPU使用量や起動速度の改善。\n`bun dedupe`/`bun prune`/`bun audit fix`の追加。\n`bun test --timings`で実行時間ベースのshardingのサポート、React Compilerの対応、`bun build --asset`でディレクトリ指定に対応。\n`Bun.serve()`のHTTP/3、`fetch()`のHTTP/2とHTTP/3、静的ファイル配信に対応。",
+            "tags": [
+                "Bun",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
