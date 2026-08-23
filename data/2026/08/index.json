@@ -335,6 +335,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-08-23T05:07:16.448Z",
+            "title": "React Compiler Support | The JavaScript Oxidation Compiler",
+            "url": "https://oxc.rs/blog/2026-08-18-react-compiler-support",
+            "content": "OxcのReact Compilerサポートについての記事。\nReact公式のRustポートはASTの形式が異なるため、OxC独自のRustポートを作成している。\nOxlintにReact Compilerベースの22個のルールを追加、`oxc-transform-react`でReact Compilerによる自動メモ化を扱える。",
+            "tags": [
+                "JavaScript",
+                "React",
+                "article",
+                "Rust"
+            ],
+            "relatedLinks": []
         }
     ]
 }
