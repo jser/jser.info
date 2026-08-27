@@ -348,6 +348,17 @@
                 "Rust"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-08-27T12:05:09.777Z",
+            "title": "pnpm 12.0 | pnpm",
+            "url": "https://pnpm.io/blog/releases/12.0",
+            "content": "pnpm 12.0リリース。\nRustで書き直した安定版、pnpm 11のコマンド/設定/lockfile形式は引き継ぐ。\nGitHub/GitLab/BitbucketのGit依存は正規化したHTTPS URLでlockfileに記録するように変更。\n`pnpm-workspace.yaml`の未知の設定を報告するように、`globalShims`によるproject-aware global bins、package managerのインストールに対応。\nRegistry revisions、`pnpm update --patches`、`pnpm stage approve`の一括承認を追加など",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
