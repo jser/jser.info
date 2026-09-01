@@ -56,6 +56,25 @@
                     "url": "https://zod.dev/blog/reducing-memory-footprint"
                 }
             ]
+        },
+        {
+            "date": "2026-09-01T14:23:59.634Z",
+            "title": "minitype – TypeScript ライブラリとして動作するヘッドレス組版エンジン",
+            "url": "https://typeset.jp/",
+            "content": "TypeScriptライブラリとして動作するヘッドレス組版エンジン。\nTypeScriptのコードで文書構造とスタイルを定義し、PDFやPNGを生成できる。\n禁則処理、縦組み、ルビ、ハイフネーション、段組み、フロート配置などを扱える。",
+            "tags": [
+                "TypeScript",
+                "JavaScript",
+                "library",
+                "PDF",
+                "japanese"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "minitype – TypeScript ライブラリとして動作するヘッドレス組版エンジン",
+                    "url": "https://typeset.jp/"
+                }
+            ]
         }
     ]
 }
