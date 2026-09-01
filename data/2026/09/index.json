@@ -25,6 +25,19 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-09-01T14:14:54.037Z",
+            "title": "htmx 4.0.0 has been released! ~ htmx",
+            "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+            "content": "htmx 4.0.0リリース。\n属性の継承を`:inherited`で明示するように変更、イベント名を`htmx:phase:action`形式へ整理。\n履歴キャッシュは`localStorage`を使わずに再取得する形へ変更。\nXHRから`fetch()`ベースの実装へ移行し、Morph Swap、`<hx-partial>`、`hx-preload`/`hx-download`の追加など",
+            "tags": [
+                "JavaScript",
+                "HTML",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
