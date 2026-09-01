@@ -38,6 +38,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-09-01T14:19:59.935Z",
+            "title": "Zod 4.5",
+            "url": "https://zod.dev/blog/zod-4-5",
+            "content": "Zod 4.5リリース。\n`z.compile()`によるスキーマの事前コンパイル、`z.creditCard()`/`z.properties()`の追加。\n`z.deepPartial()`/`.exactPartial()`、`z.validate()`、`z.input()`/`z.output()`、`z.toZod<T>()`の追加。\n`z.iso.datetime()`で秒を必須に変更、文字列の長さをCode Pointでカウントするように変更、`__proto__`を常に取り除くように変更など",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Reducing Zod's memory footprint by an order of magnitude with method memoization",
+                    "url": "https://zod.dev/blog/reducing-memory-footprint"
+                }
+            ]
         }
     ]
 }
