@@ -86,6 +86,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-09-01T14:42:43.285Z",
+            "title": "Node.js — Node.js 24.20.0 (LTS)",
+            "url": "https://nodejs.org/en/blog/release/v24.20.0",
+            "content": "Node.js v24.20.0(LTS)リリース。\n`AsyncLocalStorage`への`using` scopeの追加、`Buffer`に`end`パラメータの追加。\n`permission.drop()`/`--permission-audit`、package maps、`node:stream/iter`を追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
