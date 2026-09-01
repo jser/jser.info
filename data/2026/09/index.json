@@ -75,6 +75,17 @@
                     "url": "https://typeset.jp/"
                 }
             ]
+        },
+        {
+            "date": "2026-09-01T14:37:58.088Z",
+            "title": "Announcing Rspack 2.2 - Rspack",
+            "url": "https://rspack.rs/blog/announcing-2-2",
+            "content": "Rspack 2.2リリース。\nHMRの改善、Browserslistのベースラインクエリをサポート。Rspack固有のモジュール変数を`import.meta`で公開するように変更。\nRsbuildでは、Node.jsビルドでsplit chunksをデフォルトで有効化、Solid v2をサポート。\nRslibがTypeScript 7をサポートなど",
+            "tags": [
+                "rspack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
