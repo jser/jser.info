@@ -12,6 +12,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-09-01T14:11:02.890Z",
+            "title": "Release v2.0.1: Aube's own global home, leaner resolver, and dramatically lower install memory · jdx/aube",
+            "url": "https://github.com/jdx/aube/releases/tag/v2.0.1",
+            "content": "Aube v2リリース。\n`aube add -g`のインストール先をpnpmのディレクトリからAubeのdata rootへ変更。\n`lowest-direct`を`ResolutionMode::LowestDirect`として公開APIに追加、`aube store prune --dry-run --json`の構造化出力を追加。\n`aube pack`/`aube publish`での`catalog:`解決など。",
+            "tags": [
+                "nodejs",
+                "package",
+                "Rust",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
