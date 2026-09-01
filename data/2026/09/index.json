@@ -1,0 +1,17 @@
+{
+    "list": [
+        {
+            "date": "2026-09-01T14:06:02.246Z",
+            "title": "Release v4.0.0 · plotly/plotly.js",
+            "url": "https://github.com/plotly/plotly.js/releases/tag/v4.0.0",
+            "content": "plotly.js 4.0.0リリース。\nNode.js 22未満のサポート終了、`scattermapbox`/`choroplethmapbox`/`densitymapbox`を削除。\n`mapboxAccessToken`の削除、MathJax v2サポート終了しv3/v4をサポート、色処理ライブラリをculoriへ変更など",
+            "tags": [
+                "JavaScript",
+                "chart",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
+        }
+    ]
+}
