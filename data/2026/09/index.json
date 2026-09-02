@@ -109,6 +109,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-09-02T14:04:00.374Z",
+            "title": "Electron 44 | Electron",
+            "url": "https://www.electronjs.org/blog/electron-44-0",
+            "content": "Electron 44リリース。\nChromium 152.0.7977.54、Node.js v24.18.1、V8 15.2へアップデート。\nmacOS 12/Windows 32-bit/Linux ARM 32-bitのサポート終了、rendererからの`clipboard`直接利用を削除。\n`clipboard`の非同期API化、`windowStatePersistence`、`net.WebSocket`を追加。\n`webContents.setZoomMode()`、`webFrameMain.printToPDF()`、Linuxの`win.setOpacity()`などを追加。",
+            "tags": [
+                "Electron",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
