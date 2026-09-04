@@ -120,6 +120,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-09-04T01:16:18.173Z",
+            "title": "Vitest 5.0 is out! | Vitest",
+            "url": "https://vitest.dev/blog/vitest-5.html",
+            "content": "Vitest 5.0リリース。\nデフォルトの挙動の変更として`clearMocks`の有効化、ネストしたプロジェクトで設定をデフォルトで継承するように変更、locatorがstrict matchするように変更。\nBenchmarking APIの書き直し、Browser Modeの`browser.traceView`追加、`vi.when`の追加。\n`vitest doctor`、`--repeats`、`coverage.autoAttachSubprocess`の追加など。",
+            "tags": [
+                "JavaScript",
+                "vite",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Migration Guide | Guide | Vitest",
+                    "url": "https://vitest.dev/guide/migration/"
+                }
+            ]
         }
     ]
 }
