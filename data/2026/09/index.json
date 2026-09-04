@@ -138,6 +138,19 @@
                     "url": "https://vitest.dev/guide/migration/"
                 }
             ]
+        },
+        {
+            "date": "2026-09-04T01:58:41.496Z",
+            "title": "How Turbopack chunks your JavaScript | Next.js",
+            "url": "https://nextjs.org/blog/turbopack-chunking",
+            "content": "TurbopackのChunk分割アルゴリズムについて。\nChunkのマージによるリクエスト数と転送量のトレードオフについて解説されている。\nNext.js 16.3の`generateComponentChunks`では、ビルド時にはChunk GroupとChunkを生成する。Runtimeでナビゲーション時に生成されたChunk GroupとChunkどちらか効率的かを判断してロードしている。\nまた`firstPageLoadPriority`/`priorityRoutes`/`clusters`による調整やCommonJSの対応についてなど。",
+            "tags": [
+                "Next.js",
+                "JavaScript",
+                "article",
+                "performance"
+            ],
+            "relatedLinks": []
         }
     ]
 }
