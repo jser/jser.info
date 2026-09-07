@@ -151,6 +151,24 @@
                 "performance"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-09-07T23:27:50.622Z",
+            "title": "davideast/pyric: Firebase tooling for the agent era",
+            "url": "https://github.com/davideast/pyric",
+            "content": "Firebaseアプリをローカルで動かすための開発フレームワーク/エミュレータ。\nViteプラグインで`firebase/*`のimportをブラウザ内のローカルバックエンドへ差し替える。\nAuth/Firestore/Security Rulesを扱い、Pyric StudioやMCP bridgeで状態の確認や操作ができる。",
+            "tags": [
+                "JavaScript",
+                "Tools",
+                "vite",
+                "MCP"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Rules standard library reference · Pyric Studio",
+                    "url": "https://pyric.dev/docs/trust/rules-standard-library/"
+                }
+            ]
         }
     ]
 }
