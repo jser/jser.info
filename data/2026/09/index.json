@@ -169,6 +169,18 @@
                     "url": "https://pyric.dev/docs/trust/rules-standard-library/"
                 }
             ]
+        },
+        {
+            "date": "2026-09-09T00:25:11.730Z",
+            "title": "Release v1.63.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.63.0",
+            "content": "Playwright v1.63.0リリース。\n共有リソースを使うテストの排他実行を扱う`lock`、表示要素だけに絞る`locator.visible()`を追加。\n`page.frameLocator()`でフレームをまたいだLocator検索に対応。\n`trace`に`snapshots`オプションを追加、`locator.ariaSnapshotJSON()`を追加など",
+            "tags": [
+                "playwright",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
