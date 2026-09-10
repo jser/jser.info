@@ -181,6 +181,27 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-09-10T12:46:02.035Z",
+            "title": "Firefox 155.0, See All New Features, Updates and Fixes",
+            "url": "https://www.firefox.com/en-US/firefox/155.0/releasenotes/",
+            "content": "Firefox 155.0リリース。\nCSSの`attr()`/`progress()`/`alpha()`、HTTP/3でのQUIC v2をサポート。\nWebAssembly Compact Import Section/Wide Arithmeticをサポート。\n開発者ツールでは`prefers-reduced-motion`のエミュレーション、JSON Lines表示、ブレークポイント切り替えショートカットを追加。\n`mailto:`リンクはユーザー操作時のみ開くように変更など",
+            "tags": [
+                "Firefox",
+                "browser",
+                "ReleaseNote",
+                "css",
+                "WebAssembly",
+                "HTTP3",
+                "WebRTC"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Firefox 155 release notes for developers (Stable) - Mozilla | MDN",
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/155"
+                }
+            ]
         }
     ]
 }
