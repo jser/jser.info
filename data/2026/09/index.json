@@ -202,6 +202,18 @@
                     "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/155"
                 }
             ]
+        },
+        {
+            "date": "2026-09-10T12:48:16.664Z",
+            "title": "Fixing Top-Level Await in Safari | WebKit",
+            "url": "https://webkit.org/blog/18227/fixing-top-level-await-in-safari/",
+            "content": "Safari 27/Safari Technology Preview 251でのTop-Level Awaitの修正について。\nSafariのModule LoaderをJavaScript実装からC++実装へ書き直し、ECMAScript仕様に沿って、Top-Level Awaitに対応した",
+            "tags": [
+                "safari",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
