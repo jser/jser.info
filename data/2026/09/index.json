@@ -226,6 +226,23 @@
                 "news"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-09-12T02:43:20.136Z",
+            "title": "React 19.3 – React",
+            "url": "https://react.dev/blog/2026/09/09/react-19-3",
+            "content": "React 19.3リリース。\n`<ViewTransition>`とFragment RefsがStable化、`browser()`とTrusted Typesのサポートを追加。\n`react-dom`にブラウザかを判定する`browser()`を追加、Trusted Types APIのサポート。\nServer Componentsで`<Context>`を直接レンダリングできるように変更、`onFullscreenChange`/`maskType`のサポートなど。",
+            "tags": [
+                "React",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "react/CHANGELOG.md at main · react/react",
+                    "url": "https://github.com/react/react/blob/main/CHANGELOG.md#1930-september-9-2026"
+                }
+            ]
         }
     ]
 }
