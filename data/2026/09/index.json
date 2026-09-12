@@ -243,6 +243,26 @@
                     "url": "https://github.com/react/react/blob/main/CHANGELOG.md#1930-september-9-2026"
                 }
             ]
+        },
+        {
+            "date": "2026-09-12T09:53:26.079Z",
+            "title": "pnpm 12.4 | pnpm",
+            "url": "https://pnpm.io/blog/releases/12.4",
+            "content": "pnpm 12.4リリース。\n`python.enabled`/`cargo.enabled`によるPython/Cargo依存関係の管理を追加(pnpm自体がRustで書かれるようになったため)。\n`pnpm pipeline`、`trustPolicyExcludePrune`、`pnpm change check`の追加など。",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "RFC: Cargo ecosystem — pnpm for Rust crates, pnpr as a crate registry by zkochan · Pull Request #34 · pnpm/rfcs",
+                    "url": "https://github.com/pnpm/rfcs/pull/34"
+                },
+                {
+                    "title": "Track multi-ecosystem install architecture hardening · Issue #14566 · pnpm/pnpm",
+                    "url": "https://github.com/pnpm/pnpm/issues/14566"
+                }
+            ]
         }
     ]
 }
