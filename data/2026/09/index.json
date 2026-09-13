@@ -263,6 +263,19 @@
                     "url": "https://github.com/pnpm/pnpm/issues/14566"
                 }
             ]
+        },
+        {
+            "date": "2026-09-13T06:05:16.017Z",
+            "title": "Zod 4.6",
+            "url": "https://zod.dev/blog/zod-4-6",
+            "content": "Zod 4.6リリース。\n`.validate()`/`.validateAsync()`の追加、`z.instanceof().properties()`の追加。\n`z.fromJSONSchema()`で`minProperties`/`uniqueItems`などのJSON Schemaキーワードに対応。\n`z.iban()`、`z.withParser()`の追加、CommonJSでの`require(\"zod\")`経由の呼び出しの改善など",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
