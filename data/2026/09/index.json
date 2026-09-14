@@ -276,6 +276,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-09-14T15:06:25.276Z",
+            "title": "Webpack 5.111 | webpack",
+            "url": "https://webpack.js.org/blog/2026-09-14-webpack-5-111/",
+            "content": "webpack 5.111リリース。\nESM出力がStableとなり`experiments.outputModule`なしで`output.module`を利用可能に。\n`output.copy`、ブラウザターゲットに合わせたCSS最小化の設定として`lowerUnsupported`/`colorFallbacks`の追加。\n`acorn`/`neo-async`への依存を削除など。",
+            "tags": [
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
