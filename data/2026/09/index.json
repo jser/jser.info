@@ -305,6 +305,18 @@
                     "url": "https://frontend-conf.fukuoka.jp/2026"
                 }
             ]
+        },
+        {
+            "date": "2026-09-15T03:07:16.411Z",
+            "title": "shadcn-ui/lint: An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
+            "url": "https://github.com/shadcn-ui/lint",
+            "content": "Tailwindデザインシステム向けのLintツール。\nESLint/Oxlint向けに提供され、Tailwind v4プロジェクトで利用できる。\n`no-restyle`/`no-raw-colors`/`no-arbitrary-values`などのルールで、コンポーネントごとのclassName利用を制限できる。",
+            "tags": [
+                "css",
+                "ESLint",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
