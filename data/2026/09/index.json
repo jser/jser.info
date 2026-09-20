@@ -317,6 +317,19 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-09-20T13:52:57.405Z",
+            "title": "fallow-rs/fallow: Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift. Optional paid runtime layer (Fallow Runtime): hot-path review and cold-path deletion evidence from real production traffic.",
+            "url": "https://github.com/fallow-rs/fallow",
+            "content": "TypeScript/JavaScript向けの静的解析ツール。\n未使用コード、循環依存、重複コード、複雑度、アーキテクチャ境界違反、CSSのスタイル差分を検出する。\n`fallow audit`で変更ファイルに対するPRゲートを実行でき、`--format json`でJSON出力に対応する。",
+            "tags": [
+                "TypeScript",
+                "JavaScript",
+                "Tools",
+                "lint"
+            ],
+            "relatedLinks": []
         }
     ]
 }
