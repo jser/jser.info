@@ -330,6 +330,24 @@
                 "lint"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-09-21T05:18:13.347Z",
+            "title": "Release v3.0.0 · pmndrs/jotai",
+            "url": "https://github.com/pmndrs/jotai/releases/tag/v3.0.0",
+            "content": "Jotai v3.0.0リリース。\nReact 18/TypeScript 5.5/Node.js 22.12.0以上が必要となり、CJS/UMD/SystemJSビルドを削除。\n`atomFamily`/`loadable`/`jotai/babel`/`setSelf`/`delay`オプションを削除。\n`useAtomValueRaw`と`useAtomValueRawSync`を追加など",
+            "tags": [
+                "React",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "jotai/docs/guides/migrating-to-v3.mdx at main · pmndrs/jotai",
+                    "url": "https://github.com/pmndrs/jotai/blob/main/docs/guides/migrating-to-v3.mdx"
+                }
+            ]
         }
     ]
 }
