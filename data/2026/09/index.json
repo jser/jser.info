@@ -361,6 +361,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-09-21T11:47:00.524Z",
+            "title": "lovablelabs/oj: An experimental Rust-native build tool for React apps.",
+            "url": "https://github.com/lovablelabs/oj",
+            "content": "Reactアプリ向けのRust製ビルドツール。\nV8を組み込んだ単一の実行バイナリとして動作する。\nVite/Rollup互換のプラグイン、SSR、TanStack Startに対応し、`oj dev`と`oj build`で開発サーバとビルドを実行できる。\n",
+            "tags": [
+                "Rust",
+                "React",
+                "Tools",
+                "vite"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Faster previews, soon powered by OJ | Lovable",
+                    "url": "https://lovable.dev/blog/faster-previews-oj"
+                }
+            ]
         }
     ]
 }
