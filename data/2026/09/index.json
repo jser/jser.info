@@ -348,6 +348,19 @@
                     "url": "https://github.com/pmndrs/jotai/blob/main/docs/guides/migrating-to-v3.mdx"
                 }
             ]
+        },
+        {
+            "date": "2026-09-21T05:39:54.467Z",
+            "title": "What's New in Apollo Client 4.3 - Apollo GraphQL Blog",
+            "url": "https://www.apollographql.com/blog/whats-new-in-apollo-client-4-3",
+            "content": "Apollo Client 4.3リリース。\n`Scalar`によるCustom Scalarsのシリアライズ/デシリアライズ、`TypeOverrides`によるCache型の上書きに対応。\n`@defer`/`@stream`のIncremental Dataの型改善、`useSubscription`での`skipToken`サポートなど",
+            "tags": [
+                "JavaScript",
+                "GraphQL",
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
