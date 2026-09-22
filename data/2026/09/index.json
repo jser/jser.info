@@ -379,6 +379,19 @@
                     "url": "https://lovable.dev/blog/faster-previews-oj"
                 }
             ]
+        },
+        {
+            "date": "2026-09-22T12:11:49.136Z",
+            "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+            "url": "https://linear.app/now/ci-bottleneck-reworked",
+            "content": "LinearでのCI改善として、`tsgo`への移行、ESLintルールを型情報に依存しないように変更。\nまた、サードパーティランナーと`actions/checkout`の調整、pnpmの依存インストール範囲の限定、Vitestのshard分割や`isolate: false`の導入などについて",
+            "tags": [
+                "CI",
+                "testing",
+                "article",
+                "TypeScript"
+            ],
+            "relatedLinks": []
         }
     ]
 }
