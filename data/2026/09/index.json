@@ -392,6 +392,17 @@
                 "TypeScript"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-09-23T06:20:39.194Z",
+            "title": "pnpm 12.6 | pnpm",
+            "url": "https://pnpm.io/blog/releases/12.6",
+            "content": "pnpm 12.6リリース。\n`autoDedupe`による依存関係の重複排除、\n`pnpm add --save-types`、Catalogsでの`file:`/`link:`をサポート。\n`pnpm tasks status`の追加、`pnpm cache prune --dry-run`の追加など。",
+            "tags": [
+                "pnpm",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
