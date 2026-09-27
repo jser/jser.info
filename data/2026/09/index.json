@@ -415,6 +415,21 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-09-27T11:31:55.241Z",
+            "title": "WebKit Features for Safari 27.0 | WebKit",
+            "url": "https://webkit.org/blog/18325/webkit-features-for-safari-27-0/",
+            "content": "Safari 27.0のWebKitの変更点について。\nSafari MCP、`<select>`のカスタマイズ、`<modal>`要素のサポート、`<img sizes=\"auto\">`のサポート。\nWebAssembly JSPI、Service Worker Static Routing API、WebGPUの`clip_distances`をサポート。\nJavaScriptのESM LoaderをECMAScript仕様に沿ってC++で再実装、Top-Level Awaitの挙動を修正。",
+            "tags": [
+                "safari",
+                "browser",
+                "WebAssembly",
+                "JavaScript",
+                "css",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
