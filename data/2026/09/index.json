@@ -430,6 +430,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-09-28T05:44:07.856Z",
+            "title": "unjs/upm: 📦 A fast, tiny package manager for the npm registry, written in TypeScript.",
+            "url": "https://github.com/unjs/upm",
+            "content": "TypeScriptで書かれたnpmレジストリ向けのパッケージマネージャ。\nパッケージサイズが小さく、プログラムから実行できるAPIを持っている",
+            "tags": [
+                "TypeScript",
+                "npm",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
