@@ -1,0 +1,22 @@
+{
+    "list": [
+        {
+            "date": "2026-10-03T04:09:44.781Z",
+            "title": "Preact 11 – Preact",
+            "url": "https://preactjs.com/blog/preact-11/",
+            "content": "Preact 11.0.0リリース。\n破壊的な変更として、`.mjs`のESM配布のみとなりCommonJS/UMDバンドルを削除、`render()`の第3引数を削除。\n`Hydration 2.0`、`Object.is`によるHook引数の比較、`forwardRef`を不要な形変更、`createPortal`のcoreへの追加など。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote",
+                "React"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Upgrading from Preact 10.x – Preact Guide v11",
+                    "url": "https://preactjs.com/guide/v11/upgrade-guide/"
+                }
+            ]
+        }
+    ]
+}
