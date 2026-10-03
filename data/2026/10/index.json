@@ -30,6 +30,21 @@
                 "css"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-03T05:21:41.255Z",
+            "title": "tester-army/e2e: Next generation e2e testing framework for web and mobile apps.",
+            "url": "https://github.com/tester-army/e2e",
+            "content": "Webとモバイルアプリ向けのE2Eテストフレームワーク。\n自然言語で書いた手順をエージェントが実行し、LocatorとAssertionで結果を検証できる。\nWebはPlaywright経由でChromium/Firefox/WebKit、モバイルはiOS/Androidに対応している。",
+            "tags": [
+                "E2E",
+                "testing",
+                "library",
+                "web",
+                "mobile",
+                "AI"
+            ],
+            "relatedLinks": []
         }
     ]
 }
