@@ -17,6 +17,19 @@
                     "url": "https://preactjs.com/guide/v11/upgrade-guide/"
                 }
             ]
+        },
+        {
+            "date": "2026-10-03T05:11:35.394Z",
+            "title": "Responsive iframes in Chrome 154  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/responsive-iframes?hl=en",
+            "content": "Chrome 154で追加されたレスポンシブな`iframe`の解説記事。\n`frame-sizing: content-height`で、埋め込み先の内容に合わせてサイズ調整できる。\n埋め込まれる側の`responsive-embedded-sizing`メタタグ、window.requestResize()`、Cross-Origin対応についても解説している。",
+            "tags": [
+                "Chrome",
+                "browser",
+                "HTML",
+                "css"
+            ],
+            "relatedLinks": []
         }
     ]
 }
