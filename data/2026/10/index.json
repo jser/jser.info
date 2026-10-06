@@ -61,6 +61,19 @@
                 "linux"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-06T00:50:44.704Z",
+            "title": "rauchg/gdp-ts",
+            "url": "https://github.com/rauchg/gdp-ts/tree/main",
+            "content": "TypeScript向けのGhosts of Departed Proofsを実装するライブラリ。\n`name()`で値にコンパイル時の名前を付け、`defineProof()`で認可チェックの結果を型として扱い、関数側で`_proof`引数を受け取って認可チェック済みの型かをチェックする。",
+            "tags": [
+                "TypeScript",
+                "security",
+                "library",
+                "lint"
+            ],
+            "relatedLinks": []
         }
     ]
 }
