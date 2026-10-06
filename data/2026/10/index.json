@@ -74,6 +74,18 @@
                 "lint"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-06T23:55:00.632Z",
+            "title": "Next.js 16.4 | Next.js",
+            "url": "https://nextjs.org/blog/next-16-4",
+            "content": "Next.js 16.4リリース。\n`create-next-app`でCache Componentsがデフォルトで有効化、`ensureStatic`/`navigation()`/`prefetch()`を追加。\n`next upgrade --agent`と`experimental.agentUpgrade`、`experimental.agentFeedback`を追加。\nTurbopackのディスクキャッシュ削減、Lazy server HMR、Turbopackの共有Runtime。\nCSS Modulesでproductionビルドでは短いクラス名で生成するように変更、React 19.3への更新など。",
+            "tags": [
+                "Next.js",
+                "React",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
