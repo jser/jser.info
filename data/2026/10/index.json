@@ -86,6 +86,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-07T12:25:53.060Z",
+            "title": "Panda CSS 2.0 | Panda CSS Blog - Panda CSS",
+            "url": "https://panda-css.com/blog/panda-css-v2",
+            "content": "Panda CSS 2.0リリース。\nESMのみとなりNode.js 22以上が必要、`hooks`を`plugins`へ移動。\n`createStyleContext`を`createSlotRecipeContext`/`createRecipeContext`へ分割。\nRustとOxcでコンパイラを書き直し、`panda lib`と`designSystem`によるデザインシステムの配布に対応。\n`viewTransition()`/`firstThatWorks()`/`keyframes()`/`positionTry()`を追加。\n`panda doctor`/`panda analyze`/`panda debug`、ESLintプラグインを正式サポートなど",
+            "tags": [
+                "css",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
