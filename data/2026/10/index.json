@@ -98,6 +98,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-08T01:59:40.719Z",
+            "title": "Node.js — Node.js 26.11.0 (Current)",
+            "url": "https://nodejs.org/en/blog/release/v26.11.0",
+            "content": "Node.js v26.11.0リリース。\n`isLatin1`/`Buffer.stringLength()`、`http.isValidHeaderName()`/`http.isValidHeaderValue()`を追加。\n`http2`の`connectionWindowSize`、`histogram.diff()`/`histogram.snapshot()`、`--process-timeout=N`を追加。\n`process.ref()`/`process.unref()`がStable化、npm 11.20.0へ更新など。",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
