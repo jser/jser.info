@@ -109,6 +109,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-08T14:18:31.936Z",
+            "title": "Release 3.0.0 · qunitjs/qunit",
+            "url": "https://github.com/qunitjs/qunit/releases/tag/3.0.0",
+            "content": "QUnit 3.0.0リリース。\nNode.js 16以下/PhantomJS/AMD向けビルトインexport/`QUnit.load()`などを削除。\nネイティブESM配布、`before`/`after`フックのmodule context、`QUnit.config.reporters.html`を追加。\nデフォルトのテストタイムアウトを3秒に変更、HTML Reporterのデザイン刷新など。",
+            "tags": [
+                "JavaScript",
+                "library",
+                "ReleaseNote",
+                "test"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "QUnit 3.0 Upgrade Guide | QUnit",
+                    "url": "https://qunitjs.com/upgrade-guide-3.x/"
+                }
+            ]
         }
     ]
 }
