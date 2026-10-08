@@ -109,6 +109,26 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-08T07:49:00.000Z",
+            "title": "Do npm packages work on Node.js, Bun and Deno? We built a tool to find out.",
+            "url": "https://compatlab.me/articles/npm-package-compatibility-node-bun-deno",
+            "content": "固定したNode.js、Bun、Denoでnpmパッケージの読み込みを検証するCompatLabの紹介。\nExpress、Preact、Zod、Convexの結果と、未導入のオプショナルpeer依存や未検証exportsなどの制約を説明している。機能の正しさを検証するテストではない。",
+            "tags": [
+                "nodejs",
+                "Bun",
+                "Deno",
+                "npm",
+                "testing",
+                "article"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "siddiksawani/CompatLab",
+                    "url": "https://github.com/siddiksawani/CompatLab"
+                }
+            ]
         }
     ]
 }
