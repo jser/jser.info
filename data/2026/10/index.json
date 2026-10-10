@@ -127,6 +127,18 @@
                     "url": "https://qunitjs.com/upgrade-guide-3.x/"
                 }
             ]
+        },
+        {
+            "date": "2026-10-10T06:24:12.035Z",
+            "title": "Bun v1.4.3 | Bun Blog",
+            "url": "https://bun.com/blog/bun-v1.4.3",
+            "content": "Bun v1.4.3リリース。\nTypeScriptの型チェックを行う`bun check`を追加し、`bun run --check`/`bun test --check`/`bun build --check`に対応。\n`--disallow-code-generation-from-string`の追加、`bun build --compile --bytecode-order`のサポートなど",
+            "tags": [
+                "Bun",
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
