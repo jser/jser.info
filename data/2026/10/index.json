@@ -139,6 +139,24 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-14T01:00:55.694Z",
+            "title": "Deno is joining Cloudflare | Deno",
+            "url": "https://deno.com/blog/cloudflare",
+            "content": "CloudflareがDenoを買収。\nDenoランタイムは開発終了し1年間メンテナンスを行う、Deno Deployは6か月後に終了、JSRはCloudflareへ移行して継続する。\n今後はWorkersとDurable Objectsのプラットフォームに注力し、`celld`と`workerd`を統合する予定。",
+            "tags": [
+                "deno",
+                "cloudflare",
+                "JavaScript",
+                "news"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Deno is joining Cloudflare | Cloudflare Blog",
+                    "url": "https://blog.cloudflare.com/deno-joins-cloudflare"
+                }
+            ]
         }
     ]
 }
