@@ -170,6 +170,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-15T06:14:47.120Z",
+            "title": "Scrolling is All You Need: Building a Swipeable Sheet | React Aria",
+            "url": "https://react-aria.adobe.com/blog/sheet",
+            "content": "React Ariaのスワイプ操作で閉じられるSheetコンポーネントの実装について。\nCSS Scroll Snapと`view-timeline`を使い、JavaScriptでタッチイベントを処理せずにスワイプ操作と連動したアニメーションを実現する。\n途中の位置で停止するスナップポイント、シートの重ね合わせ、ソフトウェアキーボードへの対応についても解説している。",
+            "tags": [
+                "React",
+                "css",
+                "UI",
+                "animation",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
