@@ -157,6 +157,19 @@
                     "url": "https://blog.cloudflare.com/deno-joins-cloudflare"
                 }
             ]
+        },
+        {
+            "date": "2026-10-15T02:15:54.062Z",
+            "title": "TanStack Start 1.0 is Stable | TanStack Blog",
+            "url": "https://tanstack.com/blog/tanstack-start-1-0",
+            "content": "TanStack Start 1.0リリース。\nTanStack Routerを基盤とするReact/Solid向けのフルスタックフレームワーク。\nSSR/ストリーミング、型付きサーバ関数の`createServerFn`、実行環境ごとに処理を切り替える`createIsomorphicFn`を提供する。",
+            "tags": [
+                "TanStack",
+                "React",
+                "Solid",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
