@@ -144,7 +144,7 @@
             "date": "2026-10-14T01:00:55.694Z",
             "title": "Deno is joining Cloudflare | Deno",
             "url": "https://deno.com/blog/cloudflare",
-            "content": "CloudflareがDenoを買収。\nDenoランタイムは開発終了し1年間メンテナンスを行う、Deno Deployは6か月後に終了、JSRはCloudflareへ移行して継続する。\n今後はWorkersとDurable Objectsのプラットフォームに注力し、`celld`と`workerd`を統合する予定。",
+            "content": "CloudflareがDenoを買収。\nDenoランタイムは1年間の不具合修正・セキュリティ更新を行った後、Denoチームによる開発を終了する、Deno Deployは6か月後に終了、JSRはCloudflareへ移行して継続する。\n今後はWorkersとDurable Objectsのプラットフォームに注力し、`celld`と`workerd`を統合する予定。",
             "tags": [
                 "deno",
                 "cloudflare",
