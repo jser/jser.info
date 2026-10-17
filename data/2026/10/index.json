@@ -209,6 +209,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-17T03:08:16.107Z",
+            "title": "vercel-labs/tsc-ts: TypeScript written in TypeScript",
+            "url": "https://github.com/vercel-labs/tsc-ts",
+            "content": "TypeScript-Go（tsgo）をTypeScriptに移植した実験的なコンパイラ。\nscriptcを使ってネイティブコードにコンパイルし、npmパッケージとして配布している。\n`tsc-ts -p tsconfig.json`でプロジェクトをコンパイルでき、`--api`で標準入出力を使うAPIサーバーとしても動作する。",
+            "tags": [
+                "TypeScript",
+                "compiler",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
