@@ -221,6 +221,18 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-18T06:17:55.278Z",
+            "title": "Unload event deprecated in Chrome  |  Blog  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/blog/unload-deprecated-in-chrome",
+            "content": "Chrome 155で`unload`イベントの非推奨化が完了し、デフォルトでは発火しなくなった。\nイベントの信頼性やBFCacheへの影響、段階的な適用の経緯について解説している。\nPermissions PolicyやChrome Enterpriseの設定によるオプトアウトは引き続き利用できる。",
+            "tags": [
+                "Chrome",
+                "JavaScript",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
