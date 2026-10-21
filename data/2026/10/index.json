@@ -268,6 +268,18 @@
                 "SVG"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-21T22:47:38.049Z",
+            "title": "Node.js — 2026年10月21日（水）セキュリティリリース",
+            "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+            "content": "Node.js 22.23.4/24.22.1/26.12.1のセキュリティリリース。\n重要度Highを含む10件の脆弱性を修正。\n`dns.resolve`でのNUL文字による名前の切り詰め、TLS証明書のホスト名検証の回避、Brotliデコーダーの領域外書き込みを修正。\n`crypto.randomUUID()`と`crypto.randomInt()`の乱数キャッシュがスナップショットに保存される問題を修正。\n`fs.realpathSync`によるPermission Modelの回避などを修正。\nまた、c-ares/Undici/OpenSSL/SQLiteなどの依存関係を更新。",
+            "tags": [
+                "nodejs",
+                "security",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
