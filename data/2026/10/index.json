@@ -244,6 +244,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-21T12:53:14.710Z",
+            "title": "Nuxt 4.6 · Nuxt Blog",
+            "url": "https://nuxt.com/blog/v4-6",
+            "content": "Nuxt v4.6.0リリース。\n同梱のNuxt CLI v4で`nuxt init`を削除し、`npm create nuxt@latest`に統一。\nサーバー処理の共通APIとなる`nuxt/server`、`runtimeConfig.appSecret`とセッション管理APIを追加。\n`experimental.routeTypedFetch`で`$fetch`/`useFetch`の型推論を刷新し、型チェックのパフォーマンスを改善。\nVue Vaporとの相互運用、`createUseFetch`/`createUseAsyncData`の`addons`、実験的な`@nuxt/vite-server`を追加。\n`my-bad`による開発時のエラー表示、`nuxt dev`の対話パネル、`nuxt curl`/`nuxt task`コマンドを追加など",
+            "tags": [
+                "Vue",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
