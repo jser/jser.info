@@ -233,6 +233,17 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-21T05:39:33.732Z",
+            "title": "Announcing TypeScript 7.1 Beta - TypeScript",
+            "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta/",
+            "content": "TypeScript 7.1 Betaリリース。\nAmbient ModulesにおけるImport Attributesをサポート、`import source`/`import.source()`に対応。\n`--target es2026`/`--lib es2026`を追加、`Promise.allKeyed`などの型定義を追加。\n`typescript/sync`/`typescript/async`などの新しいAPI、埋め込みコードを扱うContent Mappersを追加など",
+            "tags": [
+                "TypeScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
