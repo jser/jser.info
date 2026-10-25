@@ -280,6 +280,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-25T08:14:55.644Z",
+            "title": "WebKit Features for Safari 27.1 | WebKit",
+            "url": "https://webkit.org/blog/18486/webkit-features-for-safari-27-1/",
+            "content": "Safari 27.1リリース。\niPhone Duo向けにDevice Posture APIとViewport Segments APIを機能フラグ付きで試験的にサポート。\n`device-posture`メディアクエリや`navigator.devicePosture`で折りたたみ状態を取得できる。\n`window.viewport.segments`やCSS環境変数で画面の分割領域を取得できる。",
+            "tags": [
+                "safari",
+                "browser",
+                "css",
+                "WebAPI",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
