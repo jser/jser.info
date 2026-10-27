@@ -306,6 +306,19 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-27T14:44:45.196Z",
+            "title": "Release vite-plus v1.4.0 · voidzero-dev/vite-plus",
+            "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v1.4.0",
+            "content": "Vite+ 1.4.0リリース。\n`vpx`でTypeScript/JavaScriptファイルの実行と`--watch`による監視に対応、`vp migrate`でtsxからの移行をサポート。\n`vp check --deny-warnings`、レジストリのチームを管理する`vp pm team`を追加。\nグローバルCLIの依存関係をリリースごとのロックファイルからインストールするように変更など",
+            "tags": [
+                "vite",
+                "CLI",
+                "Tools",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
