@@ -294,6 +294,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-27T14:39:21.795Z",
+            "title": "Release v10.0.0-beta.0 · TypeStrong/ts-loader",
+            "url": "https://github.com/TypeStrong/ts-loader/releases/tag/v10.0.0-beta.0",
+            "content": "ts-loader v10.0.0-beta.0リリース。\nTypeScript 7.1以上/Node.js 22以上を必須とし、コンパイル処理を`typescript/sync` APIへ移行。\n`compilerOptions`/`context`/`happyPackMode`などのローダーオプションを削除している。",
+            "tags": [
+                "TypeScript",
+                "webpack",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
