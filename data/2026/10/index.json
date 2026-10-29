@@ -319,6 +319,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-29T05:28:53.746Z",
+            "title": "Node.js — Node.js 26.13.0 (LTS)",
+            "url": "https://nodejs.org/en/blog/release/v26.13.0",
+            "content": "Node.js v26.13.0リリース。\nNode.js 26系がコードネームLithiumとしてLTSに移行し、2029年4月末までサポートされる。\nNode.js 25以降のLinux公式バイナリは`libatomic`にリンクされており、古いLTSからの更新時には別途インストールを必要とする場合がある。",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
