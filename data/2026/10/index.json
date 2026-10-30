@@ -330,6 +330,17 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-10-30T01:02:24.516Z",
+            "title": "Node.js — Node.js 27.0.0-alpha.0.0.0 (Alpha)",
+            "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.0.0",
+            "content": "Node.js v27.0.0-alpha.0.0.0リリース。\n破壊的変更として、ヒープ上限の既定値を変更し、`Buffer`/`ArrayBuffer`のメモリも上限に算入するように変更。\n`v8.serialize()`の出力形式を変更し、旧バージョンでの読み込みに非対応となる。\nV8 15.6へアップデートと`Math.sumPrecise()`/`Iterator.zip()`などをサポート。\n`node:vfs`のフラグなしに変更、環境変数へのアクセスを制御する`--allow-env`を追加、実験的な`net/promises` APIの追加など",
+            "tags": [
+                "nodejs",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
