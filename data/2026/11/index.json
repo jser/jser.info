@@ -26,6 +26,20 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-11-06T23:52:58.263Z",
+            "title": "Add streaming HTML insertion methods by noamr · Pull Request #12758 · whatwg/html",
+            "url": "https://github.com/whatwg/html/pull/12758?overview=true",
+            "content": "HTMLをストリーミングで解析し、DOMへ段階的に挿入するAPIをHTML仕様に。\n`Element.streamHTML()`/`streamAppendHTML()`などが`WritableStream`を返し、Streamへ書き込まれたHTML文字列をHTMLとして挿入する。\n危険な要素や属性を除去するメソッドと、除去を既定で行わない`Unsafe`版を用意する。",
+            "tags": [
+                "HTML",
+                "DOM",
+                "WebAPI",
+                "WHATWG",
+                "spec"
+            ],
+            "relatedLinks": []
         }
     ]
 }
