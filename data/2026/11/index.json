@@ -12,6 +12,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-11-06T05:24:59.342Z",
+            "title": "Rebuilding the global town square from scratch",
+            "url": "https://blog.x.com/en/engineering/rebuilding-the-global-town-square-from-scratch",
+            "content": "X.comのWebアプリを再構築した背景と移行方法について。\nReact/Relay/Fastifyなどを使い、利用者/検索クローラー/リンクプレビュー向けに分かれていた3つのサーバーを統合。\nStreaming HTML、GraphQLレスポンスの再利用、JavaScriptの分割や読み込み順序の調整によるパフォーマンス改善。\nAIコーディングエージェントを使った開発と、既存サーバーを仕様として利用するテスト、国ごとの段階的な移行についても解説している。",
+            "tags": [
+                "React",
+                "SSR",
+                "performance",
+                "AI",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
