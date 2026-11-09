@@ -40,6 +40,18 @@
                 "spec"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-11-09T00:19:29.033Z",
+            "title": "Release v1.65.0 · microsoft/playwright",
+            "url": "https://github.com/microsoft/playwright/releases/tag/v1.65.0",
+            "content": "Playwright v1.65.0リリース。\n破壊的変更として、TypeScriptのクラスフィールドが`useDefineForClassFields`に従うように変更、クリックなどの操作で`inert`の解除を待つように変更。\nCookieの照合をRFC 6265に合わせ、`APIRequestContext`の`params`を既存のクエリに追記するように変更。\n`bunx --bun playwright test`でBun上でのテスト実行に対応、`failures`レポーターと`onlyFailures`オプションを追加。\nテストを単独で実行する`lock: '-exclusive-'`、`cdpSession.send()`の`timeout`/`signal`オプションを追加など",
+            "tags": [
+                "playwright",
+                "testing",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
