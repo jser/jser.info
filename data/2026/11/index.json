@@ -52,6 +52,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-11-10T06:48:14.762Z",
+            "title": "expo/exact",
+            "url": "https://github.com/expo/exact",
+            "content": "Web/macOS/iOS/Linux向けのクロスプラットフォームアプリケーションランタイム。\n宣言的なContract言語でUIを定義し、TypeScriptまたはRustでデータ処理を記述する。\nWebではDOM、macOSではAppKit、iOSではUIKitを使って描画する。",
+            "tags": [
+                "Rust",
+                "TypeScript",
+                "UI",
+                "AI",
+                "Tools"
+            ],
+            "relatedLinks": []
         }
     ]
 }
