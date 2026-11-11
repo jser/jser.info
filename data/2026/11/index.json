@@ -66,6 +66,20 @@
                 "Tools"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-11-11T13:16:29.528Z",
+            "title": "Prettier 3.10: New Flow syntax, new JavaScript syntax, and new plugin powered by Yuku · Prettier",
+            "url": "https://prettier.io/blog/2026/11/11/3.10.0",
+            "content": "Prettier 3.10リリース。\nYukuを使った公式プラグイン`@prettier/plugin-yuku`を追加し、`yuku`/`yuku-ts`パーサを提供。\nFlowのテンプレートリテラル型や`in out`のvariance annotationのサポート。\nECMAScript ProposalのStructs/Import Sync/Deferred re-exportsプロポーザルをサポート。\nUTF-8 BOM付き設定ファイルの読み込みに対応、コメントの多いファイルの整形や`.editorconfig`の読み込みのパフォーマンスを改善。",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "Tools",
+                "ReleaseNote",
+                "flowtype"
+            ],
+            "relatedLinks": []
         }
     ]
 }
