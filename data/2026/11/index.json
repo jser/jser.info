@@ -80,6 +80,24 @@
                 "flowtype"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-11-12T05:06:54.685Z",
+            "title": "Modern Web Guidance  |  Chrome for Developers",
+            "url": "https://developer.chrome.com/docs/modern-web-guidance?hl=ja",
+            "content": "AIコーディングエージェント向けに、Web開発の実装指針やブラウザ互換性データを提供するスキル集。\n`modern-web-guidance` CLIで導入でき、AI Agentから利用できる。\nCSSやWeb APIの活用、既存コードの移行、セキュリティやパフォーマンスの改善に関するガイドを提供する。",
+            "tags": [
+                "AI",
+                "Tools",
+                "web",
+                "document"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Dummy",
+                    "url": "http://example.com/"
+                }
+            ]
         }
     ]
 }
