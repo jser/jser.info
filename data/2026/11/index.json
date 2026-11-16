@@ -98,6 +98,21 @@
                     "url": "http://example.com/"
                 }
             ]
+        },
+        {
+            "date": "2026-11-16T05:00:48.439Z",
+            "title": "Data-Oriented Design in Yuku's Parser - Arshad Yaseen",
+            "url": "https://www.arshad.fyi/posts/yuku-parser.html",
+            "content": "Zig製のJavaScript/TypeScriptパーサーYukuのデータ指向設計について。\nASTのノードをポインタではなく配列のインデックスで参照する構造、作業用バッファの再利用、文字列のオフセット管理を解説している。\nまた、ArrayBufferを使ったASTの受け渡しと、JavaScript側のデコーダーの自動生成について紹介している。",
+            "tags": [
+                "JavaScript",
+                "TypeScript",
+                "Zig",
+                "AST",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
