@@ -113,6 +113,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-11-17T23:09:30.403Z",
+            "title": "Solid 2.0 - The Long Hold | Solid",
+            "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+            "content": "Solid 2.0リリース。\n破壊的な変更として、`createResource`/`batch`/`startTransition`などのAPIを削除、SolidStartを廃止。\n`createMemo`でPromiseや非同期イテレーターを扱えるようにし、`Loading`/`isPending`で読み込み状態を管理する。\nサーバ関数をコアに統合し、`live`でServer-Sent Eventsによる継続的なデータ受信に対応。\nReactiveScript/TSRXを実験的にサポート。",
+            "tags": [
+                "Solid",
+                "JavaScript",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
