@@ -139,6 +139,18 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-11-18T12:28:57.126Z",
+            "title": "jQuery 4.1.0 and 3.8.0 Released: Passing the Torch | Official jQuery Blog",
+            "url": "https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch/",
+            "content": "jQuery 4.1.0と3.8.0リリース。\n3.8.0は3.x系の最後の機能リリースで、今後は重大なセキュリティ問題と不具合の修正のみを行う。\n両バージョンでAJAXトランスポートの`completeCallback`にオブジェクトを渡すAPIを追加。\n4.1.0では`jqXHR.responseURL`の追加、`.serialize()`/`.serializeArray()`のフォーム関連カスタム要素への対応など。\n内部の要素取得を`querySelectorAll`に統一、`jQuery.uniqueSort`のパフォーマンスを改善。\n3.8.0では`hidden=\"until-found\"`に対応し、`push`/`sort`/`splice`などを非推奨化。",
+            "tags": [
+                "jQuery",
+                "ReleaseNote",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
