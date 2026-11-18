@@ -125,6 +125,20 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-11-18T01:20:23.203Z",
+            "title": "Faster type-aware linting with tsrs | The JavaScript Oxidation Compiler",
+            "url": "https://oxc.rs/blog/2026-11-17-faster-type-aware-linting-with-tsrs",
+            "content": "OxlintにRust版TypeScript実装のtsrsをバックエンドとして追加。\n型チェックとLintでTypeScriptの解析結果を共有し、処理速度とメモリ使用量を改善する。\n`tsrs`パッケージをインストールすると自動で利用され、`oxlint --type-aware --type-check`で型チェックも同時に実行できる。",
+            "tags": [
+                "TypeScript",
+                "Rust",
+                "lint",
+                "performance",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
