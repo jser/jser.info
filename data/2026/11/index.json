@@ -151,6 +151,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-11-19T04:24:59.282Z",
+            "title": "Words, from Pierre",
+            "url": "https://diffs.com/words",
+            "content": "WebAssemblyを使ったMarkdownのストリーミングレンダリングライブラリ。\nCommonMark/GFM/脚注に対応し、HTMLやANSI形式で出力できる。\nReactコンポーネントやDOM向けのAPIを提供し、ストリーミング中の不完全なMarkdownの補完にも対応している。",
+            "tags": [
+                "Markdown",
+                "WebAssembly",
+                "React",
+                "library"
+            ],
+            "relatedLinks": []
         }
     ]
 }
