@@ -164,6 +164,19 @@
                 "library"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-11-21T07:41:05.408Z",
+            "title": "Release v3.0.0 · foliojs/fontkit",
+            "url": "https://github.com/foliojs/fontkit/releases/tag/v3.0.0",
+            "content": "fontkit v3.0.0リリース。\nESM-onlyに変更し、Node.js 22以降、Firefox 115以降、Safari 16以降、Chrome 120以降を対象に変更。\nNode.jsとブラウザのビルドを分離し、Node.jsではネイティブの圧縮機能、ブラウザではfflateを利用。\n`fontkit/core`、`registerFormat`、`registerShaper`を追加し、必要なフォント形式や文字整形処理のみを登録できるように。",
+            "tags": [
+                "fonts",
+                "JavaScript",
+                "library",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
