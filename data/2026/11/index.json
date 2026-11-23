@@ -207,6 +207,17 @@
                     "url": "https://jsconf.jp/2026/ja"
                 }
             ]
+        },
+        {
+            "date": "2026-11-23T23:43:46.423Z",
+            "title": "Ladybird is now in alpha - Ladybird",
+            "url": "https://ladybird.org/posts/alpha/",
+            "content": "Ladybirdのアルファ版がmacOSとLinux向けに公開された。\n既存エンジンのフォークではなく、独自に開発したエンジンを使うブラウザ。\n自動更新に対応し、WebDriverによる自動テストとFirefox DevToolsプロトコルをサポートする。",
+            "tags": [
+                "browser",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
