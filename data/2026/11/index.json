@@ -177,6 +177,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-11-23T07:10:10.864Z",
+            "title": "pnpm 12.23.0 | pnpm",
+            "url": "https://pnpm.io/blog/releases/12.23.0",
+            "content": "pnpm 12.23.0リリース。\n`publishConfig.variants`のサポートを削除。\n`pnpm edit`/`pnpm catalog migrate`/`pnpm link --hard`の追加、`pnpm update --tag`のサポートなど。",
+            "tags": [
+                "pnpm",
+                "ReleaseNote",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
