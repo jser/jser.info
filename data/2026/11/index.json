@@ -218,6 +218,18 @@
                 "ReleaseNote"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-11-24T13:43:48.711Z",
+            "title": "Nuxt 4.7 · Nuxt Blog",
+            "url": "https://nuxt.com/blog/v4-7",
+            "content": "Nuxt v4.7.0リリース。\nNuxt DevToolsを同梱対象から分離し、`@nuxt/rspack-builder`と`<NuxtClientFallback>`を非推奨化。\n実験的な機能としてNitro v3の利用に対応、WebMCP対応、`<NuxtErrorBoundary>`のSSR対応、`experimental.staticRoutes`の追加など",
+            "tags": [
+                "Vue",
+                "ReleaseNote",
+                "security"
+            ],
+            "relatedLinks": []
         }
     ]
 }
