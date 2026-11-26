@@ -230,6 +230,17 @@
                 "security"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-11-26T12:08:11.617Z",
+            "title": "Vite 8.4 is out! | Vite",
+            "url": "https://vite.dev/blog/announcing-vite8-4",
+            "content": "Vite 8.4リリース。\n`server.fs.strict: 'extended'`と`server.fs.allow: []`による許可リスト方式のファイル配信チェックを追加。\n動的インポートの再試行時にCSSを再取得するように変更し、CSSの`url()`でサブパスインポートをサポート。\nCLIプロセスの重複検出と回避用の`--bypass-lock`、WebAssemblyのSource Phase Importsを追加。\nSSR向けのバンドル開発モードを実験的にサポート。",
+            "tags": [
+                "vite",
+                "ReleaseNote"
+            ],
+            "relatedLinks": []
         }
     ]
 }
