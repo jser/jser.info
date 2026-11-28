@@ -267,6 +267,24 @@
                 "article"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-11-28T13:44:34.296Z",
+            "title": "Nudeps",
+            "url": "https://nudeps.dev/",
+            "content": "npmパッケージをバンドラーやCDNなしでブラウザから利用するためのツール。\n依存パッケージを`client_modules/`のバージョン付きディレクトリにコピーし、Import Mapsを生成する。\nnpmのライフサイクルフックで依存関係の変更時に自動更新し、CSSや画像などのアセット、CommonJS、npm workspacesにも対応している。",
+            "tags": [
+                "npm",
+                " Tools",
+                "JavaScript",
+                "module"
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Nudeps: bundler-like imports, none of the baggage • Lea Verou",
+                    "url": "https://lea.verou.me/blog/2026/nudeps/"
+                }
+            ]
         }
     ]
 }
