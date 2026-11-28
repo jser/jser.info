@@ -254,6 +254,19 @@
                 "AI"
             ],
             "relatedLinks": []
+        },
+        {
+            "date": "2026-11-28T09:57:29.355Z",
+            "title": "Browser tabs as a container runtime | Farid Zakaria’s Blog",
+            "url": "https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime",
+            "content": "Chromiumのタブでコンテナを実行するOCIランタイムtabcについて。\nWebAssemblyにコンパイルしたLinuxカーネルを使うunkernelを利用し、コンテナごとにタブを作成する。",
+            "tags": [
+                "WebAssembly",
+                "Docker",
+                "Chromium",
+                "article"
+            ],
+            "relatedLinks": []
         }
     ]
 }
